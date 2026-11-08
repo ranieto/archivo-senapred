@@ -291,7 +291,7 @@
 	.version {
 		position: relative;
 		display: grid;
-		grid-template-columns: 0.8rem 1fr;
+		grid-template-columns: 0.8rem minmax(0, 1fr);
 		gap: 1rem;
 		padding-bottom: 1.4rem;
 	}
