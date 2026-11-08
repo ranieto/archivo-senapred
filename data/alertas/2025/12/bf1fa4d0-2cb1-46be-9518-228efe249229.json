@@ -1,0 +1,20 @@
+{
+	"id": "bf1fa4d0-2cb1-46be-9518-228efe249229",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Catemu por incendio forestal",
+	"fechaHora": "2025-12-27T15:01:42.4242-03:00",
+	"createdAt": "2025-12-27T18:05:30.873Z",
+	"updatedAt": "2025-12-27T21:28:28.755Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-catemu-por-incendio-forestal-2025-12-27-15-05-16",
+	"parentId": "6f9f48a3-7fc4-4897-8308-6b09792f9aa7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong><span style=\"color: rgb(0, 0, 0)\">respecto al incendio forestal en la&nbsp;</span><strong>comuna de Catemu,&nbsp;</strong><span style=\"color: rgb(0, 0, 0)\">se informa el siguiente detalle:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">San Carlos Alto</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">0.1 hectárea</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Cuerpo de Bomberos de Catemu</span></p><p><span style=\"color: rgb(0, 0, 0)\">4 brigadas, 1 técnico y 3 aeronaves CONAF</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Incendio se desarrolla cercano a sectores poblados.</span></p><p><span style=\"color: rgb(0, 0, 0)\">Se activó mensajería SAE para evacuación preventiva sector San Carlos Alto a las 14:26 horas de hoy.</span></p></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, </span><strong><span style=\"color: rgb(0, 0, 0)\">la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Catemu por incendio forestal</span></strong><span style=\"color: rgb(0, 0, 0)\">, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

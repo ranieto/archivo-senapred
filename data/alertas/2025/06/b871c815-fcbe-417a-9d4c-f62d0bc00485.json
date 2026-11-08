@@ -1,0 +1,20 @@
+{
+	"id": "b871c815-fcbe-417a-9d4c-f62d0bc00485",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para las provincias de Melipilla, Talagante y Chacabuco por evento meteorológico",
+	"fechaHora": "2025-06-18T12:13:20.2020-04:00",
+	"createdAt": "2025-06-18T16:14:09.475Z",
+	"updatedAt": "2025-06-18T16:14:23.140Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-10",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región Metropolitana, debido al debilitamiento de las condiciones que lo originaron.</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A228-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas asociadas a chubascos aislados en cordillera de la   costa.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento meteorológico para las provincias de Melipilla, Talagante y Chacabuco, </strong>que se manteníavigente desde el 10 de junio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

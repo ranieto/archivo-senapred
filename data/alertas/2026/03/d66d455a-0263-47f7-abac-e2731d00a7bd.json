@@ -1,0 +1,20 @@
+{
+	"id": "d66d455a-0263-47f7-abac-e2731d00a7bd",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Roja para la Comuna de San Fernando por incendio forestal",
+	"fechaHora": "2026-03-09T15:50:41.4141-03:00",
+	"createdAt": "2026-03-09T18:55:33.315Z",
+	"updatedAt": "2026-03-09T22:40:42.265Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-fernando-por-incendio-forestal-2026-03-09-15-11-30",
+	"parentId": "87b5bf66-82cc-4c45-97a5-245e6facd6d3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Ribera   Norte Tinguiririca</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4   (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4   compañías de bomberos de San Fernando, 1 cuerpo de bomberos de Placilla, 5 brigadas   de CONAF, 1 técnico de CONAF, 2 helicóptero de CONAF, 2 avión cisterna de   CONAF, 1 avión de coordinación, 1 avión de observación, y 1 camión cisterna de CONAF, puesto de   mando y retroexcavadora municipal</p></td></tr></tbody></table><p><br><br></p><p style=\"text-align:justify\">De acuerdo con la información técnica proporcionada por CONAF, activo y con una velocidad de propagación media-alta, intensidad del frente alta y longitud de llama alta se mantiene el incendio forestal.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de San Fernando, por incendio forestal, que se encuentra vigente desde el 09 de marzo de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "03495dfd-d2ad-4a5e-acd3-0ca854380446",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Quellón por evento meteorológico",
+	"fechaHora": "2023-12-17T12:10:26.2626-03:00",
+	"createdAt": "2023-12-17T15:11:58.157Z",
+	"updatedAt": "2023-12-17T15:13:16.202Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quellon-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Quellón\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos</strong>, existe una normalización en los niveles de los ríos Mataderos y Pitiguin, en la comuna de Quellón, dejando de presentar amenaza de desborde.<br></p><p style=\"text-align:justify\">Cabe señalar que, 7 viviendas resultaron con daño menor, situación que ya se encuentra superada.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED,<strong> cancela la Alerta Amarilla por evento meteorológico para la comuna de Quellón, </strong>que se mantuvo vigente desde el 15 de diciembre de 2023.</p><p style=\"text-align:justify\">Cabe señalar, que la Región de Los Lagos se mantiene con Alerta Temprana Preventiva por tormentas eléctricas, vigente desde el 13 de diciembre de 2023. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

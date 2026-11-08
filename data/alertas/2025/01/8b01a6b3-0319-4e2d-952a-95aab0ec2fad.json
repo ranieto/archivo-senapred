@@ -1,0 +1,20 @@
+{
+	"id": "8b01a6b3-0319-4e2d-952a-95aab0ec2fad",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2025-01-03T14:12:42.4242-03:00",
+	"createdAt": "2025-01-03T17:17:19.830Z",
+	"updatedAt": "2025-01-03T18:59:16.509Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-5",
+	"parentId": "4e938ccf-712d-4cb6-9eca-f63e60efd437",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), activo se encuentra el incendio forestal “Talhuén\", en la comuna de Ovalle, Región de Coquimbo.<br></p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Telhuén</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Ovalle</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>0,01 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>Compañía de Bomberos de Ovalle, 2 brigadas, 1 técnico, 1 helicóptero y 1 camión cisterna de CONAF.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Ovalle por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en<br>extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

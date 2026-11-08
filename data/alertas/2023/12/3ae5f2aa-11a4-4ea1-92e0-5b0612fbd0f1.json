@@ -1,0 +1,20 @@
+{
+	"id": "3ae5f2aa-11a4-4ea1-92e0-5b0612fbd0f1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Marchigüe por incendio forestal ",
+	"fechaHora": "2023-12-13T17:31:00.000-03:00",
+	"createdAt": "2023-12-13T20:36:19.138Z",
+	"updatedAt": "2023-12-13T20:37:06.719Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchige-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, con relación al incendio forestal registrado en la comuna de Marchigüe, se indica lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Yerbas Buenas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">107 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   se encuentra contenido en todos sus sectores, por lo que ya no presenta amenaza   a viviendas ni a la planta de energía fotovoltaica “PMGD Marchigüe”.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por incendio forestal para la comuna de Marchigüe</strong>, que se encontraba vigente desde hoy 13 de diciembre.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

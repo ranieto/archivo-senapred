@@ -1,0 +1,20 @@
+{
+	"id": "3d842d38-e9c6-4865-8e73-e1617ada71c4",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y Coquimbo   ",
+	"fechaHora": "2024-08-27T22:51:37.3737-04:00",
+	"createdAt": "2024-08-28T02:52:30.036Z",
+	"updatedAt": "2024-08-28T02:55:52.658Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-46",
+	"parentId": "1a3fcf3c-e703-471b-9150-96b52afc87c8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 22:45 horas en las regiones de Atacama y Coquimbo.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>IV</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>IV</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>IV</p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>III</p></td></tr><tr><td><p>Freirina:   </p></td><td><p>III</p></td></tr><tr><td><p>Huasco:   </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>III</p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.7 y se localizó a 49 Kms al Este de Alto del Carmen. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

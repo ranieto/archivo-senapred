@@ -1,0 +1,20 @@
+{
+	"id": "21c1bdd2-7dca-4e2c-b3d0-83b811bced3d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para las comunas de Paihuano y Vicuña por evento meteorológico",
+	"fechaHora": "2025-01-16T22:35:00.000-03:00",
+	"createdAt": "2025-01-17T01:40:29.788Z",
+	"updatedAt": "2025-01-17T12:43:34.664Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-paihuannio-y-vicuna-por-evento-meteorologico",
+	"parentId": "e7307b4c-259d-4ffe-a9bb-9c530babd687",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Paihuano, Vicuña\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, en relación con el evento meteorológico desarrollado entre la tarde de ayer 15 y la madrugada de hoy 16 de enero en el sector cordillerano de la Región de Coquimbo, se informa lo siguiente:</p><p style=\"text-align:justify\"><u>Comuna de Paihuano&nbsp; </u></p><p style=\"text-align:justify\"><span style=\"color:black\">3.200 personas se mantienen afectadas por una alteración en el suministro de agua potable, producto de la activación de la quebrada La Viga y daños en el Sistema Sanitario Rural (SSR) que mantiene comprometido el servicio en los sectores de Monte Grande, Pisco Elqui, Pueblo Hundido, Quebrada Pinto y parte de Cochiguaz.</span></p><p style=\"text-align:justify\"><u>Comuna de Vicuña</u></p><p style=\"text-align:justify\"><span style=\"color:black\">Con respecto a las 25 personas que permanecieron aisladas en un refugio en el sector del Embalse La Laguna, producto de la activación de la quebrada Montiel, se informa que pudieron continuar con su desplazamiento hacia su destino, sin registrarse otras novedades derivadas de este evento. Por otra parte, personal de Vialidad continúa trabajando en el despeje de la ruta con el fin de habilitar el Paso Fronterizo Agua Negra, el que se mantiene cerrado.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por evento meteorológico</strong> para las comunas de Paihuano y Vicuña, que se encuentra vigente desde el 15 de enero.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar personal de Vialidad y Carabineros.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

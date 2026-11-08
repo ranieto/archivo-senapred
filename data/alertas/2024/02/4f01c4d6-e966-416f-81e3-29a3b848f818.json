@@ -1,0 +1,20 @@
+{
+	"id": "4f01c4d6-e966-416f-81e3-29a3b848f818",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de La Araucanía por calor intenso",
+	"fechaHora": "2024-02-01T19:45:00.000-03:00",
+	"createdAt": "2024-02-01T22:46:17.825Z",
+	"updatedAt": "2024-02-01T22:47:48.954Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-la-araucania-por-calor-intenso-2",
+	"parentId": "029ef24e-751e-427b-a6ee-3b335d7f43d3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelada la Alerta Meteorológica AA8/2024 que pronosticó un evento de altas temperaturas extremas en sectores de valle de la Región de La Araucanía. </p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Amarilla Regional por calor intenso,</strong> que se mantuvo vigente desde el 30 de enero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728.&nbsp;</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

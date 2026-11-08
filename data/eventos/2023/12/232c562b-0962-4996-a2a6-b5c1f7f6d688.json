@@ -1,0 +1,19 @@
+{
+	"id": "232c562b-0962-4996-a2a6-b5c1f7f6d688",
+	"type": "Evento",
+	"titulo": "Monitoreo por incendio forestal en la comuna de Colina",
+	"fechaHora": "2023-12-20T17:34:00.000-03:00",
+	"createdAt": "2023-12-20T20:50:31.524Z",
+	"updatedAt": "2023-12-20T20:50:31.524Z",
+	"urlAccess": "monitoreo-por-incendio-forestal-en-la-comuna-de-colina",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Colina\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal “Las Achiras” en la comuna de Colina, se informa que este se encuentra en combate con una superficie afectada de 235 hectáreas.<br></p><p style=\"text-align:justify\">Por otra parte, la Corporación Nacional Forestal (CONAF) indica que no se han registrado personas afectadas, o viviendas amenazadas debido a la protección por parte de Bomberos.</p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio, 3 técnicos, 4 brigadas, 1 camión aljibe, 4 helicópteros, 2 aviones cisterna y 1 avión de coordinación de CONAF; con el apoyo de Bomberos de Colina.</span></p>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

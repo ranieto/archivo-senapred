@@ -1,0 +1,20 @@
+{
+	"id": "bb39781a-33c6-4835-b693-fa9172581f7f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Última Esperanza por precipitaciones",
+	"fechaHora": "2024-08-12T18:16:00.000-04:00",
+	"createdAt": "2024-08-12T22:16:50.239Z",
+	"updatedAt": "2024-08-12T22:17:30.036Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-ultima-esperanza-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones que lo originaron:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A304</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto periodo de tiempo en Cordillera Austral Norte,   Cordillera Austral Sur, Pampa Patagónica Norte y Pampa Patagónica Sur.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por precipitaciones para las provincias de Magallanes y Última Esperanza</strong>, que se mantenía vigente desde el 10 de agosto del 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

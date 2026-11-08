@@ -1,0 +1,20 @@
+{
+	"id": "bcd5cd39-452a-4f80-9634-87dd8db181c7",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Coelemu, Pinto, Coihueco y Chillán Viejo por crecida",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-08-02T18:04:57.021Z",
+	"updatedAt": "2026-08-02T18:05:58.655Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-07-31-17-01-27",
+	"parentId": "e3c8665e-91e4-4ade-89f6-3ef4fa152180",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación hidrométrica de monitoreo mantiene el siguiente registro en su caudal:</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Estación hidrométrica</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Umbral</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">PCF Río Itata en Puente Coelemu</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Roja.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Roja por crecida a las comunas de Yungay, Pemuco, Bulnes, Quillón, Chillán, Ránquil, Portezuelo, Coelemu, Trehuaco, Ninhue y San Nicolás</strong>, vigente a contar del 31 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe señalar que, con la modificación de esta alerta roja, se modifica también la cobertura de la Alerta Amarilla por crecida a las comunas de Pinto, Coihueco y Chillán Viejo, vigente desde del 31 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta Alerta Roja, se mantendrán movilizados todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

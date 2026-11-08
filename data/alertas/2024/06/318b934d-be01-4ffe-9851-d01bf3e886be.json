@@ -1,0 +1,20 @@
+{
+	"id": "318b934d-be01-4ffe-9851-d01bf3e886be",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las provincias de Los Andes, Petorca, Quillota, San Antonio y San Felipe y declara Alerta temprana Preventiva para la región de Valparaíso por evento meteorológico",
+	"fechaHora": "2024-06-23T12:39:53.5353-04:00",
+	"createdAt": "2024-06-23T16:40:23.195Z",
+	"updatedAt": "2024-06-23T16:40:23.195Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-excepto-la-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-evento-meteorologico-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo <strong>con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA50</p></td><td><p style=\"text-align:justify\">Precipitaciones moderadas a fuertes en el litoral,   cordillera de la costa, precordillera y valles precordilleranos.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A228</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas en el litoral y   cordillera de la costa.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A230</p></td><td><p style=\"text-align:justify\">Viento normal a moderado en cordillera, con probabilidad   de viento blanco.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Sin embargo, en atención a la necesidad de mantener el monitoreo constante, permanecerá el seguimiento de los niveles de agua de los embalses, incremento de caudales de ríos y esteros, activación de quebradas, deslizamientos de material rocoso en rutas, caminos, calles y viviendas que se han reportado en distintos sectores de la región, así como a los requerimientos del nivel local y a los incidentes que se pudieran generar producto del paso del sistema frontal.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para las provincias de Los Andes, Petorca, Quillota, San Antonio y San Felipe </strong>y <strong>declara Alerta temprana Preventiva regional </strong>excepto la provincia de Isla de Pascua y comuna de Juan Fernández<strong>, por evento meteorológico,</strong></span><span style=\"font-size:12px;color:black\"> v</span><span style=\"color:black\">igente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

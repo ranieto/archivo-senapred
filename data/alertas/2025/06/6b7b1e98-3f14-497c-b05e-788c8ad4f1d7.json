@@ -1,0 +1,20 @@
+{
+	"id": "6b7b1e98-3f14-497c-b05e-788c8ad4f1d7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia del Tamarugal por viento ",
+	"fechaHora": "2025-06-19T00:14:00.000-04:00",
+	"createdAt": "2025-06-19T05:07:18.601Z",
+	"updatedAt": "2025-06-19T05:08:13.470Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelada la Alerta Meteorológica AA50-1/2025, por viento moderado a fuerte y el Aviso A222-1/2025 por viento normal a moderado en cordillera de la región. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para la Provincia del Tamarugal, </strong>que se mantuvo vigente desde el 15 de junio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "5f22f63b-c6bf-4c01-b4c3-1cdb1d1230e0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Purranque por incendio forestal",
+	"fechaHora": "2025-02-02T15:33:32.3232-03:00",
+	"createdAt": "2025-02-02T18:34:27.195Z",
+	"updatedAt": "2025-02-02T18:34:47.046Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-purranque-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Purranque se reporta lo siguiente:</p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Río Blanco</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>49   hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio   no presenta comportamiento extremo, por lo que se da por superada la   condición que dio origen a la presente alerta.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Purranque, por incendio forestal, que se mantuvo vigente desde el 01 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

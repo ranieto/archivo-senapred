@@ -1,0 +1,20 @@
+{
+	"id": "ae85608c-b4a4-4b7f-91a0-049ed2dc9aba",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia del Biobío, por calor intenso",
+	"fechaHora": "2024-02-14T10:18:00.000-03:00",
+	"createdAt": "2024-02-14T13:28:22.273Z",
+	"updatedAt": "2024-02-14T13:28:35.071Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelada la Alerta Meteorológica AA12-1/2024, la cual pronosticaba un evento de altas temperaturas extremas entre las regiones de Maule y Los Ríos, debido al debilitamiento de las condiciones que la originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Del mismo modo, de acuerdo con el Pronóstico Público, durante los próximos días no se esperan temperaturas iguales o superiores a 34°C en la Provincia del Biobío.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED, <strong>cancela Alerta Amarilla para la Provincia del Biobío, por calor intenso,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728.</span></p><p style=\"text-align:justify\"></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

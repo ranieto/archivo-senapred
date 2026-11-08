@@ -1,0 +1,20 @@
+{
+	"id": "7dd65617-5da9-4332-bee7-88c6a1762a09",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de Valparaíso por calor intenso",
+	"fechaHora": "2026-02-15T18:57:54.5454-03:00",
+	"createdAt": "2026-02-15T22:00:29.400Z",
+	"updatedAt": "2026-02-19T15:55:16.617Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-valparaiso-por-calor-intenso-2026-02-15-19-00-13",
+	"parentId": "d6733891-f3c1-43d9-b50d-b0857a9d984b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso:</span><br><br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA43-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de   altas temperaturas extremas en litoral y cordillera de la costa (entre 28 y   37 °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">17-02</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">17-02</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A66-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en litoral, cordillera de la costa y precordillera y valles   precordilleranos (entre 25 y 36 °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">16-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\"><br>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla Regional por calor intenso, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\"><br>Con la declaración de esta alerta se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><span style=\"color:black\"><br>El <strong>SENAPRED recomienda&nbsp;</strong><strong>a la población</strong> protegerse y extremar las precauciones ante los riesgos derivados del calor intenso, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

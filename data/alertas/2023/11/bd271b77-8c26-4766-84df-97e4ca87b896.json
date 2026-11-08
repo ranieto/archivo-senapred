@@ -1,0 +1,20 @@
+{
+	"id": "bd271b77-8c26-4766-84df-97e4ca87b896",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por amenaza de incendios forestales",
+	"fechaHora": "2023-11-25T11:32:00.000-03:00",
+	"createdAt": "2023-11-25T14:44:22.780Z",
+	"updatedAt": "2023-11-25T14:45:19.017Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el Aviso Meteorológico A448-2/2023, que pronosticó un evento de altas temperaturas en sectores del litoral, cordillera de la costa, valle y precordillera de la Región de O’Higgins, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span><br></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong> por amenaza de incendios forestales, que se mantuvo vigente desde el 22 de noviembre del 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

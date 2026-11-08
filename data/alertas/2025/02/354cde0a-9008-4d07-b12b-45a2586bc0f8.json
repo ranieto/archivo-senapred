@@ -1,0 +1,20 @@
+{
+	"id": "354cde0a-9008-4d07-b12b-45a2586bc0f8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por incendios forestales",
+	"fechaHora": "2025-02-10T22:31:00.000-03:00",
+	"createdAt": "2025-02-11T01:41:44.972Z",
+	"updatedAt": "2025-02-28T15:03:43.808Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-incendios-forestales",
+	"parentId": "77c7ab86-ba5d-45c3-a5ad-e45db9967159",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de CONAF, en su solicitud de Alerta Temprana Preventiva por incendio forestal, recibida a las 21:58 horas, se indica que, debido a las condiciones meteorológicas adversas pronosticadas para la Región del Biobío, se esperan vientos máximos superiores a 25 km/h en gran parte de la región, junto con un descenso significativo de la humedad relativa por debajo del 20% y una humedad del combustible fino muerto inferior al 6%.<br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por incendios forestales, vigente a contar de hoy y hasta que<br>las condiciones así lo ameriten.<br>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p><p><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em>SENAPRED</em></strong><em>&nbsp;recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder;no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (</em></span><a rel=\"noreferrer noopener\" href=\"https://www.senapred.cl/visor-chile-preparado-2/\"><em><span style=\"color: rgb(5, 99, 193);font-size: 15px\">https://www.senapred.cl/visor-chile-preparado-2/</span></em></a><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><em>). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).</em></span>​<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "fe4664a5-d0b0-4d0f-82f7-a19388b8aa79",
+	"type": "Evento",
+	"titulo": "Monitoreo sismo de mediana intensidad en las regiones de Atacama, Coquimbo y Valparaíso",
+	"fechaHora": "2024-02-14T03:39:23.2323-03:00",
+	"createdAt": "2024-02-14T06:40:40.989Z",
+	"updatedAt": "2024-02-14T06:40:40.989Z",
+	"urlAccess": "monitoreo-sismo-de-mediana-intensidad-en-las-regiones-de-atacama-coquimbo-y-valparaiso",
+	"parentId": "3b22dbdf-7341-4375-82fa-737adc88a534",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo, Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, por sismo de mediana intensidad ocurrido a las 22:32 horas de ayer, con una magnitud 5.8 Mw a 53 kilómetros al Sur de Huasco, según lo indicado por el Centro Sismológico Nacional (CSN), restablecido se encuentra el tránsito vehicular en la Ruta 5, comuna de Vallenar, tras finalizados los trabajos de limpieza de los rodados.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajaron en el lugar Carabineros y personal de la Concesionaria Ruta del Algarrobo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "a1ac0f08-1141-46cb-ab57-612595a37f25",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por heladas",
+	"fechaHora": "2025-07-29T13:06:00.000-04:00",
+	"createdAt": "2025-07-29T17:16:32.217Z",
+	"updatedAt": "2025-07-29T17:16:46.061Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se han cancelado los siguientes alertamientos meteorológicos para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que los originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   A64</p></td><td><p style=\"text-align:justify\">Heladas moderadas   a intensas en zonas de la Región de Magallanes y de la Antártica Chilena. </p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A277-3</p></td><td><p style=\"text-align:justify\">Heladas normales a   moderadas en zonas de la Región de Magallanes y de la Antártica Chilena.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que indica una disminución de la amenaza asociada a la condición meteorológica y reduce el factor de riesgo para los habitantes y sus bienes; y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela&nbsp;</strong></span><strong><span style=\"color:black\">la Alerta Temprana Preventiva por heladas para las provincias de Magallanes, Última Esperanza y Tierra del Fuego, </span></strong><span style=\"color:black\">que</span><span style=\"color:black\"> se mantuvo vigente desde el 23 de julio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

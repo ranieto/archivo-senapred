@@ -1,0 +1,21 @@
+{
+	"id": "c320551a-d97e-4dc8-86d2-34d197b18dac",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica",
+	"fechaHora": "2024-02-04T09:22:00.000-03:00",
+	"createdAt": "2024-02-04T20:03:15.524Z",
+	"updatedAt": "2024-02-25T19:27:31.707Z",
+	"urlAccess": "monitoreo-alerta-amarilla-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-3",
+	"parentId": "57d0e8a6-de1d-412e-96af-8d268f9fd5f1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Cautín, Valdivia\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curarrehue, Pucón, Villarrica, Panguipulli\",\"regiones\":\"Región de la Araucanía, Región de los Ríos\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla[1].<br></p><p>En relación con el Reporte Especial de Actividad Volcánica (REAV) emitido durante la presente jornada, se indica que hoy domingo 4 de febrero a las 08:40 horas, las estaciones de monitoreo instaladas en las inmediaciones del volcán Villarrica registraron un sismo de Largo Periodo (LP) asociado a la dinámica de fluidos al interior del sistema volcánico.</p><p>Las características del sismo, luego de su análisis son las siguientes:</p><p>Desplazamiento reducido:75,1 (cm*cm)</p><p>Señal acústica:12,5 Pascales (Pa) reducidos a 1 km</p><p>Cabe señalar que, posterior al sismo, se registra un segundo evento de características similares pero de menor desplazamiento reducido (68 cm2), sin registrarse cambios en el comportamiento sísmico del volcán, ni actividad superficial visible que sea asociada a estos eventos.</p><p>Para más información del organismo técnico, consultar en https://rnvv.sernageomin.cl/volcan-villarrica/</p><p>En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN y en coordinación con las Delegaciones Presidenciales Regionales, las Direcciones Regionales del SENAPRED La Araucanía y Los Ríos mantienen la Alerta Amarilla, para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica, que permanece vigente desde el 08 de noviembre de 2022 y hasta que las condiciones del evento así lo ameriten.</p><p>De igual forma, el SENAPRED mantiene el perímetro de seguridad para las regiones de La Araucanía y Los Ríos, de 1 kilómetro en torno al cráter activo, indicando la restricción de acceso a la zona indicada.</p><p>Mientras, SERNAGEOMIN mantiene la zona de potencial afectación por peligros volcánicos a un radio de 1 kilómetro medido desde el centro del cráter activo. </p><p>Además, SERNAGEOMIN continúa con la vigilancia permanente del complejo volcánico y las Direcciones Regionales de SENAPRED La Araucanía y Los Ríos, mantendrán las coordinaciones con los integrantes del SINAPRED para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia.</p><p>[1]Alerta técnica en Nivel Amarilla:comprende variaciones en los niveles de parámetros derivados de la vigilancia que indican que el volcán está por encima de su umbral base y que el proceso es inestable, pudiendo evolucionar aun aumentando o disminuyendo esos niveles, por ende, una erupción probable, se podría desarrollar en un periodo de semanas o meses.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

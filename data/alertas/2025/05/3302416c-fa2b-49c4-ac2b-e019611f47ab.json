@@ -1,0 +1,20 @@
+{
+	"id": "3302416c-fa2b-49c4-ac2b-e019611f47ab",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de María Pinto por incendio forestal",
+	"fechaHora": "2025-05-05T16:18:47.4747-04:00",
+	"createdAt": "2025-05-05T20:20:19.151Z",
+	"updatedAt": "2025-05-07T15:29:22.152Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-maria-pinto-por-incendio-forestal",
+	"parentId": "264a555d-4176-4ce3-8f25-b5fc98fc0de6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de María Pinto se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Santa Filomena</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>110 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de María Pinto; 5 brigadas   y 7 técnicos; 2 aeronaves.</p></td></tr></tbody></table><div><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de María Pinto por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></div><div><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </span></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

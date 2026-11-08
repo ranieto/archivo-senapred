@@ -1,0 +1,20 @@
+{
+	"id": "b61d2802-0ec2-44ef-b002-71482132e500",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la comuna de Nueva Imperial por incendio forestal",
+	"fechaHora": "2026-02-14T17:53:58.5858-03:00",
+	"createdAt": "2026-02-14T20:55:31.047Z",
+	"updatedAt": "2026-02-15T01:35:28.508Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-nueva-imperial-por-incendio-forestal-2026-02-14-15-29-30",
+	"parentId": "fe2ff96e-3be8-4504-800a-454cb7719c06",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo a la información proporcionada por CONAF,&nbsp;</span></strong><span style=\"font-size: 15px\">en atención al incendio forestal en la comuna de Nueva Imperial, se reporta lo siguiente:</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Boroa</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">10 hectáreas</span></p></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\">Incendio presenta cercanía a sectores habitados.</span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Recursos</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Cuerpo de Bomberos de Nueva Imperial</span></div><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">7 brigadas, 1 técnico, 2 helicópteros, 1 aviones cisterna y 1 maquinaria pesada CONAF</span></div><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Personal de Carabineros</span></div></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED&nbsp;<strong>cancela la Alerta Amarilla y declara Alerta Roja para la comuna de Nueva Imperial por incendio forestal</strong>,&nbsp;vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo&nbsp;adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;</span><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

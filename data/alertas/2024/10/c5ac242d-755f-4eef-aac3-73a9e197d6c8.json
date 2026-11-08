@@ -1,0 +1,20 @@
+{
+	"id": "c5ac242d-755f-4eef-aac3-73a9e197d6c8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por viento",
+	"fechaHora": "2024-10-14T11:21:00.000-03:00",
+	"createdAt": "2024-10-14T14:59:02.559Z",
+	"updatedAt": "2024-10-14T14:59:26.131Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-tierra-del-fuego-y-la-comuna-de-cabo-de-hornos-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><a name=\"x__Hlk124948893\"><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se informa que fue cancelado el Aviso Meteorológico A380-1/2024, que pronosticó viento normal a moderado en cordillera austral norte, cordillera austral sur, insular central, insular sur, pampa patagónica norte y pampa patagónica sur de la Región de Magallanes y de la Antártica Chilena, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></a><br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente, que supone una disminución a la amenaza asociada a dicha variable meteorológica y reduce el factor de riesgo para los habitantes y sus bienes, la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial Regional,<strong>cancela la Alerta Temprana Preventiva a regional por viento</strong>, que se mantuvo vigente desde el 11 de octubre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

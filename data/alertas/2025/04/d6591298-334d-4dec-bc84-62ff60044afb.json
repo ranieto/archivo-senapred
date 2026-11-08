@@ -1,0 +1,20 @@
+{
+	"id": "d6591298-334d-4dec-bc84-62ff60044afb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2025-04-25T19:17:20.2020-04:00",
+	"createdAt": "2025-04-25T23:18:19.264Z",
+	"updatedAt": "2025-04-25T23:58:37.837Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-13",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han </span><strong>cancelado</strong><span style=\"color: black\"> los siguientes alertamientos meteorológicos para la Región de La Araucanía:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 140</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado0 en precordillera de la región</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-04</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-04</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 141-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en corto periodo de tiempo en precordillera y   cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">24-04</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-04</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 143</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en precordillera y cordillera de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">24-04</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-04</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico, </strong>que se mantuvo vigente desde el 23 de abril de 2025.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene <strong>Alerta Amarilla</strong> para la comuna de Toltén por Remoción en Masa y para la comuna de Pucón por Evento Meteorologico. </span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

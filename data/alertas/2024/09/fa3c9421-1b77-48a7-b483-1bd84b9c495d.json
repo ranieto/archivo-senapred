@@ -1,0 +1,20 @@
+{
+	"id": "fa3c9421-1b77-48a7-b483-1bd84b9c495d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2024-09-23T15:49:54.5454-03:00",
+	"createdAt": "2024-09-23T18:51:47.309Z",
+	"updatedAt": "2024-09-23T18:53:35.971Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-10",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), s</strong>e han cancelado los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A342-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral, cordillera costa y valle.</p></td><td><p style=\"text-align:justify\">18-09</p></td><td><p style=\"text-align:justify\">20-09</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A347-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral y cordillera de la costa.</p></td><td><p style=\"text-align:justify\">22-09</p></td><td><p style=\"text-align:justify\">22-09</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A348-1</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto   período de tiempo en litoral.</p></td><td><p style=\"text-align:justify\">18-09</p></td><td><p style=\"text-align:justify\">19-09</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A352-1</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas asociadas a chubascos aislados en valle y precordillera.</p></td><td><p style=\"text-align:justify\">19-09</p></td><td><p style=\"text-align:justify\">19-09</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A355</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en litoral, cordillera costa, valle, precordillera</p></td><td><p style=\"text-align:justify\">21-09</p></td><td><p style=\"text-align:justify\">21-09</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, se indica que el Pronóstico Público de hoy (DMC), pronostica precipitaciones débiles para la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>,la cual se mantuvo vigente desde el 17 de septiembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

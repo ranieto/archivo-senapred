@@ -1,0 +1,20 @@
+{
+	"id": "f0f58da7-029f-4919-8582-f1a3899382e7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja  y cancela Alerta Amarilla por crecida para la comuna de Linares por desborde",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-06-06T10:47:50.715Z",
+	"updatedAt": "2024-06-06T11:05:11.102Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-linares-por-crecida",
+	"parentId": "06fedaeb-33b5-42ad-8164-5a71e298d7b5",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Linares\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Achibueno en la Recova”, en la comuna de Linares, ha sobrepasado los valores del umbral de alerta roja.<br></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Roja por Desborde y cancela Alerta Amarilla por crecida para la comuna de Linares, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

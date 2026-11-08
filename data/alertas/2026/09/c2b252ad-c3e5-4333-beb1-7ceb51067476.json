@@ -1,0 +1,20 @@
+{
+	"id": "c2b252ad-c3e5-4333-beb1-7ceb51067476",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2026-09-20T19:53:03.033-03:00",
+	"createdAt": "2026-09-20T22:54:40.685Z",
+	"updatedAt": "2026-09-26T02:13:30.770Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
+	"parentId": "15b43017-1ced-40b7-b205-364738184f72",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule</strong>, se reportan desprendimientos de techumbres, caída de árboles y afectación al tendido eléctrico en sector La Tercera en la comuna de Longaví, producto de fuertes vientos en el lugar.</span></p><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe mencionar que, personal municipal se dirige al lugar para realizar un levantamiento de la información y evaluación de daños.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, vigente desde el 16 de septiembre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

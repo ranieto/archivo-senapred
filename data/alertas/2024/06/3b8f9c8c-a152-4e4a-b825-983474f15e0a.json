@@ -1,0 +1,20 @@
+{
+	"id": "3b8f9c8c-a152-4e4a-b825-983474f15e0a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Pitrufquén por amenaza de desborde",
+	"fechaHora": "2024-06-30T15:25:00.000-04:00",
+	"createdAt": "2024-06-30T19:31:09.014Z",
+	"updatedAt": "2024-06-30T19:31:49.161Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-pitrufquen-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación de red hidrométrica “Río Mahuidanche en Santa Ana” en la comuna de Pitrufquén, se encuentra en el umbral de Alerta Azul, con tendencia a la baja en su caudal.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del <strong>SENAPRED cancela la Alerta Amarilla por amenaza de desborde</strong><strong>para la comuna de Pitrufquén,</strong> que se mantuvo vigente durante hoy 30 de junio de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "40065066-c9d0-4383-99f1-20d8bb36fccf"
+}

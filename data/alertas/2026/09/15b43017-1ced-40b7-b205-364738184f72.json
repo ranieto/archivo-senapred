@@ -1,0 +1,20 @@
+{
+	"id": "15b43017-1ced-40b7-b205-364738184f72",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2026-09-25T23:02:00.000-03:00",
+	"createdAt": "2026-09-26T02:13:29.592Z",
+	"updatedAt": "2026-09-26T02:14:21.728Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-09-16-18-45-26",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, debido al debilitamiento de las condiciones que los originaron, han sido cancelados los siguientes alertamientos meteorológicos:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A498-1</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en litoral, cordillera de la costa, valle, precordillera y   cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A503-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto   periodo de tiempo en precordillera y cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 16 de septiembre 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

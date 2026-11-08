@@ -1,0 +1,20 @@
+{
+	"id": "42efaafd-ec1d-47b6-9e96-de781a13a8ca",
+	"type": "Alerta",
+	"titulo": "Se declara la Alerta Temprana Preventiva para la Región de Tarapacá por Alteración Sanitaria",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-04-24T22:21:26.526Z",
+	"updatedAt": "2025-04-24T22:22:08.611Z",
+	"urlAccess": "se-declara-la-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-alteracion-sanitaria",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Tarapacá, en base al “<strong>Informe de Situación Zancudos de Interés Sanitario</strong>” elaborada por la SEREMI de Salud de Tarapacá, del 21 de abril de 2025, se informa que en el contexto de su programa de vigilancia Entomológica, fueron hallados 64 huevos del vector <strong><em>Aedes Aegypti </em></strong>(transmisor de enfermedades tales como Dengue, Zika, Chikununya y Fiebre Amarilla), en una ovitrampa instalada en el terminal Rodoviario de Iquique, los cuales fueron confirmados por el Instituto de Salud Pública, y que evidencia una situación sanitaria de alto riesgo epidemiológico en la zona.</p><p style=\"text-align:justify\">Asimismo, en agosto de 2024 se confirmó la presencia del vector <strong><em>Anopheles</em></strong>, transmisor del parásito causante de la Malaria, en la quebrada de Tarapacá, comuna de Huara; y en la localidad de Matilla, comuna de Pica. </p><p style=\"text-align:justify\">Situación que, sumada a los desplazamientos poblacionales procedentes de países cercanos, con circulación activa de dichas enfermedades y al elevado flujo migratorio, incrementa significativamente el riesgo de introducción y transmisión local de estas patologías.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED,<strong> declara la Alerta Temprana Preventiva Regional por Alteración Sanitaria</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

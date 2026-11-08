@@ -1,0 +1,20 @@
+{
+	"id": "393d1f03-31cd-425d-a79f-9497348baf59",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Comuna de Yumbel por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-01-20T22:10:23.828Z",
+	"updatedAt": "2024-01-20T22:12:13.035Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-yumbel-por-incendio-forestal",
+	"parentId": "423ded22-c698-4e8c-9796-6a9a0eb2d74a",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Yumbel\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la&nbsp; Alerta Roja para la Comuna de Yumbel, por incendio forestal, que se mantuvo vigente desde el 18 de enero de2024<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

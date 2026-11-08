@@ -1,0 +1,20 @@
+{
+	"id": "91af92ee-caf2-439f-b7d1-0dfe8a3e619f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2024-10-01T17:24:40.4040-03:00",
+	"createdAt": "2024-10-01T20:26:17.954Z",
+	"updatedAt": "2024-10-01T20:27:20.442Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-7",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC</strong>), han sido cancelados los Avisos A361-2/2024; A363-2/2024 y A369/2024, los cuales pronosticaban respectivamente, viento normal a moderado, precipitaciones y nevadas en diversos sectores de la Región del Maule. Del mismo modo, mediante la actualización del Aviso A360-2/2024, se indica que la región ya no cuenta con probabilidad de viento blanco en cordillera. Lo anteriormente mencionado, se debe al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico, </strong>que se mantuvo vigente desde el 29 de septiembre de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

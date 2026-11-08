@@ -1,0 +1,20 @@
+{
+	"id": "0a6025b1-7142-46a5-b20c-ac4eaec96ba2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+	"fechaHora": "2023-10-30T14:24:18.1818-03:00",
+	"createdAt": "2023-10-30T17:29:49.644Z",
+	"updatedAt": "2023-10-30T17:30:07.716Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-regional-para-la-region-de-ohiggins-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>&nbsp;indica que han sido cancelados los Avisos Meteorológicos que pronosticaron la ocurrencia de probables tormentas eléctricas y viento normal a moderado en la Región de O’Higgins.<br></p><p style=\"text-align:justify\">De acuerdo con estos antecedentes que suponen la disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional de SENAPRED <strong>cancela Alerta Temprana Preventiva Regional</strong> por evento meteorológico, vigente desde el 26 de octubre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

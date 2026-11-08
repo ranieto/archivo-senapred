@@ -1,0 +1,20 @@
+{
+	"id": "9b868ac0-e076-4035-8ed5-7babbf8c5424",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la comuna de Tiltil por incendio forestal",
+	"fechaHora": "2026-01-19T17:25:00.000-03:00",
+	"createdAt": "2026-01-19T20:33:18.104Z",
+	"updatedAt": "2026-01-20T18:46:23.480Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-tiltil-por-incendio-forestal-2026-01-17-23-47-02",
+	"parentId": "ba04c9b9-8734-40dc-ab41-3c57320e1fa6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong><span style=\"color:black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color:black\">respecto al incendio forestal en la&nbsp;<strong>comuna de Tiltil, </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Nombre del   incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">El Tapihue</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1.600 (ha)</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Recursos</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">El incendio, al   momento, se encuentra activo con reactivaciones debido a las condiciones   meteorológicas.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Amarilla para la Comuna de Tiltil</strong>, por incendio forestal, que se encuentra vigente desde el 17 de enero de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

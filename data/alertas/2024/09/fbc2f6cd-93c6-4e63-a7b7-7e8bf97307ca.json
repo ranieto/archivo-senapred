@@ -1,0 +1,20 @@
+{
+	"id": "fbc2f6cd-93c6-4e63-a7b7-7e8bf97307ca",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2024-09-20T13:35:00.000-03:00",
+	"createdAt": "2024-09-20T16:37:15.763Z",
+	"updatedAt": "2024-09-23T12:48:28.891Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-itata-y-comuna-de-quillon-por-evento-meteorologico",
+	"parentId": "d1b32bbd-16b2-454d-8e4e-2929556a7f0b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A350-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral y cordillera de la costa.</p></td><td><p style=\"text-align:center\">20-09</p></td><td><p style=\"text-align:center\">21-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso 349-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado, con probabilidad de viento blanco en cordillera.</p></td><td><p style=\"text-align:center\">20-09</p></td><td><p style=\"text-align:center\">22-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso 353</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera.</p></td><td><p style=\"text-align:center\">21-09</p></td><td><p style=\"text-align:center\">22-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso 354</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas con probabilidad de ventisca en cordillera.</p></td><td><p style=\"text-align:center\">21-09</p></td><td><p style=\"text-align:center\">22-09</p></td></tr></tbody></table><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"><span style=\"color:black\">En consideración a estos y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED, <strong>modifica la cobertura de la Alerta Temprana Preventiva a Regional por evento meteorológico</strong>, que se mantiene vigente desde el 18 de septiembre y hasta que las condiciones así lo ameriten.</span></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

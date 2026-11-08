@@ -1,0 +1,20 @@
+{
+	"id": "e74f8754-34a6-4247-85b4-b96592725d82",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2023-12-11T13:56:00.000-03:00",
+	"createdAt": "2023-12-11T16:59:43.924Z",
+	"updatedAt": "2023-12-14T23:40:58.452Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal",
+	"parentId": "42ac9bbb-5be6-4eaa-9041-f0f9a4198d75",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Las Cabras\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto del incendio forestal que se desarrolla en la comuna de Las Cabras, se informan los siguientes detalles:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cocalan.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna afectada</strong></p></td><td><p style=\"text-align:justify\">Las Cabras.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El incendio se   encuentra contenido y sin avance con fumarolas dentro del perímetro.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">1 técnico, 2   brigadas y 1 camión aljibe de CONAF; y 1 ambulancia ACHS.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación </strong></p></td><td><p style=\"text-align:justify\">Se   registra 1 persona damnificada y 1 vivienda destruida.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Las Cabras por incendio forestal,</strong> vigente a contar de hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

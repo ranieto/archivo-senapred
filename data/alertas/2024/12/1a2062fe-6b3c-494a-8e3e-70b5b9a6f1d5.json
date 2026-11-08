@@ -1,0 +1,20 @@
+{
+	"id": "1a2062fe-6b3c-494a-8e3e-70b5b9a6f1d5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2024-12-20T21:00:00.000-03:00",
+	"createdAt": "2024-12-21T00:11:28.415Z",
+	"updatedAt": "2024-12-22T19:41:57.708Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2",
+	"parentId": "3db16aa3-1356-475b-badc-38dbaadce93c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>El comportamiento del incendio se encontraría con velocidad de avance lenta, intensidad del frente bajo, longitud de llama baja.</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los Hualles</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Supercicie</strong></p></td><td><p>8 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio forestal con amenaza inminente a area silvestre protegida, sitio Prioritario de Conservación Cajón de Pejerreyes.<br></div></td></tr></tbody></table></div><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Linares, por incendio forestal, que se encuentra vigente desde el 19 de diciembre de 2024.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

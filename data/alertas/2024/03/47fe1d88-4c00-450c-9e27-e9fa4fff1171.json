@@ -1,0 +1,20 @@
+{
+	"id": "47fe1d88-4c00-450c-9e27-e9fa4fff1171",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Monte Patria por incendio forestal",
+	"fechaHora": "2024-03-27T17:39:00.000-03:00",
+	"createdAt": "2024-03-27T20:47:48.840Z",
+	"updatedAt": "2024-03-27T20:48:13.299Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-monte-patria-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Monte Patria, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px\">Barrancones   Río Rapel</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px\"><strong>Estado</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px\">Extinguido</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px\"><strong>Superficie</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px\">3.9   hectáreas</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la Comuna de Monte Patria</strong>, por incendio forestal, que se mantuvo vigente desde el 27 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

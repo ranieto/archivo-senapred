@@ -1,0 +1,20 @@
+{
+	"id": "e1dee17f-d018-44ec-b2c2-79c9a0dd43ec",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la comuna de San Fernando por incendio forestal",
+	"fechaHora": "2026-01-20T13:45:00.000-03:00",
+	"createdAt": "2026-01-20T16:49:19.486Z",
+	"updatedAt": "2026-01-20T16:49:35.870Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-fernando-por-incendio-forestal-2026-01-18-19-19-34",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong><span style=\"color:black\">De acuerdo con la información técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color:black\">respecto a los incendios forestales en la comuna de San Fernando; se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Nombre del   incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Fundo La Palma</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Extinguido</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">10 (ha)</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">No se reportan   afectaciones en personas ni daños en viviendas en la comuna de San Fernando.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de San Fernando, por incendio forestal, que se mantuvo vigente desde el 18 de enero de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

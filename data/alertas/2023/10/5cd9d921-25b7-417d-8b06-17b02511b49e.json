@@ -1,0 +1,20 @@
+{
+	"id": "5cd9d921-25b7-417d-8b06-17b02511b49e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Copiapó por incendio forestal",
+	"fechaHora": "2023-10-06T13:32:00.000-03:00",
+	"createdAt": "2023-10-06T16:36:14.452Z",
+	"updatedAt": "2023-10-06T16:36:43.205Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-copiapo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), sobre el incendio forestal en la comuna de Copiapó, se indica lo siguiente:<br></p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Viñita Azul</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>Controlado y sin peligro de activación.</div></td></tr><tr><td><div><strong>Superficie</strong></div></td><td><div>1 hectárea</div></td></tr></tbody></table><p>En consideración a estos antecedentes técnicos de CONAF y en coordinación con la Delegación Presidencial Regional Atacama, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Amarilla </strong>para la comuna de Copiapó por incendio forestal, que se mantuvo vigente desde el 05 de octubre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

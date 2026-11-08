@@ -1,0 +1,20 @@
+{
+	"id": "f9b424aa-90c9-4797-a706-8c31e5d5bec1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Tomé por incendio Forestal",
+	"fechaHora": "2024-12-18T23:19:00.000-03:00",
+	"createdAt": "2024-12-19T02:21:36.581Z",
+	"updatedAt": "2024-12-19T02:21:56.765Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tome-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con </span><strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"color: black\"> respecto del incendio forestal que se encuentra en la comuna de Tomé, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Coliumo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Controlado</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">0,5 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">El incendio se encuentra controlado y sin peligro a viviendas.</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Recursos</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Bomberos de Tomé; 5 brigadas, 4 técnicos y 4 aeronaves de Conaf.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la comuna de Tomé</strong>, por incendio forestal, que se mantuvo vigente desde el 18 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

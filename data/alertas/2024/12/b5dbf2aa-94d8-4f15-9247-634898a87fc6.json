@@ -1,0 +1,20 @@
+{
+	"id": "b5dbf2aa-94d8-4f15-9247-634898a87fc6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Hualqui por incendio forestal",
+	"fechaHora": "2024-12-25T14:37:00.000-03:00",
+	"createdAt": "2024-12-25T17:42:36.554Z",
+	"updatedAt": "2024-12-27T20:55:58.038Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hualqui-por-incendio-forestal-2",
+	"parentId": "5f8d6511-8164-4d32-9223-20c32def24e5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por la Dirección Regional de CONAF, el incendio denominado “182–Calquinhue 1” que se desarrolla en la comuna de Hualqui, afecta al momento una superficie de 20 hectáreas y que con amenaza inminente a personas, viviendas, centros poblados, población y/o infraestructura crítica.</p><div style=\"text-align: justify\"><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>182 - Calnihue 1</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Hualqui</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>20 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>Compañía de Bomberos de Hualqui, 6 brigadas, 1 técnico y 4 aeronaves CONAF.</div></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Hualqui por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

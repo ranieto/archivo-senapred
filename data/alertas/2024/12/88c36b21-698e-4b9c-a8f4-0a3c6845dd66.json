@@ -1,0 +1,20 @@
+{
+	"id": "88c36b21-698e-4b9c-a8f4-0a3c6845dd66",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Malleco por Calor intenso",
+	"fechaHora": "2024-12-17T10:41:50.5050-03:00",
+	"createdAt": "2024-12-17T13:43:40.688Z",
+	"updatedAt": "2024-12-17T13:47:50.101Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco-por-calor-intenso-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA85</p></td><td><p style=\"text-align:justify\">Evento de altas   temperaturas extremas, en la provincia de Malleco (principalmente en valle).</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la Provincia de Malleco por Calor intenso, </strong>que se encontrabavigente desde el 14 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

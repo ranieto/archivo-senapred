@@ -1,0 +1,20 @@
+{
+	"id": "cbc4248c-95d7-4320-b567-ce43da2af488",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2024-09-02T11:04:00.000-04:00",
+	"createdAt": "2024-09-02T15:25:26.744Z",
+	"updatedAt": "2024-09-02T15:27:16.572Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se han cancelado los siguientes alertamientos meteorológicos para la región, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A326</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en los sectores de Litoral, Cordillera Costa, Chiloé y   Litoral Interior.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A328</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto periodo de tiempo en zonas de Litoral,   Cordillera Costa, Precordillera, Chiloé, Litoral Interior y Cordillera   Austral.</p></td></tr></tbody></table><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se encontraba vigente desde el 31 de agosto de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

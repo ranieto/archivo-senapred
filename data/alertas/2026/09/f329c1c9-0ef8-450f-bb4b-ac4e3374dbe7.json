@@ -1,0 +1,20 @@
+{
+	"id": "f329c1c9-0ef8-450f-bb4b-ac4e3374dbe7",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Roja para la Región de Biobío por desborde",
+	"fechaHora": "2026-09-24T14:10:22.2222-03:00",
+	"createdAt": "2026-09-24T17:21:05.783Z",
+	"updatedAt": "2026-09-26T16:24:45.918Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
+	"parentId": "b8efa198-3579-4472-b438-ae33dcde40a3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size: 14px\">De acuerdo con la <strong>información proporcionada por Dirección General de Aguas (DGA)</strong>, las estaciones de la red hidrométrica ubicadas en </span><strong>“río Curanilahue en Curanilahue”</strong><span style=\"font-size: 14px\">, </span><strong>“río Pichilo en Pichilo”</strong><span style=\"font-size: 14px\">, </span><strong>“río Biobío en Puente Piulo”</strong><span style=\"font-size: 14px\"> y </span><strong>“río Lía en Las Corrientes”</strong><span style=\"font-size: 14px\">, de la región indican un incremento gradual y sostenido en sus caudales, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">A su vez, de acuerdo con las intensas precipitaciones registradas y pronóstico para las próximas horas, se prevé la superación de umbrales de alerta roja en los distintos cursos de agua de ríos y esteros de la región.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">Cabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir daños a sectores poblados e infraestructura, pudiendo según el caso, requerir acciones tales como evacuación, defensas, disponibilidad, y recursos humanos, maquinarias y equipos.</span></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>Modifica Cobertura de Alerta Roja por desborde a regional</strong>, la que se mantiene vigente desde el 24 de septiembre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">Con la modificación de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">Cabe mencionar que la Región de Biobío <strong>cancela su Alerta Amarilla por Desborde</strong>.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

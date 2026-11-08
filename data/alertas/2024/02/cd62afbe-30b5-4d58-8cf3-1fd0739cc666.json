@@ -1,0 +1,20 @@
+{
+	"id": "cd62afbe-30b5-4d58-8cf3-1fd0739cc666",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Victoria por incendio forestal",
+	"fechaHora": "2024-02-19T11:54:39.3939-03:00",
+	"createdAt": "2024-02-19T14:55:47.563Z",
+	"updatedAt": "2024-02-21T17:43:48.841Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-victoria-por-incendio-forestal",
+	"parentId": "74db45b5-44f8-4318-8cd8-d532d77bc683",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Victoria\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Victoria se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San   Luis 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.500   hectáreas</p></td></tr><tr><td><p><strong>Recursos </strong></p></td><td><p>6 brigadas y 4 técnico de Conaf, 1 avión, 1   helicóptero y 1 skidder de Conaf, </p><p>Carabineros, Ejército, personal municipal   y de la Concesionaria Ruta La Araucanía.</p></td></tr></tbody></table><p>Al momento se informa que se mantiene activo en el sector derecho del frente de avance con actividad baja. Los sectores restantes se encuentran sin actividad solo con puntos calientes al interior del área quemada.<span style=\"font-size: 12px;color:#212529\"><br></span>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Victoria, por incendio forestal, que se encuentra vigente desde el 18 de febrero de 2024.En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Victoria, por incendio forestal, que se encuentra vigente desde el 18 de febrero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

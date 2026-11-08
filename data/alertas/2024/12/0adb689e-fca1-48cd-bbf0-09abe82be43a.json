@@ -1,0 +1,20 @@
+{
+	"id": "0adb689e-fca1-48cd-bbf0-09abe82be43a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas",
+	"fechaHora": "2024-12-24T15:45:00.000-03:00",
+	"createdAt": "2024-12-24T18:54:17.602Z",
+	"updatedAt": "2024-12-28T13:17:14.687Z",
+	"urlAccess": "se-declara-alerta-temprana-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-tormentas-electricas",
+	"parentId": "f1ff1720-cfa9-4a23-abe1-6a59daa55810",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:12px;color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size:12px;color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size:12px;color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size:12px;color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size:12px\">Aviso   A468</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:12px\">Probables   tormentas eléctricas en cordillera. </span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:12px\">25-12</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:12px\">25-12</span></p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana por tormentas eléctricas para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten. </p><p style=\"text-align:justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p style=\"text-align:justify\"><strong><span style=\"color:black\">SENAPRED&nbsp;</span></strong><span style=\"color:black\">recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </span><span style=\"color:black\">&nbsp;</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

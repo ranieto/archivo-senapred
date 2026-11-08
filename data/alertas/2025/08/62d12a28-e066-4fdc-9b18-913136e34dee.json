@@ -1,0 +1,20 @@
+{
+	"id": "62d12a28-e066-4fdc-9b18-913136e34dee",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+	"fechaHora": "2025-08-02T09:40:00.000-04:00",
+	"createdAt": "2025-08-02T13:56:23.770Z",
+	"updatedAt": "2025-08-02T13:57:07.739Z",
+	"urlAccess": "se-declara-alerta-temprana-preventivapara-lascomunasde-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmenpor-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA66-2</p></td><td><p style=\"text-align:justify\">Viento moderado a fuerte en   cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA67</p></td><td><p style=\"text-align:justify\">Nevadas moderadas a fuertes en   cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A285-1</p></td><td><p style=\"text-align:justify\">Viento normal a moderado en cordillera</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A287-11</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas   en cordillera de la costa, valle y pampa.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A289-3</p></td><td><p style=\"text-align:justify\">Nevadas normales a moderadas en   cordillera</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A293-2</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas en   litoral, cordillera de la costa y sectores de valle, pampa, precordillera y   cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>,que se mantuvo vigente desde el día 28 de julio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "cf8eec1c-c5b5-40a6-941b-678b0d461215",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Chonchi por incendio forestal",
+	"fechaHora": "2026-01-04T20:38:00.000-03:00",
+	"createdAt": "2026-01-04T23:43:38.682Z",
+	"updatedAt": "2026-01-06T01:30:50.131Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-chonchi-por-incendio-forestal-2026-01-04-18-06-57",
+	"parentId": "ddb7371b-568e-4b99-a402-03fc8ea47563",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de <strong>Chonchi, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Nahuiltad</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5.5</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"font-size:15px\">Cuerpo de bomberos de Castro   y Chonchi, 3 brigadas CONAF, 2 técnicos CONAF, 1 Helicópteros de CONAF, 1   Camión Aljibe CONAF, 1 Carabineros y 1 Brigada de empresa eléctrica SEASA.</span></p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Chonchi, por incendio forestal, que se encuentra vigente desde el 04 de enero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

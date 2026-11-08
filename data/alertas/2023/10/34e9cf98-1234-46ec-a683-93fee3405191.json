@@ -1,0 +1,20 @@
+{
+	"id": "34e9cf98-1234-46ec-a683-93fee3405191",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario",
+	"fechaHora": "2023-04-03T21:21:00.000-04:00",
+	"createdAt": "2023-10-25T22:37:03.122Z",
+	"updatedAt": "2023-10-25T22:37:03.122Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\">De acuerdo con los<strong>antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG),</strong>mediante su Resolución Exenta N°7192 del 9 de diciembre de 2022, se declara Emergencia Zoosanitaria por la detección del virus “Influenza Aviar” H5N1 de alta patogenicidad en aves cuáticas silvestres. Asimismo, SERNAPESCA a través de sus resoluciones exentas N°445/2023 y DN-387/2023, declaró Vigilancia Activa en la Región de Arica y Parinacota, de la cual se han registrado un total de 1.125 ejemplares varados, en los que destacan 763 lobos marinos, 343 Pingüinos de Humboldt y 3 Chungungos.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinacion con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED<strong>actualiza su Alerta Temprana Preventiva Regional</strong>, por evento zoosanitario, que se mantiene vigente desde el 12 de diciembre de 2022 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">Dada la distribución de las especies afectadas que se encuentran bajo la tutela de SERNAPESCA (mamíferos marinos y pingüinos), se han establecido estrategias para abordar el monitoreo y vigilancia de la evolución de esta enfermedad.</p><p style=\"text-align: justify\">Se mantiene la coordinación entre SAG y SERNAPESCA para la toma de muestras conforme a los protocolos de las distintas especies.</p><p style=\"text-align: justify\">Producto de la alta e inusual mortalidad de lobos marinos, se mantiene la vigilancia activa en todo el litoral de la ciudad de Arica. Asimismo, a contar de hoy 03 de abril se establece la operación de una empresa que retirará e inhumará los mamíferos marinos muertos encontrados en el litoral de la región.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "3b4df459-764a-4caf-ae49-0d2822389193",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Paihuano por incendio forestal",
+	"fechaHora": "2023-11-18T22:08:54.5454-03:00",
+	"createdAt": "2023-11-19T01:09:52.499Z",
+	"updatedAt": "2023-11-19T22:57:42.274Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-paihuannio-por-incendio-forestal",
+	"parentId": "791136c0-c786-4d92-b5d6-92776ab26358",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Paihuano\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal en la comuna de Paihuano se detalla lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cochiguaz</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1,5 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Información técnica de CONAF</strong></p></td><td><p style=\"text-align:justify\">Sin   avance y con puntos calientes dentro del área quemada</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">1   vivienda, 8 cabañas (6 tipo domo) y 3 bodegas se encuentran con daños en   evaluación</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja </strong>para la comuna de Paihuano por incendio forestal, que se mantiene vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Trabajan en el lugar 1 brigada, 1 técnico y 1 camión aljibe de CONAF junto a Bomberos de Vicuña, Paihuano, Pisco Elqui y La Serena.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

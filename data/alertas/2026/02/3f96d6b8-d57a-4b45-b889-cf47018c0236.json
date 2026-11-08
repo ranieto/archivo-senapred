@@ -1,0 +1,20 @@
+{
+	"id": "3f96d6b8-d57a-4b45-b889-cf47018c0236",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas ",
+	"fechaHora": "2026-02-02T12:36:00.000-03:00",
+	"createdAt": "2026-02-02T15:55:36.211Z",
+	"updatedAt": "2026-02-02T15:56:27.248Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-01-12-12-34-27",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso A13-13/2026 el cual pronosticaba probables tormentas eléctricas con precipitaciones aisladas en precordillera y cordillera de la Región de Tarapacá. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por tormentas eléctricas para la provincia del Tamarugal</strong>, que se mantuvo vigente desde hoy 12 de enero de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

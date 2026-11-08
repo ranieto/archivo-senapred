@@ -1,0 +1,20 @@
+{
+	"id": "4be981ac-1f9c-4c13-9968-59e401d9d118",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de O’Higgins por calor extremo",
+	"fechaHora": "2025-02-09T21:26:00.000-03:00",
+	"createdAt": "2025-02-10T00:44:37.099Z",
+	"updatedAt": "2025-02-10T00:45:59.025Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-ohiggins-por-calor-intenso-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelado el siguiente alertamiento meteorológico para la Región de O’Higgins:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA9-5</p></td><td><p style=\"text-align:justify\">Evento de altas   temperaturas extremas en cordillera de la costa, valle y precordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por calor extremo, </strong>que se mantuvo vigente desde el 05 de febrero de 2025. </span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

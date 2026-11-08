@@ -1,0 +1,20 @@
+{
+	"id": "3302b744-9df8-4f5a-8b3e-a22c99a35cc8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento",
+	"fechaHora": "2025-12-17T11:26:00.000-03:00",
+	"createdAt": "2025-12-17T14:50:42.741Z",
+	"updatedAt": "2025-12-17T14:51:29.127Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-viento-2025-12-14-17-16-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorologico A483/2025, el cual pronosticaba viento normal a moderado en pampa patagónica norte y sur de la Región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para las provincias de Magallanes, Última Esperanza y Tierra del Fuego</strong></span><strong><span style=\"color:black\">, </span></strong><span style=\"color:black\">la cual se mantuvo vigente desde el 14 de diciembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

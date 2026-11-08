@@ -1,0 +1,20 @@
+{
+	"id": "aa8c83af-71f4-4de4-9652-d5b171be702e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2025-07-01T21:46:53.5353-04:00",
+	"createdAt": "2025-07-02T01:49:28.514Z",
+	"updatedAt": "2025-07-06T19:12:28.054Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-17",
+	"parentId": "1618744d-a47b-4585-b2e7-32065a9e88a9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\"> se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A249</span></p></td><td><p><span style=\"color:black\">Altas temperaturas en   sectores de cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">02-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">06-07</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe destacar que, en el caso de que se registren precipitaciones podrían ocurrir desprendimientos de bloques de hielo, aluviones y aumento de caudales, además, considerando que en el periodo de vacaciones de invierno aumenta la población flotante, esta situación aumenta la vulnerabilidad de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico,vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

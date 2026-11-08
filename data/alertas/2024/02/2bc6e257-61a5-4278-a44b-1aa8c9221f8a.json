@@ -1,0 +1,20 @@
+{
+	"id": "2bc6e257-61a5-4278-a44b-1aa8c9221f8a",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la región de Arica y Parinacota por evento meteorológico",
+	"fechaHora": "2024-02-15T04:29:46.4646-03:00",
+	"createdAt": "2024-02-15T07:31:41.191Z",
+	"updatedAt": "2024-03-17T16:30:45.839Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-evento-meteorologico",
+	"parentId": "3ff16e73-462a-4b3a-afca-a23414265065",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Arica y Parinacota:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A31-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera y cordillera de la región.</p></td><td><p style=\"text-align:justify\">13-02</p></td><td><p style=\"text-align:justify\">18-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A32-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en cordillera de la región.</p></td><td><p style=\"text-align:justify\">15-02</p></td><td><p style=\"text-align:justify\">15-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, según lo indicado por el Servicio Nacional de Geología y Minería (SERNAGEOMIN) a través de su Minuta Técnica De Remoción en Masa, se estima que la probabilidad de ocurrencia de remociones en masa es de carácter bajo en el litoral, cordillera de la costa, pampa y precordillera; y moderado en las zonas de cordillera.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED, actualiza la Alerta Temprana Preventiva Regional, por evento meteorológico, que se mantiene vigente desde el 11 de febrero de 2024 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

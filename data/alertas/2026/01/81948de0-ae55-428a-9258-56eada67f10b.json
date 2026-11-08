@@ -1,0 +1,20 @@
+{
+	"id": "81948de0-ae55-428a-9258-56eada67f10b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las provincias de Quillota, San Felipe, Los Andes y Petorca por calor intenso",
+	"fechaHora": "2026-01-14T14:48:37.3737-03:00",
+	"createdAt": "2026-01-14T17:50:12.789Z",
+	"updatedAt": "2026-01-20T01:57:23.925Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-quillota-san-felipe-los-andes-y-petorca-por-calor-intenso-2026-01-14-14-49-57",
+	"parentId": "07f5fac9-dacb-4363-8e95-bd57ee1d46c3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Valparaíso:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Inicio</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Fin</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">Aviso A16-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Evento de   altas temperaturas en precordillera y valles precordilleranos (entre 34 y 36   °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">16-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">18-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para las provincias de Quillota, San Felipe, Los Andes y Petorca por calor intenso, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Con la declaración de esta alerta se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">El <strong>SENAPRED recomienda&nbsp;</strong><strong>a la población</strong> protegerse y extremar las precauciones ante los riesgos derivados del calor intenso, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

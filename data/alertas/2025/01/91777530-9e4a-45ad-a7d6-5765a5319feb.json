@@ -1,0 +1,20 @@
+{
+	"id": "91777530-9e4a-45ad-a7d6-5765a5319feb",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Lampa por incendio forestal",
+	"fechaHora": "2025-01-18T17:10:00.000-03:00",
+	"createdAt": "2025-01-18T20:15:11.335Z",
+	"updatedAt": "2025-01-18T23:43:53.281Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-8",
+	"parentId": "75a311b0-2ec5-44f5-97d5-83e50bf383cb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>CONAF solicita declaración de Alerta Roja Comunal, por presentar incendio forestal avance rápido, con condiciones extremas y con cercanía a sectores poblados.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Camino Noviciado 3</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Lampa (El Noviciado)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>3 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>Compañía de Bomberos de Colina y Lampa</div><div>3 brigadas, 3 aeronaves, 2 técnicos y 1 camión aljibe CONAF</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Lampa por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

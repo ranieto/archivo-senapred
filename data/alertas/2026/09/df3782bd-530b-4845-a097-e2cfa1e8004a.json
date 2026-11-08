@@ -1,0 +1,20 @@
+{
+	"id": "df3782bd-530b-4845-a097-e2cfa1e8004a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Mariquina y Lanco por crecida",
+	"fechaHora": "2026-09-24T04:09:43.4343-03:00",
+	"createdAt": "2026-09-24T07:11:58.946Z",
+	"updatedAt": "2026-09-29T12:30:36.467Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-mariquina-y-lanco-por-crecida-2026-09-24-04-11-40",
+	"parentId": "59b29a91-1306-4aec-84d1-c6ee6477c889",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA)</strong>, la estación hidrométrica “Río Leufucade en Purulón”, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por crecida para las comunas de Mariquina y Lanco,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

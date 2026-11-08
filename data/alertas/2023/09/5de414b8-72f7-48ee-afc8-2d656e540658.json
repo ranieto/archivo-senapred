@@ -1,0 +1,20 @@
+{
+	"id": "5de414b8-72f7-48ee-afc8-2d656e540658",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2023-09-10T18:32:00.000-03:00",
+	"createdAt": "2023-09-10T21:36:14.700Z",
+	"updatedAt": "2023-09-10T21:36:14.700Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-region-de-uble-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Ñuble</strong>, debido a las precipitaciones registradas en la región, se ha reportado la siguiente afectación:<br></p><table><tbody><tr><td rowspan=\"2\"><p><strong>Comuna</strong></p></td><td colspan=\"4\"><p><strong>Afectación a personas</strong></p></td><td><p><strong>Afectación a viviendas</strong></p></td></tr><tr><td><p><strong>Damnificados</strong></p></td><td><p><strong>Aislados</strong></p></td><td><p><strong>Evacuados</strong></p></td><td><p><strong>Albergues habilitados</strong></p></td><td><p><strong>Daños en evaluación</strong></p></td></tr><tr><td><p><strong>Bulnes</strong></p></td><td><p>-</p></td><td><p>40</p></td><td><p>1</p></td><td><p>-</p></td><td><p>10</p></td></tr><tr><td><p><strong>Chillán</strong></p></td><td><p>-</p></td><td><p>-</p></td><td><p>400</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p><strong>Ñiquén</strong></p></td><td><p>1</p></td><td><p>-</p></td><td><p>1</p></td><td><p>1</p></td><td><p>1</p></td></tr><tr><td><p><strong>Pemuco</strong></p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p><strong>Yungay</strong></p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4</p></td></tr><tr><td><p><strong>Total </strong></p></td><td><p><strong>1</strong></p></td><td><p><strong>40</strong></p></td><td><p><strong>402</strong></p></td><td><p><strong>1</strong></p></td><td><p><strong>17</strong></p></td></tr></tbody></table><p>Con relación a las personas aisladas, se indica que corresponden al sector Los Manantiales, comuna de Bulnes, debido a que los caminos vecinales se encuentran interrumpidos.</p><p>En la comuna de Chillán, se realizó la evacuación de 400 personas desde Mall Arauco Chillán, debido a anegamiento y daños en techumbre. Además, el Mercado modelo de la ciudad se encuentra con daños en evaluación, al igual que se evalúa la afectación a personas y daños en viviendas producto del desborde del canal Santa Inés.</p><p>Asimismo, se indica que el Hospital Clínico Herminda Martín de la comuna de Chillán, presenta daños en evaluación en pasillo de la Unidad de Urgencia maternal y en box 5 de adultos en Urgencia, en tanto, los demás hospitales de la región no registran daños.</p><p>Finalmente, según lo indicado por la Superintendencia de Electricidad y Combustibles (SEC), 1.514 clientes se encuentran sin servicio de suministro eléctrico en la región.</p><p>Cabe señalar, que se mantiene vigente la Alerta Amarilla para las comunas de San Fabián, Ñiquén y Coihueco por crecida, de los ríos Perquilauquén y Niblinto.</p><p>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja Regional </strong>por evento meteorológico, que se encuentra vigente desde el 21 de agosto y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

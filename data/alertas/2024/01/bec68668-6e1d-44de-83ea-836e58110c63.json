@@ -1,0 +1,20 @@
+{
+	"id": "bec68668-6e1d-44de-83ea-836e58110c63",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Lampa por incendio forestal",
+	"fechaHora": "2024-01-25T20:25:02.022-03:00",
+	"createdAt": "2024-01-25T23:25:40.691Z",
+	"updatedAt": "2024-01-25T23:26:00.303Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"</span><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Peralillo 2\"</span>, en la comuna de Lampa, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Peralillo 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>150 hectáreas</p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la Comuna de Lampa, por incendio forestal</strong>, que se mantuvo vigente desde el 25 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

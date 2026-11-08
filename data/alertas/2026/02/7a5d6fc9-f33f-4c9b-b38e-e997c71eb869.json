@@ -1,0 +1,20 @@
+{
+	"id": "7a5d6fc9-f33f-4c9b-b38e-e997c71eb869",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Vichuquén por incendio forestal",
+	"fechaHora": "2026-02-18T00:25:32.3232-03:00",
+	"createdAt": "2026-02-18T03:28:45.636Z",
+	"updatedAt": "2026-02-18T03:29:40.144Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-vichuquen-por-incendio-forestal-2026-02-14-18-01-24",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\"><strong>De acuerdo con la información técnica proporcionada por Conaf&nbsp;</strong>respecto al incendio forestal en la comuna de Vichuquén, se informa el siguiente detalle:</span></p><p><span style=\"color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Alto Llico</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Controlado</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">450 hectáreas</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Afectación</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">A raíz de este incendio forestal se registraron 2 personas lesionadas y 3 viviendas destruidas.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la comuna de Vichuquén por incendio forestal</strong>, que se mantuvo vigente desde el 14 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

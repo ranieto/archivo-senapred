@@ -1,0 +1,20 @@
+{
+	"id": "db093e7a-0a6e-4d1f-b9d2-1bfd9635a42a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San Javier por incendio forestal",
+	"fechaHora": "2025-01-24T16:51:49.4949-03:00",
+	"createdAt": "2025-01-24T19:52:44.976Z",
+	"updatedAt": "2025-01-28T23:20:49.066Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-javier-por-incendio-forestal-3",
+	"parentId": "1c666371-ddf3-4307-922a-014bc9eeded8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con la&nbsp;</span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong><span style=\"font-size: 15px\">respecto del incendio forestal que se encuentra en la comuna de San Javier se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Villaboro</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">En   combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">140   hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Producto   de este incendio se procedió con la evacuación preventiva de aproximadamente 500   personas.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de San Javier, por incendio forestal, que se encuentra vigente desde el 24 de enero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

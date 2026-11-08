@@ -1,0 +1,20 @@
+{
+	"id": "9c59e2d7-9d07-45d9-b74d-a6463772b571",
+	"type": "Alerta",
+	"titulo": "Se modifica variable y cobertura de Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+	"fechaHora": "2024-10-05T14:45:00.000-03:00",
+	"createdAt": "2024-10-05T17:45:36.289Z",
+	"updatedAt": "2024-10-11T02:46:59.301Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-por-tormentas-electricas-para-la-provincia-del-loa-y-las-comunas-de-antofagasta-y-taltal",
+	"parentId": "2ebb8d74-e286-4386-8d2b-c77c9c39c51f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A367-1</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en cordillera.</p></td><td><p style=\"text-align:center\">05-10</p></td><td><p style=\"text-align:center\">05-10</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A374</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en el litoral.</p></td><td><p style=\"text-align:center\">08-10</p></td><td><p style=\"text-align:center\">08-10</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A375</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en precordillera, precordillera salar y cordillera.</p></td><td><p style=\"text-align:center\">08-10</p></td><td><p style=\"text-align:center\">10-10</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A376</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera y cordillera. Asociadas con chubascos   aislados.</p></td><td><p style=\"text-align:center\">07-10</p></td><td><p style=\"text-align:center\">08-10</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED, <strong>modifica la variable y cobertura de la Alerta Temprana Preventiva a Regional por Evento Meteorológico</strong>, que se encuentravigente desde el 03 de octubre y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de variable y cobertura de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

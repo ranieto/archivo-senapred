@@ -1,0 +1,20 @@
+{
+	"id": "12a1dad6-0b96-46f0-a8ed-775e9070e29e",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de O´Higgins y Metropolitana",
+	"fechaHora": "2024-09-08T16:41:00.000-03:00",
+	"createdAt": "2024-09-08T20:37:22.288Z",
+	"updatedAt": "2024-09-08T20:37:22.288Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-ohiggins",
+	"parentId": "d0e5fc73-9907-40c5-9421-b49ef8320c5d",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal, Colchagua, Maipo, Talagante\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Olivar, San Fernando, Machalí, Malloa, Graneros, Rengo, Mostazal, Rancagua, Peñaflor, San Bernardo, Calera de Tango\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 16px\">Un sismo de mediana&nbsp; intensidad se percibió a las 16:24 horas en las regiones de O´Higgins y Metropolitana. Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><p style=\"text-align: justify\"><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Metropolitana de Santiago</strong></p></td></tr><tr><td><p>San Bernardo:</p></td><td><p>IV</p></td></tr><tr><td><p>Talagante:</p></td><td><p>III</p></td></tr><tr><td><p>Peñaflor:</p></td><td><p>II</p></td></tr><tr><td><p>Calera de Tango:</p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Libertador Bernardo O'Higgins</strong></p></td></tr><tr><td><p>Rancagua:</p></td><td><p>V</p></td></tr><tr><td><p>Machalí­:</p></td><td><p>IV</p></td></tr><tr><td><p>Malloa:</p></td><td><p>IV</p></td></tr><tr><td><p>Mostazal:</p></td><td><p>IV</p></td></tr><tr><td><p>Rengo:</p></td><td><p>IV</p></td></tr><tr><td><p>Graneros:</p></td><td><p>IV</p></td></tr><tr><td><p>San Fernando:</p></td><td><p>III</p></td></tr><tr><td><p>Olivar:</p></td><td><p>III</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 16px\"><br>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><span style=\"color: black\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.4 y se localizó a&nbsp;<span style=\"font-size: 16px\">23 Kms al Este de Rancagua</span>.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

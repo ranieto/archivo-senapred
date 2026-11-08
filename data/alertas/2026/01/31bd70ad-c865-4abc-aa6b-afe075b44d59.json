@@ -1,0 +1,20 @@
+{
+	"id": "31bd70ad-c865-4abc-aa6b-afe075b44d59",
+	"type": "Alerta",
+	"titulo": " Se actualiza Alerta Roja para la Región Metropolitana por calor extremo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-11T20:15:55.592Z",
+	"updatedAt": "2026-01-13T14:34:31.398Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-metropolitana-por-calor-extremo-2026-01-09-10-50-28",
+	"parentId": "368de9bb-6b4d-4bab-a3d6-29ad0b4d825c",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso AA4-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas extremas en cordillera de la costa, valle y   precordillera (entre 34 y 37 °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">11-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">11-01</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A7-6</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas en cordillera de la costa, valle y precordillera   (entre 31 y 34 °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">12-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">13-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Roja Regional por calor extremo, </strong>que se mantiene vigente desde el 09 de enero de 2026 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Con la actualización de esta Alerta Roja, se mantendrán movilizados todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">El <strong>SENAPRED recomienda</strong><strong>a la población</strong> protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

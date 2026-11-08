@@ -1,0 +1,20 @@
+{
+	"id": "f38fa850-1253-4c46-aa60-20b1915c260d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Traiguén por incendio forestal",
+	"fechaHora": "2025-01-12T16:52:00.000-03:00",
+	"createdAt": "2025-01-12T20:10:50.177Z",
+	"updatedAt": "2025-01-13T00:45:33.513Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-traiguen-por-incendio-forestal",
+	"parentId": "a4485801-25f4-4e61-99b4-f83962d7f275",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Traiguén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\">De acuerdo a los antecedentes proporcionados por CONAF, en combate se encxuentra el incendio Forestal \"La Unión Hijuela 3\" el que afecta una superficie de 20 hectareas de vegetación en la comuna de Traiguén. Cabe señalar que el incendio se desarrolla cercano a sectores habitados.</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Unión Hijuela 3</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna (Sector)</strong></p></td><td><p style=\"text-align:justify\">Traiguén</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Hectáreas</strong></p></td><td><p style=\"text-align:justify\">20</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Descripción</strong></p></td><td><p style=\"text-align:justify\">Incendio que se desarrolla   cercano a sectores habitados.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Traiguén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

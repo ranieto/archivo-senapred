@@ -1,0 +1,20 @@
+{
+	"id": "f0b7bb76-2cd0-409f-9f06-6b69c4485649",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Quillota por incendio forestal",
+	"fechaHora": "2024-12-07T14:53:14.1414-03:00",
+	"createdAt": "2024-12-07T17:54:57.092Z",
+	"updatedAt": "2024-12-08T01:57:50.533Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quillota-por-incendio-forestal",
+	"parentId": "d87d85b6-4f21-4ecf-83ea-5c243e5bbd9b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong><span style=\"font-size: 16px\">respecto del incendio forestal que se encuentra en la comuna de Quillota, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre   del incendio</strong></span></a></p></td><td><p style=\"text-align:justify\">Fundo Santa Rosa</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El incendio se desarrolla cercano a sectores habitados.</p><p style=\"text-align:justify\">Se activó mensajería SAE a las 14:25 horas para la población Enrique   Arenas.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara <strong>Alerta Roja para la comuna de Quillota por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

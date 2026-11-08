@@ -1,0 +1,20 @@
+{
+	"id": "29d5bf1f-f648-45b2-ba82-82052c0feee5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por amenaza de incendios forestales",
+	"fechaHora": "2024-12-26T10:32:27.2727-03:00",
+	"createdAt": "2024-12-26T13:33:54.174Z",
+	"updatedAt": "2025-01-13T14:46:11.201Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-amenaza-de-incendios-forestales-10",
+	"parentId": "4a532cae-bcf4-4b2f-b425-7b09aeec16c8",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información técnica proporcionada por CONAF y la última actualización de las condiciones meteorológicas, las variables de riesgo han dejado de presentar valores críticos para la ocurrencia y propagación de incendios forestales. Asimismo, no se registran avisos meteorológicos vigentes para la región de O'Higgins, lo que supone disminución en el riesgo de incendios forestales.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la región de Libertador General Bernardo O'Higgins, por amenaza de incendios forestales, que se mantuvo vigente desde el 21 de diciembre de 2024.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

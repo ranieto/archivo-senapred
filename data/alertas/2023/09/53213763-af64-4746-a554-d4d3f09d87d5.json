@@ -1,0 +1,20 @@
+{
+	"id": "53213763-af64-4746-a554-d4d3f09d87d5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la comuna de Curacautín por amenaza de desborde ",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-16T13:25:38.546Z",
+	"updatedAt": "2023-09-16T13:30:12.418Z",
+	"urlAccess": "se-declara-alerta-roja-y-cancela-alerta-amarilla-para-la-comuna-de-curacautin-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Curacautín\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación hidrométrica “Río Cautín en Rari ruca”, ubicada en la comuna de Curacautín, ha registrado un aumento en su caudal, alcanzando el umbral rojo, con un valor de 3.700 m3/s.<br><br>En consideración a este antecedente, que supone un aumento del riesgo para la población cercana a este curso de agua, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Roja y cancela Alerta Amarilla para la comuna de Curacautín, por amenaza de desborde, vigente desde hoy y hasta que las condiciones así lo ameriten.<br><br>Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.<br><br>Cabe señalar que, la comuna de Melipeuco mantiene su Alerta Amarilla por amenaza de desborde.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

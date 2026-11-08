@@ -1,0 +1,20 @@
+{
+	"id": "d2119dd0-1a36-4777-82c0-baef2ae2fa77",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla y cancela Alerta Roja para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2023-12-10T22:13:21.2121-03:00",
+	"createdAt": "2023-12-11T01:14:21.352Z",
+	"updatedAt": "2023-12-13T15:19:42.713Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-santo-domingo-por-incendio-forestal",
+	"parentId": "9aa297f7-83e8-46bb-9dac-c1b4c428fe13",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se desarrolla en la comuna de Santo Domingo, se indica lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">Cruce   La Manga.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna   afectada</strong></p></td><td><p style=\"text-align:justify\">Santo   Domingo.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">45   hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   desplegados</strong></p></td><td><p style=\"text-align:justify\">2   técnicos, 6 brigadas, 1 camión cisterna, 1 skidder y 1 helicóptero de CONAF;   1 BRIFE, 1 camión de transporte de personal y 1 camión aljibe del Ejército de   Chile; y 1 helicóptero gestionado por SENAPRED.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla y cancela la Alerta Roja para la comuna de Santo Domingo por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

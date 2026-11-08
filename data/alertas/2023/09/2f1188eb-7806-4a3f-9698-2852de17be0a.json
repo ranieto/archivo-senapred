@@ -1,0 +1,20 @@
+{
+	"id": "2f1188eb-7806-4a3f-9698-2852de17be0a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las comunas de Toltén, Teodoro Schmidt, Pucón y Curarrehue por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-22T13:03:33.684Z",
+	"updatedAt": "2023-09-22T13:05:08.267Z",
+	"urlAccess": "monitoreo-alerta-roja-para-las-comunas-de-tolten-teodoro-schmidt-pucon-y-curarrehue-por-evento-meteorologico",
+	"parentId": "34669a37-76ae-4470-b152-2819ea5fa524",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>Actualizacion Estado</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

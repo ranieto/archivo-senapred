@@ -1,0 +1,20 @@
+{
+	"id": "770f2060-30aa-4d43-bad7-7a0c3f4d7943",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-01-18T23:17:45.033Z",
+	"updatedAt": "2024-01-18T23:23:36.232Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-valparaiso-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Valparaíso, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Laguna Verde</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>5 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio presenta cercanía a sectores   habitados</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>13 brigadas de CONAF, 4 técnicos de CONAF,&nbsp;1 avión tanker, 2 helicópteros,&nbsp;1 puesto de mando de CONAF, Carabineros, equipo SENAPRED, personal GRD municipal y 3 camiones Aljibe.</div></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:#212529\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:#212529\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

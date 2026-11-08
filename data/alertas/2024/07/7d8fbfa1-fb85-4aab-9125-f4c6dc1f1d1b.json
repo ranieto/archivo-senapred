@@ -1,0 +1,20 @@
+{
+	"id": "7d8fbfa1-fb85-4aab-9125-f4c6dc1f1d1b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento zoosanitario",
+	"fechaHora": "2024-07-05T11:40:00.000-04:00",
+	"createdAt": "2024-07-05T15:44:18.844Z",
+	"updatedAt": "2024-07-05T15:44:34.150Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), mediante su Ordinal N°1.969 del 07 de junio de 2024, se informa el </span><strong>término de la emergencia por influenza aviar altamente patógena (H5N1) en el territorio nacional</strong><span style=\"color: black\">, tras un esfuerzo exitoso de erradicación del virus en aves de corral y una vigilancia sostenida en aves silvestres, corroborando la ausencia de circulación viral.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, la Dirección Regional de SENAPRED del Biobío, <strong>cancela la Alerta Temprana Preventiva Regional por evento zoosanitario</strong>, que se mantuvo vigente desde el 24 de marzo del 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

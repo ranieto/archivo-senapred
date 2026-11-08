@@ -1,0 +1,20 @@
+{
+	"id": "107e7b50-3acd-462f-aea1-2c0a6616a8e4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Linares, Villa Alegre y San Javier por crecida",
+	"fechaHora": "2026-07-17T15:06:04.044-04:00",
+	"createdAt": "2026-07-17T19:07:50.681Z",
+	"updatedAt": "2026-07-20T19:02:54.761Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-linares-villa-alegre-y-san-javier-por-crecida-2026-07-17-15-07-31",
+	"parentId": "01c22be6-9bcf-43a9-ab32-efc4e76e04bf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica <strong>Rio Loncomilla en Bodega ubicada justo en la confluencia de los ríos Perquilauquén con Longaví</strong>, en las comunas de Linares, Villa Alegre y San Javier, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe mencionar que, el resto de las estaciones aguas abajo se encuentran al momento en umbrales</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">normales.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por crecida para las comunas de Linares, Villa Alegre y San Javier,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

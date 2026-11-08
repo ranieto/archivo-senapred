@@ -1,0 +1,20 @@
+{
+	"id": "63f42627-3a77-4b19-acfa-d3d1e0a0e274",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de Los Lagos por incendios forestales",
+	"fechaHora": "2024-02-14T04:37:23.2323-03:00",
+	"createdAt": "2024-02-14T07:38:48.649Z",
+	"updatedAt": "2024-02-27T01:53:45.032Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-los-lagos-por-incendios-forestales",
+	"parentId": "f73354af-8528-42d1-a220-834d5f957619",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la&nbsp;<span style=\"color: black\">Corporación Nacional Forestal (CONAF)</span>,</strong> existe una ocurrencia de incendios forestales desarrollándose al mismo tiempo en la Región de Los Lagos, los que concentran los recursos de combate disponibles en la región y anticipan requerir reforzamiento de integrantes del SINAPRED.<br></p><p>Cabe señalar que, se mantienen vigentes las Alertas Rojas por incendio forestal para las comunas de Puerto Montt, Queilén y Dalcahue.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Región de Los Lagos por incendios forestales, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

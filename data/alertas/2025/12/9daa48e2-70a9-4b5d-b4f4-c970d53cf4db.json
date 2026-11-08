@@ -1,0 +1,20 @@
+{
+	"id": "9daa48e2-70a9-4b5d-b4f4-c970d53cf4db",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2025-12-04T05:13:00.000-03:00",
+	"createdAt": "2025-12-04T08:18:41.159Z",
+	"updatedAt": "2025-12-04T23:57:23.392Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-2025-12-04-05-18-26",
+	"parentId": "51b3c831-4007-493a-8d43-da74bbb94407",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Valparaíso </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>ESTANQUE ESVAL-LA ISLA</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Valparaíso y Viña del Mar, 2   brigadas terrestres y 3 técnicos.</p></td></tr><tr><td><p><strong>Afectación</strong></p></td><td><p>15 personas evacuadas</p></td></tr></tbody></table><p style=\"text-align:justify\">Incendio forestal con amenaza inminente a 20 viviendas, ubicadas en el sector de LA ISLA, a una distancia promedio de 200 m.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Valparaíso por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

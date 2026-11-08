@@ -1,0 +1,20 @@
+{
+	"id": "c9f46289-81bc-43bf-8bc5-8bf7c35572cb",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Renaico por desborde y cancela Alerta Amarilla por crecida ",
+	"fechaHora": "2025-08-01T13:51:44.4444-04:00",
+	"createdAt": "2025-08-01T17:53:54.857Z",
+	"updatedAt": "2025-08-03T16:48:32.542Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-renaico-por-crecida",
+	"parentId": "9d616627-9bb5-4dac-bed5-2b4b7ab98409",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con lo informado por la Dirección General de Aguas (DGA)</strong>, mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación “Río Vergara en Tijeral”, en la comuna de Renaico, ha alcanzado el umbral de alerta roja, lo cual podría ocasionar afectación a personas y daños en infraestructuras de la comuna si continúa aumentando el caudal.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED La Araucanía en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Roja por desborde y cancela la Alerta Amarilla por crecida para la comuna de Renaico</strong>,vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

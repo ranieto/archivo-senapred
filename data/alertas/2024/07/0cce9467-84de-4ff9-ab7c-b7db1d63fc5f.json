@@ -1,0 +1,20 @@
+{
+	"id": "0cce9467-84de-4ff9-ab7c-b7db1d63fc5f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la provincia de Cautín por evento meteorológico",
+	"fechaHora": "2024-07-05T19:26:00.000-04:00",
+	"createdAt": "2024-07-05T23:31:09.595Z",
+	"updatedAt": "2024-07-05T23:32:12.716Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-cautin-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por los municipios de la Provincia de Cautín en relación con los daños y afectación reportados por el evento meteorológico, se indica que han disminuido la cantidad de personas aisladas, debido a que las rutas y caminos de la Provincia en su mayoría se mantienen habilitados.<br></p><p style=\"text-align:justify\">Por otra parte, la Dirección Meteorológica de Chile (DMC), en su informe de amenaza emitido en la presente jornada no pronostica precipitaciones para los próximos días en la región.</p><p style=\"text-align:justify\">Cabe señalar, la Dirección General de Aguas (DGA), indica que la gran mayoría de las estaciones Fluviométricas se han mantenido estables en sus niveles y con tendencia a la baja de los cauces.</p><p style=\"text-align:justify\">Finalmente, se han cancelado las <strong><span style=\"color:black\">Alertas Rojas por desborde</span></strong><span style=\"color:black\"> de las comunas de Freire, Loncoche, Nueva Imperial y Toltén; y las <strong>Alertas Amarillas por amenaza de desborde</strong> para las comunas de Teodoro Schmidt y Carahue.</span></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja para la provincia de Cautín por evento meteorológico,</strong> que se mantuvo vigente desde el 28 de junio.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

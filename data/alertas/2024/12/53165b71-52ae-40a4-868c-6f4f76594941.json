@@ -1,0 +1,20 @@
+{
+	"id": "53165b71-52ae-40a4-868c-6f4f76594941",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2024-12-25T19:15:28.2828-03:00",
+	"createdAt": "2024-12-25T22:21:49.030Z",
+	"updatedAt": "2024-12-27T23:22:12.312Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal",
+	"parentId": "6dd9de10-72b5-4b6a-8405-c9a9e7862e4f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio Forestal contenido entre los puntos 1 al 6.</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Raya</p></td></tr><tr><td><div><strong>Comuna (sector)</strong></div></td><td><div>Cauquenes</div></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.271 hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">Bomberos de Cauquenes, 10 Brigadas CONAF, 4 brigadas Forestal Arauco, 1 brigadas Forestal Vista Hermosa, 7 Técnicos CONAF, 4 Aviones Cisterna CONAF, 7 aeronaves CONAF,</p><p style=\"text-align: justify\">Otros recursos: 4 Skidder CONAF, 2 Skidder Forestal Arauco, 2 camiones cisternas Conaf, 1 puesto de mando, 1 camión cisterna Vista Hermosa y 1 personal Municipal de Cauquenes.</p></td></tr></tbody></table><p><br>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Cauquenes, por incendio forestal, que se encuentra vigente desde el 24 de diciembre de 2024.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

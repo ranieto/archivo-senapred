@@ -1,0 +1,21 @@
+{
+	"id": "02e2ba0d-071d-443f-9fa3-cc99d7bdb3b3",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Ñuble, Biobío y La Araucanía",
+	"fechaHora": "2026-05-09T22:39:25.2525-04:00",
+	"createdAt": "2026-05-10T02:41:15.204Z",
+	"updatedAt": "2026-05-10T02:44:21.557Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-uble-2026-05-09-22-38-28",
+	"parentId": "77cd7726-3714-402b-b6ec-a335cc8647b5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369",
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble, Región de la Araucanía, Región del Biobío\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Un sismo de menor intensidad se percibió a las 22:34 horas en las regiones de Ñuble, Biobío y La Araucanía. Las intensidades en escala de Mercalli son:</span></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Nacimiento:   </p></td><td><p>V</p></td></tr><tr><td><p>Chiguayante:   </p></td><td><p>V</p></td></tr><tr><td><p>Concepción:   </p></td><td><p>V</p></td></tr><tr><td><p>Talcahuano:   </p></td><td><p>V</p></td></tr><tr><td><p>Tomé:   </p></td><td><p>V</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Lautaro:   </p></td><td><p>V</p></td></tr><tr><td><p>Padre   las Casas: </p></td><td><p>V</p></td></tr><tr><td><p>Temuco:   </p></td><td><p>V</p></td></tr><tr><td><p>Toltén:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Chillán:   </p></td><td><p>IV</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">AEl Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

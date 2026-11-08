@@ -1,0 +1,20 @@
+{
+	"id": "6175863b-3019-40ec-aa00-ce471e0e2f2c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San Bernardo por incendio forestal ",
+	"fechaHora": "2023-12-19T18:09:00.000-03:00",
+	"createdAt": "2023-12-19T21:11:42.404Z",
+	"updatedAt": "2023-12-20T01:52:43.227Z",
+	"urlAccess": "declara-alerta-roja-para-la-comuna-de-san-bernardo-por-incendio-forestal",
+	"parentId": "103e9e51-e295-4c22-a5a9-7be94df41cb9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Bernardo\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto al incendio forestal en la comuna de San Bernardo, se reporta lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">El Barrancón 2.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5,5 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">2 bodegas destruidas. Además, 23 personas fueron   evacuadas preventivamente desde un Centro de Rehabilitación, las cuales   posteriormente retornaron al Centro. </p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja por incendio forestal para la comuna de San Bernardo</strong>, que se encuentra vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio 1 técnico, 8 brigadas, 1 helicóptero y 2 camiones de CONAF; Carabineros; Bomberos de San Bernardo, Talagante, Isla de Maipo, Metropolitano Sur, Puente Alto y Paine; y equipo regional SENAPRED.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

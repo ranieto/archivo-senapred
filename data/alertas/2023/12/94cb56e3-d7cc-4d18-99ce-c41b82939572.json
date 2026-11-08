@@ -1,0 +1,20 @@
+{
+	"id": "94cb56e3-d7cc-4d18-99ce-c41b82939572",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Dalcahue por incendio forestal",
+	"fechaHora": "2023-12-31T14:35:55.5555-03:00",
+	"createdAt": "2023-12-31T17:36:53.193Z",
+	"updatedAt": "2023-12-31T17:38:05.171Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-dalcahue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Dalcahue\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF</strong>), respecto al incendio forestal en la comuna de Dalcahue, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Taiquemo 2.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">9,9 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal controlado, con líneas de cortafuego en todo el perímetro.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla por incendio forestal para la comuna de Dalcahue</strong>, que se mantuvo vigente desde el 29 de diciembre.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

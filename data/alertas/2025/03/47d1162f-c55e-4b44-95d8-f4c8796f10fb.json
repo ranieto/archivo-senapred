@@ -1,0 +1,20 @@
+{
+	"id": "47d1162f-c55e-4b44-95d8-f4c8796f10fb",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de La Estrella por incendio forestal",
+	"fechaHora": "2025-03-08T16:54:56.5656-03:00",
+	"createdAt": "2025-03-08T19:59:27.214Z",
+	"updatedAt": "2025-03-08T21:25:30.623Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal-7",
+	"parentId": "35160350-e1ed-4892-8ba9-c9f7ec0a3c8f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de La Estrella,&nbsp;se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Boldal</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En trayecto</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se desarrolla cercano a sectores poblados</p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, <strong>la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de La Estrella por incendio forestal</strong> \"El Boldal\" (ATR N°061), vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div style=\"text-align: justify\">Con esta declaración de Alerta Roja, <strong>se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED</strong>) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

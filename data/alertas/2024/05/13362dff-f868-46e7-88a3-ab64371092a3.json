@@ -1,0 +1,20 @@
+{
+	"id": "13362dff-f868-46e7-88a3-ab64371092a3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+	"fechaHora": "2024-05-08T14:52:00.000-04:00",
+	"createdAt": "2024-05-08T19:02:30.076Z",
+	"updatedAt": "2024-05-08T19:04:01.787Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A129-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de viento blanco en cordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A142-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto periodo de tiempo en litoral y cordillera de la   costa.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A144-1</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en litoral y cordillera de la costa.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional</strong>, por <strong>evento meteorológico,</strong> que se mantuvo vigente desde el 06 de mayo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

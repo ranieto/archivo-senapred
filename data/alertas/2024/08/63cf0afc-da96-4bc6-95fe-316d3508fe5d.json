@@ -1,0 +1,20 @@
+{
+	"id": "63cf0afc-da96-4bc6-95fe-316d3508fe5d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Tierra del Fuego por evento masivo",
+	"fechaHora": "2024-08-19T12:06:00.000-04:00",
+	"createdAt": "2024-08-19T16:06:41.921Z",
+	"updatedAt": "2024-08-19T16:07:41.612Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-tierra-del-fuego-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes</strong>, sin emergencias ha finalizado el evento masivo “Gran Premio de La Hermandad”, el cual se desarrolló entre los días 16 y 18 de agosto de 2024 en la Provincia de Tierra del Fuego.<br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la Provincia de Tierra del Fuego por evento masivo,</strong> que se mantuvo vigente desde el 14 de agosto de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

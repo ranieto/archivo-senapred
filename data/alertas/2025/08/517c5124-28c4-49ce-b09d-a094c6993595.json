@@ -1,0 +1,20 @@
+{
+	"id": "517c5124-28c4-49ce-b09d-a094c6993595",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por precipitaciones",
+	"fechaHora": "2025-08-05T11:03:00.000-04:00",
+	"createdAt": "2025-08-05T15:17:24.735Z",
+	"updatedAt": "2025-08-05T15:17:42.360Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> mediante su informe de amenaza meteorológica emitida durante la presente jornada, se pronostican precipitaciones débiles en la Región de Los Lagos, lo que prevé el debilitamiento de las condiciones meteorológicas que dieron origen a esta alerta. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por precipitaciones, </strong>que se encontraba vigente desde el 21 de julio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

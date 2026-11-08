@@ -1,0 +1,20 @@
+{
+	"id": "2d98ae57-13dc-4439-b9c0-0a11ffe63cd0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Última Esperanza por evento masivo",
+	"fechaHora": "2023-11-20T12:29:00.000-03:00",
+	"createdAt": "2023-11-20T15:31:32.532Z",
+	"updatedAt": "2023-11-20T15:32:01.852Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes, en relación con la competencia deportiva automovilística denominada “Las 3 horas de Puerto Natales”, se informa que esta concluyó sin novedades.<br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong> para la Provincia de Última Esperanza por evento masivo, que se encontraba vigente desde el 17 de noviembre.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

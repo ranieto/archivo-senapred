@@ -1,0 +1,20 @@
+{
+	"id": "f002f0f6-fef0-47cb-a7d5-4bdd6833b7bb",
+	"type": "Alerta",
+	"titulo": "Se Modifica Cobertura y Variable de Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca a nevadas",
+	"fechaHora": "2024-06-14T23:17:54.5454-04:00",
+	"createdAt": "2024-06-15T03:20:03.986Z",
+	"updatedAt": "2024-06-15T17:32:23.696Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2",
+	"parentId": "66e94b9c-a2eb-4ef2-90d2-5670d2c177e1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Nevadas\",\"nombreImg\":\"nevadas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fue cancelado el Aviso Meteorológico A203-2/2024 que pronosticaba viento normal a moderado en zonas de la Región de Coquimbo. No obstante, se mantiene vigente el siguiente alertamiento meteorológico para la región:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   208</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas en cordillera de la región.</p></td><td><p style=\"text-align:center\">12-06</p></td><td><p style=\"text-align:center\">15-06</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes la Delegación Presidencial Regional de Coquimbo, en coordinación con la Dirección Regional del SENAPRED, <strong>Modifica Cobertura y Variable de Alerta Temprana Preventiva a nevadas</strong>, para las comunas de <strong>La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca,</strong> la que se mantiene vigente desde el 12 de junio <span style=\"color:black\">y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "10cc82c8-9c32-4296-9667-ad2b1a10f5a4"
+}

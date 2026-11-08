@@ -1,0 +1,20 @@
+{
+	"id": "d2f6810c-82a8-4137-affd-4f0a53433a19",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2024-12-20T15:36:08.088-03:00",
+	"createdAt": "2024-12-20T18:36:54.098Z",
+	"updatedAt": "2024-12-20T21:35:31.856Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-antonio-por-incendio-forestal-2",
+	"parentId": "78e743ce-8d1c-4ee3-969b-0bb2b930b941",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de San Antonio indica:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Vertedero Cartagena</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.3 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio se encuentra cercano a sectores poblados.</p></td></tr><tr><td><p>​<strong>Recursos</strong>​</p></td><td><p>4 brigadas, 1 camión aljibe, 1 PC CODE y 2 helicópetros de   CONAF; Bomberos de San Antonio y   Cartagena&nbsp;</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de San Antonio por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br> Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

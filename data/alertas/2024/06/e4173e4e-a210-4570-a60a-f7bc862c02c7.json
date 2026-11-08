@@ -1,0 +1,20 @@
+{
+	"id": "e4173e4e-a210-4570-a60a-f7bc862c02c7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la provincia de Cautín por evento meteorológico",
+	"fechaHora": "2024-06-28T14:50:00.000-04:00",
+	"createdAt": "2024-06-28T19:07:13.542Z",
+	"updatedAt": "2024-07-05T23:31:11.000Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-cautin-por-evento-meteorologico",
+	"parentId": "0cce9467-84de-4ff9-ab7c-b7db1d63fc5f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía</strong>, se han reportado daños y afectación producto del evento meteorológico, principalmente por anegamientos, desbordes de cauces y remociones en masa.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, las estaciones hidrométricas de la Dirección General de Aguas (DGA) indican un aumento de caudales en varios ríos de la provincia, indicando un aumento de las condiciones de riesgo de las comunas de la provincia de Cautín. Si estos parámetros continúan al alza pueden generar daños a sectores urbanos, rurales e infraestructura crítica.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar que, se realizó una evacuación preventiva del sector Isla Licán por desborde del estero Huilio y del río Toltén, en la comuna de Teodoro Schimidt, la cual fue reforzada mediante mensajería SAE a las 14:08 horas de hoy.</span></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para la provincia de Cautín por evento meteorológico,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otro lado, se mantienen vigentes la Alerta Roja por remoción en masa para la comuna de Toltén; las Alertas Rojas por desborde para las comunas de Toltén, Nueva Imperial, Freire y Loncoche; por amenaza de desborde para las comunas de Lautaro, Carahue, Gorbea y Pitrufquén; y las Alertas Amarillas por amenaza de desborde para las comunas de Teodoro Schimidt, Pucón, Los Sauces y Angol.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "2709ae46-3920-4494-b063-b2d45a743731",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comunas de Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví, Parral, Licantén, Vichuquén, Curepto, Constitución, Chanco y Pelluhue  por viento ",
+	"fechaHora": "2024-04-26T16:05:00.000-04:00",
+	"createdAt": "2024-04-26T20:08:11.491Z",
+	"updatedAt": "2024-05-02T02:17:08.717Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-romeral-curico-molina-san-clemente-colbun-linares-longavi-y-parral-por-viento-4",
+	"parentId": "0b232775-7105-49fb-bc7a-05afc6a83557",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca, Cauquenes, Curicó, Linares\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví, Parral, Licantén, Vichuquén, Curepto, Constitución, Chanco, Pelluhue\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A106-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado, con probabilidad de viento blanco en cordillera.</p></td><td><p style=\"text-align:center\">25-04</p></td><td><p style=\"text-align:center\">30-04</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A115</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral de la región.</p></td><td><p style=\"text-align:center\">29-04</p></td><td><p style=\"text-align:center\">29-04</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que de acuerdo con lo indicado en el Informe de Amenaza Meteorológica emitido el día de hoy por DMC, se espera viento de 50 km/h con rachas entre 60 y 70 km/h en cordillera.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone un aumento del riesgo asociado a dicha variable meteorológica, la Delegación Presidencial Regional del Maule, en coordinación con la Dirección Regional del SENAPRED, <strong>modifica cobertura de Alerta Temprana Preventiva por viento para las comunas de Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví, Parral, Licantén, Vichuquén, Curepto, Constitución, Chanco, Pelluhue</strong>, la cual se mantiene vigente desde el 23 de abril y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

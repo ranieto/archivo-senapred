@@ -1,0 +1,20 @@
+{
+	"id": "2b7f8633-20c8-4266-9efc-13ad6d70cdb3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico",
+	"fechaHora": "2024-01-21T18:09:00.000-03:00",
+	"createdAt": "2024-01-21T21:24:28.104Z",
+	"updatedAt": "2024-02-09T15:14:30.278Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico",
+	"parentId": "a24436e7-1e9a-49b5-bc1f-818f82de2823",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Tarapacá</strong>, durante la pasada madrugada se registraron precipitaciones en la comuna de Colchane, ocasionando la activación de un flujo de agua que descendió desde un cerro aledaño a la Posta Rural de Cariquima, con la consecuente inundación de esta misma. Producto de lo anterior, se registró además la rotura de una cañería de agua potable, que dejó con daños por evaluar a 2 viviendas del sector.<br></p><p style=\"text-align:justify\">Con el fin de dar una adecuada respuesta al evento, por medio de la Delegación Provincial del Tamarugal fueron requeridos efectivos del Ejército de Chile, quienes apoyaron con labores de extracción del agua y control de ingreso en la Posta Rural de Cariquima. Adicionalmente, personal municipal apoyó con 1 camión aljibe para abastecer con agua potable y habilitó como albergue un establecimiento educacional para las personas afectadas.</p><p style=\"text-align:justify\">Cabe mencionar que, la Dirección Regional de SENAPRED de Tarapacá <strong>mantiene Alerta Temprana Preventiva para la provincia del Tamarugal</strong> por evento meteorológico, que se mantiene vigente desde el 16 de enero de 2024. </p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

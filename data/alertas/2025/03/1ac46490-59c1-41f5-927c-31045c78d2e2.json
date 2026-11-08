@@ -1,0 +1,20 @@
+{
+	"id": "1ac46490-59c1-41f5-927c-31045c78d2e2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Pinto por incendio forestal",
+	"fechaHora": "2025-03-28T14:28:00.000-03:00",
+	"createdAt": "2025-03-28T17:39:40.808Z",
+	"updatedAt": "2025-03-28T17:43:52.260Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pinto-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pinto\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para la comuna de Pinto con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.<br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>ATACALCO</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>108 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>8 Brigadas de CONAF, 6 Técnicos CONAF, 7 Helicópteros   CONAF y 1 Ambulancia ACHS</p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

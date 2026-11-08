@@ -1,0 +1,20 @@
+{
+	"id": "dfe0fabd-822a-40ea-a26c-cf29a325cb3e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2026-08-17T18:57:25.2525-04:00",
+	"createdAt": "2026-08-17T22:58:46.594Z",
+	"updatedAt": "2026-08-17T23:00:06.580Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-08-13-11-33-42",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) y el monitoreo efectuado por la Dirección Regional Metropolitana de SENAPRED, se confirma el debilitamiento progresivo de las condiciones meteorológicas que dieron origen a la presente alerta.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED se<strong> cancela la Alerta Temprana Preventiva Regional por evento meteorológico,</strong> que se mantenía vigente desde el 16 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

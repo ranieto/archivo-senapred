@@ -1,0 +1,20 @@
+{
+	"id": "f5002683-4d1b-44c1-86c5-1bbea7dc2c36",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Valparaísopor incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-12-31T20:55:41.114Z",
+	"updatedAt": "2023-12-31T20:56:32.626Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaisopor-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se registra un incendio forestal en la comuna de Valparaíso, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Complejo Las Tablas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El   incendio se encuentra activo y cercano a la Reserva Nacional Lago Peñuelas. </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">8   brigadas, 2 técnicos, 2 PC CODE, 2 camiones aljibe, 3 aviones y 4   helicópteros de CONAF; Bomberos de Valparaíso y Casablanca; Carabineros; y   personal municipal con apoyo de 1 camión aljibe.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de Valparaíso</strong><strong>por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

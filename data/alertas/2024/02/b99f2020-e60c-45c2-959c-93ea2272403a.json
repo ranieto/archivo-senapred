@@ -1,0 +1,20 @@
+{
+	"id": "b99f2020-e60c-45c2-959c-93ea2272403a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Vicuña por evento masivo",
+	"fechaHora": "2024-02-26T10:47:24.2424-03:00",
+	"createdAt": "2024-02-26T13:48:40.774Z",
+	"updatedAt": "2024-02-26T13:49:52.153Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-vicuna-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Vicuña\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo</strong>, ha finalizado el evento masivo “Carnaval Elquino”, que se realizó en la comuna de Vicuña, el cual congregó entre 2.000 a 7.000 personas durante varias jornadas. Cabe mencionar que, no se registraron situaciones relevantes producto de este evento.<br><br><br>En consideración a lo anterior, y en coordinación con la Delegación Presidencial Regional Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Vicuña por evento masivo, que se mantuvo vigente desde el 30 de enero de 2024.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

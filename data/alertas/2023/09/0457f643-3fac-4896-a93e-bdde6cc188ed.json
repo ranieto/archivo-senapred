@@ -1,0 +1,20 @@
+{
+	"id": "0457f643-3fac-4896-a93e-bdde6cc188ed",
+	"type": "Alerta",
+	"titulo": "Alerta de Inundacion prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-08T22:37:39.466Z",
+	"updatedAt": "2023-09-20T14:07:13.499Z",
+	"urlAccess": "alerta-de-inundacion-prueba",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>asdf</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "40065066-c9d0-4383-99f1-20d8bb36fccf"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "458e8e19-8fb3-4804-bd51-c70baf4d7583",
+	"type": "Evento",
+	"titulo": "Evacuación en comuna de Florida, Región del Biobío",
+	"fechaHora": "2026-01-21T16:53:00.000-03:00",
+	"createdAt": "2026-01-21T20:59:18.586Z",
+	"updatedAt": "2026-01-21T21:01:15.942Z",
+	"urlAccess": "procesos-de-evacuacion-con-mensajeria-sae-21012026-2026-01-21-14-02-20",
+	"parentId": "19138d02-99b6-49d3-891b-3ea51f7c7d05",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<table><tbody><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Sector</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\"><span style=\"font-size: 16px\">Quebrada El Riffo</span></span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Comuna</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Florida</span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Hora</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">16:50<br></span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Amenaza</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Incendio forestal</span></div></td></tr></tbody></table><div><br></div>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

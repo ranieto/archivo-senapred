@@ -1,0 +1,20 @@
+{
+	"id": "9c7a779d-2988-44ba-8a8a-685bf191c7cf",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Roja para la Comuna de Santa Cruz por incendio forestal",
+	"fechaHora": "2024-01-13T17:14:00.000-03:00",
+	"createdAt": "2024-01-13T20:15:17.517Z",
+	"updatedAt": "2024-01-13T20:16:37.470Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-santa-cruz-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Colchagua\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Santa Cruz\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp; coordinación con la delegación Presidencial Regional de Libertador General Bernardo O’Higgins, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Santa Cruz, por incendio forestal, que semantuvo vigente desde el 12 de enero de 2024<br></p><p><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:16px\">Isla de   Yáquil</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">Controlado</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">6.59 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Fundamentación técnica</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:16px\">incendio se encuentran   controlados, sin cercanía a sectores habitados.</span></p></td></tr></tbody></table><p><br></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 16px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size: 16px\">La Palma</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 16px\">Estado</span></strong></p></td><td><p><span style=\"font-size: 16px\">Controlado</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size: 16px\">12.7 hectáreas</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 16px\">Fundamentación técnica</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 16px\">incendio se encuentran controlados, sin cercanía a sectores habitados.</span></p></td></tr></tbody></table><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

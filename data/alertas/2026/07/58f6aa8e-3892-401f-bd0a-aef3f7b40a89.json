@@ -1,0 +1,20 @@
+{
+	"id": "58f6aa8e-3892-401f-bd0a-aef3f7b40a89",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de El Carmen, San Ignacio, Pemuco, Bulnes, Yungay, Quillón, Ránquil, Portezuelo, Coelemu y Trehuaco por crecida",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-07-27T07:04:56.032Z",
+	"updatedAt": "2026-07-27T07:08:13.819Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-el-carmen-san-ignacio-pemuco-y-bulnes-por-crecida-2026-07-26-22-20-48",
+	"parentId": "48556df6-71fb-4466-bc4c-f6f2c0bf62ba",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica <strong>Río Itata en Cholguán</strong>”, indica un incremento en su caudal, alcanzando valores de <strong>umbral amarillo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe señalar que la estación “<strong>Río Diguillín en San Lorenzo</strong>”, mantiene un incremento en su caudal y permanece con valores de <strong>umbral amarillo</strong>.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Amarilla por crecida a las comunas de El Carmen, San Ignacio, Pemuco, Bulnes, Yungay, Quillón, Ránquil, Portezuelo, Coelemu y Trehuaco, </strong>que se mantiene vigente desde el 26 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

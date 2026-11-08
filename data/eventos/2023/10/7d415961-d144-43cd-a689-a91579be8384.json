@@ -1,0 +1,20 @@
+{
+	"id": "7d415961-d144-43cd-a689-a91579be8384",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en Regiones de Atacama y Coquimbo (Actualiza Reporte)",
+	"fechaHora": "2023-10-31T09:55:00.000-03:00",
+	"createdAt": "2023-10-31T13:29:06.750Z",
+	"updatedAt": "2023-10-31T14:26:44.017Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-regiones-de-atacama-y-coquimbo-actualiza-reporte",
+	"parentId": "dee5bd04-0f16-450f-a143-6129bdd595f3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>En relación al sismo de mediana intensidad percibido a las 09:35 horas, la actualización de las intensidades es la siguiente:<br></p><p><br></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u><br></p><p><br></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Atacama</strong></div></td></tr><tr><td><div>Copiapó:</div></td><td><div>VI</div></td></tr><tr><td><div>Tierra Amarilla:</div></td><td><div>VI</div></td></tr><tr><td><div>Alto del Carmen:</div></td><td><div>VI</div></td></tr><tr><td><div>Freirina:</div></td><td><div>VI</div></td></tr><tr><td><div>Vallenar:</div></td><td><div>VI</div></td></tr><tr><td><div>Caldera:</div></td><td><div>V</div></td></tr><tr><td><div>Los Loros:</div></td><td><div>V</div></td></tr><tr><td><div>Huasco:</div></td><td><div>V</div></td></tr><tr><td><div>Carrizal Bajo:</div></td><td><div>V</div></td></tr><tr><td><div>Chañaral:</div></td><td><div>IV</div></td></tr><tr><td><div>Diego de Almagro:</div></td><td><div>IV</div></td></tr><tr><td><div>El Salvador:</div></td><td><div>III</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: Coquimbo</strong></div></td></tr><tr><td><div>Coquimbo:</div></td><td><div>VI</div></td></tr><tr><td><div>La Serena:</div></td><td><div>VI</div></td></tr><tr><td><div>La Higuera:</div></td><td><div>VI</div></td></tr><tr><td><div>Monte Patria:</div></td><td><div>VI</div></td></tr><tr><td><div>Illapel:</div></td><td><div>V</div></td></tr><tr><td><div>Ovalle:</div></td><td><div>V</div></td></tr><tr><td><div>Vicuña:</div></td><td><div>IV</div></td></tr><tr><td><div>Canela:</div></td><td><div>III</div></td></tr></tbody></table><p><br><u>Observaciones</u><br><br><span style=\"color: rgb(36, 36, 36);font-size: 15px\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span><br><br><span style=\"color: rgb(36, 36, 36);font-size: 15px\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile</span><br><br><span style=\"color: rgb(36, 36, 36);font-size: 15px\">Modificación de los datos técnicos del sismo, CSN.</span><br><br><u>Magnitud y Epicentro</u><br><br></p><table><tbody><tr><td><div>Magnitud (Richter):</div></td><td><div>6.6</div></td></tr><tr><td><div>Epicentro:</div></td><td><div>Latitud: -28.76<br>Longitud: -71.5</div></td></tr><tr><td><div>Referencia Geográfica:</div></td><td><div>42 Kms al Suroeste de Huasco</div></td></tr><tr><td><div>Región:</div></td><td><div>Coquimbo</div></td></tr><tr><td><div>Profundidad Focal (Kms):</div></td><td><div>46.1</div></td></tr><tr><td><div>Fuente:</div></td><td><div>Centro Sismológico Nacional</div></td></tr></tbody></table><p><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

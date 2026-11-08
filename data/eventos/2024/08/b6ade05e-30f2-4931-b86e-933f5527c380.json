@@ -1,0 +1,21 @@
+{
+	"id": "b6ade05e-30f2-4931-b86e-933f5527c380",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad en las regiones de Maule, Ñuble y Biobío",
+	"fechaHora": "2024-08-28T12:20:13.1313-04:00",
+	"createdAt": "2024-08-28T16:23:08.477Z",
+	"updatedAt": "2024-08-28T16:32:14.325Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-biobio-5",
+	"parentId": "bdaf0d53-8c9b-4e8e-a8f3-0771ff6f4354",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule, Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 12:14 horas en las regiones de Maule, Ñuble y Biobío. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Maule </strong></p></td></tr><tr><td><p>Pelluhue: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Biobío </strong></p></td></tr><tr><td><p>Concepción: </p></td><td><p>IV</p></td></tr><tr><td><p>Talcahuano: </p></td><td><p>IV</p></td></tr><tr><td><p>Lota: </p></td><td><p>IV</p></td></tr><tr><td><p>Tomé: </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Ñuble </strong></p></td></tr><tr><td><p>Trehuaco: </p></td><td><p>III</p></td></tr></tbody></table><p><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.9 localizado a114 Kms al Oeste de Cobquecura.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

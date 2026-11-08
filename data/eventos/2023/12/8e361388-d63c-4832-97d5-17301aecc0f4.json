@@ -1,0 +1,19 @@
+{
+	"id": "8e361388-d63c-4832-97d5-17301aecc0f4",
+	"type": "Evento",
+	"titulo": "Accidente terrestre, comuna de Casablanca (Información preliminar)",
+	"fechaHora": "2023-12-05T07:04:14.1414-03:00",
+	"createdAt": "2023-12-05T10:05:12.920Z",
+	"updatedAt": "2023-12-05T15:27:53.012Z",
+	"urlAccess": "accidente-terrestre-comuna-de-casablanca-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Casablanca\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso, a la hora del presente informe, se reporta una colisión múltiple de 4 vehículos mayores, en el kilómetro 55,7 de la ruta 68, comuna de Casablanca. Cabe señalar, que se reporta una persona fallecida y al momento se encuentra en evaluación el número de personas lesionadas.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, el tránsito vehicular se mantiene interrumpido, existiendo una ruta alternativa por la cuesta Zapata.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, Carabineros, SAMU, personal de la concesionaria y personal municipal.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

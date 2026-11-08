@@ -1,0 +1,20 @@
+{
+	"id": "0533f984-a3a9-41a4-9372-c65e4d62709b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Constitución por incendio forestal",
+	"fechaHora": "2025-12-16T12:08:00.000-03:00",
+	"createdAt": "2025-12-16T15:14:28.297Z",
+	"updatedAt": "2025-12-16T22:50:25.012Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-constitucion-por-incendio-forestal-2025-12-13-23-12-13",
+	"parentId": "8a8c0736-047b-44b1-989f-35c1016d75e8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de <strong>Constitución, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San Antonio</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>70</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"font-size:15px\">7 brigadas Conaf, 5   técnicos Conaf, 1 helicóptero mediano Conaf y 2 Skidder Conaf.</span></p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Constitución, por incendio forestal, que se encuentra vigente desde el 15 de diciembre de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

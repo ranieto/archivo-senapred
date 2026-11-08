@@ -1,0 +1,20 @@
+{
+	"id": "491154d2-0488-4511-8e61-2c2fae02397b",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de O'Higgins por heladas",
+	"fechaHora": "2024-07-12T18:31:34.3434-04:00",
+	"createdAt": "2024-07-12T22:34:54.158Z",
+	"updatedAt": "2024-07-16T17:15:32.599Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-heladas",
+	"parentId": "eee434a3-ee46-4aeb-8f32-c7ec69219692",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento meteorológico para la Región de O´Higgins:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A265-6</p></td><td><p style=\"text-align:justify\">Heladas   normales a moderadas con probabilidad de formación de escarcha en valle de la   región.</p></td><td><p style=\"text-align:center\">13-07</p></td><td><p style=\"text-align:center\">13-07</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que de acuerdo con lo informado por DMC mediante su Pronóstico Meteorológico, publicado en su página web, la temperatura mínima en la Región será de -3°C para el sábado 13 de julio.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional de SENAPRED actualiza Alerta Temprana Preventiva regional por heladas, que se mantiene vigente desde el 05 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

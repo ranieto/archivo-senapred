@@ -1,0 +1,20 @@
+{
+	"id": "5aca0d7c-fff6-434e-b85d-cc3ccc00b466",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2024-06-30T08:16:42.4242-04:00",
+	"createdAt": "2024-06-30T12:17:19.712Z",
+	"updatedAt": "2024-06-30T12:24:55.270Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-41",
+	"parentId": "b363e5b3-33a2-4f28-9a29-2120c01fa687",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo, Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 08:09 horas en la Región de Atacama.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>IV</p></td></tr><tr><td><p>Huasco:   </p></td><td><p>III</p></td></tr><tr><td><p>Freirina:   </p></td><td><p>III</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>III</p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.0 y se localizó a 6 Kms al Oeste de Alto del Carmen. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

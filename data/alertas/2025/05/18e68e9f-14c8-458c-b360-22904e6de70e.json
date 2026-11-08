@@ -1,0 +1,20 @@
+{
+	"id": "18e68e9f-14c8-458c-b360-22904e6de70e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2025-05-27T09:12:50.5050-04:00",
+	"createdAt": "2025-05-27T13:13:43.218Z",
+	"updatedAt": "2025-05-27T13:15:39.157Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-9",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región Metropolitana:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A185-3</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas, con probabilidad de granizos en cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A189-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\">Por otra parte, se mantiene vigente el Aviso Meteorológico A183-5/2025, que pronostica viento normal a moderado con probabilidad de viento blanco en cordillera de la región.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional, por evento meteorológico</strong>, que se encontraba vigente desde el 26 de mayo.</p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

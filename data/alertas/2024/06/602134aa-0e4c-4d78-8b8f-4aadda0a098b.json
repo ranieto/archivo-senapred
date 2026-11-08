@@ -1,0 +1,20 @@
+{
+	"id": "602134aa-0e4c-4d78-8b8f-4aadda0a098b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las comunas de Lanco, Panguipulli, Mariquina y Valdivia por desborde ",
+	"fechaHora": "2024-06-27T15:29:42.4242-04:00",
+	"createdAt": "2024-06-27T19:31:10.269Z",
+	"updatedAt": "2024-07-04T02:37:38.657Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-lanco-y-panguipulli-por-amenaza-de-desborde",
+	"parentId": "888f9aa8-50b3-4cd1-a000-0ab93ef5c7d5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valdivia, Lanco, Panguipulli, Mariquina\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Los Ríos, se procedió a la evacuación preventiva del sector “Imulfudi” en la comuna de Lanco, por desborde del “Río Cruces”, lo cual fue complementado con el envío de mensajería SAE a las 15:05 horas.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, la Delegación Presidencial Regional de Los Ríos, en coordinación con la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Roja comunal por desborde para las comunas de Lanco, Panguipulli, Mariquina y Valdivia</strong>, <span style=\"color:black\">que se mantiene vigente desde hoy 27 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

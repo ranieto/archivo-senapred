@@ -1,0 +1,20 @@
+{
+	"id": "ad2fe832-5f66-4951-929a-57bce4df6151",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y se declara Alerta Amarilla para la comuna de Navidad por incendio forestal",
+	"fechaHora": "2024-11-26T22:33:48.4848-03:00",
+	"createdAt": "2024-11-27T01:39:17.813Z",
+	"updatedAt": "2024-11-27T13:50:26.008Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-navidad-por-incendio-forestal-2",
+	"parentId": "dcc912a8-34f9-4d62-84d2-3f01f1f00fa0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información técnica proporcionada por CONAF, controlado desde las 20:51 horas de hoy se encuentra el incendio forestal \"Centinela\", en la comuna de Navidad, cuya superficie afectada es de 12 hectáreas de vegetación.</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Centinela</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>12 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>EL INCENDIO SE ENCUENTRA CONTROLADO Se canceló alerta ROJA y declaró alerta AMARILLA para el incendio forestal a las 21:39 horas del 26-11-2024. Por información entregada a través del comandante de incidentes, se realizó la evacuación de 2 viviendas por precaución cercanas al incendio. Se envió mensajería SAE a las 17:37 horas para evacuación de sector Los Flores.<br>Se recepcionó mensaje SAE a las 17:37 horas</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Navidad por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

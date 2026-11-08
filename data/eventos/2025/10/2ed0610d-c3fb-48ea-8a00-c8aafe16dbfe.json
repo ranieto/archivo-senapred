@@ -1,0 +1,19 @@
+{
+	"id": "2ed0610d-c3fb-48ea-8a00-c8aafe16dbfe",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Maule",
+	"fechaHora": "2025-10-30T18:21:00.000-03:00",
+	"createdAt": "2025-10-30T21:25:55.972Z",
+	"updatedAt": "2025-10-30T21:28:28.266Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-maule-8",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor  intensidad se percibió a las 18:18 horas en la Región de Maule. Las intensidades en escala de Mercalli son:&nbsp;</span></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Curicó:   </p></td><td><p>III</p></td></tr><tr><td><p>Molina:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

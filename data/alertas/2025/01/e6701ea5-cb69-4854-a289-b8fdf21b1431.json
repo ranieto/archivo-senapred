@@ -1,0 +1,20 @@
+{
+	"id": "e6701ea5-cb69-4854-a289-b8fdf21b1431",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Talagante por incendio forestal",
+	"fechaHora": "2025-01-17T18:17:00.000-03:00",
+	"createdAt": "2025-01-17T21:19:28.947Z",
+	"updatedAt": "2025-01-17T23:55:21.638Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-talagante-por-incendio-forestal-2",
+	"parentId": "e0c438d4-3178-4be3-ac29-3e457fd877ff",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo <strong>con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;respecto del incendio forestal que se encuentra en la comuna de Talagante se reporta lo siguiente:</span></p><p style=\"text-align:justify\"></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">La   Vaquita</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En   combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">2.0   hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">El   incendio se desarrolla cercano a sectores habitados. Cabe señalar que las   brigadas enfocan su trabajo en el frente de avance.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de Talagante por incendio foresta</strong>l, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

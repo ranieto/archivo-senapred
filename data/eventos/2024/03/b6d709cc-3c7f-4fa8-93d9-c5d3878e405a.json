@@ -1,0 +1,19 @@
+{
+	"id": "b6d709cc-3c7f-4fa8-93d9-c5d3878e405a",
+	"type": "Evento",
+	"titulo": "Accidente aéreo, Comuna de Los Lagos (Información preliminar)",
+	"fechaHora": "2024-03-29T16:25:13.1313-03:00",
+	"createdAt": "2024-03-29T19:26:32.488Z",
+	"updatedAt": "2024-03-29T20:36:44.123Z",
+	"urlAccess": "accidente-aereo-comuna-de-los-lagos-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Los Lagos\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos</span></strong><span style=\"color: black\">, a la hora del presente informe, se reporta el capotaje de una avioneta con 3 tripulantes, a 5 kilómetros del Aeródromo El Vergel, en el sector de Riñihue de la comuna de Los Lagos.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento, se evalúa la cantidad de personas lesionadas producto de este accidente.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos de Los Lagos, Carabineros, SAMU y 01 helicóptero de la Fuerza Aérea de Chile.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

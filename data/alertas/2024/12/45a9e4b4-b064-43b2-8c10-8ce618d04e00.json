@@ -1,0 +1,20 @@
+{
+	"id": "45a9e4b4-b064-43b2-8c10-8ce618d04e00",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Vichuquén por incendio forestal",
+	"fechaHora": "2024-12-13T15:10:00.000-03:00",
+	"createdAt": "2024-12-13T18:16:15.342Z",
+	"updatedAt": "2024-12-13T21:08:41.859Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-vichuquen-por-incendio-forestal",
+	"parentId": "9ea9251c-c8d3-47f9-b4c4-a844b6c2169b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Vichuquén\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Curicó en Vichuquen, se reporta lo siguiente<span style=\"font-size: 16px\">:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">LOS   CARDOS</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.01 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Vichuquén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Al momento de generar este informe, trabajan en el lugar del evento los siguientes recursos: 2 brigadas de CONAF, 1 técnico de CONAF, 2 aeronaves de CONAF y 1 helicóptero de CONAF<br></p><p style=\"text-align: justify\"><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

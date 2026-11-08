@@ -1,0 +1,20 @@
+{
+	"id": "a9326feb-288f-4ffc-ac1f-7ea4f31c9564",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva Regional por evento zoosanitario",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-04-30T16:10:32.619Z",
+	"updatedAt": "2024-04-30T16:12:15.284Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-regional-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con los antecedentes proporcionados por el</span><strong>Servicio Agrícola y Ganadero (SAG) de la Región de Ñuble</strong><span style=\"color: black\">, mediante la Resolución Exenta N°286/2024 de abril de 2024, ha sido levantada la emergencia de Influenza Aviar H5N1 de alta patogenicidad de aves acuáticas silvestres en todo el territorio de la región, dando por derogada la Resolución Exenta N°80/2023 del 30 de enero de 2023, que determinó la presencia de la enfermedad en el territorio regional.</span><br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED,<strong>cancela la Alerta Temprana Preventiva Regional por evento zoosanitario</strong>, que se encontraba vigente desde el 30 de enero de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

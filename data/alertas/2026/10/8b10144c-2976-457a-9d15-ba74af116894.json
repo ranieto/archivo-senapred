@@ -1,0 +1,20 @@
+{
+	"id": "8b10144c-2976-457a-9d15-ba74af116894",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+	"fechaHora": "2026-10-15T16:01:00.000-03:00",
+	"createdAt": "2026-10-15T20:11:17.221Z",
+	"updatedAt": "2026-10-15T20:11:57.718Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-evento-meteorologico-2026-10-10-13-34-47",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, mediante la Actualización de su Aviso Meteorológico A544-5 por Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales entre las regiones del Maule y Biobío, dando por finalizada la vigencia del aviso para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>Cancela Alerta Temprana Preventiva regional por evento meteorológico,</strong> que se mantuvo vigente desde el 10 de octubre del 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

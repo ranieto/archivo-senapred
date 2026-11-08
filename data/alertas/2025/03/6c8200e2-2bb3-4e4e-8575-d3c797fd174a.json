@@ -1,0 +1,20 @@
+{
+	"id": "6c8200e2-2bb3-4e4e-8575-d3c797fd174a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por remoción en masa",
+	"fechaHora": "2025-03-14T15:12:09.099-03:00",
+	"createdAt": "2025-03-14T18:15:03.843Z",
+	"updatedAt": "2025-05-19T21:26:34.310Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "cab76b51-ccb9-4e78-92e8-e7c1093bec49",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><span style=\"color: black\">La información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, respecto a los </span><strong>deslizamientos en la Cuesta Chinchorro</strong><span style=\"color: black\"> y las zonas de talud con alta susceptibilidad de remoción en masa; indica que la</span><strong> Ruta 5 Norte se encuentra habilitada</strong><span style=\"color: black\">, sin embargo, </span><strong>mantiene el&nbsp;</strong><strong>corte preventivo nocturno entre las 22:00 y las 06:00 horas del día siguiente.</strong></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla Regional por remoción en masa,</strong>&nbsp;vigente desde el 02 de octubre del 2024 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Continúa trabajando en el lugar Carabineros y personal del Ministerio de Obras Públicas. La empresa a cargo de la cuesta se encuentra trabajando en la reconstrucción del talud, a fin de otorgar medidas definitivas para la actual situación.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Del mismo modo, se mantiene “Villa Albergue” como albergue en la ciudad de Arica en caso de ser requerido.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Respecto a la restricción de tránsito para buses en horario nocturno dispuesta por el Ministerio de Transporte y Telecomunicaciones, se informa que esta ya no se encuentra vigente, no obstante, para transitar por la Ruta 5 Norte, deben hacerlo antes del horario de corte preventivo nocturno.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

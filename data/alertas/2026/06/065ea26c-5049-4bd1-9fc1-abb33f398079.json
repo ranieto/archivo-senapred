@@ -1,0 +1,20 @@
+{
+	"id": "065ea26c-5049-4bd1-9fc1-abb33f398079",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2026-06-10T18:06:00.000-04:00",
+	"createdAt": "2026-06-10T23:47:28.278Z",
+	"updatedAt": "2026-06-10T23:48:24.578Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-maule-por-viento-2026-06-06-16-25-42",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> ha sido cancelado el siguiente alertamiento meteorológico para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A248-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en litoral, cordillera de la costa, valle, precordillera y   cordillera de la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, la Dirección Regional del SENAPRED Maule <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong></span><strong><span style=\"color:black\">, </span></strong><span style=\"color:black\">que se mantuvo desde el 06 de junio de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

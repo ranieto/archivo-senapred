@@ -1,0 +1,20 @@
+{
+	"id": "6c8e0823-9271-4266-9a0b-1acec62f9bff",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por incendio forestal para la comuna de San Pablo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-01-30T22:07:13.861Z",
+	"updatedAt": "2024-01-30T22:12:32.852Z",
+	"urlAccess": "se-declara-alerta-roja-por-incendio-forestal-para-la-comuna-de-san-pablo",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se reporta un incendio forestal en la comuna de San Pablo, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Quillipulli 2</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En trayecto.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,01 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos</strong></p></td><td><p style=\"text-align:justify\">Incendio   cercano a sectores habitados. Del mismo modo, presenta comportamiento extremo   del fuego, rápido avance y una columna convectiva alta y bien definida.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">En   trayecto 2 brigadas de CONAF y Bomberos de Río Negro.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por incendio forestal para la comuna de San Pablo</strong>, vigente desde el hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

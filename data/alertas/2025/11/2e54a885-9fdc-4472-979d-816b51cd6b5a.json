@@ -1,0 +1,20 @@
+{
+	"id": "2e54a885-9fdc-4472-979d-816b51cd6b5a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-11-30T20:02:03.616Z",
+	"updatedAt": "2025-11-30T21:12:48.564Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-2025-11-30-17-01-48",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Melipilla </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Av. Costanera Ovalle</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.5</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">5 vivienda en evaluación </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos de Ovalle, 2 brigadas   CONAF, 1 técnico CONAF y 2 camiones cisterna. </p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Ovalle por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

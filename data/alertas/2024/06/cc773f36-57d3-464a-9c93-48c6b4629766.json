@@ -1,0 +1,20 @@
+{
+	"id": "cc773f36-57d3-464a-9c93-48c6b4629766",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Concepción por desborde",
+	"fechaHora": "2024-06-11T22:40:46.4646-04:00",
+	"createdAt": "2024-06-12T02:42:28.535Z",
+	"updatedAt": "2024-06-12T04:57:44.457Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Concepción\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, mediante su sistema de reporte en línea de las estaciones hidrométricas, se indica que la estación “Río Andalién antes de Ex Peaje Chaimavida”, en la comuna de Concepción, se encuentran en umbral de Alerta Roja con tendencia a subida.<br></p><p style=\"text-align:justify\">Adicionalmente, según lo indicado por la Dirección Meteorológica de Chile (DMC), se prevé que continúen las precipitaciones intensas en corto periodo de tiempo en la comuna.</p><p style=\"text-align:justify\">Cabe señalar, que al momento se han enviado 4 mensajes SAE a la comuna, para apoyar el proceso de evacuación de los sectores Puente 1 y Santa Rita por el desborde del Río Andalién.</p><p style=\"text-align:justify\">En consideración a estos antecedentes la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>mantiene la Alerta Roja por desborde para la comuna de Concepción, </strong><span style=\"color:black\">que se mantiene vigente desde hoy 11 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

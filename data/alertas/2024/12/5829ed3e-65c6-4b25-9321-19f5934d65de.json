@@ -1,0 +1,20 @@
+{
+	"id": "5829ed3e-65c6-4b25-9321-19f5934d65de",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de La Araucanía por calor intenso",
+	"fechaHora": "2024-12-25T23:51:00.000-03:00",
+	"createdAt": "2024-12-26T02:52:57.749Z",
+	"updatedAt": "2024-12-26T02:53:16.921Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-la-araucania-por-calor-intenso-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía, debido al debilitamiento de las condiciones que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA89</p></td><td><p style=\"text-align:justify\">Altas   temperaturas extremas para valle y precordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, se mantienen vigentes los siguientes alertamientos meteorológicos para la región:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Aviso A465-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas en valle y precordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">24-12</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-12</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Aviso A470</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas en costa, valle y precordillera de la Provincia de   Malleco.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">27-12</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">29-12</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla Regional por Calor intenso</strong>, que se manteníavigente desde el 22 de diciembre de 2024.</span></p><p><span style=\"color:black\">Cabe señalar, que se mantiene Alerta Temprana Preventiva Nacional por calor, vigente desde el 01 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

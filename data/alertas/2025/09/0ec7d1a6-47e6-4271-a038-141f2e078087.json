@@ -1,0 +1,20 @@
+{
+	"id": "0ec7d1a6-47e6-4271-a038-141f2e078087",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2025-09-19T12:51:00.000-03:00",
+	"createdAt": "2025-09-19T16:15:06.734Z",
+	"updatedAt": "2025-09-22T13:20:43.501Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-21",
+	"parentId": "70fd781f-707a-4652-90b2-65dc9c9b60a3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A364</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas con probabilidad de precipitaciones fuertes en corto   periodo de tiempo en zonas de litoral, cordillera de la costa y valle de la   región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">20-09</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">20-09</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva </strong></span><strong><span style=\"color:black\">Regional </span><span style=\"color:black\">por tormentas eléctricas</span></strong><span style=\"color:black\">,vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

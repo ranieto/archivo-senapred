@@ -1,0 +1,20 @@
+{
+	"id": "3c7f8fc4-723f-4b82-b0e1-bbc0d4a1de11",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de San Clemente por actividad del complejo volcánico Laguna del Maule",
+	"fechaHora": "2024-02-06T18:00:00.000-03:00",
+	"createdAt": "2024-02-06T21:12:42.864Z",
+	"updatedAt": "2024-02-21T22:05:58.610Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-clemente-por-actividad-del-complejo-volcanico-laguna-del-maule",
+	"parentId": "82e2d4ed-4122-4347-89f0-6ee8cce11e74",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>La información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), a través de su Reporte de Actividad Volcánica (RAV), indica que el complejo volcánico Laguna del Maule mantiene su nivel de alerta técnica en Amarilla [1].<br><br>En relación con el último RAV, que evaluó el periodo comprendido entre el 16 y 31 de enero, se informa que durante el periodo evaluado se mantiene la ocurrencia de actividad VT y LP, manteniéndose por sobre su umbral base. Sin embargo, los sismos VT presentan una disminución tanto en número de eventos como en sus energías, respecto a la primera quincena de enero. Las tasas de deformación continúan con valores similares a lo históricamente registrado referente a la inflación en torno a la península. Por otra parte, en la zona de Barrancas se continúa observando un proceso de subsidencia de menor magnitud. Debido a lo anterior, se evidencia aún un sistema moderadamente activo.<br><br>Por lo anteriormente descrito, <strong>SERNAGEOMIN </strong>mantiene la zona de posible afectación por peligros volcánicos de un radio de 2 kilómetros en torno a la zona de desgasificación pasiva de dióxido de carbono (CO2).<br><br>Para más información del organismo técnico, consultar en https://rnvv.sernageomin.cl/complejo-volcanico-laguna-del-maule/<br><br>En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN, y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional de SENAPRED mantiene Alerta Amarilla para la comuna de San Clemente por actividad del complejo volcánico Laguna del Maule, vigente desde el 03 de abril de 2023.<br><br>De igual forma, SENAPRED mantiene el perímetro de seguridad de 2 kilómetros en torno al cráter activo, indicando la restricción de acceso a la zona indicada.<br><br>Finalmente, SERNAGEOMIN continúa la vigilancia permanente del complejo volcánico en línea, mientras que la Dirección Regional del SENAPRED mantiene las coordinaciones con los integrantes del Sistema Regional de Prevención y Respuesta ante Desastres para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia producto de la condición volcánica.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

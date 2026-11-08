@@ -1,0 +1,20 @@
+{
+	"id": "388d14f3-c4d0-43b9-a79b-310dadcd4f3e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Las Cabras por incendio forestal ",
+	"fechaHora": "2023-12-14T17:13:00.000-03:00",
+	"createdAt": "2023-12-14T20:21:23.802Z",
+	"updatedAt": "2023-12-14T22:12:11.295Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-2",
+	"parentId": "328b5475-5081-402e-a867-1ed96df24eee",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> en relación con el incendio forestal en la comuna de Las Cabras, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">El Manzano</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">6 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio se   encuentra contenido, por lo que ya no presenta amenaza a viviendas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">1 técnico, 4   brigadas, 2 camiones aljibe, 2 helicópteros y 2 aviones de CONAF; Bomberos de   Las Cabras, Peumo, Pichidegua y Alhué, además de 2 camiones municipales.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja y declara alerta amarilla por incendio forestal para la comuna de Las Cabras</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

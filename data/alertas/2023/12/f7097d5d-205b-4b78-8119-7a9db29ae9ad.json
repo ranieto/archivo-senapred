@@ -1,0 +1,20 @@
+{
+	"id": "f7097d5d-205b-4b78-8119-7a9db29ae9ad",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Requínoa por incendio forestal",
+	"fechaHora": "2023-12-25T16:59:39.3939-03:00",
+	"createdAt": "2023-12-25T20:01:05.939Z",
+	"updatedAt": "2023-12-25T20:02:27.564Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-requinoa-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Requínoa\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>con relación al incendio forestal registrado en la comuna Requínoa, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Yesca.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">85 hectáreas.</p></td></tr></tbody></table></div><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por incendio forestal para la comuna de Requínoa</strong>, que se mantuvo vigente desde el 24 de diciembre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

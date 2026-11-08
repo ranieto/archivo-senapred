@@ -1,0 +1,20 @@
+{
+	"id": "7896e373-5ff6-4226-8149-6f392b84925a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Las Cabras por Incendio Forestal",
+	"fechaHora": "2025-09-28T16:59:16.1616-03:00",
+	"createdAt": "2025-09-28T20:02:15.480Z",
+	"updatedAt": "2025-09-28T20:04:00.915Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-10",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información técnica proporcionada por CONAF, el incendio forestal \"Quebrada El Litre\" en la comuna de la Las Cabras se encuentra controlado desde las 15:30 horas de hoy con una superficie afectada de 0.01 hectáreas de matorral y pastizal.</p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Quebrada El Litre</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,01 hectáreas</p></td></tr><tr><td><p><strong>Observación</strong></p></td><td><p>Desde las 15:30 horas de hoy, el incendio se encuentra   controlado y se</p><p>continúa trabajando en etapa de liquidación.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>1 brigada helitransportada</p><p>1 helicóptero de Conaf</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Las Cabras, por incendio forestal, que se mantuvo vigente desde el 28 de septiembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

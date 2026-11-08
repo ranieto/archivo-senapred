@@ -1,0 +1,20 @@
+{
+	"id": "10ad2afa-fc71-4417-9029-5131a879f18d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Arica y Parinacota por viento",
+	"fechaHora": "2025-08-19T19:08:56.5656-04:00",
+	"createdAt": "2025-08-19T23:10:00.341Z",
+	"updatedAt": "2025-08-19T23:10:56.808Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</span><br></p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"color: black\">Aviso A308-2</span></p></td><td><p style=\"text-align: justify\"><span style=\"color: black\">Viento normal a moderado con probabilidad de tormentas de arena en litoral, pampa y cordillera.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva Regional por viento,&nbsp;</strong></span><span style=\"color: black\">que se mantuvo&nbsp;vigente desde el 15 de agosto de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

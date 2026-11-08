@@ -1,0 +1,20 @@
+{
+	"id": "cc39b83f-7529-42db-93b6-db5561e0a3e3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Rancagua por incendio forestal",
+	"fechaHora": "2026-01-01T17:31:00.000-03:00",
+	"createdAt": "2026-01-01T20:39:55.477Z",
+	"updatedAt": "2026-01-01T22:47:37.312Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rancagua-por-incendio-forestal-2026-01-01-17-39-40",
+	"parentId": "1e3569ba-245f-458e-9993-2b13cf4642c7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Rancagua, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">San Joaquin 2</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.5</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Cuerpo de bomberos de Machalí y   Rancagua, 2 Brigadas CONAF, 1 técnico y 1 avión Cisterna.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Rancagua por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

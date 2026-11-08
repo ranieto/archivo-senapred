@@ -1,0 +1,19 @@
+{
+	"id": "47a939a1-081a-4348-bcde-a68aca688af0",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región del Maule",
+	"fechaHora": "2024-04-24T19:12:40.4040-04:00",
+	"createdAt": "2024-04-24T23:15:05.557Z",
+	"updatedAt": "2024-04-24T23:22:15.733Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-maule-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 19:11 horas en la Región del Maule. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Llico:   </p></td><td><p>III</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

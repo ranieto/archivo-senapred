@@ -1,0 +1,21 @@
+{
+	"id": "e53404b3-5a00-4007-974e-385eb9be9ca5",
+	"type": "Evento",
+	"titulo": " Sismo de mayor intensidad entre las regiones de Antofagasta y Coquimbo",
+	"fechaHora": "2025-06-06T13:20:00.000-04:00",
+	"createdAt": "2025-06-06T23:29:42.837Z",
+	"updatedAt": "2025-06-06T23:29:42.837Z",
+	"urlAccess": "sismo-de-mayor-intensidad-entre-las-regiones-de-antofagasta-y-coquimbo-2",
+	"parentId": "6d7ba34a-0d69-4237-9716-b45cedda65ae",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: rgb(33, 37, 41);font-family: Roboto;font-size: 18px\">Un sismo de mayor intensidad se percibió a las 13:15 horas en entre las regiones de Antofagasta y Coquimbo. Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Antofagasta</strong></p></td></tr><tr><td><p>Taltal:</p></td><td><p>VI</p></td></tr><tr><td><p>Antofagasta:</p></td><td><p>V</p></td></tr><tr><td><p>Mejillones:</p></td><td><p>V</p></td></tr><tr><td><p>Tocopilla:</p></td><td><p>V</p></td></tr><tr><td><p>Sierra Gorda:</p></td><td><p>III</p></td></tr><tr><td><p>Calama:</p></td><td><p>III</p></td></tr><tr><td><p>San Pedro de Atacama:</p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Atacama</strong></p></td></tr><tr><td><p>Copiapó:</p></td><td><p>VII</p></td></tr><tr><td><p>Tierra Amarilla:</p></td><td><p>VII</p></td></tr><tr><td><p>Chañaral:</p></td><td><p>VI</p></td></tr><tr><td><p>Caldera:</p></td><td><p>VI</p></td></tr><tr><td><p>Huasco:</p></td><td><p>VI</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Coquimbo</strong></p></td></tr><tr><td><p>Vicuña:</p></td><td><p>IV</p></td></tr><tr><td><p>Monte Patria:</p></td><td><p>IV</p></td></tr><tr><td><p>La Higuera:</p></td><td><p>IV</p></td></tr><tr><td><p>Paiguano:</p></td><td><p>IV</p></td></tr><tr><td><p>Coquimbo:</p></td><td><p>III</p></td></tr><tr><td><p>La Serena:</p></td><td><p>III</p></td></tr><tr><td><p>Ovalle:</p></td><td><p>III</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-family:Roboto;color:#212529\"><br></span><span style=\"font-size:18px;font-family:Roboto;color:#212529\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

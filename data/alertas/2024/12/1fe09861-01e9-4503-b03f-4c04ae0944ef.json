@@ -1,0 +1,20 @@
+{
+	"id": "1fe09861-01e9-4503-b03f-4c04ae0944ef",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2024-12-06T16:50:00.000-03:00",
+	"createdAt": "2024-12-06T19:56:27.907Z",
+	"updatedAt": "2024-12-06T19:57:23.686Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-santo-domingo-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Santo Domingo\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Santo Domingo se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Fundo Atalaya</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.1 hectáreas</p></td></tr></tbody></table><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Santo Domingo, por incendio forestal, que se mantuvo vigente desde el 06 de diciembre de 2024.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "3dfafa89-aa81-49c5-b81d-a1b234fad3ca",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de La Estrella por incendio forestal",
+	"fechaHora": "2025-01-07T14:40:00.000-03:00",
+	"createdAt": "2025-01-07T18:15:11.303Z",
+	"updatedAt": "2025-01-07T22:22:28.144Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal-4",
+	"parentId": "e597f120-706a-494e-85d7-3caadcc0e702",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"La Estrella\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"font-size: 16px\"> se informa el siguiente detalle respecto de los incendios forestales “Los Cardillos” y “Las Chacras 1”, en la comuna de La Estrella:</span></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los   Cardillos</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20   hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de La Estrella, 4 Brigadas CONAF, 1 Técnico Comandante de incidente, 3 helicópteros   CONAF y Skidder</p></td></tr></tbody></table><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las   Chacras 1</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.01 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos de La Estrella, 3 Brigadas   Terrestres, 2 Brigadas Helitransportadas, 1 Técnico, 2 Helicópteros de CONAF   y 2 aviones AT de CONAF.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de La Estrella, por incendio forestal, que se encuentra vigente desde el 07 de enero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

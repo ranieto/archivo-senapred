@@ -1,0 +1,20 @@
+{
+	"id": "359a7f84-8672-408b-8e0d-fce54045c734",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Yumbel por incendio forestal",
+	"fechaHora": "2024-01-18T15:05:45.4545-03:00",
+	"createdAt": "2024-01-18T18:06:58.710Z",
+	"updatedAt": "2024-01-20T22:14:48.233Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-yumbel-por-incendio-forestal",
+	"parentId": "5a004475-ba76-4ca8-9370-a92c1e23dadb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Yumbel\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la i<strong>nformación proporcionada por la Corporación Nacional Forestal (CONAF),</strong>se registra un incendio forestal en la comuna de Yumbel, según el siguiente detalle:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>El Litre</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a sectores   poblados.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Yumbel por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><span style=\"font-size:14px;color:#2E2E2E\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

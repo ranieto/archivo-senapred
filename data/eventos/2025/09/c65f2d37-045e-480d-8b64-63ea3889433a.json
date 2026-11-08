@@ -1,0 +1,21 @@
+{
+	"id": "c65f2d37-045e-480d-8b64-63ea3889433a",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Tarapacá, Antofagasta y Atacama",
+	"fechaHora": "2025-09-04T00:14:00.000-04:00",
+	"createdAt": "2025-09-04T04:37:54.454Z",
+	"updatedAt": "2025-09-04T04:37:54.454Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-tarapaca-antofagasta-y-antofagasta",
+	"parentId": "7ca92628-1cdb-4e7d-8ec4-d4b2f20d2895",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 00:11 horas en las regiones de Tarapacá, Antofagasta y Atacama. Las intensidades en escala de Mercalli son:</p><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><div style=\"text-align: justify\"><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size: 16px\">Región: Tarapaca</span></strong></p></td></tr><tr><td><p><span style=\"font-size: 16px\">Alto Hospicio :</span></p></td><td><p><span style=\"font-size: 16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 16px\">Iquique:</span></p></td><td><p><span style=\"font-size: 16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size: 16px\">Región: Antofagasta</span></strong></p></td></tr><tr><td><p><span style=\"font-size: 16px\">Antofagasta:</span></p></td><td><p><span style=\"font-size: 16px\">V</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size: 16px\">Región: Atacama</span></strong></p></td></tr><tr><td><p><span style=\"font-size: 16px\">Caldera:</span></p></td><td><p><span style=\"font-size: 16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 16px\">Copiapó:</span></p></td><td><p><span style=\"font-size: 16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 16px\">Tierra Amarilla:</span></p></td><td><p><span style=\"font-size: 16px\">III</span></p></td></tr></tbody></table></div>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

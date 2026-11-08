@@ -1,0 +1,20 @@
+{
+	"id": "333b03e5-be45-4eb9-8873-8fbff328b5b5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por heladas",
+	"fechaHora": "2024-05-08T17:56:00.000-04:00",
+	"createdAt": "2024-05-08T21:57:34.555Z",
+	"updatedAt": "2024-05-08T21:58:21.732Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-viento-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A143-1</p></td><td><p style=\"text-align:justify\">Evento   de bajas temperaturas en cordillera de la costa y precordillera y valles   precordilleranos.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por heladas,</strong> que se mantuvo vigente desde el 01 de mayo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

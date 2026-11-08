@@ -1,0 +1,20 @@
+{
+	"id": "b4eb374b-8ab8-49c8-878d-ab6eaf7cf00e",
+	"type": "Alerta",
+	"titulo": "Se modifica Alerta Roja para las comunas de Lampa y Tiltil por incendio forestal",
+	"fechaHora": "2024-12-09T17:11:36.3636-03:00",
+	"createdAt": "2024-12-09T20:12:25.209Z",
+	"updatedAt": "2024-12-10T18:32:26.236Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-4",
+	"parentId": "ac361bac-4a12-47df-802a-55c02b85817a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), activo se encuentra el incendio forestal “Santa Sara”, que se desarrolla en la comuna de Lampa, Región Metropolitana. Además, este incendio presenta una amenaza inminente para 4 viviendas que se encuentran a 20 metros. Cabe destacar que, el incendio se encuentra afectando superficie perteneciente a la comuna de Tiltil.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED actualiza y modifica la cobertura de la Alerta Roja para las Comunas de Lampa y Tiltil, por incendio forestal, que se encuentra vigente desde el 09 de diciembre de 2024.</p><p>Con la actualización y modificación de cobertura de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p><div><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Santa Sara</div></td></tr><tr><td><div>Comuna</div></td><td><div>Lampa y Tiltil</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>200</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 compañías de Bomberos, 3 brigadas CONAF, 4 técnicos CONAF y 7 aeronaves CONAF</div></td></tr></tbody></table></div><div><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

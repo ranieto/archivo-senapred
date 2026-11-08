@@ -1,0 +1,20 @@
+{
+	"id": "67642f02-3ba2-4974-9d24-856b03a6ee2b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Las Condes por incendio forestal",
+	"fechaHora": "2025-12-30T13:18:00.000-03:00",
+	"createdAt": "2025-12-30T16:23:14.510Z",
+	"updatedAt": "2026-01-01T23:15:47.036Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-las-condes-por-incendio-forestal-2025-12-29-18-42-44",
+	"parentId": "7d22b8a8-43c2-4ddd-8929-abf62222ae21",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Las Condes,<strong>&nbsp;</strong>se informa el siguiente detalle:​</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Plaza Sur<br><br></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>800 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>6 brigadas, 8 técnicos y 6 aeronaves. Además de personal de Carabineros, Emergencias de Las Condes, seguridad   ciudadana de Las Condes, alcaldesa de Las Condes.</p></td></tr><tr><td><p><strong>Observación</strong></p></td><td><p>Incendio con comportamiento extremo sin riesgo de   propagación a estructural de momento;</p></td></tr></tbody></table><p>Este incendio presenta velocidad de propagación media, con intensidad del frente media y longitud de llama baja. El objetivo de los recursos se concentra principalmente en la contención del flanco derecho para evitar el avance hacia Aguas de Ramón.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la comuna de Las Condes, por incendio forestal, que se encuentra vigente desde el 29 de diciembre de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c2572981-48d6-491d-baff-9c283d10983d",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Roja para la comuna de Constitución por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-12-14T13:46:28.410Z",
+	"updatedAt": "2025-12-14T13:49:03.897Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-constitucion-por-incendio-forestal-2025-12-13-23-12-13",
+	"parentId": "b6355eee-5eb3-4558-9231-13682a2e793e",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Constitución\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por CONAF y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la comuna de&nbsp;<strong>Constitución&nbsp;</strong>se informa el siguiente detalle:</p><table class=\"se-table-layout-fixed\"><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><div>San Antonio</div></td></tr><tr><td><p><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><div>9.5 [ha]</div></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><div>Compañías del cuerpo de Bomberos de Curepto: N° 1; Vehículos: B-1, 1 Brigada Forestal Arauco, 2 Técnicos Arauco, 2 Aviones Arauco, 2 Helicópteros Arauco, 1 Unidad de Gestión del Riesgo y Desastres de la Municipalidad de Constitución, 2 Profesionales SENAPRED Maule. Recursos en trayecto: 3 Brigadas Forestal CNAF, 2 Técnicos CONAF, 3 Aeronaves CONAF, 1 Brigada CMPC.</div></td></tr><tr><td><div><strong>Afectación</strong></div></td><td><div>No se reportan afectaciones en personas ni daños en viviendas en la comuna de Constitución.</div></td></tr></tbody></table><p style=\"text-align: justify\"><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED&nbsp;<strong>mantiene vigente la Alerta Roja para la comuna de Consitución por incendio forestal,</strong>que se encuentravigente desde el 13 de diciembre.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

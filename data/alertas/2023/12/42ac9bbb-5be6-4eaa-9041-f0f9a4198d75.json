@@ -1,0 +1,20 @@
+{
+	"id": "42ac9bbb-5be6-4eaa-9041-f0f9a4198d75",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla por incendio forestal para la comuna de La Estrella",
+	"fechaHora": "2023-12-14T20:39:58.5858-03:00",
+	"createdAt": "2023-12-14T23:40:57.015Z",
+	"updatedAt": "2023-12-14T23:41:56.109Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"La Estrella\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registró un incendio forestal en la comuna de La Estrella, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las Damas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">696 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación </strong></p></td><td><p style=\"text-align:justify\">8 viviendas y 2 galpones destruidos; además de 16 personas   damnificadas quienes fueron enviadas hasta casa de familiares.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla por incendio forestal para la comuna de La Estrella</strong>, la cual se mantuvo vigente desde el 10 de diciembre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

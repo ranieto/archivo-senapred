@@ -1,0 +1,20 @@
+{
+	"id": "92012590-f668-421b-8327-03f44a87c828",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de Ñuble por Calor intenso",
+	"fechaHora": "2024-12-22T14:07:00.000-03:00",
+	"createdAt": "2024-12-22T17:30:41.157Z",
+	"updatedAt": "2024-12-26T00:44:52.762Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-uble-por-calor-intenso-5",
+	"parentId": "5a0dcfed-af4d-48c2-990f-b01d3fe35f9d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA89</p></td><td><p style=\"text-align:justify\">Altas temperaturas   extremas para cordillera de la costa, valle y precordillera de la región.</p></td><td><p style=\"text-align:center\">24-12</p></td><td><p style=\"text-align:center\">25-12</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A458-6</p></td><td><p style=\"text-align:justify\">Altas temperaturas   en cordillera de la costa, valle y precordillera de la región. </p></td><td><p style=\"text-align:center\">22-12</p></td><td><p style=\"text-align:center\">27-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, la DMC indica en su Alerta Meteorológica que las temperaturas máximas en la región serán las siguientes:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Martes 24 de diciembre</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Miércoles 25 de diciembre</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Cordillera costa</p></td><td><p style=\"text-align:center\">34 - 36 °C</p></td><td><p style=\"text-align:center\">34 - 36 °C</p></td></tr><tr><td><p style=\"text-align:center\">Valle</p></td><td><p style=\"text-align:center\">35 - 37 °C</p></td><td><p style=\"text-align:center\">35 - 37 °C</p></td></tr><tr><td><p style=\"text-align:center\">Precordillera</p></td><td><p style=\"text-align:center\">36 - 38 °C</p></td><td><p style=\"text-align:center\">36 - 38 °C</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla Regional por Calor intenso, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk138674463\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Amarilla,</strong> se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></a></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

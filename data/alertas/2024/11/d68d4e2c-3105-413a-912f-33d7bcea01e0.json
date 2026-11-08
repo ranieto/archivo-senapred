@@ -1,0 +1,20 @@
+{
+	"id": "d68d4e2c-3105-413a-912f-33d7bcea01e0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Carahue por incendio forestal",
+	"fechaHora": "2024-11-24T09:30:52.5252-03:00",
+	"createdAt": "2024-11-24T12:35:18.238Z",
+	"updatedAt": "2024-11-24T12:40:31.477Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-carahue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;respecto del incendio forestal que se desarrolla en la comuna de Carahue, reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">El Yugo</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">controlado</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">3,7 hectáreas</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED<strong>&nbsp;cancela Alerta Roja para la comuna de Carahue&nbsp;</strong>por incendio forestal, vigente desde el 23 de noviembre.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "d2658268-cf0b-491f-928a-1161d8d93f84",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-01-27T16:56:06.906Z",
+	"updatedAt": "2024-01-27T16:57:14.057Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal",
+	"parentId": "aa50915f-1394-4117-8db2-18276ac7a1db",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Puerto Montt\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:15px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"font-size: 15px\">,&nbsp;respecto al incendio forestal en la comuna de Puerto Montt, se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Camino San   Antonio</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>180 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Incendio activo en el frente de avance y parte   media del flanco derecho con intensidad media. Sectores restantes se   encuentran contenidos.</span></p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">2 brigadas de   Conaf, 8 técnicos de Conaf, </span><span style=\"font-size:14px;color:#2E2E2E\">1 Puesto de mando de CONAF, 2 excavadoras   municipales</span></p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Cane señalar que a raíz de este evento se han enviados tres mensajes SAE para apoyar la evacuación de los sectores ”Las Canchas”, ”Las Cahuellas” y \"Cementerio Puerto San Antonio\".</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Puerto Montt, por incendio forestal, que se encuentra vigente desde el 26 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "ed0ec0d5-557d-4d23-a147-4b5ee6a7e69b",
+	"type": "Alerta",
+	"titulo": " Se actualiza Alerta Temprana Preventiva para la provincia del Tamarugal por viento",
+	"fechaHora": "2025-06-17T13:37:00.000-04:00",
+	"createdAt": "2025-06-17T17:37:22.051Z",
+	"updatedAt": "2025-06-19T05:07:20.049Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento-2",
+	"parentId": "6b7b1e98-3f14-497c-b05e-788c8ad4f1d7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA50-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento moderado a fuerte con desarrollo de viento blanco en cordillera   de la región (70 – 90 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">17-06</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-06</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A222-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado con probabilidad de viento blanco en   cordillera de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">15-06</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">19-06</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva por viento para la provincia del Tamarugal, </strong>que se mantienevigente desde el 15 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">SENAPRED</span></strong><span style=\"font-size:15px\"> recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.&nbsp;</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

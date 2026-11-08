@@ -1,0 +1,20 @@
+{
+	"id": "0043ad76-afae-43a9-aa02-64b00eadf7cd",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Quillón por incendio forestal",
+	"fechaHora": "2024-01-30T16:05:16.1616-03:00",
+	"createdAt": "2024-01-30T19:06:54.843Z",
+	"updatedAt": "2024-02-01T21:00:09.413Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-incendio-forestal-2",
+	"parentId": "1e977fdf-f5e2-404f-941d-5c2189d7ef2b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa el siguiente detalle respecto del incendio forestal</span> “<span style=\"color: black\">Casablanca Ñuble”, en la comuna de Quillón:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Casablanca Ñuble</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>35 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio se   encuentra activo en la parte media alta, con intensidad alta y velocidad de propagación   rápida.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Amarilla para la Comuna de Quillón, por incendio forestal</strong>, que se encuentra vigente desde el 29 de enero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

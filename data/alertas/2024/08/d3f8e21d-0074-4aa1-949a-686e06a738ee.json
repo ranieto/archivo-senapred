@@ -1,0 +1,20 @@
+{
+	"id": "d3f8e21d-0074-4aa1-949a-686e06a738ee",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de San Fernando por incendio forestal",
+	"fechaHora": "2024-08-01T11:51:00.000-04:00",
+	"createdAt": "2024-08-01T15:52:46.125Z",
+	"updatedAt": "2024-08-02T17:33:12.277Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-fernando-por-incendio-forestal",
+	"parentId": "4dc99c6d-3f06-4f14-962d-db30a4bd3a29",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong><span style=\"color: black\">respecto del incendio forestal que se registra en la comuna de San Fernando, se reporta lo siguiente:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong><span style=\"color:black\">Nombre del incendio</span></strong></a></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Fundo Los Maitenes</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">3.0 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Observación</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio forestal con   proyección a infraestructura crítica de la zona (torres de alta tensión).</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O’Higgins, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para la Comuna de San Fernando</strong> por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

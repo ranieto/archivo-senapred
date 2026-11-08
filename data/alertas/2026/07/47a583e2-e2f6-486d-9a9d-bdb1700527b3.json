@@ -1,0 +1,20 @@
+{
+	"id": "47a583e2-e2f6-486d-9a9d-bdb1700527b3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+	"fechaHora": "2026-07-28T10:14:07.077-04:00",
+	"createdAt": "2026-07-28T14:15:37.101Z",
+	"updatedAt": "2026-08-03T22:56:57.123Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-valparaiso-territorio-continental-por-evento-meteorologico-2026-07-14-18-04-30",
+	"parentId": "b91dfb54-1fb8-49b5-9140-5b81aa837cd3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para el territorio continental de la Región de Valparaíso:<br><br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A347-5</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad de ventisca en cordillera de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-07</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br>Asimismo, se informa que la DMC ha cancelado el siguiente alertamiento meteorológico según el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A349</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas con isoterma cero alta en cordillera de la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\"><br>Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su Minuta Técnica por peligro de remociones en masa, indica que la probabilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos y caídas de rocas) es <strong>Moderada </strong>en el litoral y cordillera de la costa y <strong>Baja </strong>en valles precordilleranos y precordillera y cordillera de la región.<br><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla y declara Alerta Temprana Preventiva Regional (territorio continental) por evento meteorológico</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.<br><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

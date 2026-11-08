@@ -1,0 +1,20 @@
+{
+	"id": "c7c5908b-52b1-4457-9e7f-e1e5e1b17227",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región Metropolitana por evento meteorológico",
+	"fechaHora": "2023-11-11T10:01:00.000-03:00",
+	"createdAt": "2023-11-11T13:01:41.776Z",
+	"updatedAt": "2023-11-11T13:02:06.953Z",
+	"urlAccess": "se-declara-la-alerta-temprana-preventiva-para-las-comunas-de-comunas-de-colina-vitacura-las-condes-la-reina-lo-barnechea-penalolen-la-florida-puente-alto-san-jose-de-maipo-y-pirque-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> y en atención al debilitamiento de las condiciones meteorológicas que los originaron, <strong>han sido cancelados los siguientes alertamientos técnicos</strong> para la Región Metropolitana:<br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA78-1</p></td><td><p style=\"text-align:justify\">Tormentas eléctricas con   probabilidad de granizos en cordillera de la costa, valle, precordillera y   cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A433-4</p></td><td><p style=\"text-align:justify\">Probable desarrollo de   tormentas eléctricas con precipitaciones aisladas en los sectores de   cordillera de la costa, valle, precordillera y cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional</strong>, por evento meteorológico, que se mantenía vigente desde el 09 de noviembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

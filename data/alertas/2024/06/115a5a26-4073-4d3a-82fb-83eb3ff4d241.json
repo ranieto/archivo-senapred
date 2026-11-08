@@ -1,0 +1,20 @@
+{
+	"id": "115a5a26-4073-4d3a-82fb-83eb3ff4d241",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para las provincias de Valparaíso y Marga Marga por evento meteorológico",
+	"fechaHora": "2024-06-21T17:51:00.000-04:00",
+	"createdAt": "2024-06-21T21:53:46.078Z",
+	"updatedAt": "2024-06-23T16:28:30.722Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-provincias-de-valparaiso-y-marga-marga-por-evento-meteorologico",
+	"parentId": "b4da48af-d73d-4d5e-8405-94207a2a671d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso, &nbsp;en diversos puntos de las provincias de Valparaíso y Marga Marga se registran aumentos de los niveles de agua en los embalses, incremento de los caudales en canales y esteros, activación de quebradas, inminencia de rebalses, desbordes y deslizamiento de material rocoso en rutas, caminos, calles y viviendas. Asimismo, se suman requerimientos de evacuaciones preventivas por parte de los niveles comunales y provinciales debido al evento meteorológico, la evolución que está presentando el sistema frontal y a los múltiples incidentes que se han generado producto del evento.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para las provincias de Valparaíso y Marga Marga por evento meteorológico</strong></span><span style=\"font-size:12px;color:black\">, v</span><span style=\"color:black\">igente desde hoy y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que el resto de la región permanece con Alerta Amarilla por evento meteorológico, excepto para la provincia de Isla de Pascua y comuna de Juan Fernández.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

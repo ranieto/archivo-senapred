@@ -1,0 +1,20 @@
+{
+	"id": "f364474c-229c-43bf-84d2-b37ec9eb984b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2024-04-23T08:39:02.022-04:00",
+	"createdAt": "2024-04-23T12:40:04.511Z",
+	"updatedAt": "2024-04-23T12:41:06.838Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-romeral-curico-molina-san-clemente-colbun-linares-longavi-y-parral-por-viento-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los Avisos Meteorológicos A105/2024, A103/2024 y A102/2024, que pronosticaron la ocurrencia de viento normal a moderado en zonas de litoral, cordillera de la costa, valle y precordillera; precipitaciones normales a moderadas en corto periodo de tiempo en zonas de litoral, cordillera de la costa, valle y precordillera; y viento normal a moderado en sector cordillerano de la región, debido al término de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED<strong> cancela la Alerta Temprana Preventiva Regional por evento meteorológico, </strong>que se mantuvo vigente desde el 20 de abril de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

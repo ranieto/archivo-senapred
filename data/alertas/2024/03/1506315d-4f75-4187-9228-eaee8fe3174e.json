@@ -1,0 +1,20 @@
+{
+	"id": "1506315d-4f75-4187-9228-eaee8fe3174e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Tirúa por incendio forestal ",
+	"fechaHora": "2024-03-02T16:15:00.000-03:00",
+	"createdAt": "2024-03-02T19:17:13.755Z",
+	"updatedAt": "2024-03-07T20:13:25.976Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tirua-por-incendio-forestal",
+	"parentId": "087da5bd-acf2-4dc9-a2bc-6669c5b11ffa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Tirúa se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Tranaquepe</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En trayecto</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>35 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Incendio   forestal se encuentra cercano a sectores poblados e infraestructura crítica.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Tirúa por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span><span style=\"font-size:12px;color:#212529\"><br><br></span><span style=\"font-size:14px;color:#2E2E2E\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

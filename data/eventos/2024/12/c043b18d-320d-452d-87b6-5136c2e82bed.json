@@ -1,0 +1,19 @@
+{
+	"id": "c043b18d-320d-452d-87b6-5136c2e82bed",
+	"type": "Evento",
+	"titulo": "Accidente terrestre, comuna de Quilpué",
+	"fechaHora": "2024-12-17T10:23:12.1212-03:00",
+	"createdAt": "2024-12-17T13:28:41.641Z",
+	"updatedAt": "2024-12-17T15:55:46.192Z",
+	"urlAccess": "accidente-terrestre-comuna-de-quilpue",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Quilpué\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso, se registra una colisión entre 2 microbuses en la intersección de la avenida Los Carreras con San Martín, comuna de Quilpué.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de este evento, se reportan aproximadamente 15 personas lesionadas, las cuales están siendo evaluadas en el lugar por SAMU y Bomberos. Por otra parte, el tránsito vehicular se mantiene regulado mientras se realizan los trabajos del personal de emergencias.</span></p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

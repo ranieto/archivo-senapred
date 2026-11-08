@@ -1,0 +1,20 @@
+{
+	"id": "f79fdde2-68ab-4c81-8f15-6079402f06f3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Palena por heladas",
+	"fechaHora": "2025-07-08T15:27:00.000-04:00",
+	"createdAt": "2025-07-08T19:32:47.727Z",
+	"updatedAt": "2025-07-10T16:52:56.486Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-palena-por-heladas",
+	"parentId": "8cb0c573-c4e5-4564-bd2b-0ec6feb53dd2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Palena\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A259-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Heladas   normales a moderadas en Patagonia Subandina (entre -6°C y -4°C) de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">09-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">09-07</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva por heladas para la Provincia de Palena</strong>, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><span style=\"color: black\">SENAPRED&nbsp;recomienda</span></strong> a la población vestir adecuadamente con ropa de abrigo, utilizando calzado cerrado y manteniendo manos, cuello y cabeza protegidos; evitar cambios bruscos de temperatura, recordando cubrir nariz y boca al momento de salir desde un lugar temperado; y no exponer al frío a niños, ancianos y enfermos crónicos.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

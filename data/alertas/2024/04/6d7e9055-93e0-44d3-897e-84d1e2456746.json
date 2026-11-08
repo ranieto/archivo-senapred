@@ -1,0 +1,20 @@
+{
+	"id": "6d7e9055-93e0-44d3-897e-84d1e2456746",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Valdivia por incendio forestal",
+	"fechaHora": "2024-04-15T13:24:15.1515-04:00",
+	"createdAt": "2024-04-15T17:25:23.691Z",
+	"updatedAt": "2024-04-15T17:26:46.898Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valdivia-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valdivia\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Valdivia se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Niebla</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3.1 hectáreas </p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Al momento, el i<span style=\"font-size:14px;color:#2E2E2E\">ncendio forestal ya no presenta amenaza a   viviendas.</span></p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Ríos, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Valdivia, por incendio forestal, que se mantuvo vigente desde el 14 de abril de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "237f778d-45cc-4808-91a4-9b7b4eb5f9a7",
+	"type": "Alerta",
+	"titulo": "prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-21T14:52:40.243Z",
+	"updatedAt": "2023-09-21T14:52:59.802Z",
+	"urlAccess": "prueba",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>mmmmm mmmmm mmmmm</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

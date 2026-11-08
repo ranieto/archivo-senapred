@@ -1,0 +1,20 @@
+{
+	"id": "9f256c41-1aff-4d5f-bc45-2f3b89ffb322",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Gorbea por amenaza de desborde",
+	"fechaHora": "2024-06-27T16:29:06.066-04:00",
+	"createdAt": "2024-06-27T20:30:17.118Z",
+	"updatedAt": "2024-06-29T17:37:57.651Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-gorbea-por-amenaza-de-desborde",
+	"parentId": "617f9d0a-a304-445e-b0ef-1b039a8cbaba",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Donguil” ha alcanzado valores del umbral de Alerta Roja, adicionalmente la estación “Río Puyehue” en la localidad de Quitratue se mantiene en umbral de Alerta Amarilla, ambas estaciones en la comuna de Gorbea.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable </span>y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Roja por amenaza de desborde para la comuna de Gorbea, </strong>vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

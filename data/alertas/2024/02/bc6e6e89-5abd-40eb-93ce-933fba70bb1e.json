@@ -1,0 +1,20 @@
+{
+	"id": "bc6e6e89-5abd-40eb-93ce-933fba70bb1e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Canela y Combarbalá por amenaza de incendios forestales",
+	"fechaHora": "2024-02-01T12:15:00.000-03:00",
+	"createdAt": "2024-02-01T15:18:45.502Z",
+	"updatedAt": "2024-02-01T15:19:11.405Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-combarbala-y-canela-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Choapa, Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Canela, Combarbalá\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal CONAF</strong>, se indica que las condiciones meteorológicas que propiciaron el alertamiento sobre la generación y propagación de incendios forestales en la Región de Coquimbo, ya no se encuentran vigentes.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED <strong>cancela Alerta Temprana Preventiva para las comunas de Canela y Combarbalá por amenaza de incendios forestales</strong>, que se mantuvo vigente desde el 29 de enero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

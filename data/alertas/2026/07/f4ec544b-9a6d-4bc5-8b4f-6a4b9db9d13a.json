@@ -1,0 +1,20 @@
+{
+	"id": "f4ec544b-9a6d-4bc5-8b4f-6a4b9db9d13a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Cautín por evento meteorológico",
+	"fechaHora": "2026-07-09T14:12:44.4444-04:00",
+	"createdAt": "2026-07-09T18:13:33.729Z",
+	"updatedAt": "2026-07-09T18:14:13.933Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-04-17-30-02",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A298-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Viento   normal a moderado en litoral y cordillera de la costa de la región.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial de la Región de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla por evento meteorológico para la provincia de Cautín</strong>, que se mantuvo vigente desde el 06 de julio del 2026.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Cabe señalar que se mantienen desplegados en terreno los equipos municipales en el levantamiento de información.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

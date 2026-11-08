@@ -1,0 +1,20 @@
+{
+	"id": "2f4a762e-1aa3-4280-9c36-96cd1697fb5f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región Metropolitana por incendio forestal",
+	"fechaHora": "2024-12-21T19:46:00.000-03:00",
+	"createdAt": "2024-12-22T00:59:35.578Z",
+	"updatedAt": "2024-12-30T07:16:50.140Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-metropolitana-por-incendio-forestal",
+	"parentId": "8e121019-3495-442b-ba65-8d9c954b9f69",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Producto de la simultaneidad de ocurrencia de incendios forestales, referida a un número tal de incendios desarrollándose al mismo tiempo, que concentran los recursos de combate disponibles en la región y anticipan requerir reforzamiento del Sistema de Prevención y Respuesta ante Desastres de la Región Metropolitana, para responder a nuevos incendios que se inicien o reforzamiento de aquellos que se encuentran en desarrollo.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED </span><strong>declara Alerta Amarilla</strong><span style=\"font-size: 16px\"> para la Región de Metropolitana de Santiago por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\">Cabe señalar que, se mantiene la Alerta Roja en la comuna de Melipilla por los incendios forestales denominados \"El Pimiento, y Bollenar 3\" y para la comuna de San Pedro por el incendio \"Corneche 3\".<br></span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

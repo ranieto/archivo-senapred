@@ -1,0 +1,19 @@
+{
+	"id": "b2745972-26d0-45a3-a6c3-33ca5312e211",
+	"type": "Evento",
+	"titulo": "Accidente Terrestre, Comuna de Antofagasta (Información preliminar)",
+	"fechaHora": "2025-03-27T08:52:00.000-03:00",
+	"createdAt": "2025-03-27T12:25:06.436Z",
+	"updatedAt": "2025-03-27T16:24:23.142Z",
+	"urlAccess": "accidente-terrestre-comuna-de-antofagasta-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, se registra una colisión entre 01 vehículo mayor y 01 minibús, en el kilómetro 29 de la Ruta B-24, comuna de María Elena.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Al momento, se reportan 03 personas fallecidas y aproximadamente 15 con lesiones en evaluación.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Por otra parte, el tránsito vehicular de la ruta se encuentra interrumpido mientras se realizan los trabajos de los equipos de emergencia.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, 06 ambulancias SAMU y Carabineros.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "01eb90e5-dd22-4cfc-a756-5f979c787e07",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas Chañaral, Caldera, Copiapó, Huasco y Freirina por viento",
+	"fechaHora": "2024-11-05T19:53:00.000-03:00",
+	"createdAt": "2024-11-05T22:52:53.418Z",
+	"updatedAt": "2024-11-05T22:53:10.286Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-chanaral-caldera-copiapo-huasco-y-freirina-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama, debido al debilitamiento de las condiciones que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A416</p></td><td><p style=\"text-align:justify\">Viento normal a moderado con probabilidad de tormentas de   arena en litoral.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong><strong>para las comunas </strong></span><strong><span style=\"color:black\">Chañaral, Caldera, Copiapó, Huasco y Freirina, </span></strong><strong><span style=\"color:black\">por viento</span></strong><span style=\"color:black\">, que se mantenía vigente desde el 03 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

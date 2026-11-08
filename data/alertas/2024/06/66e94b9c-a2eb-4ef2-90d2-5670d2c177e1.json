@@ -1,0 +1,20 @@
+{
+	"id": "66e94b9c-a2eb-4ef2-90d2-5670d2c177e1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por nevadas",
+	"fechaHora": "2024-06-15T13:31:26.2626-04:00",
+	"createdAt": "2024-06-15T17:32:22.144Z",
+	"updatedAt": "2024-06-15T17:32:44.567Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Nevadas\",\"nombreImg\":\"nevadas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong><span style=\"color: black\"> y debido al debilitamiento de las condiciones meteorológicas que lo originó, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso 208</p></td><td><p style=\"text-align:justify\">Nevadas normales a moderadas en cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente la Delegación Presidencial Regional de Coquimbo, en coordinación con la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva por nevadas</strong>, para las comunas de <strong>La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca,</strong> que mantenía vigente desde el 12 de junio.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "10cc82c8-9c32-4296-9667-ad2b1a10f5a4"
+}

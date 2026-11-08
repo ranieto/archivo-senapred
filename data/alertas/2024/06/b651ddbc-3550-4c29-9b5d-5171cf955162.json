@@ -1,0 +1,20 @@
+{
+	"id": "b651ddbc-3550-4c29-9b5d-5171cf955162",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Natales por alteración del suministro de agua potable ",
+	"fechaHora": "2024-06-27T19:05:57.5757-04:00",
+	"createdAt": "2024-06-27T23:06:54.363Z",
+	"updatedAt": "2024-06-27T23:07:19.021Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-natales-por-alteracion-del-suministro-de-agua-potable",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Magallanes, respecto al congelamiento del sistema de distribución de agua potable, se informa que debido al aumento de las temperaturas máximas y los trabajos realizados por la empresa, el servicio se encuentra normalizado en la comuna.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por alteración del suministro de agua potable para la comuna de Natales,</strong> que se mantuvo vigente desde el 21 de junio de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

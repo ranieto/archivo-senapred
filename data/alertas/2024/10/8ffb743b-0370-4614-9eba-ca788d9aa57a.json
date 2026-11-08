@@ -1,0 +1,20 @@
+{
+	"id": "8ffb743b-0370-4614-9eba-ca788d9aa57a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-10-31T12:33:03.033-03:00",
+	"createdAt": "2024-10-31T15:37:13.847Z",
+	"updatedAt": "2024-10-31T17:04:37.115Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-8",
+	"parentId": "852dd9c4-dbd3-42fd-b759-be5c64b458e7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Valparaíso (Reserva Nacional Lago Peñuelas), indica informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Camino a Quintay</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.51 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color: black\">5 brigadas y 1 técnico de CONAF;&nbsp;<span style=\"color: rgb(0, 0, 0)\">4</span><span style=\"color: rgb(0, 0, 0)\">&nbsp;vehículos&nbsp;</span><span style=\"color: rgb(0, 0, 0)\">Bomberos de Valparaíso y 2 camiones aljibe.</span></span></p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela Alerta Roja y declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED); para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "2f327cad-59af-46ef-a7ec-186dbd9d167b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la provincia de Última Esperanza por heladas",
+	"fechaHora": "2025-07-05T14:00:00.000-04:00",
+	"createdAt": "2025-07-05T18:32:32.303Z",
+	"updatedAt": "2025-07-07T19:24:33.703Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-4",
+	"parentId": "d32ca0b9-a670-4429-8325-9bf999a90935",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A257</p></td><td><p style=\"text-align:justify\">Heladas normales a   moderadas en el sector de la pampa patagónica norte (entre -6 y -8 C°) </p></td><td><p style=\"text-align:center\">06-07</p></td><td><p style=\"text-align:center\">07-07</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva para la provincia de Última Esperanza por heladas</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

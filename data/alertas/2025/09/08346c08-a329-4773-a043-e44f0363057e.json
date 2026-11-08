@@ -1,0 +1,20 @@
+{
+	"id": "08346c08-a329-4773-a043-e44f0363057e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2025-09-21T20:40:00.000-03:00",
+	"createdAt": "2025-09-21T23:57:08.794Z",
+	"updatedAt": "2025-09-22T12:10:00.417Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-18",
+	"parentId": "2ba641a2-afba-47a4-8274-71481cf034b0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maul</strong>e, se reporta afectación en 2 comunas de la región, producto del desarrollo de este evento meteorológico, las que se detallan en el cuadro a continuación.</p><div><table><tbody><tr><td colspan=\"7\"><p><strong><span style=\"color:black\">SITUACIONES   DE EMERGENCIA Y/O AFECTACIÓN </span></strong></p></td></tr><tr><td rowspan=\"2\"><p><strong><span style=\"color:black\">Comunas</span></strong></p></td><td colspan=\"2\"><p><strong><span style=\"color:black\">Personas</span></strong></p></td><td colspan=\"4\"><p><strong><span style=\"color:black\">Viviendas</span></strong></p></td></tr><tr><td><p><strong><span style=\"color:black\">Damnificados</span></strong></p></td><td><p><strong><span style=\"color:black\">Lesionadas</span></strong></p></td><td><p><strong><span style=\"color:black\">Destruidas</span></strong></p></td><td><p><strong><span style=\"color:black\">Daño   mayor</span></strong></p></td><td><p><strong><span style=\"color:black\">Daño   menor</span></strong></p></td><td><p><strong><span style=\"color:black\">En   evaluación</span></strong></p></td></tr><tr><td><p><strong>Linares</strong></p></td><td><p>En evaluación</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td><td><p>80</p></td><td><p>10</p></td></tr><tr><td><p><strong>Yerbas Buenas</strong></p></td><td><p>1</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p><strong><span style=\"color:black\">Total   regional</span></strong></p></td><td><p><strong><span style=\"color:black\">1</span></strong></p></td><td><p><strong><span style=\"color:black\">0</span></strong></p></td><td><p><strong><span style=\"color:black\">0</span></strong></p></td><td><p><strong><span style=\"color:black\">4</span></strong></p></td><td><p><strong><span style=\"color:black\">80</span></strong></p></td><td><p><strong><span style=\"color:black\">10</span></strong></p></td></tr></tbody></table></div><p>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva </strong><strong>Regional por evento meteorológico</strong>,que se mantiene desde el 19 de septiembre y hasta que las condiciones del evento así lo ameriten.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "273bff02-2b5f-4cc5-b507-42779b2417d5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Castro por incendio forestal ",
+	"fechaHora": "2023-10-17T13:32:00.000-03:00",
+	"createdAt": "2023-10-18T01:21:48.329Z",
+	"updatedAt": "2023-10-21T23:18:01.391Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-castro-por-incendio-forestal",
+	"parentId": "cf54a079-3a12-4f91-a522-60ca3ffc0690",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Castro\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se reporta un incendio forestal en la comuna de Castro, según el siguiente detalle:</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Alto Muro</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate</div></td></tr><tr><td><div><strong>Superficie</strong></div></td><td><div>9 hectáreas</div></td></tr><tr><td><div><strong>Fundamentación técnica</strong></div></td><td><div>cercanía sectores habitados, y/o infraestructura critica</div></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio con avance rápido, cercanía a instalaciones municipales, reserva natural municipal de bosque nativo y vertedero, ubicadas en el sector Alto Muro – Piruquina.</div></td></tr></tbody></table><p>​En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED declara Alerta Roja para la comuna de Castro por incendio forestal, vigente desde hoy y hasta que las condiciones así lo ameriten.<br><br>Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

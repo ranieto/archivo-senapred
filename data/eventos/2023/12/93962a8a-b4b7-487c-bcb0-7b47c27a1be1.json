@@ -1,0 +1,19 @@
+{
+	"id": "93962a8a-b4b7-487c-bcb0-7b47c27a1be1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Magallanes",
+	"fechaHora": "2023-12-17T13:59:12.1212-03:00",
+	"createdAt": "2023-12-17T17:00:01.773Z",
+	"updatedAt": "2023-12-17T17:06:15.657Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-magallanes",
+	"parentId": "e86426e5-25b1-4f5c-8733-3de4bc8342df",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">13:52 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de Magallanes.</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Magallanes y Antártica Chilena </strong></p></td></tr><tr><td><p>Natales:   </p></td><td><p>III</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. </p><p><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.2 localizado a</span> 193 Kms al Oeste de Puerto Natales.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

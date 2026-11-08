@@ -1,0 +1,20 @@
+{
+	"id": "e1fe3d26-5c97-4b61-9ad3-29d4d8773126",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Vilcún por incendio forestal",
+	"fechaHora": "2024-02-19T16:11:29.2929-03:00",
+	"createdAt": "2024-02-19T19:12:27.382Z",
+	"updatedAt": "2024-02-19T19:25:40.606Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-vilcun-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Vilcún\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Vilcún se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Parque   Nacional Conguillío 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido   </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,4   hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Vilcún, por incendio forestal, que se mantuvo vigente desde el 17 de febrero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

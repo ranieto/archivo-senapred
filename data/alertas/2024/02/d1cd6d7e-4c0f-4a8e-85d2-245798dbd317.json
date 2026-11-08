@@ -1,0 +1,20 @@
+{
+	"id": "d1cd6d7e-4c0f-4a8e-85d2-245798dbd317",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de San Carlos por incendio forestal",
+	"fechaHora": "2024-02-23T14:59:52.5252-03:00",
+	"createdAt": "2024-02-23T18:04:43.412Z",
+	"updatedAt": "2024-02-23T20:36:45.226Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-carlos-por-incendio-forestal",
+	"parentId": "797c1f94-8c3d-4bcf-ac1c-e8c037a5bb03",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Punilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Carlos\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p><strong>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF,</strong> en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de San Carlos por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Junquillo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">8.0</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Fundamentación técnica</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:black\">El incendio se desarrolla cercano a sectores   habitados</span></p></td></tr></tbody></table><p><br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

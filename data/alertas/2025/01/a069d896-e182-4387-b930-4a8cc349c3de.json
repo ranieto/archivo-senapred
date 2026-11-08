@@ -1,0 +1,20 @@
+{
+	"id": "a069d896-e182-4387-b930-4a8cc349c3de",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Chile Chico por incendio forestal",
+	"fechaHora": "2025-01-16T19:56:00.000-03:00",
+	"createdAt": "2025-01-16T23:22:27.907Z",
+	"updatedAt": "2025-01-16T23:23:29.304Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-chile-chico-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"General Carrera\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Chile Chico\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Chile Chico se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Fachinal</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">50   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">4 Brigadas   de CONAF, 2 Técnicos de CONAF y 2 Helicópteros</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Aysén, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Chile Chico, por incendio forestal, que se mantuvo vigente desde el 15 de enero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

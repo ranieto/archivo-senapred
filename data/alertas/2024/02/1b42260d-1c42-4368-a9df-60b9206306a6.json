@@ -1,0 +1,20 @@
+{
+	"id": "1b42260d-1c42-4368-a9df-60b9206306a6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las Provincias de Los Andes, Petorca, Quillota, San Antonio y San Felipe de Aconcagua por incendio forestal",
+	"fechaHora": "2024-02-15T19:52:00.000-03:00",
+	"createdAt": "2024-02-15T22:55:49.531Z",
+	"updatedAt": "2024-02-15T22:56:13.812Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Los Andes, Petorca, Quillota, San Antonio, San Felipe de Aconcagua\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,</span><span style=\"color: rgb(33, 37, 41)\">&nbsp;respecto al incendio forestal en las comunas de Quilpué y Villa Alemana, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Lo Moscoso</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Extinguido</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>1.480 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectaciones</strong></p></td><td><div>4.555 personas damnificadas, 18 fallecidas, y 1.485 viviendas destruidas, 100 con daño mayor, 100 con daño menor y 150 en evaluación</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para las Provincias de Los Andes, Petorca, Quillota, San Antonio y San Felipe de Aconcagua por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 02 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

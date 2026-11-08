@@ -1,0 +1,20 @@
+{
+	"id": "ab98d0ed-8590-4350-a2cf-c333fa7fc00a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por amenaza de incendios forestales",
+	"fechaHora": "2025-11-26T10:12:32.3232-03:00",
+	"createdAt": "2025-11-26T13:14:16.634Z",
+	"updatedAt": "2025-11-26T18:14:41.705Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-amenaza-de-incendios-forestales-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF, a través de la desactivación de su alerta técnica, de acuerdo con el análisis técnico realizado para los próximos días, se indica el termino de las variables meteorológicas de riesgo que dieron origen a su declaración.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, <strong>la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la región de Biobío por amenaza de incendios forestales</strong>, que se mantuvo vigente desde el 21 de noviembre de 2025.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

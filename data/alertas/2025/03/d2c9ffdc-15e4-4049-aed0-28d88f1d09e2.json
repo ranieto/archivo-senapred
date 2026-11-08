@@ -1,0 +1,20 @@
+{
+	"id": "d2c9ffdc-15e4-4049-aed0-28d88f1d09e2",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva Regional para la Región de Valparaíso (exceptuando su territorio insular) por amenaza de incendios forestales",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-03-07T22:00:13.209Z",
+	"updatedAt": "2025-03-07T22:03:06.249Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-regional-para-la-region-de-valparaiso-exceptuando-su-territorio-insular-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información otorgada por CONAF </strong>que activa alerta técnica temprana preventiva por condiciones propicias para la ocurrencia y propagación de incendios forestales y, sumado al Aviso Meteorológico A80-1/2025 emitido el viernes 07 de marzo de 2025 por la Dirección Meteorológica de Chile, en el cual se pronostican altas temperaturas asociadas a una dorsal en altura desde la tarde del sábado 08 hasta la tarde del domingo 09 de marzo de 2025 y que para la Región de Valparaíso, indica que este evento afectaría principalmente al sector litoral, Cordillera de la Costa, precordillera y los valles precordilleranos, es que en coordinación con la Delegación Presidencial Regional de Valparaíso, <strong>la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, excepto territorio insular, por amenaza de incendios forestales</strong>, a contar de hoy y hasta que las condiciones así lo ameriten.</p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

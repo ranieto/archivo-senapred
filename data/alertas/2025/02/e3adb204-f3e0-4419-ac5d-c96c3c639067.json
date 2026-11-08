@@ -1,0 +1,20 @@
+{
+	"id": "e3adb204-f3e0-4419-ac5d-c96c3c639067",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de San Pablo por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-02-18T03:02:27.855Z",
+	"updatedAt": "2025-02-18T04:39:08.158Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-se-san-pablo-por-incendio-forestal",
+	"parentId": "80ebf3c5-bce0-4310-924e-1b57cf1537c3",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Osorno\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"San Pablo\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de San Pablo </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Acceso Norte San Pablo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>5 Brigadas CONAF, 2 Técnicos CONAF y 1 Helicóptero de   CONAF</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de San Pablo por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

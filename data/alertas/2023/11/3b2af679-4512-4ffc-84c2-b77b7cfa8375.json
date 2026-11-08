@@ -1,0 +1,20 @@
+{
+	"id": "3b2af679-4512-4ffc-84c2-b77b7cfa8375",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Amarilla para la comuna de Tierra Amarilla por incendio forestal",
+	"fechaHora": "2023-11-01T12:29:46.4646-03:00",
+	"createdAt": "2023-11-01T15:32:53.273Z",
+	"updatedAt": "2023-11-01T15:33:15.956Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Tierra Amarilla\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color:black\">, se reporta un incendio forestal en la comuna de Tierra Amarilla conforme al siguiente detalle:</span></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Los Loros 2.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Controlado.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">0,5 hectáreas.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Fundamentación   técnica</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio sin cercanía a   viviendas.</span></p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla </strong>para la comuna de Tierra Amarilla por incendio forestal, la cual se mantuvo vigente desde el 29 de octubre.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

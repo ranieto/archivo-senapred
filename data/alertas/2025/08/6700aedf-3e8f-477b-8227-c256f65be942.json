@@ -1,0 +1,20 @@
+{
+	"id": "6700aedf-3e8f-477b-8227-c256f65be942",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y se cancela Alerta Amarilla para las comunas de Los Sauces y Angol por crecida",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-08-03T12:52:14.551Z",
+	"updatedAt": "2025-08-03T14:24:21.153Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-los-sauces-y-angol-por-crecida",
+	"parentId": "f72d731f-acf3-494c-ab98-1d8d4e6ba970",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Angol, Los Sauces\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por la Dirección General de Aguas (DGA), mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación <strong>“Río Rahue en Quebrada Culén”</strong> ha aumentado su umbral de alerta a <strong>roja</strong>, el cual, si continúa aumentando el caudal, podría ocasionar afectación a personas y daños en infraestructuras de la comuna.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Roja para las comunas de Los Sauces y Angol por desborde y cancela la Alerta Amarilla por crecida, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

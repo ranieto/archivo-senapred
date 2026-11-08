@@ -1,0 +1,20 @@
+{
+	"id": "7f03c240-271a-44c3-b5ea-a60dc712dda3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2025-06-16T19:13:00.000-04:00",
+	"createdAt": "2025-06-16T23:32:06.180Z",
+	"updatedAt": "2025-06-16T23:32:37.680Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se han cancelado los siguientes alertamientos meteorológicos para la Región de Ñuble, debido al debilitamiento de las condiciones que los originaron:</p><table><tbody><tr><td><p style=\"margin-right:.1pt;margin-left:7.1pt\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"margin-right:.05pt;margin-left:.45pt\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alarma   AAA6</p></td><td><p style=\"margin-right:9.05pt;margin-left:6.65pt;text-align:justify\">Viento intenso en el litoral, cordillera   de la costa, valle, precordillera y cordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Alarma   AAA4-3</p></td><td><p style=\"margin-right:9.05pt;margin-left:6.65pt;text-align:justify\">Precipitaciones intensas en corto   periodo de tiempo en litoral, cordillera de la costa, valle y precordillera   de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA46-3</p></td><td><p style=\"margin-right:9.05pt;margin-left:6.65pt;text-align:justify\">Viento moderado a fuerte en litoral,   cordillera de la costa, valle y precordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA45-4</p></td><td><p style=\"margin-right:9.05pt;margin-left:6.65pt;text-align:justify\">Precipitaciones moderadas a fuertes en   litoral, cordillera de la costa, valle y precordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA44-3</p></td><td><p style=\"margin-right:9.05pt;margin-left:6.65pt;text-align:justify\">Nevadas moderadas a fuertes en corto   periodo de tiempo en cordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A216-4</p></td><td><p style=\"margin-right:9.05pt;margin-left:6.65pt;text-align:justify\">Viento normal a moderado en cordillera   de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional</strong><strong>por evento meteorológico</strong>, que se mantuvo vigente desde el 14 de junio de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

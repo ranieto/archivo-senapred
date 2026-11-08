@@ -1,0 +1,20 @@
+{
+	"id": "ff491ad4-139b-42eb-a802-03747ad1ffa0",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2025-09-20T20:51:02.022-03:00",
+	"createdAt": "2025-09-20T23:52:43.370Z",
+	"updatedAt": "2025-09-22T12:10:00.513Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-18",
+	"parentId": "2ba641a2-afba-47a4-8274-71481cf034b0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule</span></strong><span style=\"color: black\">, se registran 83 viviendas con daños en evaluación en la comuna de Linares, producto de fuertes vientos en la zona. Los sectores afectados son población María del Valle, Parque Cordillera, Parque Oriente, Agua Fría, Villa Alborada y salida a Panimávida, sector Nor-Oriente de la comuna.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, se ha reportado el desprendimiento parcial de techumbre del Rodoviario de buses de la comuna y la caída de un poste con cableado eléctrico en el sector María del Valle. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Respecto a los servicios básicos, se encuentran 850 clientes sin suministro de electricidad en la comuna.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva </strong></span><strong><span style=\"color:black\">Regional </span><span style=\"color:black\">por evento meteorológico</span></strong><span style=\"color:black\">, que se mantiene desde el 19 de septiembre y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

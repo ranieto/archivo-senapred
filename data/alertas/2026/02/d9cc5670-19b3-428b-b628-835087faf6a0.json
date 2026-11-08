@@ -1,0 +1,20 @@
+{
+	"id": "d9cc5670-19b3-428b-b628-835087faf6a0",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Maule por incendio forestal",
+	"fechaHora": "2026-02-08T17:52:24.2424-03:00",
+	"createdAt": "2026-02-08T20:53:07.757Z",
+	"updatedAt": "2026-02-09T02:05:27.926Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-maule-por-incendio-forestal-2026-02-08-16-34-22",
+	"parentId": "aa90f743-5c6d-4dc0-a2e5-3332e270cea9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de Maule se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Numpay</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>15 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Maule, Talca, Rafael, Pelarco, Yerbas Buenas y   San Javier; 4 brigadas y 1 técnico de Conaf; 5 aeronaves y 1 skidders y 1   camión cisterna de Conaf; 1 camión aljibe municipal y Carabineros</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la comuna de Maule, por incendio forestal, que se encuentra vigente desde el 08 de febrero de 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

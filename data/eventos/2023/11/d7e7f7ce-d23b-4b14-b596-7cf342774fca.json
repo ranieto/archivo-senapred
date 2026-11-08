@@ -1,0 +1,19 @@
+{
+	"id": "d7e7f7ce-d23b-4b14-b596-7cf342774fca",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Coquimbo",
+	"fechaHora": "2023-11-03T04:53:36.3636-03:00",
+	"createdAt": "2023-11-03T07:55:24.283Z",
+	"updatedAt": "2023-11-03T07:55:24.283Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-5",
+	"parentId": "bd60c544-373f-46ef-b226-49fbfdcdb81e",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">Un sismo de menor intensidad fue percibido a las 04:38 horas en la Región de Coquimbo.<br></span></p><p><span style=\"font-size: 14px\">Las intensidades en Escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><span style=\"font-size: 14px\"><strong>Región: Coquimbo</strong></span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">La Serena:</span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Andacollo:</span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">La Higuera:</span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Paiguano:</span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Vicuña:</span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Ovalle:</span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Punitaqui:</span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr></tbody></table><p><span style=\"font-size: 14px\"><br></span></p><p><span style=\"font-size: 14px\">No se reportan daños a personas, alteración a servicios básicos ni a infraestructura producto de este sismo.</span></p><p><span style=\"font-size: 14px\">Centro Sismológico Nacional indica que la magnitud del sismo fue 4.9, localizado 38 Km al Noroeste de Tongoy.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

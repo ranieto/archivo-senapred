@@ -1,0 +1,20 @@
+{
+	"id": "bb29c72e-9e76-4363-ab3c-1c8b21f01b5e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Rancagua por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-18T21:08:24.348Z",
+	"updatedAt": "2025-01-21T10:46:33.624Z",
+	"urlAccess": "se-cancela-alerta-roja-para-la-comuna-de-rancagua-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF, CONTROLADO se encuentra el incendio forestal denominado \"Media Luna de Chancón\" en la comuna de Rancagua, el cual al momento consume 3 hectáreas de arbolado, matorral y pastizal.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Rancagua, por incendio forestal, que se mantuvo vigente desde el 18 de enero de 2025.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

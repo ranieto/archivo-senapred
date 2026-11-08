@@ -1,0 +1,20 @@
+{
+	"id": "7f9b555b-5308-4863-ba8c-a54e32c05d0f",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Maule y Ñuble   ",
+	"fechaHora": "2024-09-30T16:33:23.2323-03:00",
+	"createdAt": "2024-09-30T19:35:00.105Z",
+	"updatedAt": "2024-09-30T19:43:07.447Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-uble-5",
+	"parentId": "7ce5fdf0-222e-4a67-8ff0-342f060ef5fb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble, Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 16:25 horas en las regiones de Maule y Ñuble. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Maule </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Cauquenes: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Ñuble </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Chillán: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">San Carlos: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED</p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4 localizado a17 Kms al Norte de San Fabián.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

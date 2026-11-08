@@ -1,0 +1,20 @@
+{
+	"id": "b8efa198-3579-4472-b438-ae33dcde40a3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de Biobío por desborde",
+	"fechaHora": "2026-09-26T13:23:35.3535-03:00",
+	"createdAt": "2026-09-26T16:24:44.659Z",
+	"updatedAt": "2026-09-26T16:24:52.427Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-09-24-06-29-57",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones de la red hidrométrica ubicadas en <strong>“río Curanilahue en Curanilahue”</strong>, <strong>“río Pichilo en Pichilo”</strong>, <strong>“río Biobío en Puente Piulo”</strong> y <strong>“río Lía en Las Corrientes”</strong>, mantienen una tendencia al descenso en su caudal, y adicionalmente no se prevén precipitaciones de mayor intensidad durante los próximos días en la región.</span></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por desborde</strong>, que se mantenía vigente desde el 24 de septiembre.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

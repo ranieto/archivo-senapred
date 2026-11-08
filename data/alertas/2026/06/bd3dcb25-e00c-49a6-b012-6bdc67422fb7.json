@@ -1,0 +1,20 @@
+{
+	"id": "bd3dcb25-e00c-49a6-b012-6bdc67422fb7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la provincia de Parinacota por viento ",
+	"fechaHora": "2026-06-14T15:42:02.022-04:00",
+	"createdAt": "2026-06-14T19:43:49.684Z",
+	"updatedAt": "2026-06-19T17:58:45.199Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-por-viento-2026-06-14-15-43-27",
+	"parentId": "5ae6fce9-171e-4d5a-9332-af3d9cd4628b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Alertamiento</span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Pronóstico</span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Inicio</span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Fin</span></strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A262</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Viento   normal a moderado en cordillera (entre 60 y 80 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">18-06</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">18-06</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial de la Región de Arica y Parinacota, la Dirección Regional de SENAPRED, <strong>declara Alerta Temprana Preventiva por viento para la provincia de Parinacota</strong>, vigente a contar hoy y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

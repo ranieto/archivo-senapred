@@ -1,0 +1,20 @@
+{
+	"id": "5736259e-4aa1-4e3b-96c6-3dfff30cee08",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2024-12-18T19:35:25.2525-03:00",
+	"createdAt": "2024-12-18T22:38:10.997Z",
+	"updatedAt": "2024-12-19T19:35:41.153Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ovalle-por-incendio-forestal-2",
+	"parentId": "a6c22b14-4f1d-4afc-8ea5-3a83fb7329f8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por CONAF, en combate se encuentra el incendio forestal denominado \" Parque Inglés\" el cual se desarrolla en la comuna de Ovalle, afectando una superficie de 0.01 hectáreas, de vegetación. Cabe señalar, que el incendio presenta amenaza inminente a viviendas a una distancia aproximada de 20 metros.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Parque Inglés</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Ovalle</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>0,01 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>Cuerpo de Bomberos de Ovalle, 2 brigadas CONAF, 1&nbsp;técnico CONAF y 1 camión cisterna CONAF</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Ovalle por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

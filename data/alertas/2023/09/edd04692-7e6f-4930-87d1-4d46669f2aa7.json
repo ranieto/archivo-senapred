@@ -1,0 +1,20 @@
+{
+	"id": "edd04692-7e6f-4930-87d1-4d46669f2aa7",
+	"type": "Alerta",
+	"titulo": "Una alerta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-08T18:10:11.787Z",
+	"updatedAt": "2023-09-20T14:07:36.920Z",
+	"urlAccess": "una-alerta",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>prueba</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

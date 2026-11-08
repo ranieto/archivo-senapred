@@ -1,0 +1,20 @@
+{
+	"id": "dcc912a8-34f9-4d62-84d2-3f01f1f00fa0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Navidad por incendio forestal",
+	"fechaHora": "2024-11-27T10:38:00.000-03:00",
+	"createdAt": "2024-11-27T13:50:24.712Z",
+	"updatedAt": "2024-11-27T13:51:51.744Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-navidad-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Navidad\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información técnica proporcionada por CONAF, respecto al incendio&nbsp; en la comuna de Navidad, se informa el siguiente detalle:&nbsp;</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Centinela</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>15 hectáreas</p></td></tr><tr><td><p><strong>Observación</strong></p></td><td><p>Comportamiento del incendio: El incendio se encuentra controlado. No se reportaron novedades durante la madrugada.&nbsp;</p></td></tr></tbody></table><p><br></p><p>De acuerdo a la información técnica proporcionada por CONAF, controlado desde las 20:51 horas de ayer se encuentra el Incendio Forestal Centinela, en la comuna de Navidad, afectado una superficie de 15 hectáreas vegetación. Asimismo, CONAF informa que el incendio no cumple con ninguna de las causales que dieron origen a esta alerta.</p><p><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Navidad, por incendio forestal, que se mantuvo vigente desde el 26 de noviembre de 2024.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

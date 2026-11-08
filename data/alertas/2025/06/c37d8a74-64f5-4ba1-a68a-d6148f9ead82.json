@@ -1,0 +1,20 @@
+{
+	"id": "c37d8a74-64f5-4ba1-a68a-d6148f9ead82",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2025-06-17T08:37:00.000-04:00",
+	"createdAt": "2025-06-17T12:39:20.609Z",
+	"updatedAt": "2025-06-17T12:39:37.248Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-14",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido canceladas la alarma meteorológica AAA4-1/2025, por precipitaciones en corto período de tiempo, las alertas AA44-1/2025 por nevadas moderadas a fuertes, AA45-2 por precipitaciones moderadas a fuertes, AA46-2/2025 por viento moderado a fuerte, y el aviso A216/2025 por viento normal a moderado, en diferentes zonas de la Región de Maule. Lo anterior debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong><strong>por evento meteorológico, </strong>que se mantuvo vigente desde el 10 de junio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7a142409-79bf-4dd8-877c-ff379412bc9a",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales",
+	"fechaHora": "2026-01-27T17:37:00.000-03:00",
+	"createdAt": "2026-01-27T21:06:32.836Z",
+	"updatedAt": "2026-01-29T22:34:18.660Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-2026-01-27-18-06-16",
+	"parentId": "39ad6dc0-dec1-4e70-9e81-7f9129e15477",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información técnica proporcionada por CONAF,</strong> y basado en su análisis técnico, se esperan altas temperaturas estimadas para la región desde el día 28 de enero de 2026 sumado a condiciones meteorológicas favorables para la ocurrencia y propagación de incendios forestales.</span></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">SENAPRED</span></strong><span style=\"font-size:15px\">&nbsp;recomienda a la población&nbsp;mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder;&nbsp;no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (<a href=\"https://web.senapred.cl/visor-chile-preparado/\"><span style=\"color:#0563C1\">https://web.senapred.cl/visor-chile-preparado/</span></a>).&nbsp;En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).&nbsp;</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c72b5d38-c78b-4d88-b0c1-72ff28c06ce9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Mostazal, Codegua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por tormentas eléctricas",
+	"fechaHora": "2023-11-03T09:25:00.000-03:00",
+	"createdAt": "2023-11-03T12:28:57.816Z",
+	"updatedAt": "2023-11-03T12:29:35.629Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-mostazal-codegua-machali-requinoa-rengo-malloa-san-fernando-y-chimbarongo-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), <strong>ha sido cancelado el siguiente alertamiento técnico para la Región de O’Higgins</strong>, en atención al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><table><tbody><tr><td><div><strong>Alertamiento cancelado</strong></div></td><td><div><strong>Pronóstico</strong></div></td></tr><tr><td><div>Aviso A421</div></td><td><div>Probables tormentas eléctricas en precordillera y cordillera.</div></td></tr></tbody></table><p>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong> para las comunas de Mostazal, Codegua, Machalí, Requínoa, Rengo, Malloa, San Fernando y Chimbarongo por tormentas eléctricas, que se encontraba vigente desde el 31 de octubre.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

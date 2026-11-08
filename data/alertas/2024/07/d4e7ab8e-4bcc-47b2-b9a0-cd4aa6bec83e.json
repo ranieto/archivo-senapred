@@ -1,0 +1,20 @@
+{
+	"id": "d4e7ab8e-4bcc-47b2-b9a0-cd4aa6bec83e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por heladas",
+	"fechaHora": "2024-07-13T13:05:00.000-04:00",
+	"createdAt": "2024-07-13T17:05:33.922Z",
+	"updatedAt": "2024-07-13T17:06:47.462Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-heladas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se ha actualizado el aviso A265-7/2024 que prevé Heladas normales a moderadas con formación de escarcha en zonas de las regiones de Valparaíso a Biobío. Por lo tanto, con la actualización del aviso se ha cancelado la ocurrencia de heladas en la región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone el término del riesgo asociado a esta variable, la Dirección Regional del SENAPRED cancela Alerta Temprana Preventiva regional por heladas, que se mantuvo vigente desde el 12 de julio del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

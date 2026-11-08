@@ -1,0 +1,20 @@
+{
+	"id": "f8e82edd-7c26-4517-95d0-7e55348e4a19",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Temprana Preventiva para la comuna de Toltén por remoción en masa",
+	"fechaHora": "2024-11-05T17:05:07.077-03:00",
+	"createdAt": "2024-11-05T20:06:35.894Z",
+	"updatedAt": "2025-04-03T22:21:10.244Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-comuna-de-tolten-por-remocion-en-masa",
+	"parentId": "95da9638-84a6-4d7d-9042-b979e5357ba0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía y en base a los antecedentes proporcionados por el municipio de Toltén, respecto a la activación de quebradas y remociones en masa ocurridas durante los meses de invierno de 2024, se informa que una empresa constructora se encuentra realizando obras de mitigación bajo supervisión de la Dirección de Obras Hidráulicas en las quebradas activadas de Escuela Rayen Lafquén y la localidad de Queule, a fin de disminuir la probabilidad de remociones en masa.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y </span><span style=\"color:black\">en coordinación con la Delegación Presidencial Regional </span><span style=\"color:black\">de La Araucanía, la Dirección Regional del </span><span style=\"color:black\">SENAPRED</span><span style=\"color:black\">, <strong>cancela la Alerta Roja </strong>que se mantenía vigente desde el 26 de junio de 2024 y<strong> declara Alerta Temprana Preventiva comunal por Remoción en Masa para la comuna de Toltén</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0bfbb016-03e9-4858-9649-1fc4ac173190"
+}

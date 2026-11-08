@@ -1,0 +1,20 @@
+{
+	"id": "d593032e-d532-4502-87a1-1c265fe46d27",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2025-05-07T19:38:00.000-04:00",
+	"createdAt": "2025-05-07T23:40:58.997Z",
+	"updatedAt": "2025-05-09T13:45:28.205Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-8",
+	"parentId": "ca44e2c1-39dd-46f9-9e54-c8c7ecd66f95",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA33</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Tormentas   eléctricas con probabilidad de granizo en litoral y cordillera de la costa de   la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">08-05</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">08-05</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A151-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad de viento blanco en la cordillera de la   región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">06-05</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">08-05</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A157-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en valle, precordillera y cordillera de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">07-05</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">08-05</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar que, de acuerdo con la información proporcionada mediante el Informe de Riesgo Meteorológico del día de hoy, se pronostican precipitaciones débiles en toda la región y nevadas débiles en cordillera.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva regional por evento meteorológico, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "cbdeb22d-d946-4a26-a992-1bdb2e17ab81",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Ninhue, San Nicolás, Portezuelo y Trehuaco, por crecida",
+	"fechaHora": "2024-06-24T09:57:17.1717-04:00",
+	"createdAt": "2024-06-24T14:01:18.414Z",
+	"updatedAt": "2024-06-24T14:01:36.598Z",
+	"urlAccess": "se-cancela-alerta-roja-para-las-comunas-de-ninhue-san-nicolas-portezuelo-y-trehuaco-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Lonquén en Trehuaco” en la comuna del mismo nombre, mantiene niveles por debajo de los umbrales de alerta.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja para las comunas de Ninhue, San Nicolás, Portezuelo y Trehuaco</strong>, <strong>por crecida</strong> que se mantuvo vigente desde el 21 de junio del 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

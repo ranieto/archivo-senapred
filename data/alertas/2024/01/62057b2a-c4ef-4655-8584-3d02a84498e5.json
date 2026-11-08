@@ -1,0 +1,20 @@
+{
+	"id": "62057b2a-c4ef-4655-8584-3d02a84498e5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Arica por evento masivo",
+	"fechaHora": "2024-01-29T13:17:00.000-03:00",
+	"createdAt": "2024-01-29T16:24:04.059Z",
+	"updatedAt": "2024-01-29T16:24:50.964Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-arica-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Arica\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Arica y Parinacota,</strong> sin novedades ni emergencias mayores, ha finalizado el evento denominado carnaval andino “Con la Fuerza del Sol”, el cual congregó alrededor de 200.000 personas en la comuna de Arica entre los días 26 y 29 de enero de 2024.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva para la comuna de Arica, por evento masivo</strong>, la cual se mantuvo vigente desde el 26 de 2024. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

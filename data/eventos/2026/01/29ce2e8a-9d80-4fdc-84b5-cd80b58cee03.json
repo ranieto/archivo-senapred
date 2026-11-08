@@ -1,0 +1,19 @@
+{
+	"id": "29ce2e8a-9d80-4fdc-84b5-cd80b58cee03",
+	"type": "Evento",
+	"titulo": "Otra prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-16T15:03:46.107Z",
+	"updatedAt": "2026-01-16T15:28:04.054Z",
+	"urlAccess": "otra-prueba-2026-01-16-12-03-35",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p>otra prueba. <b>sdfsdf</b></p>",
+	"variableInformateEventosId": "5a3e0c31-833d-4208-9ea7-950ac0969832"
+}

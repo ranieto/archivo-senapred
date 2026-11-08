@@ -1,0 +1,20 @@
+{
+	"id": "3ec2ee69-0131-4874-85a5-7e626f857140",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de El Loa y las comunas Antofagasta y Taltal por viento",
+	"fechaHora": "2024-04-29T15:30:39.3939-04:00",
+	"createdAt": "2024-04-29T19:33:32.562Z",
+	"updatedAt": "2024-05-04T02:55:34.231Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-antofagasta-y-taltal-por-viento",
+	"parentId": "dfceb0bf-a2df-442f-81bf-4e96a86959e0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa, Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A112-2</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de viento blanco en cordillera de la   región.</p></td><td><p style=\"text-align:justify\">01-05</p></td><td><p style=\"text-align:justify\">03-05</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional de SENAPRED, <strong>declara Alerta Temprana Preventiva para la Provincia de El Loa y las comunas Antofagasta y Taltal, por viento</strong> a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><strong><em><span style=\"color: black\">SENAPRED </span></em></strong><em><span style=\"color: black\">recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span></em><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

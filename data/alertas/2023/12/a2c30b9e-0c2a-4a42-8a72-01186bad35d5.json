@@ -1,0 +1,20 @@
+{
+	"id": "a2c30b9e-0c2a-4a42-8a72-01186bad35d5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Salamanca por incendio forestal",
+	"fechaHora": "2023-12-19T15:38:00.000-03:00",
+	"createdAt": "2023-12-19T18:53:13.552Z",
+	"updatedAt": "2023-12-19T19:27:25.869Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-salamanca-por-incendio-forestal",
+	"parentId": "132bb368-6234-4d17-a7ea-b9fce2fd8288",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Choapa\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Salamanca\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto al incendio forestal en la comuna de Salamanca, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Bypass Salamanca</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3 hectáreas</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Salamanca por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio 1 técnico y 2 brigadas de CONAF, Bomberos de Salamanca junto a personal municipal con apoyo de 2 camiones y 1 retroexcavadora.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

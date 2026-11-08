@@ -1,0 +1,20 @@
+{
+	"id": "b2c2188a-9f23-45a3-90f6-bb9728dd2bad",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de Copiapó y Alto del Carmen por evento meteorológico",
+	"fechaHora": "2024-02-09T21:05:00.000-03:00",
+	"createdAt": "2024-02-10T00:14:01.604Z",
+	"updatedAt": "2024-02-10T00:14:16.472Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-copiapo-y-alto-del-carmen-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><span style=\"color: black\"> han sido canceladas las Alertas Meteorológicas AA11-2/2024 y AA10/2024, que pronosticaron tormentas eléctricas y precipitaciones moderadas a fuertes en corto periodo de tiempo en precordillera y cordillera de la Región de Atacama. Asimismo, fueron cancelados los Avisos Meteorológicos A9-10/2024 y A25-1/2024, por probables tormentas eléctricas y precipitaciones normales a moderadas en corto periodo de tiempo en sectores de precordillera y cordillera de la región, respectivamente. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), indica que no existe la posibilidad de ocurrencia de remociones en masa, debido al debilitamiento de las condiciones meteorológicas en los sectores de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">A su vez, la Dirección General de Aguas (DGA) señala que los caudales de las distintas quebradas en zonas de precordillera y cordillera que presentaron activaciones se encuentran en rangos normales. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, personal de Vialidad continua con los trabajos de despeje en las Rutas CH-31, C-601 y C-489, pertenecientes a las comunas de Copiapó y Alto del Carmen, respectivamente.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, que supone una disminución del riesgo asociado a dichas variables la Dirección Regional del SENAPRED y en coordinación con la Delegación Presidencial Regional de Atacama, <strong>cancela la Alerta Amarilla </strong>por evento meteorológico para las comunas de Copiapó y Alto del Carmen, la que se encontraba vigente desde el 09 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

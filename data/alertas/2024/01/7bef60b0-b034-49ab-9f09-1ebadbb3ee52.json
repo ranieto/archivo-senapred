@@ -1,0 +1,20 @@
+{
+	"id": "7bef60b0-b034-49ab-9f09-1ebadbb3ee52",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de Ñuble por calor intenso",
+	"fechaHora": "2024-01-27T21:10:39.3939-03:00",
+	"createdAt": "2024-01-28T00:12:40.270Z",
+	"updatedAt": "2024-02-04T00:09:43.363Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-uble-por-calor-intenso-3",
+	"parentId": "760eba14-6449-4ee4-83f8-cd9c1f6f972d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, según su pronóstico meteorológico se prevén temperaturas máximas diarias de 34°C por cuatro días seguidos, principalmente en sectores de valles.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED, <strong>declara Alerta Amarilla Regional por calor intenso,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la <strong>declaración de la Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><strong><em><span style=\"color: black\">SENAPRED </span></em></strong><em><span style=\"color: black\">recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></em></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

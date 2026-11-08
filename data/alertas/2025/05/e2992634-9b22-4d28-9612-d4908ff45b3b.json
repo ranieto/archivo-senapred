@@ -1,0 +1,20 @@
+{
+	"id": "e2992634-9b22-4d28-9612-d4908ff45b3b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Alhué por incendio forestal",
+	"fechaHora": "2025-05-24T21:29:00.000-04:00",
+	"createdAt": "2025-05-25T01:44:53.185Z",
+	"updatedAt": "2025-05-25T21:01:22.027Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-alhue-por-incendio-forestal",
+	"parentId": "37857c68-5fcb-4f57-997e-9606b22eaa1c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>​<span style=\"color: rgb(33, 37, 41);font-size: 14px\">De acuerdo a la&nbsp;</span><strong>información proporcionada por CONAF y el SINAPRED</strong><span style=\"color: rgb(33, 37, 41);font-size: 14px\">, se reporta un incendio forestal con el siguiente detalle:</span>​</p><table><tbody><tr><td><div><span style=\"font-size: 14px\">Nombre del incendio</span></div></td><td><div><span style=\"font-size: 14px\">Caren</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Comuna&nbsp;</span></div></td><td><div><span style=\"font-size: 14px\">Alhué</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Estado</span></div></td><td><div><span style=\"font-size: 14px\">En combate</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Superficie afectada&nbsp;</span></div></td><td><div><span style=\"font-size: 14px\">7 hectáreas</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Recursos</span></div></td><td><div><span style=\"font-size: 14px\">Brigada Roble 11, 1 Aeronave Avión (CC-DLW)</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Aeronaves</span></div></td><td><div><span style=\"font-size: 14px\">1 avión</span></div></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Alhué, por incendio forestal, que se encuentra vigente desde el 24 de mayo de 2025.<br></p><p>Recurso para el día de mañana 25-05-2025<br>Recursos Terrestres:<br>Roble-8<br>Roble-11<br>Recursos Aéreos:<br>AC2 (Avión cisterna)<br>01 Helicóptero mediano SENAPRED.<br>C.I: 13-7 Pedro Parada<br>JSO: 13-73 Marco Orozco<br>JSL: 13-4M.1 Maximiliano Gálvez<br>OS : S-13.2 Manuel Gumera<br>PC : PUMA-13.1 (CM-2 Manuel Santander)<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

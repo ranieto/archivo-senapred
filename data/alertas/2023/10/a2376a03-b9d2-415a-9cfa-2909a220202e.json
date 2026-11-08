@@ -1,0 +1,20 @@
+{
+	"id": "a2376a03-b9d2-415a-9cfa-2909a220202e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2023-10-25T14:24:00.000-03:00",
+	"createdAt": "2023-10-25T17:34:17.150Z",
+	"updatedAt": "2023-10-30T00:11:20.589Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico",
+	"parentId": "7986af9e-2726-4cd9-a5cc-2a5d6004166a",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante el Aviso Meteorológico A412/2023, se indica que entre la madrugada y tarde del viernes 27 de octubre, se espera viento normal a moderado en los sectores de litoral, cordillera de la costa y precordillera de la Región de La Araucanía.<br><br>De igual forma, la DMC ha previsto precipitaciones e isoterma para la región, según se indica a continuación:<br><br>Sector\tViernes 27\tIsoterma cero (m.s.n.m.)<br>Litoral\t15 – 25 mm\t2.200 – 1.400<br>Cordillera de la costa<br>Valle\t10 – 20 mm<br>Precordillera\t25 – 45 mm<br>Cordillera\t10 – 20 mm / 10 – 20 cm<br>Isoterma\t <br>De acuerdo con a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva Regional por evento meteorológico, vigente a contar de hoy y hasta que las condiciones así lo ameriten.<br><br>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "935ce57d-b841-4594-af49-cbb4ab46c541",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para las comunas de Curepto, Pencahue y Sagrada Familia por incendio forestal",
+	"fechaHora": "2024-02-02T18:54:00.000-03:00",
+	"createdAt": "2024-02-02T22:04:10.575Z",
+	"updatedAt": "2024-02-08T22:46:57.895Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-pencahue-y-curepto-por-incendio-forestal",
+	"parentId": "bee45ae0-5b4e-495a-bc66-e093d64329a4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca, Curicó\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Sagrada Familia\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;con relación a los incendios forestales en la Región de O'Higgins, según el siguiente detalle:</span><br></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>Hijuela 3 Las Palmas<br></div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>850 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">Incendio presenta comportamiento extremo, con emisión de pavesas y presenta cercanía a sectores habitados</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>Bomberos de Talca, Huaquén, Pencahue, Maule, San Javier y San Rafael, 6 brigadas de CONAF, 10 brigadas de ARAUCO, 2&nbsp;<u>brigadas de&nbsp;</u>VISTA HERMOSA, 1 brigada de CMPC, 6 técnicos de CONAF, 6 técnicos de ARAUCO,&nbsp; 2 técnicos de VISTA HERMOSA, 1 brigada CMPC, 4 helicópteros de CONAF, 1 aviones de CONAF, 5 helicópteros de ARAUCO,1 helicóptero de VISTA HERMOSA,&nbsp;1 Puesto de Mando de CONAF 2 Camiones Cisternas de CONAF 3 Skidder de CONAF 1 Puesto de Mando de Arauco 3 Skidder de Arauco 1 Bulldozer de Arauco 1 Skidder de Vista Hermosa 1 Camión aljibe de Vista Hermosa 1 Ambulancia de ACHS, 2 Técnicos de CONAF 1 Brigada de CONAF 1 Camión aljibe de CONAF<br></div></td></tr></tbody></table><div><br></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de<span style=\"color: rgb(33, 37, 41)\">O'Higgins</span>, la Dirección Regional de SENAPRED&nbsp;<strong>cancela Alerta Amarilla y declara Alerta Roja para las comunas de Curepto, Pencahue y Sagrada Familia por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></div><div><br></div><p style=\"text-align: justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6df55501-5cbe-4e47-ad4f-2e0170ce4663",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Punta Arenas por evento masivo",
+	"fechaHora": "2024-03-04T11:50:00.000-03:00",
+	"createdAt": "2024-03-04T14:51:14.829Z",
+	"updatedAt": "2024-03-04T14:51:50.345Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-punta-arena-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Punta Arenas\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes</strong>, ha finalizado sin novedades, el evento denominado “Festival de Verano 2024”, que se realizó en el sector de Costanera del Estrecho, comuna de Punta Arenas.<br></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de Punta Arenas por evento masivo</strong>, que se mantuvo vigente desde el 29 de febrero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "cb67b4af-8a26-4342-a5f8-6a463221a511",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Melipilla por incendios forestal",
+	"fechaHora": "2025-01-12T11:55:19.1919-03:00",
+	"createdAt": "2025-01-12T15:00:22.860Z",
+	"updatedAt": "2025-01-12T15:00:49.650Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipilla-por-incendios-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Melipilla\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF,&nbsp;el incendio se encuentra con intensidad baja y sin amenazas inminentes a viviendas. No obstante, aun se encuentra en combate con 78 hectareas.</p><p><br></p><table><tbody><tr><td><p style=\"text-align:justify\">Nombre del incendio</p></td><td><p style=\"text-align:justify\">San Juan de Popeta</p></td></tr><tr><td><p style=\"text-align:justify\">Estado</p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\">Superficie</p></td><td><p style=\"text-align:justify\">40 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\">Recursos</p></td><td><p style=\"text-align:justify\">Bomberos: Brigadas de   Melipilla, Peñaflor, Metropolitano Sur, San Pedro y El Monte.</p><p style=\"text-align:justify\">CONAF: 4 Brigadas, 1 técnico, 2   aviones cisterna, 4 helicópteros, 1 maquinarias pesada y 1 camión.</p></td></tr><tr><td><p style=\"text-align:justify\">Observaciones</p></td><td><p style=\"text-align:justify\">El incendio se encuentra con   intensidad baja y sin amenazas inminentes a viviendas</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Melipilla, por incendio forestal, que se mantuvo vigente desde el 11 de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

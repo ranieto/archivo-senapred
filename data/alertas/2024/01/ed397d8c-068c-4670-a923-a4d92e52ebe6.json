@@ -1,0 +1,20 @@
+{
+	"id": "ed397d8c-068c-4670-a923-a4d92e52ebe6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Villa Alemana por incendio forestal ",
+	"fechaHora": "2024-01-02T15:02:00.000-03:00",
+	"createdAt": "2024-01-02T18:04:21.527Z",
+	"updatedAt": "2024-01-02T18:06:05.000Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-villa-alemana-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Villa Alemana\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se reportó un incendio forestal en la comuna de Villa Alemana, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Fundo Los Almendros</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5.8 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">Durante   la presente jornada trabajaron 2 brigadas de CONAF.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a lo anterior y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por incendio forestal para la comuna de Villa Alemana</strong>, que se mantuvo vigente desde 01 de enero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

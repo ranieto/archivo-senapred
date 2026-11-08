@@ -1,0 +1,20 @@
+{
+	"id": "82c4daab-6e9e-47fa-af5d-301d73e18dfe",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por evento meteorológico",
+	"fechaHora": "2025-08-31T21:55:00.000-04:00",
+	"createdAt": "2025-09-01T02:04:58.901Z",
+	"updatedAt": "2025-09-01T02:05:11.340Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-15",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA80-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento moderado a fuerte con desarrollo de viento blanco en cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A332-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado con probabilidad de tormentas de arena en   precordillera y cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A334-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas en precordillera y cordillera.   Preferentemente durante la tarde noche, con precipitaciones aisladas.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento meteorológico para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen, </strong>que se mantenía vigente desde el 26 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

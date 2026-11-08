@@ -1,0 +1,20 @@
+{
+	"id": "09a32518-f897-4b69-abd6-358a469d0c6d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de Pinto, San Ignacio, Chillán, Chillán Viejo y Bulnes por crecida ",
+	"fechaHora": "2024-06-13T18:49:00.000-04:00",
+	"createdAt": "2024-06-13T22:54:11.932Z",
+	"updatedAt": "2024-06-13T22:54:42.312Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-pinto-san-ignacio-chillan-chillan-viejo-y-bulnes-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Chillán, Chillán Viejo, Bulnes, Pinto\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Larqui en Santa Cruz de Cuca”, presenta actualmente niveles por debajo del umbral azul, con tendencia a la baja. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla por crecida para las comunas de Pinto, San Ignacio, Chillán, Chillán Viejo y Bulnes,</strong> que se mantuvo vigente desde el 13 de junio de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

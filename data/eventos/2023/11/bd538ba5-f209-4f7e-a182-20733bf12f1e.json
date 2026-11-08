@@ -1,0 +1,19 @@
+{
+	"id": "bd538ba5-f209-4f7e-a182-20733bf12f1e",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Antofagasta",
+	"fechaHora": "2023-11-15T13:46:40.4040-03:00",
+	"createdAt": "2023-11-15T16:47:19.007Z",
+	"updatedAt": "2023-11-15T16:47:19.007Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-6",
+	"parentId": "1ebfc54f-2e54-4335-ab0f-c4465c096d14",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">13:32 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de Antofagasta.</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Sierra   Gorda: </p></td><td><p>IV</p></td></tr><tr><td><p>Calama:   </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.2 localizado a </span>33 Kms al Sur de Calama.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c168a33e-3bd0-4dc0-9058-fac5d737173d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Los Sauces por incendio forestal",
+	"fechaHora": "2025-01-20T02:23:00.000-03:00",
+	"createdAt": "2025-01-20T05:26:24.176Z",
+	"updatedAt": "2025-01-21T21:04:31.257Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-sauces-por-incendio-forestal",
+	"parentId": "42ff497d-a2bd-4b97-8a50-61cda02059b8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que se desarrolla en la comuna de Los Sauces, se informa lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Moncoles</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">400 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El incendio forestal mantiene cercanía con sectores poblados;   se reporta con una rápida propagación y el frente de avance con alta   intensidad. </p><p style=\"text-align:justify\">Al momento, se han enviado 6 mensajes SAE.</p><p style=\"text-align:justify\">Asimismo, se reportan 9 personas lesionadas, 3 fallecidas   y 8 albergados. Cabe señalar que las personas fallecidas y lesionadas,   corresponden a una brigada forestal de la empresa CMPC que realizaba labores   de combate en el área del incendio.</p><p style=\"text-align:justify\">Finalmente, durante la jornada de hoy 20 de enero, se   realizará un COGRID Regional para evaluar la emergencia y coordinar los   cursos de acción pertinentes.</p></td></tr></tbody></table><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de Los Sauces</strong>, por incendio forestal, que se encuentra vigente desde el 19 de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

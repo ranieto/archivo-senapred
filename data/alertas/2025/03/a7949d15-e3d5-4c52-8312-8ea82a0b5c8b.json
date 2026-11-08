@@ -1,0 +1,20 @@
+{
+	"id": "a7949d15-e3d5-4c52-8312-8ea82a0b5c8b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por amenaza de incendios forestales",
+	"fechaHora": "2025-03-17T19:00:29.2929-03:00",
+	"createdAt": "2025-03-17T22:03:34.377Z",
+	"updatedAt": "2025-03-28T19:27:50.844Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-amenaza-de-incendios-forestales-5",
+	"parentId": "9b487d0e-9186-4ab6-b189-703ec3a98bd6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se informa que de acuerdo con su análisis técnico y debido se presentan condiciones meteorológicas favorables para la propagación de incendios forestales en la región, señala que existen zonas con alta probabilidad de generación y propagación de incendios forestales. Cabe destacar que, durante los próximos días se prevé altas temperaturas y vientos sostenidos, además del estrés hídrico en la vegetación, esta situación podría favorecer la propagación del fuego y generar una alta resistencia al control.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten. </p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p><br></p><p>​<span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong>SENAPRED</strong>&nbsp;evitar fumar en lugares con vegetación que pueda arder; no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (</span><a rel=\"noreferrer noopener\" href=\"https://www.senapred.cl/visor-chile-preparado-2/\"><span style=\"color: rgb(5, 99, 193);font-size: 15px\">https://www.senapred.cl/visor-chile-preparado-2/</span></a><span style=\"color: rgb(0, 0, 0);font-size: 15px\">). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).</span>​<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

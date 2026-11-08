@@ -1,0 +1,20 @@
+{
+	"id": "ae91d7db-4ed8-4b08-8960-6b927c29a426",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Purén por incendio forestal",
+	"fechaHora": "2024-02-19T17:54:09.099-03:00",
+	"createdAt": "2024-02-19T20:55:29.377Z",
+	"updatedAt": "2024-02-21T20:29:15.500Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puren-por-incendio-forestal",
+	"parentId": "2196ba4f-3591-449a-b580-a8ebe2a33dc6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Purén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal que se desarrolla en la comuna de Purén se informa el siguiente detalle:</span><br></p><p><a name=\"_Hlk157376193\"></a></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Lingue   4</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>60 hectáreas</p></td></tr><tr><td><p><strong>Recursos </strong></p></td><td><p>9   brigadas y 3 técnicos de Conaf; 1 helicóptero, 2 aviones cisternas, 2 2   aviones cisternas pesados LAT y 1 avión de coordinación de Conaf; 1 camión   cisterna y 1 skidder de Conaf. Además de voluntarios de Bomberos.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Debido al avance de este incendio, se han enviado 2 mensajes SAE para apoyar el proceso de evacuación de los sectores de Loncoyán -Remehueico, Buchahueico y Piedra Blanca, en la comuna de Purén.</span></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Purén, por incendio forestal, que se encuentra vigente desde el 18 de febrero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

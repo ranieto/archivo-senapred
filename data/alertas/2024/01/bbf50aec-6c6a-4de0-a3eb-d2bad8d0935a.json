@@ -1,0 +1,20 @@
+{
+	"id": "bbf50aec-6c6a-4de0-a3eb-d2bad8d0935a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por evento meteorológico",
+	"fechaHora": "2024-01-21T22:22:25.2525-03:00",
+	"createdAt": "2024-01-22T01:24:02.102Z",
+	"updatedAt": "2024-02-09T04:07:28.673Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2",
+	"parentId": "69c7e321-b228-437e-bca3-03ebf3933b17",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa, Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, producto de las precipitaciones que se registran en la región, 300 personas se encuentran afectadas por un corte en el servicio del suministro de agua potable, debido a una rotura de matriz en la comuna de Ollagüe.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por evento meteorológico, la cual se mantiene vigente desde el 23 de diciembre de 2023.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Personal municipal decreta estado de emergencia comunal y gestiona 1 camión aljibe para abastecimiento de la población.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

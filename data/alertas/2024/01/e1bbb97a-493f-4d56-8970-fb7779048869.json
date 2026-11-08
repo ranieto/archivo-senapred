@@ -1,0 +1,20 @@
+{
+	"id": "e1bbb97a-493f-4d56-8970-fb7779048869",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento",
+	"fechaHora": "2024-01-22T10:45:00.000-03:00",
+	"createdAt": "2024-01-22T14:12:56.958Z",
+	"updatedAt": "2024-01-22T14:13:28.561Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-punta-arenas-y-rio-verde-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><strong>ha sido cancelado su Aviso Meteorológico A13-1/2024</strong><span style=\"color: black\">, que pronosticó </span><strong>viento normal a moderado</strong><span style=\"color: black\"> en las zonas Cordillera Austral Sur, Insular Central, Pampa Patagónica Norte y Pampa Patagónica Sur de la </span><strong>Región de Magallanes</strong><span style=\"color: black\">.</span><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes que suponen una disminución de la amenaza asociada a esta condición meteorológica, la Delegación Presidencial Regional de Magallanes en coordinación con la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego</strong>, porviento, que se encontraba vigente desde el 20 de enero.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

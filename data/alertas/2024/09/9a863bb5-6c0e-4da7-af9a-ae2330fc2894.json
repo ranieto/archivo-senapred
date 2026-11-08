@@ -1,0 +1,20 @@
+{
+	"id": "9a863bb5-6c0e-4da7-af9a-ae2330fc2894",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por evento masivo",
+	"fechaHora": "2024-09-23T12:18:23.2323-03:00",
+	"createdAt": "2024-09-23T15:20:06.357Z",
+	"updatedAt": "2024-09-23T15:21:07.768Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso</strong>, se indica que las actividades programadas en el contexto de la celebración de las fiestas patrias 2024, que se realizaron entre los días 13 y 22 de septiembre en la región, finalizaron sin registrarse situaciones de emergencia.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva Regional por evento masivo, </strong>que se mantuvo vigente desde el 12 de septiembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

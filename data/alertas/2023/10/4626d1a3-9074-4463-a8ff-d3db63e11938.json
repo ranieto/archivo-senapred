@@ -1,0 +1,20 @@
+{
+	"id": "4626d1a3-9074-4463-a8ff-d3db63e11938",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Última Esperanza por precipitaciones",
+	"fechaHora": "2023-10-06T16:59:00.000-03:00",
+	"createdAt": "2023-10-06T20:05:08.411Z",
+	"updatedAt": "2023-10-26T02:54:33.384Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> mediante su Aviso Meteorológico A396/2023, se pronostican precipitaciones normales a moderadas en los sectores de Cordillera Austral Norte y Pampa Patagónica Norte de la Región de Magallanes, entre la mañana del sábado 07 y la madrugada del domingo 08 de octubre.<br></p><p>Por su parte, el Centro Meteorológico Regional Austral, mediante su Pronóstico Especial emitido para el periodo indicado en el Aviso antes mencionado, detalla los siguientes montos de precipitaciones (mm) e isoterma 0°C (m.s.n.m.):</p><table><tbody><tr><td><div><strong>Sector</strong></div></td><td><div><strong>Comuna</strong></div></td><td><div><strong>Precipitaciones</strong></div></td></tr><tr><td rowspan=\"2\"><div>Cordillera Austral Norte</div></td><td><div>Natales</div></td><td><div>15 – 29</div></td></tr><tr><td><div>Torres del Paine</div></td><td><div>15 – 28</div></td></tr><tr><td rowspan=\"2\"><div>Pampa Patagónica Norte</div></td><td><div>Torres del Paine</div></td><td><div>12 - 24</div></td></tr><tr><td><div>Natales</div></td><td><div>10 - 22</div></td></tr><tr><td colspan=\"2\"><div><strong>Isoterma 0°C</strong></div></td><td><div>200 - 700</div></td></tr></tbody></table><p>En consideración a estos antecedentes y considerando la existencia de factores propicios para la ocurrencia de eventos, a raíz de las precipitaciones y eventuales deshielos a causa del aumento de las temperaturas y la isoterma 0°C, tales como crecidas en los diversos cauces con arrastre de sedimentos, interrupción de conectividad, interrupción de suministros básicos e inundaciones en sectores vulnerables, &nbsp;la Dirección Regional del SENAPRED Magallanes, en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Temprana Preventiva </strong>para la Provincia de Última Esperanza, por precipitaciones, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p><em><strong>SENAPRED</strong> recomienda a la población informarse sobre las condiciones del tiempo; revisar y limpiar el techo y canaletas de las viviendas; mantener las vías de evacuación de aguas lluvias libres de tierra y desperdicios; evitar transitar a pie o en vehículos por zonas o caminos anegados; y evitar internarse en zonas montañosas, ríos, lagos y mar, especialmente cuando las condiciones meteorológicas sean desfavorables.&nbsp;</em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

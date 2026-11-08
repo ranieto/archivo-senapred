@@ -1,0 +1,20 @@
+{
+	"id": "a7bc6da4-1c13-4520-8580-d855f7a564aa",
+	"type": "Alerta",
+	"titulo": "Se Cancela Alerta Amarilla para la comuna de Puerto Varas por evento meteorológico",
+	"fechaHora": "2025-07-17T15:26:45.4545-04:00",
+	"createdAt": "2025-07-17T19:27:32.015Z",
+	"updatedAt": "2025-07-17T19:28:16.640Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puerto-varas-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Los Lagos, respecto a la ocurrencia de un tornado el pasado 25 de mayo en la comuna de Puerto Varas, se informa que ha finalizado el proceso de instalación de viviendas de emergencia.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Cabe destacar que, de los 78 grupos familiares afectados, se logró la instalación de 30 viviendas de emergencia, correspondientes a los 30 casos con posibilidad de emplazamiento, alcanzando así el 100% del avance esperado.</p><p style=\"margin-right:2.55pt;margin-left:0cm\"></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>Cancela la Alerta Amarilla</strong><strong>para la comuna de Puerto Varas por evento meteorológico</strong>, que se mantuvo vigente desde el 09 de junio del 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

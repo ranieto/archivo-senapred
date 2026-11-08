@@ -1,0 +1,20 @@
+{
+	"id": "2e0a2b68-1709-46f0-a9e0-75a34e3982e2",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la regiones de Atacama y Coquimbo",
+	"fechaHora": "2024-04-19T22:48:00.000-04:00",
+	"createdAt": "2024-04-20T02:49:32.671Z",
+	"updatedAt": "2024-04-20T02:51:59.610Z",
+	"urlAccess": "sismo-de-menor--intensidad-en-la-region-de-atacama",
+	"parentId": "3f0a8083-a0f6-4dfa-913e-6500dd3afc3e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Huasco, Elqui\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Alto del Carmen, La Higuera\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>​<span style=\"color: rgb(0, 0, 0);font-size: 16px\">Un sismo de menor intensidad se percibió a las 22:40 horas en las regiones de Atacama y Coquimbo. Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental.<br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.8 y se localizó a <span style=\"font-size: 16px\">37 Kms al Suroeste de Huasco</span>.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

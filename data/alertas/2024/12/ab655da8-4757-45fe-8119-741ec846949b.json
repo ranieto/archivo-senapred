@@ -1,0 +1,20 @@
+{
+	"id": "ab655da8-4757-45fe-8119-741ec846949b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2024-12-07T09:01:00.000-03:00",
+	"createdAt": "2024-12-07T12:03:04.628Z",
+	"updatedAt": "2024-12-07T12:03:19.141Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-12",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía, debido al debilitamiento de las condiciones que lo originaron.</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A452</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en el sector sur de la región.</p></td><td><p style=\"text-align:center\">06-12</p></td><td><p style=\"text-align:center\">06-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por tormentas eléctricas, </strong>que se mantenía vigente desde el 06 de diciembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "91f73a5b-1787-433b-b9f6-ea81eb5d84c3",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Amarilla para la comuna de Coquimbo por incendio forestal",
+	"fechaHora": "2024-01-04T19:22:00.000-03:00",
+	"createdAt": "2024-01-04T22:25:18.125Z",
+	"updatedAt": "2024-01-04T23:33:29.360Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-coquimbo-por-incendio-forestal",
+	"parentId": "1e831f71-5b79-40c3-a91c-b8925dba992f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Coquimbo\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se reporta un incendio forestal en la comuna de Coquimbo, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Los Jardines</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.01 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal que, por su dirección y distancia, anticipa una proyección y amenaza   a personas, viviendas, poblados y/o infraestructura crítica.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">5   técnicos, 1 brigada y 1 camión cisterna de CONAF; con apoyo de Bomberos y   Carabineros de Coquimbo.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por incendio forestal para la comuna de Coquimbo</strong>, vigente desde el hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "61b83897-678a-45c4-bde2-b6ebbb6b3824",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Chonchi por incendio forestal",
+	"fechaHora": "2024-01-23T07:22:00.000-03:00",
+	"createdAt": "2024-01-23T10:56:58.526Z",
+	"updatedAt": "2024-01-26T01:17:25.406Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal",
+	"parentId": "e9941ba5-4e74-458b-8151-6b6eedfb162e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chonchi\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Chonchi, por incendio forestal, que se encuentra vigente desde el 23 de enero de 2024.<br></p><p>Trabajan en el lugar, cuerpo de bomberos de Castro, Chonchi, 2 Brigadas de CONAF, 1 técnico de CONAF, 1 camión Aljibe CONAF, carabineros y 1 brigada empresa eléctrica SAESA&nbsp;</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Nahuiltad Escuela</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>8.24 hectárea</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Incendio se   encuentra activo en parte baja, con avance rápido, los demáss sectores se   encuentran contenidos.</span></p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b4a154c4-8c50-44d7-bff9-38737be23263",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Curicó por incendio forestal",
+	"fechaHora": "2024-02-02T22:39:00.000-03:00",
+	"createdAt": "2024-02-03T01:43:58.419Z",
+	"updatedAt": "2024-02-03T21:57:58.272Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curico-por-incendio-forestal",
+	"parentId": "30e7a23d-b358-4de1-ab0d-245000e935bf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;con relación a al incendio forestal en la comuna de Curicó, se informa el siguiente detalle:<br></p><table><tbody><tr><td><p>Nombre del incendio</p></td><td><p>Santa Laura</p></td></tr><tr><td><p>Estado</p></td><td><p>Controlado</p></td></tr><tr><td><p>Superficie</p></td><td><p>30 hectáreas</p></td></tr><tr><td><p>Fundamentación técnica</p></td><td><p>Se encuentra superada la amenaza a personas, viviendas,   centros poblados y/o infraestructura crítica.</p></td></tr><tr><td><p>Recursos involucrados</p></td><td><p>3 brigadas de CONAF, 4 aviones de CONAF, 2 helicópteros de   CONAF y Carabineros</p></td></tr></tbody></table><p>Cabe destacar, que producto de este incendio Se han enviaron 2 mensajes SAE para apoyar la evacuación de los sectores Sarmiento y Callejón Santa Julia y Callejón San Ramon.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED c<strong>ancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Curicó por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

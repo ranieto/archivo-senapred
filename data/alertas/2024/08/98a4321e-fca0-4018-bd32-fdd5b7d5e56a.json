@@ -1,0 +1,20 @@
+{
+	"id": "98a4321e-fca0-4018-bd32-fdd5b7d5e56a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de El Loa y las comunas de Antofagasta, Taltal, María Elena y Sierra Gorda por viento",
+	"fechaHora": "2024-08-09T00:00:03.033-04:00",
+	"createdAt": "2024-08-09T04:02:12.857Z",
+	"updatedAt": "2024-08-09T04:03:09.994Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa, Antofagasta, Tocopilla\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Taltal, María Elena, Sierra Gorda\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A289-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de tormentas de arena en precordillera y   cordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva por viento para la Provincia de El Loa y las comunas de Antofagasta, Taltal, María Elena y Sierra Gorda, </strong>que se manteníavigente desde el 29 de julio de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

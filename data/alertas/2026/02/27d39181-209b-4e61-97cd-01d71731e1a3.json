@@ -1,0 +1,20 @@
+{
+	"id": "27d39181-209b-4e61-97cd-01d71731e1a3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Puchuncaví por incendio forestal",
+	"fechaHora": "2026-02-11T17:30:08.088-03:00",
+	"createdAt": "2026-02-11T20:32:51.918Z",
+	"updatedAt": "2026-02-13T00:16:05.397Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puchuncavi-por-incendio-forestal-2026-02-11-15-48-16",
+	"parentId": "3cfa2cb4-56f6-4ddd-bc1e-24c83f27e90c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED, </strong>se reporta un incendio forestal con el siguiente detalle:<br><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Estancilla</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">40 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">6 Compañías del cuerpo de Bomberos;   6 brigadas; 2 técnicos; 1 analista; 11 aeronaves; 1 skidder.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">No se reportan afectaciones en   personas ni daños en viviendas en la comuna de Puchuncaví.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Puchuncaví, por incendio forestal, que se encuentra vigente desde el 11 de febrero de 2026.<br><br></p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

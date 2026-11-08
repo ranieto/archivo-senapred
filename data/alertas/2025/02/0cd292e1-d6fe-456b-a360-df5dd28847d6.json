@@ -1,0 +1,20 @@
+{
+	"id": "0cd292e1-d6fe-456b-a360-df5dd28847d6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Aysén por evento meteorológico",
+	"fechaHora": "2025-02-19T18:41:33.3333-03:00",
+	"createdAt": "2025-02-19T21:43:46.978Z",
+	"updatedAt": "2025-02-24T14:20:58.413Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-3",
+	"parentId": "737c2c21-a7dd-49e2-9485-936d06cdd2ff",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Aysén:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">AA18</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en corto periodo de tiempo en la zona de la Cordillera   Austral Norte. </p></td><td><p style=\"text-align:center\">21-02</p></td><td><p>22-02</p></td></tr><tr><td><p style=\"text-align:center\">A54-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en la zona de la Cordillera Austral Norte.</p></td><td><p style=\"text-align:center\">20-02</p></td><td><p style=\"text-align:center\">23-02</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva&nbsp;</strong><strong>Regional</strong></span><strong><span style=\"color:black\">, </span><span style=\"color:black\">por evento meteorológico</span></strong><span style=\"color:black\">, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

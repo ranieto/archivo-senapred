@@ -1,0 +1,20 @@
+{
+	"id": "b40a2b25-22d7-4df9-82f6-9ccb3b088a06",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Última Esperanza por heladas",
+	"fechaHora": "2024-05-11T15:07:07.077-04:00",
+	"createdAt": "2024-05-11T19:09:12.734Z",
+	"updatedAt": "2024-05-11T19:09:39.809Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelados el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A145</p></td><td><p style=\"text-align:justify\">Evento   de bajas temperaturas con formación de hielo en la pampa patagónica norte.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva para la provincia de Última Esperanza por heladas</strong>, que se mantenía vigente desde el 07 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "8573e5e8-1fc7-4322-a72d-6450d1231e69",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Puerto Montt por crecida",
+	"fechaHora": "2025-08-24T16:21:41.4141-04:00",
+	"createdAt": "2025-08-24T20:23:39.155Z",
+	"updatedAt": "2025-08-26T19:04:04.518Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-crecida-2",
+	"parentId": "f1c5ef6b-00aa-4010-bcd0-2c59ac31458b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA)</span></strong><span style=\"color: black\">, en sus estaciones hidrométricas monitoreadas en línea, se indica que la estación Río Lenca Bajo Bocatoma ubicada en la comuna de Puerto Montt, se encuentra en el umbral de alerta amarilla, el cual, si continúa aumentando el caudal, podría ocasionar afectación a personas y daños en infraestructuras de la comuna.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la comuna de Puerto Montt por crecida, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta alerta, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

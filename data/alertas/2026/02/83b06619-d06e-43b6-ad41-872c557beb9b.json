@@ -1,0 +1,20 @@
+{
+	"id": "83b06619-d06e-43b6-ad41-872c557beb9b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de El Tabo por incendio forestal",
+	"fechaHora": "2026-02-27T17:11:00.000-03:00",
+	"createdAt": "2026-02-27T20:14:58.109Z",
+	"updatedAt": "2026-02-27T21:12:14.159Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-el-tabo-por-incendio-forestal-2026-02-27-17-14-42",
+	"parentId": "f193271e-54a2-4bf4-b7ed-d6d7a89b3e05",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de El Tabo, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">ALTO CHEPICA</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.5 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Cuerpo de bomberos de El Tabo, 6   Brigadas, 1 Técnico y 1 helicóptero.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de El Tabo por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

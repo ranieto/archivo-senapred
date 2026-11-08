@@ -1,0 +1,20 @@
+{
+	"id": "7caf3d70-530a-453b-9814-24d57311aefc",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Retiro por incendio forestal",
+	"fechaHora": "2026-01-02T18:07:00.000-03:00",
+	"createdAt": "2026-01-02T21:27:22.649Z",
+	"updatedAt": "2026-01-03T05:30:05.849Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-retiro-por-incendio-forestal-2026-01-02-18-27-07",
+	"parentId": "94c05315-40de-4082-8405-c7021992d862",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Retiro, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Bureo</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">50</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Compañías del cuerpo de   bomberos de Retiro, 3 Brigadas Terrestres, 2 técnicos – CONAF, 2 helicópteros   y 4 Aviones Cisterna.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Retiro por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

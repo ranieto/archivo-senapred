@@ -1,0 +1,20 @@
+{
+	"id": "e340b9fc-b13c-4b16-8283-fe0503c2ba03",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2026-07-11T08:35:14.1414-04:00",
+	"createdAt": "2026-07-11T12:36:16.640Z",
+	"updatedAt": "2026-07-11T12:37:23.035Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-pelarco-san-clemente-colbun-linares-longavi-retiro-y-parral-por-evento-meteorologico-2026-07-05-17-03-17",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron.</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A302-5</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en valle, precordillera y cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A303-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en precordillera y cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A309</p></td><td><p style=\"text-align:justify\">Probables   Tormentas Eléctricas en zonas de valle, precordillera, cordillera</p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva Regional por evento meteorológico,</strong> la que se mantuvo vigente desde el 05 de julio del 2026.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "31b13e0f-fe09-4cf5-bc25-8c656d1e7b1f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2023-10-30T13:14:54.5454-03:00",
+	"createdAt": "2023-10-30T16:17:37.216Z",
+	"updatedAt": "2023-10-30T16:18:18.662Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC) </strong>indica que se ha cancelado la Alerta Meteorológica y los Avisos Meteorológicos&nbsp; que pronosticaron la ocurrencia de precipitaciones moderadas a fuertes en precordillera, precipitaciones normales a moderadas en cordillera y viento normal a moderado en la Región del Maule.<br></p><p style=\"text-align:justify\">De acuerdo con estos antecedentes, que suponen un decaimiento del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional de SENAPRED <strong>cancela Alerta Temprana Preventiva Regional</strong> por evento meteorológico, vigente desde el 26 de octubre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "a3508bfc-072d-4ca4-b31b-49b22935a582",
+	"type": "Evento",
+	"titulo": " Sismo de mediana intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2025-03-24T01:45:00.000-03:00",
+	"createdAt": "2025-03-24T04:46:52.911Z",
+	"updatedAt": "2025-03-24T04:53:35.588Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-atacama-y-coquimbo-4",
+	"parentId": "1505bf08-c342-427e-a5ea-48a5704934c7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">Un sismo de mediana intensidad se percibió a las 01:37 horas en las regiones de Atacama y Coquimbo.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Freirina:   </p></td><td><p>IV</p></td></tr><tr><td><p>Huasco:   </p></td><td><p>IV</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>IV</p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>III</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>III</p></td></tr><tr><td><p>Caldera:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Serena: </p></td><td><p>V</p></td></tr><tr><td><p>Coquimbo:   </p></td><td><p>V</p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>V</p></td></tr><tr><td><p>Ovalle:   </p></td><td><p>V</p></td></tr><tr><td><p>Combarbalá:   </p></td><td><p>IV</p></td></tr><tr><td><p>Monte   Patria: </p></td><td><p>IV</p></td></tr><tr><td><p>Salamanca:   </p></td><td><p>III</p></td></tr><tr><td><p>Punitaqui:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.4 y se localizó a 19 Kms al Sur de La Higuera. </span></p><p style=\"margin-left:0cm\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. <br><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

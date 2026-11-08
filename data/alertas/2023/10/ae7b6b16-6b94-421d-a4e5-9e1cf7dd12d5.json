@@ -1,0 +1,20 @@
+{
+	"id": "ae7b6b16-6b94-421d-a4e5-9e1cf7dd12d5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Isla de Pascua por incendio forestal",
+	"fechaHora": "2023-10-25T23:40:00.000-03:00",
+	"createdAt": "2023-10-26T02:41:44.086Z",
+	"updatedAt": "2023-10-26T05:33:12.584Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-isla-de-pascua-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal en la comuna de Isla de Pascua, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Kiri Hoi</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Controlado</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">100 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">El incendio no presenta   peligro de propagación ni afectación a viviendas, monumentos o sectores   patrimoniales.</span></p></td></tr></tbody></table></div><p>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Isla de Pascua por incendio forestal, que se mantuvo vigente desde hoy 25 de octubre de 2023.<br>Trabajaron en el lugar 1 brigada y 1 técnico de CONAF, 1 BRIFAR, Bomberos, Carabineros, personal de la I. Municipal de Isla de Pascua y Encargado de GRD de la Delegación Presidencial Provincial.<br><br></p><p><br><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

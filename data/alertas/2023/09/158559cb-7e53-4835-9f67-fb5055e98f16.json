@@ -1,0 +1,20 @@
+{
+	"id": "158559cb-7e53-4835-9f67-fb5055e98f16",
+	"type": "Alerta",
+	"titulo": "Alerta prueba incidencia ambiente preproductivo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-28T15:29:27.947Z",
+	"updatedAt": "2023-09-28T15:29:57.663Z",
+	"urlAccess": "alerta-prueba-incidencia-ambiente-preproductivo-3",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>Alerta prueba incidencia ambiente preproductivo<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

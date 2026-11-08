@@ -1,0 +1,20 @@
+{
+	"id": "83d937d0-f8dc-4920-9bdd-962ba78acd09",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por evento masivo",
+	"fechaHora": "2025-09-22T12:21:00.000-03:00",
+	"createdAt": "2025-09-22T15:30:56.920Z",
+	"updatedAt": "2025-09-22T15:31:08.577Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-masivo-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED O’Higgins, se informa la finalización de las actividades asociadas a los distintos eventos masivos y celebraciones de Fiestas Patrias en la región. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del O’Higgins, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento masivo, que se mantenía vigente desde el 11 de septiembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

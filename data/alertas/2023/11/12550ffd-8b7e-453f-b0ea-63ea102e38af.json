@@ -1,0 +1,20 @@
+{
+	"id": "12550ffd-8b7e-453f-b0ea-63ea102e38af",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por altas temperatura",
+	"fechaHora": "2023-11-08T21:55:21.2121-03:00",
+	"createdAt": "2023-11-09T00:56:28.337Z",
+	"updatedAt": "2023-11-09T00:56:49.230Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-altas-temperaturas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el Aviso Meteorológico A430/2023, que pronosticó un evento de altas temperaturas en los sectores de litoral, cordillera de la costa y precordillera y valles precordilleranos de la Región de Coquimbo. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por altas temperatura</strong>, que se mantuvo vigente desde el 05 de noviembre 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

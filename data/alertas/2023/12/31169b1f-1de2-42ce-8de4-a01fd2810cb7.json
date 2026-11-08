@@ -1,0 +1,20 @@
+{
+	"id": "31169b1f-1de2-42ce-8de4-a01fd2810cb7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por altas temperaturas",
+	"fechaHora": "2023-12-05T17:21:00.000-03:00",
+	"createdAt": "2023-12-05T20:34:45.749Z",
+	"updatedAt": "2023-12-11T11:38:31.619Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-altas-temperaturas",
+	"parentId": "32b6b180-08cf-4471-abf8-9cfb904b2f63",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A456-1</p></td><td><p style=\"text-align:justify\">Evento de altas temperaturas   en cordillera de la costa, valle y precordillera</p></td><td><p style=\"text-align:justify\">07-12</p></td><td><p style=\"text-align:justify\">08-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED, <strong>declara Alerta Temprana Preventiva Regional, por altas temperaturas</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\">SENAPRED&nbsp;</span><span style=\"color: rgb(0, 0, 0);font-size: 15px\">recomienda a la población evitar exponerse al sol durante las horas centrales del día (11:00 a 17:00 hrs.máxima radiación ultravioleta); y vigilar la temperatura corporal y condición de niños/as y adultos mayores, ya que dichos grupos suelen deshidratarse con facilidad.</span><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

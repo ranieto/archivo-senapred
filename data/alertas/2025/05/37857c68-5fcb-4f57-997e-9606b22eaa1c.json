@@ -1,0 +1,20 @@
+{
+	"id": "37857c68-5fcb-4f57-997e-9606b22eaa1c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Comuna de Alhué por incendio forestal",
+	"fechaHora": "2025-05-25T16:56:06.066-04:00",
+	"createdAt": "2025-05-25T21:01:20.992Z",
+	"updatedAt": "2025-05-25T21:04:31.507Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-alhue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>​<span style=\"color: rgb(33, 37, 41);font-size: 14px\">De acuerdo a la&nbsp;</span><strong>información proporcionada por CONAF</strong><span style=\"color: rgb(33, 37, 41);font-size: 14px\">, respecto al incendio forestal en la comuna de Alhué, se informa el siguiente detalle:</span></p><table><tbody><tr><td><div><span style=\"font-size: 14px\">Nombre del incendio</span></div></td><td><div><span style=\"font-size: 14px\">Caren</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Comuna&nbsp;</span></div></td><td><div><span style=\"font-size: 14px\">Alhué</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Estado</span></div></td><td><div><span style=\"font-size: 14px\">Controlado</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Superficie afectada&nbsp;</span></div></td><td><div><span style=\"font-size: 14px\">10 hectáreas</span></div></td></tr></tbody></table><div>​En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja por incendio forestal para la Comuna de Alhué, que se encuentra vigente desde el 24 de mayo de 2025.</div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

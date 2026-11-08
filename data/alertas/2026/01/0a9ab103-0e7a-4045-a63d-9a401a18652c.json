@@ -1,0 +1,20 @@
+{
+	"id": "0a9ab103-0e7a-4045-a63d-9a401a18652c",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2026-01-04T15:45:00.000-03:00",
+	"createdAt": "2026-01-04T18:56:04.305Z",
+	"updatedAt": "2026-01-04T20:05:24.617Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puerto-montt-por-incendio-forestal-2026-01-04-15-55-46",
+	"parentId": "90acaa86-db40-4a33-8da4-cc7ae764b246",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p></p><p><strong><span style=\"font-size:15px;color:black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size:15px;color:black\">respecto al incendio forestal en la&nbsp;<strong>comuna de Puerto Montt,&nbsp;</strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong><span style=\"font-size:15px;color:black\">Nombre del   incendio</span></strong></p></td><td><p><span style=\"font-size:15px;color:black\">Panitao</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px;color:black\">Estado</span></strong></p></td><td><p><span style=\"font-size:15px;color:black\">En Combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px;color:black\">Superficie</span></strong></p></td><td><p><span style=\"font-size:15px;color:black\">0.01</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px;color:black\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:15px;color:black\">El incendio se   desarrolla cercano a sectores habitados.</span></p></td></tr></tbody></table><p><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Puerto Montt por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </span></p><p><span style=\"font-size:15px;color:black\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

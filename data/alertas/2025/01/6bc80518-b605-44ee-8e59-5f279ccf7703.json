@@ -1,0 +1,20 @@
+{
+	"id": "6bc80518-b605-44ee-8e59-5f279ccf7703",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Rauco por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-23T20:58:05.024Z",
+	"updatedAt": "2025-01-23T21:06:08.393Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rauco-por-incendio-forestal",
+	"parentId": "3fcd64c9-6261-42db-8620-f375764c9cbf",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Rauco\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Villa Alemana se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">El Parron</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3.5   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Rauco, 4 Brigadas CONAF, 2 Técnicos CONAF, 5 Aviones CONAF, 2 helicópteros   CONAF, 1 avión de coordinación, 1 avión de observación, 1 Skidder CONAF y 1 camión   Cisterna CONAF.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Rauco, por incendio forestal, que se encuentra vigente desde el 23 de enero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

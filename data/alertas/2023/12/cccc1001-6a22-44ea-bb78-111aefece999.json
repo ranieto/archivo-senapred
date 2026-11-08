@@ -1,0 +1,20 @@
+{
+	"id": "cccc1001-6a22-44ea-bb78-111aefece999",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2023-12-10T03:36:00.000-03:00",
+	"createdAt": "2023-12-10T06:37:14.657Z",
+	"updatedAt": "2023-12-13T15:19:42.869Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-santo-domingo-por-incendio-forestal",
+	"parentId": "9aa297f7-83e8-46bb-9dac-c1b4c428fe13",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Santo Domingo\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto del incendio forestal que se desarrolla en la comuna de Santo Domingo, se indica lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cruce La Manga.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna afectada</strong></p></td><td><p style=\"text-align:justify\">Santo Domingo.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">40 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">Es importante destacar, que a las 19:42 horas de ayer sábado 09 de diciembre, se apoyó la evacuación de los sectores Camino Bucalemu y La Manga en la comuna de Santo Domingo con mensajería del Sistema de Alerta de Emergencia (SAE).</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja para la comuna de Santo Domingo por incendio forestal</strong>, que se encuentra vigente desde el 09 de diciembre y hasta que las condiciones del incendio así lo ameriten.</p><p><span style=\"color: black\">Los recursos que trabajaron en la jornada de ayer fueron:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">CONAF</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1 técnico, 4 brigadas, 1 helicóptero y 1 Skidder.</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">OTROS</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Bomberos de Santo Domingo, Navidad, San Antonio, y   San Pedro; Carabineros; Ejército de Chile; y personal municipal con apoyo de   1 camión aljibe.</span></p></td></tr></tbody></table></div><p><span style=\"color:black\">Por otra parte, la planificación de recursos para el día de hoy domingo 10 de diciembre es:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">CONAF</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">2 técnicos, 6 brigadas, 5 maquinarias pesadas y 1   helicóptero.</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">OTROS</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1 helicóptero de SENAPRED y Bomberos.</span></p></td></tr></tbody></table></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

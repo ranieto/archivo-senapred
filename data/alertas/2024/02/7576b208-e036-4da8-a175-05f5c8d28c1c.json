@@ -1,0 +1,20 @@
+{
+	"id": "7576b208-e036-4da8-a175-05f5c8d28c1c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Biobío por incendio forestal",
+	"fechaHora": "2024-02-22T12:50:00.000-03:00",
+	"createdAt": "2024-02-22T16:16:53.951Z",
+	"updatedAt": "2024-02-22T16:17:37.290Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a lo informado por el Departamento de Protección y Control contra Incendios Forestales deCONAF, se registra una baja en la simultaneidad de incendios forestales en la región, manteniéndose disponiblelos recursos de combate.Por otra parte, las condiciones meteorológicas actuales permiten suponer una condición favorable para elcontrol de incendios forestales<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela laAlerta Amarilla para la Región de Biobío, por incendio forestal, que se mantuvo vigente desde el 03 de febrerode 2024.<br></p><p><br></p><p><strong><span style=\"color:black\">De acuerdo con la información</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color:black\">respecto al incendios forestales en la Región del Biobío se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Los   MajuelosPart</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.07 hectáreas </p></td></tr></tbody></table><p><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Mininco VII   (Huelehueico)</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>102.96 hectáreas   </p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Las Capillas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>7.13 hectáreas </p></td></tr></tbody></table><p><br></p><p><br></p><p><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

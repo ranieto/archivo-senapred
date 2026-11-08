@@ -1,0 +1,19 @@
+{
+	"id": "6348c1f7-0697-4aa5-9059-f6bce910aa1b",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Tarapacá",
+	"fechaHora": "2023-12-01T05:49:00.000-03:00",
+	"createdAt": "2023-12-01T08:49:47.533Z",
+	"updatedAt": "2023-12-01T08:54:08.180Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-6",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 05:46 horas en la Región de Tarapacá.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "cdc3e357-9654-4281-998f-5f0d830c9109",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2025-06-30T15:32:15.1515-04:00",
+	"createdAt": "2025-06-30T19:34:07.684Z",
+	"updatedAt": "2025-06-30T19:36:37.081Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-19",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 15:30 horas en la Región de Valparaiso Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:   16px\">Región: Valparaíso </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Quillota: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

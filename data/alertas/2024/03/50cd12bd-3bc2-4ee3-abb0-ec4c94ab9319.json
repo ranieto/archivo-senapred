@@ -1,0 +1,20 @@
+{
+	"id": "50cd12bd-3bc2-4ee3-abb0-ec4c94ab9319",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Última Esperanza por precipitaciones",
+	"fechaHora": "2024-03-15T16:45:50.5050-03:00",
+	"createdAt": "2024-03-15T19:47:08.582Z",
+	"updatedAt": "2024-03-15T19:47:44.874Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-precipitaciones-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A61/2024 que pronosticó la ocurrencia de precipitaciones normales a moderadas en diversos sectores de la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone una disminución de la amenaza asociada a las condiciones meteorológicas y que reduce el factor de riesgo para los habitantes y sus bienes, en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por precipitaciones para la provincia de Última Esperanza,que se mantuvo vigente desde el 12 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

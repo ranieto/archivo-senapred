@@ -1,0 +1,20 @@
+{
+	"id": "eb609101-f60f-4ca3-97ee-9495272b4998",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2026-09-30T11:30:00.000-03:00",
+	"createdAt": "2026-09-30T14:41:13.493Z",
+	"updatedAt": "2026-10-05T03:57:15.553Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-09-30-11-40-54",
+	"parentId": "b840d9ee-03ea-4289-8c42-0623a542fa06",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentra vigente el siguiente alertamiento meteorológico para la Región del Maule:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Enlace</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A518</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en precordillera y cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">02-10</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">03-10</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">Abrir <br>   aquí</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, según lo señalado </span><span style=\"color:black\">en el Informe de Amenaza Meteorológica, </span><span style=\"color:black\">se pronostican los siguientes montos de precipitaciones, viento e</span><span style=\"color:black\"> isoterma 0°C en la región</span><span style=\"color:black\">: </span></p><ul type=\"disc\"><li><strong><span style=\"font-size:15px;color:black\">Precipitaciones:</span></strong><span style=\"font-size:15px;color:black\"> entre 2 y 35 mm.</span></li><li><strong><span style=\"font-size:15px;color:black\">Nevadas:</span></strong><span style=\"font-size:15px;color:black\"> entre 10 y 40 cm.</span></li><li><strong><span style=\"font-size:15px;color:black\">Viento: </span></strong><span style=\"font-size:15px;color:black\">25 – 70 km/h<strong>.</strong></span></li><li><strong><span style=\"font-size:15px;color:black\">Isoterma 0:</span></strong><span style=\"font-size:15px;color:black\">&nbsp; entre 1.700 –      3.500 m.s.n.m. </span></li></ul><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>Declara Alerta Temprana Preventiva Regional por evento meteorológico,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

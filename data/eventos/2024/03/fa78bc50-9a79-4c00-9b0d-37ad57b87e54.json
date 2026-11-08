@@ -1,0 +1,19 @@
+{
+	"id": "fa78bc50-9a79-4c00-9b0d-37ad57b87e54",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Coquimbo",
+	"fechaHora": "2024-03-21T18:23:00.000-03:00",
+	"createdAt": "2024-03-21T21:24:17.464Z",
+	"updatedAt": "2024-03-21T21:37:58.602Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-18",
+	"parentId": "f1408093-8652-4fc5-be34-221e5b6932fe",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 18:17 horas en la Región de Coquimbo.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Coquimbo</strong></p></td></tr><tr><td><p>Tongoy:</p></td><td><p>V</p></td></tr><tr><td><p>La Serena:</p></td><td><p>IV</p></td></tr><tr><td><p>La Higuera:</p></td><td><p>IV</p></td></tr><tr><td><p>Vicuña:</p></td><td><p>III</p></td></tr></tbody></table><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p style=\"text-align: justify\">El Centro Sismológico Nacional indica que la magnitud fue 4.5, localizada a 40 Kms al Noroeste de Tongoy.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

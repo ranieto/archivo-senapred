@@ -1,0 +1,20 @@
+{
+	"id": "ee80e426-826b-4b5b-98e1-9cc84d3bd044",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2026-03-10T17:22:20.2020-03:00",
+	"createdAt": "2026-03-10T20:28:49.613Z",
+	"updatedAt": "2026-03-11T15:37:57.235Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-antonio-por-incendio-forestal-2026-03-10-17-28-29",
+	"parentId": "3a0aa9ef-68dc-4709-be7c-f66889a89243",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\"><strong>De acuerdo con la información técnica proporcionada por Conaf y el SINAPRED,</strong> se informa un incendio forestal con el siguiente detalle:</span></span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><span style=\"color: rgb(0, 0, 0)\"><strong><br></strong></span></span></p><table><tbody><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Quebrada Cementerio</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En trayecto</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">5 hectáreas</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cuerpo de Bomberos de San Antonio y Santo Domingo</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"> 5 brigadas, 2 técnicos, 4 aviones, 1 helicóptero, 1 camión aljibe y 1 maquinaria pesada CONAF</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de San Antonio por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

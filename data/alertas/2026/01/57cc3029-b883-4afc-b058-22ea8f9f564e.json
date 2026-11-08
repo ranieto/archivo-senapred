@@ -1,0 +1,20 @@
+{
+	"id": "57cc3029-b883-4afc-b058-22ea8f9f564e",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de San Fernando por incendio forestal",
+	"fechaHora": "2026-01-19T12:45:00.000-03:00",
+	"createdAt": "2026-01-19T16:32:23.514Z",
+	"updatedAt": "2026-01-20T16:49:20.879Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-fernando-por-incendio-forestal-2026-01-18-19-19-34",
+	"parentId": "e1dee17f-d018-44ec-b2c2-79c9a0dd43ec",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de San Fernando, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Fundo La Palma</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">De acuerdo con la información   proporcionada por CONAF, el incendio se mantiene con velocidad de propagación   lenta, intensidad del frente baja y longitud de llama baja.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de San Fernando, por incendio forestal, que se encuentra vigente desde el 18 de enero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "61d97c76-056b-4790-a18e-7e2c18f45731",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Coihueco por incendio forestal ",
+	"fechaHora": "2025-02-24T18:12:00.000-03:00",
+	"createdAt": "2025-02-24T21:29:59.589Z",
+	"updatedAt": "2025-03-07T22:40:51.385Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-coihueco-por-incendio-forestal-2",
+	"parentId": "f94b8a38-34b8-46bd-b0ed-e72919e72628",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Punilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Coihueco\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Coihueco </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San Patricio</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>996 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>10 Brigadas terrestres CONAF, 1 Brigada helitransportada   CONAF, 3 Brigadas mecanizadas CONAF, 13 Técnicos CONAF, 1 Helicóptero liviano   CONAF, 2 Helicópteros medianos CONAF, 2 Helicopteros Super Puma CONAF, 1   Helicóptero Chinook CONAF, 1 Helicóptero Black Hawk CONAF, 3 Aviones cisterna   CONAF, 1 Móvil combustible CONAF, 1 Ambulancia y 1 UAD Investigación de   causas CONAF.</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de Coihueco con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

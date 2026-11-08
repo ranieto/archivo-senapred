@@ -1,0 +1,20 @@
+{
+	"id": "45547d52-37f7-4241-b9dd-9e277baf4da5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la provincia del Biobío por calor intenso",
+	"fechaHora": "2024-02-12T19:37:32.3232-03:00",
+	"createdAt": "2024-02-12T22:38:23.832Z",
+	"updatedAt": "2024-02-14T13:28:23.340Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-calor-intenso",
+	"parentId": "ae85608c-b4a4-4b7f-91a0-049ed2dc9aba",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color:black\"> mediante su Pronóstico Especial, se espera un evento de altas temperaturas extremas, cuyas máximas oscilaran entre los 34 y 36°C en sectores de valle y precordillera de la Región del Biobío.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, se mantienen vigentes los siguientes alertamientos para la región:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA12-1</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas extremas en cordillera de la costa, valle y   precordillera de la región.</p></td><td><p style=\"text-align:center\">13-02</p></td><td><p style=\"text-align:center\">13-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A30-2</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas en litoral, cordillera de la costa, valle y   precordillera de la región.</p></td><td><p style=\"text-align:center\">12-02</p></td><td><p style=\"text-align:center\">14-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED, <strong>declara Alerta Amarilla para la provincia del Biobío, por calor intenso,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

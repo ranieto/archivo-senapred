@@ -1,0 +1,20 @@
+{
+	"id": "c52c1b14-5353-4771-9dbf-cc3015ebb494",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Lonquimay por incendio forestal",
+	"fechaHora": "2023-12-29T19:27:56.5656-03:00",
+	"createdAt": "2023-12-29T22:28:52.570Z",
+	"updatedAt": "2023-12-29T22:29:12.507Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lonquimay-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal en la comuna de Lonquimay, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Sierra Nevada.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,5 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal se   encuentra sin avance, ni continuidad de combustible.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la comuna de Lonquimay por incendio forestal</strong>, que se mantiene vigente desde el 27 de diciembre.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

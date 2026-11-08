@@ -1,0 +1,20 @@
+{
+	"id": "8124ad7b-6395-4cec-874f-9dd48b5df8dc",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Catemu por incendio forestal",
+	"fechaHora": "2024-12-10T23:09:00.000-03:00",
+	"createdAt": "2024-12-11T02:14:15.985Z",
+	"updatedAt": "2024-12-11T02:15:05.412Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-catemu-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Catemu, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Santa   Rosa 2</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">169   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">De   acuerdo con la información proporcionada por CONAF, el incendio se encuentra   sin propagación y con baja intensidad en todos sus sectores. El trabajo del   día fue efectivo, siendo complejas las condiciones topográficas y   meteorológicas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Para   la jornada de mañana, la planificación de CONAF contempla 4 brigadas, 1   camión aljibe, 1 helicóptero y 1 ambulancia.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Catemu, por incendio forestal, que se mantuvo vigente desde el 09 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

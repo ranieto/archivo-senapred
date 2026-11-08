@@ -1,0 +1,20 @@
+{
+	"id": "2c81be98-8190-4007-bee6-77185a4a08b7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Mulchén por incendio forestal",
+	"fechaHora": "2025-12-30T20:15:00.000-03:00",
+	"createdAt": "2025-12-30T23:24:47.988Z",
+	"updatedAt": "2025-12-31T15:54:50.822Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-mulchen-por-incendio-forestal-2025-12-30-17-14-15",
+	"parentId": "1c11a372-3d91-4025-a5b7-7aeba4ab5eeb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Mulchén se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Licura</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">140 hectáreas</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Cuerpo de Bomberos de Mulchén</span></p><p><span style=\"color: rgb(0, 0, 0)\">8 brigadas terrestres, 3 técnicos, 10 aeronaves y 1 puesto de mando de CONAF.</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Incendio se encuentra cercano a sectores poblados.</span></p></td></tr></tbody></table></div><p><span style=\"color: rgb(0, 0, 0)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, <strong>la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Mulchén por incendio forestal</strong>, que se encuentra vigente desde el 30 de diciembre de 2025.</span><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

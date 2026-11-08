@@ -1,0 +1,20 @@
+{
+	"id": "cd9f4054-67c4-42d9-9d03-ee562d6117d9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2025-03-12T14:42:07.077-03:00",
+	"createdAt": "2025-03-12T17:48:33.922Z",
+	"updatedAt": "2025-03-12T22:08:53.615Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-santo-domingo-por-incendio-forestal-4",
+	"parentId": "a3f62c52-45f9-4fb6-b7f8-d885a78a752f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Santo Domingo\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Santo Domingo, se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Pangui Rosa 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Este incendio se mantiene cercano a sectores habitados.<br></div></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>Cuerpo de Bomberos de Santo Domingo.</div><div>6 brigadas.</div><div>1 técnico.</div><div>1 avión.</div><div>1 helicóptero.</div><div>1 skidder.</div><div>1 camisón cisterna.&nbsp;</div></td></tr></tbody></table></div><div>En consideración a estos antecedentes, con base en la información técnica proporcionada por CONAF, y encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPREDdeclara Alerta Roja para la comuna de Santo Domingo por incendio forestal, vigente desde hoy y hasta quelas condiciones del incendio así lo ameriten.</div><div>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento</div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

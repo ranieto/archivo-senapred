@@ -1,0 +1,20 @@
+{
+	"id": "8cb0c573-c4e5-4564-bd2b-0ec6feb53dd2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Palena por heladas",
+	"fechaHora": "2025-07-10T12:10:00.000-04:00",
+	"createdAt": "2025-07-10T16:52:55.070Z",
+	"updatedAt": "2025-07-10T16:54:25.396Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-palena-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el Aviso A259-1/2025 el cual pronosticaba Heladas normales a moderadas en Patagonia Subandina (entre -6°C y -4°C) de la región. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por heladas para la Provincia de Palena</strong>,que se mantuvovigente desde el 08 de julio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

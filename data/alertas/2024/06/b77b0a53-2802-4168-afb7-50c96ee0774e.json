@@ -1,0 +1,20 @@
+{
+	"id": "b77b0a53-2802-4168-afb7-50c96ee0774e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Renaico por amenaza de desborde",
+	"fechaHora": "2024-06-12T07:58:00.000-04:00",
+	"createdAt": "2024-06-12T11:57:45.165Z",
+	"updatedAt": "2024-06-17T03:24:17.259Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-renaico-por-amenaza-de-desborde",
+	"parentId": "f879b829-f1bf-4b8e-8542-cce21da63746",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Renaico\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red hidrométrica “Río Vergara en Tijeral”, en la comuna de Reinaco, ha sobrepasado los valores del umbral de Alerta Amarilla.<br></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por amenaza de desborde para la comuna de Renaico,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

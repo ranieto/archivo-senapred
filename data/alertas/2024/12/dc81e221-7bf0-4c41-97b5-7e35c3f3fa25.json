@@ -1,0 +1,20 @@
+{
+	"id": "dc81e221-7bf0-4c41-97b5-7e35c3f3fa25",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Maule por incendio forestal",
+	"fechaHora": "2024-12-20T21:05:00.000-03:00",
+	"createdAt": "2024-12-21T00:18:27.206Z",
+	"updatedAt": "2024-12-21T02:26:26.079Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-maule-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio controlado a las 20:32 hrs con 7 Ha.</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Santa Clara de Colin</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Maule, 4 brigada de Conaf, 4 aeronaves Conaf, 1 camión aljibe y 1 skidder.</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Maule, por incendio forestal, que se mantuvo vigente desde el 20 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

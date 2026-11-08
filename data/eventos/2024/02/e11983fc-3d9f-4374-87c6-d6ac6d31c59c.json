@@ -1,0 +1,19 @@
+{
+	"id": "e11983fc-3d9f-4374-87c6-d6ac6d31c59c",
+	"type": "Evento",
+	"titulo": "Sismo de menor  intensidad en la Región de Valparaíso",
+	"fechaHora": "2024-01-31T21:37:08.088-03:00",
+	"createdAt": "2024-02-01T00:39:36.536Z",
+	"updatedAt": "2024-02-01T00:46:48.940Z",
+	"urlAccess": "sismo-de-menor--intensidad-en-la-region-de-valparaiso",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga, Valparaíso\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Viña del Mar, Quilpué\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor&nbsp; intensidad se percibió a las 21:27 horas en la Región de Valparaíso. Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Calera:   </p></td><td><p>IV</p></td></tr><tr><td><p>Quilpué   : </p></td><td><p>III</p></td></tr><tr><td><p>Viña   del Mar: </p></td><td><p>II</p></td></tr></tbody></table><p><span style=\"font-size:15px\"><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.7 y se localizó a <span style=\"font-size: 15px\">14 Kms al Sureste de Quillota</span>.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

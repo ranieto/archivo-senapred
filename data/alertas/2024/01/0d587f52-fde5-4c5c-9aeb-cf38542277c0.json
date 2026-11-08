@@ -1,0 +1,20 @@
+{
+	"id": "0d587f52-fde5-4c5c-9aeb-cf38542277c0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Limache por incendio forestal",
+	"fechaHora": "2024-01-30T10:45:28.2828-03:00",
+	"createdAt": "2024-01-30T13:46:28.347Z",
+	"updatedAt": "2024-01-31T00:48:54.459Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-limache-por-incendio-forestal-2",
+	"parentId": "4b8bc2c6-0609-49b6-8dd0-3fbec5ad7821",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa el siguiente detalle respecto del incendio forestal</span> “<span style=\"color: black\">Los Maitenes”, en la comuna de Limache:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los Maitenes</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4.3 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Limache por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

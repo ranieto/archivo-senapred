@@ -1,0 +1,20 @@
+{
+	"id": "f3e9a4c4-edef-45bc-9be5-54b5f3fc0869",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Quilpué por incendio forestal",
+	"fechaHora": "2024-11-26T14:29:21.2121-03:00",
+	"createdAt": "2024-11-26T17:30:08.919Z",
+	"updatedAt": "2024-11-26T17:31:36.141Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quilpue-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,</strong>&nbsp;respecto al incendio forestal en la comuna de Quilpué se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p><strong>Fundo El Pequen</strong></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>35 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>CONAF indica que el incendio se encuentra contenido y no   presenta&nbsp;actividad ni peligro de propagación</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Quilpué, por incendio forestal, que se mantuvo vigente desde el 24 de noviembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

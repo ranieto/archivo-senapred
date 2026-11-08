@@ -1,0 +1,20 @@
+{
+	"id": "20c174a7-526c-4bf4-863a-5445d69e98aa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento masivo",
+	"fechaHora": "2024-08-11T23:53:53.5353-04:00",
+	"createdAt": "2024-08-12T03:54:31.286Z",
+	"updatedAt": "2024-08-12T03:55:05.454Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá, ha disminuido el riesgo asociado a la congregación de la fiesta religiosa del pueblo de Tarapacá, en la comuna de Huara, debido al retiro de gran parte de los asistentes de la festividad.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong><strong>Regional</strong>, por evento masivo, que se mantuvo vigente desde el 08 de agosto de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

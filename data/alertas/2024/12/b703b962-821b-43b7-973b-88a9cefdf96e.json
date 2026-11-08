@@ -1,0 +1,20 @@
+{
+	"id": "b703b962-821b-43b7-973b-88a9cefdf96e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Marchihue por incendio forestal",
+	"fechaHora": "2024-12-18T17:10:48.4848-03:00",
+	"createdAt": "2024-12-18T20:58:23.200Z",
+	"updatedAt": "2024-12-19T01:13:10.859Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchihue-por-incendio-forestal-3",
+	"parentId": "1cd2ed11-7e44-42eb-bf97-41afa1bc4a50",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información técnica proporcionada por CONAF, activo desde las 16:08 horas de hoy se encuentra el Incendio Forestal \"El Chequen\", en la comuna de Marchihue que al momento afecta dos hectáreas de vegetación por confirmar. Asimismo, este incendio presenta amenaza inminente a 3 viviendas ubicadas en el sector de parcelación Palmas de Chequen , a una distancia promedio de 50 m.<br></p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>El chequen</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Marchihue</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>2 hectáreas</div></td></tr><tr><td><div>Descripción</div></td><td><div>El incendio se encuentra activo en todos sus sectores en intensidad media y amenaza a viviendas aproximadamente a 50 metros.</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 brigadas CONAF, 1 técnico CONAF, 2 aeronaves CONAF.</div><div>En trayecto: 1 camión aljibe y 1 skidder.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Marchihue por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "cf900efc-822e-4ecb-9fad-36bc3c004676",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la región de Los Lagos por tormentas eléctricas",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-12-11T14:00:03.384Z",
+	"updatedAt": "2025-12-11T14:21:05.562Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-2025-12-08-11-16-04",
+	"parentId": "37a243b4-1219-4e12-b00b-e9902f3377b8",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido actualizado el siguiente alertamiento meteorológico, dejando fuera de cobertura a la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento actualizado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A471-7</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas entre las regiones de Coquimbo y Maule.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En base a este antecedente y en coordinación con la Delegación Presidencial Regional de </span><span style=\"font-size:15px;color:black\">Los Lagos</span><span style=\"font-size:15px;color:black\">, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por tormentas eléctricas, </strong>que se manteníavigente desde el 08 de diciembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

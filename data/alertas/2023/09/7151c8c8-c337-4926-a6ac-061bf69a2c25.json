@@ -1,0 +1,20 @@
+{
+	"id": "7151c8c8-c337-4926-a6ac-061bf69a2c25",
+	"type": "Alerta",
+	"titulo": "TEST 27-09",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-27T20:36:38.015Z",
+	"updatedAt": "2023-09-27T21:14:00.899Z",
+	"urlAccess": "test-27-09",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>AAA</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

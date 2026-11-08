@@ -1,0 +1,20 @@
+{
+	"id": "1ad96d78-9fe2-4662-8ca4-827fc264f1b7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Dalcahue por incendio forestal",
+	"fechaHora": "2023-12-29T20:45:00.000-03:00",
+	"createdAt": "2023-12-29T23:52:03.967Z",
+	"updatedAt": "2023-12-31T17:36:54.460Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-dalcahue-por-incendio-forestal",
+	"parentId": "94cb56e3-d7cc-4d18-99ce-c41b82939572",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Dalcahue\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se registra un incendio forestal en la comuna de Dalcahue, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Taiquemo 2</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   activo en todo el flanco derecho con intensidad media. Presentando proyección   a viviendas, amenaza a bosque nativo y falta de recursos mecanizados. </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">4   brigadas, 1 técnico, y 1 helicóptero de CONAF</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la comuna de Dalcahue por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </span></a></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

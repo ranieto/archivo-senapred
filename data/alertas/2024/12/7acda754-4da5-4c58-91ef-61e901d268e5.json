@@ -1,0 +1,20 @@
+{
+	"id": "7acda754-4da5-4c58-91ef-61e901d268e5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2024-12-20T14:07:54.5454-03:00",
+	"createdAt": "2024-12-20T17:15:26.679Z",
+	"updatedAt": "2024-12-20T18:17:12.478Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-7",
+	"parentId": "ef38ce28-a0a8-4a2c-9712-044007ccb8ac",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Las Cabras indica:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>El Manzano 1</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,01 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal con cercanía a sectores habitados. A las 13:19 horas se envió un mensaje SAE para reforzar proceso de evacuación.</p></td></tr><tr><td><div>​<strong>Recursos</strong>​<br></div></td><td><div>1 técnico, 1 brigada, 1 camión aljibe y 4 aeronaves de CONAF; Bomberos de Las Cabras y Peumo&nbsp;</div></td></tr></tbody></table><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de O'Higgins, la Dirección Regional de SENAPRED <strong>declara Alerta Roja</strong> para la comuna de Las Cabras por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

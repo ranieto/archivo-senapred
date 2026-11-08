@@ -1,0 +1,20 @@
+{
+	"id": "f40c8bc1-c12a-44cb-a908-e3fa7f6fd334",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por tormentas eléctricas",
+	"fechaHora": "2023-11-05T12:45:00.000-03:00",
+	"createdAt": "2023-11-05T15:46:40.693Z",
+	"updatedAt": "2023-11-05T15:46:48.923Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego, Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A426/2023, que pronosticó probables tormentas eléctricas en los sectores de Cordillera Austral Norte, Insular Norte, Pampa Patagónica Norte y Pampa Patagónica Sur, de la Región de Magallanes debido al debilitamiento de las condiciones meteorológicas que los originaron.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong> para las provincias de Magallanes, Última Esperanza y Tierra del Fuego, por tormentas eléctricas, que se mantuvo vigente desde el 03 de noviembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

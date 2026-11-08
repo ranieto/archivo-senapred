@@ -1,0 +1,20 @@
+{
+	"id": "5580299f-f100-44da-9d1b-88db4bbca2f5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-04-18T23:36:24.2424-04:00",
+	"createdAt": "2024-04-19T03:37:39.282Z",
+	"updatedAt": "2024-04-20T21:59:51.598Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-7",
+	"parentId": "39baea9e-b087-4c6c-8628-78cc4c79fc72",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Valparaíso se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Alto El Puerto</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectárea </p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Al momento, el   incendio se encuentra <span style=\"font-size:   14px;color:#2E2E2E\">activo con baja intensidad y sin avance.</span><span style=\"font-size:12px;color:#212529\"><br><br></span><span style=\"font-size:14px;color:#2E2E2E\">Cabe señalar, que se realizó la evacuación preventiva de 1   vivienda del sector, donde habitaban 3 personas, quienes ya retornaron.</span></p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color:black\">14   brigadas y 3 técnico de Conaf; </span><span style=\"font-size:14px;color:#2E2E2E\">1 Skidder y 5 camiones aljibe de CONAF, 1 Puesto   de mando, 2 camiones aljibe municipales, personal de concesionaria Ruta La   Pólvora, Carabineros, Empresa Eléctrica Chilquinta, ESVAL y voluntarios de Bomberos de   Valparaíso</span></p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Valparaíso, por incendio forestal, que se encuentra vigente desde el 18 de abril de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

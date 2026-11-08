@@ -1,0 +1,20 @@
+{
+	"id": "d35f46ba-7913-495a-b5f4-6c634ce636a6",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Amarilla para la Provincia del Tamarugal por evento meteorológico",
+	"fechaHora": "2024-02-23T20:01:00.000-03:00",
+	"createdAt": "2024-02-23T23:04:51.328Z",
+	"updatedAt": "2024-03-20T03:08:47.912Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2",
+	"parentId": "c0f5b59b-ab44-43b6-b0af-9825396af337",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta AA15</p></td><td><p style=\"text-align:justify\">Precipitaciones moderadas a fuertes en cordillera.</p></td><td><p style=\"text-align:justify\">25-02</p></td><td><p style=\"text-align:justify\">26-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A40</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas en precordillera y   cordillera, preferente durante la tarde-noche, con precipitaciones aisladas.</p></td><td><p style=\"text-align:justify\">24-02</p></td><td><p style=\"text-align:justify\">26-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A43-1</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas en precordillera y   cordillera</p></td><td><p style=\"text-align:justify\">24-02</p></td><td><p style=\"text-align:justify\">26-02</p></td></tr></tbody></table><p style=\"text-align:justify\">Por otro lado, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), a través de su Minuta Técnica de Peligro de Remoción en Masa, indica que la probabilidad de ocurrencia de flujos de detritos, deslizamientos y/o caída de rocas es <strong>baja</strong> en los sectores del litoral, cordillera de la costa y pampa y <strong>moderada</strong> en precordillera y <strong>alta </strong>en cordillera de la región.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Amarilla para la Provincia del Tamarugal</strong>, por <strong>evento meteorológico</strong>, que se mantiene vigente desde el 21 de febrero de 2024 y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

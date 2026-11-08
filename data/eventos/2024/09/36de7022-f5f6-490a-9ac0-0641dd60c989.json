@@ -1,0 +1,21 @@
+{
+	"id": "36de7022-f5f6-490a-9ac0-0641dd60c989",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Arica y Parinacota, Tarapacá y Antofagasta   ",
+	"fechaHora": "2024-09-05T06:48:07.077-04:00",
+	"createdAt": "2024-09-05T10:49:13.794Z",
+	"updatedAt": "2024-09-05T11:00:09.937Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-arica-y-parinacota-y-tarapaca-6",
+	"parentId": "dddc6563-372c-4f5e-8b89-6acd4500b466",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 06:39horas en las regiones de Arica y Parinacota, Tarapacá y Antofagasta.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapacá</strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Tocopilla:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.2 y se localizó a 131 Kms al Sur de Oruro. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

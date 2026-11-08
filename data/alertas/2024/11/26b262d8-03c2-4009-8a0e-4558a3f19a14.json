@@ -1,0 +1,20 @@
+{
+	"id": "26b262d8-03c2-4009-8a0e-4558a3f19a14",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Melipilla por incendio forestal",
+	"fechaHora": "2024-11-04T19:01:58.5858-03:00",
+	"createdAt": "2024-11-04T22:10:59.874Z",
+	"updatedAt": "2024-11-04T23:47:43.918Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipilla-por-incendio-forestal-2",
+	"parentId": "dadefeed-2e7b-4d5a-91f5-5709921ce7e3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Melipilla, indica el siguiente detalle:</span></p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Pallocabe</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>activo</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>23 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color: black\">4 brigadas, 8 técnicos, 2 camiones aljibe, 1 puesto de mando y 5 aeronaves de CONAF; y Bomberos de Melipilla, El Monte, María Pinto, Talagante e Isla de Maipo.</span></p></td></tr></tbody></table></div><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional de SENAPRED mantiene&nbsp;<strong>Alerta Roja&nbsp;</strong>para la comuna de Melipilla por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

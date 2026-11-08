@@ -1,0 +1,20 @@
+{
+	"id": "6dd0adb3-b5e7-4467-8589-d0a32c7d64b0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-01-18T20:14:00.000-03:00",
+	"createdAt": "2024-01-18T23:24:56.928Z",
+	"updatedAt": "2024-01-20T00:02:25.758Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-valparaiso-por-incendio-forestal-2",
+	"parentId": "af5d850f-ad62-4220-a643-eff6e9be59a4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Valparaíso, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>Cuesta Balmaceda II</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>5 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">Incendio presenta comportamiento extremo, velocidad de propagación rápida, longitud de llamas sobre 3 metros y proyección de pavesas en el frente de avance</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>6 brigadas de CONAF, 3 técnicos de CONAF, 1 avión cisterna, 3 helicópteros,&nbsp;1 puesto de mando de CONAF, y los siguientes recursos en trayecto: 4 técnicos de CONAF, 6&nbsp; brigadas de CONAF, 2 camiones cisterna.&nbsp;</div></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED<strong>declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41)\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

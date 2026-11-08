@@ -1,0 +1,20 @@
+{
+	"id": "a3fe2c24-2f8c-45dd-ad9e-3c65c0be2c30",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2025-02-08T17:48:00.000-03:00",
+	"createdAt": "2025-02-08T21:01:47.562Z",
+	"updatedAt": "2025-02-09T01:57:16.374Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-santo-domingo-por-incendio-forestal-3",
+	"parentId": "c6cf3180-1403-4962-97d8-a40e0108f914",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Santo Domingo\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Santo Domingo se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>HACIENDA SAN ENRIQUE</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos, 11 Brigadas, 1 Técnicos, 5 helicópteros, 2   aljibes Y 1 Skidder</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Santo Domingo por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

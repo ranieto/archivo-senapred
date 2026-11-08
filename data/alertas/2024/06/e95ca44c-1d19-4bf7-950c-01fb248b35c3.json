@@ -1,0 +1,20 @@
+{
+	"id": "e95ca44c-1d19-4bf7-950c-01fb248b35c3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la comuna de Pitrufquén por amenaza de desborde",
+	"fechaHora": "2024-06-26T22:41:00.000-04:00",
+	"createdAt": "2024-06-27T02:41:35.840Z",
+	"updatedAt": "2024-06-30T19:31:10.234Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-pitrufquen-por-amenaza-de-desborde",
+	"parentId": "3b8f9c8c-a152-4e4a-b825-983474f15e0a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pitrufquén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red hidrométrica “Río Mahuidanche en Santa Ana” en la comuna de Pitrufquén, ha alcanzado el umbral de Alerta Roja.<br></p><p style=\"text-align:justify\">Cabe mencionar que, si el caudal sigue aumentando puede producir daños en sectores poblados e infraestructura, requiriendo acciones de mitigación y prevención tales como evacuaciones y disponibilidad de recursos humanos y materiales.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del <strong>SENAPRED declara Alerta Roja por amenaza de desborde</strong><strong>para la comuna de Pitrufquén,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\">Cabe señalar que producto de lo anterior, se <span style=\"color:black\">cancela la Alerta Amarilla comunal por amenaza de desborde, que se mantuvo vigente desde hoy 26 de junio de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

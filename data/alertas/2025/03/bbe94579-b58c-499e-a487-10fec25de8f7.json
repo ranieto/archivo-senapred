@@ -1,0 +1,20 @@
+{
+	"id": "bbe94579-b58c-499e-a487-10fec25de8f7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta, Taltal, Sierra Gorda y María Elena por evento meteorológico",
+	"fechaHora": "2025-02-28T21:27:00.000-03:00",
+	"createdAt": "2025-03-01T00:27:55.123Z",
+	"updatedAt": "2025-03-14T18:50:47.718Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico",
+	"parentId": "44599360-5dc3-437c-8fe1-4f0a943fe9c1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por la Dirección Regional de SENAPRED Antofagasta, se informa que durante la presente jornada se registró la crecida del río Loa, motivo por el cual, se solicitó la evacuación del sector de Yalquincha, siendo ésta reforzada mediante la emisión de mensajería SAE a las 18:42 horas.</p><p style=\"text-align:justify\">Cabe mencionar, que debido a esta acción se evacuaron a 116 personas desde distintos puntos del borde del río, sin registrarse lesionados, ni damnificados.</p><p style=\"text-align:justify\">Por otra parte, se informa que se mantiene el resguardo policial mediante Carabineros en los sectores de Yalquincha, La Cascada, Parque El Loa y Topáter.</p><p style=\"text-align:justify\">Conforme a lo reportado por la Dirección General de Aguas (DGA) a través de su Sistema de Alertas de Estaciones Hidrométricas, las estaciones Río Toconce y Río San Pedro Cuchabrachi, registran caudal en <strong>umbral azul a la baja</strong>, mientras la Estación Río Loa Escorial y Río Salado se mantienen en <strong>umbral amarillo a la baja</strong>.</p><p style=\"text-align:justify\">Además, de acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A20-16</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera, precordillera salar y cordillera.</p></td><td><p style=\"text-align:center\">28-02</p></td><td><p style=\"text-align:center\">05-03</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Por su parte, el <strong>Servicio Nacional de Geología y Minería (SERNAGEOMIN)</strong> a través de su Minuta Técnica por Peligro de Remociones en Masa, indica que la posibilidad de ocurrencia de remociones en masa es <strong>baja </strong>en </span><span style=\"color:black\">precordillera occidental, precordillera salar y cordillera de</span><span style=\"color:black\"> la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED mantiene <strong>la Alerta Temprana Preventiva por evento meteorológico para la provincia</strong></span><strong><span style=\"color:black\"> de El Loa y las comunas de Antofagasta, Taltal, Sierra Gorda y María Elena, </span></strong><span style=\"color:black\">la que se mantiene vigente desde el 22 de febrero de 2025 y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

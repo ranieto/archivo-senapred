@@ -1,0 +1,19 @@
+{
+	"id": "5e533f06-bd21-402c-acfa-30bfc45f28d0",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Arica y Parinacota",
+	"fechaHora": "2024-03-13T06:37:38.3838-03:00",
+	"createdAt": "2024-03-13T09:38:15.214Z",
+	"updatedAt": "2024-03-13T09:44:34.866Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-arica-y-parinacota",
+	"parentId": "5c50a64e-5ae7-4c12-b7ad-ad5331ad874c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 06</span><em>:</em><span style=\"font-size: 16px\">30 horas en la Región de Arica y Parinacota.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Codpa:   </p></td><td><p>VI</p></td></tr><tr><td><p>Pocon   Chile: </p></td><td><p>VI</p></td></tr><tr><td><p>Arica   : </p></td><td><p>IV</p></td></tr><tr><td><p>San   Miguel de Azapa: </p></td><td><p>IV</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.0 y se localizó a 54 Kms al Sur de Putre. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

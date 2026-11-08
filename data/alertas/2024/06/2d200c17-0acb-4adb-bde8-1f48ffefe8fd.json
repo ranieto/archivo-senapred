@@ -1,0 +1,20 @@
+{
+	"id": "2d200c17-0acb-4adb-bde8-1f48ffefe8fd",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja en la comuna de Curacautín por amenaza de desborde",
+	"fechaHora": "2024-06-12T23:51:03.033-04:00",
+	"createdAt": "2024-06-13T03:55:12.518Z",
+	"updatedAt": "2024-06-14T10:37:02.477Z",
+	"urlAccess": "se-declara-alerta-roja-en-la-comuna-de-curacautin-por-amenaza-de-desborde",
+	"parentId": "8fa7f1a1-60ae-4157-b6c0-0dfe3b549610",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Blanco”, en la comuna de Curacautín, ha alcanzado el umbral de Alerta Roja.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, <span style=\"color:black\">que supone un aumento del riesgo asociado a dicha variable </span>la Delegación Presidencial Regional de La Araucanía, en coordinación con la Dirección Regional del SENAPRED, <strong>declara Alerta Roja por amenaza de desborde para la comuna Curacautín</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento.</span></p><p style=\"text-align:justify\">Cabe mencionar, que se mantiene vigente la Alerta Roja para la comuna de Renaico por amenaza de desborde y Alerta Amarilla para la comuna de Collipulli por amenaza de desborde.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

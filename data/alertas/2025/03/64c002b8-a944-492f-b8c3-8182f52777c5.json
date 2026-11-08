@@ -1,0 +1,20 @@
+{
+	"id": "64c002b8-a944-492f-b8c3-8182f52777c5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Provincia de Palena y las comunas de Puerto Montt, Calbuco y Cochamó por precipitaciones",
+	"fechaHora": "2025-03-05T19:07:00.000-03:00",
+	"createdAt": "2025-03-05T22:11:08.778Z",
+	"updatedAt": "2025-03-06T16:19:38.992Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-palena-y-las-comunas-de-puerto-montt-calbuco-y-cochamo-en-la-provincia-de-llanquihue-por-precipitaciones",
+	"parentId": "a592cfe9-a884-4758-87c0-ff2b62a3c64c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por la Dirección Regional de SENAPRED Los Lagos, se informa que debido a las precipitaciones que se esperan para la Provincia de Palena y las comunas de Calbuco, Cochamó y Puerto Montt, se suspenderán preventivamente las clases para todo tipo de establecimiento educacional en las comunas de Chaitén y Hualaihue durante la jornada del día 06 de marzo.</p><p style=\"text-align:justify\">Cabe mencionar que, al momento no se han reportado personas lesionadas o damnificados producto de este evento.</p><p style=\"text-align:justify\">Finalmente, según lo reportado por la Dirección General de Aguas (DGA) con información de las 19:00 horas, todas las estaciones de monitoreo a nivel regional registran sus caudales en rangos normales <strong>(verde)</strong>.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla para la Provincia de Palena y las comunas de Puerto Montt, Calbuco y Cochamó en la Provincia de Llanquihue por precipitaciones</strong>, la que se mantiene vigente desde el 05 de marzo y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\">Durante la presente jornada de hoy 05 de marzo a las 15:00 horas se realizó una mesa técnica de evaluación para coordinar cursos de acción ante el evento.</p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que la Región de Los Lagos mantiene desde el 01 de marzo de 2025 Alerta Temprana Preventiva regional por Evento Meteorológico.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "454bb296-af19-4fe3-ac64-6705ab2534c5"
+}

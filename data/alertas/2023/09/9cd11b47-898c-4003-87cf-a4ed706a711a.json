@@ -1,0 +1,20 @@
+{
+	"id": "9cd11b47-898c-4003-87cf-a4ed706a711a",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la provincia de Los Andes por evento meteorológico",
+	"fechaHora": "2023-09-10T16:15:00.000-03:00",
+	"createdAt": "2023-09-10T19:31:53.918Z",
+	"updatedAt": "2023-09-10T19:31:53.918Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-provincia-de-los-andes-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Los Andes\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos técnicos para la Región de Valparaíso:<br></p><table><tbody><tr><td><div><strong>Aviso A352-1</strong></div></td><td><div><strong>Viento normal a moderado</strong> en cordillera, durante el domingo 10 de septiembre.</div></td></tr><tr><td><div><strong>Aviso A357-4</strong></div></td><td><div><strong>Probables tormentas eléctricas</strong> en los sectores de cordillera de la costa, precordillera, valles precordilleranos y cordillera, entre la tarde del domingo 10 y la madrugada del lunes 11 de septiembre.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva </strong>para la provincia de Los Andes, por evento meteorológico, que se encuentra vigente desde el 05 de septiembre y hasta que las condiciones del evento así lo ameriten.</p><p>La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p><em><strong>SENAPRED&nbsp;</strong>recomienda a la población informarse sobre las condiciones del tiempo; revisar y limpiar el techo y canaletas de las viviendas; mantener las vías de evacuación de aguas lluvias libres de tierra y desperdicios; evitar transitar a pie o en vehículos por zonas o caminos anegados; y evitar internarse en zonas montañosas, ríos, lagos y mar, especialmente cuando las condiciones meteorológicas sean desfavorables.Además,&nbsp;alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento; y&nbsp;evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles en caso de tormenta eléctrica. </em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

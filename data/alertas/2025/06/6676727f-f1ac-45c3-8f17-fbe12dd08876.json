@@ -1,0 +1,20 @@
+{
+	"id": "6676727f-f1ac-45c3-8f17-fbe12dd08876",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Arauco por crecida",
+	"fechaHora": "2025-06-15T00:41:49.4949-04:00",
+	"createdAt": "2025-06-15T04:43:18.494Z",
+	"updatedAt": "2025-06-15T15:33:09.046Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida",
+	"parentId": "631808e3-6525-4e5b-b5c1-c97d9d54964a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), la estación de la red fluviométrica del Río Pichilo, ubicada en la comuna de Arauco, se encuentra en nivel de alerta amarilla y presenta una tendencia al alza.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">A lo anterior, se suma la Alarma Meteorológica AAA4-2/2025 emitida por la Dirección Meteorológica de Chile (DMC), que pronostica precipitaciones intensas en corto periodo de tiempo para la zona, lo cual, considerando el comportamiento histórico del Río Pichilo durante eventos meteorológicos anteriores, podría significar el aumento del riesgo asociado a crecidas o consecuentes desbordes.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe destacar que, a las 00:07 horas de hoy, se envió mensajería SAE para la comuna por crecida del Río Pichilo.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la comuna de Arauco por crecida</strong>, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta alerta, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

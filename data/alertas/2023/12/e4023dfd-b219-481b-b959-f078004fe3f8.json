@@ -1,0 +1,20 @@
+{
+	"id": "e4023dfd-b219-481b-b959-f078004fe3f8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Antofagasta por alteración del suministro de agua potable",
+	"fechaHora": "2023-12-06T17:55:00.000-03:00",
+	"createdAt": "2023-12-06T20:59:06.942Z",
+	"updatedAt": "2023-12-27T17:46:15.265Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-antofagasta-por-alteracion-del-suministro-de-agua-potable",
+	"parentId": "c9c636c3-3168-49e4-86aa-4b4b60ae6d7c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">Según la información proporcionada por la Dirección Regional del SENAPRED Antofagasta</span></strong><span style=\"color: black\">, respecto al </span><strong>corte en el servicio de suministro de agua potable en la comuna de Antofagasta</strong><span style=\"color: black\">, se informa que </span><strong>permanecen afectados alrededor de 66.000 clientes</strong><span style=\"color: black\">.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante la mañana de hoy, la empresa Aguas Antofagasta informó el <strong>inicio de la reposición del suministro para 4 sectores afectados, con un aproximado de 5.235 clientes</strong>.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En atención a esta situación y en virtud de las facultades que le confiere la legislación vigente, la <strong>Secretaría Ministerial Regional de Salud</strong>, <strong>ha resuelto declarar a la comuna de Antofagasta como “Zona de Riesgo Sanitario”</strong>, debido a la falta de abastecimiento de agua potable a la población.</span></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por alteración del suministro de agua potable para la comuna de Antofagasta</strong>, que se encuentra vigente desde el 05 de diciembre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Cabe señalar, que la Dirección Regional del SENAPRED Antofagasta, <strong>mantiene la Emergencia para la comuna de Antofagasta por alteración del suministro de agua potable</strong>, vigente desde hoy 06 de diciembre.</p><p style=\"text-align:justify\"><strong><span style=\"color:black\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CURSOS DE ACCIÓN:</span></strong></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento, la empresa Aguas Antofagasta <strong>mantiene 93 puntos de abastecimiento alternativos</strong> de agua potable, los que funcionan de manera dinámica en distintos sectores de la comuna. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">A fin de llevar el registro, control y coordinación de los trabajos en torno a la entrega de agua y puntos de reparto dispuestos, se ha dispuesto la <strong>conformación de un Puesto de Mando</strong>, integrado por entidades públicas, privadas, Fuerzas Armadas (FF.AA) y SENAPRED.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, la <strong>empresa sanitaria permanece trabajando</strong> en la reparación de la falla y pronta reposición del servicio.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que <strong>se mantienen suspendidas las clases en todos los niveles educacionales</strong>.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "ce70d6fb-262a-4ad5-92e9-0f5736424d6f"
+}

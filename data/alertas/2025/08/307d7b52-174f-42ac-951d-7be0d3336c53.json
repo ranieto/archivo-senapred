@@ -1,0 +1,20 @@
+{
+	"id": "307d7b52-174f-42ac-951d-7be0d3336c53",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Tarapacá por evento masivo",
+	"fechaHora": "2025-08-12T06:20:58.5858-04:00",
+	"createdAt": "2025-08-12T10:22:22.903Z",
+	"updatedAt": "2025-08-12T10:23:35.440Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-masivo-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Tarapacá</strong>, ha disminuido la cantidad de asistentes al evento masivo denominado “fiesta religiosa del Pueblo de Tarapacá”, lo que supone una reducción del riesgo asociado a esta variable.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Tarapacá, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo</strong>, que se mantuvo vigente desde el 5 de agosto de 2025. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

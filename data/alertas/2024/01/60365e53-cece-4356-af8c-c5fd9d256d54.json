@@ -1,0 +1,20 @@
+{
+	"id": "60365e53-cece-4356-af8c-c5fd9d256d54",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Lonquimay por incendio forestal ",
+	"fechaHora": "2024-01-22T23:44:00.000-03:00",
+	"createdAt": "2024-01-23T02:51:53.273Z",
+	"updatedAt": "2024-02-27T00:39:26.078Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lonquimay-por-incendio-forestal-2",
+	"parentId": "9a5f9ccd-474d-49cb-a8e3-003feedd42eb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Lonquimay\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<table></table><p><br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta ˊRoja para la Comuna de Lonquimay, por incendio forestal, que se encuentra vigente desde el 20 de enero de 2024.<br></p><p><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>R.N Nalcas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectárea</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Desde las 18:20 horas de hoy, se registra incendio forestal   ”R.N. Nalcas” que amenaza a la Reserva Nacional Nalcas. El incendio se   encuentra activo en todos sus sectores con intensidad media.</span></p></td></tr></tbody></table><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>La Fusta</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Bajo observación </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.5 hectárea</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Pino Hachado 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectárea</p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

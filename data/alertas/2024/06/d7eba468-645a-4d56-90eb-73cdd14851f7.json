@@ -1,0 +1,20 @@
+{
+	"id": "d7eba468-645a-4d56-90eb-73cdd14851f7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Coihueco por crecida ",
+	"fechaHora": "2024-06-06T08:25:33.3333-04:00",
+	"createdAt": "2024-06-06T12:26:36.523Z",
+	"updatedAt": "2024-06-06T12:26:57.857Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-coihueco-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación de red hidrométrica “Río Niblinto antes Bocatoma Canal Alimentador Embalse Coihueco”, de la comuna del mismo nombre, presenta niveles de caudal por debajo del umbral de alerta amarilla.<br></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por crecida para la comuna de Coihueco</strong>, que se mantuvo vigente durante hoy 06 de junio de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

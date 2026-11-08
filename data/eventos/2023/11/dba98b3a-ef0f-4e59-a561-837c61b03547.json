@@ -1,0 +1,19 @@
+{
+	"id": "dba98b3a-ef0f-4e59-a561-837c61b03547",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2023-11-20T23:12:32.3232-03:00",
+	"createdAt": "2023-11-21T02:14:15.453Z",
+	"updatedAt": "2023-11-21T02:14:15.453Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-14",
+	"parentId": "4b353ead-51ee-4974-b20d-c2ba31f69ebb",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad fue percibido a las 22:52 horas en la Región de Atacama.<br></p><p>Las intensidades en Escala de Mercalli son:</p><p><br></p><p>Región: Atacama </p><p>Alto del Carmen: III</p><p>Vallenar: III</p><p><br></p><p>No se reportan daños a personas, ni alteración a servicios básicos o infraestructura producto de este sismo.</p><p>Centro Sismológico Nacional indica que la magnitud del sismo fue 3.4, localizado 10 Km al Este de Alto del Carmen</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

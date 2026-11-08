@@ -1,0 +1,20 @@
+{
+	"id": "9f9a3f19-33ad-46a0-83a9-4fbec63e0a5e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2023-10-01T17:12:00.000-03:00",
+	"createdAt": "2023-10-01T21:12:46.030Z",
+	"updatedAt": "2023-10-26T02:54:21.417Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento",
+	"parentId": "1e8eac02-a079-4b12-bd36-98d038f1f254",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente Aviso Meteorológico para la Región de Magallanes:<br><br>Aviso A393\tViento normal a moderado en las zonas Cordillera Austral Sur, Insular Central y Pampa Patagónica Sur, entre la madrugada y noche del miércoles 04 de octubre.<br><br>Por su parte, el Centro Meteorológico Regional Austral, mediante su Pronóstico Especial indica que la dirección y velocidad (km/h) esperadas son las siguientes:<br>Sector\tComuna\tMiércoles 04<br>Insular central\tPunta Arenas\tNoroeste 70 – 100 <br>Cordillera Sur\tRío Verde\tNoroeste – oeste 70 – 90<br>\tPunta Arenas\tNoroeste – oeste 60 – 90 <br>Pampa Patagónica Sur\tLaguna Blanca\tNoroeste – oeste 70 – 100<br>\tRío Verde\tNoroeste – oeste 70 - 100<br>\tPunta Arenas\tNoroeste – oeste 60 – 90 <br>\tSan Gregorio\tNoroeste – oeste 60 – 90<br>\tPrimavera\tNoroeste – oeste 70 – 90 <br>\tPorvenir\tNoroeste – oeste 60 – 80 <br>\tTimaukel\tOeste 60 – 80 <br><br>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego, por viento, vigente desde hoy y hasta que las condiciones así lo ameriten.<br><br>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

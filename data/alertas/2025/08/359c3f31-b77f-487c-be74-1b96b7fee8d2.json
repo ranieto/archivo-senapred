@@ -1,0 +1,20 @@
+{
+	"id": "359c3f31-b77f-487c-be74-1b96b7fee8d2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región del Maule por evento meteorológico",
+	"fechaHora": "2025-08-02T21:00:57.5757-04:00",
+	"createdAt": "2025-08-03T01:02:13.749Z",
+	"updatedAt": "2025-08-03T01:03:17.807Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-17",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> han sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A287-11</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en litoral y precordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A283-4</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en litoral, cordillera de la costa, valle, precordillera y   cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 295</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Nevadas   normales a moderadas en cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A290-9</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto   período de tiempo en litoral, cordillera de la costa y valle.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por evento meteorológico</strong>, que se mantuvo vigente desde el 28 de julio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "73628aca-d3b8-471b-b9e3-f89395de37b1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Talagante por incendio forestal",
+	"fechaHora": "2025-01-17T18:53:09.099-03:00",
+	"createdAt": "2025-01-17T21:53:55.909Z",
+	"updatedAt": "2025-01-17T23:55:21.664Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-talagante-por-incendio-forestal-2",
+	"parentId": "e0c438d4-3178-4be3-ac29-3e457fd877ff",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo <strong>con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;respecto del incendio forestal que se encuentra en la comuna de Talagante se reporta lo siguiente:</p><p style=\"text-align:justify\"></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">La   Vaquita</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">4.0   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El   incendio se desarrolla cercano a sectores habitados. Cabe señalar que las   brigadas enfocan su trabajo en el frente de avance.</p></td></tr></tbody></table><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Comuna de Talagante</strong>, por incendio forestal, que se encuentra vigente desde el 17 de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

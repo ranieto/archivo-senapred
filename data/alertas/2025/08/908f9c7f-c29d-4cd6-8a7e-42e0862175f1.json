@@ -1,0 +1,20 @@
+{
+	"id": "908f9c7f-c29d-4cd6-8a7e-42e0862175f1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de O'Higgins por heladas",
+	"fechaHora": "2025-08-24T11:12:58.5858-04:00",
+	"createdAt": "2025-08-24T15:13:54.084Z",
+	"updatedAt": "2025-08-24T15:14:12.584Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-17",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el siguiente alertamiento meteorológico para la Región de O’Higgins, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><div><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"color: black\">Aviso A322-3</span></p></td><td><p style=\"text-align: justify\"><span style=\"color: black\">Heladas normales a moderadas con probabilidad de formación de escarcha en cordillera de la costa, valle y precordillera.</span></p></td></tr></tbody></table></div><div>​<span style=\"color: rgb(0, 0, 0)\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED</span><strong>cancela la Alerta Temprana Preventiva Regional por heladas</strong><span style=\"color: rgb(0, 0, 0)\">,que se mantenía vigente desde el 19 de agosto de 2025.</span>​<br></div>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

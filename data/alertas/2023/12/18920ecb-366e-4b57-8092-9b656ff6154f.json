@@ -1,0 +1,20 @@
+{
+	"id": "18920ecb-366e-4b57-8092-9b656ff6154f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Arica y Parinacotapor tormentas eléctricas",
+	"fechaHora": "2023-12-18T17:32:37.3737-03:00",
+	"createdAt": "2023-12-18T20:33:18.319Z",
+	"updatedAt": "2023-12-18T20:34:44.085Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A457-2/2023, que pronosticó tormentas eléctricas con precipitaciones aisladas en el sector cordillerano de la Región de Arica y Parinacota. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional </strong>por tormentas eléctricas, que se encontraba vigente desde el 09 de diciembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

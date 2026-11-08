@@ -1,0 +1,20 @@
+{
+	"id": "dfbef492-bde2-426f-9d85-00975c802ae7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2023-11-26T16:31:00.000-03:00",
+	"createdAt": "2023-11-26T19:42:31.478Z",
+	"updatedAt": "2023-11-26T19:43:46.245Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados tanto la Alerta AA80/2023 como el Aviso A447-1/2023, los cuales pronosticaron viento de variada intensidad en la Región de Magallanes y de la Antártica Chilena.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong>, para las provincias de Magallanes y Tierra del Fuego, por viento, que se encontraba vigente desde el 21 de noviembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

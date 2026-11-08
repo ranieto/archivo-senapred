@@ -1,0 +1,20 @@
+{
+	"id": "601bb8ef-86d3-4d75-897a-92807c4e629d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región del Maule por evento meteorológico",
+	"fechaHora": "2023-09-10T19:06:00.000-03:00",
+	"createdAt": "2023-09-10T22:23:13.009Z",
+	"updatedAt": "2023-10-26T01:37:58.405Z",
+	"urlAccess": "se-actualiza-alerta-roja-para-la-region-del-maule-por-evento-meteorologico",
+	"parentId": "949b0e00-5f2a-49c0-a0a4-f57cadb06175",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maul</strong>e, debido a las precipitaciones registradas en la región, se indica que se encuentra con daños en evaluación la 3ra Compañía del Cuerpo de Bomberos de Cauquenes. Se encuentran trabajando en el lugar los equipos de emergencia.</p><p>Adicionalmente, se reporta 1 vivienda (segunda residencia) con daños en evaluación producto de una remoción en masa registrada en el sector Curanipe, Villa Lourdes en la comuna de Pelluhue.</p><p>En consideración a estos antecedentes y en coordinacion con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja regional </strong>por evento meteorológico, que se encuentra vigente desde el 20 de agosto y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "19420143-79a2-4715-b6c1-985931c5f297",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2024-06-12T15:56:00.000-04:00",
+	"createdAt": "2024-06-12T20:08:33.216Z",
+	"updatedAt": "2024-06-20T16:48:41.139Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-provincias-de-arauco-y-concepcion-por-desborde",
+	"parentId": "d2c639c8-56f8-470e-9b5d-5a5758cb5c16",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío</strong>, debido a una remoción en masa, fue evacuada preventivamente la calle Patricio Lynch en el&nbsp; cerro David Fuentes, comuna de Talcahuano, proceso reforzado mediante mensajería SAE a las 15:04 horas.<br></p><p style=\"text-align:justify\">Adicionalmente, por desborde de los esteros Curali, Huane, San Juan, Hidihue, Tricauco, Chacay, Agua Larga y Paso Hondo en la comuna de Santa Juana, fueron evacuados preventivamente los sectores Curali, Pajal, Chacay, Camino Viejo y Paso Hondo, complementado con mensajes SAE a las 15:16 horas.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Roja Regional por evento meteorológico</strong>, <span style=\"color:black\">que se mantiene vigente desde el 11 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\">Cabe mencionar, que se mantienen vigentes la Alerta Roja para las provincias de Arauco y Concepción por desborde y la Alerta Amarilla regional por amenaza de desborde.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "979730b7-be58-42d5-8093-9260453967b0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región del Maule por calor intenso",
+	"fechaHora": "2026-01-30T08:58:47.4747-03:00",
+	"createdAt": "2026-01-30T12:00:14.209Z",
+	"updatedAt": "2026-01-30T12:01:08.036Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-calor-intenso-2026-01-26-15-07-39",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Alertamiento cancelado</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Alerta AA24</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Evento de   altas temperaturas extremas en cordillera de la costa, valle y precordillera.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por calor intenso</strong>, la cual se mantuvo vigente desde el 26 de enero del 2026.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Cabe señalar que se mantiene vigente la Alerta Temprana Preventiva por calor entre las regiones de Arica y Parinacota y Los Lagos, vigente desde el 02 de noviembre de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

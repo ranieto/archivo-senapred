@@ -1,0 +1,20 @@
+{
+	"id": "b6d1c1b4-0518-4ea3-b2d5-a7b647a6f2e8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la región de Los Lagos por precipitaciones",
+	"fechaHora": "2025-08-24T15:30:56.5656-04:00",
+	"createdAt": "2025-08-24T19:32:38.092Z",
+	"updatedAt": "2025-08-26T18:52:40.395Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-17",
+	"parentId": "d1916114-b4a0-4c07-b306-7ec8db9318fd",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos</span></strong><span style=\"color: black\">, producto del evento meteorológico que se desarrolló en la región, se han reportado las siguientes novedades:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Comuna</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Novedades relevantes</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Chaitén</p></td><td><p style=\"text-align:justify\">Tránsito vehicular   interrumpido por desborde de estero, en el kilómetro 180 de la Ruta 7, sector   Caleta Gonzalo. Además, se encuentra con tránsito vehicular regulado por   Carabineros la Ruta 7 en el sector Puente Yelcho.</p></td></tr><tr><td><p style=\"text-align:center\">Puerto   Varas</p></td><td><p style=\"text-align:justify\">Tránsito vehicular   interrumpido por desborde de los ríos Blanco y Hueñu Hueñu en el kilómetro   5,5 de la Ruta V-69.</p></td></tr><tr><td><p style=\"text-align:center\">Maullín</p></td><td><p style=\"text-align:justify\">Tránsito vehicular   interrumpido por desprendimiento de material, en el kilómetro 50 de la Ruta   V-860, sector Olmopulli.</p></td></tr><tr><td><p style=\"text-align:center\">Hualaihué   </p></td><td><p style=\"text-align:justify\">Tránsito vehicular   suspendido por daños en puente en la Ruta W-609, sector Contao - La Poza.</p></td></tr><tr><td><p style=\"text-align:center\">Puyehue</p></td><td><p style=\"text-align:justify\">Tránsito vehicular   interrumpido por desprendimiento de material en el kilómetro 9 de la Ruta   U-485.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva </strong></span><strong><span style=\"color:black\">Regional </span><span style=\"color:black\">por precipitaciones</span></strong><span style=\"color:black\">,que se encuentra vigente desde el 19 de agosto y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7ded0ea7-bdcc-4c4c-9140-464b2c2963f0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por evento zoosanitario",
+	"fechaHora": "2023-03-29T19:19:00.000-03:00",
+	"createdAt": "2023-10-25T23:01:19.557Z",
+	"updatedAt": "2023-10-25T23:01:19.557Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><strong>De acuerdo con los antecedentes proporcionados por el</strong><strong>Servicio Agrícola y Ganadero (SAG)</strong>, mediante la resolución exenta N°7192 del 9 de diciembre de 2022, fue declarada Emergencia Zoosanitaria por la detección del virus H5N1 “Influenza Aviar” de alta patogenicidad en aves acuáticas silvestres y activa al SAG más lo indicado por SERNAPESCA a través de la resolución exenta N°387 de 2023, que declara emergencia por influencia aviar y la resolución exenta N° 632/2023 que indica la vigilancia activa, en la Región de Valparaíso.</p><p style=\"text-align: justify\">Por otra parte, el<strong>Ministerio de Salud (MINSAL)</strong>, mediante su Orden N°5678 del 09 de diciembre 2022, informa el hallazgo de influenza aviar en aves silvestres y considera reforzar la vigilancia epidemiológica en las personas y el tratamiento en casos de estudios; reforzar la vigilancia ambiental; y aplicar medidas de prevención y control a toda la red de vigilancia epidemiológica.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED,<strong>declara Alerta Temprana Preventiva Regional</strong>, por evento zoosanitario, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

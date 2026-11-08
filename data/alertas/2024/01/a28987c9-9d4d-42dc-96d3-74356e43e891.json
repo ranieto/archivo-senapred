@@ -1,0 +1,20 @@
+{
+	"id": "a28987c9-9d4d-42dc-96d3-74356e43e891",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Torres del Paine, Laguna Blanca, Río Verde, San Gregorio y Primavera por viento",
+	"fechaHora": "2024-01-24T23:11:00.000-03:00",
+	"createdAt": "2024-01-24T03:45:54.977Z",
+	"updatedAt": "2024-01-24T03:46:16.470Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-torres-del-paine-laguna-blanca-rio-verde-san-gregorio-y-primavera-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego, Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Primavera, San Gregorio, Laguna Blanca, Torres del Paine, Río Verde\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el Aviso Meteorológico A16/2024 que pronosticó viento normal a moderado en zonas de la Región de Magallanes y de la Antártica Chilena. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span><br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, la Dirección Regional del SENAPRED Magallanes y en coordinación con la Delegación Presidencial Regional,<strong>cancela la Alerta Temprana Preventiva para las comunas de Torres del Paine, Laguna Blanca, Río Verde, San Gregorio y Primavera por&nbsp;</strong></span><strong><span style=\"color: black\">viento</span></strong><span style=\"color: black\">, que se encontraba vigente desde el 22 de enero de 2024.</span></p><div><br></div>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

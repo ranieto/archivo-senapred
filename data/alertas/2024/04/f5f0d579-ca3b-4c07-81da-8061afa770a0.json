@@ -1,0 +1,20 @@
+{
+	"id": "f5f0d579-ca3b-4c07-81da-8061afa770a0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia del Tamarugal por viento",
+	"fechaHora": "2024-04-16T00:40:00.000-04:00",
+	"createdAt": "2024-04-16T04:40:59.656Z",
+	"updatedAt": "2024-04-16T04:41:31.260Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Tarapacá, debido al debilitamiento de las condiciones que lo originaron.<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA21-2</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con desarrollo de tormentas de arena, en cordillera de la   región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva </strong>para la provincia del Tamarugal por viento, que se encontrabavigente desde el 14 de abril de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

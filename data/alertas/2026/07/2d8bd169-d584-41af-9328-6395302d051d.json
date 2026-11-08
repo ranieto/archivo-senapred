@@ -1,0 +1,20 @@
+{
+	"id": "2d8bd169-d584-41af-9328-6395302d051d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta  Temprana Preventiva para la Región del Maule por heladas",
+	"fechaHora": "2026-07-06T13:20:46.4646-04:00",
+	"createdAt": "2026-07-06T17:21:52.969Z",
+	"updatedAt": "2026-07-06T17:22:01.680Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-heladas-2026-07-05-13-20-55",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso A300/2026, el cual pronosticaba heladas normales a moderadas en cordillera de la costa y valle de la Región de Maule. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por Heladas</strong>, la cual se mantuvo vigente desde el 05 de julio de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "45b25874-0598-4eba-9fc2-1acd3b7ed404",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Puerto Montt por desborde y cancela Alerta Amarilla por crecida",
+	"fechaHora": "2025-08-24T19:12:04.044-04:00",
+	"createdAt": "2025-08-24T23:13:59.175Z",
+	"updatedAt": "2025-08-26T19:04:04.553Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-crecida-2",
+	"parentId": "f1c5ef6b-00aa-4010-bcd0-2c59ac31458b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA</span></strong><span style=\"color: black\">), en sus estaciones hidrométricas monitoreadas en línea, se indica que la estación </span>“Río Lenca Bajo Bocatoma”<span style=\"color: black\">ubicada en la comuna de Puerto Montt, ha aumentado su umbral de alerta técnica a roja, el cual, si continúa aumentando el caudal, podría ocasionar afectación a personas y daños en infraestructuras de la comuna</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Puerto Montt por crecida, que se mantuvo vigente desde hoy 24 de agosto de 2025 y <strong>declara Alerta Roja para la comuna de Puerto Montt por desborde,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "3efd1f6a-289d-447d-a635-3d4d72ffeb0b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Quilpué por incendio forestal",
+	"fechaHora": "2024-01-12T08:44:00.000-03:00",
+	"createdAt": "2024-01-12T12:13:03.941Z",
+	"updatedAt": "2024-01-16T13:58:13.949Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quilpue-por-incendio-forestal",
+	"parentId": "6b46843e-62f3-40db-b9d0-498cbdf6fb52",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Quilpué\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>respecto al incendio forestal en la comuna de Quilpué, se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:16px\">Los Yuyos</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">76.3 hectáreas</span></p></td></tr></tbody></table><p><br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Quilpué, por incendio forestal, que se encuentra vigente desde el 10 de enero de 2024.</p><p style=\"margin-right:-54.25pt;margin-left:21.3pt\">- Activación preventiva de Comité de Provincial y Comunal de Gestión de Riesgo y Desastre de Emergencia, ˊ</p><p style=\"margin-right:-54.25pt;margin-left:21.3pt\">&nbsp; &nbsp;puesta a punto de Enlaces de coordinación y Planificación de Operaciones de Emergencia. ˊ</p><p style=\"margin-right:-54.25pt;margin-left:21.3pt\">- Efectiva información a la comunidad. ˊ</p><p style=\"margin-right:-54.25pt;margin-left:21.3pt\">- Las maquinarias entregadas en Comodato por SENAPRED a los Municipios deberán estar preparadas y con ˊ</p><p style=\"margin-right:-54.25pt;margin-left:21.3pt\">&nbsp; conductores de turno, ante la eventualidad de que deban desplazarse en la Región debido a una situación de ˊ</p><p style=\"margin-right:-54.25pt;margin-left:21.3pt\">&nbsp; emergencia</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

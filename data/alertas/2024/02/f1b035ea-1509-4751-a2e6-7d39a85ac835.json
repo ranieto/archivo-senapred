@@ -1,0 +1,20 @@
+{
+	"id": "f1b035ea-1509-4751-a2e6-7d39a85ac835",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Melipilla por incendio forestal",
+	"fechaHora": "2024-02-05T19:45:00.000-03:00",
+	"createdAt": "2024-02-05T23:40:36.001Z",
+	"updatedAt": "2024-02-05T23:41:35.882Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-melipilla-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con lo informado por el Departamento de Protección contra Incendios Forestales de CONAF</strong>, extinguidos se encuentran los incendios forestales Quilamuta 2 y San Vicente, los cuales consumieron una superficie de 560 y 622 hectáreas respectivamente. Lo anterior, genera una liberación de recursos disponibles para el combate de incendios forestales.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Provincia de Melipilla, por incendio forestal, que se mantuvo vigente desde el 03 de febrero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

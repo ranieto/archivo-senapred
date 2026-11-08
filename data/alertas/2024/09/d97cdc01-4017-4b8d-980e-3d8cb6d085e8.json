@@ -1,0 +1,20 @@
+{
+	"id": "d97cdc01-4017-4b8d-980e-3d8cb6d085e8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del del Carmen por altas temperaturas",
+	"fechaHora": "2024-09-05T18:18:00.000-04:00",
+	"createdAt": "2024-09-05T22:22:25.648Z",
+	"updatedAt": "2024-09-05T22:23:24.310Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-y-vallenar-por-altas-temperaturas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó, Chañaral, Huasco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Copiapó, Diego de Almagro, Tierra Amarilla, Vallenar, Alto del Carmen\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) </strong>ha sido cancelado el Aviso Meteorológico A322-1/2024, que pronosticó un evento de altas temperaturas en los sectores de Pampa y Precordillera de la Región de Atacama, esto debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva por altas temperaturas para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen</strong>,que se mantuvo vigente desde el 03 de septiembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

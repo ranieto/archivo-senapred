@@ -1,0 +1,20 @@
+{
+	"id": "ab8648db-4fa2-4b66-9154-aff03717953c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Villa Alemana por incendio forestal",
+	"fechaHora": "2023-12-20T19:27:00.000-03:00",
+	"createdAt": "2023-12-20T22:29:06.476Z",
+	"updatedAt": "2023-12-21T11:56:58.560Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-villa-alemana-por-incendio-forestal",
+	"parentId": "e9f03a61-8a3a-4a79-a02b-0c7a9b989219",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Villa Alemana\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, con relación al incendio forestal que se desarrolla en la comuna de Villa Alemana, se informa lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cerro   La Virgen.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3   hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">7   brigadas, 2 camiones aljibe, 3 aviones y 2 helicópteros de CONAF, junto a   Bomberos de Villa Alemana y Quilpué; y personal municipal con el apoyo de 2   camiones aljibe.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja y declara Alerta Amarilla por incendio forestal para la comuna de Villa Alemana</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

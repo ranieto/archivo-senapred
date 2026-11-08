@@ -1,0 +1,19 @@
+{
+	"id": "7d282993-bf9f-411a-8567-2f5792946cf1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de O’Higgins y Maule",
+	"fechaHora": "2024-01-11T14:33:29.2929-03:00",
+	"createdAt": "2024-01-11T17:33:54.683Z",
+	"updatedAt": "2024-01-11T17:39:01.743Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-ohiggins-y-maule",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 14:30 horas en las regiones de O’Higgins y Maule.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>La   Estrella: </p></td><td><p>III</p></td></tr><tr><td><p>Navidad:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Talca:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

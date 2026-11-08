@@ -1,0 +1,20 @@
+{
+	"id": "bc2a2944-0dbe-434b-a6b4-9cc672250ba0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Collipulli por crecida",
+	"fechaHora": "2025-07-31T22:46:51.5151-04:00",
+	"createdAt": "2025-08-01T02:47:45.287Z",
+	"updatedAt": "2025-08-01T12:41:41.428Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-collipulli-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por la Dirección General de Aguas (DGA), mediante su sistema de reporte en línea de las estaciones hidrométricas, se indica que la estación del “Río Mininco en Longitudinal”, se encuentra en el <strong>umbral de alerta azul</strong>, con tendencia a la baja en su caudal.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED La Araucanía en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Amarilla para la comuna de Collipulli por crecida, </strong>que se mantuvo vigente desde el 31 de julio de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

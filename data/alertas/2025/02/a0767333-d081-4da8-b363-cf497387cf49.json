@@ -1,0 +1,20 @@
+{
+	"id": "a0767333-d081-4da8-b363-cf497387cf49",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por tormentas eléctricas",
+	"fechaHora": "2025-02-19T10:11:04.044-03:00",
+	"createdAt": "2025-02-19T13:13:51.231Z",
+	"updatedAt": "2025-02-19T13:15:07.664Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-por-tormentas-electricas-para-la-provincia-de-isla-de-pascua",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Valparaíso:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA-17</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas por inestabilidad atmosférica para la tarde y noche en Isla de   Pascua.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por tormentas eléctricas para la Provincia de Isla de Pascua, </strong>que se encontraba vigente desde el 18 de febrero.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "1c984c48-98f4-47cf-b0ac-202ed1367831",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Ñiquén por incendio forestal",
+	"fechaHora": "2024-12-25T19:32:30.3030-03:00",
+	"createdAt": "2024-12-25T22:35:54.279Z",
+	"updatedAt": "2024-12-25T22:37:20.359Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-iquen-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para la comuna de Ñiquén con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF, que señala lo siguiente:</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Fundo Aline</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Ñiquén (Fundo Aline)</div></td></tr><tr><td><div>Estado</div></td><td><div>Controlado y sin amenaza a viviendas.</div></td></tr><tr><td><div>Superficie</div></td><td><div>0,45 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>3 brigadas, 2 técnicos y 1 aeronave CONAF</div></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

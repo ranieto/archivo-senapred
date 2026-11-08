@@ -1,0 +1,20 @@
+{
+	"id": "62854c44-41c9-4b5e-bb62-498538907a36",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Arauco por desborde",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-09-24T12:22:28.322Z",
+	"updatedAt": "2026-09-24T12:24:50.664Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-2026-09-24-09-22-10",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica <strong>del “Río Pichilo en Pichilo”, </strong>ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando el umbral de <strong>ALERTA TÉCNICA ROJO</strong>.</p><p style=\"text-align: justify\">Cabe señalar, el umbral rojo establecido por la DGA señala un caudal que puede llegar a producir daños a sectores poblados e infraestructura, pudiendo según el caso, requerir acciones tales como evacuación, defensas, disponibilidad, y recursos humanos, maquinarias y equipos.</p><p style=\"text-align: justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde para la comuna de Arauco</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

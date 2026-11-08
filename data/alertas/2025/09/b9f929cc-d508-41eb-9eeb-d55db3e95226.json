@@ -1,0 +1,20 @@
+{
+	"id": "b9f929cc-d508-41eb-9eeb-d55db3e95226",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Temprana Preventiva para la Región de La Araucanía por Evento Meteorológico",
+	"fechaHora": "2025-09-05T18:45:00.000-04:00",
+	"createdAt": "2025-09-05T23:52:10.355Z",
+	"updatedAt": "2025-09-10T14:07:03.046Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-20",
+	"parentId": "00102692-c28e-47de-be82-62ba957d87c1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A337</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado en litoral (40 y 60 con rachas de 70 km/h),   cordillera de la costa (40 y 60 con rachas de 70 km/h), y valle (entre 40 y   60 km/h) de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">09-09</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">09-09</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A338</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones normales a moderadas en litoral (40 y 60 mm),   cordillera de la costa (40 y 60 mm) y precordillera (50 y 70 mm) de la   región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">09-09</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">10-09</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>Declara Alerta Temprana Preventiva Regional por Evento Meteorológico, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

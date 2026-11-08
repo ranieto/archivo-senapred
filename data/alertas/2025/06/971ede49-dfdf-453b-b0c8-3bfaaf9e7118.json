@@ -1,0 +1,20 @@
+{
+	"id": "971ede49-dfdf-453b-b0c8-3bfaaf9e7118",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2025-06-16T15:50:00.000-04:00",
+	"createdAt": "2025-06-16T19:56:23.255Z",
+	"updatedAt": "2025-06-16T19:57:50.247Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha</p><p style=\"text-align:justify\">sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA44-3</p></td><td><p style=\"text-align:justify\">Nevadas moderadas a fuertes en corto periodo de tiempo con desarrollo de   ventisca en cordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, </span><span style=\"color:black\">la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 13 de junio de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9f3eadc3-2897-49b2-b5fa-008c62a6478f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Fresia por incendio forestal",
+	"fechaHora": "2024-01-27T21:25:00.000-03:00",
+	"createdAt": "2024-01-28T00:32:57.258Z",
+	"updatedAt": "2024-01-29T01:12:53.997Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-fresia-por-incendio-forestal",
+	"parentId": "522f47d2-1353-45f2-8538-2e4ebb860584",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Fresia\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>​<strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de Fresia, se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Esperanza</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>38,8 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal mantiene comportamiento extremo del fuego, propagación de fuego por copas, llama alta e inclinada, velocidad de propagación lineal alta y columna convectiva desarrollada con emisión de pavesas</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\">​</span><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>mantiene </strong></span><strong>Alerta Amarilla para la comuna de Fresia por incendio forestal</strong><span style=\"color: rgb(33, 37, 41)\">, que se encuentra vigente desde el 25 de enero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

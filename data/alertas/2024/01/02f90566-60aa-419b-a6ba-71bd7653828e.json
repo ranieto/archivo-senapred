@@ -1,0 +1,20 @@
+{
+	"id": "02f90566-60aa-419b-a6ba-71bd7653828e",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la comuna de Juan Fernández, por amenaza de incendios forestales",
+	"fechaHora": "2024-01-18T17:10:00.000-03:00",
+	"createdAt": "2024-01-18T20:48:40.841Z",
+	"updatedAt": "2024-02-02T23:22:29.159Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-amenaza-de-incendios-forestales",
+	"parentId": "694b1c1f-1d16-45d3-b177-c89a3cbfd139",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(46, 46, 46);font-size: 14px\"><strong>De acuerdo con el análisis de riesgo efectuado por CONAF,</strong> asociado a las condiciones de tiempo atmosférico y la condición del combustible de la región, señala que existe la condición de riesgo para la ignición y propagación de incendios forestales.</span><br></p><p><span style=\"font-size:14px;color:#2E2E2E\">Por otro lado, la Dirección Meteorológica de Chile (DMC), ha emitido los Avisos Meteorológicos A5-1/2024 y A11/2024 que pronostican un evento de altas temperaturas en diversos sectores de la región, entre los días 18 y 20 de enero y en Isla de Pascua, entre el sábado 20 y domingo 21 de enero.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED modifica la cobertura de la Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la comuna de Juan Fernández, por amenaza de incendios forestales, que se mantiene vigente desde el 16 de enero de 2024.</span><span style=\"font-size:12px;color:#212529\"><br><br></span><span style=\"font-size:14px;color:#2E2E2E\">La actualización de esta alerta, se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

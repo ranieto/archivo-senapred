@@ -1,0 +1,20 @@
+{
+	"id": "21a0b5ac-a3f0-4527-855b-db7a3113b1fc",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla y cancela Alerta Roja para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2024-08-06T13:34:24.2424-04:00",
+	"createdAt": "2024-08-06T17:41:32.029Z",
+	"updatedAt": "2024-08-09T20:33:14.278Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-8",
+	"parentId": "972292dd-3792-4cb0-990d-8f4f4836f691",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC</strong>), han sido cancelados los alertamientos meteorológicos para la Región del Biobío, debido al debilitamiento de las condiciones imperantes, lo que ha reducido significativamente los factores de riesgo en la región.<br></p><p style=\"text-align:justify\">Sin embargo, según los antecedentes proporcionados por la Dirección Regional del SENAPRED Biobío, continúan los procesos de rehabilitación producto de la afectación del evento meteorológico, que generaron reportes de daños por desbordes de cauces, desprendimiento de techumbre, interrupciones de rutas por caída de árboles, caídas de postes de tendido eléctrico, interrupción de servicio de suministro eléctrico y servicios sanitarios rurales (SSR), daños en infraestructura agrícola, educacional y de salud y diversas remociones en masa en la región, proceso coordinado por SENAPRED, con diversos organismo técnicos, públicos y privados.</p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe destacar, que aún se mantiene la interrupción de los servicios de suministro de electricidad, agua potable y red de telefonía e internet en diversas comunas de la región; así como también los daños a infraestructura publica y privada, dentro de la que se incluyen establecimientos educacionales. &nbsp;</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED, <strong>declara Alerta Amarilla y cancela la Alerta Roja Regional por evento meteorológico, </strong>vigente desde hoy y hasta que las condiciones meteorológicas lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

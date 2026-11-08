@@ -1,0 +1,21 @@
+{
+	"id": "8aac281f-1314-40fd-924b-bf109f2d820d",
+	"type": "Alerta",
+	"titulo": "prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-22T14:37:41.099Z",
+	"updatedAt": "2023-09-23T10:07:50.627Z",
+	"urlAccess": "monitoreo-alerta-amarilla-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica",
+	"parentId": "f33c3500-bc28-433a-b82a-db3e12d51726",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Temuco\",\"regiones\":\"Región de la Araucanía, Región de los Ríos\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>prueba</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

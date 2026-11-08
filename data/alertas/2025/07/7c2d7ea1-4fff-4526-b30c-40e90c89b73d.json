@@ -1,0 +1,20 @@
+{
+	"id": "7c2d7ea1-4fff-4526-b30c-40e90c89b73d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Tarapacá por evento masivo",
+	"fechaHora": "2025-07-18T00:10:00.000-04:00",
+	"createdAt": "2025-07-18T04:18:30.541Z",
+	"updatedAt": "2025-07-18T04:20:02.854Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá, se registra el retiro de los asistentes al evento masivo “Fiesta religiosa del pueblo de La Tirana”, realizado en la comuna de Pozo Almonte. Lo anterior, supone una disminución del riesgo asociado a este evento masivo.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Tarapacá, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo</strong>, la cual se mantuvo vigente desde el 09 de julio de 2025. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4e4d8a91-7789-4c64-8cff-0cd1ae26c46b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2024-11-24T23:25:00.000-03:00",
+	"createdAt": "2024-11-25T02:27:48.863Z",
+	"updatedAt": "2024-11-26T14:23:09.647Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-santo-domingo-por-incendio-forestal-2",
+	"parentId": "b49ea24f-6f5d-496f-9adc-2075c5c2ff0f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;respecto al incendio forestal en la comuna de Santo Domingo se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Bucalemu</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">25 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Durante la presente jornada, CONAF junto a Bomberos,   trabajaron en el</p><p style=\"text-align:justify\">control de la propagación a viviendas, con brigadas de   herramientas,</p><p style=\"text-align:justify\">líneas de agua y lanzamientos desde aeronaves. La   planificación para</p><p style=\"text-align:justify\">mañana lunes 25 de noviembre indica; 1 Jefe de Incendio, 5   Brigadas y 1</p><p style=\"text-align:justify\">helicóptero de CONAF, además de 1 helicóptero gestionado   por</p><p style=\"text-align:justify\">SENAPRED</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de Santo Domingo</strong>, por incendio forestal, que se encuentra vigente desde el 24 de noviembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

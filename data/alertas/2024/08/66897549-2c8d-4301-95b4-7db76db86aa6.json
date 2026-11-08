@@ -1,0 +1,20 @@
+{
+	"id": "66897549-2c8d-4301-95b4-7db76db86aa6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla por amenaza de desborde para la comuna de Renaico por amenaza de desborde",
+	"fechaHora": "2024-08-02T09:45:00.000-04:00",
+	"createdAt": "2024-08-02T17:07:35.746Z",
+	"updatedAt": "2024-08-04T02:33:16.761Z",
+	"urlAccess": "se-declara-alerta-amarilla-por-amenaza-de-desborde-para-la-comuna-de-renaico-por-amenaza-de-desborde",
+	"parentId": "99be91ea-5c1f-4f8b-bb07-c716b4880a92",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la <strong>Dirección General de Aguas</strong> (DGA), se indica que la estacióndel<strong> río Vergara en tijeral, comuna de Renaico</strong>, se encuentra <strong>en umbral amarillo</strong>, y de mantenerse la tendencia al aumento de caudal, podrían producirse daños en sectores poblados e infraestructura.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, <span style=\"color:black\">que supone un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por amenaza de desborde para la comuna de Renaico</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Además, con la declaración de la <strong>Alerta Amarilla</strong> se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

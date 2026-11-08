@@ -1,0 +1,20 @@
+{
+	"id": "8333c9a5-bd7d-409d-a017-81273a02ce87",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Toltén por remoción en masa",
+	"fechaHora": "2024-07-09T15:17:41.4141-04:00",
+	"createdAt": "2024-07-09T19:26:23.735Z",
+	"updatedAt": "2024-11-05T20:06:38.364Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-comuna-de-tolten-por-remocion-en-masa",
+	"parentId": "f8e82edd-7c26-4517-95d0-7e55348e4a19",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>La información proporcionada por la Dirección Regional del SENAPRED La Araucanía, respecto a la activación de quebradas y remociones en masa, además de la amenaza a viviendas e infraestructura crítica en diversos sectores de la localidad de Queule, comuna de Toltén; indica que el <strong>Servicio Nacional de Geología y Minería (SERNAGEOMIN)</strong> ha detallado que en la zona se presentan grietas de tiempo reciente y de larga data, las cuales debido a la mala condición de la actual red de evacuación de aguas lluvias, se presenta como un factor de peligro inminente de remoción en masa en distintos puntos de la localidad de Queule, siendo el más complejo el de la quebrada Rayén Lafken, donde se encuentra ubicado un establecimiento educacional del mismo nombre.<br>Cabe señalar que, se ha constatado una evidente intervención de laderas por parte de particulares producto de la extracción de madera en el lugar, además de la necesidad de un Plan Maestro de Aguas Lluvias.<br>Al momento, se han reportado 4 familias evacuadas del sector, de las cuales 1 se trasladó a una segunda residencia y las restantes serán ayudadas con subsidios de arriendo.<br>En consideración a estos antecedentes, la Dirección Regional del SENAPRED, en coordinación con la Delegación Presidencial Regional de La Araucanía, mantiene Alerta Roja para la comuna de Toltén por remoción en masa, vigente desde el 26 de junio y hasta que las condiciones así lo ameriten.<br>Del mismo modo, se mantiene vigente un Perímetro de Seguridad por amenaza de remoción en masa en la misma comuna, entre calle Blanco Encalada (Este), el deslinde con Cabañas Kechu Ruca (Oeste), Avenida Costanera (Norte) y calle posterior a Cuartel de Bomberos (Sur), en la localidad de Queule.</p><p><u>CURSOS DE ACCIÓN</u><br>Se han establecido mesas técnicas coordinadas por SENAPRED, a fin de generar acciones sectoriales definitivas de soluciones a largo plazo y también al establecimiento de acciones de mitigación inmediatas, como la limpieza de tuberías por parte del municipio con asesoría de la Dirección de Obras Hidráulicas (DOH), obras de emergencia para dar fluidez a las aguas que bajan desde el sector alto y el cese de utilización de un sector del Colegio Rayén Lafken, que se encuentra sobre la quebrada.<br>Del mismo modo, la DOH se encuentra evaluando la relación de aguas lluvias que bajan desde la quebrada, a fin de generar un informe que permita ayudar a la toma de decisiones.<br>Por otra parte, se encuentra en gestión con SERNAGEOMIN una evaluación técnica de la zona de Queule, como complemento a los antecedentes existentes.<br>Finalmente, durante la presente jornada se reunirá personal de la Municipalidad de Toltén y DOH a fin de evaluar la situación y los cursos de acción a seguir.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "d42d4bdb-4177-45c6-a2e2-7c7438b406d2"
+}

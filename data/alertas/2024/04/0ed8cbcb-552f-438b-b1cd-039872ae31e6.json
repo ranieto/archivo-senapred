@@ -1,0 +1,20 @@
+{
+	"id": "0ed8cbcb-552f-438b-b1cd-039872ae31e6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Villarrica por incendio forestal",
+	"fechaHora": "2024-04-13T17:06:00.000-04:00",
+	"createdAt": "2024-04-13T21:27:08.353Z",
+	"updatedAt": "2024-04-13T21:27:57.899Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-villarrica-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Villarrica\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,</span><span style=\"color: rgb(33, 37, 41)\">&nbsp;respecto al incendio forestal en la comuna de Villarrica, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>La Puntilla</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>4,2 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>2 brigadas de CONAF, 2 técnicos de CONAF, bomberos de Villarrica, 1 avión cisterna de CONAF,&nbsp;mientras que los siguientes recursos se encuentran en trayecto: 1 brigada de CONAF</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para la comuna de Villarrica por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 13 de abril de 2024.</span></p><p style=\"text-align:justify\"></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "2d874232-cca5-4f2d-a3fa-4892e9e15c4b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Talca por incendio forestal",
+	"fechaHora": "2026-01-16T19:44:22.2222-03:00",
+	"createdAt": "2026-01-16T22:44:59.886Z",
+	"updatedAt": "2026-01-17T03:13:01.076Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-talca-por-incendio-forestal-2026-01-16-17-54-41",
+	"parentId": "b20cb35f-8def-4535-927a-f0f1f5c6ee87",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de Talca se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Hoteleros</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos Talca; 6 brigadas y 2 técnicos de Conaf; 5   aeronaves, 1 camión aljibe, 1 skidder, 3 móviles de Carabineros y personal   UGRD Municipalidad de Talca</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a sectores poblados.</p></td></tr></tbody></table><p><br> En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Talca, por incendio forestal, que se encuentra vigente desde el 16 de enero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "75eec121-285a-4526-a19a-c14e7238b621",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Angol por incendio forestal",
+	"fechaHora": "2026-01-19T01:54:00.000-03:00",
+	"createdAt": "2026-01-19T05:17:28.267Z",
+	"updatedAt": "2026-03-10T21:21:08.164Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-angol-por-incendio-forestal-2026-01-18-18-49-59",
+	"parentId": "c954319e-c72f-4629-89ad-15dd50625dcb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Angol, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Alboyanco</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">80 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Cuerpo de bomberos de Angol, 5 brigadas   CONAF, 1 técnico CONAF y 4 Aviones cisternas CONAF.</p><p style=\"text-align:justify\">Programación de recursos para   el 19-01-2026: 1 técnico, 6 brigadas terrestres, 2 aviones cisternas y Bomberos   de Angol.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">1 Bodega (sin uso)</p></td></tr></tbody></table><p style=\"text-align:justify\">Mensajes SAE enviados:</p><p style=\"text-align:justify\">18-01-2026 23:32 horas sector Alboyanco.</p><p style=\"text-align:justify\">19-01-2026 00:18 horas sector Colonia Manuel Rodriguez.</p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Angol, por incendio forestal, que se encuentra vigente desde el 18 de enero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

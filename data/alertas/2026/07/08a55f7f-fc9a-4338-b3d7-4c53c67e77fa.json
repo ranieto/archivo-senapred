@@ -1,0 +1,20 @@
+{
+	"id": "08a55f7f-fc9a-4338-b3d7-4c53c67e77fa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-07-10T22:12:40.4040-04:00",
+	"createdAt": "2026-07-11T02:13:38.305Z",
+	"updatedAt": "2026-07-11T02:16:37.891Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-los-lagos-por-evento-meteorologico-2026-06-29-20-38-51",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), conforme a lo indicado en el Informe de Amenaza Meteorológica de la presente jornada, para los próximos días se pronostican vientos y precipitaciones que se mantendrán dentro de rangos débiles a normales.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Por otra parte, las estaciones hidrométricas de la Dirección General de Aguas (DGA), registran umbrales de caudal en nivel verde, con excepción de la estación Río Rahue en Forrahue, que se mantiene en nivel azul y tendencia sostenida a la baja.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico, </strong>que se mantenía vigente desde el 08 de julio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

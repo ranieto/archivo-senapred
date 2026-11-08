@@ -1,0 +1,20 @@
+{
+	"id": "e7d003b9-b1a6-44c6-9d15-54ce7262b997",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chiguayante por incendio forestal",
+	"fechaHora": "2024-12-04T11:33:16.1616-03:00",
+	"createdAt": "2024-12-04T14:39:41.072Z",
+	"updatedAt": "2024-12-04T14:40:21.236Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chiguayante-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La información proporcionada por la Corporación Nacional Forestal (CONAF) en relación al incendio Mirador Santa Justina, en la comuna de Chiguayanyte, indica lo siguiente:</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Mirador Santa Justina</div></td></tr><tr><td><div>Estado</div></td><td><div>Controlado</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>0,2 hectáreas</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para la comuna de Chiguayante por incendio forestal</strong>, vigente desde hoy.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

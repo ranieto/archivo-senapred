@@ -1,0 +1,20 @@
+{
+	"id": "25c40dbc-3c3f-4433-a060-0bb388c9be1d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-08-12T08:30:00.000-04:00",
+	"createdAt": "2026-08-12T12:38:49.214Z",
+	"updatedAt": "2026-08-12T12:40:04.736Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-2026-07-17-19-22-59",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se han cancelado los siguientes alertamientos meteorológicos para la región:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA127</p></td><td><p style=\"text-align:justify\">Heladas   moderadas a intensas en Patagonia Subandina.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A390-2</p></td><td><p style=\"text-align:justify\">Probables   nevadas con probabilidad de riesgo en el desplazamiento en Precordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A391-3</p></td><td><p style=\"text-align:justify\">Heladas   normales a moderadas con probabilidad de formación de escarcha en Patagonia   Subandina.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A397-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en precordillera y cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A408</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctrica en zonas de Cordillera de la Costa, Valle y   Precordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED<strong> Cancela la Alerta Temprana Preventiva Regional por evento meteorológico,</strong> que se mantuvo vigente desde el 17 de julio del 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

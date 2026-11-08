@@ -1,0 +1,20 @@
+{
+	"id": "fb784d75-e229-4529-aedd-9f1ba67ad78f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Ninhue por Incendio Forestal",
+	"fechaHora": "2024-12-13T19:52:00.000-03:00",
+	"createdAt": "2024-12-13T22:58:41.062Z",
+	"updatedAt": "2024-12-14T01:27:38.114Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ninhue-por-incendio-forestal",
+	"parentId": "ca5f2da9-00e1-4db9-b7a1-e95825c0b5ff",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Itata\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Ninhue\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Ninhue , sector Hualte, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Hualte </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\">Al momento de generar este informe, trabajan en el lugar del evento los siguientes recursos:</p><p style=\"text-align:justify\">4 Brigadas y 1 Puesto de Mando</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

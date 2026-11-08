@@ -1,0 +1,20 @@
+{
+	"id": "d59de72b-60ea-4cc1-9c0f-451b8a2ef68e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Porvenir por incendio forestal",
+	"fechaHora": "2023-10-25T18:26:00.000-03:00",
+	"createdAt": "2023-10-25T21:40:24.693Z",
+	"updatedAt": "2023-10-26T14:32:47.548Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-porvenir-por-incendio-forestal",
+	"parentId": "012345a8-8ffe-46ba-a200-3affd3608035",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Porvenir\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se reporta un incendio forestal en la comuna de Porvenir, según el siguiente detalle:</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Estancia Gemita II</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate</div></td></tr><tr><td><div><strong>Superficie</strong></div></td><td><div>0,01 hectáreas</div></td></tr><tr><td><div><strong>Fundamentación técnica</strong></div></td><td><p>Incendio forestal con comportamiento extremo; con una alta velocidad de propagación, intensidad en el frente de avance y longitud de llama.</p><p>Por otra parte, se hace necesario el reforzamiento de los recursos para el combate del incendio.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla </strong>para la comuna de Porvenir por incendio forestal, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p>Con la declaración de esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

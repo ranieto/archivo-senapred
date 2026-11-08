@@ -1,0 +1,20 @@
+{
+	"id": "8f2765b2-b10b-4d45-90db-d804b0193312",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por viento",
+	"fechaHora": "2024-08-24T10:22:36.3636-04:00",
+	"createdAt": "2024-08-24T14:24:28.638Z",
+	"updatedAt": "2024-08-24T14:25:46.434Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-excepto-la-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-evento-meteorologico-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Felipe de Aconcagua, Los Andes\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Valparaíso:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 310-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado en cordillera con probabilidad de   viento blanco.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva para las provincias de San Felipe y Los Andes y las comunas de Petorca y Cabildo por viento, </strong>que se mantenía vigente desde el 19 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

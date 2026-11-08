@@ -1,0 +1,20 @@
+{
+	"id": "64ed7485-50fb-4d77-9870-7d5762d4b1b3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de San Javier, Pencahue y Constitución por amenaza de desborde",
+	"fechaHora": "2023-09-11T11:13:00.000-03:00",
+	"createdAt": "2023-09-11T19:39:37.784Z",
+	"updatedAt": "2023-10-26T01:37:45.922Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-javier-pencahue-y-constitucion-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca, Linares\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"San Javier\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, existe un aumento continuo en el caudal del Río Loncomilla, indicando que la estación hidrométrica “Estación Rio Loncomilla en Las Brisas” ha sobrepasado el umbral de alertamiento técnico amarillo de la DGA.</p><p style=\"text-align: justify\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED<strong>declara Alerta Amarilla</strong>para las comunas de San Javier, Pencahue y Constitución por amenaza de desborde, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

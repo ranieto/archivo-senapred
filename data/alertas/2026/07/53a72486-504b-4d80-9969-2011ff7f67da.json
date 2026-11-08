@@ -1,0 +1,20 @@
+{
+	"id": "53a72486-504b-4d80-9969-2011ff7f67da",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja y declara Alerta Amarilla para las comuna de Limache, Quintero, Concón y Quillota por desborde",
+	"fechaHora": "2026-07-18T23:23:14.1414-04:00",
+	"createdAt": "2026-07-19T03:23:53.528Z",
+	"updatedAt": "2026-07-19T10:19:15.947Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comuna-de-limache-quintero-concon-y-quillota-por-desborde-2026-07-18-00-44-53",
+	"parentId": "71ac98ce-0008-4ca6-ba00-4b60c8c0be42",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “<strong>Puente Colmo</strong>”, ha registrado un <strong>continuo descenso en su caudal</strong>, alcanzando valores de <strong>umbral amarillo</strong>.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja </strong>que se mantenía vigente desde hoy 18 de julio<strong> y declara alerta amarilla por desborde para las comuna de Limache, Quintero, Concón y Quillota</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Con la declaración de la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

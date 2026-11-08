@@ -1,0 +1,20 @@
+{
+	"id": "be5aea2d-f9b3-41be-9141-5e1c2d0cc660",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las comunas de Concón y Viña del Mar por incendio forestal",
+	"fechaHora": "2023-12-18T23:10:00.000-03:00",
+	"createdAt": "2023-12-19T02:11:35.984Z",
+	"updatedAt": "2023-12-20T12:48:39.680Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-concon-y-vina-del-mar-por-incendio-forestal",
+	"parentId": "28d07935-d8fc-47ec-b095-3b4b590cdd58",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Concón, Viña del Mar\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto al incendio forestal en las comunas de Concón y Viña del Mar, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Predio Armada.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">31,5 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos</strong></p></td><td><p style=\"text-align:justify\">El incendio forestal se encuentra con intensidad   baja y sin avance.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Brigada nocturna de CONAF se mantiene trabajando en   construcción de líneas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja para las comunas de Concón y Viña del Mar, por incendio forestal</strong>, que se encuentra vigente desde hoy 18 de diciembre y hasta que las condiciones del incendio así lo ameriten.</p><p><span style=\"color: black\">Han trabajado en el combate del incendio, 1 puesto de mando, 4 técnicos, 9 brigadas, 4 camiones aljibe, 1 skidder, 6 aviones de CONAF, Bomberos de Viña del Mar, Carabineros, Armada de Chile y equipo municipal con apoyo de 2 camiones aljibe.</span><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

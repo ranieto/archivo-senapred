@@ -1,0 +1,20 @@
+{
+	"id": "127df400-32ce-4f83-9fb8-20801203f604",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-09-17T12:54:41.4141-03:00",
+	"createdAt": "2025-09-17T15:55:45.588Z",
+	"updatedAt": "2025-09-17T15:56:46.509Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-19",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC</span></strong><span style=\"color: black\">), fue cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos, debido al debilitamiento de las condiciones que lo originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A355</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en corto periodo de tiempo en el litoral interior y   cordillera austral.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">15-09</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">15-09</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, </span><span style=\"color:black\">de acuerdo con lo indicado por el Centro Meteorológico Marítimo de Valparaíso, se canceló el aviso N°37 de marejadas normales, el que se mantuvo vigente hasta el 16 de septiembre del 2025.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva </strong></span><strong><span style=\"color:black\">Regional </span><span style=\"color:black\">por evento meteorológico</span></strong><span style=\"color:black\">,que se mantuvovigente desde el 12 de septiembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

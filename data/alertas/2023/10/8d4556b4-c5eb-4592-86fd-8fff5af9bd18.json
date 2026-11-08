@@ -1,0 +1,20 @@
+{
+	"id": "8d4556b4-c5eb-4592-86fd-8fff5af9bd18",
+	"type": "Alerta",
+	"titulo": "Creacion alerta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-04T19:43:09.009Z",
+	"updatedAt": "2023-10-04T19:43:18.960Z",
+	"urlAccess": "creacion-alerta",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>creacion de alerta</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

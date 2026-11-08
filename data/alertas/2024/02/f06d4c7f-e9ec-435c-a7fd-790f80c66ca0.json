@@ -1,0 +1,20 @@
+{
+	"id": "f06d4c7f-e9ec-435c-a7fd-790f80c66ca0",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2024-02-06T02:18:08.088-03:00",
+	"createdAt": "2024-02-06T05:19:27.089Z",
+	"updatedAt": "2024-02-06T05:20:48.508Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Linares\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información proporcionada por CONAF, el incendio forestal \"Palmilla Bajo</span></strong><span style=\"color: black\">\", se encuentra controlado.</span><br></p><p><span style=\"color:black\">En consideración a lo anterior y en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Linares, por incendio forestal, que se mantuvo vigente desde el 05 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

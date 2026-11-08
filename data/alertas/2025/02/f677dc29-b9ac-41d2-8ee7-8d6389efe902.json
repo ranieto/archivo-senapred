@@ -1,0 +1,20 @@
+{
+	"id": "f677dc29-b9ac-41d2-8ee7-8d6389efe902",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Galvarino por incendio forestal",
+	"fechaHora": "2025-02-06T17:48:09.099-03:00",
+	"createdAt": "2025-02-06T20:49:17.377Z",
+	"updatedAt": "2025-02-10T00:23:26.092Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-galvarino-por-incendio-forestal-3",
+	"parentId": "0d9d381a-5148-4766-a18a-c8e232b84afe",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la <strong>comuna de Galvarino </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quichaltué</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>37 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Galvarino, 5 brigadas y 1   técnico de Conaf; además de 3 aeronaves y 2 camiones cisterna de Conaf</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Galvarino por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento. </p><p>Cabe señalar, que se mantiene Alerta Roja para las comunas de Victoria y Collipulli por incendio forestal y Alerta Amarilla para el resto de la región por incendios forestales.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

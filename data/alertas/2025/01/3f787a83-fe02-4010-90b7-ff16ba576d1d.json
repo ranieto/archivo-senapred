@@ -1,0 +1,20 @@
+{
+	"id": "3f787a83-fe02-4010-90b7-ff16ba576d1d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales",
+	"fechaHora": "2025-01-02T13:14:00.000-03:00",
+	"createdAt": "2025-01-02T16:17:59.334Z",
+	"updatedAt": "2025-01-13T13:19:57.757Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-9",
+	"parentId": "65ee3120-2674-42b0-b5f5-4c3bdfb1c10e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Según determinó CONAF en su análisis técnico, existen zonas con alta probabilidad de generación y propagación de incendios forestal.</p><p>Además, lo indicado por la de DMC, mediante su Aviso Meteorológico A473-3/2024 “Altas Temperaturas” en Cordillera Costa, Valle, Precordillera de la Región Metropolitana, desde el jueves 02 hasta el domingo 05 de enero 2025.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "8b423dfd-7ea3-45f3-8bb3-c953d3889c83",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad en las regiones de Arica y Parinacota y Tarapacá   ",
+	"fechaHora": "2025-01-24T13:26:29.2929-03:00",
+	"createdAt": "2025-01-24T16:28:00.254Z",
+	"updatedAt": "2025-01-24T16:31:45.483Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-arica-y-parinacota-14",
+	"parentId": "441c59d2-0d8d-4a9d-8a6b-bd13ac7d7f90",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">Un sismo de menor intensidad se percibió a las 13:19 horas en las regiones de Arica y Parinacota y Tarapacá.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapacá </strong></p></td></tr><tr><td><p>Camiña   : </p></td><td><p>III</p></td></tr><tr><td><p>Huara   : </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.9 y se localizó a 18 Kms al Suroeste de Putre. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

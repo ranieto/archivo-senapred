@@ -1,0 +1,20 @@
+{
+	"id": "edb01ae2-6611-458f-ab69-6c4b164de97c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por Evento Meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-03-30T13:53:47.369Z",
+	"updatedAt": "2025-03-30T14:02:16.891Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-9",
+	"parentId": "44b47e60-5bfa-46fe-b841-d78081b816e1",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> en las actualizaciones de los avisos meteorológicos<strong> A114-1/2025</strong> por precipitaciones normales a moderadas en corto periodo de tiempo, y A115-1/2025 por viento normal a moderado, se indica que se ha modificado la cobertura en ambos avisos, excluyendo a la Región de Los Ríos. </p><p>En base a estos antecedentes,<strong> la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la Región de Los Ríos por Evento Meteorológico,</strong> la cual se mantenía vigente desde el 28 de marzo de 2025.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

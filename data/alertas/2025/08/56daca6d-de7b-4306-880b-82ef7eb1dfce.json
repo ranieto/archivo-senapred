@@ -1,0 +1,20 @@
+{
+	"id": "56daca6d-de7b-4306-880b-82ef7eb1dfce",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Concepción por desborde",
+	"fechaHora": "2025-08-01T15:27:41.4141-04:00",
+	"createdAt": "2025-08-01T19:28:41.781Z",
+	"updatedAt": "2025-08-01T19:30:22.683Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-concepcion-por-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA)</span></strong><span style=\"color: black\">, se indica que la estación Río Andalien antes ex Peaje Chaimávida, en la comuna de Concepción, ha alcanzado el nivel de alerta azul y presenta una tendencia a la baja.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, lo que supone una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja para la comuna</strong></span><strong><span style=\"color:black\"> de Concepción por desborde</span></strong><span style=\"color:black\">, la que se mantuvo vigente desde el 31 de julio de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

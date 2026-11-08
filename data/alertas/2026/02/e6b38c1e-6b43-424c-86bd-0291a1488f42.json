@@ -1,0 +1,20 @@
+{
+	"id": "e6b38c1e-6b43-424c-86bd-0291a1488f42",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Provincia de Isla de Pascua por incendio forestal",
+	"fechaHora": "2026-02-27T01:31:26.2626-03:00",
+	"createdAt": "2026-02-27T04:33:08.376Z",
+	"updatedAt": "2026-02-27T19:42:43.222Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-isla-de-pascua-por-incendio-forestal-2026-02-27-01-07-32",
+	"parentId": "5fdaf07d-1154-4a4e-aef0-a1c0fbd3f0ea",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:16px;color:black\">De acuerdo con la información&nbsp;</span></strong><span style=\"font-size: 16px\"><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de Isla de Pascua se informa el siguiente detalle:</span></span></p><p><span style=\"font-size: 16px\"><span style=\"color:black\"><br></span></span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong><span style=\"font-size:16px\">Nombre del incendio</span></strong></a></p></td><td><p>Grilla 177D</p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Estado   </span></strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p>10 (ha)</p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Recursos</span></strong></p></td><td><p>Bomberos de   Isla de Pascua y 1 Brigada</p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Observaciones</span></strong></p></td><td><p>Al momento   no se mantiene proyección de amenaza a viviendas.</p></td></tr></tbody></table><p><span style=\"font-size:16px;color:#2E2E2E\"><br></span></p><p><span style=\"font-size:16px;color:#2E2E2E\">El incendio se mantiene activo afectando pastizal con proyección y avance al mismo combustible, al momento los recursos se mantienen trabajando en el control de la propagación del incendio.</span></p><p><span style=\"font-size:16px;color:#2E2E2E\"><br></span></p><p><span style=\"font-size:16px;color:#2E2E2E\">En consideración a estos antecedentes&nbsp; y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Provincia de Isla de Pascua, por incendio forestal, que se encuentra vigente desde el 27 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

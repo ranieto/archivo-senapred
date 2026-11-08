@@ -1,0 +1,20 @@
+{
+	"id": "99ab0a6d-0789-424e-83d2-8d613eec7151",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Camiña por aumento de caudal",
+	"fechaHora": "2024-02-17T21:14:00.000-03:00",
+	"createdAt": "2024-02-18T00:31:41.857Z",
+	"updatedAt": "2024-02-18T14:41:18.928Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-camina-por-aumento-de-caudal",
+	"parentId": "ea009f1d-5182-4590-8e46-1ea0393a9b5e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Camiña\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la </span><strong>Dirección General de Aguas</strong><span style=\"color: black\"> (DGA), a través de su </span><strong>plataforma de monitoreo de caudales</strong><span style=\"color: black\">, se ha emitido una </span><strong>alerta roja</strong><span style=\"color: black\"> en la estación denominada “</span><strong>Q. Camiña 3 Km. Arriba de Tarcavire</strong><span style=\"color: black\">”, lo cual prevé una amenaza para la población, sus bienes y el medio ambiente de la comuna de Camiña.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes técnicos proporcionados por DGA, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, <strong>declara Alerta Roja para la comuna de Camiña por aumento de caudal</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva por tormentas eléctricas para la Provincia del Tamarugal, </strong>vigentedesde el 09 de febrero de 2024. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

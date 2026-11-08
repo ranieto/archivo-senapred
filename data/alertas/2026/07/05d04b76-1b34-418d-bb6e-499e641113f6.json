@@ -1,0 +1,20 @@
+{
+	"id": "05d04b76-1b34-418d-bb6e-499e641113f6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo por crecida",
+	"fechaHora": "2026-07-26T21:53:54.5454-04:00",
+	"createdAt": "2026-07-27T01:55:21.142Z",
+	"updatedAt": "2026-07-29T16:11:15.978Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-pinto-coihueco-chillan-y-chillan-viejo-por-crecida-2026-07-26-19-07-13",
+	"parentId": "dc5ed56d-109e-46ed-b672-e37b17994caf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “<strong>Río Chillán en Esperanza 2</strong>”, indica un incremento en su caudal, alcanzando valores de <strong>umbral rojo</strong>, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua.</span></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe señalar que la estación “<strong>Río Niblinto antes canal alimentador Embalse Coihueco</strong>” mantiene su caudal en nivel umbral amarillo.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por </strong>crecida vigente desde hoy 26 de julio y<strong> Declara Alerta Roja por crecida para las comunas de Pinto, Coihueco, Chillán y Chillán Viejo,</strong> vigente desde hoy 26 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

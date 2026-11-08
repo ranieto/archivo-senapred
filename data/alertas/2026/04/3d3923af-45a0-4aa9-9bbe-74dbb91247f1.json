@@ -1,0 +1,20 @@
+{
+	"id": "3d3923af-45a0-4aa9-9bbe-74dbb91247f1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-04-18T20:14:00.000-04:00",
+	"createdAt": "2026-04-19T00:29:42.004Z",
+	"updatedAt": "2026-04-19T00:30:43.088Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-04-16-18-32-21",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, han sido cancelados los Avisos Meteorológicos A186-1/2026 por viento normal a moderado y A188/2026 por probables tormentas eléctricas en diversas zonas de la Región de Los Lagos. Lo anterior, debido al debilitamiento de las condiciones que los originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que conforme a lo indicado por el Servicio Meteorológico de la Armada de Chile, se mantiene vigente el Aviso de Marejadas normales para las comunas costeras de la región hasta el 19 de abril.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, la que se mantuvo vigente desde el 16 de abril de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

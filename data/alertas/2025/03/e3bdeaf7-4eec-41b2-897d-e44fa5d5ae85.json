@@ -1,0 +1,20 @@
+{
+	"id": "e3bdeaf7-4eec-41b2-897d-e44fa5d5ae85",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Chañaral, Copiapó, Caldera, Huasco y Freirina por viento",
+	"fechaHora": "2025-03-30T20:33:00.000-03:00",
+	"createdAt": "2025-03-30T23:51:08.318Z",
+	"updatedAt": "2025-03-30T23:52:37.470Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-chanaral-copiapo-caldera-huasco-y-freirina-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A113</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado, con la probabilidad de tormentas de arena, en el litoral de la   región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva&nbsp;</strong><strong>para las comunas de Chañaral, Copiapó, Caldera, Huasco y Freirina por viento</strong>, que se mantuvo vigente desde el 28 de marzo de 2025.</span></p><p style=\"text-align: justify\"><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

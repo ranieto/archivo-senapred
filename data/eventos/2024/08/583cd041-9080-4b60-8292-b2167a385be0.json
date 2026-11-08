@@ -1,0 +1,19 @@
+{
+	"id": "583cd041-9080-4b60-8292-b2167a385be0",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Coquimbo",
+	"fechaHora": "2024-08-01T13:45:17.1717-04:00",
+	"createdAt": "2024-08-01T17:46:50.836Z",
+	"updatedAt": "2024-08-01T17:51:30.509Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-30",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 13:42 horas en la Región de Coquimbo.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Serena: </p></td><td><p>IV</p></td></tr><tr><td><p>Monte   Patria: </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

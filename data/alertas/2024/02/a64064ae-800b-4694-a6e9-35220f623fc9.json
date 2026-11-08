@@ -1,0 +1,20 @@
+{
+	"id": "a64064ae-800b-4694-a6e9-35220f623fc9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Región de O’Higgins por incendios forestales",
+	"fechaHora": "2024-02-05T18:45:00.000-03:00",
+	"createdAt": "2024-02-05T21:50:55.999Z",
+	"updatedAt": "2024-02-07T02:39:01.762Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-libertador-general-bernardo-ohiggins-por-incendio-forestal",
+	"parentId": "c0a9e849-fd75-4a85-8ba1-e090014290de",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>a la hora del presente informe existen tres focos de incendios forestales activos en la región, los que presentan amenaza indirecta y a distancia a centros poblados e infraestructura crítica, sumado a lo anterior se registra disminución de las condiciones meteorológicas para la región.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dicha variable y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla regional por incendios forestales</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

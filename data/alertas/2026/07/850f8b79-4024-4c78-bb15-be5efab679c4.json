@@ -1,0 +1,20 @@
+{
+	"id": "850f8b79-4024-4c78-bb15-be5efab679c4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para las comunas de San Fabián y Ñiquén por crecida",
+	"fechaHora": "2026-07-26T21:39:27.2727-04:00",
+	"createdAt": "2026-07-27T01:41:18.065Z",
+	"updatedAt": "2026-07-29T16:23:39.337Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquen-por-crecida-2026-07-26-19-21-53",
+	"parentId": "043c9f98-4cf8-4a8c-ac72-1a310968bac0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “<strong>Río Perquilauquén en San Manuel”</strong>, indica un <strong>incremento en su caudal</strong>, alcanzando valores de <strong>umbral rojo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla</strong>, que se mantuvo vigente desde hoy domingo 26 de julio y <strong>declara Alerta Roja por crecida para las comunas de San Fabián y Ñiquén,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

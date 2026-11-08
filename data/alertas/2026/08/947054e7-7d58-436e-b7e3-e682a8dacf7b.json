@@ -1,0 +1,20 @@
+{
+	"id": "947054e7-7d58-436e-b7e3-e682a8dacf7b",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la Región del Maule por crecida",
+	"fechaHora": "2026-08-03T02:55:00.000-04:00",
+	"createdAt": "2026-08-03T07:01:57.533Z",
+	"updatedAt": "2026-08-04T22:34:15.276Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-07-26-23-32-23",
+	"parentId": "a53fb430-0586-4317-8757-465297193210",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con <strong>la información proporcionada por la Dirección General de Aguas (DGA),</strong> las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Estación hidrométrica</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Umbral</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Río Mataquito en Licantén</p></td><td><p style=\"text-align:center\">Amarillo</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Por su parte, la Dirección General de Aguas (DGA) mantiene un monitoreo permanente de la red hidrométrica regional, efectuando un seguimiento continuo de la evolución de los caudales y niveles de los principales cursos de agua, considerando tanto el comportamiento observado como la evolución prevista de las condiciones meteorológicas.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por crecida,</strong> que se encuentra vigente desde el 29 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Con esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

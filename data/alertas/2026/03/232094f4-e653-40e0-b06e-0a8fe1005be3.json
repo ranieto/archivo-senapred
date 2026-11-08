@@ -1,0 +1,20 @@
+{
+	"id": "232094f4-e653-40e0-b06e-0a8fe1005be3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2026-03-09T17:00:00.000-03:00",
+	"createdAt": "2026-03-09T20:07:17.256Z",
+	"updatedAt": "2026-03-09T21:06:48.279Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-2026-03-09-17-06-58",
+	"parentId": "33e9fb0b-a13e-4602-9221-283cf9b585c9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Miguel   Ángel Alto</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,2   (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo   de Bomberos de Valparaíso, 6 brigadas, 4 técnicos, 3 aviones y 3   helicópteros.</p></td></tr></tbody></table><p><br>El incendio forestal se desarrolla cercano a sectores habitados.&nbsp;&nbsp;En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Valparaíso por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

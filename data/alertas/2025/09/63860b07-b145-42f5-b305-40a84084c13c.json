@@ -1,0 +1,20 @@
+{
+	"id": "63860b07-b145-42f5-b305-40a84084c13c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+	"fechaHora": "2025-09-28T19:12:09.099-03:00",
+	"createdAt": "2025-09-28T22:13:19.896Z",
+	"updatedAt": "2025-10-07T00:40:23.418Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-9",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de Atacama, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A375</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en litoral, cordillera costa y sectores de valles, pampa y   precordillera de la región.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A376</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad de tormentas de arena</span><span style=\"color:black\">en   litoral, cordillera costa y sectores de valles y pampa de la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En base a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico</strong>, que se mantuvo vigente desde el 21 de septiembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

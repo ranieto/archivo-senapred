@@ -1,0 +1,20 @@
+{
+	"id": "fd322f47-cf7e-47d8-9dcb-7bd4363176bb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de Lolol por incendio forestal",
+	"fechaHora": "2025-01-21T11:10:00.000-03:00",
+	"createdAt": "2025-01-21T14:23:53.917Z",
+	"updatedAt": "2025-01-21T22:11:05.639Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lolol-por-incendio-forestal",
+	"parentId": "d5a57e89-d1ae-4868-867c-6bec8d1d25bb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información técnica proporcionada por CONAF, activo se mantiene el incendio forestal \"LaHuertilla\" en la comuna de Lolol, afectando una superficie de 15 ha de pastizal, matorral y pino.&nbsp; Asimismo, se informa que el incendio forestal ha experimentado una disminución en las condiciones deriesgo, presentando puntos calientes localizados en el borde e interior del perímetro.<br></p><p><br></p><table><tbody><tr><td><p style=\"text-align: justify\"><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p style=\"text-align: justify\">La Huertilla</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En Combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">15 hectáreas</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">Bomberos de Paredones, Lolol, Santa Cruz, Pumanque, 4 Brigadas , 1 helicóptero, 5 Técnicos, 2 Camion Aljibe, 1 puesto de mando y 1 Skidder.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, laDirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Lololpor incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursosnecesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional dePrevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y&nbsp;severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

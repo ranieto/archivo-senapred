@@ -1,0 +1,20 @@
+{
+	"id": "e07143b3-550b-46fa-bf63-4f5514c1b10f",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas",
+	"fechaHora": "2024-12-15T13:59:42.4242-03:00",
+	"createdAt": "2024-12-15T17:00:21.211Z",
+	"updatedAt": "2024-12-17T21:44:21.372Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-4",
+	"parentId": "128098a7-46a2-4e53-97a9-aa9e064c8aaf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentra vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA86</p></td><td><p>Probables   tormentas eléctricas preferentemente durante la tarde noche, con   precipitaciones aisladas en zonas de la región.</p></td><td><p style=\"text-align:center\">15-12</p></td><td><p style=\"text-align:center\">16-12</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A456-1</p></td><td><p>Probable   tormentas eléctricas asociadas a chubascos débiles en sector del valle,   Chilóe y litoral interior de la región.</p></td><td><p style=\"text-align:center\">16-12</p></td><td><p style=\"text-align:center\">16-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>Actualiza Alerta Temprana Preventiva Regional por tormentas eléctricas, </strong>que se mantiene vigente del 14 de diciembre de 2024 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

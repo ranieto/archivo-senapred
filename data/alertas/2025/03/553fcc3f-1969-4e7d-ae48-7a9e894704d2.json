@@ -1,0 +1,20 @@
+{
+	"id": "553fcc3f-1969-4e7d-ae48-7a9e894704d2",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla y cancela Alerta Roja para la comuna de Santa Bárbara por incendio forestal",
+	"fechaHora": "2025-03-30T13:44:09.099-03:00",
+	"createdAt": "2025-03-30T16:47:56.260Z",
+	"updatedAt": "2025-03-31T19:23:37.582Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-biobio-por-amenaza-de-incendios-forestales-2",
+	"parentId": "8f24e7da-2485-476b-965e-5454c6f4926d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la comuna de Santa Bárbara, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>LAGUNA PIRQUINCO</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Bajo observación</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>670 hectáreas</p></td></tr></tbody></table></div><div>En consideración a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío,<strong> la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Santa Bárbara por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></div>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

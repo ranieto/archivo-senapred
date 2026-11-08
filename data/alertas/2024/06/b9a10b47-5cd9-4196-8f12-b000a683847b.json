@@ -1,0 +1,20 @@
+{
+	"id": "b9a10b47-5cd9-4196-8f12-b000a683847b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Nueva Imperial por desborde",
+	"fechaHora": "2024-06-28T00:15:06.066-04:00",
+	"createdAt": "2024-06-28T04:16:27.874Z",
+	"updatedAt": "2024-07-05T20:09:15.504Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-nueva-imperial-por-desborde",
+	"parentId": "ecaff20d-9409-480f-803e-8596791d4177",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Nueva Imperial\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Municipalidad de Nueva Imperi</strong>al, se registra el desborde del Río Cautín en el sector de Estación Boroa de la comuna de Nueva Imperial, donde se reporta la inundación de 5 viviendas y la evacuación de las personas que se encontraban en las mismas.<br></p><p style=\"text-align:justify\">Cabe mencionar, que esta situación puede producir daños en sectores poblados e infraestructura, requiriendo acciones de mitigación y prevención tales como evacuaciones y disponibilidad de recursos humanos y materiales.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para la comuna de Nueva Imperial por desborde, </strong>vigente a contar del 27 de junio de 2024 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

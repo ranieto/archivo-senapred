@@ -1,0 +1,20 @@
+{
+	"id": "8dab6719-f352-4eb0-8c77-6c2a58bc08fa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Dalcahue por incendio forestal",
+	"fechaHora": "2024-02-17T19:25:00.000-03:00",
+	"createdAt": "2024-02-17T22:26:18.744Z",
+	"updatedAt": "2024-02-17T22:27:06.072Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-dalcahue-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Dalcahue\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de Dalcahue, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>El Mechero</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>5,5 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>Bomberos de&nbsp;Dalcahue, 1 brigada de CONAF y 1 técnico de CONAF</div></td></tr></tbody></table></div><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED&nbsp;<strong>cancela Alerta Roja para la comuna de Dalcahue por incendio forestal</strong>, que se mantuvo vigente&nbsp;<span style=\"color: rgb(33, 37, 41)\">desde el 14 de febrero de 2024.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41)\">Cabe mencionar que la Región de Los Lagos se mantiene con Alerta Amarilla por Incendios Forestales.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

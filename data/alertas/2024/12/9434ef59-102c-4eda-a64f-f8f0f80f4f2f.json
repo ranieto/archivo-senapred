@@ -1,0 +1,20 @@
+{
+	"id": "9434ef59-102c-4eda-a64f-f8f0f80f4f2f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2024-12-06T13:41:00.000-03:00",
+	"createdAt": "2024-12-06T16:50:34.230Z",
+	"updatedAt": "2024-12-06T19:56:29.205Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-santo-domingo-por-incendio-forestal-2",
+	"parentId": "1fe09861-01e9-4503-b03f-4c04ae0944ef",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Santo Domingo\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información t</span></strong><strong><span style=\"color:black\">écnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Santo Domingose informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Fundo Atalaya</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal presenta cercanía a   viviendas del sector parcelación Fundo Atalaya.</p></td></tr></tbody></table><p>Siendo las 13:11 horas, se realizó el envío de un mensaje SAE a la comuna de Santo Domingo, a fin de evacuar preventivamente el sector Fundo Atalaya.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Santo Domingo por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

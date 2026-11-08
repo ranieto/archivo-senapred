@@ -1,0 +1,20 @@
+{
+	"id": "4146fa74-0c5d-4274-90a5-82dd39fa2005",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva Para la Región de La Araucanía por viento",
+	"fechaHora": "2024-04-02T19:46:00.000-03:00",
+	"createdAt": "2024-04-02T22:54:55.797Z",
+	"updatedAt": "2024-04-02T22:55:48.967Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-teodoro-schmidt-saavedra-y-tolten-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelada la Alerta Meteorológica AA20-1 que pronosticaba viento moderado a fuerte en litoral de la Región de la Araucanía, así como el Aviso Meteorológico A79-4 que preveía viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera de la región. Lo anterior, debido al debilitamiento de las condiciones que los originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes meteorológicos, la Dirección Regional del SENAPRED La Araucanía en coordinación con la Delegación Presidencial <strong>cancela la Alerta Temprana Preventiva Regional por viento</strong>, que se mantuvo vigente desde el 29 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

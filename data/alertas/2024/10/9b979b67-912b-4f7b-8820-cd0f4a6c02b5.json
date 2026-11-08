@@ -1,0 +1,20 @@
+{
+	"id": "9b979b67-912b-4f7b-8820-cd0f4a6c02b5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Camarones por remoción en masa",
+	"fechaHora": "2024-10-03T13:48:00.000-03:00",
+	"createdAt": "2024-10-03T16:51:02.156Z",
+	"updatedAt": "2024-11-07T18:47:12.727Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "f4e85fe1-2611-434f-b7d2-7b5bd9824661",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Camarones\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacot</strong>a, durante la mañana de hoy se ha registrado un nuevo deslizamiento de rocas en la Ruta 5 Norte, sector Cuesta Cultura Chinchorro, la cual mantiene interrumpido el tránsito vehicular desde y hacia la Región de Arica y Parinacota.&nbsp;<br></p><div style=\"text-align: justify\">Debido a lo anterior, se mantiene gran congestión en la zona, desabastecimiento de agua potable en la localidad de Caleta Camarones, falta de rutas alternativas para atender emergencias médicas y problemas generales para el traslado de insumos y suministros, así como el comercio de la región.&nbsp;</div><div style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla&nbsp;por remoción en masa para la comuna de Camarones,</strong> la que se mantiene vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.&nbsp;</div><div style=\"text-align: justify\"><br></div><div style=\"text-align: justify\">Trabajan en el lugar Carabineros, Vialidad y equipo regional de SENAPRED.&nbsp;</div><div style=\"text-align: justify\">Cabe mencionar, que hoy a las 18:00 horas se realizará un COGRID Regional con la participación de SERNAGEOMIN, Carabineros, Delegación Presidencial Regional y Vialidad.&nbsp;</div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

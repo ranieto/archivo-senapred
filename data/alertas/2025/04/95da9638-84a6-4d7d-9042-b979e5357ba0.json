@@ -1,0 +1,20 @@
+{
+	"id": "95da9638-84a6-4d7d-9042-b979e5357ba0",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la comuna de Toltén por remoción en masa ",
+	"fechaHora": "2025-04-03T19:10:00.000-03:00",
+	"createdAt": "2025-04-03T22:21:06.427Z",
+	"updatedAt": "2025-05-16T01:35:37.105Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-comuna-de-tolten-por-remocion-en-masa",
+	"parentId": "4cec7e56-73c6-4c26-b485-d60483804a1c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con los nuevos antecedentes proporcionados mediante el informe técnico SERNAGEOMIN</span></strong><span style=\"color: black\">, con relación a la remoción en masa ocurrida en el mes de junio de 2024 en la localidad de Queule, comuna de Toltén, se indica que hasta la fecha se han registrado numerosas remociones en masa desencadenadas en el área, tanto del tipo deslizamiento de suelo y roca, reptaciones, flujos de lodo, además de inundaciones. Asimismo, durante el invierno del año 2024, se produjo un aumento en los procesos de erosión de la quebrada Rayén Lafquén, lo que incrementó la cantidad de sedimentos arrastrados durante eventos de precipitaciones intensas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, mediante el informe técnico, se realizaron recomendaciones para los cuatro sectores de la localidad afectada, comprendiendo el Mirador San Pedro, Quebrada Rayén Lafquén, Ruta S-790 (Bypass) y Ruta S-270-T. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED, actualiza la Alerta Temprana Preventiva comunal por Remoción en Masa para la comuna de Toltén, que se mantiene vigente desde el 05 de noviembre de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "38db2540-6de4-4d12-b21d-28e250bcbbba"
+}

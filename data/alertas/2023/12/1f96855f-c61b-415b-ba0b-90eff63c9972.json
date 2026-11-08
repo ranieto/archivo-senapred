@@ -1,0 +1,20 @@
+{
+	"id": "1f96855f-c61b-415b-ba0b-90eff63c9972",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Limache por incendio forestal",
+	"fechaHora": "2023-12-13T14:25:00.000-03:00",
+	"createdAt": "2023-12-13T17:39:31.338Z",
+	"updatedAt": "2023-12-14T15:13:13.897Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-limache-por-incendio-forestal",
+	"parentId": "8cea8078-0420-4fba-8340-45af280fea2f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se registran los siguientes incendios forestales en la Provincia de Marga Marga, los que se detallan a continuación:<br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cajón de Lebu.</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Comuna afectada</strong></p></td><td><p style=\"text-align:justify\">Limache.</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">317 hectáreas.</p></td></tr></tbody></table></div><div><table><tbody><tr><td><p style=\"text-align:center\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">El Monasterio.</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Comuna afectada</strong></p></td><td><p style=\"text-align:justify\">Limache.</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">24,7 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la comuna de Limache</strong>, por incendio forestal, vigente desde hoy 13 de diciembre y hasta que las condiciones así lo ameriten. </p><p style=\"text-align:justify\">De igual forma, se mantiene la Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la provincia de Isla de Pascua y la comuna de Juan Fernández, por amenaza de incendios forestales, que se encuentra vigente desde el 12 de diciembre.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

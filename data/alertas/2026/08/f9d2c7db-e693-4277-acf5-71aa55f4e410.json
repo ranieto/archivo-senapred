@@ -1,0 +1,20 @@
+{
+	"id": "f9d2c7db-e693-4277-acf5-71aa55f4e410",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2026-08-01T21:10:00.000-04:00",
+	"createdAt": "2026-08-10T18:53:15.151Z",
+	"updatedAt": "2026-08-10T18:54:55.247Z",
+	"urlAccess": "monitoreo-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-07-29-00-06-14",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Enlace</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso   A359-4</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Viento normal a   moderado con probabilidad de tormentas de arena en cordillera de la costa,   pampa, precordillera occidental, precordillera Alto Loa y cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchivos.meteochile.gob.cl%2Fportaldmc%2FAAA%2Fdoc%2Fcancela_evento_A359-4_2026.php&amp;data=05%7C02%7Cperiodistadeturno%40senapred.gob.cl%7C3e289b0195704d191a8908def031e664%7Cc4c70e6abf1c4c55986259a5f3ac8257%7C0%7C0%7C639212294293430807%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=VtF7VuInAFJO%2BMWVSiteP1gSfrvRqz2UQf2DS%2FzEPrc%3D&amp;reserved=0\">Abrir   aquí</a></span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por viento</strong>, que se mantenía vigente desde el 25 de julio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

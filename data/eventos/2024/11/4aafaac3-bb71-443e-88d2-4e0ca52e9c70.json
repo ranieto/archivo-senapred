@@ -1,0 +1,19 @@
+{
+	"id": "4aafaac3-bb71-443e-88d2-4e0ca52e9c70",
+	"type": "Evento",
+	"titulo": "Incendio estructural - comuna de Antofagasta (PRELIMINAR)",
+	"fechaHora": "2024-11-22T11:54:49.4949-03:00",
+	"createdAt": "2024-11-22T14:57:51.242Z",
+	"updatedAt": "2024-11-22T19:09:31.900Z",
+	"urlAccess": "incendio-estructural---comuna-de-antofagasta-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><span style=\"color: black\">La información proporcionada por la Dirección Regional de SENAPRED Antofagasta indica que al momento del presente reporte se desarrolla un incendio estructural que afecta al noveno piso (sector auditorio) del Hospital Regional de Antofagasta, ubicado en cercanía de la intersección de las calles Víctor Jara y Azapa, comuna de Antofagasta.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">Al momento, se evalúa el número de personas y pacientes evacuados.</span></p><p style=\"text-align: justify\">Trabajan en el lugar Bomberos y Carabineros. Personal de SENAPRED se dirige al lugar.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b53bb09c-da8e-4959-b38a-1704d7bb29f7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Río Verde por evento masivo",
+	"fechaHora": "2025-01-13T12:46:42.4242-03:00",
+	"createdAt": "2025-01-13T15:48:03.610Z",
+	"updatedAt": "2025-01-13T15:48:24.344Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-magallanes-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Río Verde\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes, se encuentra finalizado el evento masivo&nbsp;denominado&nbsp;<strong>“Festividad de la Virgen de Monserrat”</strong>, el cual se realizó el 12 de enero en la comuna de Río Verde, sin reportarse situaciones de emergencias relevantes.</p><p style=\"text-align: justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Magallanes, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva para la comuna de Río Verde por evento masivo</strong>, la que se mantuvo vigente desde el 10 de enero de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

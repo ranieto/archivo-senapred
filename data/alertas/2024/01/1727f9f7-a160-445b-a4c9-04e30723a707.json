@@ -1,0 +1,20 @@
+{
+	"id": "1727f9f7-a160-445b-a4c9-04e30723a707",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Río Bueno por evento masivo",
+	"fechaHora": "2024-01-29T08:30:00.000-03:00",
+	"createdAt": "2024-01-29T11:37:34.008Z",
+	"updatedAt": "2024-01-29T11:39:30.745Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-rio-bueno-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Ranco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Río Bueno\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos</strong>, sin novedades ha finalizado la celebración del 246° aniversario de la fundación de la comuna de Río Bueno, denominada “Semana Aniversario Río Bueno 2024”, la cual tuvo una asistencia de aproximadamente 15.000 personas.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional Los Ríos, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva para la comuna de Río Bueno, por evento masivo</strong>, la cual se mantuvo vigente desde el 24 de enero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

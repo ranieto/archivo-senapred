@@ -1,0 +1,20 @@
+{
+	"id": "c0eb4829-d8dc-49b7-bbf2-31c018e898f8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Maule por incendio forestal",
+	"fechaHora": "2025-12-24T17:44:00.000-03:00",
+	"createdAt": "2025-12-24T20:51:55.549Z",
+	"updatedAt": "2025-12-28T05:44:39.222Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-maule-por-incendio-forestal-2025-12-24-16-34-55",
+	"parentId": "87ba2baa-1d26-4729-952a-c18ab66e1bc8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Maule, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Chacarillas 2</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">1 brigada, 1 técnico y 1   aeronave</p></td></tr></tbody></table><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cerro Maule</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">50</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Cuerpo de bomberos de Maule, 26   brigadas CONAF, 2 técnicos CONAF, 3 helicópteros, 1 helicóptero Pesado, 3   aviones Cisterna, 1 avión de Coordinación, 1 Avión de Observación, 1 camión   aljibe municipal, 1 camión aljibe CONAF y 2 Skidder.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Maule, por incendio forestal, que se encuentra vigente desde el 24 de diciembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

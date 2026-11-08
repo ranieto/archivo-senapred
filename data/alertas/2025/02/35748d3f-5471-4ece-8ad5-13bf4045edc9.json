@@ -1,0 +1,20 @@
+{
+	"id": "35748d3f-5471-4ece-8ad5-13bf4045edc9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Victoria por incendio forestal",
+	"fechaHora": "2025-02-01T22:49:00.000-03:00",
+	"createdAt": "2025-02-02T01:53:10.676Z",
+	"updatedAt": "2025-02-03T21:57:23.949Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-victoria-por-incendio-forestal",
+	"parentId": "e67dcd9f-28bd-46fa-a559-fa3530775cca",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Victoria\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Victoria se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Caillin</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>8 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>1 Avión Cisterna CONAF</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Victoria por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

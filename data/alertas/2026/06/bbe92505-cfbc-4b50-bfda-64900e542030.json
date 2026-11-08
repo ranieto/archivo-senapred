@@ -1,0 +1,20 @@
+{
+	"id": "bbe92505-cfbc-4b50-bfda-64900e542030",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes y la Antártica Chilena por evento meteorológico",
+	"fechaHora": "2026-06-16T10:41:11.1111-04:00",
+	"createdAt": "2026-06-16T14:42:34.227Z",
+	"updatedAt": "2026-06-16T14:43:40.677Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-evento-meteorologico-2026-06-11-11-19-59",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Magallanes:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A260-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en Cordillera Austral Norte, Cordillera Austral Sur,   Insular Sur y Pampa Patagónica Norte.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A261-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en Cordillera Austral Sur, Insular Central y Pampa   Patagónica Sur.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación en con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 11 de junio de 2026.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

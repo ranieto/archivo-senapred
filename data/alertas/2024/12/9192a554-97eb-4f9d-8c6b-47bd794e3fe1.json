@@ -1,0 +1,20 @@
+{
+	"id": "9192a554-97eb-4f9d-8c6b-47bd794e3fe1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Provincia de Chacabuco por incendio forestal",
+	"fechaHora": "2024-12-09T23:05:00.000-03:00",
+	"createdAt": "2024-12-10T02:08:28.996Z",
+	"updatedAt": "2024-12-10T18:32:26.399Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-4",
+	"parentId": "ac361bac-4a12-47df-802a-55c02b85817a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la<strong>&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;respecto del incendio forestal que se encuentra en la comuna de Lampa y Tiltil, Provincia de Chacabuco, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Santa   Sara</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">350   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal con comportamiento extremo.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Trabajan   en el lugar bomberos de Lampa y Colina.</p><p style=\"text-align:justify\">4   brigadas, 6 técnico de CONAF.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Amarilla para la Provincia de Chacabuco</strong>, por incendio forestal, que se encuentra vigente desde el 09 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

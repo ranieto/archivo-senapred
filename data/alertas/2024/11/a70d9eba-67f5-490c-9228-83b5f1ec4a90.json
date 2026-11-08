@@ -1,0 +1,20 @@
+{
+	"id": "a70d9eba-67f5-490c-9228-83b5f1ec4a90",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Quilpué por incendio forestal",
+	"fechaHora": "2024-11-25T17:15:23.2323-03:00",
+	"createdAt": "2024-11-25T20:17:14.471Z",
+	"updatedAt": "2024-11-26T17:30:10.177Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quilpue-por-incendio-forestal-3",
+	"parentId": "f3e9a4c4-edef-45bc-9be5-54b5f3fc0869",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,</strong>&nbsp;respecto al incendio forestal en la comuna de Quilpué se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p><strong>Fundo El Pequen</strong></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>35 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Quilpué; 4 brigadas de Conaf y 1 helicóptero de   Senapred.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>CONAF indica que el incendio se encuentra contenido y no   presenta actividad ni peligro de propagación, personal terrestre continúa realizando   líneas de control al perímetro, mientras helicópteros realizan lanzamientos   de agua en puntos calientes ayudados por bomberos quienes remojan líneas de   control.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Quilpué, por incendio forestal, que se encuentra vigente desde el 24 de noviembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

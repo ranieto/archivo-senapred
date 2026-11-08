@@ -1,0 +1,20 @@
+{
+	"id": "886fe311-8461-4892-9d8c-143b4f052794",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes y de la Antártica Chilena por heladas",
+	"fechaHora": "2024-07-08T13:59:00.000-04:00",
+	"createdAt": "2024-07-08T18:44:37.572Z",
+	"updatedAt": "2024-07-08T18:45:09.870Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-de-la-antartica-chilena-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A260</p></td><td><p style=\"text-align:justify\">Heladas normales a moderadas con formación de hielo en   los sectores de Insular Sur, Pampa Patagónica Norte y Pampa Patagónica Sur.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, en consideración a lo indicado por el Centro Meteorológico Regional Austral, se espera un aumento de las temperaturas máximas, lo que supone una disminución de la amenaza asociada a la condición meteorológica y la reducción del factor de riesgo para los habitantes y sus bienes.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de la Región de Magallanes y de la Antártica Chilena, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por heladas, </strong>que se mantenía vigente desde el 28 de junio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

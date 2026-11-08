@@ -1,0 +1,20 @@
+{
+	"id": "47d140d7-9c5e-43d0-9e1d-0d7ed82219d4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de San Pablo por crecida",
+	"fechaHora": "2026-08-11T13:29:42.4242-04:00",
+	"createdAt": "2026-08-11T17:31:48.462Z",
+	"updatedAt": "2026-08-11T17:57:29.463Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA)</strong>, través de su plataforma digital, la estación hidrométrica \"Río Bueno en Bueno\" presentan una disminución en su caudal a rangos normales, lo que supone una disminución del riesgo para la población cercana a este curso de agua.</p><p style=\"text-align:justify\">Cabe mencionar que, de acuerdo con lo informado por el Encargado de Gestión del Riesgo y Desastres de la comuna, la conectividad terrestre por la ruta U-220 fue reestablecida, no obstante las personas del sector Puilo Bajo, mantienen conectividad vía fluvial por medio de embarcaciones propias.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>Cancela Alerta Amarilla por crecida p</strong><strong>ara la comuna de San Pablo,</strong> que se mantuvo vigente desde el 07 de agosto del 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

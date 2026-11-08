@@ -1,0 +1,20 @@
+{
+	"id": "708a1a08-d367-420d-85ef-ea475d57d7c7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2024-03-04T19:59:00.000-03:00",
+	"createdAt": "2024-03-04T23:00:24.361Z",
+	"updatedAt": "2024-03-05T22:09:47.355Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-3",
+	"parentId": "d05c795e-01e9-4dc6-9c51-936c370ce724",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Ovalle\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Ovalle, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>La Chimba 8</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>0,01 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal&nbsp;se encuentra activo en todos sus sectores con intensidad alta y generación de pavesas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>3 brigadas de CONAF, 1 técnico de CONAF, 1 helicóptero de CONAF y 1 camión cisterna de CONAF<br></div></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:#212529\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para la comuna de Ovalle por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:#212529\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

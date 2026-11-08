@@ -1,0 +1,20 @@
+{
+	"id": "f6e96aa2-5b73-4c77-a85f-fcd5560d38bc",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de San Juan de la Costa por incendio forestal",
+	"fechaHora": "2024-02-17T19:00:00.000-03:00",
+	"createdAt": "2024-02-17T22:04:20.748Z",
+	"updatedAt": "2024-02-17T22:04:59.292Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-juan-de-la-costa-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Osorno\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Juan de la Costa\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de San Juan de la Costa, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Purrehuín Alto<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>198,2 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>Bomberos de&nbsp;Puaucho, 5 brigadas de CONAF, 9 técnicos de CONAF, 2 helicópteros de CONAF, 1 helicóptero de SENAPRED, 1 avión de coordinación de CONAF, 1 camión aljibe de CONAF, 1 puesto de mando, 1 retroexcavadora de la Municipalidad de Osorno y personal de Carabineros</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para la comuna de San Juan de la Costa por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 14 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

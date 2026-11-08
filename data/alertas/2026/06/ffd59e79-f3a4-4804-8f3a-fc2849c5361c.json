@@ -1,0 +1,20 @@
+{
+	"id": "ffd59e79-f3a4-4804-8f3a-fc2849c5361c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Vicuña por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-06-26T03:30:20.476Z",
+	"updatedAt": "2026-06-26T03:34:38.804Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-vicuna-por-incendio-forestal-2026-06-25-15-51-26",
+	"parentId": "bda04f73-cf0f-4f21-857d-fcd5d0a311d3",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf&nbsp;</strong>respecto al incendio forestal en la comuna de Vicuña, se informa el siguiente detalle:</span></span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Puclaro</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">10 hectáreas</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cuerpo de Bomberos de Vicuña, Paihuano, La Serena y Coquimbo</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">2 técnicos de Conaf y 2 técnicos de la Unidad de análisis y diagnóstico</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">El incendio se encuentra cercano a la Central Hidroeléctrica Puclaro.</span></p></td></tr></tbody></table><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Vicuña, por incendio forestal, que se encuentra vigente desde el 25 de junio de 2026.</span><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

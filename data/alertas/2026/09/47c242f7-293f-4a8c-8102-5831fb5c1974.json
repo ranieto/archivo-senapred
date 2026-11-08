@@ -1,0 +1,20 @@
+{
+	"id": "47c242f7-293f-4a8c-8102-5831fb5c1974",
+	"type": "Alerta",
+	"titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+	"fechaHora": "2026-09-20T07:55:00.000-03:00",
+	"createdAt": "2026-09-20T11:01:59.511Z",
+	"updatedAt": "2026-09-21T01:18:41.697Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-09-16-18-51-41",
+	"parentId": "a5ce0d83-468a-4bfe-ac22-c3b3750c9dcf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 15px\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><span style=\"color: black;font-size: 15px\"> se encuentra vigente el siguiente alertamiento meteorológicos para la Región de Atacama:</span></p><p><span style=\"color: black;font-size: 15px\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Enlace</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A489</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de ventisca en cordillera.</p></td><td><p style=\"text-align:center\">19-09</p></td><td><p style=\"text-align:center\">20-09</p></td><td><p style=\"text-align:center\"><span style=\"font-size:15px\"><a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchivos.meteochile.gob.cl%2Fportaldmc%2FAAA%2Fdoc%2Fevento_A489_2026.php&amp;data=05%7C02%7Cperiodistadeturno%40senapred.gob.cl%7C5a687edd6a9a4a28d8aa08df170500e3%7Cc4c70e6abf1c4c55986259a5f3ac8257%7C0%7C0%7C639254982440096402%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=EkTcv%2FKWDLl77BnSwvUH8eU7KE3ZFh8A%2B%2B%2BA%2FeqDxUw%3D&amp;reserved=0\"><span style=\"color:#0563C1\">Abrir   Aquí</span></a></span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>modifica el evento de la Alerta Temprana Preventiva a viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen</strong>, vigente desde el 16 de septiembre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

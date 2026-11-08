@@ -1,0 +1,20 @@
+{
+	"id": "3ed230c9-cf65-4986-a89a-79f66b34cdc1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Victoria por incendio forestal",
+	"fechaHora": "2025-02-06T00:55:05.055-03:00",
+	"createdAt": "2025-02-06T03:58:50.809Z",
+	"updatedAt": "2025-02-17T23:30:19.360Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-victoria-por-incendio-forestal-2",
+	"parentId": "383693c8-8a5a-4b8d-9b59-1c984fac836c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Victoria, se informa el siguiente detalle:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cullinco 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie afectada</strong></p></td><td><p>176 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>2 brigadas y 1 helicóptero CONAF</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio se desarrolla cercano a sectores poblados</div></td></tr></tbody></table></div><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Victoria, por incendio forestal, que se encuentra vigente desde el 05 de febrero de 2025.</p><p>Cabe mencionar que la Región de La Araucanía se mantiene con Alerta Amarilla por Incendio Forestal, a excepción de la comuna de Victoria, cuya excepción se mantendrá hasta el término de la vigencia de la presente alertas roja.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

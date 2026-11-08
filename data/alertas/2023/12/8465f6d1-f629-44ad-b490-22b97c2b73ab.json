@@ -1,0 +1,20 @@
+{
+	"id": "8465f6d1-f629-44ad-b490-22b97c2b73ab",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Marchigüe por incendio forestal ",
+	"fechaHora": "2023-12-21T18:43:00.000-03:00",
+	"createdAt": "2023-12-21T21:47:31.581Z",
+	"updatedAt": "2023-12-22T19:38:46.884Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-marchige-por-incendio-forestal",
+	"parentId": "79d313c2-f97b-46c6-8a68-fcbdc15bd990",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Marchigüe\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, con relación al incendio forestal registrado en la comuna de Marchigüe, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Mallermo 1.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">180 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El incendio presenta cercanía a sectores habitados.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">A las 18:10 horas de hoy fue enviado 1 mensaje SAE   para apoyar la evacuación del sector El Junquillo.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla y declara Alerta Roja por incendio forestal para la comuna de Marchigüe</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio, 1 técnico, 4 brigadas, 3 helicópteros medianos, 1 helicóptero semipesado, 2 aviones AT, 3 camiones aljibe y 2 skidder de CONAF, con apoyo de Bomberos&nbsp;</span><span style=\"color:black\">Marchigüe, Peralillo, La Estrella, Litueche, Peumo, Malloa, Navidad, Pumanque, Santa Cruz, Pichidegua, Chimbarongo, Placilla, Nancagua y Pichilemu.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

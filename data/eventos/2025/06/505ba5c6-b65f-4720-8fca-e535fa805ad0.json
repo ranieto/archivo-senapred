@@ -1,0 +1,19 @@
+{
+	"id": "505ba5c6-b65f-4720-8fca-e535fa805ad0",
+	"type": "Evento",
+	"titulo": "sismo test",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-06-13T19:20:55.492Z",
+	"updatedAt": "2025-06-13T19:21:19.198Z",
+	"urlAccess": "sismo-test",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>test</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0adfa05d-03cc-4868-abc2-c99bfe9d27b1",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla para la Región de Atacama por crecida",
+	"fechaHora": "2026-08-12T22:01:49.4949-04:00",
+	"createdAt": "2026-08-13T02:03:09.825Z",
+	"updatedAt": "2026-08-19T23:50:48.629Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-08-12-11-48-30",
+	"parentId": "2d16b05c-a096-49d0-8c51-591f486209d2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas han registrado las crecidas del “Río Pulido” en Tierra Amarilla y “El Transito” en Alto del Carmen, además de la activación de quebradas en distintas cuencas de la región, lo que supone un aumento del riesgo para la población cercana.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>modifica la cobertura de Alerta Amarilla por crecida a Regional,</strong> que se encuentra vigente desde el 12 de agosto de 2026 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con la modificación de esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

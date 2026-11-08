@@ -1,0 +1,20 @@
+{
+	"id": "964422fe-f22d-4271-ae98-85003bd38dd1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Biobío por calor intenso",
+	"fechaHora": "2025-01-07T09:20:00.000-03:00",
+	"createdAt": "2025-01-07T12:39:04.593Z",
+	"updatedAt": "2025-01-07T12:41:08.126Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-biobio-por-calor-intenso-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso A473-4/2025 el cual pronosticaba calor intenso en las zonas de cordillera de la costa, valle y precordillera de la Región del Biobío.</p><p style=\"text-align:justify\">No obstante, se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A009</p></td><td><p style=\"text-align:justify\">Altas temperaturas   en los sectores de la cordillera de la costa, el valle y la precordillera de   la región.</p></td><td><p style=\"text-align:center\">09-01</p></td><td><p style=\"text-align:center\">11-01</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Lo anterior, constituye un debilitamiento de las condiciones meteorológicas que dieron origen al alertamiento, ya que, de acuerdo con el pronóstico público del día de hoy, las temperaturas no sobrepasarán el umbral de los 34°C en los próximos días.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por calor intenso para la provincia de Biobío, </strong>que se mantuvovigente desde el 03 de enero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

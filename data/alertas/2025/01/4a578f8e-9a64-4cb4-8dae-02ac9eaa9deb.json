@@ -1,0 +1,20 @@
+{
+	"id": "4a578f8e-9a64-4cb4-8dae-02ac9eaa9deb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Tirúa por incendio forestal",
+	"fechaHora": "2025-01-01T12:57:00.000-03:00",
+	"createdAt": "2025-01-01T15:59:51.380Z",
+	"updatedAt": "2025-01-01T16:00:36.998Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-tirua-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la&nbsp;</span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong><span style=\"color: black\">respecto del incendio forestal que se encuentra en la comuna de Tirúa, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Quidico</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Controlado</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">5.61 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Recursos</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Sin afectación a viviendas   y personas</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la comuna de Tirúa, por incendio forestal</strong>, que se mantuvo vigente desde el 31 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

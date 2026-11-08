@@ -1,0 +1,20 @@
+{
+	"id": "ba6804ec-56a6-40d5-9d70-48bc1196b002",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-12-21T19:27:00.000-03:00",
+	"createdAt": "2025-12-21T22:33:27.784Z",
+	"updatedAt": "2025-12-21T22:34:52.799Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2025-12-19-15-13-39",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A489</p></td><td><p style=\"text-align:justify\">Probable tormentas   eléctricas con probabilidad de fuertes rachas de vientos locales en valle y   cordillera de la costa.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En base a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico, </strong>que se mantuvo vigente desde el 19 de diciembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "f60a19e5-3d9f-4c33-966b-9a17d2c18474",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región del Biobío por amenaza de desborde",
+	"fechaHora": "2024-06-16T10:11:00.000-04:00",
+	"createdAt": "2024-06-16T14:12:06.071Z",
+	"updatedAt": "2024-06-16T14:12:48.295Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indican que las estaciones de red hidrométrica “Río Biobio” en Desembocadura, “Río Laja” en Tucapel 2 y “Río Pichilo” en Pichilo se encuentran en Alerta Azul. El resto de las estaciones de la Región del Biobío se encuentran por debajo del umbral de Alerta Azul y fuera de riesgo de desborde. Además, todos los cauces se encuentran en descenso de sus niveles, no existiendo recarga.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes<span style=\"color:black\"> que suponen una disminución del riesgo asociado a dicha variable</span> la Dirección Regional del SENAPRED del Biobío, en coordinación con la Delegación Presidencial Regional, <strong>Cancela la Alerta Amarilla Regional por amenaza de desborde,</strong> que se mantenía vigente desde el 15 de junio de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

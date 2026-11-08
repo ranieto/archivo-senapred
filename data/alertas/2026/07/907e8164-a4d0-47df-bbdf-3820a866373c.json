@@ -1,0 +1,20 @@
+{
+	"id": "907e8164-a4d0-47df-bbdf-3820a866373c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Cauquenes y Parral por desborde",
+	"fechaHora": "2026-07-21T02:49:25.2525-04:00",
+	"createdAt": "2026-07-21T06:50:23.868Z",
+	"updatedAt": "2026-07-21T06:51:23.493Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comuna-de-cauquenes-y-parral-por-crecida-2026-07-16-18-02-32",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “<strong>Río Perquilauquén en Quella</strong>”, ubicada en el sector Quella de la comuna de Cauquenes (límite con la comuna de Parral), indica que el caudal ha disminuido<strong> encontrándose con valores estables</strong>, alcanzando valores de <strong>umbral verde</strong>, lo que supone una disminución del riesgo para la población cercana a este curso de agua.</p><p><br></p><p style=\"text-align:justify\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por desborde para las comunas de Cauquenes y Parral</strong>, que se mantuvo vigente desde el 17 de julio de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b746bdce-6943-42d5-b902-45c5d1c6b5f0",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico",
+	"fechaHora": "2024-11-25T18:57:34.3434-03:00",
+	"createdAt": "2024-11-25T21:58:46.951Z",
+	"updatedAt": "2024-12-02T01:45:15.604Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico",
+	"parentId": "ff3415a3-3fa9-48c5-a56b-04cce2f49156",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\"> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Tarapacá:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A439-3</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas, preferentemente durante la tarde noche, con   precipitaciones aisladas, en precordillera y cordillera de la región.</p></td><td><p style=\"text-align:center\">25-11</p></td><td><p style=\"text-align:center\">30-11</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"font-size: 15px\">Por otro lado, de acuerdo con la DMC, se informa que ha sido cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA83</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas asociadas a chubascos aislados en el litoral y cordillera de la   costa.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Temprana Preventiva a la provincia del Tamarugal por evento meteorológico</strong>, que se encuentra vigente desde el 25 de noviembre de 2024 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de cobertura de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

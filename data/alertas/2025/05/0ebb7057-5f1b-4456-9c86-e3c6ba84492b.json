@@ -1,0 +1,20 @@
+{
+	"id": "0ebb7057-5f1b-4456-9c86-e3c6ba84492b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas ",
+	"fechaHora": "2025-05-26T12:51:17.1717-04:00",
+	"createdAt": "2025-05-26T16:54:09.528Z",
+	"updatedAt": "2025-05-26T23:36:02.773Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-19",
+	"parentId": "3d815997-218a-4f5a-ac2e-6348364b13c1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A192</p></td><td><p>Probables tormentas   eléctricas en litoral, cordillera de la costa, valle y precordillera.</p></td><td><p style=\"text-align:center\">26-05</p></td><td><p style=\"text-align:center\">26-05</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por tormentas eléctricas</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

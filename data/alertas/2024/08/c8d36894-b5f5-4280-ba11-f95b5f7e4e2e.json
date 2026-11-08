@@ -1,0 +1,20 @@
+{
+	"id": "c8d36894-b5f5-4280-ba11-f95b5f7e4e2e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Rauco, Hualañé, Licantén y Curepto por crecida",
+	"fechaHora": "2024-08-03T13:32:00.000-04:00",
+	"createdAt": "2024-08-03T17:39:17.961Z",
+	"updatedAt": "2024-08-05T07:18:24.145Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-rauco-hualane-licanten-y-curepto-por-crecida",
+	"parentId": "8b1a7b98-5317-4476-b406-cd48882e4958",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca, Curicó, Linares\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Rauco, Hualañé, Licantén, Curepto\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la <strong>Dirección General de Aguas</strong> (DGA), se indica que la estación de red hidrométrica <strong>“Río Mataquito en Licantén” </strong>se encuentra en <strong>umbral amarillo</strong>.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, <span style=\"color:black\">que supone un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por crecida para las comunas de Rauco, Hualañé, Licantén y Curepto</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar que, las comunas de Sagrada Familia y San Rafael en la Región del Maule, se mantienen con Alerta Amarilla, vigente por crecida desde el 02 de agosto del 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "51dafb5d-e65c-4aa6-bbc0-8d2268308d29",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de San Pedro por incendio forestal",
+	"fechaHora": "2024-01-31T22:21:00.000-03:00",
+	"createdAt": "2024-02-01T02:05:02.031Z",
+	"updatedAt": "2024-02-04T22:40:17.734Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal",
+	"parentId": "34a7ae4c-0216-4aa1-a8cc-1a38d415abb3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Pedro\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED&nbsp; mantiene la Alerta Roja para la Comuna de San Pedro, por incendio forestal, que se encuentra vigente desdeel 31 de enero de 2024.<br></p><p><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quilamuta 2 </p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>306 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio   presenta comportamiento extremo y gran cantidad de combustible disponible.</p></td></tr></tbody></table><p>Al momento a raíz del incendio se reporta una bodega en desuso con danos en evaluación. Por otra parte, 49 personas fueron evacuadas preventivamente, siendo derivadas a la Escuela Lo Prado<br></p><p>Trabajan en el lugar: Bomberos de San Pedro, Melipilla, El Monte, Talagante, Buin, Isla de Maipo, Peñaflor, Padre Hurtado, Metropolitano Sur, Paine, Quinta Normal, San Bernardo, El Bosque, Calera de Tango, Ñuñoa , Puente Alto, Maipú, Cerrillos y Santiago, 3 Brigadas de CONAF, 1&nbsp;Avion de CONAF, 5&nbsp;Helicópteros de CONAF, 3&nbsp;Helicópteros de SENAPRED, 3&nbsp;Skidder de CONAF, 2&nbsp;Camiones cisterna de CONAF, 1&nbsp;Ambulancia ACHS, 2&nbsp;Camión aljibe municipal, 2&nbsp;Maquinas municipales, 1&nbsp;Puesto de mando de CONAF,&nbsp;Carabineros y&nbsp;Personal de SENAPRED RM<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "5dde4292-5c3d-4ca8-ace2-95a62d72ef44",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Machalí por incendio forestal",
+	"fechaHora": "2023-11-26T15:54:38.3838-03:00",
+	"createdAt": "2023-11-26T18:56:07.457Z",
+	"updatedAt": "2023-11-27T22:11:44.021Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-machali-por-incendio-forestal",
+	"parentId": "8becbb33-a9cc-4c0c-8d9e-b53eb6be5b28",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Machalí\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de Machalí, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Ranchillo</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,01 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Amenaza   inminente a Área Silvestre Protegida (ASP) Reserva Nacional Río Cipreses.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para la comuna de Machalí por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

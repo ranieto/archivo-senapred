@@ -1,0 +1,20 @@
+{
+	"id": "75cf8a25-4bb6-4ef8-a8fb-80c1835a97a8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Requínoa por incendio forestal",
+	"fechaHora": "2023-12-24T15:00:00.000-03:00",
+	"createdAt": "2023-12-24T18:02:09.749Z",
+	"updatedAt": "2023-12-25T20:01:07.149Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-requinoa-por-incendio-forestal",
+	"parentId": "f7097d5d-205b-4b78-8119-7a9db29ae9ad",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Requínoa\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna Requínoa, con el siguiente detalle:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Yesca.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal activo en su frente de avance con   velocidad de propagación rápida, el cual amenaza a antenas de   telecomunicación que se encuentran a 1,5 kilómetros y al vertedero La Yesca   que se encuentra a menos de 1 kilómetro.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por incendio forestal para la comuna de Requínoa</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio, 3 técnicos, 4 brigadas, 1 camión cisterna, 3 aviones y 3 helicópteros de CONAF, junto a Bomberos de Requínoa, Machalí, Rancagua y Olivar.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

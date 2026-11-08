@@ -1,0 +1,20 @@
+{
+	"id": "db9892b1-571a-438d-8270-241334283cf4",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Roja para la comuna de Hualqui por incendio forestal",
+	"fechaHora": "2025-03-03T18:12:00.000-03:00",
+	"createdAt": "2025-03-03T21:30:42.680Z",
+	"updatedAt": "2025-03-03T21:30:52.769Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hualqui-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Hualqui\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Hualqui, se informa el siguiente detalle:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><span style=\"font-size: 14px\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"font-size: 14px\">Loma Blanca</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Estado</strong></span></p></td><td><p><span style=\"font-size: 14px\">Controlado</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Superficie</strong></span></p></td><td><p><span style=\"font-size: 14px\">1.3hectáreas</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Recursos</strong></span></p></td><td><p><span style=\"font-size: 14px\">​<span style=\"color: rgb(33, 37, 41)\">Compañías del cuerpo de bomberos de Hualqui, 5 brigadas terrestres de CONAF, 1 técnico de CONAF, 2 helicópteros y 2 aviones.</span>​<br></span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Observaciones</strong></span></p></td><td><p><span style=\"font-size: 14px\">Incendio forestal controlado sin viviendas afectadas.<br></span></p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPREDcancela la Alerta Roja para la comuna de Hualqui, por incendio forestal, que se mantuvo vigente desde el 03de marzo de 2025<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

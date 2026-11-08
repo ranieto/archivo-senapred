@@ -1,0 +1,21 @@
+{
+	"id": "71f9ec67-7d26-4fa9-848d-6e8ead75951b",
+	"type": "Alerta",
+	"titulo": "actualiza 1",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-23T10:15:33.133Z",
+	"updatedAt": "2023-09-24T09:02:02.051Z",
+	"urlAccess": "prueba-1",
+	"parentId": "a0f332a3-3bc9-4a56-8bb6-4bf6f706b951",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>nnnnnnnnnnnnnnnnnnnnnnnnnn</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

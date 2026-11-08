@@ -1,0 +1,20 @@
+{
+	"id": "e7fff1b0-2a93-4cea-850a-65d38d61d253",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por remoción en masa",
+	"fechaHora": "2024-10-12T18:45:00.000-03:00",
+	"createdAt": "2024-10-12T21:47:32.572Z",
+	"updatedAt": "2024-11-21T10:44:59.684Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "1e8d86c7-9008-4b9a-a296-181df11d744f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, respecto a los continuos <strong>deslizamientos en la Cuesta Chinchorro</strong> y las zonas de talud con alta susceptibilidad de remoción en masa,<strong> se informa que hasta las 20:00 horas de hoy, la ruta se mantendrá habilitada en una pista para el tránsito de vehículos pesados y livianos.</strong><br></p><p style=\"text-align:justify\">No obstante, continúan los trabajos de despeje de la ruta, por lo cual entre las 20:00 de hoy y las 08:00 horas de mañana 13 de octubre se mantendrá cerrada preventivamente.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por remoción en masa,</strong> la que se encuentra vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Continúa trabajando en el lugar Carabineros y personal del Ministerio de Obras Públicas.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "b82ea35e-0f98-4bfd-904f-f6ca5a5221ea"
+}

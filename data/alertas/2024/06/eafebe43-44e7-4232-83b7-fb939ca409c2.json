@@ -1,0 +1,20 @@
+{
+	"id": "eafebe43-44e7-4232-83b7-fb939ca409c2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Arauco por desborde",
+	"fechaHora": "2024-06-22T19:11:00.000-04:00",
+	"createdAt": "2024-06-22T23:18:45.846Z",
+	"updatedAt": "2024-06-22T23:18:59.570Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA),</strong> mediante su reporte de seguimiento de cauces de las 17:00 horas, la estación “Río Pichilo en Pichilo” se encuentra en umbral de alerta azul con tendencia a la baja; y la estación “Rio Lía” se presenta fuera de los umbrales de alerta, ambos ríos ubicados en la comuna de Arauco. Asimismo, personal municipal en terreno confirma la disminución de los caudales.<br></p><p style=\"text-align:justify\">Por otro lado, la Dirección Meteorológica de Chile (DMC) señala que no se pronostican precipitaciones para los próximos días en la comuna.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por desborde para la comuna de Arauco,</strong> que se mantenía vigente desde el 20 de junio de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "0f0aeb23-244d-4724-b5d2-d13a1d6127a8",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Tarapacá",
+	"fechaHora": "2023-10-24T01:37:00.000-03:00",
+	"createdAt": "2023-10-24T04:52:49.388Z",
+	"updatedAt": "2023-10-24T04:52:49.388Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 01:33 horas en la Región de Tarapacá.</p><p>Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Tarapacá</strong></div></td></tr><tr><td><div>Mamiña:</div></td><td><div>IV</div></td></tr><tr><td><div>Iquique:</div></td><td><div>III</div></td></tr><tr><td><div>Alto Hospicio :</div></td><td><div>III</div></td></tr><tr><td><div>Pica :</div></td><td><div>II</div></td></tr><tr><td><div>Ujina:</div></td><td><div>II</div></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>El Centro Sismológico Nacional indica que la magnitud fue 3.9, localizada a 26 Kms al Norte de Pica.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

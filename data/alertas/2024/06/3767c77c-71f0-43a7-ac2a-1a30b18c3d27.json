@@ -1,0 +1,20 @@
+{
+	"id": "3767c77c-71f0-43a7-ac2a-1a30b18c3d27",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
+	"fechaHora": "2024-06-13T12:53:00.000-04:00",
+	"createdAt": "2024-06-13T17:31:06.101Z",
+	"updatedAt": "2024-06-18T13:22:10.608Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-panguipulli-futrono-lago-ranco-y-rio-bueno-por-precipitaciones",
+	"parentId": "77dc4f55-c3e2-4198-bec7-8bad58fab7c7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A199-3</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en sectores de litoral, cordillera de la costa y   precordillera.</p></td><td><p style=\"text-align:justify\">13-06</p></td><td><p style=\"text-align:justify\">13-06</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A212</p></td><td><p style=\"text-align:justify\">Probable   desarrollo de tormentas eléctricas en litoral, cordillera de la costa, valle   y precordillera de la región.</p></td><td><p style=\"text-align:justify\">13-06</p></td><td><p style=\"text-align:justify\">13-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, el <strong>Servicio Nacional de Geología y Minería </strong>(SERNAGEOMIN) </span><span style=\"color:black\">a través de su<strong> Minuta Técnica por Peligro de Remociones en Masa</strong>, indica que la posibilidad de ocurrencia de remociones en masa es </span><strong><span style=\"color:black\">moderada </span></strong><span style=\"color:black\">para la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva Regional por Evento Meteorológico, </strong>que se mantiene vigente desde el 03 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "bd574403-27ff-4b2d-bde8-6f1f9a01934c",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Coquimbo, Valparaíso y Metropolitana",
+	"fechaHora": "2025-03-05T07:12:31.3131-03:00",
+	"createdAt": "2025-03-05T10:13:17.063Z",
+	"updatedAt": "2025-03-05T10:19:49.029Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-coquimbo-y-valparaiso",
+	"parentId": "adc81c0d-6731-47ed-b8fa-9db48d050da3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región de Coquimbo, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 07:03 horas en las regiones de Coquimbo, Valparaíso y Metropolitana. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Coquimbo </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Canela: </span></p></td><td><p><span style=\"font-size:16px\">V</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Los Vilos: </span></p></td><td><p><span style=\"font-size:16px\">V</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Paiguano: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Valparaíso </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">La Ligua: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Metropolitana de   Santiago </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Tiltil: </span></p></td><td><p><span style=\"font-size:16px\">II</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Curacaví­: </span></p></td><td><p><span style=\"font-size:16px\">II</span></p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. </p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.2 localizado a16 Kms al Sur de Canela Baja</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

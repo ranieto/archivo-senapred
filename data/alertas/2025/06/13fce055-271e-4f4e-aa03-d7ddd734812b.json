@@ -1,0 +1,20 @@
+{
+	"id": "13fce055-271e-4f4e-aa03-d7ddd734812b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2025-06-30T11:22:37.3737-04:00",
+	"createdAt": "2025-06-30T15:23:44.213Z",
+	"updatedAt": "2025-06-30T15:25:02.924Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), a través su Pronóstico Público, el cual indica un debilitamiento de las condiciones meteorológicas que generaron esta alerta, sumado a la cancelación del Aviso Meteorológicos A242-3/2025, que pronosticó heladas normales a moderadas con probabilidad de formación de escarcha en cordillera de la costa, valle y precordillera de la región.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional&nbsp;por evento meteorológico, que se encontraba vigente desde el 27 de junio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

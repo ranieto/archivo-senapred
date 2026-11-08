@@ -1,0 +1,20 @@
+{
+	"id": "c02f4fbf-cdd4-4cf1-9c28-f2c08c7429d8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-01-26T11:42:35.3535-03:00",
+	"createdAt": "2024-01-26T14:43:54.215Z",
+	"updatedAt": "2024-02-09T15:14:30.255Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico",
+	"parentId": "a24436e7-1e9a-49b5-bc1f-818f82de2823",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá</strong>, producto de las precipitaciones registradas en la localidad de Cariquima, comuna de Colchane, 136 personas se encuentran damnificadas, mientras se mantiene en evaluación el número de viviendas afectadas.<br></p><p style=\"text-align:justify\">Cabe señalar, que 20 de los damnificados se encuentran albergados en el colegio de la localidad de Cariquima, mientras que los 116 restantes, fueron derivados a casa de familiares.</p><p style=\"text-align:justify\">Por otra parte, respecto a la Posta rural de Cariquima que resultó inundada, se indica que esta situación ya se encuentra subsanada.</p><p style=\"text-align:justify\">Considerando estos antecedentes, la Dirección Regional del SENAPRED de Tarapacá mantiene Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas, que se mantiene vigente desde el 16 de enero de 2024. </p><p style=\"text-align:justify\"></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Personal municipal trabaja en el lugar con apoyo de maquinaria, para evitar el paso del agua al sector y a su vez, en la evaluación de la afectación de la población.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

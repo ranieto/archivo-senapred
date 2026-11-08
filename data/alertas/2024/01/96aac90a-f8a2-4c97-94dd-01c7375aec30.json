@@ -1,0 +1,20 @@
+{
+	"id": "96aac90a-f8a2-4c97-94dd-01c7375aec30",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Pudahuel por incendio forestal",
+	"fechaHora": "2024-01-24T21:45:00.000-03:00",
+	"createdAt": "2024-01-25T01:04:42.453Z",
+	"updatedAt": "2024-01-25T20:33:23.826Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pudahuel-por-incendio-forestal",
+	"parentId": "6cb4cf55-9168-4e02-870e-245e53b4181e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"</span><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Cuesta Lo Prado\"</span>, en la comuna de Pudahuel, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cuesta Lo Prado</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>250 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Incendio forestal se mantiene con velocidad de propagación   rápida y comportamiento extremo del fuego, con proximidad al Santuario   Quebrada de La Plata y sectores habitados.</span></p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Comuna de Pudahuel,</strong> por incendio forestal, que se encuentra vigente desde el 24 de enero de 2024.</span></p><p><span style=\"color:#2E2E2E\">Al momento, fue evitada la propagación del incendio hacia el sector Quebrada de La Plata, mientras se trabaja en contener el avance hacia el sector de la Ruta 68 y el Centro de Estudios Nucleares, por lo que todos los recursos se centraran en la contención del avance del fuego.</span></p><p><span style=\"color:#2E2E2E\">En cuanto a los recursos activos, se informa de 1 puesto de mando, 8 técnicos, 18 brigadas, 4 camiones aljibe, 1 camión pluma, 3 maquinarias skidder, 6 helicópteros, 1 avión de coordinación (ACO) de CONAF; 3 helicópteros dispuestos por SENAPRED; Bomberos de Curacaví, Quinta Normal, Santiago y María Pinto; 1 Cuadrilla de ENEL, Carabineros y Ambulancia SAMU. Además, mantendrá labores en el lugar 3 brigadas nocturnas de CONAF.</span></p><p><span style=\"color:#2E2E2E\">Por último, para mañana se espera el trabajo de 17 brigadas, 7 helicópteros, 4 aviones, 5 camiones aljibe y 2 Skidder de CONAF; 3 helicópteros dispuestos por SENAPRED, 1 ambulancia de la ACHS y 1 de SAMU.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

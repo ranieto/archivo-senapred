@@ -1,0 +1,20 @@
+{
+	"id": "be96be4d-88b6-405f-83ec-fcd591193687",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Purén por incendio forestal",
+	"fechaHora": "2024-02-18T21:33:26.2626-03:00",
+	"createdAt": "2024-02-19T00:38:38.947Z",
+	"updatedAt": "2024-02-21T20:29:15.504Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puren-por-incendio-forestal",
+	"parentId": "2196ba4f-3591-449a-b580-a8ebe2a33dc6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Purén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">&nbsp;se registra un incendio forestal en la comuna de Purén, según el siguiente detalle:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Nombre   del incendio</span></strong></p></td><td><p><span style=\"font-size:16px\">Lingue 4</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">60 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Fundamentación   técnica</span></strong></p></td><td><p style=\"text-align:justify\">Incendio se desarrolla cercano a zonas   habitadas del sector Ipinco. Asimismo, el incendio presenta comportamiento   rápido producto del combustible y las condiciones meteorológicas.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Purén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

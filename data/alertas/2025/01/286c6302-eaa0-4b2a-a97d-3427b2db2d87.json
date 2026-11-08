@@ -1,0 +1,20 @@
+{
+	"id": "286c6302-eaa0-4b2a-a97d-3427b2db2d87",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Vichuquén por incendio forestal ",
+	"fechaHora": "2025-01-11T13:01:00.000-03:00",
+	"createdAt": "2025-01-11T16:10:46.346Z",
+	"updatedAt": "2025-01-12T00:20:30.614Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-vichuquen-por-incendio-forestal",
+	"parentId": "7a0ef0c6-d6f1-4e9d-b4bc-81105b10efe9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal&nbsp;al momento contenido solo actividad dentro de la linea de control en los puntos 1,2,5 6.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Los Brujos Norte</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Vichuquén</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>44.5 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 brigadas, 1 técnico, 1 Skidder,1 camión aljibe y 2 guarda bosques Forestal Vista Hermosa.</div><div>3 brigadas, 4 técnicos, 1 helicóptero, 1 puesto de mando, 2 skidder y 2 camión aljibe CONAF Maule.</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Vichuquén, por incendio forestal, que se encuentra vigente desde el 10 de enero de 2025.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

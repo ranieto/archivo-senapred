@@ -1,0 +1,20 @@
+{
+	"id": "a121f86b-e109-4232-a58d-c471a126f510",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Mostazal por incendio forestal",
+	"fechaHora": "2024-11-10T18:14:42.4242-03:00",
+	"createdAt": "2024-11-10T21:21:39.836Z",
+	"updatedAt": "2024-11-10T23:40:26.460Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-mostazal-region-de-ohiggins-por-incendio-forestal",
+	"parentId": "dee9e681-fa4b-436c-b590-c37948b9f5a5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio Forestal “Fundo La Querencia” se mantiene en combate con 30 hectáreas, sin embargo, existe unadisminución de las condiciones que dieron origen a la alerta roja, debido a que el sector del incendio queamenazaba a viviendas se encuentra contenido.Cabe mencionar, que el incendio presenta actividad en su frente de avance, con intensidad alta en el sector6; baja en el sector 1; y sectores 2, 3, 4 y 5 se encuentran contenidos.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Fundo La Querencia</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Mostazal</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>30</div></td></tr><tr><td><div>Brigadas CONAF</div></td><td><div>6</div></td></tr><tr><td><div>Técnicos CONAF</div></td><td><div>1</div></td></tr><tr><td><div>Aeronaves</div></td><td><div>4</div></td></tr><tr><td><div>Camiones Aljibe CONAF</div></td><td><div>1</div></td></tr><tr><td><div>Encargados de seguridad CONAF</div></td><td><div>1</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, laDirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna deMostazal por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursosnecesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión yseveridad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

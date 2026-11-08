@@ -1,0 +1,20 @@
+{
+	"id": "8188b9d2-58ec-488b-8d58-4b1836d9b4d5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para las comunas de Marchihue y La Estrella por incendio forestal",
+	"fechaHora": "2024-01-03T11:18:18.1818-03:00",
+	"createdAt": "2024-01-03T14:19:52.595Z",
+	"updatedAt": "2024-01-03T17:18:32.456Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-marchihue-y-la-estrella-por-incendio-forestal",
+	"parentId": "00227612-94f3-48c3-8883-cc01a0eecc8e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Marchigüe, La Estrella\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se desarrolla en las comunas de Marchihue y La Estrella, se indica los siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cruce La Rosa</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">348.9 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El incendio se encuentra contenido</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Amarilla por incendio forestal para las comunas de Marchihue y La Estrella</strong>, que se mantiene vigente desde el 2 de enero de 2024.</p><p style=\"text-align:justify\">Trabajan en el combate del incendio durante la presente jornada 1 técnico, 3 brigadas, 1 skidder y 2 camiones aljibe de CONAF.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

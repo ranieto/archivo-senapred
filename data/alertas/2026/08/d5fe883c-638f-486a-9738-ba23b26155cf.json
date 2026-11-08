@@ -1,0 +1,20 @@
+{
+	"id": "d5fe883c-638f-486a-9738-ba23b26155cf",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región del Maule por crecida",
+	"fechaHora": "2026-08-25T17:51:18.1818-04:00",
+	"createdAt": "2026-08-25T21:52:54.495Z",
+	"updatedAt": "2026-08-30T13:30:51.544Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
+	"parentId": "a4bb6fa4-d238-4fef-b33f-1b81096b23b2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), en base al estado actual del Embalse Colbún y las condiciones meteorológicas proyectadas para la región, se prevé la necesidad de efectuar vertimientos controlados mediante la apertura de compuertas del embalse, donde se prevén eventuales aumentos de caudal en la cuenca del Río Maule, provocando crecidas y desbordes de esteros y ríos.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Del mismo modo, la estación hidrométrica <strong>Río Palos en junta con Colorado</strong>, ubicada en precordillera de las comunas de Molina y Curicó, indica un <strong>incremento en su caudal</strong>, alcanzando valores de <strong>umbral amarillo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla Regional por crecida,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

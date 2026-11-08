@@ -1,0 +1,20 @@
+{
+	"id": "7f507e20-0c87-4397-8b4f-2080ecb95d33",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y de Coquimbo",
+	"fechaHora": "2025-11-15T03:16:49.4949-03:00",
+	"createdAt": "2025-11-15T06:18:08.681Z",
+	"updatedAt": "2025-11-15T06:21:25.309Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-atacama-y-de-coquimbo",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 03:14 horas en las regiones de Atacama y de Coquimbo. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Atacama </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Copiapó: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Tierra Amarilla: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Coquimbo </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">La Serena: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br><br><br></span></p><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

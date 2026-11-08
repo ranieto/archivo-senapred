@@ -1,0 +1,20 @@
+{
+	"id": "c9c636c3-3168-49e4-86aa-4b4b60ae6d7c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Antofagasta por alteración del suministro de agua potable",
+	"fechaHora": "2023-12-27T14:36:00.000-03:00",
+	"createdAt": "2023-12-27T17:46:14.128Z",
+	"updatedAt": "2023-12-27T17:49:02.744Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-antofagasta-por-alteracion-del-suministro-de-agua-potable",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">Según la información proporcionada por la Dirección Regional del SENAPRED Antofagasta,</span></strong><span style=\"color: black\"> respecto al corte en el servicio de suministro de agua potable en la comuna de Antofagasta, se informa que la red del servicio se encuentra restablecida en su totalidad a contar del día 8 de diciembre.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Del mismo modo, ha sido solucionada la falla en las líneas eléctricas que provocó los problemas de producción e impulsión de agua potable generando la emergencia en el suministro.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, la Secretaría Ministerial Regional de Salud, ha decidido poner término a la declaración de “Zona de Riesgo Sanitario”, a la comuna de Antofagasta<strong>, </strong>mediante Resolución Exenta N°1.653 del 26 de diciembre, debido a la normalización de las condiciones del suministro de agua potable. Debido a la anterior, a su vez ha sido cancelada la emergencia comunal para Antofagasta.</span></p><p style=\"text-align:justify\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva por alteración del suministro de agua potable para la comuna de Antofagasta</strong>, la cual se mantuvo vigente desde el 8 de diciembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "5499c814-b89e-4a2d-9bb7-b02d1586958b"
+}

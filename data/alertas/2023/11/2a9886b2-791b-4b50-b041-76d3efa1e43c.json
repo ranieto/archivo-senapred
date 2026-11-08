@@ -1,0 +1,20 @@
+{
+	"id": "2a9886b2-791b-4b50-b041-76d3efa1e43c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la provincia del Tierra del Fuego por incendio forestal",
+	"fechaHora": "2023-11-13T18:40:25.2525-03:00",
+	"createdAt": "2023-11-13T21:41:48.842Z",
+	"updatedAt": "2023-11-16T22:56:59.858Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-porvenir-por-incendio-forestal-2",
+	"parentId": "5e0e1f7c-7245-4994-8f0f-fb7ef1cfe43e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: black\">, respecto del incendio forestal en la comuna de Porvenir se indica el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Las Mercedes – Caupolicán.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1.200 hectáreas.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Información   técnica de CONAF</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio se encuentra sin   afectación ni peligro de propagación a infraestructura crítica y/o viviendas,   pero con actividad en el perímetro interior. </span></p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla </strong>para la provincia del Tierra del Fuego por incendio forestal, vigente desde hoy y hasta que las condiciones así lo ameriten.<br></p><p><span style=\"color: black\">Cabe destacar, que se mantiene la movilización de las BRIFES del Ejército de Chile y de los medios aéreos gestionados por el SENAPRED. Además, se mantiene el alistamiento de Bomberos de la comuna de Porvenir.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, a las 20:00 horas de hoy lunes 13 de noviembre se realizará un COGRID en la Delegación Presidencial Provincial de Tierra del Fuego.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

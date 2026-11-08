@@ -1,0 +1,20 @@
+{
+	"id": "3abf1eb5-ba93-4121-8243-c6996e619797",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de El Loa y las comunas Antofagasta y Taltal por evento meteorológico",
+	"fechaHora": "2024-03-05T11:00:00.000-03:00",
+	"createdAt": "2024-03-05T14:03:33.884Z",
+	"updatedAt": "2024-03-05T14:04:35.803Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-antofagasta-y-taltal-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta, El Loa\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante el Informe de Amenaza Meteorológica, se prevé que no existen montos de precipitaciones para la Región de Antofagasta durante los próximos días. Asimismo, mediante las actualizaciones de los Avisos Meteorológicos A40-3 y A43-5, se prevé que la región, deja de tener cobertura en las variables de precipitaciones normales a moderadas y probables tormentas eléctricas, respectivamente.<br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional de SENAPRED,<strong>cancela la Alerta Temprana Preventiva para la Provincia de El Loa y las comunas Antofagasta y Taltal, por Evento Meteorológico,</strong>que se mantuvo vigente desde el 09 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

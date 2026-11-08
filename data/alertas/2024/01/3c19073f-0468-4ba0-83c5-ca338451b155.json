@@ -1,0 +1,20 @@
+{
+	"id": "3c19073f-0468-4ba0-83c5-ca338451b155",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Santa Cruz por incendio forestal",
+	"fechaHora": "2024-01-12T20:10:00.000-03:00",
+	"createdAt": "2024-01-12T23:17:51.828Z",
+	"updatedAt": "2024-01-13T20:15:18.998Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-santa-cruz-por-incendio-forestal",
+	"parentId": "9c7a779d-2988-44ba-8a8a-685bf191c7cf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Colchagua\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Santa Cruz\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registran dos incendios forestales en la comuna de Santa Cruz, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Isla de Yáquil<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>5 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio presenta cercanía a sectores   habitados</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>8 brigadas de CONAF, 1 brigada de la Región Metropolitana, 4 técnicos de CONAF, 5 helicópteros de CONAF, 3 aviones de combate de CONAF, y 1 puesto de comando de CONAF<br></div></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>La Palma<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>5 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">El incendio se encuentra activo, en intensidad media en los sectores 3 y 4, los sectores 1,2,5,6 se encuentran activos en intensidad baja con gran emisión de pavesas<br></p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>Bomberos de Lolol y Santa Cruz, 2 brigadas de CONAF, 2 helicópteros de CONAF, y recursos en trayecto: 2 brigadas de CONAF, 2 aviones de CONAF, 1 skidder de CONAF, 1 camión aljibe de CONAF, 1 técnico de CONAF, 1 avión de coordinación de CONAF y 1 puesto de mando de CONAF<br></div></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de O'Higgins, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de Santa Cruz por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

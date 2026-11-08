@@ -1,0 +1,19 @@
+{
+	"id": "7ddd0eda-a62e-4c62-a3b4-c0d1103f8b44",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2023-11-16T12:02:35.3535-03:00",
+	"createdAt": "2023-11-16T15:03:21.275Z",
+	"updatedAt": "2023-11-16T15:13:05.296Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-13",
+	"parentId": "299c7e65-e092-4a3f-80e9-1f0c81078df0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">11:57 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de Atacama.</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>III</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p></p><p><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.7 localizado a</span> 34 Kms al Suroeste de Caldera.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "05017d60-8c44-4a57-958f-c45d1afc4ae0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso exceptuando la Provincia de Isla de Pascua y comuna de Juan Fernández por altas temperaturas",
+	"fechaHora": "2023-11-25T09:52:00.000-03:00",
+	"createdAt": "2023-11-25T12:56:29.020Z",
+	"updatedAt": "2023-11-25T12:56:52.066Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-altas-temperaturas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A448-2/2023, que pronosticó un evento de altas temperaturas en el litoral, cordillera de la costa, precordillera y valles precordilleranos de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional, exceptuando la Provincia de Isla de Pascua y comuna de Juan Fernández, por altas temperaturas</strong>, que se mantuvo vigente desde el 22 de noviembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6f98ae9b-0f5b-4cac-b7b0-08cdf22e76ca",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Yumbel por evento masivo",
+	"fechaHora": "2024-01-22T09:47:50.5050-03:00",
+	"createdAt": "2024-01-22T12:48:42.755Z",
+	"updatedAt": "2024-01-22T12:49:02.625Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-yumbel-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Biobío, respecto a la celebración de la festividad religiosa de “San Sebastián”, en la comuna de Yumbel, se informa que esta se encuentra finalizada, sin reportar situaciones de emergencias asociadas a este evento.<br></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de Yumbel, por evento masivo</strong>, que se mantenía vigente desde el 19 de enero. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

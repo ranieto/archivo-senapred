@@ -1,0 +1,20 @@
+{
+	"id": "a5a8d91d-9309-47ab-bd0c-9e4a72c72125",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por Heladas",
+	"fechaHora": "2026-09-07T17:27:00.000-03:00",
+	"createdAt": "2026-09-07T20:54:16.484Z",
+	"updatedAt": "2026-09-08T22:05:10.763Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-09-01-16-38-02",
+	"parentId": "138923df-22e0-4280-9783-404dd4a3cdab",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) mediante su Pronóstico Cero Grados, se esperan temperaturas mínimas entre los 1 y los 3°C en la región entre el martes 08 y miércoles 09 de septiembre. Además, se indica la probabilidad de heladas matinales en valle, precordillera, cordillera austral y patagonia austral de la región para el día 08 de septiembre.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva Regional por Heladas,</strong> que se encuentra vigente desde el 01 de septiembre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la población vestir adecuadamente con ropa de abrigo, utilizando calzado cerrado y manteniendo manos, cuello y cabeza protegidos; evitar cambios bruscos de temperatura, recordando cubrir nariz y boca al momento de salir desde un lugar temperado; y no exponer al frío a niños, ancianos y enfermos crónicos.</span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

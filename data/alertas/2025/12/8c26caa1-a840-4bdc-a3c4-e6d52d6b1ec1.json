@@ -1,0 +1,20 @@
+{
+	"id": "8c26caa1-a840-4bdc-a3c4-e6d52d6b1ec1",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales",
+	"fechaHora": "2025-12-02T16:12:23.2323-03:00",
+	"createdAt": "2025-12-02T19:20:33.981Z",
+	"updatedAt": "2025-12-04T17:14:00.063Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-2025-12-02-16-20-19",
+	"parentId": "9e2dddf5-1fdd-48f4-9123-50df0b4f157f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Según pronóstico de la Dirección Meteorológica de Chile, botón rojo (CONAF) y pronóstico de riesgos de incendios forestales (CONAF), de acuerdo a sus análisis técnicos y debido a que se presentan condiciones meteorológicas adversas para la Región Metropolitana, se determinan zonas con alta probabilidad de generación y propagación de incendios forestales.</p><p><span style=\"color:#333333\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;</span><span style=\"color:#333333\">coordinación con la Delegación Presidencial Regional Metropolitana de Santiago, la Dirección Regional&nbsp;</span><span style=\"color:#333333\">de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente</span><span style=\"color:#333333\">a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p><span style=\"color:#333333\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el</span><span style=\"color:#333333\">monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la</span><span style=\"color:#333333\">amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin&nbsp;</span><span style=\"color:#333333\">de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

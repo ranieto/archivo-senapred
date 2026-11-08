@@ -1,0 +1,20 @@
+{
+	"id": "31eac304-ec5a-4078-b668-81a1729f79e1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la comuna de Litueche por incendio forestal",
+	"fechaHora": "2025-12-23T15:48:42.4242-03:00",
+	"createdAt": "2025-12-23T18:55:48.664Z",
+	"updatedAt": "2025-12-24T16:18:23.805Z",
+	"urlAccess": "se-declara-alerta-amarila-para-la-comuna-de-litueche-por-incendio-forestal-2025-12-23-15-20-28",
+	"parentId": "5ccf4a3b-982c-4155-bbca-bd78667ef7f7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Litueche\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf y el SINAPRED, </span></strong><span style=\"color: black\">respecto al incendio forestal en la <strong>comuna de Litueche, </strong>se informa el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Central   Rapel</p></td></tr><tr><td><p><strong>Estado </strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>50 [ha]</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>5 brigadas terrestres,   2 técnicos, 3 helicópteros de Conaf, 2 aviones cisterna de Conaf y 1 puesto   de mando.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio   con cercanía a sectores poblados.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\"><br></span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Amarilla y declara Alerta Roja para la Comuna de Litueche por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\"><br></span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "a01df14b-1a52-43a4-a21a-01668667b1ef",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2026-02-04T05:10:18.1818-03:00",
+	"createdAt": "2026-02-04T08:11:04.957Z",
+	"updatedAt": "2026-02-04T08:16:51.310Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-2026-02-04-05-07-38",
+	"parentId": "1d290116-742b-4fd1-a93a-aad22d59d2bf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 05:04 horas en las regiones de Tarapacá y Antofagasta. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:   16px\">Región: Tarapaca </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Pica : </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:   16px\">Región: Antofagasta </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Tocopilla: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>(Preliminar) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.8 localizado a 46 Kms al Sureste de Quillagua.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

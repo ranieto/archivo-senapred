@@ -1,0 +1,20 @@
+{
+	"id": "420f55e9-8d25-48b5-8e76-cb972ac82a5c",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en Regiones de Arica y Tarapacá",
+	"fechaHora": "2024-06-04T05:53:25.2525-04:00",
+	"createdAt": "2024-06-04T09:54:45.860Z",
+	"updatedAt": "2024-06-04T09:54:45.860Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-arica-y-parinacota",
+	"parentId": "4f11f71b-7456-4f6b-af94-6b61831c6d93",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>04/06/2024   - 05:37</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>04/06/2024   - 05:51</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>IV   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>108-C</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>III</p></td></tr><tr><td><p>Cuya:   </p></td><td><p>III</p></td></tr><tr><td><p>Pocon   Chile: </p></td><td><p>III</p></td></tr><tr><td><p>San   Miguel de Azapa: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Camiña   : </p></td><td><p>IV</p></td></tr><tr><td><p>Huara   : </p></td><td><p>III</p></td></tr><tr><td><p>Pozo   Almonte : </p></td><td><p>III</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Modificación de los datos técnicos del sismo, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>4.7</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -19.08<br>   Longitud: -69.15</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>39   Kms al Noreste de Camiña</p></td></tr><tr><td><p>Región:   </p></td><td><p>Arica   y Parinacota</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>124.5</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

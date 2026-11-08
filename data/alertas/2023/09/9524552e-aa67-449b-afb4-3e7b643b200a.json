@@ -1,0 +1,21 @@
+{
+	"id": "9524552e-aa67-449b-afb4-3e7b643b200a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla, para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del volcán Villarrica",
+	"fechaHora": "2023-09-29T00:55:00.000-03:00",
+	"createdAt": "2023-09-29T04:07:36.305Z",
+	"updatedAt": "2023-11-21T21:42:04.043Z",
+	"urlAccess": "monitoreo-alerta-amarilla-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-3",
+	"parentId": "c204f614-a8b3-4daa-85d0-282c17ac770e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Cautín, Ranco, Valdivia\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curarrehue, Pucón, Villarrica, Panguipulli\",\"regiones\":\"Región de la Araucanía, Región de los Ríos\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene el nivel de alerta técnica en Amarilla [[1]].<br><br>En relación con el último Reporte Especial de Actividad Volcánica (RAV), que comprende los parámetros observados entre el 1 y el 15 de agosto, los registros se mantienen con una cantidad alta de actividad sísmica tipo LP, con una sutil disminución durante los últimos días; sin embargo, se observa un ligero incremento en la energía de las señales sísmicas registradas. Las imágenes satelitales muestran un lago de lava activo localizado cerca de superficie que genera anomalías térmicas y fenómenos incandescentes nocturnos. Se han registrado algunas explosiones débiles con material que generalmente no sobrepasa el área del cráter. Además, se ha detectado desgasificación de forma permanente. Los datos geodésicos no muestran deformación destacable durante el último periodo, manteniendo desplazamientos de recurrencia anual y cambios influenciados por factores climáticos<br><br>Cabe señalar, que el volcán aún continúa por sobre de su umbral base y con el potencial de generar explosiones que podrían afectar el área cercana al cráter.<br><br>Para más información del organismo técnico, consultar en https://rnvv.sernageomin.cl/volcan-villarrica/<br><br>En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN y en coordinación con las Delegaciones Presidenciales Regionales, las Direcciones Regionales del SENAPRED La Araucanía y Los Ríos mantienen la Alerta Amarilla, para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del volcán Villarrica, que permanece vigente desde el 08 de noviembre de 2022.<br><br>De igual forma, el SENAPRED mantiene el perímetro de seguridad para las regiones de La Araucanía y Los Ríos, de 500 metros alrededor del cráter activo, en conformidad con las facultades que otorga el artículo N°38, letra d), de la Ley N°21.364.<br><br>Por su parte, SERNAGEOMIN continúa con la vigilancia permanente del complejo volcánico y las Direcciones Regionales de SENAPRED La Araucanía y Los Ríos, mantendrán las coordinaciones con los integrantes del SINAPRED para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia.<br><br>[[1]] Alerta Técnica en Nivel Amarilla: que comprende variaciones en los niveles de parámetros derivados de la vigilancia que indican que el volcán está por encima de su umbral base y que el proceso es inestable, pudiendo evolucionar aun aumentando o disminuyendo esos niveles, por ende, una erupción probable, se podría desarrollar en un periodo de semanas o meses.<br></p><p><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

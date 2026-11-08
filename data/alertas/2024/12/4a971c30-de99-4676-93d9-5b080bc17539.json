@@ -1,0 +1,20 @@
+{
+	"id": "4a971c30-de99-4676-93d9-5b080bc17539",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la provincia de Chacabuco por incendio forestal",
+	"fechaHora": "2024-12-09T19:20:13.1313-03:00",
+	"createdAt": "2024-12-09T22:21:46.187Z",
+	"updatedAt": "2024-12-10T18:32:26.304Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-4",
+	"parentId": "ac361bac-4a12-47df-802a-55c02b85817a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), acerca del incendio forestal denominado “Santa Sara” que se desarrolla en la comuna de Lampa y Tiltil, el que afecta al momento una superficie de 285 hectáreas, incendio forestal con comportamiento extremo que por sus condiciones requiere para su combate parte de los recursos aéreos y terrestres disponibles.</p><div><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Santa Sara</div></td></tr><tr><td><div>Comuna</div></td><td><div>Lampa y Tiltil</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>285 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 compañías de Bomberos, 5 brigadas CONAF, 6 técnicos CONAF, 8 aeronaves CONAF, 2 camiones cisterna CONAF, 1 puesto de mando CONAF y 1 maquinaria pesada CONAF.</div></td></tr></tbody></table></div><div><br></div><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Provincia de Chacabuco por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><div><br></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

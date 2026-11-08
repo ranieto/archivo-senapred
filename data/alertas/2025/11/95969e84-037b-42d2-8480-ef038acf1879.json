@@ -1,0 +1,20 @@
+{
+	"id": "95969e84-037b-42d2-8480-ef038acf1879",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Roja para la comuna de Marchihue, Región de O'Higgins",
+	"fechaHora": "2025-11-17T16:12:53.5353-03:00",
+	"createdAt": "2025-11-17T19:19:56.414Z",
+	"updatedAt": "2025-11-17T19:41:48.691Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchihue-por-incendio-forestal-5",
+	"parentId": "311ba8b7-9b27-4640-9358-914cf8d9a5d5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Trinidad</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>7.56ha</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>No se reportan afectaciones en personas ni daños en viviendas en   la comuna de Marchihue.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegació0n Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Marchihue, por incendio forestal, que se encuentra vigente desde el 17 de noviembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

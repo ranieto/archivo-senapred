@@ -1,0 +1,20 @@
+{
+	"id": "6306a9a3-f083-4d3f-a3c9-9a9fe79837a0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Lolol por incendio forestal",
+	"fechaHora": "2025-02-02T17:59:27.2727-03:00",
+	"createdAt": "2025-02-02T21:00:19.735Z",
+	"updatedAt": "2025-02-03T22:05:01.215Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lolol-por-incendio-forestal",
+	"parentId": "788ca7cd-982f-43f5-82a3-d88574e55a13",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Lolol se reporta lo siguiente:</p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Los   Tricahues</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano   a sectores habitados.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Dirección Regional de SENAPRED </span><strong><span style=\"color: black\">declara Alerta Amarilla para la comuna de Lolol por incendio forestal,</span></strong><span style=\"color:black\"> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente..</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "45bfa8dc-d3ac-4f42-a9ae-55ea2c269ed0",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Atacama",
+	"fechaHora": "2025-02-18T14:24:14.1414-03:00",
+	"createdAt": "2025-02-18T17:27:21.908Z",
+	"updatedAt": "2025-02-18T17:30:42.745Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-atacama-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 14:19 en la región de Atacama</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Atacama</strong></div></td></tr><tr><td><div>Copiapó:</div></td><td><div>V</div></td></tr><tr><td><div>Tierra Amarilla:</div></td><td><div>V</div></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

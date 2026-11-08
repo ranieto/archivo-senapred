@@ -1,0 +1,20 @@
+{
+	"id": "74dd2c77-b3ac-48a1-bfda-052c4ea36aa8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Vallenar por incendio forestal",
+	"fechaHora": "2024-09-02T16:40:00.000-04:00",
+	"createdAt": "2024-09-02T20:49:57.782Z",
+	"updatedAt": "2024-09-03T21:44:08.634Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-vallenar-por-incendio-forestal-2",
+	"parentId": "8336e2c6-285a-4eff-98d5-673c210d051c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Vallenar\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información técnica proporcionada por la Central de Bomberos Vallenar, el incendio forestal“Quebrada Honda”, que afecta 2,8 hectáreas en la comuna de Vallenar, se mantiene controlado y en observaciónpor parte de CONAF.<br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinacióncon la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED mantiene la AlertaAmarilla para la Comuna de Vallenar, por incendio forestal, que se encuentra vigente desde el 01 de septiembrede 2024.<br></p><p><br></p><p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por el Departamento de Protección contra Incendios Forestales de Conaf, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de Vallenar, se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Quebrada Honda</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>08 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color:black\">Bomberos   Freirina y Vallenar </span></p></td></tr><tr><td><p><strong>Comentarios</strong></p></td><td><p><span style=\"color:black\">Durante   la madrugada de forma preventiva, se realizó la evacuación de 10 viviendas   cercanas al incendio, sin embargo, a la hora del presente informe las   personas ya se encuentran en sus respectivas viviendas, sin registrar   lesionados. Además, Bomberos trabajó en evitar la propagación del incendio   hacia una línea de transmisión de 110kv de la empresa Transelec, la cual   entrega energía a las comunas de Vallenar y Alto del Carmen.</span></p></td></tr></tbody></table>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

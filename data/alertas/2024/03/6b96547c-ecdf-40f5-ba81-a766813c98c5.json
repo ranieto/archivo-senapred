@@ -1,0 +1,20 @@
+{
+	"id": "6b96547c-ecdf-40f5-ba81-a766813c98c5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Monte Patria por incendio forestal",
+	"fechaHora": "2024-03-26T16:23:38.3838-03:00",
+	"createdAt": "2024-03-26T19:24:15.090Z",
+	"updatedAt": "2024-03-27T20:47:50.091Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-monte-patria-por-incendio-forestal",
+	"parentId": "47fe1d88-4c00-450c-9e27-e9fa4fff1171",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong><span style=\"font-size: 16px\">respecto del incendio forestal que se encuentra en la comuna de Monte Patria, se reporta lo siguiente:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Barrancones   Río Rapel</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2.0 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El   incendio se desarrolla cercano a sectores habitados. Conforme a lo indicado   por la Dirección Regional de SENAPRED Coquimbo, los habitantes de 15   viviendas del sector, fueron evacuados de manera preventiva.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED <strong>declara Alerta Roja</strong> para la Comuna de Monte Patria por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento. </p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

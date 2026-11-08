@@ -1,0 +1,20 @@
+{
+	"id": "78e743ce-8d1c-4ee3-969b-0bb2b930b941",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2024-12-20T17:50:00.000-03:00",
+	"createdAt": "2024-12-20T21:35:30.937Z",
+	"updatedAt": "2024-12-20T21:47:07.196Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-antonio-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de <strong>San Antonio </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Vertedero Cartagena</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.6 hectárea</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de San Antonio y Cartagena; 3 brigadas   y 1 PC CODE, 1 aljibe; 2 técnicos, 2 helicópteros y 2 aviones de combate de   Conaf. Además de 2 aljibes municipales y 1 UAD de Conaf.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de San Antonio, por incendio forestal, que se mantuvo vigente desde el 20 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

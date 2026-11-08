@@ -1,0 +1,20 @@
+{
+	"id": "5b0ac604-89f9-4f01-9b2f-4108b8cbf7e8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Molina por incendio forestal",
+	"fechaHora": "2025-02-13T12:45:17.1717-03:00",
+	"createdAt": "2025-02-13T15:45:58.137Z",
+	"updatedAt": "2025-02-13T15:46:47.029Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-molina-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Molina,&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>El Baúl</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>8 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Molina, por incendio forestal, que se mantuvo vigente desde el 12 de febrero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

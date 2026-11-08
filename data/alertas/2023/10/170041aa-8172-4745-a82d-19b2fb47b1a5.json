@@ -1,0 +1,20 @@
+{
+	"id": "170041aa-8172-4745-a82d-19b2fb47b1a5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Coquimbo por incendio forestal",
+	"fechaHora": "2023-10-18T17:22:11.1111-03:00",
+	"createdAt": "2023-10-18T20:23:41.155Z",
+	"updatedAt": "2023-10-19T18:16:26.390Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-coquimbo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Coquimbo\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal en la comuna de Coquimbo, se informa el siguiente detalle:<br><br></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Km 465</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">3 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio se mantiene   activo en todos sus sectores con avance rápido, comportamiento extremo y poca   visibilidad.</span></p></td></tr></tbody></table></div><p>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED mantiene la Alerta Roja para la comuna de Coquimbo por incendio forestal, que se encuentra vigente desde hoy 18 de octubre y hasta que las condiciones así lo ameriten.<br></p><p><br>Trabajan en el lugar 2 técnicos y 1 brigada de CONAF, junto a Bomberos de Coquimbo y personal municipal.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "aba611f6-0cc3-4958-abc5-dc6e744943aa",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Quillón por incendio forestal ",
+	"fechaHora": "2025-01-31T18:59:00.000-03:00",
+	"createdAt": "2025-01-31T22:12:55.603Z",
+	"updatedAt": "2025-01-31T23:28:50.264Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-incendio-forestal-3",
+	"parentId": "9f0b87fa-61ad-4cf4-8065-57952ff7a2d2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Quillón\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Quillón se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Camelias </p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En trayecto </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td class=\"se-table-selected-cell\"><p>5 Brigadas CONAF, 1 Técnicos CONAF, 1 PUESTO DE MANDO CONAF,   1 MÓVIL DE COMBUSTIBLE CONAF, 2 AVIONES CISTERNA y 1 HELICÓPTERO</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED declara Alerta Amarilla por incendio forestal para la comuna de Quillón, con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF,</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

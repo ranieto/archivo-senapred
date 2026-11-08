@@ -1,0 +1,20 @@
+{
+	"id": "9991fb45-cc60-4642-a308-e7333992b974",
+	"type": "Alerta",
+	"titulo": "Se modifica variable a Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2025-03-14T17:08:26.2626-03:00",
+	"createdAt": "2025-03-14T20:10:44.257Z",
+	"updatedAt": "2025-03-22T23:41:49.143Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-tamarugal-por-evento-meteorologico",
+	"parentId": "b7b84be2-6afa-47fd-b11e-0e46b3bc9703",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, indica que se encuentra vigente el siguiente alertamiento meteorológico para la Región de Tarapacá:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">A20-21</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en cordillera de la región.</p></td><td><p style=\"text-align:center\">14-03</p></td><td><p style=\"text-align:center\">19-03</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional de SENAPRED <strong>modifica variable a Alerta Temprana Preventiva&nbsp;</strong><strong>para la p</strong></span><strong><span style=\"color:black\">rovincia del Tamarugal por tormentas eléctricas</span></strong><span style=\"color:black\">, </span><span style=\"color:black\">vigente desde el 23 de enero de 2025 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "b81679fa-db4c-4dc4-804a-ce7b29028b63",
+	"type": "Evento",
+	"titulo": "Alteración del suministro de electricidad, comuna de Antofagasta (Ampliación de evento)",
+	"fechaHora": "2024-11-03T08:13:00.000-03:00",
+	"createdAt": "2024-11-03T11:16:53.920Z",
+	"updatedAt": "2024-11-03T18:21:24.894Z",
+	"urlAccess": "alteracion-del-suministro-de-electricidad-comuna-de-antofagasta-informacion-preliminar",
+	"parentId": "7533b4aa-2e65-46c8-a87f-0c136d9d32c0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Electricidad\",\"nombreImg\":\"corteelectricidad.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta</span></strong><span style=\"color: black\">, con relación a la alteración de suministro de electricidad que registra la comuna de Antofagasta, se informa que de los 111.905 clientes afectados inicialmente, se mantienen 13.500 de ellos sin servicio. Por otra parte, las causas del corte permanecen en investigación.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Cabe mencionar que, al momento no se reportan situaciones de emergencia a raíz de esta condición.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Continúa trabajando en la reposición del servicio personal de la empresa eléctrica CGE.</p>",
+	"variableInformateEventosId": "365320e5-6512-42cf-94f6-88551150b1ee"
+}

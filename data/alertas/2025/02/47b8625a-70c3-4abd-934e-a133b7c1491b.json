@@ -1,0 +1,20 @@
+{
+	"id": "47b8625a-70c3-4abd-934e-a133b7c1491b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja por calor extremo para la Región de Ñuble ",
+	"fechaHora": "2025-02-09T23:01:00.000-03:00",
+	"createdAt": "2025-02-10T02:17:54.314Z",
+	"updatedAt": "2025-02-10T02:19:05.593Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-de-uble-por-calor-extremo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Ñuble:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alarma   AAA1-2</p></td><td><p style=\"text-align:justify\">Evento extremo de   altas temperaturas en valle y precordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA9-5</p></td><td><p style=\"text-align:justify\">Evento de altas   temperaturas extremas en litoral y cordillera de la costa de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A40-4</p></td><td><p style=\"text-align:justify\">Altas temperaturas   en litoral, cordillera de la costa, valle y precordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por calor extremo</strong>, que se mantuvo vigente desde el 05 de febrero de 2025. </span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0c768027-5b21-428c-98ad-6a06e962398b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de San Ignacio por incendio forestal",
+	"fechaHora": "2024-03-09T21:48:00.000-03:00",
+	"createdAt": "2024-03-10T00:52:15.321Z",
+	"updatedAt": "2024-03-10T00:53:36.867Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-ignacio-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Ignacio\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de San Ignacio se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Vega Honda 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3.7 hectáreas </p></td></tr></tbody></table><p><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de San Ignacio, por incendio forestal, que se mantuvo vigente desde el 09 de marzo de 2024</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

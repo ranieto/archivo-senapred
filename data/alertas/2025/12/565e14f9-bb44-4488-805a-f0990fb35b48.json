@@ -1,0 +1,20 @@
+{
+	"id": "565e14f9-bb44-4488-805a-f0990fb35b48",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la Región del Biobío por calor extremo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-12-29T17:23:14.317Z",
+	"updatedAt": "2025-12-29T17:56:21.837Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-calor-intenso-2025-12-28-10-28-17",
+	"parentId": "1371a82e-ffaa-4388-b783-31201677ca3c",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Inicio</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Fin</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">Aviso A498-4</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Altas   temperaturas en litoral, cordillera de la costa, valle y precordillera de la   región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">29-12</span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">03-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por calor intenso, </strong>que se mantuvo vigente desde el 27 de diciembre de 2025; y <strong>declara Alerta Roja Regional por calor extremo</strong>, vigente a partir de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Con la <strong>declaración de esta Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento. </span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">El <strong>SENAPRED recomienda&nbsp;a la población</strong> protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

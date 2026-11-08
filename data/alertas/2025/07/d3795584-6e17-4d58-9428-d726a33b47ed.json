@@ -1,0 +1,20 @@
+{
+	"id": "d3795584-6e17-4d58-9428-d726a33b47ed",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Provincia de Osorno por crecida",
+	"fechaHora": "2025-07-30T19:30:38.3838-04:00",
+	"createdAt": "2025-07-30T23:32:37.136Z",
+	"updatedAt": "2025-08-05T15:44:16.018Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-osorno-por-crecida",
+	"parentId": "a2c5b5b7-1595-43e2-a964-1433e709a348",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Osorno\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA), en sus estaciones hidrométricas monitoreadas en línea, se indica que las estaciones Río Rahue antes junta Río Negro, Río Negro en Chahuilco y Río Rahue en Forrahue, ubicados en las comunas de Río Negro y Osorno, se encuentran en </span><strong>Alerta Técnica Amarilla.</strong></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la Provincia de Osorno por crecida, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta alerta, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

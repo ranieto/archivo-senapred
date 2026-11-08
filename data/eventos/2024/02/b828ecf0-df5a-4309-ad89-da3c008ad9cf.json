@@ -1,0 +1,19 @@
+{
+	"id": "b828ecf0-df5a-4309-ad89-da3c008ad9cf",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de La Araucanía",
+	"fechaHora": "2024-02-07T19:19:02.022-03:00",
+	"createdAt": "2024-02-07T22:19:51.129Z",
+	"updatedAt": "2024-02-07T22:31:07.393Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-la-araucania-3",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 19:17 horas en la Región de La Araucanía.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Collipulli:   </p></td><td><p>III</p></td></tr><tr><td><p>Ercilla:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

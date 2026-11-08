@@ -1,0 +1,20 @@
+{
+	"id": "96af3fc2-4b60-40ae-9eb0-742336985506",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Río Claro por incendio forestal ",
+	"fechaHora": "2024-12-25T18:39:09.099-03:00",
+	"createdAt": "2024-12-25T21:41:16.085Z",
+	"updatedAt": "2024-12-25T21:42:58.268Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rio-claro-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio Forestal se encuentra controlado.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Alto Camarico 3</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Río Claro (Camarico)</div></td></tr><tr><td><div>Estado</div></td><td><div>Controlado</div></td></tr><tr><td><div>Superficie</div></td><td><div>11 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>Bombero Río Claro, San Rafael, Pelarco, Molina y Talca.</div><div>6 brigadas, 1 técnico, 3 aviones cisternas y 2 helicópteros CONAF</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Río Claro, por incendio forestal, que se mantuvo vigente desde el 25 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "5fc227cd-715f-4ee0-80c6-55b94903cdfe",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Antofagasta",
+	"fechaHora": "2023-09-27T02:05:00.000-03:00",
+	"createdAt": "2023-09-27T05:08:55.325Z",
+	"updatedAt": "2023-09-27T05:08:55.325Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta",
+	"parentId": "7805a6f3-bcbc-4fb7-83a6-cfebb0d5cd54",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Calama\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p>Un sismo de menor intensidad se percibió a las 01:49 horas en la Región de Antofagasta.</p><p>Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Antofagasta </strong></div></td></tr><tr><td><div>Calama:</div></td><td><div>IV</div></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p>El Centro Sismológico Nacional indica que la magnitud del sismo fue de 3.2 y se localizó a 35 Kms al Noroeste de Calama.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

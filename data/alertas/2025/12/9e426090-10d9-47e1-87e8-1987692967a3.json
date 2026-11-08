@@ -1,0 +1,20 @@
+{
+	"id": "9e426090-10d9-47e1-87e8-1987692967a3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de La Higuera, La Serena, Coquimbo, Ovalle, Canela y Los Vilos por viento",
+	"fechaHora": "2025-12-16T09:25:00.000-03:00",
+	"createdAt": "2025-12-16T12:30:51.546Z",
+	"updatedAt": "2025-12-16T12:31:49.661Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-la-serena-coquimbo-ovalle-canela-y-los-vilos-por-viento-2025-12-14-14-12-16",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha modificado el siguiente alertamiento meteorológico, sin afectar ahora a la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A482</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado (entre 40 y 50 km/h) en el litoral de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para </strong></span><strong><span style=\"color:black\">las comunas de La Higuera, La Serena, Coquimbo, Ovalle, Canela y Los Vilos, </span></strong><span style=\"color:black\">vigente desde el 14 de diciembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

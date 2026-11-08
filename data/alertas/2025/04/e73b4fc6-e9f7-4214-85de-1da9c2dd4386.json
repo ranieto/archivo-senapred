@@ -1,0 +1,20 @@
+{
+	"id": "e73b4fc6-e9f7-4214-85de-1da9c2dd4386",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Pucón por evento meteorológico",
+	"fechaHora": "2025-04-26T15:01:28.2828-04:00",
+	"createdAt": "2025-04-26T19:02:19.731Z",
+	"updatedAt": "2025-04-26T19:03:33.099Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-pucon-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED La Araucanía, producto de las precipitaciones y el viento que se registraron en la comuna de Pucón, se indica que las distintas emergencias que afectaron caminos, viviendas y escuelas fueron superadas. Cabe mencionar, que fue restablecida la conectividad de </span><span style=\"color: black\">las 70 familias que se mantuvieron aisladas en el sector Río La Plata.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Pucón por evento meteorológico, la cual se mantuvo vigente desde el 23 de abril de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b3a5090c-e045-4c33-88aa-6af92dbe0c81",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las provincias de Capitán Prat y General Carrera por evento meteorológico",
+	"fechaHora": "2025-10-17T13:54:55.5555-03:00",
+	"createdAt": "2025-10-17T16:55:49.673Z",
+	"updatedAt": "2025-10-19T18:41:55.337Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-capitan-prat-por-crecida-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Aysén, en relación con el sistema frontal que afectó con inundaciones, crecidas de afluentes, remociones en masa, cortes de suministro eléctrico y agua potable, además de afectaciones en alcantarillado, alteraciones en la conectividad terrestre y otras incidencias en las provincias de General Carrera y Capitán Prat, en la Región de Aysén, se informa que dichas afectaciones se dan por superadas por parte de los equipos de emergencia.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para las Provincias de Capitán Prat y General Carrera por evento meteorológico</strong>, que se mantuvo vigente desde el 11 de octubre de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

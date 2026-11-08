@@ -1,0 +1,20 @@
+{
+	"id": "89344899-a6b4-4d25-a758-1ef13c08992c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por Heladas",
+	"fechaHora": "2026-07-05T13:15:00.000-04:00",
+	"createdAt": "2026-07-05T17:21:13.431Z",
+	"updatedAt": "2026-07-06T17:21:54.175Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-heladas-2026-07-05-13-20-55",
+	"parentId": "2d8bd169-d584-41af-9328-6395302d051d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A300</p></td><td><p>Heladas   normales a moderadas en cordillera de la costa y valle de la región.</p></td><td><p style=\"text-align:center\">06-07</p></td><td><p style=\"text-align:center\">06-07</p></td></tr></tbody></table><p style=\"text-align:justify\">Conforme a lo indicado en el alertamiento vigente, los valores estimados de temperaturas en grados Celsius (°C) son los siguientes:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Lunes 06</span></strong></p></td></tr><tr><td><p>Cordillera   de la costa</p></td><td rowspan=\"2\"><p style=\"text-align:center\">-4 / -2</p></td></tr><tr><td><p>Valle </p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional por Heladas</strong>, vigente desde hoy y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED</span></em></strong></span><em><span style=\"color: black\">&nbsp;recomienda a la población vestir adecuadamente con ropa de abrigo, utilizando calzado cerrado y manteniendo manos, cuello y cabeza protegidos; evitar cambios bruscos de temperatura, recordando cubrir nariz y boca al momento de salir desde un lugar temperado; y no exponer al frío a niños, ancianos y enfermos crónicos.</span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

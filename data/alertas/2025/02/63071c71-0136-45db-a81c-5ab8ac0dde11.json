@@ -1,0 +1,20 @@
+{
+	"id": "63071c71-0136-45db-a81c-5ab8ac0dde11",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chonchi por incendio forestal",
+	"fechaHora": "2025-02-15T16:00:00.000-03:00",
+	"createdAt": "2025-02-15T19:10:47.977Z",
+	"updatedAt": "2025-02-16T01:19:46.360Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal-2",
+	"parentId": "72a5fc04-af8e-419f-b263-5945043c13ad",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chonchi\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Chonchi </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quinched</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.25 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Castro, 2 Brigadas CONAF, 2 Técnicos CONAF y Aeronaves   1 Helicópteros de combate CONAF</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Chonchi por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0246b19f-56ce-494f-a7ca-4b529894e4b9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por amenaza de incendios forestales",
+	"fechaHora": "2025-01-10T13:01:00.000-03:00",
+	"createdAt": "2025-01-10T16:11:31.325Z",
+	"updatedAt": "2025-01-13T20:51:27.995Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-amenaza-de-incendios-forestales-2",
+	"parentId": "a605984e-9492-44cc-a8a2-0d773a87b3ac",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante su Alerta Meteorológica AA-3/2024, que pronostica evento de altas temperaturas extremas durante la tarde del sábado 11 de enero a la tarde del domingo 12 de enero del 2025 en las zonas Cordillera costa, Valle y Precordillera de la Región del Maule.</p><p>En base a estos antecedentes y considerando las proyecciones meteorológicas y los factores de vulnerabilidad ante las altas temperaturas que favorecen las condiciones propicias para la ocurrencia y propagación de incendios forestales.En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy hasta que las condiciones así lo ameriten.</p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

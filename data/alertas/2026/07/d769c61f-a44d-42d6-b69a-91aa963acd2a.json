@@ -1,0 +1,20 @@
+{
+	"id": "d769c61f-a44d-42d6-b69a-91aa963acd2a",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la comuna de Salamanca por desborde",
+	"fechaHora": "2026-07-22T11:17:11.1111-04:00",
+	"createdAt": "2026-07-22T15:17:48.829Z",
+	"updatedAt": "2026-07-22T15:18:46.452Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-salamanca-por-desborde-2026-07-20-15-12-41",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por Dirección General de Aguas (DGA),</strong> la estación hidrométrica “<strong>Río Chalinga en La Palmilla</strong>”, ubicada en la comuna de Salamanca, registra nuevamente niveles de caudal establecidos dentro de los parámetros de seguridad óptimos por el organismo técnico, lo que supone una disminución del riesgo para la población cercana a este curso de agua.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por desborde para la comuna de Salamanca</strong>, que se mantuvo vigente desde el 20 de julio de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

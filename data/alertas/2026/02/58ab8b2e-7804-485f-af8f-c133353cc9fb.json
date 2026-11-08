@@ -1,0 +1,20 @@
+{
+	"id": "58ab8b2e-7804-485f-af8f-c133353cc9fb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por tormentas eléctricas",
+	"fechaHora": "2026-02-02T08:24:00.000-03:00",
+	"createdAt": "2026-02-02T11:26:28.985Z",
+	"updatedAt": "2026-02-02T11:27:44.983Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-tormentas-electricas-2026-01-29-14-06-36",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso A40-5/2026, el cual pronosticaba probables tormentas eléctricas con probabilidad de precipitaciones fuertes en corto periodo de tiempo en valle, precordillera y cordillera de la región. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por </strong></span><strong><span style=\"font-size:15px\">tormentas eléctricas</span></strong><span style=\"font-size:15px\">, </span><span style=\"font-size:15px\">que se mantuvo vigente desde el 29 de enero de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

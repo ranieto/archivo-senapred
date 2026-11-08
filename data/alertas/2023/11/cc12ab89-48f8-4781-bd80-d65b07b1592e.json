@@ -1,0 +1,20 @@
+{
+	"id": "cc12ab89-48f8-4781-bd80-d65b07b1592e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Quintero por contaminación ambienta",
+	"fechaHora": "2023-11-10T22:01:06.066-03:00",
+	"createdAt": "2023-11-11T01:02:00.122Z",
+	"updatedAt": "2023-11-11T01:04:02.408Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-para-la-comuna-de-quintero-por-contaminacion-ambienta",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Quintero\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso, ha finalizado la Alerta Sanitaria N°15 emitida por el Ministerio de Salud para las comunas de Quintero, Puchuncaví y Concón. Asimismo, han disminuido los eventos asociados a esta condición, según los informes recibidos por parte de los integrantes del SINAPRED.<br><br>En consideración a lo expuesto anteriormente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Quintero, por contaminación ambiental, que se mantuvo vigente desde el 25 de mayo de 2023. <br><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

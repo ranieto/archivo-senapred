@@ -1,0 +1,20 @@
+{
+	"id": "2c7a1d42-1afa-42f2-866e-4e7fe72137ff",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Andacollo por evento masivo",
+	"fechaHora": "2024-02-12T10:10:31.3131-03:00",
+	"createdAt": "2024-02-12T13:12:06.321Z",
+	"updatedAt": "2024-02-12T13:12:17.041Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-andacollo-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Andacollo\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Coquimbo, respecto del evento <strong>“Festival de la Voz de la Montaña 2024”,</strong> se indica que este finalizó, sin reportarse situaciones de emergencia derivadas del desarrollo de esta actividad.<br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de Andacollo por evento masivo</strong>, que se mantuvo vigente desde el 09 de febrero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

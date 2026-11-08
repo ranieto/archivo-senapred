@@ -1,0 +1,20 @@
+{
+	"id": "b1892999-22f1-4b4d-a9d7-8ce89a0d1279",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Arauco por desborde ",
+	"fechaHora": "2024-06-17T11:26:41.4141-04:00",
+	"createdAt": "2024-06-17T15:28:05.446Z",
+	"updatedAt": "2024-06-22T23:18:47.205Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-2",
+	"parentId": "eafebe43-44e7-4232-83b7-fb939ca409c2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, se realizó una evacuación preventiva de los sectores de Pichilo, El Llepo, Las Corrientes y La Faja por desborde del Rio Pichilo, en la comuna de Arauco, reforzado mediante mensajería SAE a las 11:07 horas de hoy.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Roja <span style=\"color:black\">por desborde, para la comuna de Arauco</span></strong>, que se mantiene vigente desde hoy 17 de junio y hasta que las condiciones meteorológicas así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

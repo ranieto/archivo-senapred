@@ -1,0 +1,20 @@
+{
+	"id": "381fa783-a96f-44fb-9ede-2e527313b3cc",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2023-12-25T19:09:16.1616-03:00",
+	"createdAt": "2023-12-25T22:09:57.443Z",
+	"updatedAt": "2023-12-25T22:11:18.270Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Las Cabras\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), con relación al incendio forestal registrado en la comuna de Las Cabras, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las Quiscas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">8,7 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio se encuentra contenido y no representa una   mayor amenaza.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por incendio forestal para la comuna de Las Cabras</strong>, que se mantuvo vigente durante hoy 25 de diciembre de 2023.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

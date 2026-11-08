@@ -1,0 +1,20 @@
+{
+	"id": "2a3f419b-5a6e-4df1-bc62-dfcf925e63ed",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Amarilla para la Región de Libertador General Bernardo O'Higgins por incendio forestal",
+	"fechaHora": "2024-12-19T17:20:00.000-03:00",
+	"createdAt": "2024-12-19T21:52:10.606Z",
+	"updatedAt": "2024-12-23T23:37:48.573Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-libertador-general-bernardo-ohiggins-por-incendio-forestal-2",
+	"parentId": "0fe08c5b-229f-4c7a-9a31-91ec0f194070",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Producto de la alta ocurrencia de incendios forestales a nivel regional y a las temperaturas máximas sobre los 30°C, humedad relativa baja y características del viento y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED declara Alerta Amarilla para la región de Libertador General Bernardo O'Higgins por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

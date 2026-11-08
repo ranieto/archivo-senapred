@@ -1,0 +1,20 @@
+{
+	"id": "41ae0293-27e6-4540-b74e-7f0d0854595e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Primavera por evento masivo ",
+	"fechaHora": "2025-02-24T16:20:00.000-03:00",
+	"createdAt": "2025-02-24T19:23:24.780Z",
+	"updatedAt": "2025-02-24T19:24:22.670Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-primavera-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Primavera\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes, sin emergencias mayores ha finalizado el evento masivo denominado “XXV Fiesta Campesina del Ovejero”, el cual se desarrolló los días 22 y 23 de febrero en la localidad de Cerro Sombrero, comuna de Primavera, convocando aproximadamente 600 personas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Primavera</strong>, que se mantuvo vigente desde el 21 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

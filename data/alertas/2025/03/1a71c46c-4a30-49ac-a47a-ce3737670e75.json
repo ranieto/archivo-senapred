@@ -1,0 +1,20 @@
+{
+	"id": "1a71c46c-4a30-49ac-a47a-ce3737670e75",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Padre Las Casas por incendio forestal",
+	"fechaHora": "2025-03-23T12:56:37.3737-03:00",
+	"createdAt": "2025-03-23T16:01:44.191Z",
+	"updatedAt": "2025-03-25T15:47:47.041Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-padre-las-casas-por-incendio-forestal",
+	"parentId": "281a33d4-9547-4607-a95c-5f3a24eb7bf8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Padre Las Casas,&nbsp;</strong>se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p>San Ramón</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se desarrolla cercano a sectores poblados</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 brigadas, 1 técnico, 1 avión cisterna y 1 camión cisterna de Conaf.</p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía,<strong> la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Padre Las Casas por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div style=\"text-align: justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "8f6c60cc-4cf9-4594-bf61-5b6f34f19ee2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2026-06-10T09:52:00.000-04:00",
+	"createdAt": "2026-06-10T13:55:54.508Z",
+	"updatedAt": "2026-06-10T14:31:10.669Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva--para-la-region-del-biobio-por-evento-meteorologico-2026-06-08-10-33-36",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento para la Región del Biobío:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A248-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral, cordillera de la costa, valle, precordillera y   cordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\">Asimismo, conforme a lo indicado en la actualización del Informe de Amenaza Meteorológica emitido en la presente jornada, no se prevén precipitaciones significativas para los próximos días en la Región del Biobío.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento meteorológico para la Región del Biobío,&nbsp;</strong>que se mantuvo vigente desde el 08 de junio de 2026.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

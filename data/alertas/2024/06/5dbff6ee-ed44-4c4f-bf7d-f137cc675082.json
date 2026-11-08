@@ -1,0 +1,20 @@
+{
+	"id": "5dbff6ee-ed44-4c4f-bf7d-f137cc675082",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Arica por evento masivo",
+	"fechaHora": "2024-06-10T12:35:00.000-04:00",
+	"createdAt": "2024-06-10T16:52:15.546Z",
+	"updatedAt": "2024-06-10T16:52:36.847Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-arica-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Arica\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED de Arica y Parinacota, sin emergencias mayores ha finalizado el evento masivo denominado “Semana Ariqueña 2024”, realizado entre los días lunes 3 y domingo 9 de junio del 2024, en el borde costero de la ciudad.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de Arica, por evento masivo</strong>, que se mantuvo vigente desde el 03 de junio del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

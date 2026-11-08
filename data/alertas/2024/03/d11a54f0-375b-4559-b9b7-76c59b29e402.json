@@ -1,0 +1,20 @@
+{
+	"id": "d11a54f0-375b-4559-b9b7-76c59b29e402",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-03-19T23:51:00.000-03:00",
+	"createdAt": "2024-03-20T03:14:12.704Z",
+	"updatedAt": "2024-03-20T03:14:40.284Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A40-9, el cual pronosticaba probables tormentas eléctricas con precipitaciones aisladas, en precordillera y cordillera de la Región de Tarapacá. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que la originaron.<br></p><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, cancela<strong>Alerta Temprana Preventiva para la provincia de Tamarugal por tormentas eléctricas</strong>, la cual se mantuvo vigente desde el 28 de febrero de 2024.</p><div><br></div>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

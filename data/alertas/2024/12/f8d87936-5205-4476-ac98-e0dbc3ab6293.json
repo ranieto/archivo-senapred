@@ -1,0 +1,20 @@
+{
+	"id": "f8d87936-5205-4476-ac98-e0dbc3ab6293",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Valparaíso por incendios forestales",
+	"fechaHora": "2024-12-23T19:06:38.3838-03:00",
+	"createdAt": "2024-12-23T22:54:08.963Z",
+	"updatedAt": "2024-12-23T22:55:06.842Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-valparaiso-excepto-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Corporación Nacional Forestal (CONAF) </strong>indica que ha finalizado la condición de simultaneidad, así como también el reforzamiento de recursos del Sistema Regional en diversos punto de la región.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>cancela Alerta Amarilla</strong> para la Región de Valparaíso por incendios forestales, que se mantuvo vigente desdeel 21 de diciembre de 2024.</p><p>Cabe señalar que, se mantiene vigente la Alerta Amarilla para las comunas de Cartagena y San Antonio por incendio forestal, así como también la Alerta Temprana Preventiva Regional por amenaza de incendios forestales.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

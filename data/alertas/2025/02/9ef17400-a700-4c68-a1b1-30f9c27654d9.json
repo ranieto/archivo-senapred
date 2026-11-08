@@ -1,0 +1,20 @@
+{
+	"id": "9ef17400-a700-4c68-a1b1-30f9c27654d9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Penco por evento masivo ",
+	"fechaHora": "2025-02-24T11:28:00.000-03:00",
+	"createdAt": "2025-02-24T14:29:53.983Z",
+	"updatedAt": "2025-02-24T14:33:14.951Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-penco-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Penco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, sin emergencias mayores ha finalizado el evento masivo denominado “Festival del Mar”, el cual se desarrolló entre los días 22 y 23 de febrero, en la costanera de la comuna de Penco, congregando alrededor de 3.000 personas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva por evento masivo para la comuna de Penco</strong>, la que se mantuvo vigente desde el 21 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

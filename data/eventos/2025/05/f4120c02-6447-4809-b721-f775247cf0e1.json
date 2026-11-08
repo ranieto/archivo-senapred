@@ -1,0 +1,19 @@
+{
+	"id": "f4120c02-6447-4809-b721-f775247cf0e1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2025-05-09T14:23:11.1111-04:00",
+	"createdAt": "2025-05-09T18:25:34.161Z",
+	"updatedAt": "2025-05-09T18:25:34.161Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-87",
+	"parentId": "b0940ed5-9362-417a-ab0c-290bbbdffe51",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>La Unidad Nacional de Alerta Temprana reporta información del siguiente evento sísmico:</p><p><u>Información del Sismo</u></p><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>III</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>III</p></td></tr><tr><td><p>Caldera:   </p></td><td><p>II</p></td></tr></tbody></table><p><br>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. <br><br> Modificación de los datos técnicos del sismo, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>4</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -27.84<br>   Longitud: -71.05</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>29   Kms al Noreste de Carrizal Bajo</p></td></tr><tr><td><p>Región:   </p></td><td><p>Atacama</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>60</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

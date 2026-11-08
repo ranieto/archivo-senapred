@@ -1,0 +1,20 @@
+{
+	"id": "1ea01751-cf67-4676-9767-9dfa10004763",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Última Esperanza por tormentas eléctricas",
+	"fechaHora": "2024-11-06T16:15:52.5252-03:00",
+	"createdAt": "2024-11-06T19:17:09.778Z",
+	"updatedAt": "2024-11-06T19:17:56.864Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes y de la Antártica Chilena:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A420-1</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas en   sector insular norte.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">&nbsp; &nbsp; </span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la Provincia de Última Esperanza, por tormentas eléctricas, </strong>que se manteníavigente desde el 05 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "03ef3220-205b-4928-bf64-f2f83975f85c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de San Nicolás por incendios forestal",
+	"fechaHora": "2026-02-01T17:09:00.000-03:00",
+	"createdAt": "2026-02-01T20:41:46.632Z",
+	"updatedAt": "2026-02-01T23:26:32.890Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-nicolas-por-incendios-forestal-2026-02-01-17-41-30",
+	"parentId": "c0c0f701-40c1-4bd5-9075-e43c59c21803",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p>La Dirección Regional de SENAPRED declara Alerta Roja por Incendio forestal para la comuna de San&nbsp;Nicolás con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF, que señala lo siguiente: Nombre del incendio: 296 - Norte Lajuelas Sector: Las Lajuelas Superficie: 0.01 hectáreas. El incendio forestal se desarrolla cercano a sectores habitados.&nbsp;</p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>296-NorteLajuelas</p></td></tr><tr><td><p><strong>Comuna&nbsp;(Sector)</strong></p></td><td><p>San Nicolás (Lajuelas)</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie&nbsp;afectada&nbsp;[ha]</strong></p></td><td><p>0.01</p></td></tr></tbody></table><p><br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "32975ee5-24e6-4f05-aa7d-40395d791156",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la Región de Atacama por viento",
+	"fechaHora": "2025-11-08T00:50:19.1919-03:00",
+	"createdAt": "2025-11-08T03:51:17.474Z",
+	"updatedAt": "2025-11-08T03:52:09.137Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-20",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA94-1</p></td><td><p style=\"text-align:justify\">Viento moderado a   fuerte (entre 90 y 110 km/h) en el sector cordillerano de la región, con   desarrollo de tormentas de arena.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A427-1</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en precordillera (entre 40 y 60 km/h) y cordillera (entre 60 y 90   km/h) de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A430-1</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado, con probabilidad de tormentas de arena en litoral (entre 40 y 60   km/h).</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por viento, </strong></span><span style=\"color:black\">que se mantuvo </span><span style=\"color:black\">vigente desde el 02 de noviembre de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

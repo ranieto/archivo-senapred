@@ -1,0 +1,20 @@
+{
+	"id": "d83fce13-22e9-4606-ba48-8b29e79549c6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2025-01-19T15:14:55.5555-03:00",
+	"createdAt": "2025-01-19T18:19:52.917Z",
+	"updatedAt": "2025-01-20T01:40:44.003Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal-2",
+	"parentId": "cb0f39f0-e98d-4bc2-95ff-7424a8d4bc76",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal que se desarrolla en la comuna de Puerto Montt, se informa lo siguiente:</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Feria Alerce</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>0.5 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 brigadas, 2 técnicos, 1 helicóptero y 1 avión CONAF.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Puerto Montt por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

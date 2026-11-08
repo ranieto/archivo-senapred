@@ -1,0 +1,20 @@
+{
+	"id": "1ef30e6a-70c0-47bd-9938-7fabf61b6aa4",
+	"type": "Alerta",
+	"titulo": "Se Cancela Alerta Amarilla para la comuna de Purén por amenaza de desborde",
+	"fechaHora": "2024-06-13T12:46:00.000-04:00",
+	"createdAt": "2024-06-13T17:27:44.758Z",
+	"updatedAt": "2024-06-13T17:28:03.418Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puren-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Purén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red hidrométrica “Río Purén en Tranamán”, en la comuna de Purén, ha vuelto al umbral de alerta azul, con tendencia a la baja de su caudal. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>Cancela Alerta Amarilla por amenaza de desborde para la comuna de Purén,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

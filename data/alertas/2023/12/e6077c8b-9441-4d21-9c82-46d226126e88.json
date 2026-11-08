@@ -1,0 +1,20 @@
+{
+	"id": "e6077c8b-9441-4d21-9c82-46d226126e88",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2023-12-09T19:17:39.3939-03:00",
+	"createdAt": "2023-12-09T22:18:50.310Z",
+	"updatedAt": "2023-12-14T23:40:58.550Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal",
+	"parentId": "42ac9bbb-5be6-4eaa-9041-f0f9a4198d75",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Las Cabras\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de Las Cabras, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las Ánimas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal se encuentra cercano a sectores poblados.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para la comuna de Las Cabras por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la <strong>declaración de la Alerta Roja,</strong> se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p><p>Al momento los recursos que trabajan en el lugar son:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Recurso desplegados</span></strong></p></td><td><p style=\"text-align:justify\">1 técnico, 4 brigadas, 2 camiones aljibe, 1 Skidder,   2 helicópteros y 1 avión cisterna de CONAF; Bomberos de Las Cabras,   Llallauquén y El Manzano</p></td></tr></tbody></table></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

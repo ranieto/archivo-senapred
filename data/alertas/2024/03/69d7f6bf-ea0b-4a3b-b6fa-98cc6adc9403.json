@@ -1,0 +1,20 @@
+{
+	"id": "69d7f6bf-ea0b-4a3b-b6fa-98cc6adc9403",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Comuna de Galvarino por incendio forestal ",
+	"fechaHora": "2024-03-03T19:27:43.4343-03:00",
+	"createdAt": "2024-03-03T22:28:33.821Z",
+	"updatedAt": "2024-03-04T14:42:51.236Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-galvarino-por-incendio-forestal",
+	"parentId": "39eb11d2-9a3e-46da-9a43-3c293c12d5bb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Galvarino se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Nilpe 8</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectáreas </p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Al momento, el   incendio se encuentra con avance medio a rápido y con gran extensión en   superficie, cercano a zonas habitadas de la comuna.</p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para la Comuna de Galvarino por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color:#2E2E2E\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

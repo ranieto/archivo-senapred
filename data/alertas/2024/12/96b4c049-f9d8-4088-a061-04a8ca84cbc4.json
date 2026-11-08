@@ -1,0 +1,20 @@
+{
+	"id": "96b4c049-f9d8-4088-a061-04a8ca84cbc4",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las Comunas de Quilicura y Lampa  por incendio forestal",
+	"fechaHora": "2024-12-24T21:33:00.000-03:00",
+	"createdAt": "2024-12-25T00:38:52.756Z",
+	"updatedAt": "2024-12-25T17:24:17.267Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-quilicura-y-lampa-por-incendio-forestal",
+	"parentId": "5a8f3c05-74a7-4db0-a9b4-2d65e94de913",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago, Chacabuco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Quilicura, Lampa\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"font-size: 16px\"> se informa el siguiente detalle respecto del incendio forestal “San Luis Norte 3”, en las comunas de Quilicura y Lampa:</span></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>San Luis   Norte 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>150   hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Colina, Lampa, Quilicura, Metropolitano Sur, Conchalí, Huechuraba, Puente   Alto, Pirque, Tiltil.</p><p style=\"text-align:justify\">5 Brigadas,   Roble 2, Roble 3, Roble 4, Roble 9, Roble 18</p><p style=\"text-align:justify\">1 Técnicos Francisco Valdivieso, 2 Helicópteros (N83WL / CC-CDN), 3 Aviones   Cisternas ( EC-NUK / LVKHL / CC-AOQ)</p><p style=\"text-align:justify\">Otros   recursos: 1 Camión Aljibe (Roble 29).</p><p style=\"text-align:justify\">Recursos   en trayecto:1 Carabineros y 1   Personal de COP.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Roja para las Comunas de Quilicura y Lampa, por incendio forestal, que se encuentra vigente desde el 24 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

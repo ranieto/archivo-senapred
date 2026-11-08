@@ -1,0 +1,20 @@
+{
+	"id": "d0dbae19-199a-4203-94ed-38f748f3eb6c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+	"fechaHora": "2023-11-11T08:45:00.000-03:00",
+	"createdAt": "2023-11-11T12:00:03.329Z",
+	"updatedAt": "2023-11-11T12:00:28.075Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> y en atención al debilitamiento de las condiciones meteorológicas que los originaron, <strong>han sido cancelados los siguientes alertamientos técnicos</strong> para la Región de O’Higgins:<br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA78-1</p></td><td><p style=\"text-align:justify\">Tormentas eléctricas en   cordillera de la costa, valle y precordillera, con probabilidad de granizos.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A433-4</p></td><td><p style=\"text-align:justify\">Probable desarrollo de   tormentas eléctricas en los sectores de cordillera costa, valle,   precordillera y cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional</strong>, por evento meteorológico, que se mantenía vigente desde el 09 de noviembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "d92ac414-667b-4ff2-a698-87ba73604a40",
+	"type": "Alerta",
+	"titulo": "actualizacion pruebaalerta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-21T16:11:48.227Z",
+	"updatedAt": "2023-09-22T13:12:22.039Z",
+	"urlAccess": "pruebaalerta",
+	"parentId": "492709f2-bc13-4508-ad74-ce2c0fac0c00",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Déficit Hídrico - Sequía\",\"nombreImg\":\"sequia.png\"}",
+	"contenido": "<p>actualización</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "33c79bdb-3447-4f67-9a7f-eb7789efeec5"
+}

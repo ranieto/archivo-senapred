@@ -1,0 +1,20 @@
+{
+	"id": "4a532cae-bcf4-4b2f-b425-7b09aeec16c8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por amenaza de incendios forestales",
+	"fechaHora": "2025-01-13T11:03:00.000-03:00",
+	"createdAt": "2025-01-13T14:46:10.041Z",
+	"updatedAt": "2025-01-13T14:46:23.374Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-amenaza-de-incendios-forestales-10",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, las condiciones meteorológicas y las variables de riesgo se mantienen dentro de los valores normales para la época del año. Por otro lado, los recursos regionales de CONAF destinados al combate de incendios forestales están preparados y alistados para la respuesta. Finalmente, la Dirección Meteorológica de Chile (DMC) ha cancelado su alerta meteorológica AA3/2025 por altas temperaturas extremas, así como su aviso A9-2/2025 por altas temperaturas en la cordillera de la costa, el valle y la precordillera.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins y la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de O'Higgins, por amenaza de incendios forestales, que se mantuvo vigente desde el 02 de enero de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

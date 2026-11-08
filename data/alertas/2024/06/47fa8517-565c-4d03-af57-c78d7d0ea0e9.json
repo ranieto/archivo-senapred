@@ -1,0 +1,20 @@
+{
+	"id": "47fa8517-565c-4d03-af57-c78d7d0ea0e9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por viento",
+	"fechaHora": "2024-06-19T00:35:22.2222-04:00",
+	"createdAt": "2024-06-19T04:37:16.887Z",
+	"updatedAt": "2024-06-19T04:38:23.100Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comuna-de-diego-de-almagro-copiapo-tierra-amarilla-y-alto-del-carmen-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó, Chañaral, Huasco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar, Alto del Carmen\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>​</strong><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A189-5</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de viento blanco en cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen</strong>, que se mantenía vigente desde el 04 de junio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

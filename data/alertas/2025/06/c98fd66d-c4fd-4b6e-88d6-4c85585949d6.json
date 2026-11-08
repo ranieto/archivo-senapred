@@ -1,0 +1,20 @@
+{
+	"id": "c98fd66d-c4fd-4b6e-88d6-4c85585949d6",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-06-26T13:43:11.078Z",
+	"updatedAt": "2025-06-26T13:45:31.875Z",
+	"urlAccess": "monitoreo-de-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Pozo Almonte\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá y el Servicio Nacional de Geología y Minería SERNAGEOMIN, durante la madrugada de hoy se registró un aluvión en la localidad de Huatacondo, comuna de Pozo Almonte.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con lo informado por el organismo técnico, el flujo alcanzó una altura aproximada de 1 metro en su punto máximo lo cual se encuentra en evaluación.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Personal de emergencia se dirige al lugar para determinar la afectación a personas y sus bienes. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se encuentra vigente desde el 23 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\">SENAPRED&nbsp;</span><span style=\"color: rgb(0, 0, 0);font-size: 15px\">recomienda a la población prestar atención a señales que podrían indicar la ocurrencia de una remoción en masa, tales como: lluvia fuerte y sostenida por mayor tiempo de lo normal; subida o disminución repentina de nivel y caudal en cursos de agua; aumento en la turbiedad del agua en los cauces; y fuerte ruido de fondo.</span><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "38db2540-6de4-4d12-b21d-28e250bcbbba"
+}

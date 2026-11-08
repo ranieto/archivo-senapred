@@ -1,0 +1,20 @@
+{
+	"id": "c833c4f7-7bac-4314-806a-947ecdc68819",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de San Pedro por incendio forestal",
+	"fechaHora": "2024-01-31T16:49:00.000-03:00",
+	"createdAt": "2024-01-31T19:54:43.640Z",
+	"updatedAt": "2024-02-04T22:40:17.678Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal",
+	"parentId": "34a7ae4c-0216-4aa1-a8cc-1a38d415abb3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa el siguiente detalle respecto del incendio forestal</span> “<span style=\"color: black\">Quilamuta 2”, en la comuna de San Pedro:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quilamuta 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio se   desarrolla cercano a sectores poblados.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Trabajan en el   lugar, Bomberos de San Pedro, Melipilla y Santo Domingo, 3 brigadas, 1   técnico, 3 aviones, 5 helicópteros, 3 skiddery 2 camios cisterna de CONAF.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la Comuna de San Pedro por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "36dfa9da-c85a-49e7-9122-39fb3ac156e8",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Amarilla para la comuna de Quillón por crecida",
+	"fechaHora": "2026-07-31T15:15:00.000-04:00",
+	"createdAt": "2026-07-31T21:01:46.914Z",
+	"updatedAt": "2026-08-05T15:56:35.720Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-crecida-2026-07-31-17-01-27",
+	"parentId": "f0def18e-a92c-4cd9-bd01-13d9747542db",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por Dirección General de Aguas (DGA),</strong> la estación hidrométrica “Estero Coyanco en Puente Coyanco PFC”, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></p><p><span style=\"font-size:15px\"><br></span></p><p><span style=\"font-size:15px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para la comuna de Quillón, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p><span style=\"font-size:15px\"><br></span></p><p><span style=\"font-size:15px\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "f39bd6f4-263e-4969-9520-987dfea78b0a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Molina y Curicó por crecida",
+	"fechaHora": "2026-10-06T13:41:55.5555-03:00",
+	"createdAt": "2026-10-06T16:43:30.784Z",
+	"updatedAt": "2026-10-10T07:01:55.680Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-10-06-13-43-10",
+	"parentId": "62ba9917-ec67-4f6c-a01d-b42e5206df7c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><strong>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA),</strong> la estación hidrométrica “Río Palos en junta con Colorado”, ubicada en precordillera de las comunas de Molina y Curicó, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></p><p><span style=\"font-size: 14px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED declara Alerta Amarilla por crecida para las comunas de Molina y Curicó, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

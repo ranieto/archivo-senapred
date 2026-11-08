@@ -1,0 +1,20 @@
+{
+	"id": "708289da-038a-483d-bf8b-3fe09da738de",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Curarrehue por incendio forestal",
+	"fechaHora": "2024-03-04T14:12:00.000-03:00",
+	"createdAt": "2024-03-04T17:14:32.662Z",
+	"updatedAt": "2024-03-04T17:15:36.513Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-curarrehue-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Curarrehue\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de Curarrehue, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>R.N. Villarrica</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>0,3 hectáreas</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para la comuna de Curarrehue por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 29 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

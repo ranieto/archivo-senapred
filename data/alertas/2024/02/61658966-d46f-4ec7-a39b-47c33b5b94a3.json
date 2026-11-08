@@ -1,0 +1,20 @@
+{
+	"id": "61658966-d46f-4ec7-a39b-47c33b5b94a3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Coquimbo por calor intenso",
+	"fechaHora": "2024-02-02T16:05:00.000-03:00",
+	"createdAt": "2024-02-02T19:12:23.121Z",
+	"updatedAt": "2024-02-02T19:13:11.788Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-coquimbo-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, y debido al debilitamiento de las condiciones meteorológicas que la originaron,<strong>ha sido cancelada su Alerta Meteorológica AA7-3/2024</strong>, que pronosticó un&nbsp;<strong>evento de altas temperaturas&nbsp;</strong>en zonas de la Región de Coquimbo.<br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED,<strong>cancela la Alerta Amarilla Regional por calor intenso,</strong>que se mantenía vigente desde el 29 de enero de 2024.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">Cabe señalar, que se&nbsp;<strong>mantiene una Alerta Temprana Preventiva Nacional por calor,</strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728.</span></p><p style=\"text-align: justify\"><strong><em><span style=\"color: black\">SENAPRED </span></em></strong><em><span style=\"color: black\">recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del&nbsp;<strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></em></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

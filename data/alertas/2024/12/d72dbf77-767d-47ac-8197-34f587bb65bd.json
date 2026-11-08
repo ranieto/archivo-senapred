@@ -1,0 +1,20 @@
+{
+	"id": "d72dbf77-767d-47ac-8197-34f587bb65bd",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por amenaza de incendio forestal",
+	"fechaHora": "2024-12-18T15:39:01.011-03:00",
+	"createdAt": "2024-12-18T18:41:24.207Z",
+	"updatedAt": "2025-01-15T17:08:01.428Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-amenaza-de-incendio-forestal",
+	"parentId": "b617a503-b104-4784-bed6-e36cc813d616",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED declara Alerta Temprana Preventiva regional por amenaza de incendios forestales con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF, que señala lo siguiente:</p><p>Justificación general: Aumento de la probabilidad de generación y propagación de incendios forestales.</p><p>Justificación específica: Pronóstico de velocidades de viento entre los 25 y 40 km/h y contenido de humedad del combustible vegetal fino muerto entre 2% y 6%. </p><p>Esta declaración estará vigente a contar de la hora del presente informe y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

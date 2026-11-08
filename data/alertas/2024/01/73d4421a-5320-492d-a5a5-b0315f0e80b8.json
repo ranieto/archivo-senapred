@@ -1,0 +1,20 @@
+{
+	"id": "73d4421a-5320-492d-a5a5-b0315f0e80b8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las Comunas de Retiro y San Javier por incendio forestal",
+	"fechaHora": "2024-01-21T18:50:00.000-03:00",
+	"createdAt": "2024-01-21T22:12:14.068Z",
+	"updatedAt": "2024-01-21T22:12:30.051Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-retiro-y-san-javier-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Retiro, San Javier\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Según la información proporcionada por el Departamento de Protección contra Incendios Forestales de CONAF, extinguido se encuentra el incendio forestal ”Quillay Maureira”, en las comunas de Retiro y San Javier, habiendoconsumido 1.014,55 hectáreas de superficie.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para las Comunas de Retiro y San Javier, por incendio forestal, que se mantuvo vigente desde el20 de enero de 2024.<br></p><p><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quillay Maureira</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.014 hectáreas</p></td></tr></tbody></table>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

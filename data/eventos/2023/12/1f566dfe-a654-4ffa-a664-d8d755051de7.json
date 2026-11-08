@@ -1,0 +1,19 @@
+{
+	"id": "1f566dfe-a654-4ffa-a664-d8d755051de7",
+	"type": "Evento",
+	"titulo": "Alteración del suministro de agua potable, comuna de Antofagasta (ampliación)",
+	"fechaHora": "2023-12-04T01:49:17.1717-03:00",
+	"createdAt": "2023-12-04T04:50:21.840Z",
+	"updatedAt": "2023-12-04T14:59:53.611Z",
+	"urlAccess": "alteracion-del-suministro-de-agua-potable-comuna-de-antofagasta-ampliacion",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, a la hora del presente informe se reporta un corte del suministro de agua potable, que afecta a aproximadamente 45.000 clientes en diversos sectores de la comuna de Antofagasta, debido a que la Planta Desaladora Norte ha registrado una falla eléctrica externa, lo que provocó problemas en la producción e impulsión del suministro.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, no se han reportado situaciones de emergencia derivadas de este incidente.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Personal de la empresa sanitaria Aguas Antofagasta trabaja en la reposición del servicio.</p>",
+	"variableInformateEventosId": "47537f83-6692-4432-9f54-2f8fab2808ab"
+}

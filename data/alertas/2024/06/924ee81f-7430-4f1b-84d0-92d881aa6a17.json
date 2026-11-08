@@ -1,0 +1,20 @@
+{
+	"id": "924ee81f-7430-4f1b-84d0-92d881aa6a17",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico",
+	"fechaHora": "2024-06-06T10:47:50.5050-04:00",
+	"createdAt": "2024-06-06T14:48:28.498Z",
+	"updatedAt": "2024-06-06T14:48:41.681Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><span style=\"color: black\"> han sido cancelados los siguientes alertamientos meteorológicos, debido al debilitamiento de las condiciones que los originaron:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Aviso A179</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado en el Archipiélago   Juan Fernández.</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Aviso A184</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones normales a moderadas en el   Archipiélago Juan Fernández.</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Aviso A185</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas en el   Archipiélago Juan Fernández.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva comunal por evento meteorológico, para la comuna de Juan Fernández, </strong>que se encontrabavigente desde el 03 de junio del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

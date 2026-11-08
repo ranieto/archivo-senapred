@@ -1,0 +1,20 @@
+{
+	"id": "06f4a1a3-bd8e-4fef-b2aa-00d314fcef0e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la comuna de San Pedro de Atacama por actividad del Volcán Láscar",
+	"fechaHora": "2026-04-07T11:35:00.000-04:00",
+	"createdAt": "2026-04-07T16:35:21.303Z",
+	"updatedAt": "2026-05-12T15:58:23.885Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-san-pedro-de-atacama-por-actividad-del-volcan-lascar-2026-03-05-14-45-14",
+	"parentId": "b74917c2-f51d-4427-ad9d-51a73820b7bb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), <strong>el Volcán Láscar mantiene su nivel de alerta técnica en Amarilla<sup><a name=\"_ftnref1\" href=\"#_ftn1\">[1]</a></sup>.</strong></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En relación con el último Reporte de Actividad Volcánica (RAV), emitido durante la presente jornada, indica que los parámetros sísmicos del volcán Lascar y sus características geológicas, sugieren la presencia de un cuerpo magmático en niveles superficiales. Bajo esta condición, es posible la ocurrencia de explosiones menores, las cuales puede no tener señales precursoras. Los principales peligros asociados a esta actividad corresponden a emisión de piroclastos balísticos, columnas de gases y cenizas, <strong>cuya área de afectación se establece en un radio de 3 km desde el centro del cráter activo</strong>, no obstante, no se descarta que la columna de ceniza pueda dispersarse a distancias mayores.</p><p style=\"text-align:justify\">SENAPRED en coordinación con la Delegación Presidencial Regional, <strong>mantiene el perímetro de seguridad de 5 kilómetros en torno al cráter del volcán</strong>, medida que restringirá el ingreso a dicha zona y permitirá hacer un control de acceso.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva&nbsp;</strong><strong>para la comuna de San Pedro de Atacama, por actividad del Volcán Láscar</strong>, que se encuentra vigente desde el 05 de marzo de 2026 y hasta que las condiciones así lo ameriten.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Finalmente, SERNAGEOMIN continúa la vigilancia permanente del volcán en línea y la Dirección Regional del SENAPRED mantendrá las coordinaciones con los integrantes del Sistema Regional de Prevención y Respuesta ante Desastres para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia producto de la condición volcánica.</p><p style=\"text-align:justify\"><a name=\"_ftn1\" href=\"#_ftnref1\"><span style=\"font-size:12px\">[1]</span></a><strong><span style=\"font-size:12px\">Alerta técnica en Nivel Amarilla: </span></strong><span style=\"font-size:12px\">que comprende variaciones en los niveles de parámetros derivados de la vigilancia que indican que el volcán está por encima de su umbral base y que el proceso es inestable, pudiendo evolucionar aun aumentando o disminuyendo esos niveles, por ende, una erupción probable, se podría desarrollar en un periodo de semanas o meses.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

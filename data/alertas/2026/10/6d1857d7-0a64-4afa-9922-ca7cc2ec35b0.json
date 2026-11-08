@@ -1,0 +1,20 @@
+{
+	"id": "6d1857d7-0a64-4afa-9922-ca7cc2ec35b0",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la Región la Región de O’Higgins por evento meteorológico",
+	"fechaHora": "2026-10-27T09:17:00.000-03:00",
+	"createdAt": "2026-10-27T12:40:34.082Z",
+	"updatedAt": "2026-10-27T12:40:42.325Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-tormentas-electricas-2026-10-24-15-10-52",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región de O´Higgins debido al debilitamiento en las condiciones que los originaron:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA190-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Tormentas eléctricas con probabilidad de granizos y fuertes rachas de   vientos locales en cordillera costa, valle, precordillera y cordillera de la   región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-10</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-10</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A583-1</span></p></td><td><p><span style=\"color:black\">Probables Tormentas Eléctricas con probabilidad de granizos en   cordillera de la costa, valle, precordillera y cordillera de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-10</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-10</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A585</span></p></td><td><p><span style=\"color:black\">Precipitaciones normales a moderadas en corto periodo de tiempo en   valle y precordillera de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-10</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-10</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por evento meteorológico</strong>, que se encontraba vigente desde el 26 de octubre.</span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Cabe señalar que, desde el 26 de octubre se mantiene vigente la<strong> Alerta Roja&nbsp;</strong><strong>para la comuna de Requínoa por tornado</strong>.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

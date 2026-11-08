@@ -1,0 +1,20 @@
+{
+	"id": "a0724be8-8949-429c-94f2-af04d7bca26a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2024-12-09T18:52:58.5858-03:00",
+	"createdAt": "2024-12-09T21:56:51.498Z",
+	"updatedAt": "2024-12-09T22:01:10.426Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a información proporcionada por CONAF, CONTROLADO desde las 17:50 horas de hoy, se encuentra incendio forestal \"Las Balsas\" en la comuna de Las Cabras, el cual afecta una superficie de 3.2 hectáreas de matorral, pastizal y arbolado.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Las Balsas</div></td></tr><tr><td><div>Comuna</div></td><td><div>Las Cabras (Las Balsas)</div></td></tr><tr><td><div>Estado</div></td><td><div>Controlado&nbsp;</div></td></tr><tr><td><div>Superficie</div></td><td><div>3.2 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>1 compañía de Bomberos (Las Cabras), 5 brigadas CONAF, 3 aeronave CONAF, 1 técnico CONAF, 1 puesto de mando CONAF, 3 ambulancias SAMU, 1 patrulla Carabineros Reten el Manzano y 1 personal GRD.</div></td></tr></tbody></table><p style=\"text-align: justify\">Asimismo, a la hora del presente informe no presenta amenaza a viviendas ni centros poblados del sector. En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Las Cabras, por incendio forestal, que se mantuvo vigente desde el 9 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

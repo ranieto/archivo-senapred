@@ -1,0 +1,20 @@
+{
+	"id": "bc3ffa87-bcef-4db1-9bdc-ed16c38af4b6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2025-11-30T22:55:46.4646-03:00",
+	"createdAt": "2025-12-01T01:56:44.742Z",
+	"updatedAt": "2025-12-01T01:58:00.078Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-villarrica-pucon-y-curarrehue-por-tormentas-electricas-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la </span><span style=\"color: black\">Región </span><span style=\"color: black\">de </span><span style=\"color: black\">La Araucanía</span><span style=\"color: black\">, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA103-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Tormentas   eléctricas con probabilidad de fuertes rachas de vientos locales en   cordillera de la costa y valle.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A458-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en valle, precordillera y cordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Además, el Centro Meteorológico Marítimo de Talcahuano de la Armada de Chile, informa que <strong>ya no se encuentra vigente</strong> el Aviso Especial por Trombas Marinas, el cual indicaba el posible desarrollo de nubes convectivas en el sector costero de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de </span><span style=\"color:black\">La Araucanía</span><span style=\"color:black\">, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong></span><span style=\"color:black\">, que se mantuvo&nbsp;</span><span style=\"color:black\">vigente desde el 27 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

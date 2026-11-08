@@ -1,0 +1,20 @@
+{
+	"id": "8049a271-c876-4ec5-8e35-e1d87ae05ee8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Magallanes por heladas",
+	"fechaHora": "2024-06-24T23:39:00.000-04:00",
+	"createdAt": "2024-06-25T03:41:05.419Z",
+	"updatedAt": "2024-06-27T16:46:10.785Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Magallanes, respecto a las heladas registradas en diversos sectores de la comuna de Punta Arenas, se indica que se mantiene el congelamiento de medidores y cañerías residenciales, lo que ha generado la rotura de instalaciones sanitarias y formación de escarcha en las vías públicas.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, se mantiene la alteración de la conectividad terrestre en la comuna de Punta Arenas, derivada de las nevadas ocurridas durante los días 17 y 18 de junio, lo cual afecta a 3.139 personas en el sector periurbano de la comuna, dificultando el normal funcionamiento de la ciudad.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Temprana Preventiva Regional por heladas</strong>, que se encuentra vigente desde el 14 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se encuentra vigente la Emergencia para la comuna de Punta Arenas por alteración de conectividad.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Entre los días 18 y 24 de junio, se han esparcido un total de 202 toneladas de sal, no obstante, aún no se ha logrado el despeje total de las vías, producto del espesor de nieve presente.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante hoy lunes 24 de junio, 3 camiones saleros de 8 toneladas, 5 camionetas tolvas de perfil bajo, 2 camiones Max, 1 retroexcavadora, 2 motoniveladoras, 1 cargador frontal y 20 funcionarios municipales trabajaron en el esparcimiento de sal y despeje de nieve/escarcha en las principales vías de la ciudad. De igual forma, 1 motoniveladora del Ejército de Chile trabajó en el despeje de nieve y escarcha en las calles del centro de la ciudad y en el sector de Río Seco, ubicado en la comuna de Punta Arenas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, para mañana 25 de junio se espera que trabajen los mismos recursos del día de hoy.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b6f56c8a-6404-4407-819f-ebabd92f65fa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Tierra del Fuego y Antártica Chilena y la comuna Natales por viento",
+	"fechaHora": "2026-01-27T19:22:00.000-03:00",
+	"createdAt": "2026-01-27T23:50:37.667Z",
+	"updatedAt": "2026-01-27T23:51:34.756Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-tierra-del-fuego-y-antartica-chilena-y-la-comuna-natales-por-viento-2026-01-26-15-56-40",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el Aviso A36/2026 la cual pronosticaba viento normal a moderado en cordillera austral sur, insular norte, insular central, insular sur y pampa patagónica sur de la región. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para las provincias de Magallanes, Tierra del Fuego y Antártica Chilena y la comuna Natales por viento,</strong> la que se mantuvo vigente desde el 26 de enero de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

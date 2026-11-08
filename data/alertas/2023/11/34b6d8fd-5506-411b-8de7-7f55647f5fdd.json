@@ -1,0 +1,20 @@
+{
+	"id": "34b6d8fd-5506-411b-8de7-7f55647f5fdd",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Roja para la provincia de Tierra del Fuego por incendio forestal",
+	"fechaHora": "2023-11-10T21:10:08.088-03:00",
+	"createdAt": "2023-11-11T00:12:02.984Z",
+	"updatedAt": "2023-11-16T22:56:59.905Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-porvenir-por-incendio-forestal-2",
+	"parentId": "5e0e1f7c-7245-4994-8f0f-fb7ef1cfe43e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto del incendio forestal en la comuna de Porvenir se indica el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Las Mercedes - Caupolicán</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1.000 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Fundamentación   técnica</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio se presenta cercano a sector poblado. Además, CONAF señala que el incendio presenta   comportamiento extremo, siendo requerido el apoyo de recursos adicionales   para su control y soporte logístico, provenientes desde la Región de   Magallanes y desde el nivel central.</span></p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>modifica la Alerta Roja </strong>para la provincia de Tierra del Fuego por incendio forestal, que se mantiene vigente desde hoy 10 de noviembre de 2023 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la ampliación de cobertura de la Alerta Roja, se mantendrán movilizados todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9d7672a8-b18f-454d-92cd-e1d7fbab996f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de Valparaíso por incendio forestal",
+	"fechaHora": "2026-02-13T17:55:00.000-03:00",
+	"createdAt": "2026-02-13T21:00:14.550Z",
+	"updatedAt": "2026-02-15T13:38:47.361Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-valparaiso-por-incendio-forestal-2026-02-13-17-59-57",
+	"parentId": "ede9ba86-9aa2-4534-bd81-d2abe6349888",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:<br><br></strong></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Forestal Ace</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">0.01 (ha)</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">4 compañías del cuerpo de Bomberos de Limache;5 Brigadas; 3 técnicos; 3 helicópteros.</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align: justify\">No se reportan afectaciones en personas ni daños en viviendas en la comuna de Limache.</p></td></tr></tbody></table><p style=\"text-align: justify\"><br>De acuerdo con la información entregada por CONAF, se solicita la declaración de Alerta Técnica Amarilla debido a la alta ocurrencia de incendios forestales a nivel regional. En esa línea, se está reforzando el sistema.</p><p style=\"text-align: justify\"><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Región de Valparaíso por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\"><br>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

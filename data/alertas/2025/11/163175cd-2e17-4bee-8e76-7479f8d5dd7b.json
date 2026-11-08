@@ -1,0 +1,20 @@
+{
+	"id": "163175cd-2e17-4bee-8e76-7479f8d5dd7b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
+	"fechaHora": "2025-11-19T16:49:30.3030-03:00",
+	"createdAt": "2025-11-19T19:50:48.322Z",
+	"updatedAt": "2025-11-19T19:51:25.292Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se han cancelado los siguientes alertamientos meteorológicos para la Región de Magallanes:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA98</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   moderado a fuerte en Cordillera Austral Sur, Insular Central, Pampa   Patagónica Norte y Pampa Patagónica Sur.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A447-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en Cordillera Austral Norte, Cordillera Austral Sur,   Insular Norte, Insular Central, Insular Sur, Pampa Patagónica Norte y Pampa   Patagónica Sur.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A448</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en corto periodo de tiempo en las zonas Cordillera   Austral Norte y Pampa Patagónica Norte.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A450</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en la región.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED<strong> cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>,que se mantuvo vigente desde el 11 de noviembre de 2025</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

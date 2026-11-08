@@ -1,0 +1,20 @@
+{
+	"id": "f322c2fd-d8d6-4857-a074-68f08ba6df2e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Comuna de Lumaco por incendio forestal",
+	"fechaHora": "2026-01-10T18:20:02.022-03:00",
+	"createdAt": "2026-01-10T21:22:39.218Z",
+	"updatedAt": "2026-01-12T03:59:22.007Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lumaco-por-incendio-forestal-2026-01-10-18-22-22",
+	"parentId": "06f93835-2370-4f8a-a18f-bdd7a33d5904",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><p><strong>Nombre del incendio </strong>San Sebastian y otros</p><p><strong>Comuna (Sector) </strong>Lumaco</p><p><strong>Estado </strong>En combate</p><p><strong>Superficie afectada [ha] </strong>5</p><p><strong>Descripción </strong>De acuerdo a la información técnica proporcionada por CONAF, el incendio forestal \"San Sebastian y Otros 2\" presenta comportamiento extremo.</p><p><br></p><p>De acuerdo con la información proporcionada por CONAF, activo se encuentra el incendio forestal \"San Sebastian y Otros 2\" que afecta 5 hectáreas en la comuna de Lumaco, con comportamiento extremo, alta velocidad de propagación, alta intensidad en el frente de avance y altas longitudes de llama.</p><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Comuna de Lumaco por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><br></p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7d9c8692-28ef-42bf-94b1-cc9351affeb2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-02-24T01:36:34.169Z",
+	"updatedAt": "2026-02-24T01:37:24.245Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormenta-electrica-2026-02-23-11-29-37",
+	"parentId": "abe02e1b-8a0a-45bd-acde-680d7ea1acb8",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px;color: black\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos:</span></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">&nbsp;</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color: rgb(0, 0, 0)\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color: rgb(0, 0, 0)\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">Aviso   A81/2026</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Probables tormentas   eléctricas en cordillera austral de la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">&nbsp;</span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por Tormentas Eléctricas</strong>, que se mantuvo vigente durante hoy lunes 23 de febrero.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bd48e6ec-47f4-4d40-8078-daebe1101ac1"
+}

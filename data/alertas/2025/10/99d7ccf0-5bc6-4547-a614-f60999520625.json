@@ -1,0 +1,20 @@
+{
+	"id": "99d7ccf0-5bc6-4547-a614-f60999520625",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Juan Fernández por evento masivo",
+	"fechaHora": "2025-10-30T11:21:00.000-03:00",
+	"createdAt": "2025-10-30T14:25:43.104Z",
+	"updatedAt": "2025-10-30T14:26:26.555Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso, sin emergencias finalizó la visita de los cruceros \"Seabourne Pursuit\" y \"Silver Cloud\", los cuales arribaron en Isla Juan Fernández, generando un incremento significativo de la población flotante.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable, y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Juan Fernández,</strong> la cual se mantuvo vigente desde el 27 de octubre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

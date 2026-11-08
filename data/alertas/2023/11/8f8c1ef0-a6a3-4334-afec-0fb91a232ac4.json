@@ -1,0 +1,20 @@
+{
+	"id": "8f8c1ef0-a6a3-4334-afec-0fb91a232ac4",
+	"type": "Alerta",
+	"titulo": "a",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-11-11T11:06:00.583Z",
+	"updatedAt": "2023-11-11T11:06:56.784Z",
+	"urlAccess": "a",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   </strong></p></td></tr><tr><td><p>XX</p></td><td><div><br></div></td></tr><tr><td><p>XX</p></td><td></td></tr></tbody></table>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

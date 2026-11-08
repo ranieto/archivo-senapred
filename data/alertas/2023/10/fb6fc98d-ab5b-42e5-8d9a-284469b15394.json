@@ -1,0 +1,20 @@
+{
+	"id": "fb6fc98d-ab5b-42e5-8d9a-284469b15394",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Freirina por incendio forestal",
+	"fechaHora": "2023-10-10T19:53:00.000-03:00",
+	"createdAt": "2023-10-10T23:00:09.929Z",
+	"updatedAt": "2023-10-12T14:51:32.849Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-freirina-por-incendio-forestal",
+	"parentId": "0814d056-c363-488c-af90-55ca990bbee9",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó, Chañaral, Huasco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Freirina\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal en la comuna de Freirina, se informa el siguiente detalle:<br><br>Nombre del incendio: Loncomilla<br>Estado: En combate<br>Superficie: 19 hectáreas</p><p><br>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla para la comuna de Freirina por incendio forestal, que se encuentra vigente desde el 09 de octubre y hasta que las condiciones así lo ameriten.<br><br>Durante la presente jornada han trabajado en el combate del incendio: personal técnico de CONAF, Bomberos de Vallenar, Huasco, Freirina y Tierra Amarilla, con apoyo de camiones aljibe de la municipalidad de Freirina, Carabineros y SENAPRED Atacama.<br><br>Se encuentra en tránsito Bomberos de Caldera, Copiapó e Inca de Oro.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "dcef5fc3-1af2-4810-9d03-6f7f03f96514",
+	"type": "Evento",
+	"titulo": "Incendio Estructural, Comuna de San Miguel (Información preliminar)",
+	"fechaHora": "2025-11-22T08:33:00.000-03:00",
+	"createdAt": "2025-11-22T11:36:38.227Z",
+	"updatedAt": "2025-11-22T13:24:33.601Z",
+	"urlAccess": "incendio-estructural-comuna-de-san-miguel-informacion-preliminar-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"San Miguel\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información preliminar proporcionada por la Dirección Regional Metropolitana del SENAPRED, a la hora del presente informe se registra un incendio estructural que afecta una distribuidora de neumáticos, en avenida Jose Joaquín Prieto Vial y Cuarta Avenida, comuna de San Miguel.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos Metropolitano Sur, La Granja - San Ramón - La Pintana y Ñuñoa; Carabineros y personal municipal.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

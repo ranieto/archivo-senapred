@@ -1,0 +1,20 @@
+{
+	"id": "6af06ea3-117c-485d-b1ab-ea4545f9d813",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para las comunas de La Pintana y San Bernardo por incendio forestal",
+	"fechaHora": "2025-02-17T17:00:00.000-03:00",
+	"createdAt": "2025-02-17T20:18:30.184Z",
+	"updatedAt": "2025-02-17T21:52:02.985Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-la-pintana-y-san-bernardo-por-incendio-forestal",
+	"parentId": "cdc09d23-bd3b-4a47-861e-550f05cf4016",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo, Santiago\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"La Pintana, San Bernardo\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal para las comunas de La Pintana y San Bernardo,<strong>&nbsp;</strong>se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>San Francisco<br></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4 hectárea</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Bomberos de San Bernardo - El Bosque - Calera de Tango, Cuerpo de bomberos de Bomberos de La Granja - San Ramón - LaPintana, Cuerpo de bomberos de Bomberos de Puente Alto - Pirque, Cuerpo de bomberos de Bomberos Conchalí - Huechuraba y&nbsp;Cuerpo de bomberos de Bomberos Metropolitano Sur.<br></p><p>5 brigadas (Roble 2, Roble 5, Roble 13, Roble 17 y Roble 21), 1 Técnico, 4 Aeronaves y 2 maquinarias pesadas de CONAF.&nbsp;</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>No se reportan daños en viviendas.<br></p></td></tr></tbody></table></div><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regionalde SENAPRED declara Alerta Roja para las comunas de La Pintana y San Bernardo por incendio forestal,vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

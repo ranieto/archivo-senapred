@@ -1,0 +1,20 @@
+{
+	"id": "4c7031c2-8075-4670-82af-4f48a4414f9d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por tormentas eléctricas",
+	"fechaHora": "2023-12-16T08:30:00.000-03:00",
+	"createdAt": "2023-12-16T11:32:53.457Z",
+	"updatedAt": "2023-12-16T11:33:49.792Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A468/2023, que pronosticó probables tormentas eléctricas en la región. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED<strong>cancela la Alerta Temprana Preventiva Regional</strong>por tormentas eléctricas, que se mantuvo vigente desde el 13 de diciembre del 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

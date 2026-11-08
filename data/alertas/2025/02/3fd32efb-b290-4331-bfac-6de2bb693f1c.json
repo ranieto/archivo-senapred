@@ -1,0 +1,20 @@
+{
+	"id": "3fd32efb-b290-4331-bfac-6de2bb693f1c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Tomé por evento masivo",
+	"fechaHora": "2025-02-26T20:59:00.000-03:00",
+	"createdAt": "2025-02-27T00:09:07.754Z",
+	"updatedAt": "2025-02-27T00:15:40.432Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-tome-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Tomé\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, sin emergencias mayores ha finalizado el evento masivo denominado “Semana Tomecina”, el cual se desarrolló entre los días 19 y 25 de febrero en la comuna de Tomé, congregando alrededor de 10.000 personas.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial de Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de Tomé</strong>, por evento masivo, que se mantuvo vigente desde el 18 de febrero de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

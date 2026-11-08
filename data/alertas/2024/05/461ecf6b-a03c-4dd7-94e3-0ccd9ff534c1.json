@@ -1,0 +1,20 @@
+{
+	"id": "461ecf6b-a03c-4dd7-94e3-0ccd9ff534c1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva Regional por viento para la Región de Antofagasta ",
+	"fechaHora": "2024-05-15T15:39:00.000-04:00",
+	"createdAt": "2024-05-19T03:45:01.492Z",
+	"updatedAt": "2024-05-19T03:45:01.492Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-viento-3",
+	"parentId": "595f7e58-aaf3-42ed-b407-e316266596ec",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico 135-7/2024, que pronosticó viento normal a moderado en sectores de la Región de Antofagasta. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por viento</strong>, que se mantuvo vigente desde el 04 de mayo de 2024.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><br></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

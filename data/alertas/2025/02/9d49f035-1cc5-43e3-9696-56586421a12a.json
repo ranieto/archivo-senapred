@@ -1,0 +1,20 @@
+{
+	"id": "9d49f035-1cc5-43e3-9696-56586421a12a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Huechuraba por incendio forestal",
+	"fechaHora": "2025-02-16T18:22:00.000-03:00",
+	"createdAt": "2025-02-16T21:31:22.931Z",
+	"updatedAt": "2025-02-16T21:32:24.822Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-huechuraba-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Huechuraba\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Huechuraba </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Tranquera</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Conchalí, Huechuraba, Ñuñoa y Quilicura, 2 Brigadas   Roble 2, 3 y 4, 1 Técnico, 2 Helicóptero (CC-CDN / CC-ACL) y 1 Avión (LV-KLH).</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Huechuraba, por incendio forestal, que se mantuvo vigente desde el 16 de febrero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

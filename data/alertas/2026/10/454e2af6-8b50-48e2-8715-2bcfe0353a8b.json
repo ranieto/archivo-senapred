@@ -1,0 +1,20 @@
+{
+	"id": "454e2af6-8b50-48e2-8715-2bcfe0353a8b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2026-10-14T11:55:41.4141-03:00",
+	"createdAt": "2026-10-14T14:56:46.293Z",
+	"updatedAt": "2026-10-14T14:57:08.756Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-02-09-41-28",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br><br></span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA178</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Tormentas   eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de   tiempo en cordillera de la costa, valle y precordillera.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br>Asimismo, en su Informe de Amenaza Meteorológica, pronostica precipitaciones menores a 3 mm en precordillera e inferiores a 3 cm en cordillera para la jornada de hoy, sin condiciones de viento. Complementando lo anterior, en el Pronóstico Público, indica cielos despejados variando a nubosidad parcial con temperaturas máximas entre 20 y 22°C en la región. Lo anterior, supone una disminución de las condiciones de riesgo asociadas al evento meteorológico que afectó a la región.</p><p style=\"text-align:justify\"><br>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por evento meteorológico</strong>, la cual se mantuvo vigente desde el 13 de octubre de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

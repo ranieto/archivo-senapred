@@ -1,0 +1,20 @@
+{
+	"id": "b2c24b19-83c8-40f1-90d7-2cb9fad92932",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas del borde costero continental de la Región de Magallanes por Tsunami",
+	"fechaHora": "2025-05-02T16:00:00.000-04:00",
+	"createdAt": "2025-05-02T20:05:03.105Z",
+	"updatedAt": "2025-05-02T20:06:30.597Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-de-magallanes-y-la-antartica-chilena-por-tsunami",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tsunami\",\"nombreImg\":\"tsunami.png\"}",
+	"contenido": "<p style=\"margin-right:8.5pt;margin-left:21.3pt;text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Magallanes y el Centro Sismológico Nacional (CSN), a las 09:03 horas se registró un <strong>sismo en la Región de Magallanes</strong>, cuya magnitud fue <strong>7,5 Mwp</strong>, con epicentro a 218 kilómetros al Sur de Puerto Williams.</span></p><p style=\"margin-right:8.5pt;margin-left:21.3pt;text-align:justify\"><span style=\"font-size:15px\">Por su parte, el Servicio Hidrográfico y Oceanográfico de la ARMADA (SHOA), ha <strong>cancelado&nbsp;</strong><strong>el Estado de Precaución para las comunas del borde costero continental de la Región de </strong></span><strong><span style=\"font-size:15px\">Magallanes, </span></strong><span style=\"font-size:15px\">el cual fue </span><span style=\"font-size:15px\">reforzado mediante el envío de Mensajería SAE.</span></p><p style=\"margin-right:8.5pt;margin-left:21.3pt;text-align:justify\"><span style=\"font-size:15px\">En atención a los antecedentes entregados por SHOA y CSN, </span><span style=\"font-size:15px\">SENAPRED </span><strong><span style=\"font-size:15px\">cancela la Alerta Roja por Tsunami</span></strong><span style=\"font-size:15px\"> para las comunas del borde costero de la Región de Magallanes, que se mantuvo <strong>vigente desde hoy 02 de mayo de 2025</strong>.</span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "226b2ce0-5c85-4cb7-9774-a19c412331e4"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6e8043ea-ff38-45f4-b086-28b9c3e9fa54",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Galvarino por incendio forestal",
+	"fechaHora": "2025-02-25T18:15:00.000-03:00",
+	"createdAt": "2025-02-25T22:03:11.760Z",
+	"updatedAt": "2025-02-26T12:17:05.430Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-galvarino-por-incendio-forestal-2",
+	"parentId": "edf78443-806e-4526-bad5-d73c44002b25",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información técnica proporcionada por CONAF, en combate se encuentra el incendio forestal denominado Porvenir, el cual consume al momento, 20 hectáreas de vegetación en la comuna de Galvarino.</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Porvenir, Galvarino</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>​<strong>Bomberos:</strong>Cuerpo de Bomberos de Galvarino<br>​<strong>Brigadas:</strong>5 CONAF<br>​<strong>Técnicos:1</strong><br>​<strong>Aeronaves: 1 avión de observación, 1 avión de coordinación y 1 avión Cisterna</strong><br>​</p></td></tr></tbody></table><p>Cabe mencionar, que el incendio presenta comportamiento extremo, velocidad de propagación, intensidad en el frente de avance y longitud de la llama alta. </p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Galvarino por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

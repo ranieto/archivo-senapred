@@ -1,0 +1,20 @@
+{
+	"id": "d6d4151d-30f5-4c3c-ba4e-b33c2bab1f50",
+	"type": "Alerta",
+	"titulo": "Se modifica variable Alerta Temprana Preventiva para la Región del Maule por Evento Meteorológico",
+	"fechaHora": "2024-07-29T13:34:44.4444-04:00",
+	"createdAt": "2024-07-29T17:38:10.536Z",
+	"updatedAt": "2024-08-06T18:25:48.765Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento",
+	"parentId": "db23c831-2f8a-4ce5-bbfd-5cebdec164f6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A284-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en la Región.</p></td><td><p style=\"text-align:center\">31-07</p></td><td><p style=\"text-align:center\">02-08</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A287</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderas en corto periodo de tiempo en la región.</p></td><td><p style=\"text-align:center\">01-08</p></td><td><p style=\"text-align:center\">02-08</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional de SENAPRED <strong>modifica variable Alerta Temprana Preventiva regional a Evento Meteorológico, que se mantiene</strong> vigente desde el 26 de julio del 2024 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p>​<span style=\"font-size: 15px\"><em><strong>SENAPRED </strong>r</em></span><span style=\"font-size: 15px\"><em>ecomienda a la población informarse sobre las condiciones del tiempo; revisar y limpiar el techo y canaletas de las viviendas; mantener las vías de evacuación de aguas lluvias libres de tierra y desperdicios; evitar transitar a pie o en vehículos por zonas o caminos anegados; y evitar internarse en zonas montañosas, ríos, lagos y mar, especialmente cuando las condiciones meteorológicas sean desfavorables.</em></span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px\"></span></p><p>​</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

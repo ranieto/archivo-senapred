@@ -1,0 +1,20 @@
+{
+	"id": "a38232d2-dcf5-45e0-bb3e-8f9879733d37",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de El Loa y las Comunas de Antofagasta y Taltal por evento meteorológico",
+	"fechaHora": "2025-12-06T11:26:47.4747-03:00",
+	"createdAt": "2025-12-06T14:32:54.765Z",
+	"updatedAt": "2025-12-06T15:01:50.296Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2025-11-30-16-01-48",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa, Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong><span style=\"color: black\">información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, han sido cancelados lo siguientes alertamientos meteorológicos para la Región de Antofagasta, debido al debilitamiento de las condiciones que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA105</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Tormentas   eléctricas en el tramo norte del sector cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A466</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en cordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\">Cabe destacar que, se encuentra vigente el Aviso Meteorológico A462-3/2025 por probables tormentas eléctricas, sin embargo, el pronóstico ya no contempla para hoy la zona cordillerana de la región. &nbsp;</p><p style=\"text-align:justify\">En base a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento meteorológico para la Provincia de El Loa y las comunas de Antofagasta y Taltal, </strong>que se mantuvo vigente desde el 30 de noviembre de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

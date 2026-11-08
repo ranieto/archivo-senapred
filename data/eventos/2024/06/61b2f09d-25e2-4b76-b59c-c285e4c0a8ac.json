@@ -1,0 +1,19 @@
+{
+	"id": "61b2f09d-25e2-4b76-b59c-c285e4c0a8ac",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en Arica y Parinacota",
+	"fechaHora": "2024-06-04T05:41:23.2323-04:00",
+	"createdAt": "2024-06-04T09:42:18.780Z",
+	"updatedAt": "2024-06-04T09:44:59.902Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-arica-y-parinacota",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p>La <em>Unidad Nacional de Alerta Temprana</em> reporta información del siguiente evento sísmico <br><br><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>04/06/2024   - 05:37</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>04/06/2024   - 05:40</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>III   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>108</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br><u>Observaciones</u><br><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

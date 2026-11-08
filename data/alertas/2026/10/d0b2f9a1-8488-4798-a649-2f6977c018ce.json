@@ -1,0 +1,20 @@
+{
+	"id": "d0b2f9a1-8488-4798-a649-2f6977c018ce",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Requínoa por tornado",
+	"fechaHora": "2026-10-28T19:14:01.011-03:00",
+	"createdAt": "2026-10-28T22:14:49.404Z",
+	"updatedAt": "2026-10-28T22:16:03.802Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-requinoa-por-tornado-2026-10-26-19-45-51",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Tornado - Tromba marina\",\"nombreImg\":\"tornadotrombamarina.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información técnica proporcionada por la Dirección Meteorológica de Chile (DMC), no se han detectado condiciones atmosféricas de extrema inestabilidad que supongan un aumento del riesgo asociado a esta variable meteorológica en la zona centro-sur de la Región de O’Higgins. Asimismo, tampoco se registran otras condiciones de vulnerabilidad en la comuna afectada.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por tornado para la comuna de Requínoa</strong>, que se mantenía vigente desde el 26 de octubre.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "449d1097-e6d9-49ed-95d3-9c9fcdfc7e0e"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "294a50ed-639d-4afb-9fe7-f7ce52334a66",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-03-19T12:21:00.000-03:00",
+	"createdAt": "2024-03-19T15:25:44.319Z",
+	"updatedAt": "2024-03-19T15:26:04.800Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con lo <strong>informado por el Departamento de Protección contra Incendios Forestales de CONAF</strong>, Extinguido se encuentra el incendio forestal denominado \"Cerro Jiménez\", el cual consume al momento 0.09 hectáreas de vegetación en la comuna de Valparaíso.</span><br></p><p style=\"text-align:justify\"><span style=\"font-size: 16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Valparaíso, por incendio forestal, que se mantuvo vigente desde el 18 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

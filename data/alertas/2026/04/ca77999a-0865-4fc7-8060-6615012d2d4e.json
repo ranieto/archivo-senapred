@@ -1,0 +1,20 @@
+{
+	"id": "ca77999a-0865-4fc7-8060-6615012d2d4e",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-04-02T11:53:00.000-03:00",
+	"createdAt": "2026-04-02T15:11:51.688Z",
+	"updatedAt": "2026-04-02T15:12:05.498Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-03-26-17-13-29",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada el Servicio Meteorológico de la Armada de Chile</strong>, se informa que han finalizado las condiciones de mar que se proyectaron como marejadas normales en la Región de Los Lagos. Asimismo, conforme a lo indicado en el <strong>Informe de Amenaza Meteorológica de la Dirección Meteorológica de Chile</strong>, se esperan montos de precipitaciones débiles para los próximos días en la región, lo que supone una disminución del riesgo asociado a estas variables.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico,</strong> que se mantenía vigente desde el 26 de marzo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "924301a0-40a7-42b3-9bf8-a2b57c599865",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de remoción en masa",
+	"fechaHora": "2025-06-17T18:08:15.1515-04:00",
+	"createdAt": "2025-06-17T22:09:55.813Z",
+	"updatedAt": "2025-06-17T22:10:13.767Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-a-excepcion-de-la-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-amenaza-de-remocion-en-masa",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> mediante su Informe de Amenaza Meteorológica y Pronóstico Público del día de hoy, no se esperan precipitaciones significativas para los próximos días. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Por otra parte, han sido canceladas las Alertas Meteorológicas AA48, por precipitaciones moderadas a fuertes, AA51/2025 por tormentas eléctricas, y los Avisos Meteorológicos A215-4/2025 por precipitaciones normales a moderadas, A216-4/2025 por viento normal a moderado, A220/2025 por precipitaciones normales a moderadas y A224/2025 por probables tormentas eléctricas. </span><span style=\"font-size:15px;color:black\">Lo anterior, debido al debilitamiento de las condiciones que los originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Lo anterior, supone una disminución de la posibilidad de generación de remociones en masa en la región. Además, la Minuta Técnica por Peligro de Remoción en Masa de SERNAGEOMIN, pierde vigencia debido a la cancelación de los alertamientos.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por amenaza de remoción en masa para la Región de Valparaíso</strong>, a excepción de la Provincia de Isla de Pascua y la comuna de Juan Fernández, que se mantuvo vigente desde el 14 de junio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0bfbb016-03e9-4858-9649-1fc4ac173190"
+}

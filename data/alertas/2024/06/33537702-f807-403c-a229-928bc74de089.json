@@ -1,0 +1,20 @@
+{
+	"id": "33537702-f807-403c-a229-928bc74de089",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Curarrehue por desborde",
+	"fechaHora": "2024-06-14T20:36:43.4343-04:00",
+	"createdAt": "2024-06-15T00:38:03.019Z",
+	"updatedAt": "2024-06-16T19:49:03.224Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-curarrehue-por-desborde",
+	"parentId": "07c0a7a9-f355-4573-a533-0346800a5213",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curarrehue\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía y personal en terreno, se reporta un descenso del caudal del Río Trancura en el sector del puente El Piano en la comuna de Curarrehue, sin embargo, se mantiene el monitoreo en el sector en caso de producirse un aumento del caudal y genere potenciales daños en sectores poblados e infraestructura.<br></p><p style=\"text-align:justify\">Cabe mencionar, que el tránsito fue habilitado para todo tipo de vehículos con la recomendación de respetar la señalética de la ruta internacional.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla por desborde</strong> para la <strong>comuna de Curarrehue</strong>, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

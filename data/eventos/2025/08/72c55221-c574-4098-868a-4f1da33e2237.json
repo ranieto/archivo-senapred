@@ -1,0 +1,21 @@
+{
+	"id": "72c55221-c574-4098-868a-4f1da33e2237",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad entre las regiones de Valparaíso y O’Higgins   ",
+	"fechaHora": "2025-08-31T04:51:00.000-04:00",
+	"createdAt": "2025-08-31T08:53:07.178Z",
+	"updatedAt": "2025-08-31T08:59:02.760Z",
+	"urlAccess": "sismo-de-menor-intensidad-entre-las-regiones-metropolitana-y-ohiggins",
+	"parentId": "10e4a790-b139-4d0a-bfbe-a3815cccc3e0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región de Valparaíso, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">Un sismo de menor intensidad se percibió a las 04:43 horas entre las regiones de Valparaíso y O’Higgins.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Cartagena:   </p></td><td><p>IV</p></td></tr><tr><td><p>El   Tabo: </p></td><td><p>IV</p></td></tr><tr><td><p>San   Antonio: </p></td><td><p>IV</p></td></tr><tr><td><p>Casablanca:   </p></td><td><p>IV</p></td></tr><tr><td><p>El   Quisco: </p></td><td><p>III</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Melipilla:   </p></td><td><p>III</p></td></tr><tr><td><p>La   Florida: </p></td><td><p>III</p></td></tr><tr><td><p>Macul:   </p></td><td><p>III</p></td></tr><tr><td><p>El   Monte: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Rancagua:   </p></td><td><p>IV</p></td></tr><tr><td><p>Navidad:   </p></td><td><p>IV</p></td></tr><tr><td><p>San   Fernando: </p></td><td><p>IV</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.4 y se localizó a 7 Kms al Oeste de San Antonio. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

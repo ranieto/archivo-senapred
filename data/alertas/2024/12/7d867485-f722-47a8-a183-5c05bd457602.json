@@ -1,0 +1,20 @@
+{
+	"id": "7d867485-f722-47a8-a183-5c05bd457602",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2024-12-05T20:28:40.4040-03:00",
+	"createdAt": "2024-12-05T23:29:34.034Z",
+	"updatedAt": "2024-12-05T23:30:37.287Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-antonio-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:14px;color:#2E2E2E\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf, </span></strong><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">respecto al incendio forestal en la comuna de San Antonio se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong><span style=\"font-size:14px;color:#2E2E2E\">Nombre del   incendio</span></strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Fundo El Guanaco</span></p></td></tr><tr><td><p><strong><span style=\"font-size:14px;color:#2E2E2E\">Estado</span></strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Controlado </span></p></td></tr><tr><td><p><strong><span style=\"font-size:14px;color:#2E2E2E\">Superficie</span></strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">100.5 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"font-size:14px;color:#2E2E2E\">Recursos</span></strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Bomberos de Cartagena y El   Tabo; 8 brigadas y 3 técnicos de Conaf, 2 helicópteros, 2 camiones aljibe y 1   skidder de Conaf.</span></p></td></tr><tr><td><p><strong><span style=\"font-size:14px;color:#2E2E2E\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">La información técnica   proporcionada por CONAF indica que durante la presenta jornada el personal   trabajó en el anclaje de líneas de control y extinción de puntos calientes   con herramientas de corte y raspaje, apoyados por líneas húmedas.</span></p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de San Antonio, por incendio forestal, que se mantuvo vigente desde el 04 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

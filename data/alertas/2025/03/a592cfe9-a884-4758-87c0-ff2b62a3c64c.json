@@ -1,0 +1,20 @@
+{
+	"id": "a592cfe9-a884-4758-87c0-ff2b62a3c64c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Palena y las comunas de Puerto Montt, Calbuco y Cochamó por precipitaciones",
+	"fechaHora": "2025-03-06T13:12:00.000-03:00",
+	"createdAt": "2025-03-06T16:19:37.671Z",
+	"updatedAt": "2025-03-06T16:19:45.962Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-palena-y-las-comunas-de-puerto-montt-calbuco-y-cochamo-en-la-provincia-de-llanquihue-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Palena, Llanquihue\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Puerto Montt, Calbuco, Cochamó\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelada la alarma AAA2/2025, la cual pronosticaba precipitaciones intensas en corto periodo de tiempo en litoral interior y cordillera austral de la Región de Los Lagos. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Los Lagos,&nbsp;</span><span style=\"color: black\">la&nbsp;</span><span style=\"color: black\">Dirección Regional del SENAPRED&nbsp;</span><strong><span style=\"color: black\">cancela la Alerta Amarilla para la Provincia de Palena y las comunas de Puerto Montt, Calbuco y Cochamó en la Provincia de Llanquihue por precipitaciones</span></strong><span style=\"color: black\">, la que se mantuvo vigente desde el 05 de marzo de 2025.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">Cabe mencionar, que la Región de Los Lagos mantiene Alerta Temprana Preventiva Regional por Evento Meteorológico desde el 01 de marzo de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "454bb296-af19-4fe3-ac64-6705ab2534c5"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7875dbb7-773b-430a-8465-bad048723e60",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Isla de Pascua por incendio forestal",
+	"fechaHora": "2023-10-25T16:03:00.000-03:00",
+	"createdAt": "2023-10-25T19:10:00.191Z",
+	"updatedAt": "2023-10-26T05:33:13.824Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-isla-de-pascua-por-incendio-forestal",
+	"parentId": "ae7b6b16-6b94-421d-a4e5-9e1cf7dd12d5",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Isla de Pascua\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal en la comuna de Isla de Pascua, se informa el siguiente detalle:<br><br>Nombre del incendio\tKiri Hoi<br>Estado\tEn combate<br>Superficie\t100 hectáreas<br>Observaciones\tLos trabajos de hoy se focalizan en detener el avance y propagación del fuego. Al momento, no se registra afectación a monumentos o sectores patrimoniales.<br><br>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED mantiene la Alerta Roja para la comuna de Isla de Pascua por incendio forestal, que se encuentra vigente desde hoy 25 de octubre y hasta que las condiciones así lo ameriten.<br><br>2.       CURSOS DE ACCIÓN:<br>Trabajan en el lugar 1 brigada y 1 técnico de CONAF, 1 BRIFAR, Bomberos, Carabineros, personal de la I. Municipal de Isla de Pascua y Encargado de GRD de la Delegación Presidencial Provincial.<br><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

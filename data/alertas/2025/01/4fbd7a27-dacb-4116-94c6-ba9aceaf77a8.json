@@ -1,0 +1,20 @@
+{
+	"id": "4fbd7a27-dacb-4116-94c6-ba9aceaf77a8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Catemu por incendio forestal",
+	"fechaHora": "2025-01-31T17:39:00.000-03:00",
+	"createdAt": "2025-01-31T20:58:30.488Z",
+	"updatedAt": "2025-01-31T23:23:17.046Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-catemu-por-incendio-forestal-3",
+	"parentId": "d8f42cce-f6a0-469c-82e8-1bb685fc238a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Felipe de Aconcagua\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Catemu\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Catemu se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>SANTAROSA 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Llay llay y Catemu, 4 brigadas, 1 técnico, 1   cisterna y 1 helicóptero.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Catemu por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "2f1bfb32-a744-4902-8723-f1163532f085",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de San Pedro por incendio forestal",
+	"fechaHora": "2025-12-15T18:51:49.4949-03:00",
+	"createdAt": "2025-12-15T21:52:48.332Z",
+	"updatedAt": "2025-12-19T00:22:48.474Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal-2025-12-15-18-52-33",
+	"parentId": "9f1de790-d584-4a26-8232-6620de0294ff",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de San Pedro se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quilamuta</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de San Pedro, Melipilla, 4   brigadas terrestres, 1 técnico, 3 aeronaves, 1 motoniveladora, 1 máquina   pesada, a camión aljibe de Conaf.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a   sectores poblados.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de San Pedro por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

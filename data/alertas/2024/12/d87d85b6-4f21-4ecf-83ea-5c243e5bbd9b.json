@@ -1,0 +1,20 @@
+{
+	"id": "d87d85b6-4f21-4ecf-83ea-5c243e5bbd9b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Quillota por incendio forestal",
+	"fechaHora": "2024-12-07T22:50:00.000-03:00",
+	"createdAt": "2024-12-08T01:57:48.775Z",
+	"updatedAt": "2024-12-08T01:58:42.778Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quillota-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Quillota\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Quillota\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que se encuentra en la comuna de Quillota, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Fundo Santa Rosa</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">28.4 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Quillota, por incendio forestal, que se mantuvo vigente durante hoy 07 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

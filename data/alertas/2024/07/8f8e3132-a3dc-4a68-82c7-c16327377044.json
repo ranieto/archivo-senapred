@@ -1,0 +1,20 @@
+{
+	"id": "8f8e3132-a3dc-4a68-82c7-c16327377044",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+	"fechaHora": "2024-07-13T00:42:00.000-04:00",
+	"createdAt": "2024-07-13T04:43:49.343Z",
+	"updatedAt": "2024-07-13T04:44:45.933Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A261-4</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en precordillera y cordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A268</p></td><td><p style=\"text-align:justify\">Evento   de bajas temperaturas en cordillera de la costa, valle, pampa y   precordillera.</p></td></tr></tbody></table><p><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se manteníavigente desde el 02 de julio de 2024</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

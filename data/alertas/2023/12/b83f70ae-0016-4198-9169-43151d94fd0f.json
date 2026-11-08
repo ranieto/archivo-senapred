@@ -1,0 +1,20 @@
+{
+	"id": "b83f70ae-0016-4198-9169-43151d94fd0f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Biobío por calor intenso",
+	"fechaHora": "2023-12-27T10:56:00.000-03:00",
+	"createdAt": "2023-12-27T14:17:53.674Z",
+	"updatedAt": "2023-12-27T14:18:33.011Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-biobio-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento técnico para la Región del Biobío, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA84/2023</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas extremas en cordillera de la costa, valle y   precordillera de la región.</p></td><td><p style=\"text-align:justify\">25-12</p></td><td><p style=\"text-align:justify\">26-12</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A473/2023</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas extremas en costa, cordillera de la costa, valle,   precordillera y cordillera.</p></td><td><p style=\"text-align:justify\">26-12</p></td><td><p style=\"text-align:justify\">26-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que no se pronostican temperaturas máximas mayores a 34°C por al menos 2 días consecutivos para la Región del Biobío. Por otro lado, se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la Provincia de Biobío p</strong></span><strong>or calor intenso,</strong> que se mantuvo vigente desde el 24 <span style=\"color:black\">de diciembre de 2023.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

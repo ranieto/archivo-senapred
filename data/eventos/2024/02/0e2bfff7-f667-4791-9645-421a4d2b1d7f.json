@@ -1,0 +1,20 @@
+{
+	"id": "0e2bfff7-f667-4791-9645-421a4d2b1d7f",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y  Coquimbo",
+	"fechaHora": "2024-02-15T21:09:00.000-03:00",
+	"createdAt": "2024-02-16T00:10:36.080Z",
+	"updatedAt": "2024-02-16T00:20:31.988Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-atacama-y--coquimbo",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor&nbsp; intensidad se percibió a las 21:00 horas en las regiones de <span style=\"color: rgb(15, 20, 25);font-size: 15px\">Atacama y  Coquimbo</span>. Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>II</p></td></tr><tr><td><p>Coquimbo:   </p></td><td><p>II</p></td></tr></tbody></table><p><span style=\"font-size:15px\"><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. <br><br> SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.</span></p><p><span style=\"font-size:15px\">​</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 5 y se localizó a <span style=\"font-size: 15px\">95 Kms al Noroeste de La Higuera</span>.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

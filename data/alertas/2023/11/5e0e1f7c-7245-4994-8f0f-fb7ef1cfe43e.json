@@ -1,0 +1,20 @@
+{
+	"id": "5e0e1f7c-7245-4994-8f0f-fb7ef1cfe43e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Tierra del Fuego por incendio forestal",
+	"fechaHora": "2023-11-16T19:56:18.1818-03:00",
+	"createdAt": "2023-11-16T22:56:58.073Z",
+	"updatedAt": "2023-11-16T22:58:11.896Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-porvenir-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), en relación con el incendio forestal en la comuna de Porvenir, se informa lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las   Mercedes – Caupolicán. </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1.200 hectáreas.</p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes, en base a la información técnica de CONAF, y en coordinación con la Dirección Regional de SENAPRED Magallanes, se <strong>cancela la Alerta Amarilla</strong> para la provincia de Tierra del Fuego por incendio forestal, la cual se mantuvo vigente desde el 13 de noviembre de 2023. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

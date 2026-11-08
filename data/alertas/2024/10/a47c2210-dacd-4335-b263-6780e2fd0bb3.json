@@ -1,0 +1,20 @@
+{
+	"id": "a47c2210-dacd-4335-b263-6780e2fd0bb3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Paine por incendio forestal",
+	"fechaHora": "2024-10-28T15:28:46.4646-03:00",
+	"createdAt": "2024-10-28T18:33:56.842Z",
+	"updatedAt": "2024-10-29T22:12:51.644Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-paine-por-incendio-forestal",
+	"parentId": "f3dde10e-ba13-442c-9097-851548874237",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Paine\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Paine, se informa el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Águila Sur</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color: black\">3 brigadas CONAF, 2 camiones cisternas de CONAF, 1 helicóptero de CONAF y 1 técnico de CONAF.</span></p></td></tr></tbody></table></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional deSENAPRED declara Alerta Amarilla para la Comuna de Paine por incendio forestal, vigente desde hoy y hastaque las condiciones del incendio así lo ameriten.</div><div>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicionala lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; paraintervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad,minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

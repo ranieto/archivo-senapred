@@ -1,0 +1,20 @@
+{
+	"id": "bcde5c8f-1695-481a-9459-123b35504f61",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Marchigüe por incendio forestal ",
+	"fechaHora": "2023-12-13T15:53:00.000-03:00",
+	"createdAt": "2023-12-13T19:05:03.871Z",
+	"updatedAt": "2023-12-13T20:36:20.363Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchige-por-incendio-forestal",
+	"parentId": "3ae5f2aa-11a4-4ea1-92e0-5b0612fbd0f1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se registra un incendio forestal en la comuna de Marchigüe, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">Yerbas   Buenas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">20   hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Se desarrolla cercano a   sectores habitados y a una planta de energía fotovoltaica “PMGD Marchigüe”.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   desplegados</strong></p></td><td><p style=\"text-align:justify\">1 técnico, 4 brigadas, 2   skidder, 2 helicópteros y 2 aviones de CONAF; junto a Bomberos de Marchigüe,   Litueche, Pichilemu y Peralillo.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por incendio forestal para la comuna de Marchigüe</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

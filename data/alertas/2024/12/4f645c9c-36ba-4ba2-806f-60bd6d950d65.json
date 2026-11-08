@@ -1,0 +1,20 @@
+{
+	"id": "4f645c9c-36ba-4ba2-806f-60bd6d950d65",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Puerto Varas por incendio forestal",
+	"fechaHora": "2024-12-16T19:53:00.000-03:00",
+	"createdAt": "2024-12-16T22:55:20.916Z",
+	"updatedAt": "2024-12-17T20:01:06.145Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-varas-por-incendio-forestal",
+	"parentId": "1457911c-b8e9-4b9e-bc4a-455096ad1431",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo <strong>con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>,&nbsp;respecto del incendio forestal que se encuentra en la comuna de Puerto Varas, se reporta lo siguiente:</p><table><tbody><tr><td><p>Nombre del   incendio</p></td><td><p>Ensenada</p></td></tr><tr><td><p>Estado</p></td><td><p>En combate</p></td></tr><tr><td><p>Superficie</p></td><td><p>0.01   hectáreas</p></td></tr><tr><td><p>Recursos</p></td><td><p>Bomberos de   Puerto Varas y Puerto Montt; 2 brigadas, técnico y 2 aeronaves de Conaf.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara <strong>Alerta Amarilla para la comuna de Puerto Varas</strong> por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

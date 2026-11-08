@@ -1,0 +1,20 @@
+{
+	"id": "f9408a7d-4679-4b34-a268-206d9b506263",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de San Juan de la Costa por evento meteorológico",
+	"fechaHora": "2025-07-02T12:02:02.022-04:00",
+	"createdAt": "2025-07-02T16:03:22.304Z",
+	"updatedAt": "2025-07-02T16:04:48.254Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-juan-de-la-costa-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, respecto del pasado evento meteorológico en la región, se indica que han sido superadas las emergencias ocasionadas y según los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), han sido cancelados los alertamientos meteorológicos que dieron origen a la declaración de esta alerta.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la comuna de San Juan de la Costa por evento meteorológico, </strong>que se mantuvovigente desde el 15 de junio de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "708b9078-f98b-4b9d-af69-d33ff35d5dfb",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad entre las regiones de Valparaíso y O’Higgins   ",
+	"fechaHora": "2024-09-22T15:47:35.3535-03:00",
+	"createdAt": "2024-09-22T18:51:33.622Z",
+	"updatedAt": "2024-09-22T18:53:45.417Z",
+	"urlAccess": "sismo-de-menor-intensidad-entre-las-regiones-de-valparaiso-y-ohiggins",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 15:47 horas entre las regiones de Valparaíso y Valparaíso. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Valparaíso </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Quillota: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Valparaí­so: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">San Antonio: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Metropolitana de   Santiago </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Quilicura: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">El Monte: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Macul: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Libertador Bernardo   O'Higgins </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Rancagua: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br><br></span></p><p><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

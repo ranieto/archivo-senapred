@@ -1,0 +1,19 @@
+{
+	"id": "2ee38b0f-2942-4cb3-a7d9-0077d69f7c16",
+	"type": "Evento",
+	"titulo": "Incendio estructural, Comuna de San Joaquín (Información preliminar)",
+	"fechaHora": "2025-02-02T14:11:00.000-03:00",
+	"createdAt": "2025-02-02T17:16:42.580Z",
+	"updatedAt": "2025-02-02T17:41:29.036Z",
+	"urlAccess": "incendio-estructural-comuna-de-san-joaquin-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información preliminar proporcionada por la Dirección Regional del SENAPRED Metropolitana, a la hora del presente informe se desarrolla un incendio estructural que afecta a una cantidad por determinar de bodegas ubicadas en Avenida Santa Rosa 3100, comuna de San Joaquín.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos Metropolitano Sur, Carabineros, Autoridad Sanitaria y personal Municipal.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

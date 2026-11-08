@@ -1,0 +1,20 @@
+{
+	"id": "d773fd28-f5ed-45d8-80be-523b00754855",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la Comuna de Purén por incendio forestal",
+	"fechaHora": "2025-01-30T15:03:00.000-03:00",
+	"createdAt": "2025-01-30T18:08:20.310Z",
+	"updatedAt": "2025-01-31T01:04:59.728Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puren-por-incendio-forestal-3",
+	"parentId": "76e011cb-fe66-44ee-a81a-5014646ff812",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Purén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Purén se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Pangueco Alto</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Púren y Los Sauces, 6 Brigadas CONAF, 4 Técnicos CONAF, 4 Aviones   cisternas CONAF, 1 Avión cisterna pesado CONAF, 1 Avión de observación, 1   Avión de coordinación, 1 Helicóptero CONAF, 1 Camión cisterna CONAF, 1 Puesto   de mando y 1 Maquinaria Pesada</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla y declara Alerta Roja para la Comuna de Purén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

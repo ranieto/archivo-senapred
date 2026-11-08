@@ -1,0 +1,20 @@
+{
+	"id": "be53e11d-1157-45d6-ad88-eef11b1e95e6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Melipilla por incendio forestal",
+	"fechaHora": "2023-12-14T13:21:00.000-03:00",
+	"createdAt": "2023-12-14T16:25:35.639Z",
+	"updatedAt": "2023-12-14T16:26:20.219Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-melipilla-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que se desarrolla en la Provincia de Melipilla, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\">El Parrón.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Comuna afectada</span></strong></p></td><td><p style=\"text-align:justify\">María Pinto.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\">1.408 hectáreas.</p></td></tr></tbody></table></div><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por incendio forestal</strong>, <strong>para la Provincia de Melipilla,</strong> que se mantenía vigente desde el 06 de diciembre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

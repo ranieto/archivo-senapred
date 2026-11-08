@@ -1,0 +1,20 @@
+{
+	"id": "b1d479ba-bd94-4a59-b581-b834c0b4634b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Villa Alemana por incendio forestal ",
+	"fechaHora": "2024-01-01T22:37:20.2020-03:00",
+	"createdAt": "2024-01-02T01:37:55.219Z",
+	"updatedAt": "2024-01-02T18:04:22.889Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-villa-alemana-por-incendio-forestal",
+	"parentId": "ed397d8c-068c-4670-a923-a4d92e52ebe6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se reporta un incendio forestal en la comuna de Villa Alemana, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Fundo Los Almendros</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio con amenaza a   viviendas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos</strong></p></td><td><p style=\"text-align:justify\">Incendio presenta alta   propagación, se encuentra activo en todos sus flancos, cercano a sectores   habitados.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">3 brigadas, 2 técnicos y 1   camión aljibe de CONAF y Bomberos de Villa Alemana.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por incendio forestal para la comuna de Villa Alemana</strong>, vigente desde el hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

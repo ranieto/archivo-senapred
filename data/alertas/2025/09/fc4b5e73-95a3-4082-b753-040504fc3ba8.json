@@ -1,0 +1,20 @@
+{
+	"id": "fc4b5e73-95a3-4082-b753-040504fc3ba8",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-09-30T10:09:00.000-03:00",
+	"createdAt": "2025-09-30T13:10:53.578Z",
+	"updatedAt": "2025-09-30T13:11:08.761Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-21",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos, debido al debilitamiento de las condiciones que lo originaron.</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A385</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas en litoral, cordillera de la costa,   Chiloé y litoral interior.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la presente jornada, se pronostican montos débiles de precipitaciones y viento en la región.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>,que se mantenía vigente desde el 25 de septiembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

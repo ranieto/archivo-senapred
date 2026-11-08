@@ -1,0 +1,20 @@
+{
+	"id": "b6dd613c-0cd3-48e3-9901-61dbdd64ed16",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego y la comuna de Torres del Paine por viento",
+	"fechaHora": "2026-11-04T10:31:00.000-03:00",
+	"createdAt": "2026-11-04T14:23:46.597Z",
+	"updatedAt": "2026-11-04T14:24:07.336Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2026-10-30-11-17-09",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fue cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones que lo originaron:</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">Aviso A598</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Viento   normal a moderado en Cordillera Austral Sur, Insular Central y Pampa   Patagónica Sur.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para las provincias de Magallanes y Tierra del Fuego y la comuna de Torres del Paine</strong>, que se encontraba vigente desde el 30 de octubre de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

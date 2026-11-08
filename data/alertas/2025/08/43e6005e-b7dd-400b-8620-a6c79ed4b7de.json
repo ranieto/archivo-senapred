@@ -1,0 +1,20 @@
+{
+	"id": "43e6005e-b7dd-400b-8620-a6c79ed4b7de",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2025-08-12T10:31:00.000-04:00",
+	"createdAt": "2025-08-12T14:37:33.837Z",
+	"updatedAt": "2025-08-12T14:38:00.733Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-18",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el Aviso Meteorológico A301-2/2025, el cual pronosticaba precipitaciones normales a moderadas con isoterma cero alta en diversas zonas de la Región de La Araucanía. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico, </strong>que se mantuvo vigente desde el 09 de agosto de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

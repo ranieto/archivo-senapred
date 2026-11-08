@@ -1,0 +1,20 @@
+{
+	"id": "b7b4a72c-9f97-4837-b2b7-79d908cf0a30",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por evento zoosanitario",
+	"fechaHora": "2026-03-07T17:40:00.000-03:00",
+	"createdAt": "2026-03-07T20:46:39.862Z",
+	"updatedAt": "2026-03-31T03:33:29.091Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-zoosanitario-2026-03-05-13-25-47",
+	"parentId": "4c798e4d-2c68-4271-99d8-175cd78386e6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso,</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Mediante la resolución exenta N°948/2026 emitida por el Servicio Agrícola Ganadero, se declaró la presencia de influencia aviar en el predio “Los Caleos 37”, localidad de El Melón, comuna de Nogales. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en </span><span style=\"color:black\">coordinación con la Delegación Presidencial Regional de Valparaíso, </span><span style=\"color:black\">la Dirección Regional del </span><span style=\"color:black\">SENAPRED </span><strong><span style=\"color:black\">mantiene la </span><span style=\"color:black\">Alerta Temprana Preventiva Regional&nbsp;</span></strong><span style=\"color:black\"><strong>por evento zoosanitario</strong></span><span style=\"color:black\">, que permanece vigente desde el 05 de marzo de 2026 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que se ordenó proceder con eutanasia para los ejemplares afectados, además de destrucción de productos y desechos materiales que viesen contacto con las aves. Posterior al procedimiento se realizará limpieza y desinfección del predio afectado.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por su parte, se insiste en respetar la bio-seguridad, protegiendo las aves domésticas para no mezclarlas con las aves silvestres.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

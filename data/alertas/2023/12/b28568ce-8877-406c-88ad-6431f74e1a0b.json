@@ -1,0 +1,20 @@
+{
+	"id": "b28568ce-8877-406c-88ad-6431f74e1a0b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva Para la Región de Valparaíso a excepción de la Provincia de Isla de Pascua y la comuna de Juan Fernández por amenaza de incendios forestales  por amenaza de incendios forestales",
+	"fechaHora": "2023-12-27T15:53:00.000-03:00",
+	"createdAt": "2023-12-27T19:10:20.858Z",
+	"updatedAt": "2023-12-27T19:12:43.906Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-a-excepcion-de-la-provincia-de-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Los Andes, Petorca, Quillota, San Antonio, San Felipe de Aconcagua, Marga Marga\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile, ha sido cancelada su Alerta Meteorológica AA84/2023 que pronosticaba un evento de altas temperaturas extremas en precordillera y cordillera de la Región de Valparaíso. Lo anterior, supone una disminución en la probabilidad de generación y propagación de incendios forestales, en la región.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen un aumento del riesgo asociado a dichas variables y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva </strong>regional, por amenaza de incendios forestales, la cual se mantuvo vigente desde el 22 de diciembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

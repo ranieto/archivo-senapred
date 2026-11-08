@@ -1,0 +1,20 @@
+{
+	"id": "8d24f113-0f95-40c2-80ca-c32f024dd78c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+	"fechaHora": "2024-08-03T09:18:55.5555-04:00",
+	"createdAt": "2024-08-03T14:12:18.712Z",
+	"updatedAt": "2024-08-03T14:31:23.541Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se han <strong>cancelado</strong> los siguientes alertamientos meteorológicos para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p>Aviso   284-1</p></td><td><p>Viento   normal a moderado en litoral, cordillera de la costa y cordillera.</p></td><td><p>31-07</p></td><td><p>02-08</p></td></tr><tr><td><p>Aviso   A287-1</p></td><td><p>Precipitaciones   normales a moderadas en corto periodo de tiempo.</p></td><td><p>02-08</p></td><td><p>02-08</p></td></tr><tr><td><p>Aviso   A294-3</p></td><td><p>Probables   tormentas eléctricas en litoral de la región</p></td><td><p>02-08</p></td><td><p>02-08</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 29 de julio de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

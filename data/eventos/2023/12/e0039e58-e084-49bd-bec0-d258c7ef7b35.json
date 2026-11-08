@@ -1,0 +1,19 @@
+{
+	"id": "e0039e58-e084-49bd-bec0-d258c7ef7b35",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Antofagasta",
+	"fechaHora": "2023-12-16T18:10:00.000-03:00",
+	"createdAt": "2023-12-16T21:10:50.713Z",
+	"updatedAt": "2023-12-16T21:10:50.713Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-12",
+	"parentId": "4c17b6af-eead-4465-a488-2867dbf87888",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 17:52 horas en la Región de Antofagasta.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Antofagasta</strong></p></td></tr><tr><td><p>Tocopilla:</p></td><td><p>IV</p></td></tr></tbody></table><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p style=\"text-align: justify\">El Centro Sismológico Nacional indica que la magnitud fue 3.7, localizada a 20 Kms al Suroeste de Tocopilla.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "46926a8a-749c-45d2-956b-a39f62488ba8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+	"fechaHora": "2023-09-14T01:20:00.000-03:00",
+	"createdAt": "2023-09-14T04:23:28.187Z",
+	"updatedAt": "2023-09-14T04:23:39.415Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes Avisos Meteorológicos en la Región de Atacama, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><table><tbody><tr><td><p><strong>Alerta AA63</strong></p></td><td><p>Viento moderado a fuerte en el sector cordillerano.</p></td></tr><tr><td><p><strong>Aviso A356-3</strong></p></td><td><p>Viento normal a moderado en los sectores litoral, precordillera y cordillera.</p></td></tr><tr><td><p><strong>Aviso A361</strong></p></td><td><p>Tormentas eléctricas asociadas a chubascos aislados en el sector cordillerano.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva </strong>regional<strong>,</strong> por evento meteorológico, que se mantuvo vigente desde el 08 de septiembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

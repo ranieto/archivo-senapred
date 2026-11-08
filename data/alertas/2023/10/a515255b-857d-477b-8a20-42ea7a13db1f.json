@@ -1,0 +1,20 @@
+{
+	"id": "a515255b-857d-477b-8a20-42ea7a13db1f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Biobío por evento meteorológico",
+	"fechaHora": "2023-10-24T15:41:00.000-03:00",
+	"createdAt": "2023-10-25T19:29:02.734Z",
+	"updatedAt": "2023-10-30T11:57:45.174Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-biobio-por-evento-meteorologico",
+	"parentId": "8114dc0b-e1fd-4d4b-af85-31dd3762f014",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos técnicos para la Región del Biobío:</p><table><tbody><tr><td><div><strong>Aviso A410</strong></div></td><td><div>Precipitaciones normales a moderadas, desde la mañana del sábado 28 hasta la mañana del domingo 29 de octubre, los sectores precordilleranos y cordilleranos de la región.</div></td></tr><tr><td><div><strong>Aviso A411</strong></div></td><td><div>Viento normal a moderado, desde la tarde del viernes 27 hasta la noche del sábado 28 de octubre, en los sectores litoral, cordillera costa, valle y precordillera y cordillera.</div></td></tr></tbody></table><p style=\"text-align: justify\">Los montos de precipitación y viento pronosticados por la DMC son los siguientes:</p><table><tbody><tr><td rowspan=\"2\"><div><strong>Zona</strong></div></td><td colspan=\"2\"><div><strong>Jueves 27</strong></div></td><td colspan=\"2\"><div><strong>Viernes 28</strong></div></td></tr><tr><td><div>Precipitaciones<br>(mm)</div></td><td><div>Viento<br>(km/h)</div></td><td><div>Precipitaciones<br>(mm)</div></td><td><div>Viento<br>(km/h)</div></td></tr><tr><td><div>Litoral</div></td><td><div>15 – 20</div></td><td rowspan=\"4\"><div>25 – 40</div></td><td><div>20 – 25</div></td><td rowspan=\"2\"><div>25 – 40<br>rachas de 60</div></td></tr><tr><td><div>Cordillera costa</div></td><td><div>15 – 25</div></td><td rowspan=\"2\"><div>15 – 25</div></td></tr><tr><td><div>Valle</div></td><td><div>20 – 30</div></td><td><div>25 – 40<br>rachas de 50</div></td></tr><tr><td><div>Precordillera</div></td><td><div>25 – 35</div></td><td><div>25 – 40</div></td><td><div>25 – 40<br>rachas de 60</div></td></tr><tr><td><div>Cordillera</div></td><td><div>20 – 30 cm</div></td><td><div>25 – 40<br>Rachas de 60</div></td><td><div>60 – 80 cm</div></td><td><div>25 – 40<br>rachas de 70</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED<strong>declara Alerta Temprana Preventiva regional</strong>por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

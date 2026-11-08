@@ -1,0 +1,20 @@
+{
+	"id": "1ed1ee09-3370-42d6-989e-99da9b7e2204",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Malleco por calor intenso",
+	"fechaHora": "2026-02-21T19:44:31.3131-03:00",
+	"createdAt": "2026-02-21T22:45:36.529Z",
+	"updatedAt": "2026-02-21T22:45:46.576Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco-por-calor-intenso-2026-02-18-16-02-30",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong><span style=\"color: black\">información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A75</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en comunas de Malleco, Renaico, Angol, Purén, Los Sauces, Lumaco   y Traiguén.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por calor intenso para la provincia de Malleco, que se mantenía </strong>vigente desde el 18 de febrero.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "05b6b9f9-b85c-4ee8-8408-99e24e6add58",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la provincia de Isla de Pascua y la comuna de Juan Fernández, por amenaza de incendios forestales",
+	"fechaHora": "2025-03-18T20:57:00.000-03:00",
+	"createdAt": "2025-03-19T00:02:51.517Z",
+	"updatedAt": "2025-03-19T10:44:27.925Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-amenaza-de-incendios-forestales-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>CONAF indica el término de las variables de riesgo por altas probabilidades de generación y propagación de incendios forestales que dieron origen a su declaración.</p><p>A su vez la Dirección Meteorológica de Chile ha emitido la Cancelación de Alerta Meteorológica AA-21/2025 y el Aviso Meteorológico A88-4/2025. </p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso,<strong> la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la región de Valparaíso por amenaza de incendios forestales,</strong> que se mantuvo vigente desde el 17 de marzo de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

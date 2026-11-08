@@ -1,0 +1,20 @@
+{
+	"id": "c71ea901-f86e-4745-9469-ce3913e9e446",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Pitrufquén por incendio forestal",
+	"fechaHora": "2025-02-18T16:13:39.3939-03:00",
+	"createdAt": "2025-02-18T19:19:01.357Z",
+	"updatedAt": "2025-02-26T02:30:25.628Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pitrufquen-por-incendio-forestal-2",
+	"parentId": "848b0f29-a76c-4971-8763-d64f432eba6b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pitrufquén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información técnica proporcionada por CONAF, a la hora del presente informe se registrala reactivación del incendio forestal denominado Loica, el cual afecta al momento 43,4 hectáreas devegetación en la comuna de Pitrufquén.Cabe mencionar que el incendio se desarrolla cercano a sectores habitados.<br><br>Por otra parte, durante la jornada de hoy se han emitido 2 mensajes SAE para reforzar el proceso deevacuación de las áreas de riesgo.</p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Loica<br></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>43,4 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Pitrufquén, 5 brigadas CONAF, 3 técnicos CONAF, 1 avión cisterna, 2 helicópteros y 1 camión cisterna.</p></td></tr></tbody></table><p><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPREDdeclara Alerta Roja para la comuna de Pitrufquén por incendio forestal, vigente desde hoy y hasta que lascondiciones del incendio así lo ameriten.<br><br>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

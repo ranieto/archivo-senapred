@@ -1,0 +1,20 @@
+{
+	"id": "74cafbae-8c6f-44ad-a129-fa6a76bf9458",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Maule por amenaza de incendios forestales",
+	"fechaHora": "2025-03-03T11:29:00.000-03:00",
+	"createdAt": "2025-03-03T14:48:15.958Z",
+	"updatedAt": "2025-03-03T14:48:27.865Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-maule-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con nuevos análisis técnicos efectuados por el Departamento de Protección contra Incendios&nbsp;Forestales CONAF- Region del Maule, han finalizado las variables de riesgo que dieron origen a la declaración de esta alerta.&nbsp;</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la región de Maule, por amenaza de incendios forestales, que se mantuvo vigente desde el 24 de enero de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

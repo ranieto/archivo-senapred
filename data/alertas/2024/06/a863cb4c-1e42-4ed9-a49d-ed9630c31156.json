@@ -1,0 +1,20 @@
+{
+	"id": "a863cb4c-1e42-4ed9-a49d-ed9630c31156",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la región de Valparaíso por evento meteorológico",
+	"fechaHora": "2024-06-14T18:37:00.000-04:00",
+	"createdAt": "2024-06-14T22:41:52.315Z",
+	"updatedAt": "2024-06-15T17:45:50.779Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-valparaiso-y-comuna-de-quilpue-por-evento-meteorologico",
+	"parentId": "3da44279-b4a5-4ef2-bb01-b80f03dd82d0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la</span><strong>&nbsp;información proporcionada por la Dirección Meteorológica de Chile (DMC)&nbsp;</strong><span style=\"color: black\">se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A203-2</p></td><td><p style=\"text-align:justify\">Viento normal a moderado en el litoral, cordillera de la costa,   precordillera, valles precordilleranos y cordillera.</p></td><td><p style=\"text-align:justify\">13-06</p></td><td><p style=\"text-align:justify\">14-06</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A208</p></td><td><p style=\"text-align:justify\">Nevadas normales a moderadas en cordillera.</p></td><td><p style=\"text-align:justify\">12-06</p></td><td><p style=\"text-align:justify\">15-06</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A211-2</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas en litoral, cordillera de la costa,   precordillera, valles precordilleranos y cordillera.</p></td><td><p style=\"text-align:justify\">12-06</p></td><td><p style=\"text-align:justify\">14-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">&nbsp;</span><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED,&nbsp;</span><strong>cancela la Alerta Amarilla y declara Alerta Temprana Preventiva regional (a excepción de la Provincia de Isla de Pascua)&nbsp;</strong><span style=\"color: black\">por evento meteorológico, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

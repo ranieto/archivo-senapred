@@ -1,0 +1,20 @@
+{
+	"id": "86440d56-01ae-4edf-aaaf-31e4327e110a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Quellón por evento meteorológico",
+	"fechaHora": "2023-12-15T19:59:00.000-03:00",
+	"createdAt": "2023-12-15T23:20:38.104Z",
+	"updatedAt": "2023-12-17T15:11:59.595Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quellon-por-evento-meteorologico",
+	"parentId": "03495dfd-d2ad-4a5e-acd3-0ca854380446",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Quellón\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos</strong> y el Director Comunal de Gestión del Riesgo de Desastres de la comuna de Quellón, se indica que debido a la ultimas precipitaciones registradas en la zona, se han reportado múltiples anegamientos de viviendas e infraestructuras en diversos sectores de la comuna.<br></p><p style=\"text-align:justify\">&nbsp;</p><p style=\"text-align:justify\">Por otra parte, de acuerdo con el monitoreo de campo, se observa que la condición del río Matadero se encuentra a su máxima capacidad, con eventual peligro de desborde, el río señalado cruza la ciudad en sector oriente y en su entorno amenaza aproximadamente a 100 familias.</p><p style=\"text-align:justify\">Del mismo modo el río Pitiguin se encuentra a su máxima capacidad con peligro inminente de desborde, este río Cruza la ciudad en el sector centro, donde se encuentran las poblaciones Los Alcaldes y Chilhue; colegio Gabriela Mistral; y el sector Costanera. Cabe señalar, que esta situación se mantiene monitoreada por los observadores de campo dispuestos. </p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED,<strong> declara Alerta Amarilla </strong>para la comuna de Quellón,por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo ameriten. </p><p style=\"text-align:justify\">Cabe destacar, que la Región de Los Lagos se encuentra con Alerta Temprana Preventiva por evento meteorológico, desde el 13 de diciembre de 2023. </p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6754f1b8-e51e-4b32-b08f-67346b06d590",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Galvarino por incendio forestal",
+	"fechaHora": "2026-02-20T17:27:46.4646-03:00",
+	"createdAt": "2026-02-20T20:29:25.040Z",
+	"updatedAt": "2026-02-20T23:36:15.945Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-galvarino-por-incendio-forestal-2026-02-20-17-29-06",
+	"parentId": "f10936d6-19fa-44a6-996e-635f30b34fe8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Paillahue 4</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,6 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Galvarino, 3 brigadas de CONAF, 1   camión Ciserna y 1 Maquinaria pesada</p></td></tr></tbody></table><p>En combate se encuentra el incendio forestal denominado Paillahue 4, el cual consume al momento 0,6 hectáreas de pastizal en la comuna de Galvarino. </p><p><br></p><p><br></p><p>Cabe mencionar que el incenido se encuentra cercanos a sectores habitados. En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Galvarino por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><br></p><p><br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

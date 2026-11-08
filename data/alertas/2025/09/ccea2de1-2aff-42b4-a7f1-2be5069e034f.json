@@ -1,0 +1,20 @@
+{
+	"id": "ccea2de1-2aff-42b4-a7f1-2be5069e034f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Paiguano por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-09-10T00:00:26.606Z",
+	"updatedAt": "2025-09-10T00:36:52.910Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-paiguannio-por-incendio-forestal",
+	"parentId": "8be0aa48-5c32-4817-ae00-4f7efbb6dca4",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por CONAF y el SINAPRED,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la&nbsp;<strong>comuna de Paiguano&nbsp;</strong>se informa el siguiente detalle:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><p>Tres Cruces Bajo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos de Paiguano, La Serena, Coquimbo, Andacollo, Río Hurtado, La Higuera y Vicuña</p><p>2 técnicos de CONAF</p><p>1 retroexcavadora del MOP</p><p>1 camión tolva del MOP</p></td></tr><tr><td><p><strong>Afectación</strong></p></td><td><p>60 personas damnificadas y 2 evacuadas</p><p>15 viviendas con daño mayor no habitable y 4 en evaluación</p></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"color: rgb(46, 46, 46);font-size: 14px\">A las 17:07 horas de hoy fue enviado un mensaje SAE para reforzar la evacuación preventiva del sector Tres Cruces.</span>​</div><div style=\"text-align: justify\"><span style=\"color: rgb(46, 46, 46);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED mantiene Alerta Roja para la comuna de Paiguano por incendio forestal, vigente desde el 9 de septiembre de 2025.</span></div><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

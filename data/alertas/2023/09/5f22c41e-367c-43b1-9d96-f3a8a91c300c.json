@@ -1,0 +1,20 @@
+{
+	"id": "5f22c41e-367c-43b1-9d96-f3a8a91c300c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por altas temperaturas",
+	"fechaHora": "2023-09-25T19:55:00.000-03:00",
+	"createdAt": "2023-09-26T01:12:47.306Z",
+	"updatedAt": "2023-09-26T01:13:05.982Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó, Chañaral, Huasco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado su Aviso Meteorológico A382-1/2023, que pronosticó un evento de altas temperaturas en los sectores de cordillera de la costa y valles y pampa de la Región de Atacama.<br><br>En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por altas temperaturas, que se encontraba vigente desde el 19 de septiembre. <br><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

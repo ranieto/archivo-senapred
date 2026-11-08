@@ -1,0 +1,20 @@
+{
+	"id": "ca44e2c1-39dd-46f9-9e54-c8c7ecd66f95",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2025-05-09T09:12:00.000-04:00",
+	"createdAt": "2025-05-09T13:45:26.774Z",
+	"updatedAt": "2025-05-09T13:47:34.788Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-8",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"color: black\">Alerta 33</span></p></td><td><p style=\"text-align: justify\"><span style=\"color: black\">Tormentas eléctricas con probabilidad de granizo en litoral y cordillera de la costa de la región.</span></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"color: black\">Aviso 151-2</span></p></td><td><p style=\"text-align: justify\"><span style=\"color: black\">Viento normal a moderado con probabilidad de viento blanco en la cordillera de la región.</span></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"color: black\">Aviso 157-3</span></p></td><td><p style=\"text-align: justify\"><span style=\"color: black\">Probables tormentas eléctricas en valle, precordillera y cordillera de la región.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico</strong></span><span style=\"color: black\">,que se encontrabavigente desde el 07 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

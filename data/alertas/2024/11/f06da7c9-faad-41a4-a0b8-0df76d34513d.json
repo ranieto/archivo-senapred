@@ -1,0 +1,20 @@
+{
+	"id": "f06da7c9-faad-41a4-a0b8-0df76d34513d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Magallanes por tormentas eléctricas",
+	"fechaHora": "2024-11-22T13:01:56.5656-03:00",
+	"createdAt": "2024-11-22T16:03:57.318Z",
+	"updatedAt": "2024-11-24T14:28:19.702Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-5",
+	"parentId": "6d67142e-5348-4184-b4c9-7ce09c615fdb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)&nbsp;</strong>indica que se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes y de la Antártica Chilena:</p><div><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A442</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas en la región, preferentemente durante la tarde noche con precipitaciones aisladas.</p></td><td><p style=\"text-align: center\">22-11</p></td><td><p style=\"text-align: center\">23-11</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional de SENAPRED&nbsp;<strong>declara Alerta Temprana Preventiva regional por tormentas eléctricas,&nbsp;</strong>vigente a partir de hoy y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

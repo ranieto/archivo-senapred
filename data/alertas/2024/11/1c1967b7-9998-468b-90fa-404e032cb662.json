@@ -1,0 +1,20 @@
+{
+	"id": "1c1967b7-9998-468b-90fa-404e032cb662",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Yungay por incendio forestal",
+	"fechaHora": "2024-11-25T18:20:02.022-03:00",
+	"createdAt": "2024-11-25T21:21:29.588Z",
+	"updatedAt": "2024-11-25T23:30:17.423Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-yungay-por-incendio-forestal",
+	"parentId": "468cacdc-7b22-4116-a739-dc95bd12a250",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Yungay\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,</strong>&nbsp;respecto al incendio forestal en la comuna de Yungay se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p><strong>Campanario</strong></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se presenta cercano a sectores poblados.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Yungay, por incendio forestal.</p><p>Esta declaración estará vigente a contar de la hora del presente informe y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

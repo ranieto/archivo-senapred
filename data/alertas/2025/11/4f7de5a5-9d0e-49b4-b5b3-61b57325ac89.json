@@ -1,0 +1,20 @@
+{
+	"id": "4f7de5a5-9d0e-49b4-b5b3-61b57325ac89",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Graneros por incendio forestal",
+	"fechaHora": "2025-11-18T17:25:00.000-03:00",
+	"createdAt": "2025-11-18T20:33:57.914Z",
+	"updatedAt": "2025-11-18T20:40:04.238Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-graneros-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información técnica proporcionada por la CONAF</strong>, respecto al incendio forestal en la comuna de Graneros, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p>El Arrozal</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6.5 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos de Graneros, Rancagua, Codegua, Olivar y Mostazal</p><p>5 brigadas Conaf</p><p>2 técnicos Conaf</p><p>4 aeronaves Conaf</p><p>1 puesto de mando Conaf</p></td></tr></tbody></table></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, <strong>la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Graneros,</strong> por incendio forestal (ATR N°155), que se mantuvo vigente desde el 18 de noviembre de 2025.</div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "95f71d64-69e7-48da-b172-91fd3a3a8845",
+	"type": "Evento",
+	"titulo": "Incendio Forestal, comuna de Tiltil (cierre de evento)",
+	"fechaHora": "2024-03-19T16:57:00.000-03:00",
+	"createdAt": "2024-03-19T20:20:16.575Z",
+	"updatedAt": "2024-03-19T20:20:16.575Z",
+	"urlAccess": "incendio-forestal-comuna-de-tiltil",
+	"parentId": "f55e34aa-51e5-415a-80c7-810de7488060",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto del incendio forestal que se encuentra en la comuna de Tiltil, se reporta lo siguiente:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre del   incendio</strong></a></p></td><td><p style=\"text-align:justify\">Espinalillo</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5.0 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Se evacuaron 4 viviendas con aprox. 25 personas, las que   retornaron a sus hogares. Además, se informa que no existe peligro a   infraestructuras al momento.</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "95006fa2-6bc6-4d99-b9cb-42d8a00fd154",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-03-30T22:37:07.547Z",
+	"updatedAt": "2025-03-30T22:37:43.614Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-7",
+	"parentId": "a975a139-f832-4389-9289-38ab86524be1",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región Metropolitana:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">A114-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto periodo de tiempo en cordillera de la costa,   valle, precordillera y cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">A115-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">A117</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera y cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantenía vigente desde hoy 30 de marzo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

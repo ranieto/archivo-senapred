@@ -1,0 +1,20 @@
+{
+	"id": "3dc8719a-0b27-403f-8e2a-4e933800d8f4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Iquique, Alto Hospicio y Huara por precipitaciones",
+	"fechaHora": "2024-10-09T00:35:00.000-03:00",
+	"createdAt": "2024-10-09T03:35:34.303Z",
+	"updatedAt": "2024-10-10T16:09:40.005Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-precipitaciones",
+	"parentId": "8766f720-9689-45e0-9a34-6f242dc6bbd7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p style=\"text-align:justify\">De acuerdo con la<strong><span style=\"color: rgb(0, 0, 0)\">información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong>se encuentra vigente el siguiente alertamiento meteorológico para la Región de Tarapacá:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A378</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas en el litoral.</p></td><td><p style=\"text-align:center\">08-10</p></td><td><p style=\"text-align:center\">09-10</p></td></tr></tbody></table><p style=\"text-align:justify\">Cabe destacar que, según el pronóstico especial elaborado en la jornada de ayer por la DMC, se indica que las precipitaciones en el sector costero de la Región de Tarapacá acumularán entre 1 y 4 milímetros, consideradas como moderadas. Además, en horas de la madrugada de hoy se mantendrán las precipitaciones en forma intermitente. Lo anterior, supone un aumento del riesgo asociado a dicha variable meteorológica.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla</strong><strong>para las comunas de Iquique, Alto Hospicio y Huara</strong>, <strong>por precipitaciones</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><p style=\"text-align:justify\">Finalmente, se mantiene vigente desde el 05 de octubre de 2024, la Alerta Temprana Preventiva regional por evento meteorológico.</p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">Durante la jornada de ayer 08 de octubre, se realizó un COGRID Regional, con el propósito de abordar las medidas de mitigación y apoyo para las localidades afectadas por las últimas precipitaciones y las que se esperan en la jornada de hoy.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "454bb296-af19-4fe3-ac64-6705ab2534c5"
+}

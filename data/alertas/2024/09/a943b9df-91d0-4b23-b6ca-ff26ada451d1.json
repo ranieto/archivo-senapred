@@ -1,0 +1,20 @@
+{
+	"id": "a943b9df-91d0-4b23-b6ca-ff26ada451d1",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de O'Higgins por viento",
+	"fechaHora": "2024-09-14T23:12:00.000-03:00",
+	"createdAt": "2024-09-15T02:22:52.599Z",
+	"updatedAt": "2024-09-23T14:55:12.156Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento",
+	"parentId": "96c135d2-911a-4bef-8ae6-a47b861e91b9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de O’Higgins:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A340</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral.</p></td><td><p style=\"text-align:center\">18-09</p></td><td><p style=\"text-align:center\">19-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A341</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de viento blanco en cordillera.</p></td><td><p style=\"text-align:center\">18-09</p></td><td><p style=\"text-align:center\">19-09</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen un aumento del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED, <strong>declara Alerta Temprana Preventiva Regional por viento, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><strong><em><span style=\"color: rgb(0, 0, 0)\">SENAPRED&nbsp;</span></em></strong><em><span style=\"color: rgb(0, 0, 0)\">recomienda a la poblacióninformarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span></em><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

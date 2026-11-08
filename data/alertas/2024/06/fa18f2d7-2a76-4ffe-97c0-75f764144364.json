@@ -1,0 +1,20 @@
+{
+	"id": "fa18f2d7-2a76-4ffe-97c0-75f764144364",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Provincia de Arauco y Concepción por desborde",
+	"fechaHora": "2024-06-13T11:50:00.000-04:00",
+	"createdAt": "2024-06-13T17:04:17.572Z",
+	"updatedAt": "2024-06-20T16:48:41.165Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-provincias-de-arauco-y-concepcion-por-desborde",
+	"parentId": "d2c639c8-56f8-470e-9b5d-5a5758cb5c16",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción, Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red fluviométrica se indica que las estaciones del Río Pichilo en Pichilo y Rio Lía en las corrientes, Río Andalien antes del ex Peaje Chaimavida, Rio Curanilahue en estación Curanilahue, Rio Leiva en puente camino a Contulmo, Río Vergara en Tijeral, Estero Hualqui en Desembocadura y Rio Biobío en Desembocadura se encuentran en <strong>Alerta Roja</strong>.<br></p><p style=\"text-align:justify\">A su vez, las estaciones del Río Mulchen en Mulchen y Rio Laja Tucapel 2 se encuentran en <strong>Alerta Amarilla con tendencia a la alza.</strong></p><p style=\"text-align:justify\">Por otro lado, según la Dirección Meteorológica de Chile, a través de su Aviso y Alerta Meteorológica vigente, se mantiene el pronóstico de precipitaciones de intensidad moderadas a fuertes en la Región del Biobío hasta noche del jueves 13 de junio, lo que hace suponer el aumento de caudales y posible afectación a viviendas y personas en las comunas de la región.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable </span>la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>se modifica cobertura de Alerta Roja a Regional por desborde</strong>, que se encuentra <span style=\"color:black\">vigente desde el 12 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la modificación de cobertura de la <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\">Cabe mencionar, que con la declaración de esta alerta se cancelan la <strong>Alerta Roja para las provincias de Arauco y Concepción y las comunas de Nacimiento y Los Ángeles por desborde y la Alerta Amarilla regional por amenaza de desborde.</strong></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

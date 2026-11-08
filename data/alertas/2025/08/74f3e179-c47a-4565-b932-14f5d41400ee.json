@@ -1,0 +1,20 @@
+{
+	"id": "74f3e179-c47a-4565-b932-14f5d41400ee",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Temprana Preventiva para la región de Arica y Parinacota por viento",
+	"fechaHora": "2025-08-16T14:45:59.5959-04:00",
+	"createdAt": "2025-08-16T18:48:53.783Z",
+	"updatedAt": "2025-08-19T23:10:01.718Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento",
+	"parentId": "10ad2afa-fc71-4417-9029-5131a879f18d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A308-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad de tormentas de arena en litoral, pampa y   cordillera. </span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">17-08</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-08</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Temprana Preventiva a Regional por viento, </strong>que se mantienevigente desde el 15 de agosto y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><em><strong><span style=\"color: black\">SENAPRED&nbsp;</span></strong>recomienda a la poblacióninformarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento. En relación a la pobabilidad de tormentas de arena o polvo, recuerda&nbsp;</em></span><span style=\"font-size: 14.6667px\"><em>cubrir depósitos de agua y alimentos para evitar que les caiga polvo y tierra; y cerrar ventanas, cortinas, persianas, puertas y conductos de ventilación de viviendas o edificios.</em></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

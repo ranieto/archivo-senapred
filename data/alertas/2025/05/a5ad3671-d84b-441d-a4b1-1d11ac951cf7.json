@@ -1,0 +1,20 @@
+{
+	"id": "a5ad3671-d84b-441d-a4b1-1d11ac951cf7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de María Pinto por incendio forestal",
+	"fechaHora": "2025-05-05T23:27:00.000-04:00",
+	"createdAt": "2025-05-06T03:29:09.772Z",
+	"updatedAt": "2025-05-07T15:29:22.232Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-maria-pinto-por-incendio-forestal",
+	"parentId": "264a555d-4176-4ce3-8f25-b5fc98fc0de6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de María Pinto se informa el siguiente detalle:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Santa Filomena</p></td></tr><tr><td><div><strong>Comuna (Sector)</strong></div></td><td><div>Melipilla (Bollenar)</div><div>Curacaví</div><div>María Pinto (Santa Filomena)<br></div></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie afectada</strong></p></td><td><p>800 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos de María Pinto, Melipilla e Isla de Maipo</p><p>1 técnico</p><p>2 brigadas (Roble 30 y Palma 34)</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Al momento el incendio no presenta amenazas a estructuras al momento y se espera una disminución en su intensidad debido a las condiciones meteorológicas que se prevén para esta noche.<br></div></td></tr></tbody></table></div><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Por otra parte, la Municipalidad de María Pinto, Melipilla y Curacaví, en coordinación con la SEREMI de&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Educación, han determinado la suspensión de clases para el día martes 06 de mayo, en todos los&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">establecimientos de las comunas de María Pinto y Curacaví; además de dos establecimientos en la comuna&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">de Melipilla, debido al humo que afecta a dichos establecimientos.</span></p><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, <strong>la Dirección Regional&nbsp;de SENAPRED mantiene la Alerta Amarilla para la Comuna de María Pinto por incendio forestal,</strong> que se&nbsp;encuentra vigente desde el 05 de mayo de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

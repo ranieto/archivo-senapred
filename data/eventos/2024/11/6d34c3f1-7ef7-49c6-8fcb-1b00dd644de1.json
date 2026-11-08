@@ -1,0 +1,20 @@
+{
+	"id": "6d34c3f1-7ef7-49c6-8fcb-1b00dd644de1",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la regiones de Atacama y Coquimbo",
+	"fechaHora": "2024-11-02T04:49:02.022-03:00",
+	"createdAt": "2024-11-02T07:49:28.086Z",
+	"updatedAt": "2024-11-02T07:54:26.844Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-45",
+	"parentId": "ccb0b589-bed9-43d6-888b-75e239e06064",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 04:42 horas en las regiones de Atacama y Coquimbo. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Atacama </strong></p></td></tr><tr><td><p>Alto del Carmen: </p></td><td><p>III</p></td></tr><tr><td><p>Vallenar: </p></td><td><p>III</p></td></tr><tr><td><p>Freirina: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Coquimbo </strong></p></td></tr><tr><td><p>La Serena: </p></td><td><p>IV</p></td></tr></tbody></table><p><span style=\"font-size:15px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

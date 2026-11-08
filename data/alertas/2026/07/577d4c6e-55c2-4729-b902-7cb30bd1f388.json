@@ -1,0 +1,20 @@
+{
+	"id": "577d4c6e-55c2-4729-b902-7cb30bd1f388",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla para la provincia de Arauco por crecida",
+	"fechaHora": "2026-07-16T14:04:49.4949-04:00",
+	"createdAt": "2026-07-16T18:07:31.341Z",
+	"updatedAt": "2026-07-17T17:45:27.737Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-07-14-23-44-21",
+	"parentId": "427c843a-d0db-450a-a450-ed400b8da17d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas ubicadas en el Río Pichilo de la comuna de Arauco y la estación ubicada en el Río Curanilahue de la comuna del mismo nombre, se mantienen incrementando su caudal, alcanzando valores de umbral amarillo. Del mismo modo, se proyecta una subida en los niveles de agua durante las próximas horas en las estacione de la red fluviométrica de la Provincia de Arauco.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">El umbral amarillo establecido por la DGA, indica una situación de riesgo manifestada, la cual bajo un pronóstico o condición desfavorable, podría alcanzar una alerta roja, generando en tal caso una situación de emergencia.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Además, en base al pronóstico de la Dirección Meteorológica de Chile, las precipitaciones se mantendrán presentes en la región, donde se estima que en las próximas horas podrían alcanzar umbrales de alerta críticos de caudal en cursos de agua.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Amarilla por crecida a la Provincia de Arauco,</strong> que se encuentra vigente desde el 14 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

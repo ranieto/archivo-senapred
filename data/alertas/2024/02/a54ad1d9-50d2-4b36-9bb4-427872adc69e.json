@@ -1,0 +1,20 @@
+{
+	"id": "a54ad1d9-50d2-4b36-9bb4-427872adc69e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San Pedro por incendio forestal",
+	"fechaHora": "2024-02-12T23:00:00.000-03:00",
+	"createdAt": "2024-02-13T11:46:43.762Z",
+	"updatedAt": "2024-02-13T23:24:22.826Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal-2",
+	"parentId": "deec29da-7b3c-4c29-9a61-b555f3b33de9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Pedro\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">,&nbsp;respecto al incendio forestal en la comuna de San Pedro, se informa el siguiente detalle:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:16px\">Cuesta Changanal</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">523 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Fundamentación técnica</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:16px\">Incendio presenta cercanía a sectores habitados</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Recursos involucrados</span></strong></p></td><td><p><span style=\"font-size:16px\">Bomberos de&nbsp;San Pedro,   Melipilla, Alhué, Maria Pinto, Ñuñoa, Isla Maipo, La Granja, Talagante, El   Monte, Maipú, Buin, Paine, Peñaflor, Padre Hurtado y Litueche, 8 brigadas de   CONAF, 6 técnicos de CONAF, 6 helicópteros de CONAF, 4 aviones de CONAF, 2   Skidder de CONAF, 1 puesto de mando de&nbsp;CONAF, 1 camión aljibe   de&nbsp;CONAF, Carabineros, SAMU, personal municipal y personal de SENAPRED   RM. En tanto, os recursos planificados para mañana 13 de febrero son: 7   técnicos, 1 puesto de mando, 7 brigadas, 6 helicópteros y 4 aviones de CONAF,   2 aviones de SENAPRED y 3 Skidder</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Afectaciones:</span></strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">&nbsp;De acuerdo a lo informado por la región, 05 estructuras han sido afectadas y de momento se evalúa si son viviendas. Asimismo, 09 personas se encuentran albergadas en la Escuela Básica de San Pedro. Se realiza corte de tránsito vehicular en ambos sentidos de Ruta G-690, para el trabajo y desplazamiento de los equipos de emergencias.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

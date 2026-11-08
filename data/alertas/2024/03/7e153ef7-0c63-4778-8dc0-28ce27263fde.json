@@ -1,0 +1,20 @@
+{
+	"id": "7e153ef7-0c63-4778-8dc0-28ce27263fde",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de Teodoro Schmidtpor incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-03-07T21:29:10.456Z",
+	"updatedAt": "2024-03-07T21:29:40.970Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-teodoro-schmidt-por-incendio-forestal",
+	"parentId": "8bf0e912-c3a8-4752-90e5-44ffcd3377f1",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Teodoro Schmidt\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de </span>Teodoro Schmidt<span style=\"color: black\"> se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">El Paja</span>l</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>50 hectáreas </p></td></tr><tr><td><p><strong>Recursos </strong></p></td><td><p>3 brigadas, 1   técnico de Conaf; 1 avión cisterna, 1 avión de coordinación y 1 puesto de   mando de Conaf. En trayecto: 3 brigadas, 1 técnico y 3 aviones cisterna.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Teodoro Schmidt, por incendio forestal, que se encuentra vigente desde el 07 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

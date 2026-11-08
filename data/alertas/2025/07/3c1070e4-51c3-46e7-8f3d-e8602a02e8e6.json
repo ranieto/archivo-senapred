@@ -1,0 +1,20 @@
+{
+	"id": "3c1070e4-51c3-46e7-8f3d-e8602a02e8e6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por heladas",
+	"fechaHora": "2025-07-01T11:55:00.000-04:00",
+	"createdAt": "2025-07-01T15:57:51.866Z",
+	"updatedAt": "2025-07-01T15:58:38.030Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-heladas-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA57</p></td><td><p style=\"text-align:justify\">Heladas moderadas   a intensas en cordillera de la costa, valle y precordillera de la región</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A242-2</p></td><td><p style=\"text-align:justify\">Heladas normales a   moderadas con probabilidad de formación de escarcha en cordillera costa,   valle y precordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong><strong>por heladas</strong>, que se mantuvo vigente desde el 25 de junio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

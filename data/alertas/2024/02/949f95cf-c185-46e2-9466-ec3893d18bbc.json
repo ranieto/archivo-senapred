@@ -1,0 +1,20 @@
+{
+	"id": "949f95cf-c185-46e2-9466-ec3893d18bbc",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Amarilla para la Región del Biobío por incendios forestales",
+	"fechaHora": "2024-02-03T19:10:00.000-03:00",
+	"createdAt": "2024-02-09T20:12:41.910Z",
+	"updatedAt": "2024-02-22T16:16:55.511Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-incendios-forestales",
+	"parentId": "7576b208-e036-4da8-a175-05f5c8d28c1c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:18px;font-family:Roboto;color:black\">De acuerdo c</span></strong><span style=\"font-size: 18px;font-family: Roboto;color: black\">on&nbsp;<strong><span style=\"font-family:Roboto\">la información proporcionada por CONAF</span></strong>, se prevé que las variables de temperatura, humedad relativa y viento, alcancen valores significativos en los próximos días, lo que podría influir en la propagación de los incendios forestales en la región. Por otra parte, la región ha prestado apoyo interregional debido al Estado de Excepción de Catástrofe de la Región de Valparaíso.</span><br></p><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Región de Biobío por incendios forestales, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "1a469560-8819-4611-8109-1aca21781ddc",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Coquimbo",
+	"fechaHora": "2023-11-03T04:39:51.5151-03:00",
+	"createdAt": "2023-11-03T07:42:04.526Z",
+	"updatedAt": "2023-11-03T07:49:38.732Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-5",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">Un sismo de menor intensidad fue percibido a las 04:38 horas en la Región de Coquimbo.</span></p><p><span style=\"font-size: 14px\">Las intensidades en Escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Serena: </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:15px\"><br></span><span style=\"font-size: 14px\">El Sistema Nacional de Prevención y Respuesta ante Desastres evalúa eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

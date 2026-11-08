@@ -1,0 +1,20 @@
+{
+	"id": "7a2efcef-ad50-488d-8306-feef5d3b2c07",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2025-09-21T15:11:00.000-03:00",
+	"createdAt": "2025-09-21T18:15:41.510Z",
+	"updatedAt": "2025-09-21T18:16:06.463Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-24",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región del Biobío:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA86-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Tormentas eléctricas con probabilidad de precipitaciones fuertes en un   corto periodo de tiempo en las provincias de Concepción y Biobío.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A365-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas con probabilidad de granizos en litoral,   cordillera de la costa, valle, precordillera y cordillera de la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Asimismo, finalizó la vigencia del Aviso Especial emitido por el Centro Meteorológico Marítimo de Talcahuano sobre el posible desarrollo de nubes convectivas que generaron condiciones propicias para la formación de trombas marinas, en sectores costeros de la región.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva </strong></span><strong><span style=\"font-size:15px;color:black\">Regional </span></strong><strong><span style=\"font-size:15px;color:black\">por evento meteorológico</span></strong><span style=\"font-size:15px;color:black\">,que se encontraba vigente desde el 17 de septiembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

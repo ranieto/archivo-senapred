@@ -1,0 +1,20 @@
+{
+	"id": "aafc57ce-32e8-407e-a33d-985f254ff674",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región del Maule por calor intenso",
+	"fechaHora": "2024-02-16T16:12:01.011-03:00",
+	"createdAt": "2024-02-16T19:12:56.572Z",
+	"updatedAt": "2024-02-19T11:53:37.665Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-calor-intenso-4",
+	"parentId": "d8add705-c38f-4216-a79d-540e727fbd51",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentran vigentes los siguientes alertamientos técnicos para la Región del Maule:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA13</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas extremas en valle y precordillera.</p></td><td><p style=\"text-align:center\">18-02</p></td><td><p style=\"text-align:center\">18-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Lo anterior según el siguiente detalle:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Sábado 17</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Domingo 18</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Valle</p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">35   – 37</p></td></tr><tr><td><p style=\"text-align:center\">Precordillera</p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">35   – 37</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED, declara Alerta Amarilla Regional por calor intenso, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene una Alerta Temprana Preventiva Nacional por calor, desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de minimizar los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><em><strong><span style=\"color: black\">SENAPRED </span></strong><span style=\"color: black\">recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del calor intenso, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></em></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

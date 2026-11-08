@@ -1,0 +1,20 @@
+{
+	"id": "417c905f-7298-4e0c-8ce5-956749f256b7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por amenaza de incendios forestales",
+	"fechaHora": "2024-12-26T09:21:20.2020-03:00",
+	"createdAt": "2024-12-26T12:23:35.355Z",
+	"updatedAt": "2024-12-26T12:28:25.158Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelado el siguiente alertamiento meteorológico para la Región del Biobío:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA89</p></td><td><p style=\"text-align:justify\">Altas temperaturas   extremas en cordillera de la costa, valle y precordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\">Asimismo, se mantiene vigente el siguiente alertamiento meteorológico para la región:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A458-6</p></td><td><p>Altas temperaturas en cordillera de la   costa, valle y precordillera de la región.</p></td><td><p style=\"text-align:center\">25-12</p></td><td><p style=\"text-align:center\">28-12</p></td></tr></tbody></table><p style=\"text-align:justify\">Cabe destacar que, se mantiene la Alerta Temprana Preventiva para la Región del Biobío por Calor, la cual se encuentra vigente desde el 1 de noviembre de 2024.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla Regional por calor intenso</strong>, que se mantuvo vigente desde el 22 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

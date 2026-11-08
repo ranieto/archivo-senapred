@@ -1,0 +1,20 @@
+{
+	"id": "87b3601b-3195-4174-8730-978d660f60bc",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Coquimbo y de Valparaíso   ",
+	"fechaHora": "2024-09-14T05:19:00.000-03:00",
+	"createdAt": "2024-09-14T08:21:39.063Z",
+	"updatedAt": "2024-09-14T08:21:39.063Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-valparaiso-4",
+	"parentId": "bb271bec-095e-40bc-b958-40e4b9bbcf7e",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo, Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 05:04 horas en las regiones de Coquimbo y de Valparaíso.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>Illapel:   </p></td><td><p>IV</p></td></tr><tr><td><p>Salamanca:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Puchuncaví­:   </p></td><td><p>V</p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>IV</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.2 y se localizó a 28 Kms al Sur de Pichidangui. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

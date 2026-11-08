@@ -1,0 +1,20 @@
+{
+	"id": "9eff9eaa-c3f9-459f-bc5e-a55608b2d963",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Nogales por incendio forestal",
+	"fechaHora": "2024-02-29T22:18:09.099-03:00",
+	"createdAt": "2024-03-01T01:20:13.863Z",
+	"updatedAt": "2024-03-01T20:56:21.160Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-nogales-por-incendio-forestal",
+	"parentId": "ae01139f-8750-4a79-9cb1-cb3a6b8a39a9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Quillota\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Nogales\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Nogales se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Quebrada Zamora</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>65 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Nogales   y La Calera, 10 brigadas CONAF, 6 técnicos CONAF, 6 helicópteros de CONAF, 5   aviones de CONAF, 1 puesto de mando de CONAF, Carabineros y Personal   Municipal.</p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, además de la coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la comuna de Nogales, por incendio forestal, que se encuentra vigente desde el 29 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

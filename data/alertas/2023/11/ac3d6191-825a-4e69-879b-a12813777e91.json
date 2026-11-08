@@ -1,0 +1,20 @@
+{
+	"id": "ac3d6191-825a-4e69-879b-a12813777e91",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Machalí por incendio forestal",
+	"fechaHora": "2023-11-26T18:29:00.000-03:00",
+	"createdAt": "2023-11-26T21:50:28.739Z",
+	"updatedAt": "2023-11-27T22:11:44.173Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-machali-por-incendio-forestal",
+	"parentId": "8becbb33-a9cc-4c0c-8d9e-b53eb6be5b28",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Machalí\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, con relación al incendio forestal registrado en la comuna de Machalí, se indica:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Ranchillo</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2,5 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">cercanía a Área Silvestre Protegida (ASP) Reserva Nacional Río Cipreses.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El   incendio se encuentra activo, de baja a media intensidad en su frente de   avance, dos sectores se encuentran activos en baja y en retroceso, en tanto   que otros dos sectores están contenidos.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja para la comuna de Machalí por incendio forestal</strong>, que se encuentra vigente desde hoy 26 de noviembre de 2023.</p><p style=\"text-align:justify\"><strong><span style=\"color:black\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CURSOS DE ACCIÓN:</span></strong></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar 1 técnico, 5 brigadas, 1 camión aljibe, 3 helicópteros y 2 aviones de CONAF, junto a Bomberos de Machalí y 2 camiones aljibe (1 municipal y 1 de CODELCO).</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

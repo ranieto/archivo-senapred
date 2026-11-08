@@ -1,0 +1,20 @@
+{
+	"id": "d2df0c2a-0a5b-45c7-a691-2f61975ba4a1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2023-11-01T22:38:32.3232-03:00",
+	"createdAt": "2023-11-02T01:40:51.770Z",
+	"updatedAt": "2023-11-02T01:41:07.056Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>&nbsp;indica que ha sido cancelado el Aviso Meteorológico que pronosticó el probable desarrollo de tormentas eléctricas en zonas de la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable meteorológica, la Dirección Regional de SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional, <strong>cancela Alerta Temprana Preventiva regional</strong>&nbsp;por tormentas eléctricas, vigente durante hoy 01 de noviembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

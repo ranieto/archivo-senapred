@@ -1,0 +1,20 @@
+{
+	"id": "471af5fb-c26f-40d5-9e60-d6d88705a2ea",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de La Estrella por incendio forestal",
+	"fechaHora": "2026-03-04T16:16:15.1515-03:00",
+	"createdAt": "2026-03-04T19:17:38.571Z",
+	"updatedAt": "2026-03-05T22:39:59.154Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal-2026-03-04-16-17-19",
+	"parentId": "3709c5e2-2f47-4ecd-b7c9-cdee24e8a35b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:16px;color:black\">De acuerdo con la información&nbsp;</span></strong><span style=\"font-size: 16px\"><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de La Estrella se informa el siguiente detalle:</span></span></p><p><span style=\"font-size: 16px\"><span style=\"color:black\"><br></span></span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong><span style=\"font-size:16px\">Nombre del incendio</span></strong></a></p></td><td><p><span style=\"font-size:16px\">Los Cardillos</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">En combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">1,5 (ha)</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Recursos</span></strong></p></td><td><p><span style=\"font-size:16px\">Bomberos   de La Estrella, Marchigue y Litueche; 5 Brigadas y 3 técnicos de CONAF, 2 helicópteros   de Conaf, 2 camiones aljibe y</span><span style=\"font-size:16px\">2 maquinarias pesadas.</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:16px\">Incendio   cercano a sectores poblados</span></p></td></tr></tbody></table><p></p><p><span style=\"font-size:16px\"><br></span></p><p><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de La Estrella por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:16px\"><br></span></p><p><span style=\"font-size:16px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

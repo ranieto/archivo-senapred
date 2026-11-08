@@ -1,0 +1,20 @@
+{
+	"id": "6e8e88d1-f6d8-4e68-a581-be2fe8365fc6",
+	"type": "Alerta",
+	"titulo": "prueba 2",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-25T21:34:14.352Z",
+	"updatedAt": "2023-09-26T01:09:58.164Z",
+	"urlAccess": "prueba-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene el nivel de alerta técnica en Naranja [[1]].<br><br>En relación con el Reporte de Actividad Volcánica (RAV) emitido durante la presente jornada, se destaca una importante aceleración de la energía sísmica y comportamiento inestable. A su vez, se ha observado un aumento de las energías acústicas, relacionadas con cambios internos y un aumento de la actividad superficial. El día de hoy, aunque los niveles permanecen en valores considerados altos, se registra una tendencia a la estabilización de los parámetros sísmicos, con valores RSAM cercanos a 2 um/s (nivel considerado moderado a alto).<br><br>De acuerdo con lo anterior, se establece que el sistema volcánico aún permanece con un comportamiento oscilatorio e inestable y con la potencialidad de generar eventos explosivos como los observados durante los últimos días e inclusive de mayor energía.<br><br>Para más información del organismo técnico, consultar en https://rnvv.sernageomin.cl/volcan-villarrica/<br><br>En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN y en coordinación con las Delegaciones Presidenciales Regionales, las Direcciones Regionales del SENAPRED La Araucanía y Los Ríos mantienen la Alerta Amarilla, para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del volcán Villarrica, que permanece vigente desde el 08 de noviembre de 2022.<br><br>De igual forma, el SENAPRED mantiene el perímetro de seguridad para las regiones de La Araucanía y Los Ríos, de 8 kilómetros medidos desde el centro del cráter activo, en conformidad con las facultades que otorga el artículo N°38, letra d), de la Ley N°21.364.<br><br>Por su parte, SERNAGEOMIN continúa con la vigilancia permanente del complejo volcánico y las Direcciones Regionales de SENAPRED La Araucanía y Los Ríos, mantendrán las coordinaciones con los integrantes del SINAPRED para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia.<br><br>[[1]] Alerta Técnica en Nivel Naranja: comprende variaciones significativas en el desarrollo del proceso volcánico derivadas del análisis de los indicadores de los parámetros de vigilancia, por ende, una erupción probable, se podría desarrollar en un periodo de días o semanas.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

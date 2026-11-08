@@ -1,0 +1,20 @@
+{
+	"id": "d10a3d53-46e4-4d8c-b53a-29aded4f114a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Arica por incendio forestal",
+	"fechaHora": "2024-12-27T16:31:41.4141-03:00",
+	"createdAt": "2024-12-27T19:32:24.948Z",
+	"updatedAt": "2024-12-30T14:33:19.154Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arica-por-incendio-forestal",
+	"parentId": "849aede4-cb2d-47e4-8136-249d9038efd5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Arica, se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Lluta Km 26</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>9 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>1 técnico de Conaf, 1 BRIFE, 2 camiones aljibe   municipales; personal Delegación Presidencial, Senapred, municipio y Bomberos   de Arica</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Arica, por incendio forestal, que se encuentra vigente desde hoy 27 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

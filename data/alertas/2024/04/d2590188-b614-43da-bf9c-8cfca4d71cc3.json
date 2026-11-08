@@ -1,0 +1,20 @@
+{
+	"id": "d2590188-b614-43da-bf9c-8cfca4d71cc3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San Pedro por incendio forestal",
+	"fechaHora": "2024-04-16T21:48:00.000-04:00",
+	"createdAt": "2024-04-17T02:13:13.832Z",
+	"updatedAt": "2024-04-17T22:21:19.240Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal-4",
+	"parentId": "39f9e939-5cfb-4ecf-8beb-111028b611ef",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Pedro\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de San Pedro, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Los Quillayes RM</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>140 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\">​<strong>Recursos involucrados</strong>​<br></p></td><td><p style=\"text-align:justify\">6 brigadas de CONAF, bomberos de San Pedro, 1 camión aljibe de CONAF, Carabineros, personal de SAMU y personal municipal de San Pedro</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Planificación de recursos para la jornada de mañana</strong></p></td><td><div>De CONAF: - Personal técnico - 7 Brigadas - 1 skidder - 1 camión aljibe - 1 Helicóptero - 2 Aviones cisterna.</div><div>De SENAPRED: - 2 Helicópteros</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">Información adicional: Durante la jornada se envió mensaje SAE para evacuar el sector Alto Loica.</p><p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>mantiene </strong></span><strong>Alerta Roja para la comuna de San Pedro por incendio forestal</strong><span style=\"color: rgb(33, 37, 41)\">, que se encuentra vigente desde el 16 de abril de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

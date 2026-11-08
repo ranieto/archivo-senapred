@@ -1,0 +1,20 @@
+{
+	"id": "de2296af-888c-4a28-88ca-6dd6416624f4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Las Cabras por Incendio Forestal",
+	"fechaHora": "2025-09-28T15:02:46.4646-03:00",
+	"createdAt": "2025-09-28T18:12:12.082Z",
+	"updatedAt": "2025-09-28T20:02:16.446Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-10",
+	"parentId": "7896e373-5ff6-4226-8149-6f392b84925a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Las Cabras\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por CONAF, se declara alerta roja a la comuna de Las Cabras, por incendio forestal denominado \"Quebrada El Litre\".</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Quebrada El Litre</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,01 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Coltauco</p><p>1 brigada helitransportada</p><p>1 helicóptero de Conaf</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED actualiza y modifica la cobertura de la Alerta Roja para la Comuna de Las Cabras, por incendio forestal, que se encuentra vigente desde el 28 de septiembre de 2025.</p><p>Con la modificación y actualización de cobertura de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

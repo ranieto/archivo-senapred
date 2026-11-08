@@ -1,0 +1,20 @@
+{
+	"id": "59e2f686-c457-46b5-a10a-98a095a9d968",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la región del Maule por crecida",
+	"fechaHora": "2026-08-27T00:25:00.000-04:00",
+	"createdAt": "2026-08-27T04:28:03.937Z",
+	"updatedAt": "2026-08-30T13:30:51.588Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
+	"parentId": "a4bb6fa4-d238-4fef-b33f-1b81096b23b2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro en sus caudales.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Estación hidrométrica</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Umbral</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Río   Perquilauquén en Quella</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Amarillo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Río   Maule en Armerillo</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Amarillo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Río   Melado en El Salto</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Amarillo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Río   Perquilauquén en San Manuel</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Amarillo</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Cabe señalar que la estación Río Perquilauquén en San Manuel, se encuentra ubicada al sur del Río Perquilauquén, en el sector La Balsa de la comuna de San Fabián, Región de Ñuble. No obstante lo anterior, el río Perquilauquén es afluente del río Loncomilla y este del río Maule, que se gestionan desde la Región del Maule.</span></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por crecida,</strong> que se encuentra vigente desde el 25 de agosto y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Con la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

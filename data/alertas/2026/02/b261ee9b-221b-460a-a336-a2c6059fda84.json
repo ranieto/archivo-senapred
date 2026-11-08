@@ -1,0 +1,20 @@
+{
+	"id": "b261ee9b-221b-460a-a336-a2c6059fda84",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Sierra Gorda por precipitaciones",
+	"fechaHora": "2026-02-25T17:30:49.4949-03:00",
+	"createdAt": "2026-02-25T20:32:23.676Z",
+	"updatedAt": "2026-02-25T20:33:23.539Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-sierra-gorda-por-precipitaciones-2026-02-24-19-40-18",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Antofagasta, debido al término de las condiciones meteorológicas que los originaron:</p><p><br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alarma   AAA1</p></td><td><p style=\"text-align:justify\">Precipitaciones   intensas en corto periodo de tiempo en comuna de Sierra Gorda.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA57</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas en cordillera de la costa, pampa, precordillera, precordillera   salar y cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Sierra Gorda por precipitaciones, la cual se mantuvo vigente desde el 24 de febrero 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "454bb296-af19-4fe3-ac64-6705ab2534c5"
+}

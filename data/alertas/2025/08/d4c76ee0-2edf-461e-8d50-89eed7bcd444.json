@@ -1,0 +1,20 @@
+{
+	"id": "d4c76ee0-2edf-461e-8d50-89eed7bcd444",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Cabo de Hornos por tsunami ",
+	"fechaHora": "2025-08-22T02:07:00.000-04:00",
+	"createdAt": "2025-08-22T06:18:50.368Z",
+	"updatedAt": "2025-08-22T06:19:26.998Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-cabo-de-hornos-por-tsunami",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Antártica Chilena\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Cabo de Hornos\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tsunami\",\"nombreImg\":\"tsunami.png\"}",
+	"contenido": "<p><span style=\"color: black\">En atención a la información emitida en el Boletín N° 04 del </span><em>Servicio Hidrográfico y Oceanográfico de la Armada (SHOA),</em><span style=\"color: black\"> el cual indica que, conforme a los antecedentes recopilados por las estaciones de nivel del mar, la evolución de la propagación de la onda del tsunami, información de campo y modelamiento, se </span><strong>Cancela el Estado de Precaución por Tsunami</strong><span style=\"color: black\"> para el Territorio Antártico Chileno, por un sismo de mediana intensidad se percibió &nbsp;a las 22:16 horas del 21 de agosto (hora local chile continental), alcanzando una máxima intensidad percibida de V Mercalli en el sector del Paso Drake, cercano al Territorio Chileno Antártico.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por tsunami para la comuna de Cabo de Hornos</strong>,que se mantuvo vigente desde el 22 de agosto de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "226b2ce0-5c85-4cb7-9774-a19c412331e4"
+}

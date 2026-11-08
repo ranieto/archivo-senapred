@@ -1,0 +1,20 @@
+{
+	"id": "942a9f14-bd4a-4a0a-8d3d-4b380833df6d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Hualqui por incendio forestal",
+	"fechaHora": "2025-03-03T17:37:22.2222-03:00",
+	"createdAt": "2025-03-03T20:41:30.565Z",
+	"updatedAt": "2025-03-03T21:30:44.037Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hualqui-por-incendio-forestal-3",
+	"parentId": "db9892b1-571a-438d-8270-241334283cf4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Hualqui\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Hualqui se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Loma Blanca</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,4 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Compañías del cuerpo de bomberos de Hualqui, 5 brigadas terrestres de CONAF, 1 técnico de CONAF, 2 helicópteros y 2 aviones.<br></p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a sectores poblados</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPREDdeclara Alerta Roja para la comuna de Hualqui por incendio forestal, vigente desde hoy y hasta que lascondiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

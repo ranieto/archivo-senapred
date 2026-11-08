@@ -1,0 +1,20 @@
+{
+	"id": "3bf232df-4350-4807-b5e0-c2367995b4d5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la provincia de Isla de Pascua y la comuna de Juan Fernández, por tormentas eléctricas.",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-30T16:53:20.394Z",
+	"updatedAt": "2026-01-30T16:55:10.144Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-provincia-de-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-tormentas-electricas-2026-01-30-13-53-04",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos para la Región de Valparaíso.</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A40-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Probables tormentas eléctricas en litoral,   cordillera de la costa, precordillera y valles precordilleranos, y   cordillera.</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">31-01</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">01-02</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional por tormentas eléctricas, exceptuando la provincia de Isla de Pascua y la comuna de Juan Fernández,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

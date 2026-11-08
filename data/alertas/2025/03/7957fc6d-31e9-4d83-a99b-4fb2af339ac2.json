@@ -1,0 +1,20 @@
+{
+	"id": "7957fc6d-31e9-4d83-a99b-4fb2af339ac2",
+	"type": "Alerta",
+	"titulo": "Se modifica variable de Alerta Temprana Preventiva para la Provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2025-03-06T18:14:36.3636-03:00",
+	"createdAt": "2025-03-06T21:17:44.758Z",
+	"updatedAt": "2025-03-22T23:41:49.218Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-tamarugal-por-evento-meteorologico",
+	"parentId": "b7b84be2-6afa-47fd-b11e-0e46b3bc9703",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Tarapacá:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">A20-18</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en sectores de precordillera y cordillera de la región.</p></td><td><p style=\"text-align:center\">04-03</p></td><td><p style=\"text-align:center\">09-03</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, ha sido cancelado el Aviso A72/2025 el cual preveía precipitaciones normales a moderadas en precordillera y cordillera de la región. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>modifica variable de la Alerta Temprana Preventiva&nbsp;</strong><strong>para la </strong></span><strong><span style=\"color:black\">Provincia del Tamarugal a tormentas eléctricas</span></strong><span style=\"color:black\">, que </span><span style=\"color:black\">se mantiene&nbsp;</span><span style=\"color:black\">vigente desde el 23 de enero de 2025.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

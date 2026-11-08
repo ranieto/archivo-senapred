@@ -1,0 +1,20 @@
+{
+	"id": "437d91c8-0ba9-4be2-9982-a641b27febed",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2024-12-09T16:30:25.2525-03:00",
+	"createdAt": "2024-12-09T19:34:14.368Z",
+	"updatedAt": "2024-12-09T21:56:52.770Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-6",
+	"parentId": "a0724be8-8949-429c-94f2-af04d7bca26a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF, activo desde las 15:08 horas de hoy se encuentra el incendio forestal Las Balsas, el cual afecta una superficie de 0,1 hectáreas por confirmar. Asimismo, el incendio presenta amenaza inminente a la población Nautica 1 y 2 , a una distancia promedio de 100 metros, temperatura de 30°C, humedad relativa de 23% y viento de 5 km/h según estación más cercana.</p><p>El incendio de presenta rápido avance en zona poblada.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Las Balsas</div></td></tr><tr><td><div>Comuna</div></td><td><div>Las Cabras</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>0,01</div></td></tr><tr><td><div>Recursos</div></td><td><div>5 brigadas y 1 aeronave CONAF</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Las Cabras por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

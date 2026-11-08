@@ -1,0 +1,20 @@
+{
+	"id": "7eb70f9c-3bfc-4e84-8113-a634dab38d76",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las comunas de Collipulli, Curacautín, Lonquimay, Melipeuco, Cunco, Vilcún, Villarrica, Pucón y Curarrehue por tormentas eléctricas",
+	"fechaHora": "2025-11-27T16:10:39.3939-03:00",
+	"createdAt": "2025-11-27T19:14:18.364Z",
+	"updatedAt": "2025-12-01T01:56:46.295Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-villarrica-pucon-y-curarrehue-por-tormentas-electricas-4",
+	"parentId": "bc3ffa87-bcef-4db1-9bdc-ed16c38af4b6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín, Malleco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Cunco, Curarrehue, Melipeuco, Pucón, Villarrica, Lonquimay\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la</span><strong><span style=\"color: black\"> Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A458</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en precordillera y cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-11</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-11</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En base a este antecedente y en coordinación con la Delegación Presidencial Regional de </span><span style=\"color:black\">La Araucanía</span><span style=\"color:black\">, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva para las comunas de Collipulli, Curacautín, Lonquimay, Melipeuco, Cunco, Vilcún, Villarrica, Pucón y Curarrehue por tormentas eléctricas, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

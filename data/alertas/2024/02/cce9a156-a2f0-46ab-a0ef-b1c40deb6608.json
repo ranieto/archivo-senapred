@@ -1,0 +1,20 @@
+{
+	"id": "cce9a156-a2f0-46ab-a0ef-b1c40deb6608",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por amenaza de incendios forestales",
+	"fechaHora": "2024-02-26T22:52:00.000-03:00",
+	"createdAt": "2024-02-27T02:00:34.127Z",
+	"updatedAt": "2024-02-27T02:01:35.763Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-amenaza-de-incendios-forestales-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong>, se indica que no existen condiciones meteorológicas propicias para el desarrollo de incendios forestales en la Región de Los Lagos.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de <strong><span style=\"color:#212529\">_</span></strong>, la Dirección Regional de SENAPRED <strong>cancela Alerta Temprana Preventiva para la Región de Los Lagos por amenaza de incendios forestales</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 21 de enero de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "256aa25a-9adb-466d-ad2f-e8f95a2a2869",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de La Estrella por incendio forestal",
+	"fechaHora": "2023-11-29T22:47:00.000-03:00",
+	"createdAt": "2023-11-30T01:49:05.033Z",
+	"updatedAt": "2023-12-01T01:16:17.268Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal",
+	"parentId": "4cc84e0e-4549-4562-904d-a462d924229d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se registra un incendio forestal en la comuna de La Estrella, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">San Miguel de Viluco</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">150 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio se desarrolla   cercano a sectores poblados.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para la comuna de La Estrella por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

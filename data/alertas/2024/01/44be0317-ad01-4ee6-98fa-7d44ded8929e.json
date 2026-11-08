@@ -1,0 +1,20 @@
+{
+	"id": "44be0317-ad01-4ee6-98fa-7d44ded8929e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-01-27T21:36:15.074Z",
+	"updatedAt": "2024-01-27T21:36:42.715Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal",
+	"parentId": "a2dd4abc-24a2-44e6-97d8-d43306c6fa04",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Puerto Montt\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 15px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"font-size: 15px\"> respecto al incendio forestal que afectan a la comuna de Puerto Montt, se informa lo siguiente:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Camino San   Antonio</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>546 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color:black\">2   brigadas de CONAF, 8 técnicos de Conaf, 1 helicóptero de Conaf, 1 avión   Hércules de Conaf, 1 helicóptero dispuesto por Senapred, 1 Puesto de mando de   CONAF, 2 excavadoras municipales, 4 excavadoras de Vialidad, 4 camiones aljibe   de Bomberos, camiones aljibe de vecinos y SENAPRED Regional.</span></p></td></tr></tbody></table><p>A raíz de este incendio, se han evacuado 74 personas desde 19 viviendas, las que permanecen en viviendas de familiares. Cabe mencionar, que se encuentra habilitada la Escuela del sector Trapen como albergue provisorio.</p><p>En relación al brigadista de CONAF lesionado se indica que se encuentra en buenas condiciones de Salud.</p><p>En la presente jornada se realiza una Mesa Técnica en el Puesto de mando con la asistencia de la Delegada Presidencial Regional, CONAF, SEREMI MOP, Vialidad, Meteorología, Carabineros, Bomberos, Salud, Municipalidad de Puerto Montt y SENAPRED Los Lagos.</p><p>Además, se realizó una Mesa Técnica en el Puesto de mando con la asistencia de la Delegada Presidencial Regional, CONAF, SEREMI MOP, Vialidad, Meteorología, Carabineros, Bomberos, Salud, Municipalidad de Puerto Montt y SENAPRED Los Lagos.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Puerto Montt, por incendio forestal, que se encuentra vigente desde el 26 de enero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

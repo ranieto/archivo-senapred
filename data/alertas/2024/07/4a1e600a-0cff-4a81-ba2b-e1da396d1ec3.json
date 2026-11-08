@@ -1,0 +1,20 @@
+{
+	"id": "4a1e600a-0cff-4a81-ba2b-e1da396d1ec3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Collipulli, Curacautín y Lonquimay por viento",
+	"fechaHora": "2024-07-02T18:10:00.000-04:00",
+	"createdAt": "2024-07-02T22:24:37.304Z",
+	"updatedAt": "2024-07-02T22:25:44.799Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-lascomunas-decollipulli-curacautin-y-lonquimay-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Collipulli, Curacautín, Lonquimay\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) <strong>se ha&nbsp;</strong><strong>cancelado</strong> el siguiente alertamiento para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento   cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A256</p></td><td><p style=\"text-align:justify\">Viento normal a moderado con probabilidad de viento   blanco en cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica </span>y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva <span style=\"color:black\">por viento</span></strong><span style=\"color:black\"><strong>para las </strong></span><strong><span style=\"color:black\">comunas de </span></strong><strong><span style=\"color:black\">Collipulli, Curacautín y Lonquimay</span></strong><strong>, </strong>la cual se mantuvo vigente desde el 01 de julio de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

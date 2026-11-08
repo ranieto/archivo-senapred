@@ -1,0 +1,20 @@
+{
+	"id": "3b2b3866-c3e5-4d39-b48f-3336300535f4",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región de Coquimbo por evento meteorológico",
+	"fechaHora": "2026-07-27T15:53:36.3636-04:00",
+	"createdAt": "2026-07-27T19:54:33.054Z",
+	"updatedAt": "2026-08-06T22:50:57.227Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+	"parentId": "1eda1bcd-6faf-4391-bcfa-063386870910",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de</span><span style=\"color: black\"> Coquimbo</span><span style=\"color: black\">:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A347-5</span></p></td><td><p><span style=\"color:black\">Viento normal a moderado   con probabilidad de ventiscas en cordillera (25 – 70 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-07</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A365</span></p></td><td><p><span style=\"color:black\">Viento normal a moderado en   litoral, cordillera de la costa, precordillera y valles precordilleranos y   cordillera (25 – 80 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">31-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">01-08</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja regional por evento meteorológico</strong>, que se encuentra vigente desde el 17 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con esta Alerta Roja, permanecen movilizados todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

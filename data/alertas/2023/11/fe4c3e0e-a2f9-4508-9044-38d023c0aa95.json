@@ -1,0 +1,20 @@
+{
+	"id": "fe4c3e0e-a2f9-4508-9044-38d023c0aa95",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por evento masivo",
+	"fechaHora": "2023-11-03T12:59:00.000-03:00",
+	"createdAt": "2023-11-03T16:44:49.627Z",
+	"updatedAt": "2023-11-03T16:45:03.847Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED O’Higgins, con relación a las actividades deportivas asociadas a los XIX Juegos Panamericanos, se informa el término de las competiciones en la región, sin reportar situaciones de emergencia durante su desarrollo.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional</strong>, por evento masivo, que se encontraba vigente desde el 23 de octubre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

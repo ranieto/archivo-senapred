@@ -1,0 +1,20 @@
+{
+	"id": "1df940cf-09b8-45e2-bb5b-e2ecefb4c18c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por viento",
+	"fechaHora": "2026-06-23T20:29:00.000-04:00",
+	"createdAt": "2026-06-24T00:35:16.504Z",
+	"updatedAt": "2026-06-24T00:40:05.620Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-viento-2026-06-20-13-15-39",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A274-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado en cordillera, con probabilidad de tormentas   de arena.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial de la Región de Arica y Parinacota, la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva por viento para la Provincia de Parinacota y la Comuna de Camarones</strong>, que se mantenía vigente desde el 20 de junio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

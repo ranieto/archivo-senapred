@@ -1,0 +1,20 @@
+{
+	"id": "07cbfeca-d1d1-4b29-b0d5-0774fb80dfa5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Maullín por incendio forestal",
+	"fechaHora": "2025-01-10T19:35:48.4848-03:00",
+	"createdAt": "2025-01-10T22:41:01.947Z",
+	"updatedAt": "2025-01-12T16:59:14.691Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-maullin-por-incendio-forestal",
+	"parentId": "2a9dad09-5ac0-46b3-98c5-b5832fbc77a9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se indica que el incendio forestal denominado “La Pradera de Cadiquen” en la comuna de Maullín, se encuentra activo y en combate afectando al momento 4,75 hectáreas de vegetación.&nbsp;</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>La Pradera de Cadiquén</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Maullín</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>4,75 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>El incendio forestal tiene comportamiento extremo del fuego, velocidad de propagaciónalta, intensidad en el frente del avance alta y con una longitud de llama alta.<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>2 brigadas, 1 técnico, 1 helicóptero y 1 avión CONAF</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Maullín por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

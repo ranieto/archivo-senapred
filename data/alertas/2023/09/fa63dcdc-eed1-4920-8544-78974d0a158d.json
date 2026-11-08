@@ -1,0 +1,20 @@
+{
+	"id": "fa63dcdc-eed1-4920-8544-78974d0a158d",
+	"type": "Alerta",
+	"titulo": "Actualizacion Prueba Alerta II",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-22T18:34:36.165Z",
+	"updatedAt": "2023-09-22T18:59:12.725Z",
+	"urlAccess": "prueba-alerta",
+	"parentId": "563bf3ea-b802-419c-8142-b3b0dbc657a4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>Actualizacion Prueba Alerta II</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

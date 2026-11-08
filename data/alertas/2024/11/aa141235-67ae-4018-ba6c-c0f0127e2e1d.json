@@ -1,0 +1,20 @@
+{
+	"id": "aa141235-67ae-4018-ba6c-c0f0127e2e1d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Melipilla por incendio forestal",
+	"fechaHora": "2024-11-25T19:09:17.1717-03:00",
+	"createdAt": "2024-11-25T22:10:04.029Z",
+	"updatedAt": "2024-11-26T01:09:50.612Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-melipilla-por-incendio-forestal",
+	"parentId": "b4bab9e5-5fa7-4b7d-914d-e4d1e96f5f13",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Melipilla\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf</strong>,&nbsp;respecto al incendio forestal en la comuna de Melipilla se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p><strong>Cuncumen</strong></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>45 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>En base al trabajo realizado se ha logrado bajar la   intensidad del frente de avance por lo que los esfuerzos se concentran en   evitar la propagación del fuego a plantaciones frutales cercanas.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la comuna de Melipilla, por incendio forestal, que se encuentra vigente desde el 25 de noviembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0302c145-4f37-4b79-8cf3-15bd7fb2cdb1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la regiones de Valparaíso y Metropolitana",
+	"fechaHora": "2025-05-04T22:28:52.5252-04:00",
+	"createdAt": "2025-05-05T02:31:09.987Z",
+	"updatedAt": "2025-05-05T02:33:49.486Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-18",
+	"parentId": "3a9a7205-e790-44a7-8b0d-fd16966a67a0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 22:19 horas en la Región de Valparaíso y Metropolitana.</p><p>Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>Canela:   </p></td><td><p>III</p></td></tr><tr><td><p>La   Serena: </p></td><td><p>III</p></td></tr><tr><td><p>Monte   Patria: </p></td><td><p>III</p></td></tr><tr><td><p>Coquimbo:   </p></td><td><p>II</p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>IV</p></td></tr><tr><td><p>Villa   Alemana : </p></td><td><p>III</p></td></tr><tr><td><p>Quilpué   : </p></td><td><p>III</p></td></tr><tr><td><p>Viña   del Mar: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>La   Florida: </p></td><td><p>III</p></td></tr><tr><td><p>Curacaví­:   </p></td><td><p>II</p></td></tr><tr><td><p>El   Monte: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Rancagua:   </p></td><td><p>III</p></td></tr><tr><td><p>Las   Cabras: </p></td><td><p>II</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p style=\"text-align: justify\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.0 localizado a 17 kilómetros al oeste de Mina Los Pelambres.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

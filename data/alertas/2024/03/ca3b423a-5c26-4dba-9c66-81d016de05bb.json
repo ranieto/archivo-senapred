@@ -1,0 +1,20 @@
+{
+	"id": "ca3b423a-5c26-4dba-9c66-81d016de05bb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Curicó por evento masivo",
+	"fechaHora": "2024-03-25T09:49:00.000-03:00",
+	"createdAt": "2024-03-25T12:56:49.310Z",
+	"updatedAt": "2024-03-25T12:59:38.018Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-curico-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Curicó\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule, ha finalizado el evento masivo denominado “Fiesta de la Vendimia de Chile”, el cual se desarrolló entre los días 21 y 24 de marzo, en el sector céntrico y Plaza de Armas de la comuna de Curicó, congregando un gran número de personas durante estos días, aumentando la vulnerabilidad ante distintas variables de riesgo en la zona.<br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva </strong>para la comuna de Curicó por evento masivo, que se mantuvo vigente desde el 20 de marzo de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9963d71b-d122-4fde-ac8c-9e1452eb4ee4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2024-12-28T23:31:08.088-03:00",
+	"createdAt": "2024-12-29T02:32:28.324Z",
+	"updatedAt": "2024-12-29T02:38:00.148Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-14",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran cancelados los siguientes alertamientos meteorológicos para la Región de La Araucanía:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong>Alertamiento   cancelado</strong></p></td><td><p><strong>Pronóstico</strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA90</p></td><td><p style=\"text-align:justify\">Tormentas eléctricas, preferentemente   durante la tarde noche, con precipitaciones aisladas en cordillera de la   región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A469-1</p></td><td><p>Probables   tormentas eléctricas en valle, precordillera y cordillera de la región.</p></td></tr></tbody></table></div><p><span style=\"font-size: 15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED </span><strong>cancela Alerta Temprana Preventiva Regional por tormentas eléctricas</strong><span style=\"font-size: 15px\">, que se mantuvo vigente desde el 25 diciembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

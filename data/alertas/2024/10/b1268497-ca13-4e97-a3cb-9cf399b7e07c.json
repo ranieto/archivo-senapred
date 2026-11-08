@@ -1,0 +1,20 @@
+{
+	"id": "b1268497-ca13-4e97-a3cb-9cf399b7e07c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva por remoción en masa para la comuna de Camarones",
+	"fechaHora": "2024-10-02T23:10:41.4141-03:00",
+	"createdAt": "2024-10-03T02:12:27.236Z",
+	"updatedAt": "2024-11-07T18:47:12.675Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "f4e85fe1-2611-434f-b7d2-7b5bd9824661",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Arica\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota</strong>, debido a los múltiples deslizamientos de roca ocurridos en el sector de la cuesta Cultura Chinchorro, en la Ruta 5 Norte de la comuna de Camarones, se encuentra interrumpido el tránsito vehicular desde y hacia la Región de Arica y Parinacota.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla </strong><strong>y cancela la Alerta Temprana Preventiva por remoción en masa para la comuna de Camarones,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><p style=\"text-align:justify\"><span style=\"color: black\">Durante la jornada de hoy 02 de octubre, se realizó una Mesa Técnica, en la que participaron SERNAGEOMIN, Carabineros, Delegación Presidencial Regional y Vialidad. Cabe señalar que, en esta instancia se estableció suspender preventivamente el tránsito vehicular en la zona, hasta las 08:00 horas del día 03 de octubre.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar Carabineros, SERNAGEOMIN, Vialidad y equipo regional de SENAPRED.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "b82ea35e-0f98-4bfd-904f-f6ca5a5221ea"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "a57212c3-7bef-4bf9-b55b-fccecbadbd2e",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad en la Región de Ñuble",
+	"fechaHora": "2024-05-13T05:22:05.055-04:00",
+	"createdAt": "2024-05-13T09:24:22.362Z",
+	"updatedAt": "2024-05-13T09:27:54.897Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-uble-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 05:21 horas en la Región de Ñuble.Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Cobquecura:   </p></td><td><p>III</p></td></tr><tr><td><p>Quirihue:   </p></td><td><p>III</p></td></tr><tr><td><p>Trehuaco:   </p></td><td><p>III</p></td></tr></tbody></table><p><br></p><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

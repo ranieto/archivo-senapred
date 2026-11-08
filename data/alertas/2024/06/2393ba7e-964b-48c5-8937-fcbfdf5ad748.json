@@ -1,0 +1,20 @@
+{
+	"id": "2393ba7e-964b-48c5-8937-fcbfdf5ad748",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico ",
+	"fechaHora": "2024-06-09T23:10:08.088-04:00",
+	"createdAt": "2024-06-10T03:19:08.787Z",
+	"updatedAt": "2024-06-10T03:19:19.482Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos, debido al debilitamiento de las condiciones que los originaron:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado </span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A193</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas en cordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A194</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en litoral, cordillera de la costa, valle y   precordillera de la región</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A197-1</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en litoral, cordillera de la costa, valle, precordillera   y cordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, la Delegación Presidencial Regional del Maule, en coordinación con la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico, </strong>que se encontraba vigente desde el 31 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

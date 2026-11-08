@@ -1,0 +1,20 @@
+{
+	"id": "0ca1b239-2a8e-4649-9532-517eed275c0f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de La Estrella por incendio forestal",
+	"fechaHora": "2025-01-18T13:42:00.000-03:00",
+	"createdAt": "2025-01-18T16:51:56.895Z",
+	"updatedAt": "2025-01-18T17:20:37.695Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal-6",
+	"parentId": "d38661bd-173a-4ef4-afcf-235fc29a4eff",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información técnica proporcionada por CONAF, incendio forestal \"Parcelación Aguas Buenas\" se desarrolla cercano a zonas pobladas en el sector de Aguas Buenas, comuna de La Estrella.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Parcelación Aguas Buenas</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>0.01 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>El Incendio&nbsp;se encuentra activo desde las 13:00 horas<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>2 Compañías de Bomberos</div><div>2 brigadas, 1 técnico, 2 aeronaves, 1 puesto de mando, 1 skidder y 1 camión aljibe CONAF.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de La Estrella por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

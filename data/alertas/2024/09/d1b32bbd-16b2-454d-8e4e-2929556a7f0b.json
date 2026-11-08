@@ -1,0 +1,20 @@
+{
+	"id": "d1b32bbd-16b2-454d-8e4e-2929556a7f0b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2024-09-23T09:46:54.5454-03:00",
+	"createdAt": "2024-09-23T12:48:27.512Z",
+	"updatedAt": "2024-09-23T12:49:25.134Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-itata-y-comuna-de-quillon-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se han cancelado los siguientes alertamientos meteorológicos para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso 349-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado, con probabilidad de viento blanco en cordillera.</p></td><td><p style=\"text-align:center\">20-09</p></td><td><p style=\"text-align:center\">22-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso 353</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera.</p></td><td><p style=\"text-align:center\">21-09</p></td><td><p style=\"text-align:center\">22-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso 354</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas con probabilidad de ventisca en cordillera.</p></td><td><p style=\"text-align:center\">21-09</p></td><td><p style=\"text-align:center\">22-09</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED, <strong>cancela Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 18 de septiembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

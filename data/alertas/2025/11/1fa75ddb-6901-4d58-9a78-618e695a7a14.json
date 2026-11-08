@@ -1,0 +1,20 @@
+{
+	"id": "1fa75ddb-6901-4d58-9a78-618e695a7a14",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta, Tocopilla, Mejillones y Taltal por viento",
+	"fechaHora": "2025-11-08T12:59:48.4848-03:00",
+	"createdAt": "2025-11-08T16:00:47.106Z",
+	"updatedAt": "2025-11-08T16:00:58.277Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado Aviso Meteorológico A427-1/2025, el cual pronosticaba viento normal a moderado en cordillera de la costa y cordillera de la Región de Antofagasta. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para la Provincia de El Loa y comunas de Antofagasta, Tocopilla, Mejillones y Taltal</strong></span><strong><span style=\"font-size:15px;color:black\">, </span></strong><span style=\"font-size:15px;color:black\">que se mantuvo vigente desde el 02 de noviembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

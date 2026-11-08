@@ -1,0 +1,20 @@
+{
+	"id": "2db11127-85c8-4f98-b62c-e72c0887c2a5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2024-12-26T18:10:11.1111-03:00",
+	"createdAt": "2024-12-26T21:18:21.528Z",
+	"updatedAt": "2024-12-27T23:22:12.302Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal",
+	"parentId": "6dd9de10-72b5-4b6a-8405-c9a9e7862e4f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>El incendio forestal se encuentra controlado en todos sus puntos.</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Raya</p></td></tr><tr><td><div><strong>Comuna (sector)</strong></div></td><td><div>Cauquenes</div></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.271 hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">CONAF: 6 Brigadas, 5 técnicos, 4 Skidder, 2 camiones cisterna y 4 aeronaves.</p><p style=\"text-align: justify\">Forestal Arauco: 2 brigadas y 1 técnico</p><p style=\"text-align: justify\">BRIFE Linares / Talca / Ñuble: 5 brigadas</p><p style=\"text-align: justify\">Otros recursos: 1 puesto de mando, 2 personal municipal de Cauquenes, 2 delegaciones presidenciales de Cauquenes, 1 ambulancia ACHS.</p></td></tr></tbody></table><p><br>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Cauquenes, por incendio forestal, que se encuentra vigente desde el 26 de diciembre de 2024.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

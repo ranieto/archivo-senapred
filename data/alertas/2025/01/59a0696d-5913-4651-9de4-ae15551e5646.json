@@ -1,0 +1,20 @@
+{
+	"id": "59a0696d-5913-4651-9de4-ae15551e5646",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de La Estrella por incendio forestal",
+	"fechaHora": "2025-01-13T22:18:01.011-03:00",
+	"createdAt": "2025-01-14T01:20:58.668Z",
+	"updatedAt": "2025-01-14T01:21:53.031Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a información proporcionada por la Corporación Nacional Forestal (CONAF), controlado se encuentra Incendio Forestal \"San Rafael\" de la Comuna de La Estrella, afectando 5 hectáreas de matorral y pastizal.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de La Estrella, por incendio forestal, que se mantuvo vigente desde el 13 de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

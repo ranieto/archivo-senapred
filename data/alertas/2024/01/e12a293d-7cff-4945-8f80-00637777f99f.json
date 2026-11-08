@@ -1,0 +1,20 @@
+{
+	"id": "e12a293d-7cff-4945-8f80-00637777f99f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Ovalle por evento masivo",
+	"fechaHora": "2024-01-08T17:05:00.000-03:00",
+	"createdAt": "2024-01-08T20:07:34.386Z",
+	"updatedAt": "2024-01-08T20:08:14.076Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-ovalle-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Ovalle\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo</strong>,en atención al término de la celebración denominada “<strong>Fiesta Grande Niño Dios de Sotaqui”,</strong> desarrollada en la comuna de Ovalle, se informa que no se reportaron situaciones de emergencias derivadas de este evento.<br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En relación con este antecedente, que supone una disminución del riesgo asociado ante eventuales emergencias, la Dirección Regional de SENAPRED Coquimbo<strong>, cancela Alerta Temprana Preventiva para la comuna de Ovalle por evento masivo</strong>, que se encontraba vigente desde el 05 de enero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

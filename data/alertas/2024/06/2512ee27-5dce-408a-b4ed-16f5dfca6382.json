@@ -1,0 +1,20 @@
+{
+	"id": "2512ee27-5dce-408a-b4ed-16f5dfca6382",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la comuna de Cabo de Hornos por bajas temperaturas",
+	"fechaHora": "2024-06-05T14:36:00.000-04:00",
+	"createdAt": "2024-06-05T18:44:53.917Z",
+	"updatedAt": "2024-06-11T20:56:38.074Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-cabo-de-hornos-por-bajas-temperaturas",
+	"parentId": "0ea9c34b-688d-4a77-91f8-f58eda4b9a7c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Antártica Chilena\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Cabo de Hornos\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A191</p></td><td><p style=\"text-align:justify\">Evento   de bajas temperaturas en la zona insular sur de la región.</p></td><td><p style=\"text-align:justify\">06-06</p></td><td><p style=\"text-align:justify\">08-06</p></td></tr></tbody></table><p style=\"text-align:justify\">Por otra parte, de acuerdo con lo indicado por el Centro Meteorológico Regional Austral, las temperaturas mínimas esperadas entre los días 06 y 08 de junio en la comuna de Cabo de Hornos alcanzarán los -6°C.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes meteorológicos y a la existencia de factores propicios para la ocurrencia de eventos como congelamiento interior de medidores, cañerías de agua y gas, presencia de escarcha en vías de circulación, tanto como rural como urbana, afectación a predios agrícolas y ganaderos, entre otros la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Temprana Preventiva por bajas temperaturas, para la comuna de Cabo de Hornos </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la población vestir adecuadamente con ropa de abrigo, utilizando calzado cerrado y manteniendo manos, cuello y cabeza protegidos; evitar cambios bruscos de temperatura, recordando cubrir nariz y boca al momento de salir desde un lugar temperado; y no exponer al frío a niños, ancianos y enfermos crónicos.</span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

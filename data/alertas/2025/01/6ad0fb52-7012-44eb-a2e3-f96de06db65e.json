@@ -1,0 +1,20 @@
+{
+	"id": "6ad0fb52-7012-44eb-a2e3-f96de06db65e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta y Taltal por evento meteorológico",
+	"fechaHora": "2025-01-08T16:05:00.000-03:00",
+	"createdAt": "2025-01-08T20:33:18.692Z",
+	"updatedAt": "2025-01-08T20:33:34.689Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> mediante el Aviso Meteorológico A474-3/2024, se indica que el fenómeno de probables tormentas eléctricas acompañado de precipitaciones aisladas continuará desarrollándose en las regiones de Arica y Parinacota y Tarapacá, excluyendo a la Región de Antofagasta.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>Cancela la Alerta Temprana Preventiva</strong><strong>por evento meteorológico</strong><strong>para la </strong></span><strong><span style=\"color:black\">Provincia de El Loa y comunas de Antofagasta y Taltal, </span></strong><span style=\"color:black\">que se mantenía</span><span style=\"color:black\">vigente desde el 02 de enero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

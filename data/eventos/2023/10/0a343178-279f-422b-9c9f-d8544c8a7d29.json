@@ -1,0 +1,19 @@
+{
+	"id": "0a343178-279f-422b-9c9f-d8544c8a7d29",
+	"type": "Evento",
+	"titulo": "Accidente minero, Comuna de Taltal (Cierre de evento)",
+	"fechaHora": "2023-10-16T00:36:00.000-03:00",
+	"createdAt": "2023-10-26T05:27:48.022Z",
+	"updatedAt": "2023-10-26T05:27:48.022Z",
+	"urlAccess": "accidente-minero-comuna-de-taltal-cierre-de-evento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Antofagasta, con relación al accidente al interior de un pique minero, perteneciente a la Mina Clementina, ubicada a la altura del kilómetro 17 de la Ruta B-902 en la comuna de Taltal, se indica que resultó 1 persona fallecida y 1 lesionada, siendo ésta última trasladada hasta el Hospital Regional de Antofagasta.<br><br>Cabe señalar, que se trasladó al sector del accidente personal del Servicio Nacional de Geología y Minería (SERNAGEOMIN) para realizar la investigación pertinente.<br><br>Trabajaron al lugar Bomberos, Carabineros, SAMU, SERNAGEOMIN y Servicio Médico Legal.<br></p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

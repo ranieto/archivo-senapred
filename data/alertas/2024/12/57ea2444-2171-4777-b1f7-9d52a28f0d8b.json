@@ -1,0 +1,20 @@
+{
+	"id": "57ea2444-2171-4777-b1f7-9d52a28f0d8b",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Amarilla para la Región de Arica y Parinacota por Alteración Sanitaria",
+	"fechaHora": "2024-12-16T16:55:00.000-03:00",
+	"createdAt": "2024-12-16T20:30:40.787Z",
+	"updatedAt": "2025-03-25T21:49:13.544Z",
+	"urlAccess": "se-actualiza-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria",
+	"parentId": "6e5d5af1-f677-4343-919f-3a50c513b1fc",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, en base a las <strong>resolución sanitaria N°50 del Ministerio de Salud de Arica y Parinacota</strong>, que modifica el decreto N°28 del año 2023, en relación con el vector <em>Aedes Aegypti</em> (transmisor de enfermedades como el Dengue, Fiebre Amarilla, Chikungunya y Zika), se indica que se extiende la alerta sanitaria hasta el 31 de julio del 2025.</p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes, en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED,<strong> actualiza la Alerta Amarilla Regional por Alteración Sanitaria</strong>, que se mantiene vigente desde el 18 de marzo de 2024.</p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">Con la actualización de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Se establece para los habitantes de la comuna, adoptar en el interior de sus propiedades las siguientes medidas destinadas a disminuir los riesgos sanitarios:</p><p style=\"margin-right:2.55pt;text-align:justify\">No mantener agua acumulada en contenedores o recipientes sin tapa, En caso de ser estrictamente necesario, esta agua deberá mantenerse en recipientes o contenedores tapados.</p><p style=\"margin-right:2.55pt;text-align:justify\">Eliminar todos los elementos inservibles y descartables del domicilio, quedando estrictamente prohibida la dispersión de estos elementos en la vía pública y otros lugares no habilitados para ese efecto.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

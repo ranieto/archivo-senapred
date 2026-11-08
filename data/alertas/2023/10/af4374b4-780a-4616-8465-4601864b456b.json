@@ -1,0 +1,20 @@
+{
+	"id": "af4374b4-780a-4616-8465-4601864b456b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Última Esperanza por evento zoosanitario",
+	"fechaHora": "2023-04-11T12:36:00.000-04:00",
+	"createdAt": "2023-10-26T02:58:53.677Z",
+	"updatedAt": "2024-10-10T16:41:20.784Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-evento-zoosanitario",
+	"parentId": "8fb65936-a604-4777-91b5-348934f9259f",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), en función de la Emergencia Zoosanitaria y de la Alerta Temprana Preventiva Provincial por “Influenza Aviar” H5N1, se informa lo siguiente:</p><table><tbody><tr><td><div>Cantidad de brotes a la fecha</div></td><td><div>3</div></td></tr><tr><td><div>Comunas afectadas</div></td><td><div>·&nbsp;&nbsp;&nbsp; Sector Colonia Isabel Riquelme, comuna de Puerto Natales.·&nbsp;&nbsp;&nbsp; Sector Costanera Puerto Natales, comuna de Puerto Natales.·&nbsp;&nbsp;&nbsp; Estancia Estela, Sector Las Mercedes, comuna de Porvenir.</div></td></tr><tr><td><div>Cantidad de aves muestreadas</div></td><td><div>13</div></td></tr><tr><td><div>Cantidad de casos positivos</div></td><td><div>8</div></td></tr><tr><td><div>Cantidad de aves muertas</div></td><td><div>112</div></td></tr><tr><td><div>Especies afectadas</div></td><td><div>Gallinas y Cisnes cuello negro.</div></td></tr></tbody></table><p>​En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes y de la Antártica Chilena, la Dirección Regional del SENAPRED mantiene la Alerta Temprana Preventiva para la Provincia de Última Esperanza por evento zoosanitario, la que se encuentra vigente desde el 05 de abril.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

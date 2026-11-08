@@ -1,0 +1,20 @@
+{
+	"id": "1c315ead-5ff3-4e10-ba12-f00e50a8c82a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Lumaco por incendio forestal",
+	"fechaHora": "2025-01-10T17:04:39.3939-03:00",
+	"createdAt": "2025-01-10T20:09:05.314Z",
+	"updatedAt": "2025-01-11T16:04:15.844Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lumaco-por-incendio-forestal",
+	"parentId": "a6fe7458-c89d-414e-a0e6-556f8180c055",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), en combate se encuentra el incendio forestal denominado “La Leona de Curin”, en la comuna de Lumaco, el cual consume al momento una superficie 8 hectáreas de vegetación.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>La Leona de Curín</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Lumaco</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>8</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio presenta un comportamiento rápido.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de DESAPRENSE declara Alerta Roja para la comuna de Lumaco por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0c67ec70-5769-4fd0-9151-6d45d45e8376",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Los Ángeles por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-12-17T00:35:58.985Z",
+	"updatedAt": "2025-12-17T06:03:08.940Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-incendio-forestal-2025-12-16-18-36-28",
+	"parentId": "eef8c02e-cadb-4eca-b831-bd7620d18b6b",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de<strong>&nbsp;Los Ángeles,&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>195 COLONIA SANTA FE</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>60</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Los Ángeles: 9 brigadas de combates, 3 técnicos   y 4 aeronaves; personal de Ejército y Carabineros.</p></td></tr><tr><td><p><strong>Descripción</strong></p></td><td><p>El incendio se encuentra cercano a sectores poblados.</p></td></tr></tbody></table><p>Producto de este incendio se activó la mensajería SAE para el sector de Santa Fe. Cabe señalar que se habilitó un albergue en el liceo de Santa Fe.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Los Ángeles por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

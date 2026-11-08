@@ -1,0 +1,20 @@
+{
+	"id": "2481ddb8-bd64-4449-96c5-9847c15c4911",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento masivo",
+	"fechaHora": "2024-11-25T08:56:28.2828-03:00",
+	"createdAt": "2024-11-25T11:57:35.975Z",
+	"updatedAt": "2024-11-25T11:58:29.517Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-masivo-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED O’Higgins, respecto a la Segunda Vuelta Electoral de Gobernadores Regionales 2024, se informa que estas finalizaron sin reportar situaciones relevantes de emergencia.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento masivo,</strong> que se mantuvo vigente desde el 23 de noviembre de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6647897c-8fce-4485-a410-99aa670a1986",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2025-07-08T12:35:50.5050-04:00",
+	"createdAt": "2025-07-08T16:37:00.238Z",
+	"updatedAt": "2025-07-08T16:39:18.656Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-13",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> fueron cancelados los siguientes alertamientos meteorológicos para la Región de Ñuble:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA58</p></td><td><p style=\"text-align:justify\">Viento moderado a   fuerte en el litoral y cordillera de la costa.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA59</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas con probabilidad de granizos en el litoral y cordillera de la   costa.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A251-4</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en litoral, cordillera de la costa, valle, precordillera y   cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico, que se mantuvo vigente desde el 04 de julio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

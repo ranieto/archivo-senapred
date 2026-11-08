@@ -1,0 +1,20 @@
+{
+	"id": "181c9298-f29b-4e23-8eeb-78661f24b017",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región del Maule por evento meteorológico",
+	"fechaHora": "2026-08-03T18:22:09.099-04:00",
+	"createdAt": "2026-08-03T22:23:47.494Z",
+	"updatedAt": "2026-08-03T22:24:47.343Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-viento-2026-07-12-14-18-55",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> han sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A364-7</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en valle, precordillera y cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A365-6</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad de ventisca en cordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a esta información y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por evento meteorológico</strong>, la cual se mantuvo vigente desde el 01 de agosto del 2026.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, se mantiene la Alerta Amarilla Regional por crecida, vigente desde el 29 de julio.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

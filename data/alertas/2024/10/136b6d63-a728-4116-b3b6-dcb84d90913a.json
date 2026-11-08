@@ -1,0 +1,20 @@
+{
+	"id": "136b6d63-a728-4116-b3b6-dcb84d90913a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por remoción en masa",
+	"fechaHora": "2024-10-27T12:34:00.000-03:00",
+	"createdAt": "2024-10-27T16:12:53.813Z",
+	"updatedAt": "2024-12-05T22:50:31.965Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "a71d9268-9182-4c96-bb3a-8db38871f997",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota</strong>, respecto a los continuos <strong>deslizamientos en la Cuesta Chinchorro</strong> y las zonas de talud con alta susceptibilidad de remoción en masa,se informa que la<strong> Ruta 5 Norte continúa habilitada </strong>y regulada por banderilleros,<strong> manteniéndose el corte preventivo nocturno entre las 20:00 horas y las 08:00 horas del día siguiente.</strong><br></p><p style=\"text-align:justify\">Cabe mencionar, que durante la jornada de hoy el <strong>corte preventivo comenzará a las 22:00 horas</strong> para facilitar el proceso eleccionario.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por remoción en masa,</strong> la que se encuentra vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Se mantiene trabajando en el lugar Carabineros y personal del Ministerio de Obras Públicas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que desde el 10 de octubre no se registran nuevos derrumbes en la zona. Sin embargo, en caso de presentarse nuevos deslizamientos, se despejará la ruta con maquinarias dispuestas en el lugar y se dará paso al tránsito vehicular una vez realizada la correspondiente evaluación de talud.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por su parte, el Ministerio de Transporte y Telecomunicaciones dispuso la restricción de tránsito para buses en horario nocturno en la zona. Mientras la Superintendencia de Electricidad y Combustibles mantiene el monitoreo del abastecimiento de combustible de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que a la fecha se han realizado 2 COGRID Regionales y 1 Nacional. Además, de reuniones locales para la evaluación de necesidades. Manteniéndose las acciones acordadas en el COGRID del 15 de octubre, entre las que se encuentran:</span></p><ul type=\"disc\"><li><span style=\"font-size:15px;color:black\">La elaboración de un Plan Operativo para abordar la      emergencia.</span></li><li><span style=\"font-size:15px;color:black\">Se traslada el control operativo de SAG a la ciudad de Arica,      para evitar aglomeraciones en Cuya.</span></li><li><span style=\"font-size:15px;color:black\">SEC mantiene el monitoreo del abastecimiento de combustible      en la región.</span></li><li><span style=\"font-size:15px;color:black\">Se mantiene 1 ambulancia en la localidad de Huara, para la      atención de salud en Huara y Cuya.</span></li></ul><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, SENAPRED ha entregado a la fecha, 820 Kits de higiene, 360 botellas de agua de 1.5 litros, 25 cajas de alimentos y 560 raciones de alimentos de 12 horas, así como la contratación de 60 baños químicos y transporte para 160 personas.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

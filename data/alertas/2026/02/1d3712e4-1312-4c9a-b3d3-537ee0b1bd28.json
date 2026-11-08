@@ -1,0 +1,20 @@
+{
+	"id": "1d3712e4-1312-4c9a-b3d3-537ee0b1bd28",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Metropolitana por amenaza de incendios forestales",
+	"fechaHora": "2026-02-09T11:31:45.4545-03:00",
+	"createdAt": "2026-02-09T14:32:36.939Z",
+	"updatedAt": "2026-02-09T14:33:29.358Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-2026-02-05-18-21-36",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En atención al&nbsp;<strong>análisis de la Corporación Nacional Forestal (Conaf),</strong>&nbsp;se señala el término de las variables de riesgo que determinaron las condiciones meteorológicas y zonas con alta probabilidad de generación y propagación de incendios forestales.</p><p>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de Metropolitana de Santiago, por amenaza de incendios forestales, que se mantuvo vigente desde el 05 de febrero de 2026.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

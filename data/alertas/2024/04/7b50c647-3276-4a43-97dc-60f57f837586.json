@@ -1,0 +1,20 @@
+{
+	"id": "7b50c647-3276-4a43-97dc-60f57f837586",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Alto del Carmen por evento meteorológico",
+	"fechaHora": "2024-04-26T15:50:25.2525-04:00",
+	"createdAt": "2024-04-26T19:51:33.059Z",
+	"updatedAt": "2024-04-26T19:52:02.848Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-alto-del-carmen-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Alto del Carmen\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Atacama</strong>, respecto a la afectación derivada del pasado evento meteorológico ocurrido durante los días 12 y 13 de abril, se indica que las rutas C-591 y C-487 se encuentran transitables con normalidad.<br></p><p style=\"text-align:justify\">Por otra parte, el Servicio Sanitario Rural (SSR) de las localidades de Conay Alto y Malaguín se mantiene con su suministro interrumpido, producto de la afectación presente en las fuentes de captación superficial del sistema, no obstante, han sido tomadas las medidas preventivas de esta situación, a fin de dar continuidad al servicio de suministro de agua potable en las localidades afectadas.</p><p style=\"text-align:justify\">Cabe señalar que la Dirección de Obras Hidráulicas (DOH) mantiene el monitoreo del servicio, a fin de detectar oportunamente cualquier cambio en las condiciones de este.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por evento meteorológico para la comuna de Alto del Carmen</strong>, que se mantenía vigente desde el 13 de abril.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

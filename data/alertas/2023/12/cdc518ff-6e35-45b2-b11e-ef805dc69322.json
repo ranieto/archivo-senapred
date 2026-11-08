@@ -1,0 +1,20 @@
+{
+	"id": "cdc518ff-6e35-45b2-b11e-ef805dc69322",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Curacaví por incendio forestal",
+	"fechaHora": "2023-12-01T17:46:43.4343-03:00",
+	"createdAt": "2023-12-01T20:48:25.656Z",
+	"updatedAt": "2023-12-01T20:49:42.871Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-curacavi-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Curacaví\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto del incendio forestal en la comuna de Curacaví, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Zapata</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1 hectárea.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja para la comuna de Curacaví por incendio forestal</strong>, que se mantuvo vigente durante hoy viernes 01 de diciembre de 2023.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

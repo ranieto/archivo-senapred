@@ -1,0 +1,20 @@
+{
+	"id": "ac593c23-fa03-46f5-824c-764302a52315",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Pitrufquén por incendio forestal",
+	"fechaHora": "2025-02-18T18:38:00.000-03:00",
+	"createdAt": "2025-02-18T21:48:52.044Z",
+	"updatedAt": "2025-02-26T02:30:25.633Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pitrufquen-por-incendio-forestal-2",
+	"parentId": "848b0f29-a76c-4971-8763-d64f432eba6b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pitrufquén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>El incendio forestal presenta reactivación con comportamiento extremo, desarrollándose cercano al sector de Loica. </p><p>Debido a lo anterior, se han emitido 4 mensajes SAE para reforzar el proceso de evacuación en los sectores de 4 Esquinas, Loica, Inoco, Polún y Quilquilco. </p><p>Además, se habilitó un albergue en la escuela Ammillán, donde se ha trasladado al momento a 5 evacuados.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Pitrufquén, por incendio forestal, que se encuentra vigente desde el 18 de febrero de 2025.<br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Loica<br></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>157,4 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Pitrufquén, 7 brigadas CONAF, 7 técnicos CONAF, 4 avión cisterna, 2 helicópteros, 1 avión cisterna pesado, 1 camión cisterna, 1 maquinaria pesada, 1 puesto de mando.</p></td></tr></tbody></table><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

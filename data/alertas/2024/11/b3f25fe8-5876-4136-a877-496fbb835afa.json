@@ -1,0 +1,20 @@
+{
+	"id": "b3f25fe8-5876-4136-a877-496fbb835afa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego  por viento",
+	"fechaHora": "2024-11-24T11:33:16.1616-03:00",
+	"createdAt": "2024-11-24T14:35:11.609Z",
+	"updatedAt": "2024-11-24T14:35:59.455Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-viento-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> indica que ha sido cancelado el Aviso Meteorológico que pronosticaba viento normal a moderado en las zonas de cordillera austral sur, insular central, pampa patagónica norte y pampa patagónica sur de la Región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a lo anterior, que supone una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional de SENAPRED&nbsp;<strong>cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego&nbsp; por viento,&nbsp;</strong>vigente desde el 21 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

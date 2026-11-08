@@ -1,0 +1,20 @@
+{
+	"id": "3806b3fe-8384-455b-bcce-be970c977cbe",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Gorbea por incendio forestal",
+	"fechaHora": "2025-03-23T19:13:34.3434-03:00",
+	"createdAt": "2025-03-23T22:16:47.022Z",
+	"updatedAt": "2025-03-25T15:42:44.254Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-gorbea-por-incendio-forestal",
+	"parentId": "15fb6c5d-40da-4531-b8c3-01d4d64bb6ea",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Gorbea,&nbsp;</strong>se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p>Sexta Faja</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>2 brigadas Conaf</p><p>1 técnico Conaf</p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía,<strong> la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Gorbea por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

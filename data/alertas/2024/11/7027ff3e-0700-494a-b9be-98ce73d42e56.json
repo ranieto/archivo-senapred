@@ -1,0 +1,20 @@
+{
+	"id": "7027ff3e-0700-494a-b9be-98ce73d42e56",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Cholchol por incendio forestal",
+	"fechaHora": "2024-11-21T10:45:20.2020-03:00",
+	"createdAt": "2024-11-21T13:45:58.278Z",
+	"updatedAt": "2024-11-21T13:46:29.947Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cholchol-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que se encuentra en la comuna de Cholchol, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Launache</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observación</strong></p></td><td><p style=\"text-align:justify\">Con respecto al incendio, se encuentra   superada la amenaza a personas y viviendas que dio origen a la presente   alerta.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Cholchol, por incendio forestal, que se mantuvo vigente desde el 20 de noviembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

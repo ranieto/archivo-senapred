@@ -1,0 +1,20 @@
+{
+	"id": "115efb50-f186-4a5a-a1fc-ad4fbae592e3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Camiña por aumento de caudal",
+	"fechaHora": "2024-02-18T00:07:00.000-03:00",
+	"createdAt": "2024-02-18T03:12:48.566Z",
+	"updatedAt": "2024-02-18T14:41:18.924Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-camina-por-aumento-de-caudal",
+	"parentId": "ea009f1d-5182-4590-8e46-1ea0393a9b5e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Camiña\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá</span></strong><span style=\"color: black\">, respecto del aumento de caudal en la Quebrada Camiña, se reportan los siguientes antecedentes:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Condición de tiempo</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Nubosidad parcial y precipitaciones intermitentes.</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Afectación preliminar</span></strong></p></td><td><ul type=\"disc\"><li>Pérdida de bocatomas de riego        agrícola.</li><li>Interrupción de tránsito en        caminos de acceso a predios agrícolas.</li><li>Obstrucción de ductos del        puente del Río Camiña.</li><li>Daños de pretiles a lo largo de        la comuna.</li><li>Interrupción de tránsito en        camino a sector Altuza.</li></ul></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Roja para la comuna de Camiña por aumento de caudal</strong>, que se encuentra vigente desde el 17 de febrero y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva por tormentas eléctricas para la Provincia del Tamarugal, </strong>vigentedesde el 09 de febrero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de este evento, se ha conformado el <strong>COGRID Comunal</strong>, a fin de determinar cursos de acción que permitan actuar de manera oportuna, entre lo cual se informa:</span></p><ul type=\"disc\"><li><strong><span style=\"font-size:15px;color:black\">Monitoreo permanente de situación a través de las Juntas de      Vecinos.</span></strong></li><li><strong><span style=\"font-size:15px;color:black\">Mantención de patrullajes preventivos por las rutas A-45 y      A469.</span></strong></li><li><strong><span style=\"font-size:15px;color:black\">A través de la Municipalidad de Camiña, alertamiento a la      población, para el resguardo de las personas y su permanencia en zonas      seguras.</span></strong></li><li><strong><span style=\"font-size:15px;color:black\">Permanencia de Carabineros en puntos críticos para el      resguardo de la población</span></strong><span style=\"font-size:15px;color:black\">.</span></li></ul>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

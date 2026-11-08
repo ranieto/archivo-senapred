@@ -1,0 +1,20 @@
+{
+	"id": "a99c7d3a-4d61-499f-a456-8cf1159d4a2d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Lolol por incendio forestal",
+	"fechaHora": "2025-02-05T18:51:00.000-03:00",
+	"createdAt": "2025-02-05T21:56:52.288Z",
+	"updatedAt": "2025-02-07T18:46:27.215Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lolol-por-incendio-forestal-2",
+	"parentId": "f240a409-57aa-46aa-a9bb-159347cdec8c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Lolol se informa el siguiente detalle:</span></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Lolol por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Rinconada de Quiahue</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectárea</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>6 brigadas y 1 técnico de Conaf; además de 5 aeronaves, 2 camiones y 1 skidder.</p></td></tr></tbody></table></div><p><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

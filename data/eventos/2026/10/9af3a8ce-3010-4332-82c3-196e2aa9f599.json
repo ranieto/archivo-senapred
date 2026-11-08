@@ -1,0 +1,20 @@
+{
+	"id": "9af3a8ce-3010-4332-82c3-196e2aa9f599",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Valparaíso y Metropolitana",
+	"fechaHora": "2026-10-02T14:39:48.4848-03:00",
+	"createdAt": "2026-10-02T17:44:03.452Z",
+	"updatedAt": "2026-10-02T17:44:03.452Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-valparaiso-2026-10-02-14-36-31",
+	"parentId": "a7c11b09-fd70-453a-a9cf-989342cdb948",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 14:28 horas en las regiones de Valparaíso y Metropolitana. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quintero:   </p></td><td><p>V</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>IV</p></td></tr><tr><td><p>Viña   del Mar: </p></td><td><p>IV</p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>IV</p></td></tr><tr><td><p>Casablanca:   </p></td><td><p>IV</p></td></tr><tr><td><p>San   Felipe: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Maipu:   </p></td><td><p>III</p></td></tr><tr><td><p>Quilicura:   </p></td><td><p>III</p></td></tr><tr><td><p>Puente   Alto: </p></td><td><p>II</p></td></tr></tbody></table><p><br>​<span style=\"font-size: 16px\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. <br></span><br>El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.5 localizado a 15 Kms al Oeste de Quintero.</p><p><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

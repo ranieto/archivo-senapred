@@ -1,0 +1,20 @@
+{
+	"id": "4480c0dd-f760-4366-ac6e-6ba7b039c154",
+	"type": "Evento",
+	"titulo": " Sismo de mediana intensidad en las regiones de Valparaíso y Metropolitana   ",
+	"fechaHora": "2025-03-15T21:25:00.000-03:00",
+	"createdAt": "2025-03-16T00:27:05.144Z",
+	"updatedAt": "2025-03-16T00:31:26.799Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-valparaiso-y-metropolitana-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">Un sismo de menor intensidad se percibió a las 21:23 horas en las regiones de Valparaíso y Metropolitana.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Puchuncaví­:   </p></td><td><p>V</p></td></tr><tr><td><p>Quintero:   </p></td><td><p>V</p></td></tr><tr><td><p>Quillota:   </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Macul:   </p></td><td><p>II</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

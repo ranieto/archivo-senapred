@@ -1,0 +1,20 @@
+{
+	"id": "a9fb3905-4912-4b17-bf1e-cc83b7b79ded",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2024-11-10T19:16:46.4646-03:00",
+	"createdAt": "2024-11-10T22:23:16.915Z",
+	"updatedAt": "2024-11-10T22:23:16.915Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-atacama-y-coquimbo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 19:11 en las regiones de Atacama y Coquimbo, la Unidad Nacional de Alerta Temprana reporta la siguiente información del evento sísmico:</p><p><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>10/11/2024   - 19:11</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>10/11/2024   - 19:17</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>IV   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>236-A</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>III</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>III</p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>II</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>Coquimbo:   </p></td><td><p>IV</p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>IV</p></td></tr><tr><td><p>La   Serena: </p></td><td><p>IV</p></td></tr><tr><td><p>Paiguano:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br><u>Observaciones</u><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br> Información preliminar del Sistema Automático de Sismos, CSN.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

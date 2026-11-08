@@ -1,0 +1,20 @@
+{
+	"id": "30c0b28a-5a6e-4fe2-967f-062ebebefd1e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Concepción por desborde",
+	"fechaHora": "2025-07-31T13:48:15.1515-04:00",
+	"createdAt": "2025-07-31T17:54:48.194Z",
+	"updatedAt": "2025-08-01T19:28:43.297Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-concepcion-por-desborde",
+	"parentId": "56daca6d-de7b-4306-880b-82ef7eb1dfce",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA),</span></strong><span style=\"color: black\"> se indica que la estación fluviométrica Río Andalien ex peaje Chaimavida en la comuna de Concepción, ha alcanzado el umbral de alerta roja y presenta una tendencia al alza.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para la comuna</strong></span><strong><span style=\"color:black\"> de Concepción por desborde</span></strong><span style=\"color:black\">,vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

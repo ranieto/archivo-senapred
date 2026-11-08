@@ -1,0 +1,20 @@
+{
+	"id": "c01e4205-b1cd-498f-bafd-5ad3ebf92cbd",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de O’Higgins y Maule   ",
+	"fechaHora": "2025-01-17T14:01:57.5757-03:00",
+	"createdAt": "2025-01-17T17:02:47.656Z",
+	"updatedAt": "2025-01-17T17:08:50.013Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-ohiggins-y-maule-3",
+	"parentId": "706c0d0a-08af-4d6d-8282-270cd69b0c32",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 13:56 horas en las regiones de O’Higgins y Maule.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>San   Fernando: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Constitución:   </p></td><td><p>V</p></td></tr><tr><td><p>Talca:   </p></td><td><p>IV</p></td></tr><tr><td><p>Llico:   </p></td><td><p>IV</p></td></tr><tr><td><p>Curepto:   </p></td><td><p>IV</p></td></tr><tr><td><p>Pelarco:   </p></td><td><p>IV</p></td></tr><tr><td><p>Teno:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

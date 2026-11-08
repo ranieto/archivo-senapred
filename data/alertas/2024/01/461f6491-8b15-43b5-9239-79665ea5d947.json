@@ -1,0 +1,20 @@
+{
+	"id": "461f6491-8b15-43b5-9239-79665ea5d947",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Panquehue por incendio forestal",
+	"fechaHora": "2024-01-17T00:49:00.000-03:00",
+	"createdAt": "2024-01-17T03:50:03.175Z",
+	"updatedAt": "2024-01-17T03:50:39.287Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-panquehue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio Callejón San Luis, en la comuna de Panquehue, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p>Callejón San Luis</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectáreas</p></td></tr><tr><td><div></div></td><td><div></div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la Comuna de Panquehue, por incendio forestal</strong>, que se mantuvo vigente desde el 16 de enero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

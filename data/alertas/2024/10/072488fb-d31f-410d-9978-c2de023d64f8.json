@@ -1,0 +1,20 @@
+{
+	"id": "072488fb-d31f-410d-9978-c2de023d64f8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Camarones por remoción en masa",
+	"fechaHora": "2024-10-06T06:21:00.000-03:00",
+	"createdAt": "2024-10-06T09:25:48.845Z",
+	"updatedAt": "2024-11-14T12:17:54.669Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "100ecc21-1072-486b-ac0d-faaf87704d61",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Camarones\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, respecto a los continuos deslizamientos de rocas en la Ruta 5 Norte, sector Cuesta Cultura Chinchorro, se informa que a las 04:00 horas de hoy se registró un nuevo deslizamiento de rocas en la Ruta 5 Norte.<br></p><p style=\"text-align:justify\">Cabe señalar, que al momento del deslizamiento la ruta se encontraba con el corte preventivo del tránsito vehicular. Sin embargo, producto del nuevo deslizamiento, el tránsito se mantendrá suspendido en ambos sentidos.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla por remoción en masa para la comuna de Camarones,</strong> la que se mantiene vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar Carabineros.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de este evento, al momento se han realizado 3 COGRID del nivel Regional y 3 del nivel comunal.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que hasta el día de hoy se mantiene la contratación de baños químicos y finalizó la entrega de agua embotellada para la población. Del mismo modo, continúa habilitado el albergue en la ciudad de Arica, el cual se encuentra sin ocupantes. Además, se mantiene el abastecimiento de agua potable mediante camión aljibe en la localidad de Huara y fue gestionada la entrega de alimentos vía marítima en Caleta Camarones. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

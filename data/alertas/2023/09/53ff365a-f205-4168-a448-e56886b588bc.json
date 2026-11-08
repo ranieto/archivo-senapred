@@ -1,0 +1,20 @@
+{
+	"id": "53ff365a-f205-4168-a448-e56886b588bc",
+	"type": "Alerta",
+	"titulo": "prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-25T12:47:23.104Z",
+	"updatedAt": "2023-09-25T12:48:45.378Z",
+	"urlAccess": "prueba",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Iquique\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Iquique\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p>prueba</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

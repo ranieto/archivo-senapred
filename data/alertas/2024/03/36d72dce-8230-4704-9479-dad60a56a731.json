@@ -1,0 +1,20 @@
+{
+	"id": "36d72dce-8230-4704-9479-dad60a56a731",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna Pitrufquén por incendio forestal",
+	"fechaHora": "2024-03-18T18:07:00.000-03:00",
+	"createdAt": "2024-03-18T21:09:31.175Z",
+	"updatedAt": "2024-03-19T00:27:21.256Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-pitrufquen-por-incendio-forestal",
+	"parentId": "260aafe9-4db3-4531-8c9f-e73a8a831c2e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto del incendio forestal que se encuentra en la comuna de Pitrufquén, se reporta lo siguiente:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Puraquina   2</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5.0   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio   activo en todos sus sectores con propagación rápida, cercano a sectores   habitados y un centro asistencial rural.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Pitrufquén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

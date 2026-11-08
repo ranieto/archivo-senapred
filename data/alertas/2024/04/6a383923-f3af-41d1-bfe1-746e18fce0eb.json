@@ -1,0 +1,20 @@
+{
+	"id": "6a383923-f3af-41d1-bfe1-746e18fce0eb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Salamanca, Illapel, Combarbalá, Monte Patria, Río Hurtado, Paihuano, Vicuña y La Higuera por tormentas eléctricas",
+	"fechaHora": "2024-04-15T22:48:00.000-04:00",
+	"createdAt": "2024-04-16T02:49:33.319Z",
+	"updatedAt": "2024-04-16T02:50:56.956Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-elqui-y-limari-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui, Choapa, Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Salamanca, Illapel, Combarbalá, Monte Patria, Río Hurtado, Paihuano, Vicuña, La Higuera\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A89-6</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera, valles precordilleranos y cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva </strong>para las comunas de Salamanca, Illapel, Combarbalá, Monte Patria, Río Hurtado, Paihuano, Vicuña y La Higuera por tormentas eléctricas, que se mantenía vigente desde el 14 de abril de 2024.</span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4dfaf529-c5ba-4fa4-bb67-9ae543db3005",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego y la comuna de Cabo de Hornos por viento",
+	"fechaHora": "2023-12-06T19:02:00.000-03:00",
+	"createdAt": "2023-12-06T22:08:26.774Z",
+	"updatedAt": "2023-12-06T22:09:14.697Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego, Antártica Chilena\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Cabo de Hornos\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento técnico para la Región de Magallanes, en atención al debilitamiento de las condiciones que lo originaron:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado </span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A455-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera austral sur, insular sur y pampa patagónica   sur.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para las provincias de Magallanes y Tierra del Fuego, y la comuna de Cabo de Hornos</strong>, que se encontraba vigente desde el 03 de diciembre.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

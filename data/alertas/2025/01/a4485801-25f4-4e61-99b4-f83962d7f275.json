@@ -1,0 +1,20 @@
+{
+	"id": "a4485801-25f4-4e61-99b4-f83962d7f275",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Traiguén por incendio forestal",
+	"fechaHora": "2025-01-12T21:41:21.2121-03:00",
+	"createdAt": "2025-01-13T00:45:32.048Z",
+	"updatedAt": "2025-01-13T00:47:23.003Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-traiguen-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se informa que el incendio forestal “La Unión Hijuela 3\" que se desarrolla en la comuna de Traiguén, no presenta una amenaza a las viviendas del sector de La Unión. Cabe destacar que, al momento este incendio ha consumido 63,33 hectáreas de vegetación en la comuna.</p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">La Unión Hijuela 3</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Comuna (Sector)</strong></p></td><td><p style=\"text-align: justify\">Traiguén</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En Combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">63.33 hectáreas</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">Compañías de Bomberos de Ercilla y Traiguén</p><p style=\"text-align: justify\">5 brigadas, 2 técnicos y 6 aeronaves CONAF</p><p style=\"text-align: justify\">9 aeronaves de empresas</p><p style=\"text-align: justify\">1 maquinarias pesada</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Traiguén, por incendio forestal, que se mantuvo vigente desde el 12 de enero de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

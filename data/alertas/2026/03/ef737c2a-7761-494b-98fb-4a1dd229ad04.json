@@ -1,0 +1,20 @@
+{
+	"id": "ef737c2a-7761-494b-98fb-4a1dd229ad04",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2026-03-17T11:43:40.4040-03:00",
+	"createdAt": "2026-03-17T14:45:20.984Z",
+	"updatedAt": "2026-03-17T14:46:41.033Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-03-12-14-28-22",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se han cancelado los siguientes alertamientos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><p><br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A128</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en zonas de litoral, valle y precordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A121-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas con posibilidad de fuertes rachas de vientos locales en   litoral y valle.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A116</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en litoral y valle de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A112-2</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en zonas de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico,</strong> la cual se mantenía vigente desde el 12 de marzo y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

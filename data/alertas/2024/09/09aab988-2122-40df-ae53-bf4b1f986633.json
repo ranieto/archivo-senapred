@@ -1,0 +1,20 @@
+{
+	"id": "09aab988-2122-40df-ae53-bf4b1f986633",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Alto del Carmen por incendio forestal",
+	"fechaHora": "2024-09-13T21:15:00.000-03:00",
+	"createdAt": "2024-09-14T00:22:49.219Z",
+	"updatedAt": "2024-09-14T22:27:44.229Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-incendio-forestal",
+	"parentId": "849e3051-daf4-4d9e-af9a-2a673a08c58e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;se registra un incendio forestal en la comuna de Alto del Carmen, según el siguiente detalle:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Pastalito</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,38   hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Alto del Carmen por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

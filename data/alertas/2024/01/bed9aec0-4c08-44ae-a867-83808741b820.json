@@ -1,0 +1,20 @@
+{
+	"id": "bed9aec0-4c08-44ae-a867-83808741b820",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por amenaza de incendios forestales",
+	"fechaHora": "2024-01-30T18:05:00.000-03:00",
+	"createdAt": "2024-01-30T21:11:09.025Z",
+	"updatedAt": "2024-02-16T22:07:55.021Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-amenaza-de-incendios-forestales",
+	"parentId": "ab1e8efb-ee39-49a0-b62e-6a02520d3be5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(20, 23, 26)\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><span style=\"color: rgb(20, 23, 26)\"> se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:</span><br></p><p><strong><span style=\"color:#14171A\">- Alerta AA8:</span></strong><span style=\"color:#14171A\"> Altas temperaturas extremas en valle, entre la tarde de hoy martes 30 de enero y la tarde del jueves 01 de febrero.</span></p><p><span style=\"color:#14171A\">Asimismo, conforme a <strong>lo indicado por CONAF a través de su Botón Rojo</strong>, se prevén condiciones meteorológicas adversas en la región, escenario favorable para la generación y propagación de incendios forestales, pudiendo estos aumentar en número y superficie afectada.</span></p><p><span style=\"color:#14171A\">Adicionalmente, la DMC pronostica las siguientes temperaturas máximas para los próximos días:</span></p><p><strong><span style=\"color:#14171A\">-Costa:</span></strong><span style=\"color:#14171A\"> Martes 30-01 (21°C), Miércoles 31-01 (22°C) y Jueves 01-02 (22°C).</span></p><p><strong><span style=\"color:#14171A\">-Valle (Temuco y Angol):</span></strong><span style=\"color:#14171A\"> Martes 30-01 (34-35°C), Miércoles 31-01 (34-36°C) y Jueves 01-02 (35-37°C).</span></p><p><strong><span style=\"color:#14171A\">-Precordillera:</span></strong><span style=\"color:#14171A\"> Martes 30-01 (30°C), Miércoles 31-01 (30°C) y Jueves 01-02 (32°C).</span></p><p><span style=\"color:#14171A\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Temprana Preventiva para la Región de La Araucanía, por amenaza de incendios forestales</strong>, que se mantiene vigente desde el 19 de enero de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

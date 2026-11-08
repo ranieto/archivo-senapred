@@ -1,0 +1,20 @@
+{
+	"id": "49ff8ee9-c91d-4c76-a68a-b83e48b25cdd",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Mejillones, Tocopilla y Taltal por precipitaciones ",
+	"fechaHora": "2024-11-03T10:13:00.000-03:00",
+	"createdAt": "2024-11-03T13:16:21.655Z",
+	"updatedAt": "2024-11-03T13:16:39.648Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-mejillones-tocopilla-y-taltal-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta, El Loa, Tocopilla\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Mejillones, Tocopilla, Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A415/2024 por precipitaciones normales a moderadas en litoral de la Región de Antofagasta. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva por precipitaciones para las comunas de Antofagasta, Mejillones, Tocopilla y Taltal</strong>, la cual se mantuvo vigente desde el 03 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

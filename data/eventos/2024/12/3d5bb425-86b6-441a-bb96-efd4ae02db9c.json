@@ -1,0 +1,24 @@
+{
+	"id": "3d5bb425-86b6-441a-bb96-efd4ae02db9c",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad entre las regiones de Coquimbo y Biobio.   ",
+	"fechaHora": "2024-12-13T20:44:18.1818-03:00",
+	"createdAt": "2024-12-13T23:45:18.066Z",
+	"updatedAt": "2024-12-13T23:52:16.121Z",
+	"urlAccess": "sismo-de-mediana-intensidad-entre-las-regiones-de-coquimbo-y-biobio",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo, Región de la Araucanía, Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región del Maule, Región del Biobío\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 20:38 horas entre las regiones Metropolitana y Ñuble. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Libertador Bernardo   O'Higgins </strong></p></td></tr><tr><td><p>Rancagua: </p></td><td><p>V</p></td></tr><tr><td><p>San Fernando: </p></td><td><p>V</p></td></tr><tr><td><p>Pichilemu: </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Maule </strong></p></td></tr><tr><td><p>Talca: </p></td><td><p>VI</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Biobío </strong></p></td></tr><tr><td><p>Concepción: </p></td><td><p>V</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Ñuble </strong></p></td></tr><tr><td><p>Chillán: </p></td><td><p>V</p></td></tr></tbody></table><p><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

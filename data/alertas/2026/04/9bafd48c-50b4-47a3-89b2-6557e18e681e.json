@@ -1,0 +1,20 @@
+{
+	"id": "9bafd48c-50b4-47a3-89b2-6557e18e681e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Provincia de Isla de Pascua por incendio forestal",
+	"fechaHora": "2026-04-24T21:25:12.1212-04:00",
+	"createdAt": "2026-04-25T01:26:20.828Z",
+	"updatedAt": "2026-04-25T23:19:55.255Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-isla-de-pascua-por-incendio-forestal-2026-04-24-17-23-26",
+	"parentId": "8552c7a1-30eb-4def-921b-d9cabffee984",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Isla de Pascua<strong>,&nbsp;</strong>se informa el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Grilla 150 A</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">40 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos de Rapa Nui, 1 Brigada   y 2 técnicos de CONAF, 1 Brifar, personal de la comunidad Ma’u Henua , 1   drone, Carabineros y 2 aljibes.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal cercano a ASP   Rapa Nui.</p><p style=\"text-align:justify\">CONAF realiza los trabajos en   la construcción de líneas cortafuego con herramientas manuales con apoyo de   recursos municipales, bomberos y BRIFAR.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Provincia de Isla de Pascua, por incendio forestal, que se encuentra vigente desde el 24 de abril de 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

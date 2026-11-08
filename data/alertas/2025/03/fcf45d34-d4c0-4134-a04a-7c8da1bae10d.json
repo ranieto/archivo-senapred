@@ -1,0 +1,20 @@
+{
+	"id": "fcf45d34-d4c0-4134-a04a-7c8da1bae10d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Lebu por incendio forestal",
+	"fechaHora": "2025-03-12T13:10:00.000-03:00",
+	"createdAt": "2025-03-12T16:27:08.608Z",
+	"updatedAt": "2025-03-12T16:29:12.766Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lebu-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por la Dirección Regional de CONAF, Controlado se encuentra el Incendio Forestal denominado \"790 - LOS FILTROS V\", el cual afectó una superficie de 3 hectáreas de bosque de eucaliptus, dándose por superada la amenaza a viviendas.</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Los Filtros V</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 brigadas de CONAF y 1 de empresa forestal; además de Bomberos Lebu y Los Álamos</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio controlado</p></td></tr></tbody></table><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF mediante solicitud de cancelación recibida a las 12:37 hrs. de hoy, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Lebu, por incendio forestal, que se mantuvo vigente desde el 12 de marzo de 2025.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

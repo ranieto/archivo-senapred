@@ -1,0 +1,21 @@
+{
+	"id": "578ab0a6-f9f4-44ef-bab7-b4efeb99ee69",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones Metropolitana, O’Higgins y Maule",
+	"fechaHora": "2024-01-11T14:38:18.1818-03:00",
+	"createdAt": "2024-01-11T17:39:01.685Z",
+	"updatedAt": "2024-01-11T17:47:29.781Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-ohiggins-y-maule",
+	"parentId": "7d282993-bf9f-411a-8567-2f5792946cf1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región del Maule, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p><span style=\"font-size:16px\">Un sismo de menor intensidad se percibió a las 14:30 horas en las regiones de Metropolitana, O’Higgins y Maule.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>San   Bernardo: </p></td><td><p>II</p></td></tr><tr><td><p>Alhué:   </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>San   Fernando: </p></td><td><p>IV</p></td></tr><tr><td><p>Lolol:   </p></td><td><p>IV</p></td></tr><tr><td><p>La   Estrella: </p></td><td><p>III</p></td></tr><tr><td><p>Navidad:   </p></td><td><p>III</p></td></tr><tr><td><p>Palmilla:   </p></td><td><p>III</p></td></tr><tr><td><p>Peralillo:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Romeral:   </p></td><td><p>IV</p></td></tr><tr><td><p>Teno:   </p></td><td><p>IV</p></td></tr><tr><td><p>Pelarco:   </p></td><td><p>IV</p></td></tr><tr><td><p>Talca:   </p></td><td><p>III</p></td></tr><tr><td><p>Curicó:   </p></td><td><p>III</p></td></tr><tr><td><p>Iloca:   </p></td><td><p>II</p></td></tr><tr><td><p>Llico:   </p></td><td><p>II</p></td></tr><tr><td><p>Pencahue:   </p></td><td><p>II</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.3 y se localizó a 28 Kms al Noreste de Vichuquén. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

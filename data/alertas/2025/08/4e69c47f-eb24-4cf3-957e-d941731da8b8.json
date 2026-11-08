@@ -1,0 +1,20 @@
+{
+	"id": "4e69c47f-eb24-4cf3-957e-d941731da8b8",
+	"type": "Alerta",
+	"titulo": "Se actualiza variable de Alerta Temprana Preventiva para la Región de Los Lagos por precipitaciones",
+	"fechaHora": "2025-08-23T16:43:00.000-04:00",
+	"createdAt": "2025-08-23T20:46:23.359Z",
+	"updatedAt": "2025-08-26T18:52:40.457Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-17",
+	"parentId": "d1916114-b4a0-4c07-b306-7ec8db9318fd",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A329-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas con isoterma cero alta en el litoral interior,   cordillera austral y patagonia subandina.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">23-08</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">24-08</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Por otro lado, </span><span style=\"color:black\">el Servicio Nacional de Geología y Minería (SERNAGEOMIN), </span><span style=\"color:black\">mediante la actualización de su<strong> Minuta Técnica por Peligro de Remociones en Masa</strong> emitida el día de hoy, indica que la posibilidad de ocurrencia de remociones en masa tales como flujo de detritos, aluviones, deslizamientos y/o caídas de rocas (derrumbes) es <strong>alta</strong> en Litoral interior, <strong>moderada</strong> en Precordillera y Patagonia subandina y<strong> baja </strong>en Litoral, Cordillera de la costa, Valle longitudinal, Cordillera, Chiloé y Cordillera austral de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva </strong></span><strong><span style=\"color:black\">Regional </span><span style=\"color:black\">por precipitaciones</span></strong><span style=\"color:black\">, que se encuentra vigente desde el 19 de agosto y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

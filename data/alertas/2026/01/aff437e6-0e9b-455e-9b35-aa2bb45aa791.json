@@ -1,0 +1,20 @@
+{
+	"id": "aff437e6-0e9b-455e-9b35-aa2bb45aa791",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de O’Higgins por calor extremo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-02T13:21:11.270Z",
+	"updatedAt": "2026-01-02T13:48:02.008Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-de-ohiggins-por-calor-extremo-2025-12-27-14-53-08",
+	"parentId": "fabfe7e0-5bc9-473a-a344-559150b00ff5",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, han sido cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA109-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de   altas temperaturas extremas en el litoral, cordillera de la costa, valle y   precordillera de la región.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A498-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en el litoral de la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por calor extremo, </strong>que se mantuvo vigente desde el 27 de diciembre de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

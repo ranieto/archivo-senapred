@@ -1,0 +1,20 @@
+{
+	"id": "ff59ce11-f4c5-4bc4-811d-895d9e1dfce7",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Valparaíso y O'Higgins",
+	"fechaHora": "2023-11-06T10:55:00.000-03:00",
+	"createdAt": "2023-11-06T13:56:59.640Z",
+	"updatedAt": "2023-11-06T13:59:59.574Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-valparaiso",
+	"parentId": "b8251def-4c65-4aae-accb-a2eae48ff6fe",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 10:52 horas en la Región de Valparaíso.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quilpué   : </p></td><td><p>V</p></td></tr><tr><td><p>Villa   Alemana : </p></td><td><p>V</p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>V</p></td></tr><tr><td><p>Quillota:   </p></td><td><p>V</p></td></tr><tr><td><p>Puchuncaví­:   </p></td><td><p>V</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>V</p></td></tr><tr><td><p>El   Quisco: </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Navidad:   </p></td><td><p>IV</p></td></tr><tr><td><p>Rancagua:   </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "36ad3a39-7f32-4355-ba08-3020cf2ddc3f",
+	"type": "Alerta",
+	"titulo": "Se Cancela Alerta Roja para la Región del Biobío por calor extremo",
+	"fechaHora": "2025-01-30T19:29:00.000-03:00",
+	"createdAt": "2025-01-30T22:32:49.364Z",
+	"updatedAt": "2025-01-30T22:33:48.831Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-del-biobio-por-calor-extremo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelada la alerta meteorológica AA7/2025 la que previó un evento de altas temperaturas extremas. Adicionalmente, el Aviso A35-4/2025 que pronostico altas temperaturas en zonas de la región previstas hasta el día de hoy jueves 30 de enero, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>Cancela la Alerta Roja Regional por calor extremo</strong>, que se mantuvo vigente desde el 27 de enero del 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

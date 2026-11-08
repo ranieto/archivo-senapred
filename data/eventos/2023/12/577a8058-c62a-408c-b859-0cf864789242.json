@@ -1,0 +1,19 @@
+{
+	"id": "577a8058-c62a-408c-b859-0cf864789242",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2023-12-09T01:31:00.000-03:00",
+	"createdAt": "2023-12-09T04:31:42.438Z",
+	"updatedAt": "2023-12-09T04:42:00.468Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-17",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p><span style=\"font-size:16px\">Un sismo de menor intensidad se percibió a las 01:27 horas en la Región de Atacama.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Diego   de Almagro: </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

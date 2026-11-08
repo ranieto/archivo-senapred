@@ -1,0 +1,20 @@
+{
+	"id": "af4d6c93-9710-4a85-9af3-83f9aefd01fa",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Ránquil por incendio forestal",
+	"fechaHora": "2025-12-17T02:52:16.1616-03:00",
+	"createdAt": "2025-12-17T05:56:32.664Z",
+	"updatedAt": "2025-12-17T13:54:33.430Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ranquil-por-incendio-forestal-2025-12-16-20-22-44",
+	"parentId": "9906de1d-1e79-4ad2-aa90-53313f56ea9d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;comuna de&nbsp;<strong>Ránquil,&nbsp;</strong>se informa el siguiente detalle:&nbsp;</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>CONUCO XVI</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6.46 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Ranquil; 2 brigadas forestal Arauco y 1   técnico forestal Arauco. Durante la mañana se espera el despliegue de 2 brigadas   terrestres y 1 técnico de Conaf.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a sectores poblados.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Uvas blancas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4 (ha)</p></td></tr></tbody></table><p>Por otra parte, respecto al incendio forestal Uvas Blancas, este se mantiene controlado, con una superficie afectada de 4 hectáreas, de acuerdo con lo informado por CONAF.</p><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAFse mantiene la Alerta Roja para la comuna de Ránquil, por incendio forestal.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "98c993f8-39e8-44bf-8794-8fc6b6b3d99d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta, Taltal, Mejillones y Tocopilla  por viento ",
+	"fechaHora": "2025-10-03T17:36:02.022-03:00",
+	"createdAt": "2025-10-03T20:37:56.623Z",
+	"updatedAt": "2025-10-08T04:42:43.005Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-taltal-mejillones-y-tocopilla--por-viento",
+	"parentId": "5d0a8963-b9b4-4ab9-a6df-0f3b9b303473",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A395-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en cordillera de la región (entre 60 y 80 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">05-10</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">07-10</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A398-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad de tormentas de arena en el litoral de la   región (entre 25 y 40 con rachas de 50 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">05-10</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">05-10</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva por viento para la Provincia de El Loa y comunas de Antofagasta, Taltal, Mejillones y Tocopilla,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><em><strong><span style=\"color: black\">SENAPRED&nbsp;</span></strong>recomienda a la población informarse sobre las condiciones del tiempo; alejarse del tendido eléctrico y carteles publicitarios, ya que podrían colapsar debido al viento.</em></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

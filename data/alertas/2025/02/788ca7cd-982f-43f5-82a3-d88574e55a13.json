@@ -1,0 +1,20 @@
+{
+	"id": "788ca7cd-982f-43f5-82a3-d88574e55a13",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la comuna de Lolol por incendio forestal",
+	"fechaHora": "2025-02-03T19:02:26.2626-03:00",
+	"createdAt": "2025-02-03T22:04:59.965Z",
+	"updatedAt": "2025-02-03T22:30:57.675Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lolol-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Lolol se reporta lo siguiente:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Los Tricahues</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie afectada</strong></p></td><td><p>20 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>5 brigadas, 3 técnicos, 1 avión cisterna, 1 helicóptero, 1 puesto de manso y 1 camión aljibe</p></td></tr></tbody></table></div><div style=\"text-align: justify\">A la hora del presente informe, este incendio no presenta amenaza a viviendas ni infraestructura crítica.</div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Lolol, por incendio forestal (ATR N°44), que se mantuvo vigente desde el 02 de febrero de 2025.<br></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

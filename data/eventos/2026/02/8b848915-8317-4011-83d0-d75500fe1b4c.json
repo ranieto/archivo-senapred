@@ -1,0 +1,21 @@
+{
+	"id": "8b848915-8317-4011-83d0-d75500fe1b4c",
+	"type": "Evento",
+	"titulo": "​  Sismo de mediana intensidad en las regiones de Arica y Parinacota, Antofagasta y Tarapacá",
+	"fechaHora": "2026-02-08T13:33:19.1919-03:00",
+	"createdAt": "2026-02-08T16:33:53.599Z",
+	"updatedAt": "2026-02-08T16:40:22.240Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-arica-y-parinacota-antoofagasta-y-tarapaca-2026-02-08-13-29-29",
+	"parentId": "e088b853-0361-4ff5-9855-b7dcfde9f8cf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 13:25 horas en las en las regiones de Arica, Antofagasta y Parinacota y Tarapacá. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Arica y Parinacota </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Pocon Chile: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Cuya: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">San Miguel de Azapa: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Arica : </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Tarapaca </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Iquique: </span></p></td><td><p><span style=\"font-size:16px\">V</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Antofagasta </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Tocopilla: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p><br></p><p><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

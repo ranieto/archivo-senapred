@@ -1,0 +1,20 @@
+{
+	"id": "c9408655-3505-4c42-9f2e-856420b558f0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla  para la comuna de La Estrella por incendio forestal",
+	"fechaHora": "2023-12-12T18:41:00.000-03:00",
+	"createdAt": "2023-12-12T21:57:51.056Z",
+	"updatedAt": "2023-12-14T23:40:58.407Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal",
+	"parentId": "42ac9bbb-5be6-4eaa-9041-f0f9a4198d75",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Las Cabras\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de La Estrella, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las Damas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">696 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El incendio se encuentra contenido y sin avance.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación </strong></p></td><td><p style=\"text-align:justify\">7 viviendas y 2 galpones destruidos; además de 15 personas   damnificadas quienes fueron enviadas hasta casa de familiares.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Trabajan en el lugar </strong></p></td><td><p style=\"text-align:justify\">1 Comandante de Incidentes, 2 técnicos, 5 brigadas, 1 skidder, 2   camiones aljibe, 2 aviones AT y 2 helicópteros de CONAF.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja y declara Alerta Amarilla por incendio forestal para la comuna de La Estrella</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

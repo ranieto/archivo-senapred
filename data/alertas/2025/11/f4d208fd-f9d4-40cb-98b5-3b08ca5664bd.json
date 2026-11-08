@@ -1,0 +1,20 @@
+{
+	"id": "f4d208fd-f9d4-40cb-98b5-3b08ca5664bd",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Cholchol por incendio forestal",
+	"fechaHora": "2025-11-14T15:49:14.1414-03:00",
+	"createdAt": "2025-11-14T18:51:16.165Z",
+	"updatedAt": "2025-11-14T23:00:12.382Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cholchol-por-incendio-forestal-2",
+	"parentId": "9a2d48b4-473a-4815-a86e-764653f0497e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Cholchol\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la <strong>comuna de Cholchol, </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>REPOCURA 2</p></td></tr><tr><td><p><strong>Estado </strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2.5</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Trabajan   Cuerpo de Bomberos de Cholchol, 4 brigadas de CONAF y 2 Técnicos de CONAF.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>No se reportan   afectaciones a personas ni daños en viviendas en la comuna de Cholchol.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Cholchol por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medioambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

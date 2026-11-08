@@ -1,0 +1,20 @@
+{
+	"id": "fb313cfd-6aa1-4ca7-8c9b-922156c6961e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la provincia de Isla de Pascua por viento",
+	"fechaHora": "2023-09-29T15:10:24.2424-03:00",
+	"createdAt": "2023-09-29T18:10:59.000Z",
+	"updatedAt": "2023-10-02T22:19:48.372Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>La información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante su Alerta Meteorológica, pronostica la ocurrencia de viento moderado a fuerte desde la madrugada hasta la tarde del sábado 30 de septiembre con una velocidad estimada entre 50 y 70 km/h.<br><br>En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva para la provincia de Isla de Pascua por viento, vigente a contar de hoy, y hasta que las condiciones del evento así lo ameriten.<br><br>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br>SENAPRED recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.&nbsp;<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

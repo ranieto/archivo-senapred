@@ -1,0 +1,20 @@
+{
+	"id": "01e225cf-0bf4-43c4-abe8-ba2eb189ced9",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la Región Metropolitana por calor intenso",
+	"fechaHora": "2026-02-07T23:39:53.5353-03:00",
+	"createdAt": "2026-02-08T02:40:27.761Z",
+	"updatedAt": "2026-02-08T02:40:36.025Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso-2026-02-06-10-41-19",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>ha sido cancelado el siguiente alertamiento meteorológico para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado </span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A54</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas en cordillera de la costa, valle y precordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por calor intenso, </strong>que se encontrabavigente desde el 06 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

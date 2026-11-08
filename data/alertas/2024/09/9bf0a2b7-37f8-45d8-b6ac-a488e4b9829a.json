@@ -1,0 +1,20 @@
+{
+	"id": "9bf0a2b7-37f8-45d8-b6ac-a488e4b9829a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Guaitecas por alteración sanitaria",
+	"fechaHora": "2024-09-05T12:21:00.000-04:00",
+	"createdAt": "2024-09-05T16:27:40.086Z",
+	"updatedAt": "2024-09-05T16:33:29.258Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-guaitecas-por-alteracion-sanitaria",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"Aysén\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Guaitecas\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">Según la información proporcionada por la Dirección Regional del SENAPRED de Aysén</span></strong><span style=\"color: black\">, el Ministerio de Salud en su Resolución Exenta N° 1.051 canceló la zona de riesgo sanitario a la localidad de Melinka, en la comuna de Guaitecas. Lo anterior, debido a que en las actividades productivas que requieren continuidad del servicio de agua potable y de suministro eléctrico se observan con normalidad.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, que supone una disminución del riesgo asociado a esta variable, la Dirección Regional del SENAPRED de Aysén, en coordinación con la Delegación Presidencial, <strong>cancela la Alerta Amarilla</strong> para la comuna de Guaitecas, por alteración sanitaria, que se mantuvo vigente desde el 19 de agosto de 2023.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9e72f189-6651-467d-a1f1-0894cf2a0e88",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-02-17T15:51:04.044-03:00",
+	"createdAt": "2026-02-17T18:52:08.758Z",
+	"updatedAt": "2026-02-17T18:53:08.289Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-viento-2026-02-15-12-50-57",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de </span><span style=\"color: black\">Los Lagos, </span><span style=\"color: black\">debido al debilitamiento de las condiciones que los originaron:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A68-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en Litoral, Chiloé y Litoral interior. </span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A71</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en Valle, Precordillera, Cordillera y Cordillera   Austral.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico, la cual se mantuvo vigente desde el 15 de febrero 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "d21c2dea-901d-4fe9-baf3-8cb2cecd6814",
+	"type": "Evento",
+	"titulo": "Evacuación en comuna de Florida, Región del Biobío",
+	"fechaHora": "2026-01-21T18:30:00.000-03:00",
+	"createdAt": "2026-01-21T21:44:07.947Z",
+	"updatedAt": "2026-01-21T21:47:02.384Z",
+	"urlAccess": "procesos-de-evacuacion-con-mensajeria-sae-21012026-2026-01-21-14-02-20",
+	"parentId": "e26fc4fb-feaa-42b8-a305-a5c1f0084f49",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<table><tbody><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Sector</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\"><span style=\"font-size: 16px\">San Juan 1</span></span></div></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Comuna</strong></span></div></td><td><div><span style=\"color:#000000\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Florida</span></span></div></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Hora</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">18:24<br></span></div></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Amenaza</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Incendio forestal</span></div></td></tr></tbody></table><div><span style=\"color: rgb(0, 0, 0)\">​</span></div>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

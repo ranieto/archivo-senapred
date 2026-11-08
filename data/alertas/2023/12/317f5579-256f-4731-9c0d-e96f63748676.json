@@ -1,0 +1,20 @@
+{
+	"id": "317f5579-256f-4731-9c0d-e96f63748676",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2023-12-10T21:15:00.000-03:00",
+	"createdAt": "2023-12-11T00:35:56.511Z",
+	"updatedAt": "2023-12-11T19:04:05.191Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal",
+	"parentId": "92b86c4d-d4fb-4f5f-a8d3-f87f5c018f28",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que se desarrolla en la comuna de Valparaíso, se indica lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Deslinde La Flecha.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna afectada</strong></p></td><td><p style=\"text-align:justify\">Valparaíso.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1 hectárea.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El incendio se encuentra sin avance y con actividad baja,   solo con fumarolas dentro del área quemada.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">2 brigadas y 1 camión aljibe de CONAF; junto a Bomberos de   Valparaíso.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "586ae868-a5cf-411d-9403-91971ff61ca3",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2024-01-07T10:12:00.000-03:00",
+	"createdAt": "2024-01-07T13:13:07.135Z",
+	"updatedAt": "2024-01-07T13:13:07.135Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-24",
+	"parentId": "d2167a22-a0fb-407a-8154-d6d51c0bc6b7",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 10:00 horas en la Región de Atacama.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>III</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>III</p></td></tr><tr><td><p>Diego   de Almagro: </p></td><td><p>III</p></td></tr><tr><td><p>El   Salvador: </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue de 3.8 y se localizó a 23 Kms al Suroeste de El Salvador. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "7533b4aa-2e65-46c8-a87f-0c136d9d32c0",
+	"type": "Evento",
+	"titulo": "Alteración del suministro de electricidad, comuna de Antofagasta (Información preliminar)",
+	"fechaHora": "2024-11-03T02:42:00.000-03:00",
+	"createdAt": "2024-11-03T05:42:17.144Z",
+	"updatedAt": "2024-11-03T11:16:53.908Z",
+	"urlAccess": "alteracion-del-suministro-de-electricidad-comuna-de-antofagasta-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Electricidad\",\"nombreImg\":\"corteelectricidad.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, 111.905 clientes se encuentran afectados por un corte en el suministro de electricidad ocurrido a las 02:00 horas de hoy, en diversos sectores de la comuna de Antofagasta.</p><p>Cabe mencionar que, al momento no se reportan situaciones de emergencia a raíz de esta condición.</p><p>Trabaja en la reposición del servicio personal de la empresa eléctrica CGE.</p>",
+	"variableInformateEventosId": "365320e5-6512-42cf-94f6-88551150b1ee"
+}

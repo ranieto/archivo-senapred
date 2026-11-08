@@ -1,0 +1,20 @@
+{
+	"id": "64ed7424-7b50-4195-88b8-27ebd4afc479",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de La Araucanía por calor intenso",
+	"fechaHora": "2026-01-05T10:40:54.5454-03:00",
+	"createdAt": "2026-01-05T13:42:14.028Z",
+	"updatedAt": "2026-01-05T13:43:12.995Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-la-araucania-por-calor-intenso-2026-01-01-13-58-26",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Alertamiento cancelado</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">Alerta AA1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Altas   temperaturas en valle y precordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED<strong>&nbsp;cancela la Alerta Amarilla Regional por calor intenso, </strong>que se mantenía vigente desde el 01 de enero.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Cabe señalar que se mantienen vigentes las Alertas Tempranas Preventivas por Calor y Amenaza de Incendios Forestales para la región.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

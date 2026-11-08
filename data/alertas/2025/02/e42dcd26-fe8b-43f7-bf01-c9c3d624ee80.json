@@ -1,0 +1,20 @@
+{
+	"id": "e42dcd26-fe8b-43f7-bf01-c9c3d624ee80",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Camarones por evento masivo",
+	"fechaHora": "2025-02-02T23:40:00.000-03:00",
+	"createdAt": "2025-02-03T02:47:56.181Z",
+	"updatedAt": "2025-02-03T02:49:06.290Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Camarones\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, ha finalizado el evento masivo denominado “</span><strong>EXPOAGROCAM”</strong><span style=\"color: black\">, que se realizó entre los días 31 de enero y 02 de febrero, en la comuna de Camarones.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Camarones</strong>, que se mantuvo vigente desde el 31 de enero de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

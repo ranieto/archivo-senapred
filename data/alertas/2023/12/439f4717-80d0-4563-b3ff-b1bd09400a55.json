@@ -1,0 +1,20 @@
+{
+	"id": "439f4717-80d0-4563-b3ff-b1bd09400a55",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva por evento masivo para la comuna de Arica",
+	"fechaHora": "2023-12-11T11:30:00.000-03:00",
+	"createdAt": "2023-12-11T15:10:23.253Z",
+	"updatedAt": "2023-12-11T15:16:15.962Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-arica-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Arica\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota</strong>, sin novedades finalizó la <strong>celebración religiosa Virgen de Las Peñas</strong>, la cual se realizó entre los días 06 y 10 de diciembre, en el poblado de Livicar, comuna de Arica, congregando alrededor de 30.000 personas.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, que implican una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva por evento masivo para la comuna de Arica</strong>, la cual se mantuvo vigente desde el 06 de diciembre de 2023. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

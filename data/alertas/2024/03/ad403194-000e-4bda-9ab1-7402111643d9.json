@@ -1,0 +1,20 @@
+{
+	"id": "ad403194-000e-4bda-9ab1-7402111643d9",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Provincias de Valparaíso y Marga Marga por incendio forestal",
+	"fechaHora": "2024-03-13T22:11:00.000-03:00",
+	"createdAt": "2024-03-14T16:03:01.269Z",
+	"updatedAt": "2024-03-17T00:48:48.540Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-5",
+	"parentId": "76b77de1-050e-4c20-93a4-083b9855302d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se informa el siguiente detalle respecto del incendio forestal “Cerro Cordillera”, en la comuna de Valparaíso:</span><br></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\">En consideración a estos antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para las Provincias de Valparaíso y Marga Marga, por incendio forestal, que se encuentra vigente desde el 02 de febrero de 2024.</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cerro Cordillera</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.0 hectáreas.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal Cerro Cordillera se mantiene en combate, con amenaza a viviendas.</p><p>Activación de mensajería SAE:</p><p>-21:36 horas evacuación del sector Chaparro Alto.</p><p>-21:49 horas evacuación de los sectores Santa María y Guillermo Bravo .</p><p>-21:52 horas evacuación de los sectores Chaparro y calle cantera.</p></td></tr></tbody></table></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

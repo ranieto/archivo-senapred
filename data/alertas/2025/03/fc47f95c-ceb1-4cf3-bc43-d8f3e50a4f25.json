@@ -1,0 +1,20 @@
+{
+	"id": "fc47f95c-ceb1-4cf3-bc43-d8f3e50a4f25",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para las comunas de Los Sauces y Lumaco por incendio forestal",
+	"fechaHora": "2025-03-24T21:19:00.000-03:00",
+	"createdAt": "2025-03-25T00:24:27.233Z",
+	"updatedAt": "2025-03-28T20:41:10.655Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-los-sauces-y-lumaco-por-incendio-forestal",
+	"parentId": "1dce44cd-8858-4e97-8851-731a2bdc8f59",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en las comunas de Los Sauces y Lumaco<strong>,&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Centenario</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Bajo observación</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>147 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio forestal se desarrolla cercano a zonas   pobladas, específicamente al sector Centenario.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para las comunas de Los Sauces y Lumaco</strong> por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

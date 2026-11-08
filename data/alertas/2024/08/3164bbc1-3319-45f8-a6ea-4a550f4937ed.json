@@ -1,0 +1,20 @@
+{
+	"id": "3164bbc1-3319-45f8-a6ea-4a550f4937ed",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Vilcún, Freire, Pitrufquén, Curacautín y Victoria por evento meteorológico",
+	"fechaHora": "2024-08-19T19:36:00.000-04:00",
+	"createdAt": "2024-08-19T23:38:00.717Z",
+	"updatedAt": "2024-08-19T23:39:07.158Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín, Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Vilcún, Freire, Pitrufquén, Curacautín, Victoria\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED La Araucaní</strong>a, y mediante los reportes de las distintas municipalidades de las provincias de Cautín y Malleco no se registran nueva afectación provocada por el sistema frontal que ingresó a la región en el presente mes.<br></p><p style=\"text-align:justify\">Cabe destacar que, SENAPRED continúa realizando gestiones en conjunto con la Delegación Presidencial Regional y Provincial para resolver la habitabilidad en los sectores afectados. </p><p style=\"text-align:justify\">Por otro lado, la Dirección Meteorológica de Chile (DMC), no prevé precipitaciones y vientos significativos en la región para los próximos días. </p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Roja por evento meteorológico para las comunas de Vilcún, Freire, Pitrufquén, Curacautín y Victoria,</strong> que se mantuvo vigente desde el 01 de agosto de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

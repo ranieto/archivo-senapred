@@ -1,0 +1,19 @@
+{
+	"id": "b8f78db5-2fba-4db4-bb0a-8b434236545f",
+	"type": "Evento",
+	"titulo": "Monitoreo por actividad del Volcán Descabezado Grande, comuna de San Clemente",
+	"fechaHora": "2023-10-09T08:13:00.000-03:00",
+	"createdAt": "2023-10-26T05:10:46.827Z",
+	"updatedAt": "2023-10-26T05:10:46.827Z",
+	"urlAccess": "monitoreo-por-actividad-del-volcan-descabezado-grande-comuna-de-san-clemente",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"San Clemente\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por OVDAS – SERNAGEOMIN, el Complejo Volcánico Descabezado Grande se encuentra en nivel de alerta técnica Verde[1].<br><br>Conforme a lo indicado en el Reporte Especial de Actividad Volcánica, emitido hoy 09 de octubre, las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Descabezado Grande registraron un sismo asociado tanto al fracturamiento de roca (Volcano Tectónico).<br><br>Las características del sismo luego de su análisis son las siguientes:</p><table><tbody><tr><td><div>Tiempo de origen</div></td><td><div>07:11 hora local.</div></td></tr><tr><td><div>Latitud</div></td><td><div>35,575° S.</div></td></tr><tr><td><div>Longitud</div></td><td><div>70,730° O.</div></td></tr><tr><td><div>Profundidad</div></td><td><div>4,8 kilómetros.</div></td></tr><tr><td><div>Magnitud local</div></td><td><div>3,3 M<sub>L</sub></div></td></tr></tbody></table><p>Al momento de emitir este reporte se registra una réplica de menor energia. En los parámetros de monitoreo no se observan cambios asociados al evento descrito. Por su parte, las imágenes obtenidas desde la Cámara IP no presentan actividad superficial.<br><br>Cabe señalar, que SERNAGEOMIN continuará con la vigilancia permanente del volcán y la Dirección Regional de SENAPRED Maule, mantendrá las coordinaciones con los integrantes del Sistema Regional de Prevención y Respuesta ante Desastres para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia producto de la condición volcánica.<br><br>[1] El volcán puede estar en un estado base que se caracteriza por un periodo de reposo o quietud, o registra actividad sísmica, fumarólica u otras manifestaciones de actividad en superficie que afectan fundamentalmente la zona más inmediata o próxima al centro de emisión, por ende una erupción probable, se podría desarrollar en un periodo de meses o años<br></p>",
+	"variableInformateEventosId": "30e6531a-0eaa-455c-a450-73188f31712d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "511d2886-ab8e-407c-bb95-7eb0d6c4942f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla Regional para la Región de O'Higgins por calor intenso",
+	"fechaHora": "2024-02-18T20:28:00.000-03:00",
+	"createdAt": "2024-02-18T23:50:19.205Z",
+	"updatedAt": "2024-02-18T23:50:43.114Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-ohiggins-por-calor-intenso-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), <strong>ha sido cancelado el siguiente alertamiento técnico para la Región de O’Higgins</strong>, debido al debilitamiento de las condiciones que lo originaron.</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico cancelado</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA13</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas extremas en cordillera de la costa, valle y   precordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Amarilla Regional por calor intenso,</strong> que se encontraba vigente desde el 16 de febrero.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

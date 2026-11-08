@@ -1,0 +1,20 @@
+{
+	"id": "3754f80a-989c-486d-a016-6715bbc34d78",
+	"type": "Alerta",
+	"titulo": "Se Cancela Alerta Amarilla para la Región de O´Higgins por calor intenso",
+	"fechaHora": "2025-01-30T14:23:00.000-03:00",
+	"createdAt": "2025-01-30T17:43:51.215Z",
+	"updatedAt": "2025-01-30T17:45:21.026Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-ohiggins-por-calor-intenso-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelada la alerta meteorológica AA7/2025 la que preveía un evento de altas temperaturas extremas en zonas de la región, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>Cancela la Alerta Amarilla Regional por calor intenso, </strong>que se mantuvo vigente desde el 27 de enero del 2025<strong>.</strong></span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

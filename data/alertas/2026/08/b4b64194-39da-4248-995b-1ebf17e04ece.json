@@ -1,0 +1,20 @@
+{
+	"id": "b4b64194-39da-4248-995b-1ebf17e04ece",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Atacama por evento meteorológico",
+	"fechaHora": "2026-08-19T15:22:23.2323-04:00",
+	"createdAt": "2026-08-19T19:23:24.385Z",
+	"updatedAt": "2026-08-19T19:24:44.854Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-2026-07-12-16-18-14",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama, debido al debilitamiento de las condiciones meteorológicas que los originaron:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA141-3</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en litoral de la Provincia de Chañaral.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA143</p></td><td><p style=\"text-align:justify\">Nevadas moderadas   en precordillera desde Inca de Oro al norte.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A421-3</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en litoral, cordillera de la costa, valle y pampa de la   región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A422-3</p></td><td><p style=\"text-align:justify\">Probables nevadas   en precordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A425-2</p></td><td><p style=\"text-align:justify\">Nevadas normales a   moderadas en cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A428</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas con probabilidad de precipitaciones fuertes en corto   periodo de tiempo en litoral, cordillera de la costa, valle, pampa y   precordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">Asimismo, la actualización del Aviso Meteorológico A388-11 por viento normal a moderado, no incorpora a la Región de Atacama en su cobertura.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por evento meteorológico</strong>, la cual se mantuvo vigente desde el 10 de agosto de 2026. </p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

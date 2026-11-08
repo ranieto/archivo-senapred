@@ -1,0 +1,20 @@
+{
+	"id": "847be744-5655-42eb-abba-dc46ceb98dbb",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de Florida por incendio forestal",
+	"fechaHora": "2024-01-30T15:49:45.4545-03:00",
+	"createdAt": "2024-01-30T18:51:12.902Z",
+	"updatedAt": "2024-02-01T21:29:54.050Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-florida-por-incendio-forestal",
+	"parentId": "5fc6a0f1-3812-41c3-b8ba-8c11666cd6e6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa el siguiente detalle respecto del incendio forestal</span> “<span style=\"color: black\">Casablanca VIII Región”, en la comuna de Florida:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Casablanca VIII Región</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>95 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio se   encuentra activo en la parte media alta, con intensidad alta y velocidad de propagación   rápida.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Comuna de Florida, por incendio forestal</strong>, que se encuentra vigente desde el 29 de enero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

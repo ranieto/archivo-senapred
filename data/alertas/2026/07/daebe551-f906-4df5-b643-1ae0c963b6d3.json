@@ -1,0 +1,20 @@
+{
+	"id": "daebe551-f906-4df5-b643-1ae0c963b6d3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Palena por heladas",
+	"fechaHora": "2026-07-28T15:21:00.000-04:00",
+	"createdAt": "2026-07-28T19:28:24.483Z",
+	"updatedAt": "2026-07-28T19:29:53.491Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-palena-por-heladas-2026-07-27-16-33-08",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Palena\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que los originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alarma AAA6</p></td><td><p style=\"text-align:justify\">Heladas   intensas a extremas en sector de patagonia subandina (-12 a -9°C).</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla para la Provincia de Palena por heladas</strong>, que se mantuvo vigente desde el 27 de julio del 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "eac3cbfd-311b-4fc6-98f9-52bd47176f06"
+}

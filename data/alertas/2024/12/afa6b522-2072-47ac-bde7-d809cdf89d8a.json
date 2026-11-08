@@ -1,0 +1,20 @@
+{
+	"id": "afa6b522-2072-47ac-bde7-d809cdf89d8a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2024-12-03T17:21:41.4141-03:00",
+	"createdAt": "2024-12-03T20:23:12.396Z",
+	"updatedAt": "2024-12-04T00:45:22.129Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-5",
+	"parentId": "71e0d103-b5ec-4109-b7fe-7b5a03ee88f5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la</strong><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que se registra en la comuna de Las Cabras, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">Los Quillayes</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En Trayecto</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.01   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td class=\"se-table-selected-cell\"><p style=\"text-align:justify\">Bomberos   de Las Cabras y Peumo, 3 brigadas, 1 aeronave, 1 helicóptero, 1 camión   aljibe, 1 maquinaria pesada, además del comunal de emergencia. </p><p style=\"text-align:justify\">3   brigadas están en trayecto.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observación</strong></p></td><td><p style=\"text-align:justify\">El   incendio se encuentra cercano a sectores poblados.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Las Cabras por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

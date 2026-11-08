@@ -1,0 +1,20 @@
+{
+	"id": "206bc354-15ae-4307-be63-a38e881f0cef",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Colina por incendio forestal",
+	"fechaHora": "2024-11-26T20:09:49.4949-03:00",
+	"createdAt": "2024-11-26T23:15:03.335Z",
+	"updatedAt": "2024-11-27T00:42:50.560Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-colina-por-incendio-forestal",
+	"parentId": "f8179afb-c400-4f9a-aa22-3eab1718531b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a lo reportado por CONAF , el incendio presenta comportamiento extremo , propulsado por vientos locales y topografía abrupta, con velocidad de propagación extrema y intensidad alta en el frente de avance. Además, presenta amenaza inminente a personas, viviendas, centros poblados y/o infraestructura crítica.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Rukán</div></td></tr><tr><td><div>Comuna&nbsp;</div></td><td><div>Colina</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>1</div></td></tr><tr><td><div>Recursos</div></td><td><div>1 brigada de Bomberos, 1 brigada CONAF, 2 técnicos CONAF, 2 aeronaves CONAF y 1 camión cisterna CONAF</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Colina por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad<br>del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

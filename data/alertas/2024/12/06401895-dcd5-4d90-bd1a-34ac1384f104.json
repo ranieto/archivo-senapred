@@ -1,0 +1,20 @@
+{
+	"id": "06401895-dcd5-4d90-bd1a-34ac1384f104",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Amarilla y declara Alerta Roja para la Comuna de Los Álamos por incendio forestal",
+	"fechaHora": "2024-12-22T10:57:00.000-03:00",
+	"createdAt": "2024-12-22T14:10:45.611Z",
+	"updatedAt": "2024-12-24T14:56:10.570Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-alamos-por-incendio-forestal",
+	"parentId": "4b542151-5a19-4c85-95e5-a7185356dd47",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Los Álamos\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), <span style=\"font-size: 16px\">En combate </span>se encuentra el incendio forestal denominado <span style=\"font-size: 16px\">\"</span><span style=\"font-size: 16px\">PELAHUENCO V” </span>el cual consume una superficie de <span style=\"font-size: 16px\">200 </span>hectáreas de vegetación en la comuna Los Álamos.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la Alerta Amarilla y declara Alerta Roja para la Comuna de Los Álamos por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p><p style=\"text-align:justify\">Respecto al incendio forestal en la comuna de Los Álamos se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>PELAHUENCO   V</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   combate</p></td></tr><tr><td><p><strong>Hectáreas</strong></p></td><td><p>200</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos   Los Álamos / Acuartelados, 2 Brigadas CONAF, 3 ARAUCO, 1 Técnicos Supervisores   Empresa Arauco, 2 CONAF, 2 Aviones Arauco, 2 Helitransportadas y 1   Coordinación.</p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

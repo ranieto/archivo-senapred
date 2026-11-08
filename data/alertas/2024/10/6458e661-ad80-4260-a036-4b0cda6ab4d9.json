@@ -1,0 +1,20 @@
+{
+	"id": "6458e661-ad80-4260-a036-4b0cda6ab4d9",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por remoción en masa",
+	"fechaHora": "2024-10-09T13:58:40.4040-03:00",
+	"createdAt": "2024-10-09T17:00:32.223Z",
+	"updatedAt": "2024-11-21T10:44:59.638Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "1e8d86c7-9008-4b9a-a296-181df11d744f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota</strong>, respecto a los continuos deslizamientos en la Cuesta Chinchorro y las zonas de talud con alta susceptibilidad de remoción en masa, se informa que ha sido habilitada una pista de sur a norte para el tránsito vehicular hacia la ciudad de Arica. No obstante, continúan los trabajos de despeje de la ruta.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por remoción en masa,</strong> la que se mantiene vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Continúa trabajando en el lugar Carabineros y personal del Ministerio de Obras Públicas.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "b82ea35e-0f98-4bfd-904f-f6ca5a5221ea"
+}

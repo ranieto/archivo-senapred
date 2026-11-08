@@ -1,0 +1,20 @@
+{
+	"id": "5b0ba50e-5b99-46ea-bc86-6bd0f3a0eea8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Purén por incendio forestal",
+	"fechaHora": "2025-01-30T13:23:00.000-03:00",
+	"createdAt": "2025-01-30T16:28:38.005Z",
+	"updatedAt": "2025-01-31T01:04:59.741Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puren-por-incendio-forestal-3",
+	"parentId": "76e011cb-fe66-44ee-a81a-5014646ff812",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Purén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>respecto del incendio forestal que se encuentra en la comuna dePurénse reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Pangueco Alto</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">0.01 hectáreas</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">Bomberos de Púren, 3 Brigadas CONAF, 2 Técnicos CONAF, 2 Aviones cisternas CONAF y 1 Camión cisterna CONAF.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Purén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "53cc2604-a5e7-4f53-833e-cedd55ea303a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Pudahuel por incendio forestal",
+	"fechaHora": "2024-11-28T15:45:00.000-03:00",
+	"createdAt": "2024-11-28T18:50:31.342Z",
+	"updatedAt": "2024-11-28T22:52:33.378Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pudahuel-por-incendio-forestal-2",
+	"parentId": "13a3ea3a-0c35-4d39-b2ba-77d1516fc526",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pudahuel\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Pudahuelse informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Lomas de Lo Aguirre</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>15 hectárea</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>En combate se encuentra el incendio   forestal denominado Lo Aguirre, el cual afecta al momento 15&nbsp;hectáreas   de vegetación en la comuna de Pudahuel.</p><p>Según lo indicado por CONAF el   incendio presenta peligro de propagación a cercanía de viviendas en el frente   de avance.</p></td></tr></tbody></table><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Pudahuel por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><br>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo&nbsp;adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad<br>del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

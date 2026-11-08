@@ -1,0 +1,20 @@
+{
+	"id": "c8c46a3d-bff2-4b7e-aed6-c8d92eac2391",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Roja para la comuna de Carahue por amenaza de desborde",
+	"fechaHora": "2024-06-27T20:55:00.000-04:00",
+	"createdAt": "2024-06-28T00:56:41.504Z",
+	"updatedAt": "2024-07-05T17:05:23.273Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-carahue-por-amenaza-de-desborde-2",
+	"parentId": "927af031-bc1a-4ab3-8314-742db3ddc776",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Carahue\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red hidrométrica “Río Damas” en la comuna de Carahue, ha sobrepasado los valores del umbral de Alerta Roja.<br></p><p style=\"text-align:justify\">Por otro lado, se informa que la estación de red hidrométrica “Río Imperial” en la comuna de Carahue se mantiene en el umbral de Alerta Roja.</p><p style=\"text-align:justify\">Cabe destacar que, esta situación de los caudales en aumento puede producir daños en sectores poblados e infraestructura, requiriendo acciones de mitigación y prevención tales como evacuaciones y disponibilidad de recursos humanos y materiales.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Roja por amenaza de desborde para la comuna de Carahue,</strong> que se mantienevigente desde hoy 27 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

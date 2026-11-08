@@ -1,0 +1,29 @@
+{
+	"id": "c212e9fe-ea0a-4eda-8e67-4ad6cd31a65d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Biobío y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-12-26T02:06:26.542Z",
+	"updatedAt": "2024-12-28T01:48:56.102Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Atacama, Región de Coquimbo, Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región del Maule, Región del Biobío, Región de Arica y Parinacota, Región de Ñuble\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p>El <strong>Centro Meteorológico Marítimo Regional de Valparaíso</strong>, dependiente de la Gobernación Marítima de Valparaíso, informa que producto de un sistema frontal que afectará entre Arica y el Golfo de Arauco, incluyendo al Archipiélago Juan Fernández, se proyectan condiciones de mar como marejadas anormales del Noroeste, según el siguiente detalle:</p><p><strong>Arica hasta Caldera</strong>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : viernes 27 de diciembre (AM).</p><p><strong>Caldera hasta Coquimbo</strong>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : viernes 27 de diciembre (PM).</p><p><strong>Coquimbo hasta Constitución</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : sábado 28 de diciembre (AM).</p><p><strong>Constitución hasta Golfo de Arauco</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : sábado 28 de diciembre (PM).</p><p><strong>Archipiélago de Juan Fernández</strong>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : sábado 28 de diciembre (PM).</p><p>Esta condición se mantendrá hasta el martes 31 de diciembre entre Arica y el Golfo de Arauco incluyendo al Archipiélago de Juan Fernández.</p><p>En consideración a estos antecedentes, SENAPRED <strong>declara Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Biobío y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales</strong>, vigente a partir de hoy y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

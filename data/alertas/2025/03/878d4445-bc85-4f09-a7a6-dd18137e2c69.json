@@ -1,0 +1,20 @@
+{
+	"id": "878d4445-bc85-4f09-a7a6-dd18137e2c69",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura y variable de Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta y Taltal por Tormentas Eléctricas ",
+	"fechaHora": "2025-03-12T17:50:43.4343-03:00",
+	"createdAt": "2025-03-12T20:55:06.589Z",
+	"updatedAt": "2025-03-14T18:50:47.993Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico",
+	"parentId": "44599360-5dc3-437c-8fe1-4f0a943fe9c1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><span style=\"color: black !important\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:</span></p><div><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black !important\">Alertamiento</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black !important\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black !important\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black !important\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">A20-20</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas en precordillera, precordillera salar y cordillera.</p></td><td><p style=\"text-align: center\">10-03</p></td><td><p style=\"text-align: center\">13-03</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color: black !important\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED&nbsp;<strong>modifica cobertura y variable de la Alerta Temprana Preventiva</strong><strong>a Tormentas Eléctricas para la Provincia de El Loa y comunas de Antofagasta y Taltal</strong>, que se mantiene vigente desde el 22 de febrero de 2025 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black !important\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><em>SENAPRED<strong>&nbsp;</strong>recomienda a la población permanecer en un lugar seguro y evitar salir, a menos que sea absolutamente necesario; evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta.</em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "21a064ee-8e85-46dd-9cda-07c8de4b55f4",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Antofagasta",
+	"fechaHora": "2024-07-18T21:54:16.1616-04:00",
+	"createdAt": "2024-07-19T01:55:02.754Z",
+	"updatedAt": "2024-07-19T01:58:11.060Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-antofagasta-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 21:51 horas en la Región de Antofagasta.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Antofagasta:   </p></td><td><p>VI</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "bb760fbc-b32f-4762-98b4-3fb1b9fc9639",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarila para la comuna de Litueche por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-12-23T18:20:43.657Z",
+	"updatedAt": "2025-12-23T18:23:09.441Z",
+	"urlAccess": "se-declara-alerta-amarila-para-la-comuna-de-litueche-por-incendio-forestal-2025-12-23-15-20-28",
+	"parentId": "7efb67a7-6d50-4f3f-b7a8-b980d986654e",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Litueche\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf y el SINAPRED, </span></strong><span style=\"color: black\">respecto al incendio forestal en la <strong>comuna de Litueche </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Central   Rapel</p></td></tr><tr><td><p><strong>Estado </strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4 [ha]</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 Brigadas   terrestres, 2 Técnicos, 2 helicópteros de Conaf, 2 aviones Cisterna Conaf y 1   puesto de mando.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>De acuerdo   con información técnica proporcionada por Conaf, incendio forestal se   encuentra cercano a línea de alta tensión de la empresa Transelec, ubicada en   el sector Subestación Rapel.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\"><br></span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Litueche por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p></p><p><span style=\"font-size:14px;color:#2E2E2E\"><br></span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

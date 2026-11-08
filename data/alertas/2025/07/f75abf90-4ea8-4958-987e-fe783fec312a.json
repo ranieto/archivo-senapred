@@ -1,0 +1,20 @@
+{
+	"id": "f75abf90-4ea8-4958-987e-fe783fec312a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso, a excepción de la Provincia de Isla de Pascua y comuna de Juan Fernández por evento meteorológico",
+	"fechaHora": "2025-07-29T19:11:39.3939-04:00",
+	"createdAt": "2025-07-29T23:24:00.614Z",
+	"updatedAt": "2025-08-03T21:23:11.668Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-a-excepcion-de-la-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-evento-meteorologico",
+	"parentId": "c99320d3-802c-4b72-ab56-5b7222374026",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Los Andes, Petorca, Quillota, San Antonio, San Felipe de Aconcagua, Marga Marga\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Concón, Casablanca, Valparaíso, Puchuncaví, Quintero, Viña del Mar, Los Andes, Calle Larga, Rinconada, San Esteban, La Ligua, Cabildo, Papudo, Petorca, Zapallar, Quillota, La Calera, Hijuelas, La Cruz, Nogales, San Antonio, Cartagena, Algarrobo, El Quisco, Santo Domingo, El Tabo, San Felipe, Catemu, Llaillay, Putaendo, Panquehue, Santa María, Quilpué, Limache, Olmué, Villa Alemana\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A283-2</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en sectores de litoral y cordillera de la región.</p></td><td><p style=\"text-align:center\">30-07</p></td><td><p style=\"text-align:center\">31-07</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A287-3</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderada en sectores de litoral, cordillera de la costa,   precordillera y valles precordilleranos de la región.</p></td><td><p style=\"text-align:center\">30-07</p></td><td><p style=\"text-align:center\">01-08</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva regional por evento meteorológico, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

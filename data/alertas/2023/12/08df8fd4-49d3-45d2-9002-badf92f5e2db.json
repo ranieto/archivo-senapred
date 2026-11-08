@@ -1,0 +1,20 @@
+{
+	"id": "08df8fd4-49d3-45d2-9002-badf92f5e2db",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2023-12-10T13:07:36.3636-03:00",
+	"createdAt": "2023-12-10T16:08:34.936Z",
+	"updatedAt": "2023-12-14T23:40:58.546Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal",
+	"parentId": "42ac9bbb-5be6-4eaa-9041-f0f9a4198d75",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Las Cabras\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto del incendio forestal que se desarrolla en la comuna de Las Cabras, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las Ánimas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna afectada</strong></p></td><td><p style=\"text-align:justify\">Las Cabras.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">52,5 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Las Cabras por incendio forestal,</strong> vigente a contar de hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><span style=\"color:black\">Los recursos que trabajan al momento son:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">CONAF</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">3   brigadas, 1 técnico y 2 camiones aljibe.</span></p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

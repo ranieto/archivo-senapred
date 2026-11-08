@@ -1,0 +1,20 @@
+{
+	"id": "8a62d863-3924-4585-8467-877565735697",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de O'Higgins por calor extremo ",
+	"fechaHora": "2025-01-13T10:21:41.4141-03:00",
+	"createdAt": "2025-01-13T13:23:10.907Z",
+	"updatedAt": "2025-01-13T13:23:21.540Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-ohiggins-por-calor-intenso-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins:</p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Alerta AA3</p></td><td><p style=\"text-align: justify\">Evento de altas temperaturas extremas en cordillera de la costa, valle y precordillera.</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A9-2</p></td><td><p style=\"text-align: justify\">Altas temperaturas en litoral, cordillera de la costa, valle y precordillera.</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Roja Regional por calor extremo</strong>, que se mantuvo vigente desde el 10 de enero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

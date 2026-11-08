@@ -1,0 +1,20 @@
+{
+	"id": "28fedde8-3fd2-4479-8fc2-3beb2954f53f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Chaitén por incendio forestal",
+	"fechaHora": "2024-01-05T01:42:44.4444-03:00",
+	"createdAt": "2024-01-05T04:44:10.563Z",
+	"updatedAt": "2024-01-05T23:46:50.171Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chaiten-por-incendio-forestal",
+	"parentId": "87180054-e0a8-4334-add5-44eafcee4af2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Palena\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chaitén\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto de la situación forestal en la comuna de Chaitén, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Parque Nacional Pumalín</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,02 hectáreas.</p></td></tr></tbody></table></div><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Playa</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Bajo Observación</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,01 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal se encuentra activo a menos de 2.000 metros del área protegida del   Parque Nacional Pumalín Douglas Tompkins.</p></td></tr></tbody></table></div><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Termas de Porcelana</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Bajo Observación</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,01 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal se encuentra activo a menos de 2.000 metros del área protegida del   Parque Nacional Pumalín Douglas Tompkins.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional Los Lagos, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Roja para la comuna de Chaitén por incendio forestal</strong>, vigente desde el 04 de enero de 2024 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la actualización de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

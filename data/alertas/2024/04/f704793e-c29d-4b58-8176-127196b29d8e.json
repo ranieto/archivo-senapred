@@ -1,0 +1,20 @@
+{
+	"id": "f704793e-c29d-4b58-8176-127196b29d8e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-04-19T18:49:02.022-04:00",
+	"createdAt": "2024-04-19T22:50:10.131Z",
+	"updatedAt": "2024-04-20T21:59:51.602Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-7",
+	"parentId": "39baea9e-b087-4c6c-8628-78cc4c79fc72",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo <strong>con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> Controlado se encuentra el incendio forestal denominado \" Alto El Puerto\", el cual consume una superficie de 1 hectárea de vegetación en el sector La Pólvora, comuna de Valparaíso.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de <strong>SENAPRED cancela la Alerta Roja y declara Alerta Amarilla</strong> para la Comuna de Valparaíso por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "5b211f3a-5188-47e4-94f5-b21f013f405c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva por evento masivo para la comuna de La Serena",
+	"fechaHora": "2024-09-01T08:39:25.2525-04:00",
+	"createdAt": "2024-09-01T12:40:27.184Z",
+	"updatedAt": "2024-09-01T12:41:14.140Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-masivo-para-la-comuna-de-la-serena-por-evento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"La Serena\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Coquimbo</strong>, respecto al desarrollo del evento masivo denominado “Verbena 2024”, en la comuna de La Serena, se informa que finalizó sin reportarse novedades de emergencias.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de La Serena,</strong> que se mantuvo vigente desde el 28 de agosto de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

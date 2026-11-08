@@ -1,0 +1,20 @@
+{
+	"id": "8a8e6c54-bd98-4981-8d8d-3e7b717cf3e4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la comuna de Concepción por desborde",
+	"fechaHora": "2024-06-11T22:02:00.000-04:00",
+	"createdAt": "2024-06-12T02:13:00.753Z",
+	"updatedAt": "2024-06-12T02:42:29.770Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-amenaza-de-desborde",
+	"parentId": "cc773f36-57d3-464a-9c93-48c6b4629766",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Concepción\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, mediante su sistema de reporte en línea de las estaciones hidrométricas, se indica que la estación “Río Andalién antes de Ex Peaje Chaimavida”, en la comuna de Concepción, se encuentran en umbral de Alerta Roja con tendencia a subida.<br></p><p style=\"text-align:justify\">Adicionalmente, según lo indicado por la Dirección Meteorológica de Chile (DMC), se prevé que continúen las precipitaciones intensas en corto periodo de tiempo en la comuna.</p><p style=\"text-align:justify\">Cabe señalar, que a las 18:55 horas de hoy, se activó la mensajería SAE, para apoyar la evacuación del sector Puente 1 de la Ruta N-48 por amenaza de desborde del Río Andalién.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Roja por desborde para la comuna de Concepción, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\">Cabe señalar que producto de lo anterior, se <span style=\"color:black\">cancela la Alerta Amarilla comunal por amenaza de desborde, que se mantuvo vigente desde hoy 11 de junio de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

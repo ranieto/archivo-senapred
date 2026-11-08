@@ -1,0 +1,20 @@
+{
+	"id": "510a89cf-ecda-4e23-a500-1bd80bf49f95",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Pumanque por incendio forestal",
+	"fechaHora": "2024-01-22T15:29:24.2424-03:00",
+	"createdAt": "2024-01-22T18:30:43.282Z",
+	"updatedAt": "2024-01-22T22:23:43.019Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pumanque-por-incendio-forestal",
+	"parentId": "f2e86ef4-74f8-4af8-acb7-42dca3c08be6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"</span><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Las Barrancas\"</span>, en la comuna de Pumanque, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Las Barrancas</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.59 hectárea</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Incendio se desarrolla cercano a sectores   habitados.</span></p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a <strong>la información técnica proporcionada por CONAF</strong>, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la Comuna de Pumanque por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color:#2E2E2E\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

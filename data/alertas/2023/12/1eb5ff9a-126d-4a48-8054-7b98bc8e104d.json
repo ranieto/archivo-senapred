@@ -1,0 +1,20 @@
+{
+	"id": "1eb5ff9a-126d-4a48-8054-7b98bc8e104d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Graneros por evento masivo",
+	"fechaHora": "2023-12-09T11:09:55.5555-03:00",
+	"createdAt": "2023-12-09T14:10:47.366Z",
+	"updatedAt": "2023-12-09T19:03:19.026Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-graneros-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED O’Higgins</strong>, ha finalizado la fiesta religiosa “Inmaculada Concepción de la Compañía” que se realizó en el santuario ubicado en el sector La Compañía, comuna de Graneros, donde se reunieron cerca de 150.000 personas.<br></p><p style=\"text-align:justify\">Cabe señalar, que no se reportaron situaciones de emergencias derivadas de este evento. </p><p style=\"text-align:justify\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de O'Higgins, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva </strong>para la comuna de Graneros por evento masivo, que se mantuvo vigente desde el 07 de diciembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

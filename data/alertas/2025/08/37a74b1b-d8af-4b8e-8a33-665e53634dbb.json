@@ -1,0 +1,20 @@
+{
+	"id": "37a74b1b-d8af-4b8e-8a33-665e53634dbb",
+	"type": "Alerta",
+	"titulo": "Se ancela Alerta Amarilla para la comuna de Los Ángeles por crecida",
+	"fechaHora": "2025-08-01T08:50:00.000-04:00",
+	"createdAt": "2025-08-04T11:30:49.632Z",
+	"updatedAt": "2025-08-04T11:31:11.711Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-desborde-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA), en sus estaciones hidrométricas monitoreadas en línea, se indica que la estación “Estero Paillihue en ruta Ex. Long. Sur”, comuna de Los Ángeles, </span><strong>se encuentra con tendencia a la baja</strong><span style=\"color: black\">.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la comuna</strong></span><strong><span style=\"color:black\"> de Los Ángeles por crecida</span></strong><span style=\"color:black\">,que se mantuvovigente desde el 31 de julio de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "317050fc-e8d8-468d-a1f9-15db332e0cae",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
+	"fechaHora": "2024-02-23T23:44:00.000-03:00",
+	"createdAt": "2024-02-24T02:55:39.826Z",
+	"updatedAt": "2024-02-24T02:56:36.650Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui, Choapa, Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel, Salamanca\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A45/2024, el cual pronosticaba probables tormentas eléctricas, con precipitaciones aisladas en los sectores de precordillera, valles precordilleranos y cordillera de la Región de Coquimbo. Lo anterior, debido al debilitamiento de las condiciones que la originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva por tormentas eléctricas,</strong> para las comunas de Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca, la que se mantuvo vigente desde el 23 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

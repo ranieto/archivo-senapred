@@ -1,0 +1,20 @@
+{
+	"id": "58a7d2ba-df4b-460b-9efa-b2f662b399a8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2023-12-26T09:17:32.3232-03:00",
+	"createdAt": "2023-12-26T12:18:23.129Z",
+	"updatedAt": "2023-12-26T12:19:35.048Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A475/2023, que pronosticó la ocurrencia de viento normal a moderado en el sector de Pampa Patagónica Sur de la región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución de la amenaza asociada a la dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego, por viento</strong>, que se mantuvo vigente desde el 23 de diciembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "791136c0-c786-4d92-b5d6-92776ab26358",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Paihuano por incendio forestal",
+	"fechaHora": "2023-11-19T19:56:12.1212-03:00",
+	"createdAt": "2023-11-19T22:57:40.928Z",
+	"updatedAt": "2023-11-19T22:57:59.854Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-paihuannio-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal en la comuna de Paihuano se detalla lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cochiguaz</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5 hectáreas</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la alerta amarilla para la comuna de Paihuano por incendio forestal</strong>, que se encontraba vigente desde hoy 19 de noviembre.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

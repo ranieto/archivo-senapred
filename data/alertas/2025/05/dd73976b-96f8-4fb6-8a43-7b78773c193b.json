@@ -1,0 +1,20 @@
+{
+	"id": "dd73976b-96f8-4fb6-8a43-7b78773c193b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
+	"fechaHora": "2025-05-30T10:55:00.000-04:00",
+	"createdAt": "2025-05-30T15:01:15.972Z",
+	"updatedAt": "2025-05-30T15:02:01.464Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p><strong>El Centro Meteorológico Marítimo Regional de Valparaíso, dependiente de la Gobernación Marítima de Valparaíso</strong>, informa que han finalizado las condiciones meteorológicas en elsector oceánico, que se proyectaron como marejadas anormalespara la provincia de Isla de Pascua.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong><strong>por marejadas anormales</strong><strong>para la Provincia de Isla de Pascua,</strong> que se mantuvo vigente desde el 24 de mayo de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

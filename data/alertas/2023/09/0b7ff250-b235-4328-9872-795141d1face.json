@@ -1,0 +1,20 @@
+{
+	"id": "0b7ff250-b235-4328-9872-795141d1face",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+	"fechaHora": "2023-09-08T23:20:00.000-03:00",
+	"createdAt": "2023-09-09T02:28:17.172Z",
+	"updatedAt": "2023-09-21T19:07:37.482Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico",
+	"parentId": "bd26fad6-5056-40fa-9b26-4ff5d31259e9",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Iquique\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Iquique\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se mantienen vigentes los siguientes Avisos Meteorológicos para la Región de O’Higgins:</p><table><tbody><tr><td><p><strong>Aviso A349-1</strong></p></td><td><p>Precipitaciones normales a moderadas en sectores de precordillera y cordillera, entre la mañana del sábado 09 hasta la mañana del lunes 11 de septiembre.</p></td></tr><tr><td><p><strong>Aviso A352</strong></p></td><td><p>Viento normal a moderado desde la madrugada del viernes 08 y hasta la noche del domingo 10 de septiembre en el sector de cordillera.</p></td></tr></tbody></table><p>Asimismo, según lo indicado por la DMC, se estiman los siguientes montos de precipitaciones (mm) y altitud de la isoterma 0°C (m.s.n.m.) para la región:</p><table><tbody><tr><td><p><strong>Sector</strong></p></td><td><p><strong>Viernes 08</strong></p></td><td><p><strong>Sábado 09</strong></p></td><td><p><strong>Domingo 10</strong></p></td></tr><tr><td><p><strong>Litoral</strong></p></td><td><p>-</p></td><td><p>5 a 10</p></td><td><p>10 a 15</p></td></tr><tr><td><p><strong>Cordillera de la costa</strong></p></td><td><p>-</p></td><td><p>10 a 15</p></td><td><p>10 a 20</p></td></tr><tr><td><p><strong>Valle longitudinal</strong></p></td><td><p>-</p></td><td><p>10 a 20</p></td><td><p>10 a 24</p></td></tr><tr><td><p><strong>Precordillera</strong></p></td><td><p>1 a 5</p></td><td><p>15 a 25</p></td><td><p>35 a 40</p></td></tr><tr><td><p><strong>Cordillera</strong></p></td><td><p>10 a 15 cm</p></td><td><p>50 a 60 cm</p></td><td><p>40 a 55 cm</p></td></tr><tr><td><p><strong>Isoterma 0°C (m.s.n.m.)</strong></p></td><td><p>2.600 – 2.100 – 2.800</p></td><td><p>2.700 – 2.200 – 2.600</p></td><td><p>2.600 – 2.000</p></td></tr></tbody></table><p>Nota: el pronóstico de precipitaciones considera un periodo de 24 horas, con corte a las 09:00 horas del día siguiente.</p><p>Adicionalmente, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por Peligro de Remoción en Masa, indica que la posibilidad de ocurrencia de aluviones (flujo de detritos) y derrumbes (deslizamientos, caídas de rocas) es <strong>moderada</strong> en los sectores del litoral, cordillera de la costa y valle; <strong>alta</strong> en precordillera; y <strong>baja</strong> para el sector cordillerano de la Región de O’Higgins.</p><p>En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva regional </strong>por evento meteorológico, que se encuentra vigente desde el 31 de agosto de 2023.</p><p>La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "73e99268-6517-4612-9f7d-27ea545c5e7c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Licantén por crecida",
+	"fechaHora": "2026-07-20T02:21:21.2121-04:00",
+	"createdAt": "2026-07-20T06:23:01.736Z",
+	"updatedAt": "2026-07-20T06:24:25.772Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-licanten-por-crecida-2026-07-18-17-20-52",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica <strong>Rio Mataquito en Licantén ubicada en pasarela peatonal, ex puente Escalones,</strong> comuna de Licantén, indica que se encuentra con valores estables en su caudal, manteniéndose con valores de <strong>umbral verde</strong>, lo que supone una disminución del riesgo para la población cercana a este curso de agua.</span></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por crecida para la comuna de Licantén</strong>, que se mantuvo vigente desde el 18 de julio de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

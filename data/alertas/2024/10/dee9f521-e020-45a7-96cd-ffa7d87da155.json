@@ -1,0 +1,20 @@
+{
+	"id": "dee9f521-e020-45a7-96cd-ffa7d87da155",
+	"type": "Alerta",
+	"titulo": "Se modifica variable y cobertura a Alerta Temprana Preventiva para las comunas de La Higuera, La Serena, Coquimbo, Ovalle, Canela y Los Vilos por viento",
+	"fechaHora": "2024-10-24T09:38:20.2020-03:00",
+	"createdAt": "2024-10-24T12:39:24.388Z",
+	"updatedAt": "2024-10-27T03:10:49.705Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-4",
+	"parentId": "fe19cd7f-b937-4265-8a74-5a4492598a99",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>&nbsp;indica que han sido cancelados los siguientes alertamientos meteorológicos para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que los originaron.</p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso 395-2</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas preferentemente durante la tarde-noche, con precipitaciones aisladas en cordillera.</p></td></tr><tr><td><p style=\"text-align: center\">Aviso 396</p></td><td><p style=\"text-align: justify\">Viento normal a moderado en cordillera.</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">Sin embargo, la </span><strong><span style=\"color: black\">DMC </span></strong><span style=\"color: black\">mantiene el siguiente alertamiento meteorológico para la Región de Coquimbo:</span></p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso 397</p></td><td><p style=\"text-align: justify\">Viento normal a moderado en el sector litoral de la región.</p></td><td><p style=\"text-align: center\">25-10</p></td><td><p style=\"text-align: center\">25-10</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED&nbsp;<strong>modifica variable y cobertura a Alerta Temprana Preventiva para las comunas de La Higuera, La Serena, Coquimbo, Ovalle, Canela y Los Vilos por viento,&nbsp;</strong>que se encuentra vigente desde el 22 de octubre de 2024 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><a name=\"x__Hlk124948893\"></a></p><p style=\"text-align: justify\"><span style=\"color: black\">La modificación de variable y cobertura de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

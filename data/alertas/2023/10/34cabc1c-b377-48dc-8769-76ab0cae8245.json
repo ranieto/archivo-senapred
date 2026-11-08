@@ -1,0 +1,20 @@
+{
+	"id": "34cabc1c-b377-48dc-8769-76ab0cae8245",
+	"type": "Alerta",
+	"titulo": "Esto va a ir entre medio",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-23T23:03:22.505Z",
+	"updatedAt": "2023-10-23T23:11:48.723Z",
+	"urlAccess": "demostracion-creacion-alerta",
+	"parentId": "0095cc5b-9943-484c-8983-540c30176a31",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue, Chiloé\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Puerto Montt, Calbuco, Fresia, Cochamó, Frutillar\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>Algo</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "b82ea35e-0f98-4bfd-904f-f6ca5a5221ea"
+}

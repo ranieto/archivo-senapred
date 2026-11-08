@@ -1,0 +1,19 @@
+{
+	"id": "b1f99fec-6f52-4bc8-ab87-338e32ee87b5",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de La Araucanía",
+	"fechaHora": "2024-01-28T04:39:10.1010-03:00",
+	"createdAt": "2024-01-28T07:40:43.214Z",
+	"updatedAt": "2024-01-28T07:43:03.736Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-la-araucania-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 04:36 horas en la Región de La Araucanía.<br></p><p>Las intensidades en escala de Mercalli son las siguientes:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Padre   las Casas: </p></td><td><p>IV</p></td></tr><tr><td><p>Temuco:   </p></td><td><p>IV</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

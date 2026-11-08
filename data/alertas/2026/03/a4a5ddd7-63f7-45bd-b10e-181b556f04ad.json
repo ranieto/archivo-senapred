@@ -1,0 +1,20 @@
+{
+	"id": "a4a5ddd7-63f7-45bd-b10e-181b556f04ad",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la comuna de La Serena por evento masivo",
+	"fechaHora": "2026-03-17T17:04:28.2828-03:00",
+	"createdAt": "2026-03-17T20:06:20.791Z",
+	"updatedAt": "2026-03-22T15:14:26.996Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-la-serena-por-evento-masivo-2026-03-17-17-06-02",
+	"parentId": "e63532dd-7311-416c-b790-801e5889c462",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"La Serena\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Coquimbo, durante el día 21 de marzo, se desarrollará el evento masivo denominado&nbsp;</span><strong>“Día de la Mujer 2026”,&nbsp;</strong><span style=\"color: black\">el cual se llevará a cabo en el sector de Plaza de Armas de la comuna, esperando una concurrencia de 5.000 personas aproximadamente, lo que supone un aumento de la vulnerabilidad frente a las distintas variables de riesgo.</span></p><p style=\"text-align: justify\">Producto de estos antecedentes, se generó un Plan de Contingencia Municipal, donde se establecen las coordinaciones preventivas para el desarrollo de dicho evento.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED&nbsp;<strong>declara Alerta Temprana Preventiva por evento masivo para la comuna de La Serena</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

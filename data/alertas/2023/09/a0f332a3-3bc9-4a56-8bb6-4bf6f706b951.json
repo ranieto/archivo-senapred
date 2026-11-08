@@ -1,0 +1,20 @@
+{
+	"id": "a0f332a3-3bc9-4a56-8bb6-4bf6f706b951",
+	"type": "Alerta",
+	"titulo": "prueba 1",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-23T10:14:17.683Z",
+	"updatedAt": "2023-09-24T09:02:08.809Z",
+	"urlAccess": "prueba-1",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>vvvvvvvvvvvvvvvvvvvvvv</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

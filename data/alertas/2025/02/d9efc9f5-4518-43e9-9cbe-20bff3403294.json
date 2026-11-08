@@ -1,0 +1,20 @@
+{
+	"id": "d9efc9f5-4518-43e9-9cbe-20bff3403294",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Lebu por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-02-14T02:41:22.071Z",
+	"updatedAt": "2025-02-14T03:11:43.673Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lebu-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Lebu,&nbsp;</strong>se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>632 - MILLONGUE<br></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En trayecto</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 brigadas y 1 técnico CONAF</p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Lebu por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b0356980-a02d-4347-b9f3-b997ba378454",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región del Maule por evento meteorológico",
+	"fechaHora": "2023-09-11T19:51:00.000-03:00",
+	"createdAt": "2023-09-11T22:57:06.350Z",
+	"updatedAt": "2023-10-26T01:37:26.095Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-region-del-maule-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule, debido a las precipitaciones registradas en la región, se reportan los siguientes antecedentes:</p><table><tbody><tr><td><p><strong><span style=\"color:black\">Afectación a personas</span></strong></p></td><td><p style=\"text-align:justify\"><strong><u>Comuna de Romeral</u></strong></p><p style=\"text-align:justify\">-   125 personas aisladas, producto de la crecida del río Guaiquillo.</p></td></tr><tr><td><p><strong><span style=\"color:black\">Daños a viviendas e infraestructura</span></strong></p></td><td><p style=\"text-align:justify\"><strong><u>Comuna de Pelluhue</u></strong></p><p style=\"text-align:justify\">-   1 vivienda con daños en evaluación, producto de una remoción en masa en el   sector Vista Hermosa. Debido a esto, 7 personas (moradores de viviendas   aledañas) fueron evacuadas de manera preventiva del lugar y trasladadas a   casas de vecinos.</p><p style=\"text-align:justify\">-   1 vivienda (segunda residencia) con daños en evaluación, producto de una   remoción en masa en el sector Curanipe.</p><p style=\"text-align:justify\">-   Colapso de un recolector de aguas lluvias mantiene involucrados a 6 locales   comerciales. Personal municipal se encuentra realizando el correspondiente   catastro de afectación.</p><p style=\"text-align:justify\">-   5 viviendas con daños en evaluación debido a desprendimiento de techumbre,   sector Lovalven.</p><p style=\"text-align:justify\">-   3 viviendas con daños en evaluación producto de remoción en masa en el sector   Curanipe, población Las Dunas.</p><p style=\"text-align:justify\"><strong><u>Comuna de Cauquenes</u></strong></p><p style=\"text-align:justify\">-   3ra Compañía del Cuerpo de Bomberos de Cauquenes con daños en evaluación.</p><p style=\"text-align:justify\"><strong><u>Comuna de Colbún</u></strong></p><p style=\"text-align:justify\">-   7 viviendas con daños en evaluación producto de desprendimiento de techumbre   en Callejón Los Carrascos, los residentes de las viviendas fueron derivadas a   viviendas de familiares.</p></td></tr><tr><td><p><strong><span style=\"color:black\">Otros incidentes</span></strong></p></td><td><p style=\"text-align:justify\"><strong><u>Comuna de Hualañé</u></strong></p><p style=\"text-align:justify\">-   Desborde de estero Las Cadenas, Ruta J-680.</p><p style=\"text-align:justify\"><strong><u>Comuna de Linares</u></strong></p><p style=\"text-align:justify\">-   Desborde del río Ancoa, se evacúa el sector Callejón El Peumo, comuna de   Linares. Como apoyo al proceso de evacuación se activó mensajería SAE.</p><p style=\"text-align:justify\">-   Ruta L-419, cercano al destacamento de Carabineros Vara Gruesa, se encuentra   interrumpida.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinacion con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja regional </strong>por evento meteorológico, que se encuentra vigente desde el 20 de agosto y hasta que las condiciones así lo ameriten. </p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

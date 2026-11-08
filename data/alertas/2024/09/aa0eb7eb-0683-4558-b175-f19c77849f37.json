@@ -1,0 +1,20 @@
+{
+	"id": "aa0eb7eb-0683-4558-b175-f19c77849f37",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las Provincias de San Felipe, Los Andes, Valparaíso, Petorca y San Antonio por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-09-23T07:51:34.472Z",
+	"updatedAt": "2024-09-23T10:49:16.817Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-a-excepcion-de-la-provincia-de-isla-de-pascua",
+	"parentId": "e633795a-068a-4fa0-b416-7eab72340f4d",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p>Aviso   A349-1</p></td><td><p>Viento   normal a moderado con probabilidad de viento blanco en cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">Adicionalmente, el Aviso N°34 de Marejadas Normales emitido por la Dirección General del Territorio Marítimo y Marina Mercante, finalizó su vigencia para el borde costero de la región.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva por evento meteorológico para las Provincias de San Felipe, Los Andes, Valparaíso, Petorca y San Antonio</strong>, que se mantuvovigente desde el 17 de septiembre de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "17e94290-f863-47ea-9f0b-13a9995b838e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Mulchén por incendio forestal",
+	"fechaHora": "2024-02-03T20:48:00.000-03:00",
+	"createdAt": "2024-02-03T23:52:25.359Z",
+	"updatedAt": "2024-02-03T23:53:19.872Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-mulchen-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Mulchén\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,</span><span style=\"color: rgb(33, 37, 41)\">&nbsp;respecto al incendio forestal en la comuna de Mulchén, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Mininco VIII (Hueleuico)</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>100 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><div>Incendio no presenta amenaza a personas y viviendas</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para la comuna de Mulchén por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 02 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

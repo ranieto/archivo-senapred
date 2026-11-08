@@ -1,0 +1,20 @@
+{
+	"id": "196c6e40-998f-429d-9008-bdabff161a07",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2025-11-01T21:51:00.000-03:00",
+	"createdAt": "2025-11-02T00:54:11.994Z",
+	"updatedAt": "2025-11-05T00:44:24.185Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-23",
+	"parentId": "29cd673e-4138-4f13-9464-03bc60be0081",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se mantiene vigente el siguiente alertamiento meteorológico para la </span><span style=\"font-size:15px\">Región de Magallanes</span><span style=\"font-size: 15px\">:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A425</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en pampa patagónica sur de la región (entre 50 y 100 km/h).</p></td><td><p style=\"text-align:center\">01-11</p></td><td><p style=\"text-align:center\">02-11</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Adicionalmente, de acuerdo con lo informado por las capitanías de Puerto de Punta Delgada y Porvenir, producto del viento ha sido suspendido el servicio de ferry entre las Provincias de Tierra de Fuego y Magallanes, generando la interrupción de conectividad marítima entre ambas provincias.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Cabe mencionar, que la Gobernación Marítima de Punta Arenas emitió durante el día de hoy, un Aviso por Temporal en área oceánica, el cual se mantendrá vigente hasta el día 02 de noviembre a las 08:00 horas.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva por viento para las provincias de Magallanes y Tierra del Fuego</strong></span><strong><span style=\"font-size:15px;color:black\">, </span></strong><span style=\"font-size:15px;color:black\">la cual se mantiene vigente desde el 30 de octubre de 2025 y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

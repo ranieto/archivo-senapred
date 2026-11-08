@@ -1,0 +1,20 @@
+{
+	"id": "30abc0ce-fa30-4b31-8b10-ce7098fcef0b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Isla de Pascua por incendio forestal",
+	"fechaHora": "2023-11-18T18:00:00.000-03:00",
+	"createdAt": "2023-11-18T21:00:36.838Z",
+	"updatedAt": "2023-11-19T18:46:52.752Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-isla-de-pascua-por-incendio-forestal-3",
+	"parentId": "d986eba3-5483-4c1c-b247-f58687cd690d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Isla de Pascua\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de Isla de Pascua, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Ipa 1</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">15 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   presenta comportamiento extremo, velocidad de propagación extrema, intensidad   en el frente de avance y longitud de llama alta.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla </strong>para la comuna de Isla de Pascua, por incendio forestal, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el </a>Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p><p style=\"text-align:justify\"><strong><span style=\"color:black\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CURSOS DE ACCIÓN:</span></strong></p><p style=\"text-align:justify\">Trabajan en el lugar CONAF, Bomberos, personal municipal y BRIFAR.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

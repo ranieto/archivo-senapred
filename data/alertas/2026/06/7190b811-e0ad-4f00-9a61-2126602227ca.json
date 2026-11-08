@@ -1,0 +1,20 @@
+{
+	"id": "7190b811-e0ad-4f00-9a61-2126602227ca",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Temprana Preventiva para la Región del Biobío por bajas temperaturas",
+	"fechaHora": "2026-06-28T11:05:00.000-04:00",
+	"createdAt": "2026-06-28T15:08:23.836Z",
+	"updatedAt": "2026-07-03T19:22:01.682Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-bajas-temperaturas-2026-06-27-11-27-09",
+	"parentId": "10ccb08f-cef0-43f5-9117-f61f1bb282a8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se mantiene vigente el siguiente alertamiento meteorológico para la Región del Biobío:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A284-1</p></td><td><p style=\"text-align:justify\">Bajas   temperaturas en cordillera de la costa, valle (entre -1 y -3 °C) y   precordillera (entre -4 y -2 °C) de la región. </p></td><td><p style=\"text-align:justify\">28-06</p></td><td><p style=\"text-align:justify\">29-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente, la Dirección Regional del SENAPRED del Biobío <strong>mantiene la Alerta Temprana Preventiva Regional por Bajas Temperaturas</strong>, que se encuentra vigente desde el 27 de junio de 2026 y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

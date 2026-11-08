@@ -1,0 +1,19 @@
+{
+	"id": "17a1fa66-f4a3-4ea5-b953-fc4607fea7f9",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Ñuble",
+	"fechaHora": "2024-05-06T12:51:00.000-04:00",
+	"createdAt": "2024-05-06T16:52:06.012Z",
+	"updatedAt": "2024-05-06T16:52:06.012Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-uble",
+	"parentId": "69c2f61b-7f62-4fd0-aa81-ab3b0e28a69b",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 12:35 horas en la Región de Ñuble.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Chillán   Viejo: </p></td><td><p>III</p></td></tr><tr><td><p>San   Nicolás: </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue de 3.7 y se localizó a 21 Kms al Noreste de Chillán. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "8a769cde-9fad-4dd2-99d1-ad9ea27b8e66",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Cabrero por incendio forestal",
+	"fechaHora": "2026-01-10T16:38:20.2020-03:00",
+	"createdAt": "2026-01-10T19:42:09.714Z",
+	"updatedAt": "2026-01-10T20:39:21.972Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-cabrero-por-incendio-forestal-2026-01-10-16-41-52",
+	"parentId": "bd9f9974-9cd3-4c04-8e9c-1c9a91e1ae59",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><strong>Nombre del incendio </strong>333 CABRERO</p><p><strong>Comuna (Sector) </strong>Cabrero (La Cruz)</p><p><strong>Estado </strong>En combate</p><p><strong>Superficie afectada [ha] </strong>0.5</p><p><strong>Descripción </strong>Incendio forestal con desarrollo cercano a sectores habitados</p><p>Incendio forestal con rápida propagación y saltos de pavesas,, desarrollo cercano a sectores habitados y un estanque de agua potable ESSBIO, a una distancia promedio de 70 metros.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Cabrero por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "14069764-cdb9-42f0-ac5f-cca74f74d960",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+	"fechaHora": "2026-08-03T16:17:15.1515-04:00",
+	"createdAt": "2026-08-03T20:18:20.596Z",
+	"updatedAt": "2026-08-03T20:19:51.363Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-evento-meteorologico-2026-07-12-16-14-26",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA118-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en litoral.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A364-7</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en cordillera de la costa, valle, precordillera y   cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A365-6</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de ventisca en cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 18 de julio.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

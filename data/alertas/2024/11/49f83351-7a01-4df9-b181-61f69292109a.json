@@ -1,0 +1,20 @@
+{
+	"id": "49f83351-7a01-4df9-b181-61f69292109a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de Valparaíso por incendios forestales",
+	"fechaHora": "2024-11-12T18:02:00.000-03:00",
+	"createdAt": "2024-11-12T22:07:23.377Z",
+	"updatedAt": "2024-11-14T22:59:33.881Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenazas-de-incendios-forestales",
+	"parentId": "08ea8eee-2fb2-4994-bf51-604e21eb94e4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Región de Valparaíso presenta al momento simultaneidad de incendios forestales , presentando diversosgrados de complejidad en su combate, haciendo necesario el reforzamiento de los recursos.Cabe mencionar, que las Alertas Amarillas de las comunas de Limache, Olmué y Santo Domingo porIncendios forestales quedan incluidas dentro de esta Alerta Amarilla Regional.</p><p>Por otra parte, la Región de Valparaíso mantiene Alerta Roja para las comuna de Viña del Mar, Concón,Quilpué y Villa Alemana por Incendio forestal.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPREDcancela la Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de Valparaíso por incendioforestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

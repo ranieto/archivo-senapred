@@ -1,0 +1,24 @@
+{
+	"id": "fb0ce6d0-f468-4dfc-bff9-981bd24ee9c7",
+	"type": "Evento",
+	"titulo": "PRUEBA Sismo de mediana intensidad en la Región de Metropolitana",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-06-24T19:07:41.442Z",
+	"updatedAt": "2025-06-24T22:21:39.931Z",
+	"urlAccess": "prueba-sismo-de-mediana-intensidad-en-la-region-de-metropolitana",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Iquique, Tamarugal, Antofagasta, El Loa, Tocopilla\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Alto Hospicio, Pozo Almonte, Colchane\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Atacama, Región de Coquimbo, Región de la Araucanía, Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de mediana intensidad se percibió a las 15:05&nbsp; horas en la Región de Metropolitana. Las intensidades en escala de Mercalli son:&nbsp;&nbsp;</span></p><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>III</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

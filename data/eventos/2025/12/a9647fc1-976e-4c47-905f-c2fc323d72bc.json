@@ -1,0 +1,19 @@
+{
+	"id": "a9647fc1-976e-4c47-905f-c2fc323d72bc",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2025-12-24T09:21:00.000-03:00",
+	"createdAt": "2025-12-24T12:24:16.631Z",
+	"updatedAt": "2025-12-24T12:27:14.790Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-2025-12-24-09-24-06",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor  intensidad se percibió a las 09:19 horas en la Región de Valparaíso. Las intensidades en escala de Mercalli son:&nbsp;</span></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quilpué   : </p></td><td><p>III</p></td></tr><tr><td><p>Quillota:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

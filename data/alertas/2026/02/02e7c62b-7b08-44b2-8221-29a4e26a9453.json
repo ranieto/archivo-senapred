@@ -1,0 +1,20 @@
+{
+	"id": "02e7c62b-7b08-44b2-8221-29a4e26a9453",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de la Araucanía por evento meteorológico",
+	"fechaHora": "2026-02-11T10:10:21.2121-03:00",
+	"createdAt": "2026-02-11T13:11:51.743Z",
+	"updatedAt": "2026-02-11T13:12:08.747Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-02-09-14-02-56",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados la Alerta Meteorológica AA35-3/2026, que pronosticaba tormentas eléctricas con probabilidad de granizos en precordillera y cordillera y el Aviso A59-1/2026 por probables tormentas eléctricas con probabilidad de granizos en litoral, cordillera de la costa y valle de la región. Lo anterior, debido al debilitamiento de las condiciones que los originaron.</span></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, la que se mantuvo vigente desde el 09 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

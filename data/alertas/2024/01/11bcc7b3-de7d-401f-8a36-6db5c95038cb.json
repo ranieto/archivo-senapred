@@ -1,0 +1,20 @@
+{
+	"id": "11bcc7b3-de7d-401f-8a36-6db5c95038cb",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Pudahuel por incendio forestal",
+	"fechaHora": "2024-01-24T17:17:00.000-03:00",
+	"createdAt": "2024-01-24T20:19:21.332Z",
+	"updatedAt": "2024-01-25T20:33:23.872Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pudahuel-por-incendio-forestal",
+	"parentId": "6cb4cf55-9168-4e02-870e-245e53b4181e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pudahuel\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Pudahuel, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Cuesta Lo Prado&nbsp;</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>70 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio presenta cercanía a sectores   habitados, y presenta proyección al Santuario de la Naturaleza Quebrada de la Plata</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>Bomberos de Curacaví, Quinta Normal, María Pinto y Santiago, 5 brigadas de CONAF, 7 técnicos de CONAF,&nbsp;6 helicópteros de CONAF, 3 aviones cisterna de CONAF, 1 avión de coordinación de CONAF, 1&nbsp;cuadrilla de ENEL, Carabineros, 1 puesto de mando de CONAF, 1 camión cisterna de CONAF y 2 Skidder de CONAF,&nbsp;mientras que los siguientes recursos se encuentran en trayecto:&nbsp;1 técnico de CONAF, 11 brigadas de CONAF, 3 camión cisterna de CONAF, 1 camión pluma de CONAF y 1 Skidder de CONAF.</div></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de Pudahuel por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

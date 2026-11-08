@@ -1,0 +1,20 @@
+{
+	"id": "a3dd50f5-6f6b-4f68-a8d8-4caefb79de0e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de O'Higgins por calor intenso",
+	"fechaHora": "2026-02-23T10:55:32.3232-03:00",
+	"createdAt": "2026-02-23T13:57:09.288Z",
+	"updatedAt": "2026-02-23T13:57:47.199Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-ohiggins-por-calor-intenso-2026-02-20-15-53-12",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong><span style=\"color: black\">información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido actualizado el siguiente alertamiento meteorológico para la Región de O’Higgins, donde ya no considera temperaturas 34°C, para los próximos días:</span></p><p style=\"text-align:justify\"></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A77-4</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en cordillera de la costa, valle y precordillera de la región   (hasta 33° C).</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por calor intenso, </strong>la cual se mantuvo vigente desde el 20 de febrero 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

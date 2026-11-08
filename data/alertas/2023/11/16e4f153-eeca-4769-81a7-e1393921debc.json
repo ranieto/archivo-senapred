@@ -1,0 +1,20 @@
+{
+	"id": "16e4f153-eeca-4769-81a7-e1393921debc",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2023-11-24T07:05:00.000-03:00",
+	"createdAt": "2023-11-24T10:07:47.737Z",
+	"updatedAt": "2023-11-26T19:42:32.909Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-2",
+	"parentId": "dfbef492-bde2-426f-9d85-00975c802ae7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes</span></strong><span style=\"color: black\">, se indica que en la comuna de Punta Arenas se registró la caída de 10 postes de alumbrado eléctrico y del daño en diversas subestaciones, producto de las condiciones del viento.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de lo anterior, 1.800 clientes de un total inicial de 6.000 se encuentran sin suministro de electricidad desde las 17:30 horas de ayer.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Además, producto del viento, se reportó la caída de un poste de alumbrado eléctrico sobre 1 vivienda la cual resultó con daño mayor dejando a 3 personas damnificadas, las que pernoctarán en casa de familiares.</span></p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva</strong>, para las provincias de Magallanes y Tierra del Fuego en la Región de Magallanes y de la Antártica Chilena por viento, que permanece vigente desde el 21 de noviembre de 2023 y hasta que las condiciones así lo ameriten.</p><p>Trabajan en la reposición del servicio, personal municipal y de la empresa eléctrica EDELMAG.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4140fe0a-4f7d-42d3-be23-63242fe215a2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2024-10-01T17:27:44.4444-03:00",
+	"createdAt": "2024-10-01T20:28:54.961Z",
+	"updatedAt": "2024-10-01T20:31:58.705Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> han sido cancelados los Avisos A361-2/2024; A363-2/2024 y A369/2024, los cuales pronosticaban respectivamente, viento normal a moderado, precipitaciones y nevadas en diversos sectores de la Región de Ñuble. Del mismo modo, mediante la actualización del Aviso A360-2/2024, se indica que la región ya no cuenta con probabilidad de viento blanco en cordillera. Lo anteriormente mencionado, se debe al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico, </strong>la cual se mantuvo vigente desde el 28 de septiembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

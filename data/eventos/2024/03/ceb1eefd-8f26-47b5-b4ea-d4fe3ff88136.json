@@ -1,0 +1,19 @@
+{
+	"id": "ceb1eefd-8f26-47b5-b4ea-d4fe3ff88136",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Tarapacá",
+	"fechaHora": "2024-03-18T06:27:00.000-03:00",
+	"createdAt": "2024-03-18T09:28:51.551Z",
+	"updatedAt": "2024-03-18T09:31:24.402Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-16",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">06:24 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de Tarapacá.&nbsp;</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>III</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. <br><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

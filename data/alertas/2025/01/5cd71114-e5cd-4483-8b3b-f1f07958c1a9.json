@@ -1,0 +1,20 @@
+{
+	"id": "5cd71114-e5cd-4483-8b3b-f1f07958c1a9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de San Esteban por incendio forestal",
+	"fechaHora": "2025-01-19T16:17:08.088-03:00",
+	"createdAt": "2025-01-19T19:23:18.367Z",
+	"updatedAt": "2025-01-20T20:34:53.598Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-esteban-por-incendio-forestal",
+	"parentId": "f88e0f9f-5486-4bee-9036-6b9217783064",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal que se desarrolla en la comuna de San Esteban, se informa lo siguiente:<br></p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Río Colorado</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>San Esteban (Los Chacayes Alto)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>10 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio forestal se encuentra activo y se desarrolla cercano a sectores poblados.</div></td></tr><tr><td><div>Recursos</div></td><td><div>Compañía de Bomberos de San Esteban, 2 camiones aljibes municipales, 2 brigadas CONAF y 2 aeronaves CONAF.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de<strong> SENAPRED</strong> declara Alerta Roja para la comuna de San Esteban por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

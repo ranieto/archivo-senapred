@@ -1,0 +1,20 @@
+{
+	"id": "6957b0b5-c0fa-46b3-8ffd-60ccb2145423",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por amenaza de incendios forestales",
+	"fechaHora": "2023-11-15T15:19:50.5050-03:00",
+	"createdAt": "2023-11-15T18:21:02.506Z",
+	"updatedAt": "2023-11-15T18:22:56.093Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-amenaza-de-incendios-forestales-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con el resultado del análisis técnico efectuado por la Corporación Nacional Forestal (CONAF), y en consideración a la disminución de las condiciones meteorológicas que dieron origen a esta alerta, se prevé una disminución de las condiciones de riesgo asociadas a esta variable.<br></p><p style=\"text-align:justify\">En consecuencia, de lo anterior la Dirección Regional del SENAPRED Valparaíso, en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Temprana Preventiva </strong>para la provincia de Isla de Pascua, por amenaza de incendios forestales, que se mantuvo vigente desde el 12 de noviembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

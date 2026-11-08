@@ -1,0 +1,20 @@
+{
+	"id": "e1629a8f-c336-4bf4-91fe-df6994a19e4e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Arauco, por amenaza de desborde",
+	"fechaHora": "2024-06-19T09:25:00.000-04:00",
+	"createdAt": "2024-06-19T13:26:07.235Z",
+	"updatedAt": "2024-06-22T23:18:47.071Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-2",
+	"parentId": "eafebe43-44e7-4232-83b7-fb939ca409c2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación “Río Pichilo” en el sector de Pichilo”, de la comuna de Arauco, se encuentra en Alerta Azul. Asimismo, las estaciones cercanas, se encuentran por debajo del umbral de alerta azul y fuera de riesgo de desborde y los cauces se encuentran en descenso de sus niveles, sin existir recarga.<br></p><p style=\"text-align:justify\">Adicionalmente, la Dirección Meteorológica de Chile (DMC), pronostica precipitaciones para la jornada de hoy miércoles 19 de junio. &nbsp;</p><p style=\"text-align:justify\">En consideración a estos antecedentes la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>cancela la Alerta Roja <span style=\"color:black\">por desborde y declara Alerta Amarilla por amenaza de desborde, para la comuna de Arauco</span></strong>, vigente a partir de hoy y hasta que las condiciones meteorológicas así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

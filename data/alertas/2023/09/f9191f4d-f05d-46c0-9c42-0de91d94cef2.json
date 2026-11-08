@@ -1,0 +1,20 @@
+{
+	"id": "f9191f4d-f05d-46c0-9c42-0de91d94cef2",
+	"type": "Alerta",
+	"titulo": "test 1",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-21T15:07:29.855Z",
+	"updatedAt": "2023-09-21T15:16:58.232Z",
+	"urlAccess": "test-1",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"ENOS - El Niño y La Niña\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>bdjfkjhfkhjfluhj,g</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "f635a719-7faf-4b6c-903b-d21534530ffe"
+}

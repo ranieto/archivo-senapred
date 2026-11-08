@@ -1,0 +1,20 @@
+{
+	"id": "96c135d2-911a-4bef-8ae6-a47b861e91b9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+	"fechaHora": "2024-09-23T11:53:31.3131-03:00",
+	"createdAt": "2024-09-23T14:55:10.504Z",
+	"updatedAt": "2024-09-23T14:56:39.712Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>se han cancelado los siguientes alertamientos meteorológicos para la Región de O’Higgins, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A340-2</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral, cordillera de la costa, valle y precordillera   de la región.</p></td><td><p style=\"text-align:center\">18-09</p></td><td><p style=\"text-align:center\">19-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A341</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de viento blanco en cordillera de la   región.</p></td><td><p style=\"text-align:center\">18-09</p></td><td><p style=\"text-align:center\">19-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A346</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto periodo de tiempo en cordillera de la costa y   valle de la región.</p></td><td><p style=\"text-align:center\">18-09</p></td><td><p style=\"text-align:center\">19-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A349-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de viento blanco en cordillera de la   región.</p></td><td><p style=\"text-align:center\">20-09</p></td><td><p style=\"text-align:center\">22-09</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico, </strong>que se mantuvo vigente desde el 14 de septiembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

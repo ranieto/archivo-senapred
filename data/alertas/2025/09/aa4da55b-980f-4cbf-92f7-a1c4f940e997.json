@@ -1,0 +1,20 @@
+{
+	"id": "aa4da55b-980f-4cbf-92f7-a1c4f940e997",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Isla de Pascua por incendio forestal",
+	"fechaHora": "2025-09-26T21:50:00.000-03:00",
+	"createdAt": "2025-09-27T01:06:45.490Z",
+	"updatedAt": "2025-09-27T02:48:59.822Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-isla-de-pascua-por-incendio-forestal-4",
+	"parentId": "70b90f33-9ad0-4ecd-bbb2-9b58b7b4f710",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información&nbsp;técnica proporcionada por Conaf<strong>,&nbsp;respecto al incendio forestal en la&nbsp;comuna de Isla de Pascua se informa el siguiente detalle:</strong></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Maurata</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio forestal afecta al sector Vaitea, al noroeste por carretera IPA 1, a 6 kilómetros al Noreste de Hanga Roa.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Compañía de Bomberos de Isla de Pascua</p><p>1 camión aljibe municipal<br></p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso,&nbsp;<strong>la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Isla de Pascua por incendio forestal,&nbsp;</strong>vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

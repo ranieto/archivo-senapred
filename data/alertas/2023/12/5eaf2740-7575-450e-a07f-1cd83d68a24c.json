@@ -1,0 +1,20 @@
+{
+	"id": "5eaf2740-7575-450e-a07f-1cd83d68a24c",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la comuna de Quillón por incendio forestal",
+	"fechaHora": "2023-12-01T11:14:42.4242-03:00",
+	"createdAt": "2023-12-01T14:16:22.096Z",
+	"updatedAt": "2023-12-01T14:17:40.262Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Quillón\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), en relación con el incendio forestal que se desarrolla en la comuna de Quillón, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">San Francisco.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado, sin   peligro de propagación a viviendas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">18.5 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a lo anterior y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la comuna de Quillón por incendio forestal</strong>, que se mantuvo vigente desde el 30 de noviembre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

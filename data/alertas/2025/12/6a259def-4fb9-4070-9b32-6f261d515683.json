@@ -1,0 +1,20 @@
+{
+	"id": "6a259def-4fb9-4070-9b32-6f261d515683",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Maule por amenaza de incendios forestales",
+	"fechaHora": "2025-12-03T11:30:00.000-03:00",
+	"createdAt": "2025-12-03T15:02:29.904Z",
+	"updatedAt": "2025-12-23T02:25:48.188Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-amenaza-de-incendios-forestales-2025-12-03-12-02-14",
+	"parentId": "07b8ef94-7b1f-45c0-86ca-34800ebde710",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Un aviso de evento de altas temperaturas pronosticada por la Dirección Meteorológica de Chile se mantiene vigente para los días 3 y 4 de diciembre en la Región del Maule, extendiéndose por la cordillera de la costa, valle y precordillera.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

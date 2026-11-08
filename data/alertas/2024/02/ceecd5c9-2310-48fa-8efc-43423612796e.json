@@ -1,0 +1,20 @@
+{
+	"id": "ceecd5c9-2310-48fa-8efc-43423612796e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Malleco por incendio forestal",
+	"fechaHora": "2024-02-20T14:05:49.4949-03:00",
+	"createdAt": "2024-02-20T17:06:38.345Z",
+	"updatedAt": "2024-02-20T17:09:08.862Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo a lo indicado por el Departamento de Protección contra Incendios Forestales de CONAF</span></strong><span style=\"color: black\">, ya no existe la presencia de múltiples focos de incendios forestales en la provincia de Malleco.</span><br></p><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Provincia de Malleco, por incendio forestal, que se mantuvo vigente desde el 17 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

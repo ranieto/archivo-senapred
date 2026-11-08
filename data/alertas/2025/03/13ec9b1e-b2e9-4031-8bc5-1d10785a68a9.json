@@ -1,0 +1,20 @@
+{
+	"id": "13ec9b1e-b2e9-4031-8bc5-1d10785a68a9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Viña del Mar por evento masivo",
+	"fechaHora": "2025-03-02T13:27:49.4949-03:00",
+	"createdAt": "2025-03-02T16:28:50.303Z",
+	"updatedAt": "2025-03-02T16:29:46.647Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-vina-del-mar-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso, sin eventos mayores ha finalizado el evento masico denominado “Festival Internacional de la canción de Viña del Mar”, el cual se desarrolló en entre los días 23 y 28 de febrero en el anfiteatro de la Quinta Vergara, comuna de Viña del Mar.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Viña del Mar, la cual se mantuvo vigente desde el 23 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

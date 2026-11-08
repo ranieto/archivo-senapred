@@ -1,0 +1,20 @@
+{
+	"id": "3f9cd99f-a309-4727-ba1a-d2c598386c9d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Los Lagos por tormentas eléctricas",
+	"fechaHora": "2023-12-20T01:00:30.3030-03:00",
+	"createdAt": "2023-12-20T04:01:20.824Z",
+	"updatedAt": "2023-12-20T04:02:31.573Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelada la Alerta Meteorológica AA83/2023 que pronosticó la ocurrencia de tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera de la región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que la originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial Regional de </span>Los Lagos<span style=\"color:black\">, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana </strong></span><strong>Preventiva Regional, por tormentas eléctricas</strong>, que se mantuvo vigente desde el 18 <span style=\"color:black\">de diciembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

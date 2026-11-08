@@ -1,0 +1,20 @@
+{
+	"id": "fa88a10e-59e5-4690-a0e1-dabe4ba50383",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Paine por incendio forestal",
+	"fechaHora": "2024-10-28T22:55:00.000-03:00",
+	"createdAt": "2024-10-29T02:10:18.557Z",
+	"updatedAt": "2024-10-29T22:12:51.632Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-paine-por-incendio-forestal",
+	"parentId": "f3dde10e-ba13-442c-9097-851548874237",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Paine\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Paine, se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Aguila sur </p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color:black\">Se   mantiene con trabajos Nocturnos CONAF con Brigada Peumo 16 , Bomberos de   Paine, La Granja, San Ramón, La Pintana, Talagante, San Bernardo, Ñuñoa, San   José de Maipo, Isla de MAIPO, Peñaflor, Padre Hurtado, El Monte, Buin, Tiltil,   Villa Alhue, Quinta Normal y Melipilla, 5 brigadas de CONAF, 8 Técnicos de   CONAF, 1 helicóptero de CONAF, 1 helicóptero de SENAPRED, camiones cisterna   de CONAF y Carabineros.</span></p><p><span style=\"color:black\">La programación para el día de mañana 29 de   octubre contempla: 5 brigadas, 6 técnicos, 1 camión aljibe, 1 puesto de mando   y 1 helicóptero de CONAF, 2 helicópteros gestionados por SENAPRED y 1   ambulancia ACHS.</span></p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regionalde SENAPRED mantiene Alerta Amarilla para la Comuna de Paine, por incendio forestal, que se encuentravigente desde el 28 de octubre de 2024.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "ba1187bc-47b0-4a39-b9c0-f43dae16b0c0",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la Provincia de Isla de Pascua por evento meteorológico",
+	"fechaHora": "2024-06-03T22:57:06.066-04:00",
+	"createdAt": "2024-06-04T02:58:42.691Z",
+	"updatedAt": "2024-06-04T02:58:56.179Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) debido al debilitamiento de las condiciones meteorológicas que los originaron, han sido cancelados los siguientes alertamientos técnicos para la Provincia de Isla de Pascua en la Región de Valparaíso:<br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA32</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas en Isla de Pascua. </p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A176</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en Isla de Pascua.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A175-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en Isla de Pascua.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   181</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en Isla de Pascua.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dichas variables meteorológicas, y en coordinación con la Delegación Presidencial de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la Provincia de Isla de Pascua por evento meteorológico</strong>, que se mantuvo vigente desde el 31 de mayo de 2024</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

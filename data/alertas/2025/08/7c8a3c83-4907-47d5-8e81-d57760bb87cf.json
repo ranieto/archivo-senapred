@@ -1,0 +1,20 @@
+{
+	"id": "7c8a3c83-4907-47d5-8e81-d57760bb87cf",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2025-08-24T00:09:00.000-04:00",
+	"createdAt": "2025-08-24T04:11:34.110Z",
+	"updatedAt": "2025-08-24T04:11:45.806Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-teno-romeral-curico-molina-rio-claro-san-clemente-pelarco-colbun-linares-retiro-longavi-y-parral-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron.</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A314</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Nevadas normales a moderadas en cordillera. </span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A315-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables nevadas con probabilidad de riesgo en el desplazamiento en   precordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A317</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado con probabilidad de viento blanco en   cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A318-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas con probabilidad de granizos en la   región.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A321-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones normales a moderadas en cordillera de la costa y valle.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A322-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Heladas normales a moderadas con formación de hielo en precordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A327-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado en el litoral y cordillera de la costa.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico</strong>,que se mantenía vigente desde el 19 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

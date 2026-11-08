@@ -1,0 +1,20 @@
+{
+	"id": "414eb9f8-68c8-49b1-b945-9d06e8b9b69c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de La Estrella por incendio forestal",
+	"fechaHora": "2023-11-30T11:50:12.1212-03:00",
+	"createdAt": "2023-11-30T14:52:35.910Z",
+	"updatedAt": "2023-12-01T01:16:17.251Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal",
+	"parentId": "4cc84e0e-4549-4562-904d-a462d924229d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"La Estrella\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: black\">, respecto del incendio forestal en la comuna de La Estrella, se indica el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">San Miguel de Viluco</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">280 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El   incendio se mantiene contenido con puntos calientes al interior del perímetro   con intensidad media a baja</p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja para la comuna de La Estrella, </strong>por incendio forestal, que se encuentra vigente desde ayer 29 de noviembre de 2023 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Han trabajado en la jornada de hoy 7 brigadas, 5 técnicos, 4 camiones cisterna, 1 skidder, 1 avión cisterna y 1 helicóptero de CONAF, junto a Bomberos de Marchigüe y La Estrella.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "abb9fbec-6499-4632-9b7b-1846d5db62f7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Litueche por incendio forestal",
+	"fechaHora": "2025-05-02T15:38:38.3838-04:00",
+	"createdAt": "2025-05-02T19:43:51.063Z",
+	"updatedAt": "2025-05-02T20:37:00.710Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-litueche-por-incendio-forestal-6",
+	"parentId": "c93579d3-1ff9-4f38-ba5d-9b532a79e380",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información técnica proporcionada por Conaf,</span><span style=\"color: black\">respecto al incendio forestal en la comuna de Alto del Carmense informa el siguiente detalle:</span></p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Quelentaro 1</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate</div></td></tr><tr><td><div><strong>Superficie afectada</strong></div></td><td><div>0.01 hectáreas</div></td></tr></tbody></table><p><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, <strong>la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Litueche por incendio forestal </strong>Quelentaro 1 (ATR N°83), vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

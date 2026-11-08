@@ -1,0 +1,20 @@
+{
+	"id": "1de03a7c-69bd-4747-a6e0-e492b5dad1ed",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento masivo",
+	"fechaHora": "2024-09-23T08:47:00.000-03:00",
+	"createdAt": "2024-09-23T11:48:34.722Z",
+	"updatedAt": "2024-09-23T11:49:52.922Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional Metropolitana de SENAPRED,</strong> se indica que las actividades programadas en el contexto de la celebración de las fiestas patrias 2024, que se realizaron entre los días 08 y 23 de septiembre en la región, finalizaron sin registrarse situaciones de emergencia.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva Regional por evento masivo, </strong>que se mantuvo vigente desde el 05 de septiembre del 2024</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "27b9a37d-9364-43ae-a757-c2a477686925",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Quilicura por incendio forestal",
+	"fechaHora": "2024-12-25T20:45:40.4040-03:00",
+	"createdAt": "2024-12-25T23:46:34.690Z",
+	"updatedAt": "2024-12-25T23:46:48.651Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quilicura-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;en relación al incendio forestal en la comuna de Quilicura, indica:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Valle Grande</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3.5 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio se encuentra controlado, debido a la   disminución en las condiciones propias del incendio.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la comuna de Quilicura, por incendio forestal</strong>, que se mantuvo vigente desde el 25 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

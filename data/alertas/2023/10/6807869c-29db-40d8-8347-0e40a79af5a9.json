@@ -1,0 +1,20 @@
+{
+	"id": "6807869c-29db-40d8-8347-0e40a79af5a9",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla y Alto del Carmen por viento",
+	"fechaHora": "2023-10-30T18:57:41.4141-03:00",
+	"createdAt": "2023-10-30T22:00:18.405Z",
+	"updatedAt": "2023-11-03T13:18:18.864Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-y-alto-del-carmen-por-viento-2",
+	"parentId": "f018c10e-c0d4-4492-8b5b-6e2f0939a447",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> indica que se encuentra vigente el siguiente alertamiento técnico para la Región de Atacama:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><strong>Alerta</strong></p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte (entre 80 y 100 km/h) en el sector cordillerano de la   región.</p></td><td><p style=\"text-align:center\">01/11</p></td><td><p style=\"text-align:center\">02/11</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso</strong></p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en precordillera de la región.</p></td><td><p style=\"text-align:center\">02/11</p></td><td><p style=\"text-align:center\">02/11</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED <strong>actualiza Alerta Temprana Preventiva</strong> para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla y Alto del Carmen por viento, vigente desde el 29 de octubre de 2023 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p>​<span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span></em>​<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

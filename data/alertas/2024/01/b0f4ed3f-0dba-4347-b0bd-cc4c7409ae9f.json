@@ -1,0 +1,20 @@
+{
+	"id": "b0f4ed3f-0dba-4347-b0bd-cc4c7409ae9f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Melipilla por incendio forestal ",
+	"fechaHora": "2024-01-11T03:20:05.055-03:00",
+	"createdAt": "2024-01-11T13:23:33.456Z",
+	"updatedAt": "2024-01-11T13:34:45.459Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipilla-por-incendio-forestal",
+	"parentId": "fba5282e-e364-4162-b144-f79d9d6161de",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Melipilla\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;el incendio forestal denominado&nbsp;</span><span style=\"color: rgb(33, 37, 41)\">“Campanario”&nbsp;</span><span style=\"color:#212529\">en la comuna de Melipilla, solo presenta puntos calientes en la parte alta del perímetro debido al trabajo realizado durante la pasada jornada, logrando contener la propagación&nbsp;del fuego.</span><br></p><p style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional de SENAPRED&nbsp;<strong>cancela Alerta Roja para la comuna de Melipilla por incendio forestal</strong>, vigente desde el 10 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c8e7e520-56a0-4ea9-882a-1c33d367ffb3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Ninhue por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-12-30T22:17:14.354Z",
+	"updatedAt": "2025-12-30T22:17:44.915Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ninhue-por-incendio-forestal-2025-12-30-19-16-58",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Ninhue se informa el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Hualte</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 brigadas, 2 técnico y 2 aeronaves</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a   sectores poblados.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\"><br></span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Ninhur por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\"><br></span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

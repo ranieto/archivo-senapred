@@ -1,0 +1,20 @@
+{
+	"id": "1dc51db3-0144-4375-8f5a-7acd37aac8ba",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Teodoro Schmidt por amenaza de desborde",
+	"fechaHora": "2024-07-03T21:49:00.000-04:00",
+	"createdAt": "2024-07-04T01:49:54.115Z",
+	"updatedAt": "2024-07-04T01:50:45.993Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-teodoro-schmidt-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación de red hidrométrica “Río Toltén en Teodoro Schmidt” en la comuna de Teodoro Schmidt, ha alcanzado los valores del umbral de Alerta Azul, con tendencia a la baja en sus caudales.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para la comuna de Teodoro Schmidt,</strong> que se mantuvo vigente desde el 27 de junio de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

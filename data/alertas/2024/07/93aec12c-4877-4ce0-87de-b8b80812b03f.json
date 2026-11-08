@@ -1,0 +1,20 @@
+{
+	"id": "93aec12c-4877-4ce0-87de-b8b80812b03f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Última Esperanza por nevadas",
+	"fechaHora": "2024-07-05T20:30:41.4141-04:00",
+	"createdAt": "2024-07-06T00:31:39.245Z",
+	"updatedAt": "2024-07-06T00:32:17.265Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-provincial-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-nevadas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Nevadas\",\"nombreImg\":\"nevadas.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se ha cancelado el Aviso Meteorológico A255/2024, que pronosticó nevadas normales a moderadas en corto periodo de tiempo, con probabilidad de ventisca en la zona de Pampa Patagónica Norte de la región.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, el Centro Meteorológico Regional Austral de la DMC en su pronóstico público regional indica una disminución de la amenaza asociada a la condición meteorológica reduciendo el factor de riesgo para los habitantes y sus bienes.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable meteorológica la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva por nevadas para la Provincia de Última Esperanza</strong>, que se mantuvo vigente desde el 29 de junio de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "10cc82c8-9c32-4296-9667-ad2b1a10f5a4"
+}

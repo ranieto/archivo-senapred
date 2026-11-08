@@ -1,0 +1,20 @@
+{
+	"id": "0ef00a13-e32c-475c-b878-2776430c1c07",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Paine por incendio forestal",
+	"fechaHora": "2024-12-11T19:44:01.011-03:00",
+	"createdAt": "2024-12-11T22:45:03.440Z",
+	"updatedAt": "2024-12-12T22:43:33.222Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-paine-por-incendio-forestal-2",
+	"parentId": "65d1a412-81bb-4343-a74e-4d70b5cd02c8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Paine se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Lomas del Águila 4</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>80 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Paine, Buin, Isla de Maipo,   Talagante, San Bernardo, Puente Alto, La Granja, Quinta Normal, Metropolitano   Sur, Maipú, Ñuñoa y Til Til; 9 brigadas, 6 técnicos, 6 helicópteros, 3 aviones   cisterna, 1 avión de coordinación y 1 camión aljibe recursos dispuestos por   Conaf; 2 helicópteros gestionados por Senapred. Además se encuentran   desplegados en la zona Delegado Presidencial Provincial del Maipo, Director Regional   de Senapred Metropolitana, Provincial de Emergencias del Maipo y alcalde (s)   de Paine.</p><p>En trayecto: SAMU</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Producto de este incendio se envío mensajería SAE para reforzar el proceso de evacuación en el sector C</span><span style=\"font-size:14px;color:#2E2E2E\">Campo de Águila, en la comuna de Paine.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Al momento, se registran 3 viviendas destruidas a raíz del incendio.</span></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Paine, por incendio forestal, que se encuentra vigente desde el 11 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

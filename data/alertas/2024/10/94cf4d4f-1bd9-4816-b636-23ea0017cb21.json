@@ -1,0 +1,20 @@
+{
+	"id": "94cf4d4f-1bd9-4816-b636-23ea0017cb21",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Paine por incendio forestal",
+	"fechaHora": "2024-10-29T12:16:00.000-03:00",
+	"createdAt": "2024-10-29T15:39:48.614Z",
+	"updatedAt": "2024-10-29T22:12:51.631Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-paine-por-incendio-forestal",
+	"parentId": "f3dde10e-ba13-442c-9097-851548874237",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Paine\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información técnica proporcionada por Conaf, </strong>respecto al incendio forestal en la comuna de Paine, se informa el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Aguila sur</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Al momento de este   informe trabajan en el lugar bomberos de Paine, 5 brigadas y 9 técnicos de   CONAF, 1 ambulancia de la Achs, además de 1 helicóptero de CONAFY y 2 de SENPRED</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Paine, por incendio forestal, que se encuentra vigente desde el 28 de octubre de 2024. <br><br>Con la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED); para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

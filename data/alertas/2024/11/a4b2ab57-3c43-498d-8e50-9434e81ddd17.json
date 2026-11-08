@@ -1,0 +1,20 @@
+{
+	"id": "a4b2ab57-3c43-498d-8e50-9434e81ddd17",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Navidad por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-11-26T19:14:48.823Z",
+	"updatedAt": "2024-11-26T19:16:18.403Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-navidad-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Navidad\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Conaf,&nbsp;Activo desde las 14:20 horas de hoy se encuentra el Incendio Forestral denominado \"Centinela\" en lacomuna de Navidad, el cual afecta 1 hectárea de matorral y pastizal.Asimismo, de acuerdo al análisis técnico efectuado por CONAF, el Incendio forestal se desarrolla cercano a sectores habitados, en el sector de Poblado Navidad, a una distancia promedio de 500metros.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, laDirección Regional de SENAPRED declara Alerta Roja para la comuna de Navidad por incendio forestal,vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

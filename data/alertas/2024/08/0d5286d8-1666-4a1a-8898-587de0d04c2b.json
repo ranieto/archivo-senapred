@@ -1,0 +1,20 @@
+{
+	"id": "0d5286d8-1666-4a1a-8898-587de0d04c2b",
+	"type": "Alerta",
+	"titulo": "Moitoreo Alerta Amarilla para la comuna de Alto del Carmen por Evento Meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-08-19T00:33:21.343Z",
+	"updatedAt": "2024-08-19T00:33:49.519Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-alto-del-carmen-por-evento-meteorologico-2",
+	"parentId": "9ea4df0e-db27-41a2-962c-622b1a78a6d8",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Alto del Carmen\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Atacama</strong>, se encuentra alterado el tránsito vehicular en el kilómetro 72 de la Ruta C-489, producto de la activación de quebradas y flujos de detritos.<br></p><p style=\"text-align:justify\">Adicionalmente, se indica que el tránsito vehicular en los kilómetros 38, 52 y 57 de la Ruta C-495, se encuentra habilitado solo con precaución debido a la activación de quebradas.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por Evento Meteorológico para la comuna de Alto del Carmen, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

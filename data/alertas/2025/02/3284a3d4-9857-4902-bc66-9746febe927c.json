@@ -1,0 +1,20 @@
+{
+	"id": "3284a3d4-9857-4902-bc66-9746febe927c",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Amarilla para la Región de La Araucanía por incendios forestales",
+	"fechaHora": "2025-02-04T21:11:00.000-03:00",
+	"createdAt": "2025-02-05T00:17:15.911Z",
+	"updatedAt": "2025-02-10T00:27:56.602Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-la-araucania-por-incendios-forestales",
+	"parentId": "8acf5fda-8a75-4259-8f86-b9effcf5ee52",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la <strong>información proporcionada por el Departamento de Protección Contra Incendios Forestales de CONAF</strong>, existe una alta ocurrencia de incendios forestales a nivel regional, que implican un reforzamiento del Sistema Nacional de Prevención y Respuesta ante Desastres a nivel regional.</p><p>Por otra parte, <strong>la Dirección Meteorológica de Chile (DMC),</strong> informa en su Aviso Meteorológico (A42/2025) de un evento de altas temperaturas desde la tarde del viernes 7 y hasta la tarde del domingo 9 de febrero en la Provincia de Malleco.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para la Región de La Araucanía, por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Cabe señalar que se exceptúa de esta alerta la comuna de Ercilla, la cual se mantiene con Alerta Roja por Incendio Forestal. Dicha excepción se mantendrá hasta el término de la vigencia de dicha alerta roja.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

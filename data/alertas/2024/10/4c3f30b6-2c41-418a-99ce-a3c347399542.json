@@ -1,0 +1,20 @@
+{
+	"id": "4c3f30b6-2c41-418a-99ce-a3c347399542",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Freirina por incendio forestal",
+	"fechaHora": "2024-10-24T18:30:43.4343-03:00",
+	"createdAt": "2024-10-24T21:31:20.009Z",
+	"updatedAt": "2024-10-24T21:32:18.800Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-freirina-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información proporcionada por Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: black\">&nbsp;indica que el incendio forestal denominado \"Bodeguilla\" se encuentra extinguido y no presenta amenaza a infraestructura crítica ni centros poblados.</span></p><div style=\"text-align: left\"><br></div><div><table><tbody><tr><td><div style=\"text-align: justify\">Nombre del incendio</div></td><td><div style=\"text-align: justify\">Bodeguilla</div></td></tr><tr><td><div style=\"text-align: justify\">Estado</div></td><td><div style=\"text-align: justify\">extinguido</div></td></tr><tr><td><div style=\"text-align: justify\">Superficie</div></td><td><div style=\"text-align: justify\">29.4 hectáreas</div></td></tr><tr><td><div style=\"text-align: justify\">Observaciones</div></td><td><div style=\"text-align: justify\">3 Bomberos lesionados</div></td></tr><tr><td><div style=\"text-align: justify\">Recursos</div></td><td><div style=\"text-align: left\">Trabajaron en el lugar Bomberos de Freirina, Vallenar, Copiapó, Caldera, Inca de Oro, Diego de Almagro; 02 brigadas y 01 técnico de CONAF; 02 camiones aljibe y 01 retroexcavadora de la Municipalidad de Freirina; personal de la empresa eléctrica TRANSELEC, SENAPRED Atacama y de la Delegación Presidencial Provincial de Huasco.</div></td></tr></tbody></table></div><div style=\"text-align: justify\"><br></div><div style=\"text-align: justify\">En consideración a estos antecedentes, en base a la información técnica proporcionada por CONAF y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED cancela Alerta Amarilla para la comuna de Freirina por incendio forestal, vigente desde el 22 de octubre.</div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

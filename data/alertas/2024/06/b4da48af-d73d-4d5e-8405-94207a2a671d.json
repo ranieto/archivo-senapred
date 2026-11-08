@@ -1,0 +1,20 @@
+{
+	"id": "b4da48af-d73d-4d5e-8405-94207a2a671d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las provincias de Valparaíso y Marga Marga por evento meteorológico",
+	"fechaHora": "2024-06-23T12:27:53.5353-04:00",
+	"createdAt": "2024-06-23T16:28:29.515Z",
+	"updatedAt": "2024-06-23T16:28:43.454Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-provincias-de-valparaiso-y-marga-marga-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA50</p></td><td><p style=\"text-align:justify\">Precipitaciones moderadas a fuertes en el litoral,   cordillera de la costa, precordillera y valles precordilleranos.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A228</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas en el litoral y   cordillera de la costa.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A230</p></td><td><p style=\"text-align:justify\">Viento normal a moderado en cordillera, con probabilidad   de viento blanco.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja para las provincias de Valparaíso y Marga Marga por evento meteorológico</strong></span><span style=\"font-size:12px;color:black\">, </span><span style=\"color:black\">que se mantenía vigente desde el 21 de junio.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">No obstante, y en atención a la necesidad de mantener el monitoreo constante, permanecerá el seguimiento de los niveles de agua de los embalses, incremento de caudales de ríos y esteros, activación de quebradas, deslizamientos de material rocoso en rutas, caminos, calles y viviendas que se han reportado en distintos sectores de la región, así como a los requerimientos del nivel local y a los incidentes que se pudieran generar producto del paso del sistema frontal.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "44a68b3b-4024-4e66-9100-6273dd6e9438",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2023-11-18T10:00:00.000-03:00",
+	"createdAt": "2023-11-18T13:02:15.386Z",
+	"updatedAt": "2023-11-18T13:03:37.191Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los Avisos Meteorológicos A443/2023 y A444/2023, por precipitaciones y viento de intensidad normal a moderada en la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que les dieron origen.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong>, por evento meteorológico, que se encontraba vigente desde el 14 de noviembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

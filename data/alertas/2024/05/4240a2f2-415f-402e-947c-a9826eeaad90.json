@@ -1,0 +1,20 @@
+{
+	"id": "4240a2f2-415f-402e-947c-a9826eeaad90",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Última Esperanza por heladas",
+	"fechaHora": "2024-05-27T15:14:00.000-04:00",
+	"createdAt": "2024-05-27T19:17:01.519Z",
+	"updatedAt": "2024-05-27T19:17:12.649Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-heladas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A170-1/2024, el cual pronosticaba heladas normales a moderadas con probabilidad de formación de escarcha, en Pampa Patagónica Norte, Región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED, <strong>cancela Alerta Temprana Preventiva para la Provincia de Última Esperanza por heladas</strong>, la que se mantuvo vigente desde el 23 de mayo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

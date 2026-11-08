@@ -1,0 +1,19 @@
+{
+	"id": "c6fe68cc-6c89-43aa-b206-583e62277c1b",
+	"type": "Evento",
+	"titulo": "evento por precipitaciones IV",
+	"fechaHora": "2023-10-02T16:47:50.5050-03:00",
+	"createdAt": "2023-10-02T19:48:26.883Z",
+	"updatedAt": "2023-10-02T20:40:18.422Z",
+	"urlAccess": "evento-por-precipitaciones-i",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>evento por precipitaciones IV<br></p>",
+	"variableInformateEventosId": "dcc38dbb-00cf-4474-ab9e-201e55a87531"
+}

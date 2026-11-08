@@ -1,0 +1,20 @@
+{
+	"id": "7e1bda8d-292b-4d99-83e9-f91dbb44fd9f",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la Región del Maule por crecida",
+	"fechaHora": "2026-08-26T07:39:00.000-04:00",
+	"createdAt": "2026-08-26T11:50:28.509Z",
+	"updatedAt": "2026-08-30T13:30:51.566Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
+	"parentId": "a4bb6fa4-d238-4fef-b33f-1b81096b23b2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por Dirección General de Aguas (DGA),</strong> se indica que</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">la estación de red hidrométrica “<strong>Estación Rio Melado en el Salto”, </strong>se encuentra en sector aguas arriba<strong> embalse El Melado</strong>, comuna Colbún, ha sobrepasado los valores base encontrándose en <strong>umbral amarillo.</strong></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Del mismo modo, la “<strong>Estación Rio Perquilauquén en San Manuel”, </strong>ha sobrepasado los valores base encontrándose en <strong>umbral amarillo. </strong>Cabe mencionar, que dicha estación está ubicada al lado sur del</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Río Perquilauquén en el sector La Balsa de la Comuna de San Fabian, Región del Ñuble<strong>, </strong>debido a lo cual, por ser éste un afluente del Río Loncomilla y este último del Río Maule, suponen un aumento del riesgo para la población cercana a este curso de agua en la región.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por crecida,</strong> que se encuentra vigente desde el 25 de agosto y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Con la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

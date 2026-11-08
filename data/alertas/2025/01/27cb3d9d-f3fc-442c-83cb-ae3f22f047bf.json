@@ -1,0 +1,20 @@
+{
+	"id": "27cb3d9d-f3fc-442c-83cb-ae3f22f047bf",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Rauco por incendio forestal",
+	"fechaHora": "2025-01-24T00:10:43.4343-03:00",
+	"createdAt": "2025-01-24T03:11:48.323Z",
+	"updatedAt": "2025-01-24T08:12:09.024Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rauco-por-incendio-forestal",
+	"parentId": "499b9a43-1c2d-4455-9b15-eb57b101e8f9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Rauco se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">El Parrón</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">30   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">6   brigadas, 3 técnicos, 10 aeronaves, 2 skidder y 2 camiones cisterna de Conaf;   Bomberos de Rauco, Romeral y Teno.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">Cabe señalar que el incendio forestal El Parrón se encuentra contenido en ambos flancos, sin riesgos de afectación a viviendas, aún con actividad interior de área quemada y cercano a perímetro de línea de control. </span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Rauco por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

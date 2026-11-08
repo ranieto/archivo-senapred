@@ -1,0 +1,20 @@
+{
+	"id": "8febb3ae-380b-4a76-b99f-b6c5642fc2a8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Cartagena por incendio forestal",
+	"fechaHora": "2024-12-07T15:09:40.4040-03:00",
+	"createdAt": "2024-12-07T18:10:39.771Z",
+	"updatedAt": "2024-12-08T19:28:00.632Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cartagena-por-incendio-forestal-2",
+	"parentId": "e6c6beb8-fddf-4f3f-8d9a-0fdb8131130f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong><span style=\"font-size: 16px\">respecto del incendio forestal que se encuentra en la comuna de Cartagena, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Parque   Las Palmas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">30 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal con   comportamiento extremo y velocidad de propagación alta.</p><p style=\"text-align:justify\">Trabajan Bomberos de   Cartagena, El Quisco, Santo Domingo y San Antonio; 8 brigadas, 2 técnicos 4   aeronaves y maquinaria pesada por parte de Conaf.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara por incendio forestal, vigente desde hoy y hasta que<strong> Alerta Amarilla para la comuna de Cartagena</strong> las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

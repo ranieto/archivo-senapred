@@ -1,0 +1,20 @@
+{
+	"id": "7cf77ad5-da9c-4e03-bc79-96827ce1cc10",
+	"type": "Alerta",
+	"titulo": "prueba tipografia",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-23T10:51:02.430Z",
+	"updatedAt": "2023-09-24T09:59:33.136Z",
+	"urlAccess": "prueba-tipografia",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>mmmmmmmmmmmmm&nbsp; nnnnnnnnnnnnn</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

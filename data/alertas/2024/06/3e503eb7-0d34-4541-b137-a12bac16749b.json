@@ -1,0 +1,20 @@
+{
+	"id": "3e503eb7-0d34-4541-b137-a12bac16749b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Curanilahue por amenaza de desborde",
+	"fechaHora": "2024-06-11T17:54:27.2727-04:00",
+	"createdAt": "2024-06-11T21:55:53.073Z",
+	"updatedAt": "2024-06-11T23:30:12.703Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curanilahue-por-amenaza-de-desborde",
+	"parentId": "c014e680-f265-4915-8db9-f2cdb328c783",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curanilahue\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, mediante su sistema de reporte en línea de las estaciones hidrométricas, se indica que la estación “Río Curanilahue”, se encuentran en umbral de Alerta Amarilla con tendencia a subida.<br></p><p style=\"text-align:justify\">Adicionalmente, según lo indicado por la Dirección Meteorológica de Chile (DMC), se prevé que continúen las precipitaciones intensas en corto periodo de tiempo en la comuna.</p><p style=\"text-align:justify\">Cabe señalar, que a las 17:15 horas de hoy, se activó la mensajería SAE, para apoyar la evacuación del sector Puente Efraín Zenteno por desborde de estero Las Plegarias y el sector Puente Pasaje B, por desborde del Río Ranas.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, declara Alerta Amarilla por amenaza de desborde para la comuna de Curanilahue,vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

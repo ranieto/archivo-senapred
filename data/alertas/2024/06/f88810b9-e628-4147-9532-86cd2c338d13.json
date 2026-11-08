@@ -1,0 +1,20 @@
+{
+	"id": "f88810b9-e628-4147-9532-86cd2c338d13",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Loncoche por desborde ",
+	"fechaHora": "2024-06-27T19:18:31.3131-04:00",
+	"createdAt": "2024-06-27T23:19:29.464Z",
+	"updatedAt": "2024-07-05T18:18:35.999Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-loncoche-por-desborde",
+	"parentId": "6baf6aee-7e60-4f70-80bf-d76d337e3f28",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Loncoche\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía, en base a lo reportado por la municipalidad de Loncoche, producto del desborde del Río Cruces en sectores urbanos de la ciudad, en donde se vieron afectadas 60 familias, las cuales 8 de ellas se encuentran con sus viviendas totalmente inundadas.<br></p><p style=\"text-align:justify\">Cabe señalar, que diversos sectores rurales de la comuna se encuentran asilados producto del desborde del Río Cruces.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable </span>y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Roja por desborde para la comuna de Loncoche, </strong>vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

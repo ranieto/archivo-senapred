@@ -1,0 +1,20 @@
+{
+	"id": "9a5f9ccd-474d-49cb-a8e3-003feedd42eb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Lonquimay por incendio forestal",
+	"fechaHora": "2024-02-26T21:28:00.000-03:00",
+	"createdAt": "2024-02-27T00:39:23.534Z",
+	"updatedAt": "2024-04-09T17:15:16.640Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lonquimay-por-incendio-forestal-2",
+	"parentId": "3563b23b-453a-4e20-8834-7d7109ea52a0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Lonquimay\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;con relación al incendio forestal registrado en la comuna de Lonquimay, se indica lo siguiente:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Troyo</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>852 hectáreas</div></td></tr></tbody></table></div><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja y declara Alerta Amarilla para la comuna de Lonquimay por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

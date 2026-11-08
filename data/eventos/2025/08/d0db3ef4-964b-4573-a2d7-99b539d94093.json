@@ -1,0 +1,19 @@
+{
+	"id": "d0db3ef4-964b-4573-a2d7-99b539d94093",
+	"type": "Evento",
+	"titulo": "Incendio estructural, comuna de Arica (cierre de evento)",
+	"fechaHora": "2025-08-05T22:24:00.000-04:00",
+	"createdAt": "2025-08-06T02:27:32.888Z",
+	"updatedAt": "2025-08-06T02:27:32.888Z",
+	"urlAccess": "incendio-estructural-comuna-de-arica-informacion-preliminar",
+	"parentId": "e053a5d6-4f76-442c-8bc8-0afc619250d2",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Arica\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, con relación al <strong>incendio estructural que afectó al Terminal Agropecuario (ASOCAPEC), ubicado en la comuna de Arica, </strong>se informa que éste se encuentra extinguido y finalizados los trabajos de Bomberos.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajaron en el lugar Bomberos de Arica, Carabineros, SAMU y Municipalidad de Arica con apoyo de 4 camiones aljibe, equipos electrógenos y 2 maquinarias Bobcat.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

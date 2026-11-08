@@ -1,0 +1,19 @@
+{
+	"id": "79c9c919-d0e0-453c-8a92-92303e1519c4",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2024-10-23T05:41:00.000-03:00",
+	"createdAt": "2024-10-23T08:43:23.605Z",
+	"updatedAt": "2024-10-23T08:46:39.709Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-11",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor&nbsp; intensidad se percibió a las 05:37 horas en la Región de Valparaíso. Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>IV</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

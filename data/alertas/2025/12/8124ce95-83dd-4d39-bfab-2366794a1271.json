@@ -1,0 +1,20 @@
+{
+	"id": "8124ce95-83dd-4d39-bfab-2366794a1271",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Pichidegua por incendio forestal",
+	"fechaHora": "2025-12-26T23:15:00.000-03:00",
+	"createdAt": "2025-12-27T02:26:02.235Z",
+	"updatedAt": "2025-12-29T22:59:28.192Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pichidegua-por-incendio-forestal-2025-12-25-15-24-55",
+	"parentId": "b10099bb-d4f5-4f55-b2ed-cad2021fd78d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de&nbsp;<strong>Pichidegua,&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Larmahue</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>245</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>1 brigada CONAF nocturna.</p><p>Recursos en trayecto: 6 brigadas CONAF, 1 camión aljibe, 1   skidder, 3 helicópteros, 2 aviones, 1 puesto de comando, 1 comandante de   incidente, 1 personal logística, 1 personal seguridad y 1 personal análisis.</p></td></tr><tr><td><p><strong>Afectación</strong></p></td><td><p>4 personas damnificadas y 400 evacuadas. </p><p>2 viviendas destruidas. </p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Pichidegua por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

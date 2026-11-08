@@ -1,0 +1,20 @@
+{
+	"id": "1474def1-766c-4af6-8f39-56ad5ef9a0ee",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región del Maule por calor intenso",
+	"fechaHora": "2024-12-25T23:13:21.2121-03:00",
+	"createdAt": "2024-12-26T02:14:01.202Z",
+	"updatedAt": "2024-12-26T02:14:31.442Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-calor-intenso-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo<strong> con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región del Maule:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA89</p></td><td><p style=\"text-align:justify\">Altas   temperaturas extremas para Cordillera Costa, Valle y Precordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Del mismo modo, no se prevén temperaturas máximas que igualen o superen los 34°C durante los próximos días en la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por Calor intenso, que se mantenía </strong>vigente desde el 22 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

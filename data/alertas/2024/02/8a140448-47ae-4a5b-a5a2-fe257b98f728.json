@@ -1,0 +1,20 @@
+{
+	"id": "8a140448-47ae-4a5b-a5a2-fe257b98f728",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Chillán por incendio forestal",
+	"fechaHora": "2024-02-17T12:38:00.000-03:00",
+	"createdAt": "2024-02-17T15:41:29.680Z",
+	"updatedAt": "2024-02-17T15:42:37.079Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-chillan-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Chillán\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,</span><span style=\"color: rgb(33, 37, 41)\">&nbsp;respecto al incendio forestal en la comuna de Chillán, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Cato 2</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado. El incendio se mantiene sin avance, con una disminución importante en su actividad. La línea perimetral fue reforzada con maquinaria, con excepción de la parte media del flanco izquierdo. Los recursos terrestres se mantienen haciendo recorridos en búsqueda de puntos calientes</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>14,3 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos involucrados</strong></p></td><td><div>2 brigadas de CONAF y 1 técnico de CONAF</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED <strong>cancela Alerta Amarilla para la comuna de Chillán por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 16 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

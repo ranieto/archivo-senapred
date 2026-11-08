@@ -1,0 +1,20 @@
+{
+	"id": "787eddbd-80cb-442f-a788-ee08e8cf6067",
+	"type": "Alerta",
+	"titulo": "Se modifica variable de Alerta Temprana Preventiva para la Región de Coquimbo por heladas",
+	"fechaHora": "2024-05-08T08:50:00.000-04:00",
+	"createdAt": "2024-05-08T12:54:58.051Z",
+	"updatedAt": "2024-05-08T21:57:36.098Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-viento-4",
+	"parentId": "333b03e5-be45-4eb9-8873-8fbff328b5b5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, <strong>han sido cancelados los Avisos Meteorológicos A129-1, A144-1, A142-1 y A138-1 por viento, probables tormentas eléctricas, precipitaciones en corto periodo de tiempo y probables nevadas</strong> respectivamente, en diversos sectores de la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron. Asimismo, <strong>se mantiene vigente el siguiente alertamiento meteorológico</strong> para la Región de Coquimbo:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A143-1</p></td><td><p style=\"text-align:justify\">Evento   de bajas temperaturas en cordillera de la costa y precordillera y valles   precordilleranos.</p></td><td><p style=\"text-align:center\">08-05</p></td><td><p style=\"text-align:center\">09-05</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>modifica la variable de la Alerta Temprana Preventiva Regional a heladas</strong>, que se encuentra vigente desde el 01 de mayo y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "dc7e9139-5faa-4e34-a6fb-8110a3d7cc71",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Los Ángeles por incendio forestal",
+	"fechaHora": "2024-01-24T22:29:00.000-03:00",
+	"createdAt": "2024-01-25T01:39:50.765Z",
+	"updatedAt": "2024-01-25T01:40:10.071Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"Mackena\"</span>, en la comuna de Los Ángeles, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Mackena</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>22.9 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Incendio forestal se encuentra controlado,   superando así la amenaza a viviendas e infraestructura crítica (torres de telefonía   y telecomunicaciones) que presentó durante la jornada de hoy.</span></p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la Comuna de Los Ángeles</strong>, por incendio forestal, que se mantuvo vigente desde el 24 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

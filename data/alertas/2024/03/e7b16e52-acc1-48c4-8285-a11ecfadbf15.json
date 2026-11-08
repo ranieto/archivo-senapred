@@ -1,0 +1,20 @@
+{
+	"id": "e7b16e52-acc1-48c4-8285-a11ecfadbf15",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las Provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2024-03-29T13:30:00.000-03:00",
+	"createdAt": "2024-03-29T16:37:51.272Z",
+	"updatedAt": "2024-03-29T16:38:07.117Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-9",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el Aviso Meteorológico A73/2024, que pronosticó la ocurrencia de viento normal a moderado en zonas de Pampa Patagónica Sur, Insular Central y Cordillera Austral Sur de la Región de Magallanes y de la Antártica Chilena, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes meteorológicos, que suponen una disminución de la amenaza asociada y reducción del factor de riesgo para los habitantes y sus bienes, la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial <strong>cancela la Alerta Temprana Preventiva por viento</strong>, para las </span><strong><span style=\"color:black\">Provincias de Magallanes y Tierra del Fuego</span></strong><span style=\"color:black\">,que se mantuvo vigente desde el 25 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

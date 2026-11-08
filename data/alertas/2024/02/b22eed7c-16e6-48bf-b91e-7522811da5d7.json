@@ -1,0 +1,20 @@
+{
+	"id": "b22eed7c-16e6-48bf-b91e-7522811da5d7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Camiña por aumento de caudal",
+	"fechaHora": "2024-02-28T21:40:00.000-03:00",
+	"createdAt": "2024-02-29T00:41:57.960Z",
+	"updatedAt": "2024-03-04T19:53:19.167Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-camina-por-aumento-de-caudal-3",
+	"parentId": "bef0ef93-1b21-409f-8b86-1f99791031b5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Camiña\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la </span><strong>Dirección General de Aguas</strong><span style=\"color: black\"> (DGA), a través de su </span><strong>plataforma de monitoreo de caudales</strong><span style=\"color: black\">, se ha emitido una </span><strong>Alerta Roja</strong><span style=\"color: black\"> en la estación denominada “</span><strong>Q. Camiña 3 Km. Arriba de Tarcavire</strong><span style=\"color: black\">”, producto de un aumento en el caudal, alcanzando un máximo de 32,9 m</span><sup>3</sup><span style=\"color: black\">/s en la presente jornada, lo cual prevé una amenaza para la población, sus bienes y el medio ambiente de la comuna de Camiña.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, se informa que a las 21:19 y las 21:36 horas de hoy se emitieron dos mensajes SAE a la comuna de Camiña, para apoyar el proceso de evacuación de los sectores aledaños al Río Camiña por amenaza de desborde.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes técnicos proporcionado por la DGA, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Roja para la comuna de Camiña por aumento de caudal</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene vigente una Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico</strong>, vigente desde hoy 28 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

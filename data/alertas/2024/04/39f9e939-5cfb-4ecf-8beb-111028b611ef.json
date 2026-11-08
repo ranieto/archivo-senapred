@@ -1,0 +1,20 @@
+{
+	"id": "39f9e939-5cfb-4ecf-8beb-111028b611ef",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Comuna de San Pedro por incendio forestal",
+	"fechaHora": "2024-04-17T17:50:00.000-04:00",
+	"createdAt": "2024-04-17T22:21:17.903Z",
+	"updatedAt": "2024-04-17T22:22:22.342Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Pedro\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Naconal Forestal (CONAF), controlado seencuentra el incendio forestal denominado Los Quillayes (ex Alto Loica), el cual consume una superficie aproximadade 124 hectáreas de vegetación, en la comuna de San Pedro.Cabe mencionar, que el incendio ya no presenta amenaza a viviendas y/o infraestructura crítica.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional deSENAPRED cancela la Alerta Roja para la Comuna de San Pedro, por incendio forestal, que se mantuvo vigentedesde el 16 de abril de 2024.<br></p><p>Recursos asociados al evento: 11 brigadas de CONAF, 9 Técnicos&nbsp;CONAF, bomberos de San Pedro<br></p><p>Otros recursosactivos: 1&nbsp;Ambulancia ACHS, 4&nbsp;Camión aljibe de CONAF, 1&nbsp;Puesto de Mando CONAF y 1&nbsp;Skidder de CONAF, 1&nbsp;Helicóptero de CONAF y 2&nbsp;Helicópteros dispuestos por SENAPRED</p><p><br></p><p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de San Pedro se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Los Quillayes RM</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>124 hectáreas </p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

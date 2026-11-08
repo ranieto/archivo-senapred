@@ -1,0 +1,20 @@
+{
+	"id": "381c8295-589f-4596-8704-36087928ace4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2024-03-19T18:49:00.000-03:00",
+	"createdAt": "2024-03-19T21:55:18.194Z",
+	"updatedAt": "2024-03-19T21:56:06.078Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong><span style=\"font-size: 16px\">respecto del incendio forestal que se encuentra en la comuna de Puerto Montt, se reporta lo siguiente:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 16px\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 16px\">Chin   Chin Viejo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 16px\"><strong>Estado</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 16px\">Extinguido</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 16px\"><strong>Superficie</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 16px\">419.31 hectáreas</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 16px\">Cabe mencionar que el incendio forestal Camino San Antonio, en la misma comuna, se encuentra <strong>controlado</strong> afectando 820 hectáreas de vegetación.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla</strong> para la Comuna de Puerto Montt, por incendio forestal, que se mantuvo vigente desde el 18 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

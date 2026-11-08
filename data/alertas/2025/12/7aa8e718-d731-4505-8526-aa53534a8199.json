@@ -1,0 +1,20 @@
+{
+	"id": "7aa8e718-d731-4505-8526-aa53534a8199",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Roja para la Región Metropolitana por calor extremo",
+	"fechaHora": "2025-12-30T14:36:48.4848-03:00",
+	"createdAt": "2025-12-30T17:38:16.967Z",
+	"updatedAt": "2026-01-02T14:21:50.243Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-metropolitana-por-calor-extremo-2025-12-28-10-43-46",
+	"parentId": "a932adc7-7b81-47d2-bf6e-4870fd6712ac",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA109-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de   altas temperaturas extremas en cordillera de la costa, valle y precordillera   (entre 33 y 36 °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">30-12-2025</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">01-01-2026</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A498-6</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en cordillera de la costa, valle y precordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">31-12-2025</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">01-01-2026</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED Actualiza la Alerta Roja Regional por calor extremo<strong>, </strong>la cual se encuentra vigente desde el 28 de diciembre y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la actualización de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El <strong>SENAPRED recomienda</strong><strong>a la población</strong> protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

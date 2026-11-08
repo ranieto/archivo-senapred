@@ -1,0 +1,20 @@
+{
+	"id": "b4a839e0-a811-40d8-b28d-c34616e24a4d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-02-17T19:18:00.000-03:00",
+	"createdAt": "2024-02-17T22:19:42.969Z",
+	"updatedAt": "2024-03-20T03:08:47.959Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2",
+	"parentId": "c0f5b59b-ab44-43b6-b0af-9825396af337",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá</strong>, se registran 1.189 clientes de las comunas de Huara, Pozo Almonte y Colchane sin suministro de electricidad, debido al corte de una línea de media tensión. Personal de CGE trabaja en el restablecimiento del servicio, en tanto, se activará un generador provisorio en la comuna de Colchane.</p><p style=\"text-align:justify\">Por otra parte, al momento se reportan tormentas eléctricas con chubascos ocasionales en las comunas de Colchane y Pica.</p><p style=\"text-align:justify\">Cabe señalar, que la Dirección Meteorológica de Chile (DMC), mantiene vigente los siguientes alertamientos meteorológicos para la Región de Tarapacá:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA14</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas en Cordillera.</p></td><td><p style=\"text-align:center\">16-02</p></td><td><p style=\"text-align:center\">17-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A31-3</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en Cordillera.</p></td><td><p style=\"text-align:center\">15-02</p></td><td><p style=\"text-align:center\">19-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva para la Provincia del Tamarugal</strong>, por <strong>tormentas eléctricas</strong>, vigente desde el 09 de febrero de 2024 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><strong><em>SENAPRED&nbsp;</em></strong><em>recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta.</em><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

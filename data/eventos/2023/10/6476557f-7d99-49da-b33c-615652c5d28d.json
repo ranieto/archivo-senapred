@@ -1,0 +1,20 @@
+{
+	"id": "6476557f-7d99-49da-b33c-615652c5d28d",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en Regiones de Atacama y Coquimbo",
+	"fechaHora": "2023-10-31T09:41:00.000-03:00",
+	"createdAt": "2023-10-31T12:44:44.304Z",
+	"updatedAt": "2023-10-31T12:44:44.304Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-regiones-de-atacama-y-coquimbo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 09:35 horas en las regiones de Atacama y Coquimbo<br><br><u>Reportes de Intensidad (Mercalli) por Localidad</u><br></p><p><br></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Atacama</strong></div></td></tr><tr><td><div>Copiapó:</div></td><td><div>VI</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: Coquimbo</strong></div></td></tr><tr><td><div>Coquimbo:</div></td><td><div>VI</div></td></tr><tr><td><div>La Serena:</div></td><td><div>VI</div></td></tr></tbody></table><p><br><u>Magnitud y Epicentro</u><br></p><p><br></p><table><tbody><tr><td><div>Magnitud (Richter):</div></td><td><div>6.6</div></td></tr><tr><td><div>Epicentro:</div></td><td><div>Latitud: -28.69<br>Longitud: -71.72</div></td></tr><tr><td><div>Referencia Geográfica:</div></td><td><div>55 Kms al Suroeste de Huasco</div></td></tr><tr><td><div>Región:</div></td><td><div>Coquimbo</div></td></tr><tr><td><div>Profundidad Focal (Kms):</div></td><td><div>38</div></td></tr><tr><td><div>Fuente:</div></td><td><div>Centro Sismológico Nacional</div></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br><br><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

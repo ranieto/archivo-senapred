@@ -1,0 +1,20 @@
+{
+	"id": "c4bb214d-930e-4200-8619-f8127a36eb3e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por viento",
+	"fechaHora": "2025-06-08T18:10:00.000-04:00",
+	"createdAt": "2025-06-08T22:18:13.444Z",
+	"updatedAt": "2025-06-08T22:18:49.228Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-viento-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido actualizado el Aviso Meteorológico A205-2/2025 por viento normal a moderado, excluyendo de su pronóstico a la Región de Los Lagos. Lo anterior, debido al debilitamiento de las condiciones que lo originaban en la región.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por viento, </strong>que se mantuvo vigente desde el 06 de junio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

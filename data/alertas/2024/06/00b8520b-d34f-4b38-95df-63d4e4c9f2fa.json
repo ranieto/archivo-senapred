@@ -1,0 +1,20 @@
+{
+	"id": "00b8520b-d34f-4b38-95df-63d4e4c9f2fa",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comunas de Sagrada Familia y San Rafael por desborde",
+	"fechaHora": "2024-06-20T23:55:12.1212-04:00",
+	"createdAt": "2024-06-21T03:57:11.215Z",
+	"updatedAt": "2024-06-24T03:09:08.484Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comunas-de-sagrada-familia-y-san-rafael-por-desborde",
+	"parentId": "342b4cd9-8681-4fb8-af09-ba5db099eb5e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó, Talca\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Rafael\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red Hidrométricas “Estación Estero Culenar en Villa Prat”, en las comunas de Sagrada Familia y San Rafael, ha alcanzado los valores del umbral de Alerta Roja.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde para la comunas de Sagrada Familia y San Rafael,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "70ba75d0-780c-42c5-ad6d-7d2f46ba1aaa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna Carahue por amenaza de desborde",
+	"fechaHora": "2024-08-03T22:47:11.1111-04:00",
+	"createdAt": "2024-08-04T02:47:55.706Z",
+	"updatedAt": "2024-08-04T02:48:09.967Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-carahue-por-amenaza-de-desborde-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación hidrométrica <strong>“Río Damas”</strong> en la comuna de Carahue, ha alcanzado el <strong>umbral de alerta azul,</strong> con tendencia a la baja en su caudal.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable, y <span style=\"color:black\">en coordinación con </span>la Delegación Presidencial <span style=\"color:black\">Regional La Araucanía</span><span style=\"font-size:12px\">, </span>la Dirección Regional del SENAPRED <strong>cancela la Amarilla por amenaza de desborde para la comuna Carahue</strong>, <span style=\"color:black\">que se mantuvo vigente desde el 02 de agosto de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

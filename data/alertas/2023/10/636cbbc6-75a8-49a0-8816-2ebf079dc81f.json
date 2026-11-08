@@ -1,0 +1,20 @@
+{
+	"id": "636cbbc6-75a8-49a0-8816-2ebf079dc81f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Concepción por evento masivo",
+	"fechaHora": "2023-10-30T09:30:00.000-03:00",
+	"createdAt": "2023-10-30T12:47:32.331Z",
+	"updatedAt": "2023-10-30T17:31:39.467Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-concepcion-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Concepción\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, finalizó el festival de música “Rock en Conce”, el cual se desarrolló entre los días sábado 28 y domingo 29 de octubre, sin reportarse situaciones de emergencia durante la celebración.<br><br>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Concepción por evento masivo, que se mantuvo vigente desde el 27 de octubre de 2023. <br><br><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

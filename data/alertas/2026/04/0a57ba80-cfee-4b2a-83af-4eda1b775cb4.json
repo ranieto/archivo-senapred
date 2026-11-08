@@ -1,0 +1,20 @@
+{
+	"id": "0a57ba80-cfee-4b2a-83af-4eda1b775cb4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+	"fechaHora": "2026-04-14T16:27:24.2424-04:00",
+	"createdAt": "2026-04-14T20:29:17.111Z",
+	"updatedAt": "2026-04-14T20:29:44.350Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico-2026-04-11-16-25-34",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama, debido al debilitamiento de las condiciones meteorológicas que los originaron:</p><p style=\"text-align: justify\"><br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: justify\">Alerta AA64-1</p></td><td><p style=\"text-align: justify\">Precipitaciones moderadas a fuertes en corto periodo de tiempo</p></td></tr><tr><td><p style=\"text-align: justify\">Alerta AA66</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas en el litoral, cordillera de la costa y sectores de valles, pampa y precordillera de la región.</p></td></tr><tr><td><p style=\"text-align: justify\">Aviso A178-1</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas en la región</p></td></tr><tr><td><p style=\"text-align: justify\">Aviso A182</p></td><td><p style=\"text-align: justify\">Nevadas normales a moderadas en cordillera de la región.</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, la Dirección Regional del SENAPRED Atacama&nbsp;</span><strong><span style=\"color: black\">cancela la Alerta Temprana Preventiva regional por evento meteorológico</span></strong><span style=\"color: black\">, que se mantuvo vigente desde el 11 de abril de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

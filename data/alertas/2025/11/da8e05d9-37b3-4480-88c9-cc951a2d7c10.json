@@ -1,0 +1,20 @@
+{
+	"id": "da8e05d9-37b3-4480-88c9-cc951a2d7c10",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Combarbalá por incendio forestal",
+	"fechaHora": "2025-11-17T20:21:00.000-03:00",
+	"createdAt": "2025-11-17T23:28:06.762Z",
+	"updatedAt": "2025-11-18T01:24:30.770Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-combarbala-por-incendio-forestal-2",
+	"parentId": "a61131e5-e16e-4d65-aaa5-ba54edf7e7f4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\">De acuerdo con la <strong>información técnica proporcionada por la CONAF</strong>, respecto al incendio forestal en la comuna de Combarbalá, se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p>Mal Paso</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.3</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Este   incendio, se desarrolla cercano a sectores habitados.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Combarbalá por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

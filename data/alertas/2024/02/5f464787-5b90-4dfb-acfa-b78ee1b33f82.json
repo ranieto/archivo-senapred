@@ -1,0 +1,20 @@
+{
+	"id": "5f464787-5b90-4dfb-acfa-b78ee1b33f82",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla y Alto del Carmen por tormentas eléctricas",
+	"fechaHora": "2024-02-20T10:42:26.2626-03:00",
+	"createdAt": "2024-02-20T13:44:16.218Z",
+	"updatedAt": "2024-02-20T13:45:04.313Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-y-alto-del-carmen-por-tormentas-electricas-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó, Chañaral, Huasco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Diego de Almagro, Copiapó, Tierra Amarilla, Alto del Carmen\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante la actualización del Aviso Meteorológico A31-4/2024, finaliza la probabilidad de tormentas eléctricas en cordillera de la Región de Atacama.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por tormentas eléctricas</strong> para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla y Alto del Carmen, que se mantuvo vigente desde el 15 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

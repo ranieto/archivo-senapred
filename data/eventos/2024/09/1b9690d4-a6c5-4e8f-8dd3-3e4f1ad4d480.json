@@ -1,0 +1,19 @@
+{
+	"id": "1b9690d4-a6c5-4e8f-8dd3-3e4f1ad4d480",
+	"type": "Evento",
+	"titulo": "Alteración del Suministro de agua potable, Comuna de Arica (información preliminar)",
+	"fechaHora": "2024-09-02T14:30:00.000-04:00",
+	"createdAt": "2024-09-02T19:05:57.245Z",
+	"updatedAt": "2024-09-03T11:59:37.833Z",
+	"urlAccess": "alteracion-del-suministro-de-agua-potable-comuna-de-arica-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Arica\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED </span><span style=\"color: black\">Arica y Parinacota</span><span style=\"color: black\">, 11.205 clientes se encuentran afectados por un corte en el servicio del suministro de agua potable, producto de la rotura de una matriz ocurrida en la comuna de Arica.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de lo anterior, se estima que el presente corte afecte los sectores Robinson Rojas, Capitán Avalos y Villa Frontera.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que no se han reportado situaciones de emergencia derivadas de estas condición.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en la reposición del servicio, personal de la empresa sanitaria Aguas Altiplano.</p>",
+	"variableInformateEventosId": "47537f83-6692-4432-9f54-2f8fab2808ab"
+}

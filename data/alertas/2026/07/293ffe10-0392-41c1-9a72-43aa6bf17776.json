@@ -1,0 +1,20 @@
+{
+	"id": "293ffe10-0392-41c1-9a72-43aa6bf17776",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Roja para la Región del Maule por desborde",
+	"fechaHora": "2026-07-27T05:20:46.4646-04:00",
+	"createdAt": "2026-07-27T09:22:39.574Z",
+	"updatedAt": "2026-07-29T15:36:56.169Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
+	"parentId": "306701d5-7e8c-404e-a536-2a2d3f5d138f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo reportan un incremento en los valores de caudal, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua:</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Estación hidrométrica</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Umbral</strong></span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rio   Perquilauquén en San Manuel</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Achibueno en la Recova</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   El Melado en el Salto</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Maule en Armerillo</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Palos en junta con Colorado</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Roja a Regional por desborde,</strong> que se encuentra vigente desde el 25 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe señalar, en virtud de la modificación de cobertura esta alerta, la Alerta Amarilla Regional por crecida, así como la Alerta Roja por crecida para las comunas de Linares, Longaví, Villa Alegre y Parral, quedan incorporadas dentro de esta nueva Alerta Roja de cobertura regional por desborde.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

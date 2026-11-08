@@ -1,0 +1,19 @@
+{
+	"id": "ce0872a1-88f4-407b-a591-2d8b4b41aee7",
+	"type": "Evento",
+	"titulo": "Accidente Terrestre, comuna de Arica  (Información preliminar)",
+	"fechaHora": "2024-01-31T00:00:00.000-03:00",
+	"createdAt": "2024-01-31T03:23:06.881Z",
+	"updatedAt": "2024-01-31T04:25:56.321Z",
+	"urlAccess": "accidente-terrestre-comuna-de-arica--informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Arica\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información preliminar proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, se registra la colisión de un bus de pasajeros y un vehículo menor, y posterior volcamiento de ambos vehículos en la Cuesta Camarones, Ruta 5 Norte en la comuna de Arica, resultando, al momento, 35 personas lesionadas.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que el tránsito vehicular en la ruta se encuentra habilitado en una pista y está siendo regulado por Carabineros.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, SAMU y Carabineros.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b571f6be-e598-40ea-a012-ba3713d93de4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2024-11-12T16:35:52.5252-03:00",
+	"createdAt": "2024-11-12T19:44:00.546Z",
+	"updatedAt": "2024-11-15T10:59:46.871Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-santo-domingo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Santo Domingo\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Conaf, en combate se encuentra el incendio forestal denominado Panguirosa, el cual consume al momento 5hectáreas de vegetación en la comuna de Santo Domingo.Cabe mencionar, que el incendio presenta comportamiento extremo, alta velocidad de propagación eintensidad en su frente de avance.</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Panguirosa</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>2 brigadas de Conaf, 2 técnicos y 1 camion aljibe</p></td></tr></tbody></table><p>En base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED , vigente desde hoy y hastaque las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

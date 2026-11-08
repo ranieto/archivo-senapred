@@ -1,0 +1,20 @@
+{
+	"id": "b249ca2b-5f36-4fe1-978d-4b01881edd56",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2026-07-05T11:59:35.3535-04:00",
+	"createdAt": "2026-07-05T16:01:06.300Z",
+	"updatedAt": "2026-07-05T16:08:14.706Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-coquimbo-2026-07-05-11-58-01",
+	"parentId": "ec149fff-a520-4143-89b9-2a8ac8a95387",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo, Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>​<span style=\"color: rgb(0, 0, 0);font-size: 16px\">Un sismo de mediana&nbsp; intensidad se percibió a las 11:54 horas en la Región de Coquimbo. Las intensidades en escala de Mercalli son:</span></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>II</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>V</p></td></tr><tr><td><p>Coquimbo:   </p></td><td><p>IV</p></td></tr><tr><td><p>La   Serena: </p></td><td><p>IV</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental.<br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.2 y se localizó a <span style=\"font-size: 16px\">34 kms al Oeste de Punta de Choros</span>.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

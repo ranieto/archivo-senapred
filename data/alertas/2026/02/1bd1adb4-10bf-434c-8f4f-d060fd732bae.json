@@ -1,0 +1,20 @@
+{
+	"id": "1bd1adb4-10bf-434c-8f4f-d060fd732bae",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Puente Alto por incendio forestal",
+	"fechaHora": "2026-02-21T17:04:11.1111-03:00",
+	"createdAt": "2026-02-21T20:09:57.720Z",
+	"updatedAt": "2026-02-21T20:10:26.942Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puente-alto-por-incendio-forestal-2026-02-21-15-58-59",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf y el SINAPRED,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la&nbsp;<strong>comuna de Puente Alto&nbsp;</strong>se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Hacienda el Peñón 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.5 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos de CB Puente Alto, 3 Brigadas, 1 Técnico, 1 Aeronave y 1 camión aljibe.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio Incendio forestal se encuentra controlado.</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color:#2e2e2e\"><span style=\"font-size: 14px\">Incendio forestal conforme a su combate ya se encuentra controlado. En consideración a estos antecedentes y en Base a la información técnica proporcionada por Conaf, en coordinación con la Delegación Presidencial de la Región Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Puente Alto, por incendio forestal, que se mantuvo vigente desde el 21 de febrero de 2026.</span></span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

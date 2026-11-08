@@ -1,0 +1,20 @@
+{
+	"id": "d73dffab-774b-4765-aae6-19167a45edcf",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas",
+	"fechaHora": "2025-11-10T19:44:57.5757-03:00",
+	"createdAt": "2025-11-10T22:46:00.402Z",
+	"updatedAt": "2025-11-10T22:46:47.588Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-23",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA96</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas con probabilidad de granizos en la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A438</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas con probabilidad de granizos en zonas de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por tormentas eléctrica</strong></span><strong><span style=\"color: black\">s, </span></strong><span style=\"color: black\">que</span><strong><span style=\"color: black\"> s</span></strong><span style=\"color:black\">e mantenía&nbsp;vigente desde el 09 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

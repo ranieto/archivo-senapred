@@ -1,0 +1,20 @@
+{
+	"id": "19939e29-01a5-467d-a756-db112501eb5c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Pichilemu por incendio forestal",
+	"fechaHora": "2025-12-16T19:27:00.000-03:00",
+	"createdAt": "2025-12-16T22:38:39.493Z",
+	"updatedAt": "2025-12-17T00:02:06.218Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-pichilemu-por-incendio-forestal-2025-12-15-16-47-33",
+	"parentId": "406d63e9-c676-4ed4-b435-ab7aee74a931",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de<strong> Pichilemu, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Panilonco</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">269</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">5 brigadas CONAF, 1 en puesto   de mando técnico, 2 aeronaves Conaf, 2 Skidders, 3 camiones aljibe y 1 puesto   de mando.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Información adicional</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal se encuentra   con comportamiento calmo por condiciones meteorológicas (Baja temperatura,   viento calmo). Una Brigada nocturna conaf trabajara en la noche.</p><p style=\"text-align:justify\">A las 18:47 horas se envió   Alerta SAE para sector de Coguil comuna de Pichilemu.</p><p style=\"text-align:justify\">A las 19:57 horas se canceló   alerta amarilla y se declaró Alerta Roja Comunal por incendio forestal Panilonco.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Pichilemu, por incendio forestal, que se encuentra vigente desde el 15 de diciembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9ddd9f05-4074-4f4e-a702-98f30b4c001c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Los Ángeles por incendio forestal",
+	"fechaHora": "2026-02-24T18:34:25.2525-03:00",
+	"createdAt": "2026-02-24T21:35:21.367Z",
+	"updatedAt": "2026-02-25T00:33:48.951Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-incendio-forestal-2026-02-24-18-35-03",
+	"parentId": "293feeea-5cb4-444b-aba2-4ce626766b3f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de <strong>Los Ángeles </strong>se informa el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los Ángeles</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 Brigadas y 7 técnicos   de CONAF, 3 aeronaves, 1 Puesto de Mando CONAF y 2 skidders de Conaf</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano   a sectores poblados</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br></span></p><p><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la dirección Regional de SENAPRED declara Alerta Roja para la comuna de Los Ángeles por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:16px\"><br></span></p><p><span style=\"font-size:16px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "d9f2fc0a-2ac0-4f57-8522-c0d3d7109ba3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Iquique por evento meteorológico",
+	"fechaHora": "2024-02-26T14:09:12.1212-03:00",
+	"createdAt": "2024-02-26T17:10:09.092Z",
+	"updatedAt": "2024-02-26T17:10:51.260Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-iquique-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el<strong>Aviso Meteorológico A46/2024,</strong>que pronosticó viento normal a moderado en litoral de la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align: justify\">Por otro lado, respecto de la actualización del<strong>Aviso Meteorológico A43-2/2024</strong>, de precipitaciones normales a moderadas, se informa que este pronóstico<strong>no contempla a la Provincia de Iquique para los días 26, 27, 28 y 29 de febrero</strong>.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva</strong>,<strong>para la Provincia de Iquique</strong>, por evento meteorológico, que se mantuvo vigente desde el 24 de febrero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c014e680-f265-4915-8db9-f2cdb328c783",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Curanilahue por amenaza de desborde",
+	"fechaHora": "2024-06-11T19:28:37.3737-04:00",
+	"createdAt": "2024-06-11T23:30:11.892Z",
+	"updatedAt": "2024-06-12T03:50:38.372Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curanilahue-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curanilahue\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, mediante su sistema de reporte en línea de las estaciones hidrométricas, se indica que se mantiene en umbral de Alerta Amarilla la estación “Río Curanilahue”.<br></p><p style=\"text-align:justify\">Cabe señalar, que a las 19:15 horas de hoy, se activó la mensajería SAE, para apoyar la evacuación preventiva del sector Galvarino por desborde del río Curanilahue.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, mantiene la Alerta Amarilla por amenaza de desborde para la comuna de Curanilahue<strong>, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

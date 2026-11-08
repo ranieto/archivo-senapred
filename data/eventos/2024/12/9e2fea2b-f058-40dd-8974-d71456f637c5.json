@@ -1,0 +1,20 @@
+{
+	"id": "9e2fea2b-f058-40dd-8974-d71456f637c5",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Biobío y La Araucanía   ",
+	"fechaHora": "2024-12-24T13:53:17.1717-03:00",
+	"createdAt": "2024-12-24T16:53:49.148Z",
+	"updatedAt": "2024-12-24T16:56:07.329Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-biobio-y-la-araucania",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía, Región del Biobío\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 13:49 horas en las regiones de Biobío y La Araucanía.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Concepción:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Padre   las Casas: </p></td><td><p>IV</p></td></tr><tr><td><p>Temuco:   </p></td><td><p>IV</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

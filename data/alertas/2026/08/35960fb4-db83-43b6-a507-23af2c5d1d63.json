@@ -1,0 +1,20 @@
+{
+	"id": "35960fb4-db83-43b6-a507-23af2c5d1d63",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2026-08-11T16:37:24.2424-04:00",
+	"createdAt": "2026-08-11T20:38:44.456Z",
+	"updatedAt": "2026-08-12T13:48:30.317Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-22-13-27-00",
+	"parentId": "a3f8bd6c-69e9-410b-b114-f75b2239998f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC</strong>), se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Enlace</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A408</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas con probabilidad de granizos en litoral, cordillera de   la costa, valle y precordillera.</p></td><td><p style=\"text-align:center\">11-08</p></td><td><p style=\"text-align:center\">11-08</p></td><td><p style=\"text-align:center\"><a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchivos.meteochile.gob.cl%2Fportaldmc%2FAAA%2Fdoc%2Fevento_A408_2026.php&amp;data=05%7C02%7Cperiodistadeturno%40senapred.gob.cl%7C6bdcd356b39741d3521b08def7e84749%7Cc4c70e6abf1c4c55986259a5f3ac8257%7C0%7C0%7C639220774164851278%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=h9ZUblTaQT55Rf8JweyeCUF%2BSE6GAQlpAj7U%2BNJdmeA%3D&amp;reserved=0\">Abrir   Aquí</a></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>mantiene la alerta amarilla regional por evento meteorológico,</strong> que se encuentra vigente desde el 30 de julio y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Con esta Alerta&nbsp;Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

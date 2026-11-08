@@ -1,0 +1,20 @@
+{
+	"id": "7af05bda-cf16-4a58-ad1a-b88e4cb4d30d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Los Ángeles por desborde",
+	"fechaHora": "2024-06-11T07:40:00.000-04:00",
+	"createdAt": "2024-06-11T11:43:50.533Z",
+	"updatedAt": "2024-06-11T11:44:49.366Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Los Ángeles\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>​De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red pluviométrica del Estero Quilque, en el sector de La Vega en la comuna de Los Ángeles, se encuentra fuera de los niveles de umbral de alerta de desborde y con tendencia a la baja.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Roja por desborde, para la comuna de Los Ángeles, </strong>que se mantenía vigente desde el 10 de junio del 2024<strong>.</strong></span></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

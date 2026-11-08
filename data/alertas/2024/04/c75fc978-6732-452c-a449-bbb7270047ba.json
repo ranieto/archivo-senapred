@@ -1,0 +1,20 @@
+{
+	"id": "c75fc978-6732-452c-a449-bbb7270047ba",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Valdivia por incendio forestal",
+	"fechaHora": "2024-04-14T12:24:00.000-04:00",
+	"createdAt": "2024-04-14T16:24:28.473Z",
+	"updatedAt": "2024-04-15T17:25:25.007Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valdivia-por-incendio-forestal",
+	"parentId": "6d7e9055-93e0-44d3-897e-84d1e2456746",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valdivia\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Valdivia, según el siguiente detalle:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Niebla</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>1 hectárea</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio presenta cercanía a sectores   habitados</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>2 brigadas de CONAF, 2 técnicos de CONAF y Bomberos de Valdivia</div></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de Valdivia por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

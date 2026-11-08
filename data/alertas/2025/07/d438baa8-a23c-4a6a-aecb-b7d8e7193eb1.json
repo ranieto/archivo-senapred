@@ -1,0 +1,20 @@
+{
+	"id": "d438baa8-a23c-4a6a-aecb-b7d8e7193eb1",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Camarones por remoción en masa",
+	"fechaHora": "2025-07-08T16:13:00.000-04:00",
+	"createdAt": "2025-07-08T20:20:10.294Z",
+	"updatedAt": "2025-10-17T02:53:11.716Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa-2",
+	"parentId": "cc0d8b2f-336a-4f94-b6e1-dd9e1ce1da64",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Camarones\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong>De acuerdo con los antecedentes proporcionados por la SERNAGEOMIN</strong>, mediante su informe técnico N°1/2025, se indica que en la Ruta 5 Norte, sector Cuesta de la Cultura Chinchorro, se ha observado una evolución en el evento de remoción en masa, ampliándose el área afectada. Igualmente, se presume que la profundidad de la cicatriz de la remoción ha aumentado. En este talud existen zonas con alta susceptibilidad de remociones en masa, principalmente en la cicatriz del desprendimiento.</p><p style=\"text-align:justify\">En tanto, la remoción en masa se encuentra activa y la intervención antrópica asociada a la instalación de elementos de fortificación, como el fijado del revestimiento de malla, podría gatillar nuevos desprendimientos a los ya registrados en los últimos días. A raíz de lo anterior, podrían registrarse cortes de ruta que aíslen personas y generen la necesidad de habilitar albergues en la ciudad de Arica para quienes lo requieran.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la comuna de Camarones por remoción en masa</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten. Por consiguiente, se <strong>cancela la&nbsp;</strong><strong>Alerta Temprana Preventiva por remoción en masa para la comuna de Camarones,</strong> la que se mantuvo vigente desde el 19 de mayo de 2025. </p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

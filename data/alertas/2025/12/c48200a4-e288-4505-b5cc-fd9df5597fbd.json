@@ -1,0 +1,20 @@
+{
+	"id": "c48200a4-e288-4505-b5cc-fd9df5597fbd",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2025-12-21T10:20:34.3434-03:00",
+	"createdAt": "2025-12-21T13:22:38.289Z",
+	"updatedAt": "2025-12-21T13:23:27.088Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-paralas-comunas-de-collipulli-curacautin-lonquimay-melipeuco-cunco-vilcun-villarrica-pucon-y-curarrehuepor-evento-meteorologico-2025-12-18-19-39-09",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que la originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A489</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en litoral, cordillera de la costa y valle.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento meteorológico regional</strong></span><span style=\"color:black\">, que se mantuvo </span><span style=\"color:black\">vigente desde el 18 de diciembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

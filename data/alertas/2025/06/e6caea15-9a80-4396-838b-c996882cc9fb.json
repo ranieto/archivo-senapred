@@ -1,0 +1,20 @@
+{
+	"id": "e6caea15-9a80-4396-838b-c996882cc9fb",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Puerto Montt por remoción en masa",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-06-22T02:07:57.085Z",
+	"updatedAt": "2025-06-22T02:08:18.212Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-puerto-montt-por-remocion-en-masa",
+	"parentId": "f8e34a6b-4781-4c77-ad33-966d7ccbe5ff",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos, respecto a la remoción en masa ocurrida en el kilómetro 10 de la Ruta V-805, comuna de Puerto Montt, se informa que durante la presente jornada se registró un nuevo desprendimiento de terreno, afectando la transitabilidad de la vía y obligando el cierre total de tránsito, por razones de prevención y seguridad.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la</strong></span><strong><span style=\"color:black\"> Alerta Amarilla por remoción en masa </span><span style=\"color:black\">para la comuna de Puerto Montt</span></strong><span style=\"color:black\">, que se encuentra vigente desde el 13 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Mañana domingo 22 de junio se realizará una mesa técnica en terreno, a fin de evaluar la situación y establecer los cursos de acción respectivos, donde se reunirán el Director Regional de SENAPRED, SEREMI de Transportes y Telecomunicaciones, personal municipal, SERNAGEOMIN y Carabineros.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento, el transporte público finalizará su recorrido, pasando por la parte alta y cruce Paredes. Del mismo modo, fue solicitado a la comunidad no acercarse al lugar hasta nuevo aviso.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "38db2540-6de4-4d12-b21d-28e250bcbbba"
+}

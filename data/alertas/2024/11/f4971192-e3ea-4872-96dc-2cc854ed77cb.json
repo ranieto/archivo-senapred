@@ -1,0 +1,20 @@
+{
+	"id": "f4971192-e3ea-4872-96dc-2cc854ed77cb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Llanquihue, Chiloé y Palena por evento meteorológico",
+	"fechaHora": "2024-11-15T21:43:00.000-03:00",
+	"createdAt": "2024-11-16T00:43:20.924Z",
+	"updatedAt": "2024-11-16T00:43:52.311Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-llanquihue-chiloe-y-palena-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con </span><strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><span style=\"color: black\"> han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que los originaron.</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A433 </p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en el litoral y cordillera austral.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A435</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera, cordillera, Chiloé, litoral interior y   cordillera austral.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">&nbsp; &nbsp; </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para las provincias de Llanquihue, Chiloé y Palena por evento meteorológico</strong>, que se mantenía vigente desde el 14 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

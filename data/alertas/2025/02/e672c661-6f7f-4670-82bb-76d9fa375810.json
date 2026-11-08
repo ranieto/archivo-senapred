@@ -1,0 +1,20 @@
+{
+	"id": "e672c661-6f7f-4670-82bb-76d9fa375810",
+	"type": "Alerta",
+	"titulo": "Modifica cobertura Alerta Roja para las comunas de Pinto y Coihueco por incendio forestal",
+	"fechaHora": "2025-02-26T17:59:10.1010-03:00",
+	"createdAt": "2025-02-26T21:13:19.159Z",
+	"updatedAt": "2025-03-07T22:40:51.384Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-coihueco-por-incendio-forestal-2",
+	"parentId": "f94b8a38-34b8-46bd-b0ed-e72919e72628",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín, Punilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Coihueco\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong><span style=\"color: rgb(33, 37, 41);font-size: 14px\">respecto a al incendio forestal en las&nbsp;</span><strong>comunas de Pinto y Coihueco&nbsp;</strong><span style=\"color: rgb(33, 37, 41);font-size: 14px\">se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San Patricio&nbsp;</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1143 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>​<br><strong>14 Brigadas de&nbsp;&nbsp;</strong>CONAF, 13 Técnicos de CONAF, 10 Aeronaves,&nbsp;1 Móvil combustible CONAF, 1 Ambulancia, 1 UAD Investigación de causas CONAF y 1 Puesto de comando.</p></td></tr></tbody></table><p style=\"text-align: justify\">Cabe indicar que este incendio se encuentra cercano a sectores habitados.&nbsp;</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED modifica cobertura de la Alerta Roja para las comunas de Pinto y Coihueco por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "d00b8d79-e285-476a-885b-acf7e7a1911b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-03-03T20:06:37.061Z",
+	"updatedAt": "2026-03-03T20:07:42.564Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-03-03-17-06-19",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Se mantienen vigentes los aviso Meteorológico A96-1/2026 (actualización): Altas Temperaturas en zonas desde la región de Coquimbo a la región del Biobío y Aviso Meteorológico A100/2026: Altas Temperaturas en Isla de Pascua. Lo anterior, conforme con el analisis ´tecnico realizado por CONAF, supone un aumento de la vulneravilidad respecto a la variable de incendio forestal por la alta probabilidad de generación y propagación de incendios forestales.</span></p><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>declara Alerta Temprana Preventiva Regional por amenaza de incendios forestales,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el&nbsp;monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

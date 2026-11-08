@@ -1,0 +1,20 @@
+{
+	"id": "92b86c4d-d4fb-4f5f-a8d3-f87f5c018f28",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2023-12-11T16:01:00.000-03:00",
+	"createdAt": "2023-12-11T19:04:03.760Z",
+	"updatedAt": "2023-12-11T19:06:02.815Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto del incendio forestal que se desarrolló en la comuna de Valparaíso, se indica lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Deslinde La Flecha.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna afectada</strong></p></td><td><p style=\"text-align:justify\">Valparaíso.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1 hectárea.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la comuna de Valparaíso por incendio forestal</strong>, la cual se mantuvo vigente desde el 09 de diciembre.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

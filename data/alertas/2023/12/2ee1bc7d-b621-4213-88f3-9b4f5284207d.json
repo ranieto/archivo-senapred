@@ -1,0 +1,20 @@
+{
+	"id": "2ee1bc7d-b621-4213-88f3-9b4f5284207d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Andacollo por evento masivo",
+	"fechaHora": "2023-12-28T12:59:00.000-03:00",
+	"createdAt": "2023-12-28T16:15:15.539Z",
+	"updatedAt": "2023-12-28T16:16:21.114Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-andacollo-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Andacollo\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional SENAPRED de Coquimbo, sin emergencias mayores ha finalizado la <strong>Fiesta Religiosa en Honor a Nuestra Señora del Rosario de Andacollo</strong>, la que se desarrolló entre los días 22 y 28 de diciembre en la comuna Andacollo provocando un desplazamiento masivo y alta concentración de personas en la comuna.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva comunal por evento masivo para la comuna de Andacollo</strong>, que se mantuvo vigente desde el miércoles 20 de diciembre de 2023. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

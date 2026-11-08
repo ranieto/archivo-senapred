@@ -1,0 +1,20 @@
+{
+	"id": "e9f04873-8762-42a8-af4f-eb226601340e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Constitución por incendio forestal",
+	"fechaHora": "2024-02-04T19:50:36.3636-03:00",
+	"createdAt": "2024-02-04T22:51:46.313Z",
+	"updatedAt": "2024-02-05T23:50:43.067Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-constitucion-por-incendio-forestal",
+	"parentId": "1e1270ed-6044-4d84-8e1a-c2fd4a04acc4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Constitución\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo c</span></strong><span style=\"color: black\">on <strong>la información proporcionada por CONAF</strong>, </span><span style=\"color: black\">respecto al incendio forestal Las Chacarillas 2, que afecta a la comuna de Constitución, se reporta lo siguiente:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"color:black\">Las Chacarillas 2</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas</p></td></tr><tr><td><p><strong>Recursos desplegados</strong></p></td><td><p>1 brigada de Conaf y 2 de Forestal   Arauco, 2 técnicos de Arauco, 1 helicóptero y 1 avión Arauco, 1 camión aljibe   de Conaf .</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Constitución por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

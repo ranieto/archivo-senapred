@@ -1,0 +1,20 @@
+{
+	"id": "b48c7261-7809-44c0-a8f7-7711cae0cb7a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Navidad por incendio forestal",
+	"fechaHora": "2024-01-31T17:19:00.000-03:00",
+	"createdAt": "2024-01-31T20:23:27.068Z",
+	"updatedAt": "2024-02-07T02:45:02.055Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-navidad-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa el siguiente detalle respecto del incendio forestal</span> “<span style=\"color: black\">El Maitén”, en la comuna de Navidad:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>El Maitén</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal   con comportamiento extremo y alta carga de combustible vegetal.</p><p>Asimismo, CONAF que   el incendio se desarrolla cercano a   sectores poblados e informa de alta probabilidad de afectación a infraestructura   crítica.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Trabajan en el   lugar, Bomberos de Navidad; 2 brigadas, 1 técnico, 1 aviones, 2 helicópteros   y 1 camión aljibe de CONAF.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la Comuna de Navidad por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "2ebb8d74-e286-4386-8d2b-c77c9c39c51f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2024-10-10T23:45:40.4040-03:00",
+	"createdAt": "2024-10-11T02:46:57.618Z",
+	"updatedAt": "2024-10-11T02:47:52.305Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-por-tormentas-electricas-para-la-provincia-del-loa-y-las-comunas-de-antofagasta-y-taltal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><p><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED, </span><strong>cancela la Alerta Temprana Preventiva Regional por viento</strong><span style=\"color: black\">, que se mantuvo vigente desde el 03 de octubre de 2024.</span><br></p><div><table><tbody><tr><td><p style=\"margin-right:-5.0pt;margin-left:-6.0pt;text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"margin-right:-5.0pt;margin-left:-6.0pt;text-align:center\">Alerta   AA80-1</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte con desarrollo de tormentas de arena en cordillera de la   costa, precordillera, precordillera salar y cordillera.</p></td></tr><tr><td><p style=\"margin-right:-5.0pt;margin-left:-6.0pt;text-align:center\">Aviso   A375-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de tormentas de arena en litoral,   cordillera de la costa, pampa, precordillera, precordillera salar y   cordillera.</p></td></tr></tbody></table></div>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

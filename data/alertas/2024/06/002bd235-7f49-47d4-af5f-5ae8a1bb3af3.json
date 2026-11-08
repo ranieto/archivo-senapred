@@ -1,0 +1,20 @@
+{
+	"id": "002bd235-7f49-47d4-af5f-5ae8a1bb3af3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2024-06-24T22:35:27.2727-04:00",
+	"createdAt": "2024-06-25T02:36:19.441Z",
+	"updatedAt": "2024-06-28T02:03:36.831Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-8",
+	"parentId": "389e7b37-760d-4004-8120-a4dd0050244e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED La Araucanía, respecto a las <strong>nevadas registradas en distintos sectores rurales de la comuna de Lonquimay</strong>, se informa que <strong>1.252 personas se mantienen aisladas</strong> en los sectores Icalma, Cruzaco, Huallenmapu, Pedregoso, Huallipulli, Mitrauquén Alto, Mitrauquén Bajo, Galletué y Quinquén.<br></p><p style=\"text-align:justify\">Cabe señalar que conforme a lo indicado por la Dirección Meteorológica de Chile (DMC) se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA55</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en precordillera y cordillera.</p></td><td><p style=\"text-align:center\">26-06</p></td><td><p style=\"text-align:center\">27-06</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A244</p></td><td><p style=\"text-align:justify\">Heladas   normales a moderadas en precordillera.</p></td><td><p style=\"text-align:center\">25-06</p></td><td><p style=\"text-align:center\">25-06</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A245-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en el litoral, cordillera de la costa, valle,   precordillera y cordillera.</p></td><td><p style=\"text-align:center\">26-06</p></td><td><p style=\"text-align:center\">27-06</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, SERNAGEOMIN informa se mantiene vigente su nota técnica donde indica que, debido a la situación de saturación actual de los materiales, se establece que las condiciones de inestabilidad en suelos y rocas, complementado con remociones en masa actualmente activas, se mantiene la condición de ALTA posibilidad de ocurrencia de remociones en masa en los territorios afectados por el evento meteorológico reciente.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, </strong>que se mantienevigente desde el 18 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento, se mantienen trabajando en el despeje de caminos: personal municipal, empresa Global, Vialidad, además de 4 maquinarias dispuestas por SENAPRED.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

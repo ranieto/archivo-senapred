@@ -1,0 +1,20 @@
+{
+	"id": "5f09e33f-9299-4390-be11-b5771f65f8a7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Quillota por incendio forestal",
+	"fechaHora": "2024-12-07T18:39:00.000-03:00",
+	"createdAt": "2024-12-07T21:44:43.597Z",
+	"updatedAt": "2024-12-08T01:57:50.282Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quillota-por-incendio-forestal",
+	"parentId": "d87d85b6-4f21-4ecf-83ea-5c243e5bbd9b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong><span style=\"font-size: 16px\">respecto del incendio forestal que se encuentra en la comuna de Quillota, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre   del incendio</strong></span></a></p></td><td><p style=\"text-align:justify\">Fundo Santa Rosa</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">20 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Se activó mensajería SAE a las 14:25 horas para la población Enrique   Arenas.</p><p style=\"text-align:justify\">Trabajan bomberos de Quillota, Hijuelas, Quilpué,   Nogales, La Calera, Villa Alemana, Limache y La Cruz. 6   brigadas, 1 técnico, 7 aeronaves de Conaf; y Municipalidad de Quillota</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en</p><p style=\"text-align:justify\">coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de Quillota</strong>, por incendio forestal, que se encuentra vigente desde el 07 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

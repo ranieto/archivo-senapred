@@ -1,0 +1,20 @@
+{
+	"id": "74a975e9-1d21-4cd7-929f-22c8d6c44aa2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Futrono por evento masivo",
+	"fechaHora": "2024-02-19T10:18:33.3333-03:00",
+	"createdAt": "2024-02-19T13:19:45.494Z",
+	"updatedAt": "2024-02-19T13:36:50.212Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-futrono-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Ranco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Futrono\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos, ha finalizado el evento masivo “Semana Futronina y Expo Rural 2024” en la comuna de Futrono, evento que congregó aproximadamente a 10.000 personas. Cabe mencionar que, no se registraron situaciones de emergencias asociadas a este evento.<br></p><p>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Futrono por evento masivo, que se mantuvo vigente desde del 14 de febrero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

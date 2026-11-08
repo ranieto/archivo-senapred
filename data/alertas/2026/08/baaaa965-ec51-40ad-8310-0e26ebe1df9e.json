@@ -1,0 +1,20 @@
+{
+	"id": "baaaa965-ec51-40ad-8310-0e26ebe1df9e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Coquimbo por evento meteorológico",
+	"fechaHora": "2026-08-26T12:47:24.2424-04:00",
+	"createdAt": "2026-08-26T16:48:44.989Z",
+	"updatedAt": "2026-08-26T16:49:45.419Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por Dirección Meteorológica de Chile y por los distintos organismos técnicos competentes, que indican una disminución de las condiciones de amenaza y por cuanto no se mantienen avisos, alertas o pronósticos que indíquenla inminencia de un fenómeno meteorológico de intensidad tal que requiera sostener una condición reforzada de alistamiento y movilización regional de recursos.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Del mismo modo, las situaciones de afectación de viviendas, interrupciones de conectividad y otras consecuencias derivadas del evento, se encuentran identificadas, atendidas o en proceso de solución mediante acciones sectoriales, municipales y regionales, de acuerdo con sus respectivas competencias.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por evento meteorológico,</strong> la cual se encontraba vigente desde el 04 de agosto de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

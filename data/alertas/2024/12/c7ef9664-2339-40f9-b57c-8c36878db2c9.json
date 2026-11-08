@@ -1,0 +1,20 @@
+{
+	"id": "c7ef9664-2339-40f9-b57c-8c36878db2c9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Parinacota y la Comuna de Camaronespor evento meteorológico",
+	"fechaHora": "2024-12-01T22:51:31.3131-03:00",
+	"createdAt": "2024-12-02T01:52:10.746Z",
+	"updatedAt": "2024-12-02T01:52:28.544Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentra cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota, debido al debilitamiento de las condiciones que lo originaron.</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A439-4</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas, preferentemente durante   la tarde noche, con precipitaciones aisladas, en precordillera y cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">&nbsp; &nbsp; </span></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>Cancela la Alerta Temprana Preventiva por evento meteorológico para la Provincia de Parinacota y la Comuna de Camarones</strong>, que se mantenía vigente desde el 19 de noviembre.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

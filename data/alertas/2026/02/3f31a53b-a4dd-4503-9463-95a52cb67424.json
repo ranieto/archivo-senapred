@@ -1,0 +1,20 @@
+{
+	"id": "3f31a53b-a4dd-4503-9463-95a52cb67424",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la comuna de Porvenir por evento masivo",
+	"fechaHora": "2026-02-06T12:17:05.055-03:00",
+	"createdAt": "2026-02-06T15:19:20.776Z",
+	"updatedAt": "2026-02-10T19:49:12.337Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-porvenir-por-evento-masivo-2026-02-06-12-19-03",
+	"parentId": "ec366ee8-0ec6-474e-affd-0b4532ee3774",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Porvenir\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Magallanes, entre los días 06 y 07 de febrero se desarrollará el evento masivo denominado</span><strong> “XXIII Versión Asado Internacional Más Grande de Tierra del Fuego”</strong><span style=\"color: black\"> en el Club de Rodeo de Tierra del Fuego, donde se prevé una concurrencia aproximada de 3.000 personas, lo cual supone un aumento de la vulnerabilidad frente a las distintas variables de riesgo.</span></p><p><span style=\"color: black\"><br></span></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva por evento masivo para la comuna de Porvenir</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c93579d3-1ff9-4f38-ba5d-9b532a79e380",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Litueche por incendio forestal",
+	"fechaHora": "2025-05-02T16:34:48.4848-04:00",
+	"createdAt": "2025-05-02T20:36:59.505Z",
+	"updatedAt": "2025-05-02T20:38:20.204Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-litueche-por-incendio-forestal-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información técnica proporcionada por Conaf,</span><span style=\"color: black\">respecto al incendio forestal en la comuna de Alto del Carmense informa el siguiente detalle:</span></p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Quelentaro 1</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>Controlado</div></td></tr><tr><td><div><strong>Superficie afectada</strong></div></td><td><div>0.84 hectáreas</div></td></tr></tbody></table><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O'Higgins, <strong>la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Litueche, por incendio forestal, </strong>que se mantuvo vigente desde el 02 de mayo de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

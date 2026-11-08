@@ -1,0 +1,20 @@
+{
+	"id": "4209c923-add5-4039-8c9b-d018fabe9c59",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por tormentas eléctricas",
+	"fechaHora": "2023-11-11T08:35:00.000-03:00",
+	"createdAt": "2023-11-11T11:54:02.565Z",
+	"updatedAt": "2023-11-11T11:54:33.822Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> respecto al <strong>Aviso Meteorológico A423-5/2023</strong>, se informa que este ya <strong>no contempla a la Región de Antofagasta dentro de su cobertura territorial</strong>.<br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong><strong>a regional</strong>, <strong>por tormentas eléctricas</strong>, que se mantenía vigente desde el 08 de noviembre.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7617c64e-362b-4dee-b764-1fcb86cb79b6",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por precipitaciones",
+	"fechaHora": "2026-07-01T20:37:00.000-04:00",
+	"createdAt": "2026-07-02T00:44:11.960Z",
+	"updatedAt": "2026-07-02T00:44:25.550Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-precipitaciones-2026-07-01-12-07-25",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento para Isla de Pascua en la Región de Valparaíso.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Alertamiento cancelado</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Alerta   AA84</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Precipitaciones   moderadas a fuertes en Isla de Pascua.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por precipitaciones para la Provincia de Isla de Pascua,</strong> que se mantenía vigente desde hoy 01 de julio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

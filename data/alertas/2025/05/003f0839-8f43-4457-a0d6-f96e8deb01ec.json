@@ -1,0 +1,20 @@
+{
+	"id": "003f0839-8f43-4457-a0d6-f96e8deb01ec",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-05-27T16:40:29.2929-04:00",
+	"createdAt": "2025-05-27T20:41:46.264Z",
+	"updatedAt": "2025-05-27T22:05:24.420Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-viento-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A192</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en el litoral, cordillera de la costa, valle,   precordillera, Chiloé y litoral interior.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional&nbsp;</strong><strong>por evento meteorológico</strong>, que se encontraba vigente desde el 25 de mayo del 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

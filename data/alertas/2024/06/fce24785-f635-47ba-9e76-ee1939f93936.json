@@ -1,0 +1,20 @@
+{
+	"id": "fce24785-f635-47ba-9e76-ee1939f93936",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Tucapel, San Rosendo, Yumbel, Cabrero, Laja y Los Ángeles por crecida",
+	"fechaHora": "2024-06-06T08:25:00.000-04:00",
+	"createdAt": "2024-06-06T12:32:46.065Z",
+	"updatedAt": "2024-06-07T13:59:36.362Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-tucapel-san-rosendo-yumbel-cabrero-laja-y-los-angeles-por-crecida",
+	"parentId": "f26b3f91-93ff-4a52-af54-06ea29adb738",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación de red hidrométrica “Río Laja en Tucapel 2”, en la comuna de Tucapel, ha sobrepasado los valores del umbral de alerta amarilla, con tendencia al aumento de caudal, de acuerdo con lo reportado por el equipo en terreno.<br></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por crecida para las comunas de Tucapel, San Rosendo, Yumbel, Cabrero, Laja y Los Ángeles</strong>, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

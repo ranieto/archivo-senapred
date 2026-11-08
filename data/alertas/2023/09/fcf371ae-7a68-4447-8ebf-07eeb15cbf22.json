@@ -1,0 +1,20 @@
+{
+	"id": "fcf371ae-7a68-4447-8ebf-07eeb15cbf22",
+	"type": "Alerta",
+	"titulo": "prueba link insert historia",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-15T18:00:56.413Z",
+	"updatedAt": "2023-09-15T18:05:12.255Z",
+	"urlAccess": "prueba-link-2",
+	"parentId": "7648aed9-ae3f-4ec8-815e-7bb792426a0f",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p>asdfasf</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "eac3cbfd-311b-4fc6-98f9-52bd47176f06"
+}

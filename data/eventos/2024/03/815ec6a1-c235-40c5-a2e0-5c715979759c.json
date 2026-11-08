@@ -1,0 +1,19 @@
+{
+	"id": "815ec6a1-c235-40c5-a2e0-5c715979759c",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2024-03-21T10:09:00.000-03:00",
+	"createdAt": "2024-03-21T13:10:23.449Z",
+	"updatedAt": "2024-03-21T13:15:11.318Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-29",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 10:07 horas en la Región de Atacama.<br></p><p>Las intensidades en escala de Mercalli son las siguientes:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>III</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>III</p></td></tr></tbody></table><p style=\"text-align:justify\"></p><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

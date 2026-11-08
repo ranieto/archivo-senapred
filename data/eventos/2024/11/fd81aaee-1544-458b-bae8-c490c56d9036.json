@@ -1,0 +1,19 @@
+{
+	"id": "fd81aaee-1544-458b-bae8-c490c56d9036",
+	"type": "Evento",
+	"titulo": "Incendio Forestal, Comuna de Tiltil (Cierre de evento)",
+	"fechaHora": "2024-11-11T12:38:00.000-03:00",
+	"createdAt": "2024-11-11T15:43:18.965Z",
+	"updatedAt": "2024-11-11T15:43:18.965Z",
+	"urlAccess": "incendio-forestal-las-terneras-en-la-comuna-de-tiltil-region-metropolitana",
+	"parentId": "7bd419d3-6ad0-4459-928c-5c41b8ec1f42",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Tiltil\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que afecta a la comuna de Tiltil, es la siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">Las   Terneras</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">66   hectáreas</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

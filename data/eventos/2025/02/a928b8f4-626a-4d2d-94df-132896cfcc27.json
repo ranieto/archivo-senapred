@@ -1,0 +1,20 @@
+{
+	"id": "a928b8f4-626a-4d2d-94df-132896cfcc27",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Antofagasta y Atacama",
+	"fechaHora": "2025-02-18T14:28:30.3030-03:00",
+	"createdAt": "2025-02-18T17:30:42.695Z",
+	"updatedAt": "2025-02-18T17:33:59.371Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-atacama-4",
+	"parentId": "45bfa8dc-d3ac-4f42-a9ae-55ea2c269ed0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 14:19 en las regiones de Antofagasta y Atacama</span></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><p><br></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Antofagasta</strong></div></td></tr><tr><td><div>Taltal:</div></td><td><div>IV</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: Atacama</strong></div></td></tr><tr><td><div>Chañaral:</div></td><td><div>VI</div></td></tr><tr><td><div>Copiapó:</div></td><td><div>V</div></td></tr><tr><td><div>Tierra Amarilla:</div></td><td><div>V</div></td></tr><tr><td><div>Diego de Almagro:</div></td><td><div>V</div></td></tr><tr><td><div>Caldera:</div></td><td><div>V</div></td></tr><tr><td><div>El Salvador:</div></td><td><div>III</div></td></tr><tr><td><div>Alto del Carmen:</div></td><td><div>III</div></td></tr><tr><td><div>Vallenar:</div></td><td><div>III</div></td></tr></tbody></table><p><br></p><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED<br></p><p><span style=\"font-size:16px\">Preliminar: El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.6 y se localizó 41 Kms al Oeste de Chañaral</span></p><p>SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

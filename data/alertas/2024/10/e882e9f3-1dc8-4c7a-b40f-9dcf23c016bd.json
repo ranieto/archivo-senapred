@@ -1,0 +1,20 @@
+{
+	"id": "e882e9f3-1dc8-4c7a-b40f-9dcf23c016bd",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+	"fechaHora": "2024-10-09T19:22:15.1515-03:00",
+	"createdAt": "2024-10-09T22:23:44.760Z",
+	"updatedAt": "2024-10-09T22:24:40.396Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelada la Alerta Meteorológica AA79-1/2024 que pronosticaba precipitaciones moderadas a fuertes con isoterma cero alta en precordillera y cordillera de la Región de Atacama.<br></p><p style=\"text-align:justify\">Del mismo modo, han sido cancelados los Avisos Meteorológicos A373-1/2024 y A376-3/2024 que preveían precipitaciones normales a moderadas con isoterma cero alta en precordillera y cordillera y probables tormentas eléctricas asociadas con chubascos aislados en litoral, cordillera de la costa y sectores de valles, pampa, precordillera y cordillera, respectivamente.</p><p style=\"text-align:justify\">Finalmente, mediante la actualización del Aviso Meteorológico A375-3/2024 se da por finalizadas las condiciones que pronosticaron la ocurrencia de viento normal a moderado con probabilidad de tormentas de arena en las zonas de precordillera y cordillera en la región.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED c<strong>ancela la Alerta Temprana Preventiva regional por evento meteorológico</strong>, que se encontraba vigente desde el 05 de octubre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

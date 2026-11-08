@@ -1,0 +1,20 @@
+{
+	"id": "e2ca591e-a757-4e1f-8bcd-e83450aef120",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las comunas de Retiro y San Javier por incendio forestal",
+	"fechaHora": "2024-01-19T20:06:00.000-03:00",
+	"createdAt": "2024-01-19T23:17:53.421Z",
+	"updatedAt": "2024-01-21T22:12:15.728Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-retiro-y-san-javier-por-incendio-forestal",
+	"parentId": "73d4421a-5320-492d-a5a5-b0315f0e80b8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Retiro, San Javier\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\"><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>,&nbsp;respecto al incendio forestal en la comuna de X, se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>El Quillay Maureira<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>1.014,55 hectáreas<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio presenta cercanía a sectores   habitados</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>12 brigadas de CONAF, 6 brigadas de Arauco, 2 ,rigadas de Mininco,&nbsp;5 técnicos de CONAF, 4 técnicos de Arauco, 6 técnicos de Mininco,&nbsp;1 helicóptero de CONAF, 1 avión Forestal Arauco, 2 aviones Forestal Mininco, 3 helicópteros Forestal Mininco, 1 helicóptero SENAPRED,&nbsp;1 puesto de mando de CONAF, 2 Skidder de CONAF, 2 camiones aljibe de CONAF, 1 puesto de mando Forestal Arauco, 1 Skidder de&nbsp; Forestal Arauco y 1 Bulldozer de Forestal Arauco<br></div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional de SENAPRED<strong> mantiene </strong></span><strong>Alerta Roja para las comunas de Retiro y San Javier por incendio forestal</strong><span style=\"color: rgb(33, 37, 41)\">, que se encuentra vigente desde el 18 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,30 @@
+{
+	"id": "5d7b51e9-1ef2-47f4-a766-67bf3fa80587",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Atacama y Aysén y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
+	"fechaHora": "2026-07-19T12:40:00.000-04:00",
+	"createdAt": "2026-07-19T17:30:01.522Z",
+	"updatedAt": "2026-07-19T17:31:38.698Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-atacama-y-aysen-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2026-07-14-17-45-00",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef",
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd",
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo, Región de la Araucanía, Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región del Maule, Región del Biobío, Región de los Lagos, Región de Aysén del Gral. Carlos Ibañez del Campo, Región de los Ríos, Región de Ñuble\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p>El Centro Meteorológico Marítimo Regional de Valparaíso, dependiente de la Gobernación Marítima de Valparaíso, informa que han finalizado las condiciones de mar que se proyectaron como <strong>marejadas anormales </strong>del <strong>N</strong><strong>oroeste</strong>, producto de un sistema frontal que afectó al borde costero continental en el tramo comprendido entre las regiones de Atacama y Aysén, incluyendo el Archipiélago Juan Fernández en la Región de Valparaíso, lo que supone una disminución del riesgo asociado a esta variable.</p><p>En consideración a estos antecedentes, SENAPRED <strong>cancela Alerta Temprana Preventiva</strong> para las comunas del borde costero continental entre las regiones de Atacama y Aysén y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales, la cual se mantuvo vigente desde el 14 de julio 2026.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

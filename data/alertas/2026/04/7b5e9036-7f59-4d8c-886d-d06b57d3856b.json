@@ -1,0 +1,20 @@
+{
+	"id": "7b5e9036-7f59-4d8c-886d-d06b57d3856b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Valparaíso por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-04-28T23:46:28.238Z",
+	"updatedAt": "2026-04-28T23:49:59.968Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-04-25-20-58-43",
+	"parentId": "919d5321-ed67-42ed-ba7d-32c5fee65fb8",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<div><span style=\"font-size: 14px\">De acuerdo con la<strong> información técnica proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se informan los siguientes antecedentes:</span></div><div><span style=\"font-size: 14px\"><br></span></div><div><span style=\"font-size: 14px\">Situación Meteorológica: Se ha dado por finalizado el Aviso Meteorológico A197-2/2026, el cual pronosticaba vientos normales a moderados para la zona litoral de la Región de Valparaíso.</span></div><div><span style=\"font-size: 14px\"><br></span></div><div><span style=\"font-size: 14px\">Condición de Riesgo: La desactivación de las rachas de viento de hasta 50 km/h reduce significativamente el factor de propagación inmediata que dio origen a esta alerta. </span></div><div><span style=\"font-size: 14px\"><br></span></div><div><span style=\"font-size: 14px\">En consideración a estos antecedentes y la disminución de las condiciones de vulnerabilidad meteorológica, la Dirección Regional de SENAPRED Valparaíso, en coordinación con la Delegación Presidencial Regional, <strong>declara la CANCELACIÓN de la Alerta Temprana Preventiva para la Región de Valparaíso (o comunas afectadas), que se encontraba vigente desde desde el 25 de abril de 2026.</strong></span><br></div><div><span style=\"font-size: 14px\">​</span></div>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "77dd4269-66ae-4ac7-a92e-d2c150d50eef",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico",
+	"fechaHora": "2024-01-21T16:08:00.000-03:00",
+	"createdAt": "2024-01-21T20:18:04.034Z",
+	"updatedAt": "2024-02-09T01:22:27.970Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico",
+	"parentId": "6ebc9e74-be8a-4368-907a-61f3d808c1d9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante su Alerta Meteorológica A14/2024, se pronostica un<strong> evento de altas temperaturas</strong>, en la Pampa de la Región de Tarapacá, desde la tarde del domingo 21 hasta la tarde del martes 23 de enero del 2024. Asimismo, con la actualización del Aviso Meteorológico A9-1/2024, se pronostican <strong>probables tormentas eléctricas con precipitaciones aisladas</strong>, en cordillera y precordillera de la provincia del Tamarugal, desde la tarde del domingo 21 hasta la noche del martes 23 de enero del 2024.<br></p><p style=\"text-align:justify\">En consideración a los antecedentes meteorológicos mencionados, que suponen un aumento del riesgo asociado a esta variable, la Dirección Regional de SENAPRED de Tarapacá <strong>actualiza Alerta Temprana Preventiva</strong> para la provincia del Tamarugal por evento meteorológico, la que se mantendrá vigente hasta que las condiciones así lo ameriten. </p><p style=\"text-align:justify\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p><span style=\"font-size:15px;color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "1505bf08-c342-427e-a5ea-48a5704934c7",
+	"type": "Evento",
+	"titulo": " Sismo de mediana intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2025-03-24T01:39:00.000-03:00",
+	"createdAt": "2025-03-24T04:40:47.244Z",
+	"updatedAt": "2025-03-24T04:46:52.921Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-atacama-y-coquimbo-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo, Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">Un sismo de mediana intensidad se percibió a las 01:37 horas en las regiones de Atacama y Coquimbo.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Atacama </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Copiapó: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Tierra Amarilla: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Coquimbo </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">La Serena: </span></p></td><td><p><span style=\"font-size:16px\">V</span></p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "171f6a7a-86c8-49f7-9dd6-781a569fb974",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Amarilla para la comuna de Isla de Pascua por incendio forestal",
+	"fechaHora": "2023-10-30T20:12:00.000-03:00",
+	"createdAt": "2023-10-30T23:28:24.904Z",
+	"updatedAt": "2023-10-30T23:29:44.838Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-isla-de-pascua-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Isla de Pascua\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaís</span></strong><span style=\"color: black\">o, respecto del incendio forestal en la comuna de Isla de Pascua se indica el siguiente detalle:</span></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Ahu Kivi</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Controlado.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">10 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Fundamentación   técnica</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio se encuentra en   fase de extinción.</span></p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla </strong>para la comuna de Isla de Pascua por incendio forestal, que se mantuvo vigente durante hoy 30 de octubre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

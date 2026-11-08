@@ -1,0 +1,20 @@
+{
+	"id": "1457911c-b8e9-4b9e-bc4a-455096ad1431",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Puerto Varas por incendio forestal",
+	"fechaHora": "2024-12-17T16:56:46.4646-03:00",
+	"createdAt": "2024-12-17T20:01:04.602Z",
+	"updatedAt": "2024-12-17T20:04:54.845Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-varas-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se indica que el incendio forestal denominado “Ensenada”, se encuentra controlado con una superficie afectada de 1 hectárea de vegetación.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Ensenada</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Puerto Varas</div></td></tr><tr><td><div>Estado</div></td><td><div>Controlado</div></td></tr><tr><td><div>Superficie</div></td><td><div>1 hectárea</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 compañías de Bomberos (Puerto Varas y Puerto Montt), 3 brigadas CONAF, 4 técnicos CONAF, 2 aeronaves CONAF, 1 compañía de Carabineros y 1 director comunal GRD</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Puerto Varas, por incendio forestal, que se mantuvo vigente desde el 16 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

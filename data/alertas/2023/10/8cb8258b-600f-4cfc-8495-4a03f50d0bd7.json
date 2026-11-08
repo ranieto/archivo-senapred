@@ -1,0 +1,20 @@
+{
+	"id": "8cb8258b-600f-4cfc-8495-4a03f50d0bd7",
+	"type": "Alerta",
+	"titulo": "Monitoreo por evento meteorológico en la Región de La Araucanía",
+	"fechaHora": "2023-10-30T14:32:32.3232-03:00",
+	"createdAt": "2023-10-30T17:51:21.153Z",
+	"updatedAt": "2025-08-01T05:28:10.557Z",
+	"urlAccess": "monitoreo-por-evento-meteorologico-entre-las-regiones-de-ohiggins-y-los-lagos",
+	"parentId": "38d84560-e740-4095-8235-8fef1127720f",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<table><tbody><tr><td colspan=\"3\"><p><strong><span style=\"color:black\">EVENTO DE   ORIGEN</span></strong></p></td></tr><tr><td colspan=\"3\"><p style=\"text-align:justify\">Sistema   frontal</p></td></tr><tr><td colspan=\"3\"><p style=\"text-align:justify\"><strong><span style=\"color:black\">SITUACIÓN METEOROLÓGICA POR REGIÓN</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">La   Araucanía</p></td><td colspan=\"2\"><p style=\"margin-right:3.45pt;margin-left:0cm;text-align:justify\">Cielo despejado en la   provincia de Malleco, nublado en la provincia de Cautín y nevadas en sectores   cordilleranos.</p></td></tr><tr><td colspan=\"3\"><p style=\"text-align:justify\"><strong><span style=\"color:black\">SITUACIONES DE EMERGENCIA Y/O AFECTACIÓN POR REGIÓN</span></strong></p></td></tr><tr><td colspan=\"3\"><div><br></div></td></tr><tr><td><p style=\"margin-right:8.45pt;margin-left:1.1pt\"><strong><span style=\"color:black\">Región</span></strong></p></td><td><p style=\"margin-right:8.45pt;margin-left:1.1pt\"><strong><span style=\"color:black\">Comuna </span></strong></p></td><td><p style=\"margin-right:8.45pt;margin-left:6.95pt\"><strong><span style=\"color:black\">Descripción   </span></strong></p></td></tr><tr><td rowspan=\"2\"><p style=\"margin-right:8.45pt;margin-left:1.1pt\">La Araucanía</p></td><td><p style=\"margin-right:8.45pt;margin-left:1.1pt\">Melipeuco</p></td><td><p style=\"margin-right:8.45pt;margin-left:6.95pt\">1 persona   damnificada, 1 vivienda con daño mayor y 1 con daño menor, por voladura de   techumbre. Trabaja personal municipal en el despeje de caminos, debido a la   caída de árboles en zonas rurales.</p></td></tr><tr><td><p style=\"margin-right:8.45pt;margin-left:1.1pt\">Pucón</p></td><td><p style=\"margin-right:8.45pt;margin-left:6.95pt\">20 viviendas con   daño menor y 282 personas aisladas, producto de acumulación de nieve en las   rutas. Trabaja personal de las empresas eléctricas y municipal, solicitando   apoyo de maquinaria.</p></td></tr><tr><td colspan=\"3\"><p style=\"margin-right:8.45pt;margin-left:0cm\"><strong><span style=\"color:black\">ALTERACIÓN   DEL SUMINISTRO DE ELECTRICIDAD</span></strong></p></td></tr><tr><td><p style=\"margin-right:8.45pt;margin-left:0cm\">La Araucanía</p></td><td colspan=\"2\"><p style=\"margin-right:8.45pt;margin-left:6.95pt\">6.730 clientes</p></td></tr><tr><td colspan=\"3\"><p style=\"margin-right:8.45pt;margin-left:6.95pt;text-align:center\"><em><span style=\"font-size:12px\">Fuente:   SEC, 14:00 horas.</span></em></p><p style=\"margin-right:8.45pt;margin-left:6.95pt;text-align:center\"><em><span style=\"font-size:12px\">Cabe   señalar, que el origen de las alteraciones del suministro eléctrico no   necesariamente corresponde al evento meteorológico.</span></em></p></td></tr></tbody></table>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

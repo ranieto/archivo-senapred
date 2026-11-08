@@ -1,0 +1,20 @@
+{
+	"id": "3975a72d-47c2-4126-afa7-16cb23335a87",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento zoosanitario",
+	"fechaHora": "2024-07-18T18:32:00.000-04:00",
+	"createdAt": "2024-07-18T22:33:51.195Z",
+	"updatedAt": "2024-07-18T22:34:28.275Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con los antecedentes proporcionados por la Dirección Regional del Servicio Agrícola y Ganadero (SAG)</strong>, mediante su resolución exenta N°855/2024 del 18 de julio de 2024, se informa el término de la emergencia por influenza aviar altamente patógena (H5N1) y el levantamiento de las últimas zonas bajo control sanitario (ZBCS) en la región, tras un esfuerzo exitoso de erradicación del virus en aves de corral y una vigilancia sostenida en aves silvestres, corroborando la ausencia de circulación viral.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen una disminución del riesgo asociado a dicha variable </span>la Dirección Regional de SENAPRED de Arica y Parinacota, <strong>cancela la Alerta Temprana Preventiva Regional por evento zoosanitario,</strong> que se mantuvo vigente desde el 12 de diciembre del 2022.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "bc271187-53cc-47dd-bf1e-5e5e259bd6ea",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las comunas de Punta Arenas, Laguna Blanca, San Gregorio y Primavera por viento",
+	"fechaHora": "2023-09-11T17:42:45.4545-03:00",
+	"createdAt": "2023-09-11T20:43:36.824Z",
+	"updatedAt": "2023-10-26T02:55:00.622Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-punta-arenas-laguna-blanca-san-gregorio-y-primavera-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Primavera\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el Aviso A366/2023, el cual pronostica viento normal a moderado en las comunas de Punta Arenas, Laguna Blanca, San Gregorio y Primavera, en la madrugada del miércoles 13 de septiembre.<br></p><p style=\"text-align: justify\">Por su parte, el Centro Meteorológico Regional Austral, mediante su Pronóstico Especial indica que la dirección y velocidad (km/h) esperadas son las siguientes:</p><table><tbody><tr><td><div><strong>Sector</strong></div></td><td><div><strong>Comuna</strong></div></td><td><div><strong>13 septiembre</strong></div></td></tr><tr><td rowspan=\"4\"><div>Pampa Patagónica Sur</div></td><td><div>Laguna Blanca</div></td><td><div>Noroeste 70 – 90</div></td></tr><tr><td><div>Punta Arenas</div></td><td><div>Noroeste 70 – 90</div></td></tr><tr><td><div>San Gregorio</div></td><td><div>Noroeste 60 – 90</div></td></tr><tr><td><div>Primavera</div></td><td><div>Noroeste 70 – 90</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED<strong>declara Alerta Temprana Preventiva</strong>para las comunas de Punta Arenas, Laguna Blanca, San Gregorio y Primavera por viento, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p style=\"text-align: justify\"><em><strong>SENAPRED</strong>recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.&nbsp;</em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

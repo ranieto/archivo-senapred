@@ -1,0 +1,20 @@
+{
+	"id": "09b2e1c0-f900-4031-bc1c-a9636eda0ef5",
+	"type": "Alerta",
+	"titulo": "Actualización alerta temprana preventiva para la region del biobio por evento meteorologico",
+	"fechaHora": "2023-09-21T16:12:03.033-03:00",
+	"createdAt": "2023-09-21T19:13:36.623Z",
+	"updatedAt": "2023-10-26T01:42:05.863Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>Actualizacion estado alerta preventiva</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

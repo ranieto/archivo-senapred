@@ -1,0 +1,20 @@
+{
+	"id": "0d23bf0d-b7bd-4774-877c-bb7552c98d5f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla por amenaza de desborde para la comuna de Carahue",
+	"fechaHora": "2024-06-27T17:18:15.1515-04:00",
+	"createdAt": "2024-06-27T21:19:03.188Z",
+	"updatedAt": "2024-07-05T17:05:23.290Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-carahue-por-amenaza-de-desborde-2",
+	"parentId": "927af031-bc1a-4ab3-8314-742db3ddc776",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Carahue\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Imperial” en la comuna de Carahue, ha sobrepasado los valores del umbral de Alerta Roja.<br></p><p style=\"text-align:justify\">Cabe mencionar que, si el caudal sigue aumentando puede producir daños en sectores poblados e infraestructura, requiriendo acciones de mitigación y prevención tales como evacuaciones y disponibilidad de recursos humanos y materiales.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Roja y cancela Alerta Amarilla por amenaza de desborde para la comuna de Carahue,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

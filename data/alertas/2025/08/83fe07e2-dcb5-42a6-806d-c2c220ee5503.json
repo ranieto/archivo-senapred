@@ -1,0 +1,20 @@
+{
+	"id": "83fe07e2-dcb5-42a6-806d-c2c220ee5503",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprna Peventiva para la Región de Valparaíso por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-08-03T21:20:56.959Z",
+	"updatedAt": "2025-08-03T21:21:24.792Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-a-excepcion-de-la-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-evento-meteorologico",
+	"parentId": "b237b0be-5e29-49f5-903b-f8bd8ecebc1b",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, debido a la debilitación de las condiciones meteorológicas iniciales, han sido cancelados los siguientes alertamientos para la Región de Valparaíso:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA69</p></td><td><p style=\"text-align:justify\">Viento moderado a   fuerte en la Provincia de Isla de Pascua.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA73</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas con probabilidad de precipitaciones fuertes en un corto periodo de   tiempo en los sectores de litoral y secano costero sur de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A283-4</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en sectores de litoral, cordillera de la costa y cordillera de la   región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A287-11</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en sectores de litoral, cordillera de la costa,   precordillera y valles precordilleranos de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A290-9</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas con probabilidad de precipitaciones fuertes en un corto   periodo de tiempo, en litoral y cordillera de la costa.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A291</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en la Provincia de Isla de Pascua.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Además, se informa del término del <strong>Aviso de marejadas normales N° 30</strong>, con cobertura desde el Faro Corona hasta Arica, incluyendo el Archipiélago Juan Fernández.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico, </strong>que se mantuvovigente desde el 29 de julio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

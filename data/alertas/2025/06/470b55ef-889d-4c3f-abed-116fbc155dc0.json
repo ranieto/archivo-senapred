@@ -1,0 +1,20 @@
+{
+	"id": "470b55ef-889d-4c3f-abed-116fbc155dc0",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de San Juan de la Costa por evento meteorológico",
+	"fechaHora": "2025-06-19T20:01:18.1818-04:00",
+	"createdAt": "2025-06-20T00:02:32.244Z",
+	"updatedAt": "2025-07-02T16:03:23.813Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-juan-de-la-costa-por-evento-meteorologico",
+	"parentId": "f9408a7d-4679-4b34-a268-206d9b506263",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, respecto a la afectación derivada del pasado evento meteorológico en la región, se informa que 13 personas se mantienen aisladas en el sector Trafunko – Los Bados, producto del aumento de caudal del Río Quihue y los daños provocados por este en la pasarela que daba conectividad al sector.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla para la comuna de San Juan de la Costa por evento meteorológico, </strong>que se encuentravigente a contar desde el 15 de junio.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante el domingo 15 de junio, se llevó a cabo un COGRID comunal en el que se acordaron los siguientes cursos de acción:</span></p><ul type=\"disc\"><li><span style=\"font-size:15px;color:black\">Entrega de apoyo social (cajas de      alimentos e insumos básicos) para las familias afectadas. Además de la      gestión de combustible para garantizar el desplazamiento de los equipos en      terreno.</span></li><li><span style=\"font-size:15px;color:black\">Coordinación con la Unidad de      Búsqueda y Rescate (UBRO) de posibles acciones de evacuación y apoyo.</span></li><li><span style=\"font-size:15px;color:black\">Evaluación técnica de daños en      infraestructura (incluida la pasarela dañada).</span></li><li><span style=\"font-size:15px;color:black\">Solicitud de recursos externos a      fin de asistir de manera eficiente a las familias damnificadas y mitigar      los efectos del evento.</span></li><li><span style=\"font-size:15px;color:black\">De manera particular para el      sector Trafunko – Los Bados, se encuentra en proceso de gestión el apoyo      social y el trabajo de maquinarias para el despeje del camino y reparación      de la pasarela dañada. Asimismo, se dispuso habilitar un medio de      transporte acuático como medida de evacuación alternativa en caso de ser      necesario.</span></li></ul>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

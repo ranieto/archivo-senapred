@@ -1,0 +1,20 @@
+{
+	"id": "162db628-1b6b-45d9-907e-153909229219",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Iquique por evento meteorológico",
+	"fechaHora": "2024-02-24T15:59:07.077-03:00",
+	"createdAt": "2024-02-24T19:00:53.767Z",
+	"updatedAt": "2024-02-26T17:10:10.363Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-iquique-por-evento-meteorologico",
+	"parentId": "d9f2fc0a-2ac0-4f57-8522-c0d3d7109ba3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Iquique\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC</span></strong><span style=\"color: black\">), se encuentran vigentes los siguientes alertamientos meteorológicos para la provincia:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A43-2</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas en litoral y   cordillera de la costa.</p></td><td><p style=\"text-align:justify\">24-02</p></td><td><p style=\"text-align:justify\">29-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A46</p></td><td><p style=\"text-align:justify\">Viento normal a moderado en litoral.</p></td><td><p style=\"text-align:justify\">24-02</p></td><td><p style=\"text-align:justify\">25-02</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que de acuerdo con lo indicado por DMC en su pronóstico meteorológico emitido el día de hoy, los montos de precipitaciones fluctuarán entre los 1 y 2 mm en las zonas de litoral y cordillera de la costa. En tanto, se espera que la velocidad del viento fluctúe entre los 20 y 40 km/h en las mismas zonas. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial de Tarapacá, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva para la Provincia de Iquique, por evento meteorológico, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span><br></p><p style=\"text-align: justify\"><em><span style=\"color: black\"><strong>SENAPRED&nbsp;</strong></span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><em><span style=\"color: black\">recomienda a la población reconocer en el entorno los posibles riesgos, como laactivación de quebradas y probables crecidas de cauces; evitar internarse en zonas alejadas, especialmente cuando las condiciones meteorológicas sean desfavorables; y preparar y revisar el techo de tu vivienda, las bajadas de agua y canaletas, junto con mantener limpias veredas y calzadas.</span></em></span><br></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

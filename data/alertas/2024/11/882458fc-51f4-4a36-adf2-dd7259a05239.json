@@ -1,0 +1,20 @@
+{
+	"id": "882458fc-51f4-4a36-adf2-dd7259a05239",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Melipilla por incendio forestal",
+	"fechaHora": "2024-11-25T16:44:56.5656-03:00",
+	"createdAt": "2024-11-25T19:46:05.711Z",
+	"updatedAt": "2024-11-26T01:09:50.606Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-melipilla-por-incendio-forestal",
+	"parentId": "b4bab9e5-5fa7-4b7d-914d-e4d1e96f5f13",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Melipilla\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf</strong>,&nbsp;respecto al incendio forestal en la comuna de Melipilla se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p><strong>Cuncumen</strong></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>15 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Melipilla y San Antonio; 3 brigadas y 5   técnicos de Conaf; 3 helicópteros y 1 avión de observación de Conaf; 2 helicópteros   de Senapred además de 1 camión aljibe.</p></td></tr></tbody></table><p>De acuerdo a lo informado por CONAF, se informa que el incendio presenta comportamiento extremo, alta velocidad de propagación, intensidad en el frente de avance y longitud de llama.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Melipilla por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "73731cd1-16c9-4692-bb6b-f570678cf930",
+	"type": "Alerta",
+	"titulo": "Se Declara Alerta Roja para la comuna de Catemu por incendio forestal",
+	"fechaHora": "2024-12-09T17:20:39.3939-03:00",
+	"createdAt": "2024-12-09T20:25:38.306Z",
+	"updatedAt": "2024-12-11T02:14:17.250Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-catemu-por-incendio-forestal",
+	"parentId": "8124ad7b-6395-4cec-874f-9dd48b5df8dc",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), activo se encuentra el incendio forestal “Santa Rosa 2”, que se desarrolla en la comuna de Catemu, Región de Valparaíso. Cabe destacar que, este incendio presenta un comportamiento extremo, por lo cual se ha solicitado mediante 2 mensajes SAE la evacuación del sector “El Quebrachal Población Santa Rosa”. </p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Santa Rosa 2</div></td></tr><tr><td><div>Comuna</div></td><td><div>Catemu</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>50 hectáreas</div></td></tr><tr><td><div>Obervaciones</div></td><td><div>De acuerdo con lo reportado por CONAF, incendio presenta con<br>comportamiento extremo de viento, con influencia topográfica y<br>probabilidad de afectación a viviendas, por lo cual se ha solicitado<br>mediante 2 mensajes SAE la evacuación del sector “El Quebrachal<br>Población Santa Rosa”.<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>1 brigada de bomberos, 7 brigadas CONAF, 1 técnico CONAF, 4 aeronaves CONAF y (en trayecto) 3 helicópetores gestionados por SENAPRED</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Catemu por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

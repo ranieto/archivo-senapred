@@ -1,0 +1,20 @@
+{
+	"id": "a4d156e9-cced-40d8-9c6c-e61e096f8969",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la Comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2026-01-12T19:45:00.000-03:00",
+	"createdAt": "2026-01-12T22:47:17.582Z",
+	"updatedAt": "2026-01-12T23:48:55.976Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-cauquenes-por-incendio-forestal-2026-01-11-18-12-08",
+	"parentId": "78afb4d6-87c7-4fc8-94e5-6090ca491a78",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size: 15px;color: black\">respecto al incendio forestal en la comuna de&nbsp;<strong>Cauquenes,&nbsp;</strong>se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">San Pedro</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">433</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Producto de este incendio se reportan 14 viviendas con afectación y 8   personas damnificadas.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Cauquenes, por incendio forestal, que se encuentra vigente desde el 11 de enero de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "aa039bbd-d869-4eca-b372-b925c0f73a53",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla Comunal para la Comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-11-10T14:17:37.3737-03:00",
+	"createdAt": "2024-11-10T17:26:35.240Z",
+	"updatedAt": "2024-11-10T18:44:26.786Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-10",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por CONAF, se informa lo siguiente: - Extinguido se encuentra el incendio forestal \"Fundo Curaumilla\", que consumió una superficie de 10 hectáreas. - Extinguido se encuentra el incendio forestal \"Puente Los Azules\", que consumió una superficie de 0,6 hectáreas.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Fundo Curaumilla</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Valparaíso (Laguna Verde)</div></td></tr><tr><td><div>Estado</div></td><td><div>Extinguido</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>10</div></td></tr><tr><td><div>Comentarios</div></td><td><div>El día viernes 08 de noviembre, se envió mensajería SAE para los sectores de Las Gaviotas, Caleta Grande y Curaumilla Center.<br></div></td></tr><tr><td><div>Brigadas que trabajan actualmente en la zona</div></td><td><div>1</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPREDcancela la Alerta Amarilla para la Comuna de Valparaíso, por incendio forestal, que se mantuvo vigentedesde el 09 de noviembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "2aeb9753-0473-4c5c-9035-27baa05656ec",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la provincia de Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-03-19T09:03:00.000-03:00",
+	"createdAt": "2024-03-19T12:14:28.890Z",
+	"updatedAt": "2024-03-20T03:08:47.747Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2",
+	"parentId": "c0f5b59b-ab44-43b6-b0af-9825396af337",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A40-9</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas en precordillera y cordillera,   preferente durante la tarde-noche, con precipitaciones aisladas.</p></td><td><p style=\"text-align:justify\">16-03</p></td><td><p style=\"text-align:justify\">19-03</p></td></tr></tbody></table><p style=\"text-align:justify\">Asimismo, debido al debilitamiento de las condiciones meteorológicas que lo originaron, fue cancelado el Aviso Meteorológico A64/2024 por precipitaciones normales a moderadas pronosticadas en zonas de la región.</p><p style=\"text-align:justify\">Por su parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), a través de la actualización de su Minuta de Peligro de Remoción en Masa, indicó que la probabilidad de flujos de detritos, deslizamientos y/o caída de rocas es <strong>baja</strong> en <strong>cordillera de la costa y pampa, moderada</strong> en <strong>precordillera </strong>y <strong>alta</strong><strong>en cordillera</strong> de la región.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, actualiza la <strong>Alerta Temprana Preventiva para la provincia de Tamarugal por tormentas eléctricas</strong>, que se mantiene vigente desde el 28 de febrero de 2024 y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

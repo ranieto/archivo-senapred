@@ -1,0 +1,20 @@
+{
+	"id": "ae01139f-8750-4a79-9cb1-cb3a6b8a39a9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Nogales por incendio forestal",
+	"fechaHora": "2024-03-01T17:49:00.000-03:00",
+	"createdAt": "2024-03-01T20:56:19.839Z",
+	"updatedAt": "2024-03-01T21:01:15.507Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-nogales-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Quillota\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Nogales\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Departamento de Protección contra Incendios Forestalesde CONAF, controlado se encuentra el incendio forestal denominado \"Quebrada Zamora\", el cual consume almomento 71,5 hectáreas de vegetación en la comuna de Nogales.Cabe mencionar, que el incendio no presenta amenaza a personas, viviendas y/o infraestructura crítica.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancelala Alerta Amarilla para la Comuna de Nogales, por incendio forestal, que se mantuvo vigente desde el 29 defebrero de 2024.</p><p><strong><span style=\"color:black\">De acuerdo con la información</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de Nogales se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Quebrada Zamora   </p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>71.5 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de   Nogales y La Calera, 8 brigadas CONAF, 5 técnicos CONAF, 3 helicópteros de   CONAF, 1 puesto de mando CONAF, 1 ambulancia ACHS, personal municipal y   Carabineros.</p></td></tr></tbody></table>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

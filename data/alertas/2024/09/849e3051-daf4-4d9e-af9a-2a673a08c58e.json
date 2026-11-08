@@ -1,0 +1,20 @@
+{
+	"id": "849e3051-daf4-4d9e-af9a-2a673a08c58e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Alto del Carmen por incendio forestal",
+	"fechaHora": "2024-09-14T19:26:16.1616-03:00",
+	"createdAt": "2024-09-14T22:27:43.129Z",
+	"updatedAt": "2024-09-14T22:28:49.744Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Alto del Carmen\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal “Pastalito” en la comuna de Alto del Carmen, este se encuentra controlado y no presenta una amenaza ainfraestructura crítica ni a centros poblados.</span><br></p><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Alto del Carmen, por incendio forestal, que se mantuvo vigente desde el 13 de septiembre de 2024</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

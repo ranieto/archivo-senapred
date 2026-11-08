@@ -1,0 +1,19 @@
+{
+	"id": "5bd615cc-2746-494b-bdd3-f7072e1afcbd",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región Metropolitana",
+	"fechaHora": "2023-10-31T09:49:00.000-03:00",
+	"createdAt": "2023-10-31T12:56:23.689Z",
+	"updatedAt": "2023-10-31T12:56:23.689Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-metropolitana",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 09:42 horas en la Región Metropolitana.<br><br>Las intensidades en la Escala de Mercalli son las siguientes:</p><p><br>Región: Metropolitana de Santiago</p><p><br>Puente Alto:\tIII<br>María Pinto:\tIII<br>Quinta Normal:\tIII<br></p><p>Se mantiene el monitoreo de este evento por parte de los organismos del Sistema.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

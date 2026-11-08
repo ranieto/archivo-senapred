@@ -1,0 +1,20 @@
+{
+	"id": "c0fe8bfb-8611-4b5f-9451-24355f669dcf",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Temprana Preventiva para la comuna de Puerto Montt por remoción en masa",
+	"fechaHora": "2025-06-12T22:57:00.000-04:00",
+	"createdAt": "2025-06-13T03:00:00.679Z",
+	"updatedAt": "2025-06-26T02:20:56.498Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-puerto-montt-por-remocion-en-masa",
+	"parentId": "a4bbf300-a223-4750-8ffd-42ebd4cf38bc",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, respecto a la remoción en masa ocurrida el 10 de junio, en el kilómetro 10 de la Ruta Chinquihue V-805 en la comuna de Puerto Montt, se informan los siguientes antecedentes:</span></p><ul type=\"disc\"><li><span style=\"font-size:15px;color:black\">Se mantiene interrumpido el tránsito vehicular en el sector. Se      realiza transbordo de pasajeros del transporte público en puntos      exteriores del tramo interrumpido, mientras el tránsito de vehículos      pesados es desviado hacia la Ruta 5 Sur (vía paralela a V-805) para evitar      zona de remoción.</span></li><li><span style=\"font-size:15px;color:black\">Durante la presente jornada se realizó la instalación de barreras      New Jersey para mitigar el deslizamiento en el área activa de la remoción.</span></li></ul><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva por remoción en masa para la comuna de Puerto Montt</strong>,que se encuentravigente desde el 11 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Hoy jueves 12 de junio, se realizó una reunión de coordinación con organismos técnicos (SERNAGEOMIN, Dirección de Obras Hidráulicas, Delegada Presidencial Regional, Carabineros, Municipalidad y SENAPRED), a fin de actualizar los cursos de acción asociados al presente evento.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Carabineros, junto personal de Seguridad Pública municipal se mantienen trabajando el resguardo de la zona, mientras SERNAGEOMIN, SEREMI de Transportes y Telecomunicaciones, Unidad de Gestión del Riesgo de Desastres de la Municipalidad de Puerto Montt y SENAPRED, trabajan en el monitoreo de la remoción.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0bfbb016-03e9-4858-9649-1fc4ac173190"
+}

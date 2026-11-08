@@ -1,0 +1,20 @@
+{
+	"id": "75a311b0-2ec5-44f5-97d5-83e50bf383cb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Lampa por incendio forestal",
+	"fechaHora": "2025-01-18T20:43:11.1111-03:00",
+	"createdAt": "2025-01-18T23:43:51.913Z",
+	"updatedAt": "2025-01-18T23:44:12.001Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-8",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Lampa se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre   del incendio</strong></span></a></p></td><td><p>Camino   Noviciado 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>14.2   hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio   no representa peligro a viviendas.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Talagante, por incendio forestal, que se mantuvo vigente desde el 17 de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

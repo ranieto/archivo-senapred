@@ -1,0 +1,20 @@
+{
+	"id": "e413c065-2231-497f-b16a-9151ca6ec0fe",
+	"type": "Alerta",
+	"titulo": "Nueva asociación",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-23T23:12:52.598Z",
+	"updatedAt": "2023-10-23T23:13:14.758Z",
+	"urlAccess": "demostracion-creacion-alerta",
+	"parentId": "0095cc5b-9943-484c-8983-540c30176a31",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Corte de suministro - Combustible\",\"nombreImg\":\"cortecombustible.png\"}",
+	"contenido": "<p>asd</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "51572446-f3e1-4d99-bb13-5722a014e64f"
+}

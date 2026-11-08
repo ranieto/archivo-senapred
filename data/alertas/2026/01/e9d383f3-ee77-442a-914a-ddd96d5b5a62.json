@@ -1,0 +1,20 @@
+{
+	"id": "e9d383f3-ee77-442a-914a-ddd96d5b5a62",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de Ñuble por incendio forestal",
+	"fechaHora": "2026-01-25T00:25:01.011-03:00",
+	"createdAt": "2026-01-25T03:25:54.207Z",
+	"updatedAt": "2026-01-25T03:27:14.772Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-amenaza-de-incendios-forestales-2026-01-07-17-22-54",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), los incendios forestales que afectaron a la Región de Ñuble y que dieron origen a la declaración de Alerta Roja Regional se mantienen actualmente controlados.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Por otro lado, ya no existe la condición de simultaneidad de incendios que excedía la capacidad operativa regional, ni la amenaza inminente para personas, vivienda o infraestructura crítica.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por incendios forestales</strong>, que se mantenía vigente desde el 17 de enero del 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

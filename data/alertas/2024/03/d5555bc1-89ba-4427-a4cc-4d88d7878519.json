@@ -1,0 +1,20 @@
+{
+	"id": "d5555bc1-89ba-4427-a4cc-4d88d7878519",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Tirúa por incendio forestal",
+	"fechaHora": "2024-03-02T23:39:42.4242-03:00",
+	"createdAt": "2024-03-03T02:43:44.443Z",
+	"updatedAt": "2024-03-07T20:13:25.977Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tirua-por-incendio-forestal",
+	"parentId": "087da5bd-acf2-4dc9-a2bc-6669c5b11ffa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Tirúa\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por el Departamento de Protección contra Incendios Forestalesde CONAF, en combate se mantiene el incendio forestal denominado \"Tranapeque Alto\", el cual consume almomento una superficie aproximada de 105 hectáreas de vegetación en la comuna de Tirúa.Cabe mencionar, que el incendio presenta comportamiento extremo, por lo cual el combate se concentra enla protección de viviendas del sector de Ranquilhue Chico camino a Chapo.Por otra parte, no se ha registrado afectación a viviendas ni a infraestructura crítica. Es importante destacar,que no se registran personas evacuadas, debido a que las habitantes de los sectores en riesgo permanecieron alresguardo de sus viviendas<br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinacióncon la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED mantiene la Alerta Rojapara la Comuna de Tirúa, por incendio forestal, que se encuentra vigente desde el 02 de marzo de 2024.<br></p><p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de Tirúa se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Tranaquepe Alto</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>105 hectáreas </p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>16:53 horas envío de mensaje SAE a la comuna de Tirúa, a   fin de reforzar la evacuación del sector Ranquilhue Chico, hacia Tranaquepe   bajo, sector La Cancha.</p></td></tr></tbody></table><p>Se encuentran en el lugar 1 Brigada de CONAF Y Empresa Privada.<br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

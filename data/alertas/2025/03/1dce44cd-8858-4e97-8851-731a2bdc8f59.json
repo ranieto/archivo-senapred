@@ -1,0 +1,20 @@
+{
+	"id": "1dce44cd-8858-4e97-8851-731a2bdc8f59",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Los Sauces y Lumaco por incendio forestal",
+	"fechaHora": "2025-03-28T17:11:00.000-03:00",
+	"createdAt": "2025-03-28T20:41:09.256Z",
+	"updatedAt": "2025-03-28T20:45:40.863Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-los-sauces-y-lumaco-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en las&nbsp;<strong>comunas de Los Sauces y Lumaco </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Centenario</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>690 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Los Sauces </p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Roja para las comunas de Los Sauces y Lumaco, por incendio forestal, que se mantuvo vigente desde el 24 de marzo de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

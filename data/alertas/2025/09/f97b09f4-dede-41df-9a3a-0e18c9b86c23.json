@@ -1,0 +1,20 @@
+{
+	"id": "f97b09f4-dede-41df-9a3a-0e18c9b86c23",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Amarilla para la comuna de Paiguano por incendio forestal",
+	"fechaHora": "2025-09-17T16:30:00.000-03:00",
+	"createdAt": "2025-09-17T20:22:58.861Z",
+	"updatedAt": "2025-09-17T22:37:39.563Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-paiguannio-por-incendio-forestal",
+	"parentId": "07f30275-9bb4-40a8-9b13-7fc3089fdc90",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Paiguano </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Chañar Blanco</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Paiguano, Vicuña, La Serena y Coquimbo; 3   técnicos de Conaf y Carabineros.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Paiguano por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

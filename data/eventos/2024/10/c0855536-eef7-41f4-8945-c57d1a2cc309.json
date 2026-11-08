@@ -1,0 +1,19 @@
+{
+	"id": "c0855536-eef7-41f4-8945-c57d1a2cc309",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Coquimbo",
+	"fechaHora": "2024-10-20T05:03:42.4242-03:00",
+	"createdAt": "2024-10-20T08:08:10.330Z",
+	"updatedAt": "2024-10-20T08:10:45.585Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-41",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 05:03 horas en la Región de Coquimbo. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Coquimbo </strong></p></td></tr><tr><td><p>La Serena: </p></td><td><p>IV</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

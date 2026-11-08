@@ -1,0 +1,20 @@
+{
+	"id": "e4b3aaa5-6da5-4e7e-b8df-903b22a06f3a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Chacabuco por calor intenso",
+	"fechaHora": "2025-02-27T09:37:10.1010-03:00",
+	"createdAt": "2025-02-27T12:38:25.060Z",
+	"updatedAt": "2025-02-27T12:39:19.405Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-chacabuco--por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico en la Región Metropolitana:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Aviso A56-3/2025</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de altas   temperaturas en cordillera de la costa y valle.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla por Calor intenso para la Provincia de Chacabuco</strong>, que se manteníavigente a contar desde el 24 de febrero.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene vigente la Alerta Temprana Preventiva Nacional por Calor.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

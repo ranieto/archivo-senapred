@@ -1,0 +1,20 @@
+{
+	"id": "28f315d9-3876-4c23-83cb-723c36dcb8a0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2023-11-06T12:35:25.2525-03:00",
+	"createdAt": "2023-11-06T15:37:09.104Z",
+	"updatedAt": "2023-11-07T22:01:49.753Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-3",
+	"parentId": "e83db85d-ee6b-4cc2-b328-94323a32bffa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante el Aviso Meteorológico A431/2023 se pronostica el probable desarrollo de tormentas eléctricas entre la noche de hoy lunes 06 y la noche del martes 07 de noviembre, en los sectores de litoral, cordillera de la costa, valle y precordillera de la Región de La Araucanía.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a esta variable meteorológica, la Dirección Regional del SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Temprana Preventiva regional</strong>, por tormentas eléctricas, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><strong><em><span style=\"color: black\">SENAPRED </span></em></strong><em><span style=\"color: black\">recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta.</span></em><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

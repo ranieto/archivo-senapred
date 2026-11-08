@@ -1,0 +1,20 @@
+{
+	"id": "b7c24d02-13d6-434a-91a3-53b6d1507f42",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2024-02-05T23:49:25.2525-03:00",
+	"createdAt": "2024-02-06T02:50:23.589Z",
+	"updatedAt": "2024-02-06T05:19:28.184Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal",
+	"parentId": "f06d4c7f-e9ec-435c-a7fd-790f80c66ca0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Linares\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo c</span></strong><span style=\"color: black\">on <strong>la información proporcionada por CONAF</strong>, </span><span style=\"color: black\">se reporta el siguiente detalle para el incendio forestal en la comuna de Linares:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Palmilla Bajo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a   sectores poblados.</p></td></tr><tr><td><p><strong>Recursos desplegados</strong></p></td><td><p>2 brigadas de Conaf, 1 técnico de   Conaf.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Linares por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

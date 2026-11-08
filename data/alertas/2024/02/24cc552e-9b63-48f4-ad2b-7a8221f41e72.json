@@ -1,0 +1,20 @@
+{
+	"id": "24cc552e-9b63-48f4-ad2b-7a8221f41e72",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Comuna de Quillón por incendio forestal",
+	"fechaHora": "2024-02-26T19:10:24.2424-03:00",
+	"createdAt": "2024-02-26T22:12:00.295Z",
+	"updatedAt": "2024-02-26T22:12:37.610Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quillon-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Quillón\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> controlado seencuentra el incendio forestal denominado “Monte Negro” el cual afecta a 2,75 hectáreas de vegetación en lacomuna de Quillón.&nbsp;</p><p> En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED cancela laAlerta Roja para la Comuna de Quillón, por incendio forestal, que se mantuvo vigente desde el 26 de febrero de2024<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

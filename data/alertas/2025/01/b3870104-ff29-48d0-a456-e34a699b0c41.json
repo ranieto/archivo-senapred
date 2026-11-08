@@ -1,0 +1,20 @@
+{
+	"id": "b3870104-ff29-48d0-a456-e34a699b0c41",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Provincia de Curicó por calor intenso",
+	"fechaHora": "2025-01-24T12:07:00.000-03:00",
+	"createdAt": "2025-01-24T15:09:38.653Z",
+	"updatedAt": "2025-02-02T03:15:57.759Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-curico-por-calor-intenso",
+	"parentId": "43dc8b7d-5c49-4406-a579-3d2eeaa969d6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong><span style=\"font-size: 15px\"> mediante su </span><strong>Pronóstico Meteorológico AM</strong><span style=\"font-size: 15px\"> de hoy viernes 24 de enero, </span><strong>se prevén temperaturas máximas de 34°C en la Provincia de Curicó</strong><span style=\"font-size: 15px\"> durante los días sábado 25 y domingo 26 de enero.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por calor intenso para la Provincia de Curicó, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">El SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

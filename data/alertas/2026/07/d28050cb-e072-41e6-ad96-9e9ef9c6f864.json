@@ -1,0 +1,20 @@
+{
+	"id": "d28050cb-e072-41e6-ad96-9e9ef9c6f864",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San Pablo por desborde ",
+	"fechaHora": "2026-07-31T01:44:00.000-04:00",
+	"createdAt": "2026-07-31T06:16:47.732Z",
+	"updatedAt": "2026-08-07T19:11:14.292Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-desborde-2026-07-29-19-05-35",
+	"parentId": "ff73844b-5142-461b-97a4-53b5063053e7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), se encuentran vigentes los siguientes alertamientos para la comuna de San Pablo:</p><table><tbody><tr><td></td><td></td></tr><tr><td><p style=\"text-align:justify\">Río   Pilmaiquén en San Pablo.</p></td><td><p style=\"text-align:justify\">Alerta   Azul Superior.</p></td></tr><tr><td><p style=\"text-align:justify\">Río   Bueno en Bueno, Río Bueno.</p></td><td><p style=\"text-align:justify\">Alerta   Amarilla Superior.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene Alerta Roja por desborde para la comuna de San Pablo,</strong> que se mantiene vigente desde el 29 de julio y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Con esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

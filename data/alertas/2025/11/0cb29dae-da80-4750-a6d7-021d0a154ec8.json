@@ -1,0 +1,20 @@
+{
+	"id": "0cb29dae-da80-4750-a6d7-021d0a154ec8",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Roja para la comuna de Limache por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-11-17T21:15:51.665Z",
+	"updatedAt": "2025-11-17T21:16:22.166Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-limache-por-incendio-forestal-6",
+	"parentId": "57565e5a-38a2-4df8-9220-15e68bf2fe99",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Queronque</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>30</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos Compañías del cuerpo de bomberos de Limache: 3 unidades</p><p>Compañías del cuerpo de bomberos de Villa Alemana: 2 unidades</p><p>Brigadas: 9 Terrestres</p><p>Técnicos: 2 5-2 y 5-8</p><p>Aeronaves: 2 Aviones</p><p>Otros recursos: 2 Helicópteros</p><p>1 Maquinaria pesada</p><p>1 Carabineros</p><p>1 GRD Municipalidad de Limache</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Limache, por incendio forestal, que se encuentra vigente desde el 17 de noviembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "5fc6a0f1-3812-41c3-b8ba-8c11666cd6e6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Florida por incendio forestal",
+	"fechaHora": "2024-02-01T18:28:00.000-03:00",
+	"createdAt": "2024-02-01T21:29:52.998Z",
+	"updatedAt": "2024-02-01T21:30:34.181Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-florida-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Florida\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>​</strong><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de Florida, se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Casablanca VIII Región</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>96,5 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><div>Incendio no presenta amenaza a viviendas</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para la comuna de Florida por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 29 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

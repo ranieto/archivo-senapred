@@ -1,0 +1,20 @@
+{
+	"id": "e1305a2a-4e48-4d22-bd5f-8d4f9031569d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Paine por incendio forestal",
+	"fechaHora": "2023-12-10T16:19:34.3434-03:00",
+	"createdAt": "2023-12-10T19:21:19.956Z",
+	"updatedAt": "2023-12-13T01:04:54.122Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-paine-por-incendio-forestal",
+	"parentId": "9ff8e051-097f-4f0e-b532-d783fb22ff66",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Paine\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de Paine, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Ensenada.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">15 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio se presenta cercano a viviendas. Adicionalmente, se informa de afectación en la Reserva   Natural Altos de Cantillana.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">Personal   técnico y 1 brigada de CONAF; Bomberos de Paine, Ñuñoa, Buin y Melipilla; y   equipo de SENAPRED regional.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por incendio forestal para la comuna de Paine</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

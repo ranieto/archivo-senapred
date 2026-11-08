@@ -1,0 +1,20 @@
+{
+	"id": "669a4884-2f9a-421b-9b93-77216b245359",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de O’Higgins por calor extremo",
+	"fechaHora": "2024-02-05T10:31:59.5959-03:00",
+	"createdAt": "2024-02-05T13:32:57.558Z",
+	"updatedAt": "2024-02-05T13:33:33.993Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-de-ohiggins-por-calor-extremo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> la sido cancelada la Alerta Meteorológica AA7-3, la cual pronosticaba un evento de altas temperaturas extremas en litoral, cordillera de la costa, valle y precordillera, de la Región de O’Higgins. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que la originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional O´Higgins, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Roja Regional por calor extremo,</strong> la cual se mantuvo vigente desde el 28 de enero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">No obstante, cabe señalar que se <strong>mantiene vigente una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

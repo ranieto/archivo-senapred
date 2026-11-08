@@ -1,0 +1,20 @@
+{
+	"id": "8c15de23-9360-40b6-bcec-39d850fc8247",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Carahue por incendio forestal",
+	"fechaHora": "2026-02-19T19:35:23.2323-03:00",
+	"createdAt": "2026-02-19T22:40:47.398Z",
+	"updatedAt": "2026-02-19T22:40:58.186Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-carahue-por-incendio-forestal-2026-02-19-16-53-19",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Pancul, comuna de Carahue</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5.9 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Carahue, 5 brigadas, 3 técnicos y un helicóptero de CONAF, además de 1 Puma 9 (puesto de mando) y 1 maquinaria pesada Conaf.</p></td></tr></tbody></table><p style=\"text-align: justify\">De acuerdo a lo informado por Conaf, el incendio forestal Pancul, en la comuna de Carahue, ya no representa amenaza a viviendas y/o infraestructura.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por Conaf, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Carahue, por incendio forestal, que se mantuvo vigente desde el 19 de febrero de 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

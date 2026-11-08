@@ -1,0 +1,20 @@
+{
+	"id": "e354f09a-54d6-479c-92f7-df852e4c699a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Hualqui por amenaza de desborde",
+	"fechaHora": "2024-08-01T19:38:00.000-04:00",
+	"createdAt": "2024-08-02T01:13:18.496Z",
+	"updatedAt": "2024-08-02T02:03:57.794Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-hualqui-por-amenaza-de-desborde-2",
+	"parentId": "f0c163f7-fa0c-4f1b-add8-be2e3ea680e3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Hualqui\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que las estaciones de <strong>red pluviométrica del estero Hualqui, comuna de Hualqui</strong>, se encuentran <strong>en umbral amarillo con tendencia a subida</strong>.<br></p><p style=\"text-align:justify\">Por otro lado, la Dirección Meteorológica de Chile (DMC) en su Informe de Amenaza Meteorológica, pronostica precipitaciones para los siguientes días en la zona, sumado al registro histórico que ha presentado el Río Pichilo en los eventos meteorológicos anteriores.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por amenaza de desborde para la comuna de Hualqui</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Además, con la declaración de la <strong>Alerta Amarilla</strong> se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

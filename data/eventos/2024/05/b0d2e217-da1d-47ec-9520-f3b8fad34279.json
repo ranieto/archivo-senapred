@@ -1,0 +1,19 @@
+{
+	"id": "b0d2e217-da1d-47ec-9520-f3b8fad34279",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2024-05-11T16:35:09.099-04:00",
+	"createdAt": "2024-05-11T20:36:36.000Z",
+	"updatedAt": "2024-05-11T20:36:36.000Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-36",
+	"parentId": "1760fb07-a934-43ab-a49d-0b759d7c63d3",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 16:21 en la región de Atacama</span><br></p><p style=\"text-align: left\"><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Atacama</strong></p></td></tr><tr><td><p>Copiapó:</p></td><td><p>III</p></td></tr><tr><td><p>Tierra Amarilla:</p></td><td><p>III</p></td></tr><tr><td><p>Caldera:</p></td><td><p>III</p></td></tr></tbody></table><p>El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.3 y se localizó 7 Kms al Este de Caldera.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

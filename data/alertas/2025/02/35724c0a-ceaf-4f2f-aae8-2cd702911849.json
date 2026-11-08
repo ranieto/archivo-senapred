@@ -1,0 +1,20 @@
+{
+	"id": "35724c0a-ceaf-4f2f-aae8-2cd702911849",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de Molina por incendio forestal",
+	"fechaHora": "2025-02-12T21:25:00.000-03:00",
+	"createdAt": "2025-02-13T00:39:22.014Z",
+	"updatedAt": "2025-02-13T15:45:59.189Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-molina-por-incendio-forestal",
+	"parentId": "5b0ac604-89f9-4f01-9b2f-4108b8cbf7e8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p></p><p><strong><span style=\"font-size:15px;color:black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size:15px;color:black\">respecto a los incendios forestales en la&nbsp;<strong>comuna de Molina,&nbsp;</strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong><span style=\"font-size:15px;color:black\">Nombre del incendio</span></strong></a></p></td><td><p><span style=\"font-size:15px;color:black\">El Baúl</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px;color:black\">Estado</span></strong></p></td><td><p><span style=\"font-size:15px;color:black\">En combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px;color:black\">Superficie</span></strong></p></td><td><p><span style=\"font-size:15px;color:black\">7 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px;color:black\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:15px;color:black\">El incendio se   mantiene con avance lento, consumiendo bosque nativo, con intensidad media del   frente de avance y longitud de llama media.</span></p></td></tr></tbody></table><p><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Comuna de Molina</strong>, por incendio forestal, que se encuentra vigente desde el 12 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

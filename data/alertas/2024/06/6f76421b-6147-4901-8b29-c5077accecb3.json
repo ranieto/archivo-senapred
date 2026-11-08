@@ -1,0 +1,20 @@
+{
+	"id": "6f76421b-6147-4901-8b29-c5077accecb3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2024-06-25T18:52:00.000-04:00",
+	"createdAt": "2024-06-25T22:52:41.400Z",
+	"updatedAt": "2024-06-25T22:53:04.648Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, no se esperan precipitaciones significativas para los próximos días en la región, además ha finalizado la vigencia de la Minuta Técnica por peligro de remoción en masa de SERNAGEOMIN, lo que supone una disminución del riesgo asociado a esta variable.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a la emergencia meteorológica y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por evento meteorológico</strong> que se mantuvo vigente desde el 20 de junio de 2024. </span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

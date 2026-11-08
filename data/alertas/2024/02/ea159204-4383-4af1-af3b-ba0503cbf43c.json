@@ -1,0 +1,20 @@
+{
+	"id": "ea159204-4383-4af1-af3b-ba0503cbf43c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para en las comunas de Parral y Retiro por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-02-05T20:38:12.738Z",
+	"updatedAt": "2024-02-05T20:42:34.170Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-retiro-y-parral-por-incendio-forestal",
+	"parentId": "456bc6ce-8408-48ee-964b-ce3cfffb809e",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;con relación al incendio forestal registrado en las comunas de Parral y Retiro, se indica lo siguiente:<br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Oriente</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>64.5 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para las Comunas de Parral y Retiro, por incendio forestal</strong>, que se mantuvo vigente desde el 05 de febrero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

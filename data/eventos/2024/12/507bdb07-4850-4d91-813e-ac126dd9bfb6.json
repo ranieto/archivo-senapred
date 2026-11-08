@@ -1,0 +1,20 @@
+{
+	"id": "507bdb07-4850-4d91-813e-ac126dd9bfb6",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2024-12-30T02:50:46.4646-03:00",
+	"createdAt": "2024-12-30T05:51:24.063Z",
+	"updatedAt": "2024-12-30T06:01:21.846Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-52",
+	"parentId": "70586ba4-a784-4631-8356-696e9878eb38",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 02:42 en las regiones de Atacama y Coquimbo. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Atacama </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Alto del Carmen: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Freirina: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Coquimbo </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">La Serena: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.7 localizado a74 Kms al Noroeste de Tongoy.</p><p>SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. Más info. <a href=\"http://www.snamchile.cl\">www.snamchile.cl</a></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

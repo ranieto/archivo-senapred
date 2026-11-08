@@ -1,0 +1,20 @@
+{
+	"id": "eb1593d8-6aa2-4e07-bbb3-0554f0c858b3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Futaleufú por incendio forestal",
+	"fechaHora": "2025-11-28T20:58:00.000-03:00",
+	"createdAt": "2025-11-29T00:12:16.787Z",
+	"updatedAt": "2025-11-29T23:08:18.341Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-futaleufu-por-incendio-forestal-2",
+	"parentId": "93e3a986-f6bf-4782-bedd-ff2847a3df05",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED,</strong>respecto al incendio forestal en la comuna de Futaleufú, se reporta el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del Incendio</strong></p></td><td><p>Reserva de&nbsp;Futaleufú</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Bajo Observación</p></td></tr><tr><td><p><strong>Superficie afectada&nbsp;</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Descripción</strong></p></td><td><p>Incendio originado producto de la caida de un rayo al interior del interior de la Reserva Nacional Futaleufú, cercano al sector<br>Mirador del Condor. Al momento presenta propagación lenta, intensidad del frente y longitud de llama baja.</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos,&nbsp;<strong>la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Futaleufú por incendio forestal,&nbsp;</strong>vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

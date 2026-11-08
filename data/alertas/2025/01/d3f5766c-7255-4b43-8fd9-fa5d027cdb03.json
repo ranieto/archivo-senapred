@@ -1,0 +1,20 @@
+{
+	"id": "d3f5766c-7255-4b43-8fd9-fa5d027cdb03",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Traiguén por incendio forestal",
+	"fechaHora": "2025-01-29T22:33:39.3939-03:00",
+	"createdAt": "2025-01-30T01:34:37.717Z",
+	"updatedAt": "2025-01-30T03:55:04.337Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-traiguen-por-incendio-forestal-2",
+	"parentId": "ba6fcddf-37b4-4582-b130-7c2c56b8030d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de&nbsp;<strong>Traiguén&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Miraflores   2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>52   hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Incendio   forestal cercano a sectores habitados.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos   de Traiguén</p><p>6 Brigadas de   CONAF</p><p>2 Técnicos   de CONAF</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Traiguén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

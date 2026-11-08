@@ -1,0 +1,20 @@
+{
+	"id": "b76ebf88-de6e-4252-93e8-ebb6d82059c2",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Curepto por incendio forestal",
+	"fechaHora": "2025-11-18T15:38:55.5555-03:00",
+	"createdAt": "2025-11-18T18:42:02.704Z",
+	"updatedAt": "2025-11-18T22:15:59.666Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curepto-por-incendio-forestal",
+	"parentId": "3fbcb93b-42d4-4d92-b5e3-1728b5bf1961",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información técnica proporcionada por la CONAF</strong>, respecto al incendio forestal en la comuna de Curepto, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p>La Leonera</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectárea</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio afecta preliminarmente una superficie de 1 hectarea de plantación de eucaliptus</p></td></tr></tbody></table></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, <strong>la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Curepto por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

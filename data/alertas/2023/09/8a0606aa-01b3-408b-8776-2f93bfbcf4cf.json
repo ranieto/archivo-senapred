@@ -1,0 +1,20 @@
+{
+	"id": "8a0606aa-01b3-408b-8776-2f93bfbcf4cf",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por tormentas eléctricas",
+	"fechaHora": "2023-09-11T16:12:00.000-03:00",
+	"createdAt": "2023-09-11T20:55:43.377Z",
+	"updatedAt": "2023-09-25T12:40:03.868Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui, Choapa, Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel, Salamanca\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante su Aviso Meteorológico A361/2023, se indica el probable desarrollo de tormentas eléctricas asociadas a chubascos aislados, entre la tarde y la noche del martes 12 de septiembre, en el sector cordillerano de la Región de Coquimbo.<br></p><p style=\"text-align: justify\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED<strong>declara Alerta Temprana Preventiva</strong>para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca<strong>,</strong>por tormentas eléctricas, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p style=\"text-align: justify\"><em><strong>SENAPRED</strong>recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

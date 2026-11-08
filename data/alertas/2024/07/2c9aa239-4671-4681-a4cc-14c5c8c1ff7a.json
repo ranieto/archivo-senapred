@@ -1,0 +1,20 @@
+{
+	"id": "2c9aa239-4671-4681-a4cc-14c5c8c1ff7a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento zoosanitario",
+	"fechaHora": "2024-07-23T17:38:00.000-04:00",
+	"createdAt": "2024-07-23T21:49:28.632Z",
+	"updatedAt": "2024-07-23T21:49:44.840Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), mediante la resolución exenta N°857/2024, se informa que luego de aplicar todas las medidas sanitarias establecidas en los documentos técnicos (Estrategia Sanitaria de Influenza Aviar Altamente Patógena y Plan de Contingencia), se procedió al finalizar la última Zona Bajo Control Sanitario en la Región de La Araucanía, por lo que se determinó levantar la Emergencia de Influenza Aviar H5N1 de Alta Patogenicidad en aves de no corral y aves acuáticas silvestres en todo el territorio de la región.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, la Minuta Técnica “Término de Emergencia de Influencia Aviar Altamente Patógena (IAAP) H5N1” indica que se alcanzó el objetivo de erradicación de la enfermedad en aves de corral, lo que, sumado a la evidencia de negatividad en las muestras de aves silvestres, finalizó de manera técnica y administrativa la emergencia, partir del presente mes.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong> por evento zoosanitario, que se mantuvo vigente desde el 04 de marzo de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

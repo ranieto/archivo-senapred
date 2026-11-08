@@ -1,0 +1,20 @@
+{
+	"id": "a8a72ea1-da67-4bf6-a5aa-a7255c586f74",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-11-02T13:14:56.5656-03:00",
+	"createdAt": "2024-11-02T18:34:52.950Z",
+	"updatedAt": "2024-11-02T22:38:18.929Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-9",
+	"parentId": "a40b2585-7df3-4530-be9e-144b08f05049",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Valparaíso, indica el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Camino al faro</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>activo</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color: black\">5 brigadas, 1 técnico, 4 camiones aljibe y 4 aeronaves de CONAF; Carabineros, 4 unidades de Bomberos de Valparaíso y 1 camión aljibe municipal.</span></p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara <strong>Alerta Roja</strong> para la comuna de Valparaíso por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

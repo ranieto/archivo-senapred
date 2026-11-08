@@ -1,0 +1,20 @@
+{
+	"id": "4a26a6f1-8adf-447a-81e5-6dec7c63d145",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de Ñuble por calor extremo",
+	"fechaHora": "2025-02-01T21:29:00.000-03:00",
+	"createdAt": "2025-02-02T00:31:48.842Z",
+	"updatedAt": "2025-02-02T00:32:21.195Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-de-uble-por-calor-extremo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), no se prevén eventos de temperaturas máximas que igualen o superen los 34°C durante los próximos días en la región de Ñuble.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por calor extremo</strong>,que se mantuvo vigente desde el 27 de enero de 2025. </p><p style=\"text-align:justify\">Cabe mencionar que se mantiene la Alerta Temprana Preventiva Nacional por Calor, vigente desde el 01 de noviembre de 2024 y hasta el 31 de marzo de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "701887ee-b01f-4e03-9d20-6f1ba2741237",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Nacimiento por desborde ",
+	"fechaHora": "2024-06-12T20:39:30.3030-04:00",
+	"createdAt": "2024-06-13T01:07:47.692Z",
+	"updatedAt": "2024-06-13T16:58:47.117Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-nacimiento-por-desborde",
+	"parentId": "070b29f1-841a-40c4-81cb-f61a3662ae66",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red fluviométrica “Río Vergara en Tijeral”, en la comuna de Nacimiento, se encuentra en umbral de Alerta Roja con tendencia de subida.<br></p><p style=\"text-align:justify\">Por otro lado, según los pronósticos elaborados por la Dirección Meteorológica de Chile, se prevé que continúen las precipitaciones intensas en corto periodo de tiempo en la comuna.</p><p style=\"text-align:justify\">Cabe señalar, que a las 21:04 horas de hoy, se emitió mensajería SAE para apoyar el proceso de evacuación del sector Lastra Bajo, comuna de Nacimiento.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable </span>la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>declara Alerta Roja por desborde para la comuna de Nacimiento</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Roja</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento.</span></p><p style=\"text-align:justify\">Cabe mencionar, que se mantienen vigentes la Alerta Roja regional por evento meteorológico, Alerta Roja para las provincias de Arauco y Concepción y la comuna de Los Ángeles por desborde y la Alerta Amarilla regional por amenaza de desborde.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

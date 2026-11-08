@@ -1,0 +1,20 @@
+{
+	"id": "d4dad395-9aaa-4794-856e-eb9af029065b",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura y variable Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Paria, Combarbalá, Illapel y Salamanca por viento",
+	"fechaHora": "2025-06-13T11:42:00.000-04:00",
+	"createdAt": "2025-06-13T15:44:51.149Z",
+	"updatedAt": "2025-06-16T23:26:13.851Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-meteorologico-5",
+	"parentId": "49b7017e-e150-4950-83bb-1c0d084e3f98",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A216</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado (entre 30 y 50, con rachas de 70 km/h) en cordillera de la región.</p></td><td><p style=\"text-align:center\">15-06</p></td><td><p style=\"text-align:center\">15-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, han sido cancelado el siguiente alertamiento:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A218</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas (entre 20 y 40 mm) en corto periodo de tiempo en   cordillera de la costa, precordillera y valles cordilleranos y cordillera de   la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>m</strong>odifica la cobertura y variable de la Alerta Temprana Preventiva para las comunas de&nbsp;La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Paria, Combarbalá, Illapel y Salamanca a viento<strong>, </strong>que se encuentra vigente desde el 08 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de la cobertura y variable de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

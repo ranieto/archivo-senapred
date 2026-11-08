@@ -1,0 +1,20 @@
+{
+	"id": "c03c56a0-384f-47e1-a8c9-70c1d9e7f7ca",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2024-06-06T13:49:30.3030-04:00",
+	"createdAt": "2024-06-06T17:51:08.758Z",
+	"updatedAt": "2024-06-06T18:04:23.526Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-tarapaca-y-antofagasta-6",
+	"parentId": "af62407d-18d7-4288-83b0-036abe4b4d03",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: rgb(33, 37, 41);font-size: 16px\">Un sismo de menor intensidad se percibió a las regiones de Tarapacá y Antofagasta. </span>​<br></p><p style=\"text-align: justify\"><span style=\"font-size: 14px\">Las intensidades en escala de Mercalli son:<br></span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>El   Loa: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>María   Elena: </p></td><td><p>IV</p></td></tr><tr><td><p>Tocopilla:   </p></td><td><p>IV</p></td></tr><tr><td><p>Antofagasta:   </p></td><td><p>III</p></td></tr><tr><td><p>Mejillones:   </p></td><td><p>III</p></td></tr><tr><td><p>Sierra   Gorda: </p></td><td><p>III</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px\"><span style=\"color: rgb(15, 20, 25);font-size: 15px;background-color: rgba(0, 0, 0, 0.03)\">&nbsp;El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.8 y se localizó a 28   Kms al Suroeste de Tocopilla.</span><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

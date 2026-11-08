@@ -1,0 +1,20 @@
+{
+	"id": "a846e530-d122-4615-a07c-fd99fdfc9768",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-12-31T15:47:00.000-03:00",
+	"createdAt": "2024-12-31T18:57:30.751Z",
+	"updatedAt": "2024-12-31T20:59:41.831Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-11",
+	"parentId": "c174d46d-ae34-4e9c-a357-66f7dd4f27eb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Valparaíso, se reporta lo siguiente:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Cerro Cordillera</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>El incendio se desarrolla cercano a sectores habitados.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Paine por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

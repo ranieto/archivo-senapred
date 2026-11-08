@@ -1,0 +1,19 @@
+{
+	"id": "621e97a6-2b85-4ce0-9d7f-3ef8762537d1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2025-05-04T22:20:36.3636-04:00",
+	"createdAt": "2025-05-05T02:23:10.295Z",
+	"updatedAt": "2025-05-05T02:26:30.279Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-18",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 22:19 horas en la Región de Valparaíso. </p><p>Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td class=\"se-table-selected-cell\" colspan=\"2\"><p><strong>Región: Valparaíso</strong></p></td></tr><tr><td><p>Villa Alemana :</p></td><td><p>III</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

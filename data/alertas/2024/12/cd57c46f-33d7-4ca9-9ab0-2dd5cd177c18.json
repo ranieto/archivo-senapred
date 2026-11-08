@@ -1,0 +1,20 @@
+{
+	"id": "cd57c46f-33d7-4ca9-9ab0-2dd5cd177c18",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Maule por incendio forestal",
+	"fechaHora": "2024-12-24T04:33:01.011-03:00",
+	"createdAt": "2024-12-24T07:33:54.893Z",
+	"updatedAt": "2024-12-24T19:44:05.835Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-maule-por-incendio-forestal-2",
+	"parentId": "81778094-02ab-4a9b-8230-31a9cd1c2755",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;en relación al incendio forestal en la comuna de Maule indica:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Callejón Unihue</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>12 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 Brigadas, 1 técnico, 1 skidder y 1 camión aljibe; además   de Bomberos de Maule, Talca, San Javier, San Rafael, San Clemente y Pelarco. </p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Maule por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

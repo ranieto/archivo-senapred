@@ -1,0 +1,20 @@
+{
+	"id": "e89b3586-4555-4a22-8a00-b6b670175d87",
+	"type": "Alerta",
+	"titulo": "Se actualiza y modifica cobertura de Alerta Amarilla por amenaza de desborde para las comunas de San José de La Mariquina y Lanco",
+	"fechaHora": "2024-06-16T19:57:00.000-04:00",
+	"createdAt": "2024-06-17T00:01:02.768Z",
+	"updatedAt": "2024-06-17T12:14:22.181Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-jose-de-la-mariquina-por-amenaza-de-desborde",
+	"parentId": "12312ebb-9a63-4723-a5fa-d08390c25c1d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Mariquina, Lanco\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red hidrométrica “Río Leufucade en Purulón” ubicado en las comunas de Panguipulli y Lanco, ha disminuido su nivel de umbral a azul y se observa una tendencia a la disminución de los caudales, por lo que la situación no reviste un riesgo mayor.<br></p><p style=\"text-align:justify\">Del mismo modo, la estación “Río Cruces en Rucaco”, en las comunas de San José de La Mariquina y Lanco, mantiene sus valores del umbral de Alerta Amarilla y aunque se observa una tendencia a la baja, producto de las precipitaciones pronosticadas para la próxima jornada en sectores de las regiones de La Araucanía y Los Ríos, se presentaría una eventual tendencia a aumentar su caudal dada las condiciones meteorológicas desfavorables, las cuales podrían presentar peligro de desborde en zonas habitadas. </p><p style=\"text-align:justify\">Lo anterior, supone un aumento del riesgo asociado a dicha variable para las comunas de San José de Mariquina y Lanco.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional de SENAPRED <strong>actualiza y</strong><strong>modifica la cobertura de la Alerta Amarilla por amenaza de desborde para las comunas de San José de La Mariquina y Lanco</strong> que se mantiene vigente desde el 14 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la actualización de esta alerta, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

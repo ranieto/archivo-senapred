@@ -1,0 +1,20 @@
+{
+	"id": "a3f9472d-690a-4aff-909e-03b3e3644273",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por Desborde y cancela Alerta Amarilla por amenaza de desborde para la comuna de Curanilahue",
+	"fechaHora": "2024-06-20T13:27:00.000-04:00",
+	"createdAt": "2024-06-20T17:55:19.838Z",
+	"updatedAt": "2024-06-22T22:53:51.044Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curanilahue-por-amenaza-de-desborde-2",
+	"parentId": "b1c477d9-f73f-4bc5-afb2-87a3c8e4f9a9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Curanilahue\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red fluviométrica “Río Curanilahue en Curanilahue”, en la comuna del mismo nombre, ha alcanzado los valores del umbral Amarillo, con tendencia al alza. Asimismo, personal municipal indica que existe un aumento de cauce en los ríos Curanilahue y Ranas; y en el estero Plegarias.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que a las 13:23 horas de hoy se emitió mensajería SAE para apoyar la evacuación de los sectores colindantes a los ríos Curanilahue y Ranas; y del estero Plegarias.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por Desborde y cancela la Alerta Amarilla por amenaza de desborde para la comuna de Curanilahue,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

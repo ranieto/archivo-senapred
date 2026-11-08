@@ -1,0 +1,20 @@
+{
+	"id": "1b1ac71b-c8f5-4e1c-835a-ea4a6ff961fc",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Catemu por incendio forestal",
+	"fechaHora": "2025-01-28T17:25:58.5858-03:00",
+	"createdAt": "2025-01-28T20:26:57.137Z",
+	"updatedAt": "2025-01-29T17:57:30.027Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-catemu-por-incendio-forestal-2",
+	"parentId": "c05067d2-cbed-4cde-9e81-7f1829998d91",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de&nbsp;<strong>Catemu </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Santa Rosa de Catemu</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Catemu; 2 brigadas terrestres y 2 aviones.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados.</p></td></tr></tbody></table><p>Producto de este incendio se activó mensajería SAE para la evacuación del sector denominado El Quebrachal.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Catemu por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

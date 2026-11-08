@@ -1,0 +1,20 @@
+{
+	"id": "42d9ca3c-6e85-47fe-ae58-a2d162a81c97",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de Linares por incendio forestal",
+	"fechaHora": "2024-12-21T19:21:00.000-03:00",
+	"createdAt": "2024-12-21T22:32:41.204Z",
+	"updatedAt": "2024-12-22T19:41:57.712Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2",
+	"parentId": "3db16aa3-1356-475b-badc-38dbaadce93c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Linares\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), <span style=\"font-size: 16px\">Controlado </span>se encuentra el incendio forestal denominado <span style=\"font-size: 16px\">\"</span><span style=\"font-size: 16px\">Los Hualles” </span>el cual consume una superficie de <span style=\"font-size: 16px\">8 </span>hectáreas de vegetación en la comuna Linares.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Linares por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos</p><p style=\"text-align:justify\">Respecto al incendio forestal en la comuna de Linares se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los   Hualles</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Hectáreas</strong></p></td><td><p>8</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio   Forestal controlado a las 18:45 hrs, en faena de liquidación.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 brigadas   Conaf, 3 técnicos Conaf, Carabineros - Reten Pejerrey, Ambulancia ACHS y 1   Puesto de Mando CONAF</p></td></tr></tbody></table>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "d2be77ee-68ac-40c4-8019-c388b1dbc069",
+	"type": "Evento",
+	"titulo": "Accidente Terrestre, comuna de Camarones (Amplía evento)",
+	"fechaHora": "2024-01-31T01:22:49.4949-03:00",
+	"createdAt": "2024-01-31T04:25:56.333Z",
+	"updatedAt": "2024-01-31T07:26:09.113Z",
+	"urlAccess": "accidente-terrestre-comuna-de-arica--informacion-preliminar",
+	"parentId": "ce0872a1-88f4-407b-a591-2d8b4b41aee7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Camarones\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con nueva información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota</span></strong><span style=\"color: black\">, con relación a la colisión de un bus de pasajeros y un vehículo menor, y posterior volcamiento de ambos en la Cuesta Camarones, Ruta 5 Norte, comuna de Camarones, se informa que 34 lesionados están siendo derivados por personal SAMU y vehículos particulares a diversos SAPU y CESFAM de la comuna de Arica, mientras que 1 de ellos fue trasladado al Hospital Regional.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que el tránsito vehicular en la ruta se mantiene habilitado en una pista, siendo regulado por Carabineros.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Se mantiene trabajando en el lugar Bomberos, Carabineros y SAMU.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

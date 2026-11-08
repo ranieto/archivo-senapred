@@ -1,0 +1,20 @@
+{
+	"id": "c1b30f57-9c60-4249-a6b8-504e42177b92",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Hualañé por incendio forestal",
+	"fechaHora": "2024-02-04T20:50:00.000-03:00",
+	"createdAt": "2024-02-04T23:57:22.568Z",
+	"updatedAt": "2024-02-05T23:56:12.765Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hualane-por-incendio-forestal",
+	"parentId": "6a58074c-aa27-4430-92b1-31d093973479",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Hualañé\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;con relación al incendio forestal registrado en la comuna de Hualañé, se indica lo siguiente:</span></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja y declara Alerta Amarilla para la comuna de Hualañé por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Orilla de Navarro<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>500 hectáreas<br></div></td></tr><tr><td><div>​<strong>Fundamentación técnica</strong>​</div></td><td><div>Incendio se encuentra controlado</div></td></tr><tr><td><p style=\"text-align:justify\">​<strong>Recursos involucrados</strong>​<br></p></td><td><p style=\"text-align:justify\">Bomberos de&nbsp;<span style=\"color: rgb(33, 37, 41)\">Hualañé, 3 brigadas de CONAF, 1 brigada BRIFE, 1 técnico de CONAF, 1 helicóptero de CONAF, 1 Skidder y 1 camión aljibe</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

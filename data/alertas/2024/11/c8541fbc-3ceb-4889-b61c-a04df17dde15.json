@@ -1,0 +1,20 @@
+{
+	"id": "c8541fbc-3ceb-4889-b61c-a04df17dde15",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2024-11-11T08:18:00.000-03:00",
+	"createdAt": "2024-11-11T11:22:13.160Z",
+	"updatedAt": "2024-11-11T11:22:56.256Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-colina-lo-barnechea-vitacura-las-condes-la-reina-penalolen-la-florida-puente-alto-pirque-y-san-jose-de-maipo-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región Metropolitana:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A424-2</p></td><td><p style=\"text-align:justify\">Probables tormentas   eléctricas en sectores de precordillera y cordillera de la región,   preferentemente durante la tarde-noche, con precipitaciones aisladas.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A426</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en sector cordillerano de la región.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Regional por evento meteorológico</strong>,que se mantenía vigente desde el 08 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

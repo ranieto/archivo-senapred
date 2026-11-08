@@ -1,0 +1,20 @@
+{
+	"id": "423ded22-c698-4e8c-9796-6a9a0eb2d74a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Yumbel por incendio forestal",
+	"fechaHora": "2024-01-19T22:40:00.000-03:00",
+	"createdAt": "2024-01-20T01:47:58.613Z",
+	"updatedAt": "2024-01-20T22:14:48.089Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-yumbel-por-incendio-forestal",
+	"parentId": "5a004475-ba76-4ca8-9370-a92c1e23dadb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Yumbel\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de Yumbel, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>El Litre</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>35 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio se encuentra activo y el trabajo se concentra en la protección de viviendas del sector Litre</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>En el lugar trabaja personal de Bomberos, Carabineros, Brigadas CONAF (recursos terrestres, aéreos), personal municipal y de empresas. </div><div><br></div><div>Esta noche, para el resguardo, tanto del incendio como de viviendas se destinarán los siguientes recursos: 1 Brigada terrestre de CONAF en resguardo, 3 carros de Bomberos en resguardo de viviendas, sector pasarela El Litre, y 2 brigadas terrestres de la Empresa Fasa. </div><div><br></div><div>Para el combate del 20 de enero del 2024 se dispondrán los siguientes recursos: 1 personal técnico de CONAF, 2 brigadas cisternas&nbsp;de CONAF, 1 brigada terrestre&nbsp;de CONAF, y 1 ambulancia. Y, por confirmar, se encuentran 2 brigadas terrestres de FASA.</div><div><br></div><div>Además, CONAF realizó el requerimiento a la Dirección Regional de SENAPRED Biobío de dos camiones aljibes que se están siendo gestionados con Bomberos y la Municipalidad de Yumbel.<br></div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>mantiene </strong></span><strong>Alerta Roja para la comuna de Yumbel por incendio forestal</strong>, que se encuentra vigente desde el 18 de enero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

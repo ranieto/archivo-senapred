@@ -1,0 +1,20 @@
+{
+	"id": "51bbf379-f653-43c0-bc1c-6bead2dd9d64",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la región de Valparaíso por amenaza de incendios forestales",
+	"fechaHora": "2025-01-20T20:12:06.066-03:00",
+	"createdAt": "2025-01-20T23:14:15.220Z",
+	"updatedAt": "2025-01-20T23:15:38.048Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-valparaiso-exceptuando-el-territorio-insular-de-la-provincia-de-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Debido a la cancelación del Aviso A22-1/2025 por Altas Temperaturas en zonas desde la región de Coquimbo a la región del Biobío, emitida por la Dirección Meteorológica de Chile, al debilitamiento de las condiciones meteorológicas que lo originaron y al término de las variables de riesgo que dieron origen a su declaración, es que se ha determinado la cancelación de la Alerta Temprana Preventiva Regional.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de <strong>SENAPRED </strong>cancela la Alerta Temprana Preventiva para la región de Valparaíso por amenaza de incendios forestales, que se mantuvo vigente desde el 17 de enero de 2025.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

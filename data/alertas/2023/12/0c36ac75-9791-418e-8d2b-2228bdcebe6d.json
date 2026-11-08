@@ -1,0 +1,20 @@
+{
+	"id": "0c36ac75-9791-418e-8d2b-2228bdcebe6d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla en la Comuna de Quilpué por incendio forestal",
+	"fechaHora": "2023-12-05T22:25:02.022-03:00",
+	"createdAt": "2023-12-06T01:26:55.655Z",
+	"updatedAt": "2023-12-08T02:13:06.402Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quilpue-por-incendio-forestal",
+	"parentId": "bec365db-5fe9-47a5-b9fc-87a1bcd1bc11",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Quilpué\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de Quilpué, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Comuna</strong></p></td><td><p style=\"text-align:justify\">Quilpué</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Fundo La Providencia</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2.080 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El   incendio no presenta avance en ninguno de sus sectores, registrando actividad   con puntos calientes en el borde del perímetro.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla en la Comuna de Quilpué por incendio forestal</strong>, que se mantiene vigente desde el 02 de diciembre y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><strong><span style=\"color:black\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CURSOS DE ACCIÓN:</span></strong></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Los recursos que trabajaron en el combate del incendio forestal en la jornada de hoy y la planificación para el día de mañana se detallan a continuación:</p><div><table><tbody><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>Incendio   </strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Fundo La   Providencia, comuna de Quilpué.</p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>Recursos   que trabajan la jornada de hoy</strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">1 puesto de mando, 16 brigadas, 6   helicópteros y 1 jefe de incendio de CONAF; con el apoyo de 1 ambulancia   ACHS.</p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>Planificación   de recursos para mañana</strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">1 técnico, 8 brigadas, 4   helicópteros y 1 puesto de mando con 4 técnicos de CONAF; con el apoyo de 1   ambulancia ACHS.</p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

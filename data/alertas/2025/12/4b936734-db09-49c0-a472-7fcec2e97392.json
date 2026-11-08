@@ -1,0 +1,20 @@
+{
+	"id": "4b936734-db09-49c0-a472-7fcec2e97392",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Litueche por incendio forestal",
+	"fechaHora": "2025-12-24T10:03:00.000-03:00",
+	"createdAt": "2025-12-24T13:09:04.001Z",
+	"updatedAt": "2025-12-24T16:18:23.747Z",
+	"urlAccess": "se-declara-alerta-amarila-para-la-comuna-de-litueche-por-incendio-forestal-2025-12-23-15-20-28",
+	"parentId": "5ccf4a3b-982c-4155-bbca-bd78667ef7f7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Litueche, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Central Rapel</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">500</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Compañías del cuerpo de   bomberos de Litueche y Casablanca, 8 Brigadas de CONAF, 8 Staff SCI, 2 helicópteros   CONAF, 3 Aviones Cisterna, 4 Camiones aljibe, 3 Skidder, 1 Ambulancia ACHS y 2   BRIFES de ejército.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">838 personas evacuadas</p><p style=\"text-align:justify\">3 viviendas destruidas</p></td></tr></tbody></table><p style=\"text-align:justify\">De acuerdo con la información técnica proporcionada por CONAF, el incendio tiene actividad en el sector 4, cercano a la subestación rapel. dirección del viento sureste (se), de momento, proyectando rotación a viento del suroeste (so) en las próximas horas.</p><p style=\"text-align:justify\">se registra viento de 15 km/h de momento, proyectando máximos de 35 km/h durante la tarde. previsión de temperatura máxima: 31°c, humedad relativa mínima: 25%.</p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Litueche, por incendio forestal, que se encuentra vigente desde el 23 de diciembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

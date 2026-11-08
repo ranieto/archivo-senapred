@@ -1,0 +1,20 @@
+{
+	"id": "7b630fe4-8df0-4b4f-8448-31c5da84a7cb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por viento",
+	"fechaHora": "2024-10-21T09:05:00.000-03:00",
+	"createdAt": "2024-10-21T12:17:36.713Z",
+	"updatedAt": "2024-10-21T12:17:51.516Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-viento-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A391</p></td><td><p style=\"text-align:justify\">Viento normal a moderado con probabilidad de viento   blanco en cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">&nbsp; &nbsp;</span><span style=\"color: black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED </span><strong>cancela la Alerta Temprana Preventiva para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca, por viento</strong><span style=\"color: black\">, que se encontrabavigente desde el 19 de octubre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "475b4b99-6ff3-4439-9d3c-d9d7f0a09bdc",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones del Biobío y La Araucanía",
+	"fechaHora": "2025-02-17T14:21:00.000-03:00",
+	"createdAt": "2025-02-17T17:31:50.664Z",
+	"updatedAt": "2025-02-17T17:31:50.664Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-del-biobio-y-la-araucania",
+	"parentId": "2c036928-01ec-4292-8961-482f335fd60c",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía, Región del Biobío\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">​<span style=\"color: rgb(33, 37, 41)\">​Un sismo de menor intensidad se percibió a las 14:05 en las regiones del Biobío y La Araucanía. Las intensidades en escala de Mercalli son:</span></span></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Biobío</strong></div></td></tr><tr><td><div>Chiguayante:</div></td><td><div>III</div></td></tr><tr><td><div>Lota:</div></td><td><div>III</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: La Araucanía</strong></div></td></tr><tr><td><div>Angol:</div></td><td><div>IV</div></td></tr><tr><td><div>Renaico:</div></td><td><div>IV</div></td></tr><tr><td><div>Collipulli:</div></td><td><div>IV</div></td></tr><tr><td><div>Victoria:</div></td><td><div>IV</div></td></tr><tr><td><div>Curacautí­n:</div></td><td><div>III</div></td></tr><tr><td><div>Carahue:</div></td><td><div>III</div></td></tr></tbody></table><p><br></p><p><span style=\"font-size: 14px\">​El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p><span style=\"font-size: 14px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.3 y se localizó a 25 Kms al Sureste de Angol.</span>​<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

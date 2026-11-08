@@ -1,0 +1,20 @@
+{
+	"id": "f0ae1b01-3bc4-4fd5-86a7-85bd0eea175e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Puerto Montt por desborde",
+	"fechaHora": "2025-08-25T00:15:37.3737-04:00",
+	"createdAt": "2025-08-25T04:17:28.736Z",
+	"updatedAt": "2025-08-26T19:04:04.572Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-crecida-2",
+	"parentId": "f1c5ef6b-00aa-4010-bcd0-2c59ac31458b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos, respecto al caudal de los ríos en la comuna de Puerto Montt, se informa que durante la noche se registraron los desbordes de los ríos Chaica y Lenca, a la altura de la Ruta 7.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">A la hora del presente informe, se mantiene interrumpido el tránsito vehicular en la Ruta 7, dejando sin conectividad a Caleta Larena con Puerto Montt. Asimismo, producto de los desbordes, 4 personas fueron evacuadas del sector Chaicas y 15 del sector Lenca, las cuales fueron derivadas a una posta rural y viviendas de familiares. Cabe señalar, que no se ha reportado daño a viviendas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja para la comuna de Puerto Montt por desborde,</strong> que se encuentra vigente desde el 24 de agosto de 2025 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar Bomberos, Carabineros, Dirección de Vialidad, personal municipal de Puerto Montt, Delegada Presidencial Regional, SEREMI de Transporte y Telecomunicaciones y Director Regional (s) de SENAPRED.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, la SEREMI de Transporte y Telecomunicaciones indica que debido a la interrupción de conectividad en la Ruta 7, se implementará un puente marítimo entre Puelche y Puerto Montt a contar de las 08:00 horas de hoy, con prioridad a vehículos de emergencia, transporte de pacientes de diálisis y usuarios de la Ruta Bimodal. Conforme a lo anterior, los traslados desde Caleta Larena hacia Puerto Montt se realizarán desde Puelche.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

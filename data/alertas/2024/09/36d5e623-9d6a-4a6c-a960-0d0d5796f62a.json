@@ -1,0 +1,20 @@
+{
+	"id": "36d5e623-9d6a-4a6c-a960-0d0d5796f62a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Lo Barnechea, Vitacura, Las Condes, La Reina, Peñalolén, La Florida, Puente Alto y San José de Maipo por viento",
+	"fechaHora": "2024-09-23T04:30:00.000-03:00",
+	"createdAt": "2024-09-23T07:32:48.002Z",
+	"updatedAt": "2024-09-23T07:33:52.514Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago, Cordillera\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Lo Barnechea, Vitacura, Las Condes, La Reina, La Florida, Puente Alto, San José de Maipo\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p>Aviso   A349-1</p></td><td><p>Viento   normal a moderado con probabilidad de viento blanco en cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva por viento para las comunas de Lo Barnechea, Vitacura, Las Condes, La Reina, Peñalolén, La Florida, Puente Alto y San José de Maipo</strong>, que se mantuvovigente desde el 19 de septiembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "8b1a7b98-5317-4476-b406-cd48882e4958",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de Rauco, Hualañé, Licantén y Curepto por crecida",
+	"fechaHora": "2024-08-05T02:35:00.000-04:00",
+	"createdAt": "2024-08-05T07:18:22.936Z",
+	"updatedAt": "2024-08-05T07:18:49.020Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-rauco-hualane-licanten-y-curepto-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la <strong>Dirección General de Aguas</strong> (DGA), se indica que la estación de red hidrométrica <strong>“Río Mataquito en Licantén” </strong>se encuentra en por debajo del <strong>umbral de alerta amarillo</strong>, con tendencia a la baja en su caudal.<br></p><p style=\"text-align:justify\">En consideración a este antecedente <span style=\"color:black\">y en coordinación con </span>la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por crecida para las comunas de Rauco, Hualañé, Licantén y Curepto</strong>, que se mantenía <span style=\"color:black\">vigente desde el 03 de agosto. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4e0c3f84-f3d2-4b9b-aa8e-7dba5c1fb381",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Chimbarongo por incendio forestal",
+	"fechaHora": "2025-01-29T20:45:00.000-03:00",
+	"createdAt": "2025-01-29T23:55:07.700Z",
+	"updatedAt": "2025-01-30T18:15:34.474Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-chimbarongo-por-incendio-forestal",
+	"parentId": "ef0c1a1b-1f19-43c6-8381-e11ba38752d3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de&nbsp;<strong>Chimbarongo&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre   del incendio</strong></span></a></p></td><td><p>Convento   Viejo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>65   hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Incendio   forestal cercano a sectores poblados estructura crítica.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos   Cuerpo de bomberos de Chimbarongo</p><p>2 Brigadas Conaf</p><p>1 Técnico Conaf</p><p>1   Helicóptero</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED declara <strong>Alerta Amarilla para la comuna de Chimbarongo por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

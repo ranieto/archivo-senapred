@@ -1,0 +1,20 @@
+{
+	"id": "1e6040da-b944-4ceb-b0fc-fa43ab07a14c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las Comunas de Melipilla y Padre Hurtado por incendio forestal",
+	"fechaHora": "2024-12-21T11:59:00.000-03:00",
+	"createdAt": "2024-12-21T15:17:32.080Z",
+	"updatedAt": "2024-12-22T22:28:36.927Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-melipilla-y-padre-hurtado-por-incendio-forestal",
+	"parentId": "8d31e9c9-9cb8-4bde-a0cd-2328fbdff17f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla, Talagante\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Melipilla, Padre Hurtado\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"font-size: 16px\"> se informa el siguiente detalle respecto del incendio forestal “El Pimiento”, en las comunas de Melipilla y Padre Hurtado:</span></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>El Pimiento</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>300   hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   Peñaflor-Padre Hurtado, San Bernardo, Ñuñoa, La Granja, Maipú, Metropolitano   Sur, San Bernardo, Colina-Lampa, Melipilla, El Monte, Isla de Maipo, Quinta   Normal, Til Til y 9 Brigadas </p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regionalde SENAPRED mantiene la Alerta Roja para las Comunas de Melipilla y Padre Hurtado, por incendio forestal, que se encuentra vigente desde el 20 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

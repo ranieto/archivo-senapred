@@ -1,0 +1,20 @@
+{
+	"id": "452f9ac5-6d64-4293-b972-0d364ccb17f3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Lonquimay por incendio forestal",
+	"fechaHora": "2023-12-08T18:55:00.000-03:00",
+	"createdAt": "2023-12-08T22:01:08.390Z",
+	"updatedAt": "2023-12-08T22:02:13.349Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lonquimay-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Lonquimay\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto del incendio forestal en la comuna de Lonquimay, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Pino Hachado 2.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,05 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal ya no presenta amenaza ni avance a la Reserva Nacional Alto Biobío.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja para la comuna de Lonquimay por incendio forestal</strong>, que se mantenía vigente desde el 06 de diciembre de 2023.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

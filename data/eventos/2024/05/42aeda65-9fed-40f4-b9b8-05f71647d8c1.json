@@ -1,0 +1,20 @@
+{
+	"id": "42aeda65-9fed-40f4-b9b8-05f71647d8c1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Antofagasta y Atacama",
+	"fechaHora": "2024-05-26T10:34:20.2020-04:00",
+	"createdAt": "2024-05-26T14:35:09.110Z",
+	"updatedAt": "2024-05-26T14:46:27.089Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-23",
+	"parentId": "e9f61aed-6788-4529-b4dd-151335cd21db",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta, Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 10:24 horas en las regiones de Antofagasta y Atacama. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Antofagasta:   </p></td><td><p>IV</p></td></tr><tr><td><p>Sierra   Gorda: </p></td><td><p>III</p></td></tr><tr><td><p>María   Elena: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>El   Salvador: </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.4 localizado a 58 Kms al Oeste de Mina La Escondida</p><p>SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. </p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "f5ebb209-c050-4101-881d-74e3c2250bb5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Antuco por incendio forestal",
+	"fechaHora": "2026-05-23T12:22:25.2525-04:00",
+	"createdAt": "2026-05-23T16:23:52.839Z",
+	"updatedAt": "2026-05-26T20:19:37.761Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-antuco-por-incendio-forestal-2026-05-20-21-10-30",
+	"parentId": "5b89c907-84cf-42c4-81a9-febafee7c112",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Antuco<strong>,&nbsp;</strong>se informa el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>711 - RUCUE</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>564 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Antuco, Quilleco y Huepil; 4 brigadas Conaf, 2 de Arauco y 1 de Mininco; 3 técnicos de Conaf, 1 de Arauco y 1   Mininco; 2 aeronaves y 1 ambulancia.</p></td></tr></tbody></table><p><br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de&nbsp;SENAPRED mantiene la Alerta Amarilla para la comuna de Antuco por incendio forestal<strong>,&nbsp;</strong>que se encuentra vigente desde el 20 de mayo</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

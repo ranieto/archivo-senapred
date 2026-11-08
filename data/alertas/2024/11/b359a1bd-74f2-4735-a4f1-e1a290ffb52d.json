@@ -1,0 +1,20 @@
+{
+	"id": "b359a1bd-74f2-4735-a4f1-e1a290ffb52d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Valparaíso por evento zoosanitario",
+	"fechaHora": "2024-11-06T12:19:00.000-03:00",
+	"createdAt": "2024-11-06T15:24:07.845Z",
+	"updatedAt": "2024-11-06T15:24:28.489Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con los </span><strong>antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG)</strong><span style=\"color: black\">, mediante EL Oficio N°1.969/2024, se informa que ha finalizado la emergencia por Influenza Aviar Altamente Patógena N5N1 en el territorio Nacional, debido a la evidencia científica que señala la ausencia del virus H5N1 en la fauna silvestre, especialmente en ejemplares de traspatio y costa.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, el <strong>Servicio Nacional de Pesca y Acuicultura (SERNAPESCA)</strong>, a través de su minuta ejecutiva “Situación de Influenza Aviar Altamente Patógena (IAAP) en fauna marina protegida”, informa que, conforme a los registros nacionales de varamientos, se confirma la negatividad de la presencia del virus en las especies muestreadas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y considerando los factores de vulnerabilidad, en relación con las variables epidemiológicas que requieren de un monitoreo que permita adoptar las medidas necesarias de forma oportuna, y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional</strong></span><span style=\"color:black\">,</span><strong><span style=\"color:black\">por evento zoosanitario</span></strong><span style=\"color:black\">, que se mantenía vigente desde el 29 de marzo de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

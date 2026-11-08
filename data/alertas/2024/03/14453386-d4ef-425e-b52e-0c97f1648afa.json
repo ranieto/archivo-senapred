@@ -1,0 +1,20 @@
+{
+	"id": "14453386-d4ef-425e-b52e-0c97f1648afa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva y declara Alerta Amarilla para la Región de Arica y Parinacota por Alteración Sanitaria",
+	"fechaHora": "2024-03-18T17:11:00.000-03:00",
+	"createdAt": "2024-03-18T20:16:23.558Z",
+	"updatedAt": "2024-03-30T04:50:34.068Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-y-declara-alerta-amarilla-para-la-region-de-arica-y-parinacota-por-alteracion-sanitaria",
+	"parentId": "5b850daf-3896-41d1-8223-c965e493e198",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De </span><span style=\"color: black\">acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Arica y Parinacota, en base a las <strong>minutas N°002 y N°003 de la Seremi de Salud de Arica y Parinacota</strong>, además de los acuerdos tomados en el <strong>COGRID Regional de hoy 18 de marzo</strong>, en relación con el vector <em>Aedes Aegypti</em> (transmisor de enfermedades como el Dengue), se indica que existen 3 casos importados y confirmados de Dengue y 01 de malaria en la región, mientras que 14 hogares han sido muestreados positivamente con <strong>hallazgos de ejemplares de <em>Aedes Aegypti</em></strong>, conforme al siguiente detalle:</span><br></p><p style=\"text-align:justify\"></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Total de ejemplares</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Huevo</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Larva</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pupa</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Adulto</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">1.805</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">1.380</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">334</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">44</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">47</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva y declara Alerta Amarilla Regional </strong>por Alteración Sanitaria, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Un equipo técnico de la Seremi de Salud de Arica y Parinacota se encuentra realizando una evaluación ambiental en el sector comprendido entre el pasaje Diaguitas y la Playa Las Machas, comuna de Arica, a fin de verificar una eventual dispersión pasiva del vector.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

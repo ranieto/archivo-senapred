@@ -1,0 +1,20 @@
+{
+	"id": "e59c4c9c-785f-4576-aea3-e7978c1c1efa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de La Araucanía por incendio forestal",
+	"fechaHora": "2025-01-31T23:49:51.5151-03:00",
+	"createdAt": "2025-02-01T02:51:02.668Z",
+	"updatedAt": "2025-02-01T02:52:17.581Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-amenaza-de-incendios-forestales-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto a los incendios forestales en la región, al momento se reporta el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Pangueco Alto</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Comuna</strong></p></td><td><p>Purén</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5 hectáreas</p></td></tr></tbody></table><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cerro Verde</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Comuna</strong></p></td><td><p>Victoria</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>96 hectáreas</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San Ramón 4</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>comuna</strong></p></td><td><p>Ercilla</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>7 hectáreas</p></td></tr></tbody></table><p>De acuerdo con lo reportado por CONAF, se indica que no hay condiciones de peligro previamente visualizadas, debido al término o disminución de condiciones que dieron origen a la declaración de esta alerta.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la región de La Araucanía, por incendio forestal, que se mantuvo vigente desde el 30 de enero de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

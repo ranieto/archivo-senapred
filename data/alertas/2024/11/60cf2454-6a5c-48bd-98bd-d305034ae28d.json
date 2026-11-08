@@ -1,0 +1,20 @@
+{
+	"id": "60cf2454-6a5c-48bd-98bd-d305034ae28d",
+	"type": "Alerta",
+	"titulo": "Se modifica variable a Alerta Temprana Preventiva para las provincias de Chiloé y Palena por evento meteorológico",
+	"fechaHora": "2024-11-04T17:06:47.4747-03:00",
+	"createdAt": "2024-11-04T20:11:00.429Z",
+	"updatedAt": "2024-11-06T02:11:30.517Z",
+	"urlAccess": "se--declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico",
+	"parentId": "b14f3d03-e561-4cdf-b630-11f9b213e174",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\"> indica que se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos:</span></p><div><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A419-1</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas en zonas de Chiloé y Litoral interior de la región.</p></td><td><p style=\"text-align: center\">04-11</p></td><td><p style=\"text-align: center\">04-11</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A418-1</p></td><td><p style=\"text-align: justify\">Viento normal a moderado en zonas de Chiloé y Litoral interior de la región.</p></td><td><p style=\"text-align: center\">05-11</p></td><td><p style=\"text-align: center\">05-11</p></td></tr></tbody></table></div><p style=\"text-align: justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED modifica variable a Alerta Temprana Preventiva para las provincias de Chiloé y Palena por evento meteorológico, vigente desde el 31 de octubre de 2024 y hasta que las condiciones del evento así lo ameriten.<br><br>La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

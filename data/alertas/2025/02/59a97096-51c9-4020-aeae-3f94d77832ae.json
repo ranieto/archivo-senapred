@@ -1,0 +1,20 @@
+{
+	"id": "59a97096-51c9-4020-aeae-3f94d77832ae",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la provincia de Cautín por incendios forestales",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-02-07T02:46:48.313Z",
+	"updatedAt": "2025-02-07T03:10:32.455Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-la-araucania-por-incendios-forestales",
+	"parentId": "3284a3d4-9857-4902-bc66-9746febe927c",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por la Corporación Nacional Forestal (CONAF) existe una alta ocurrencia de incendios forestales a nivel provincial.</p><p>Asimismo, por simultaneidad de ocurrencia de incendios forestales, se reporta una concentración de los recursos de combate disponibles en la provincia.</p><p>Ante la declaración de la Alerta Roja para la Provincia de Malleco, por simultaneidad de incendios forestales, se modifica la presente Alerta Amarilla.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED actualiza y reduce la cobertura de la Alerta Amarilla para la Provincia de Cautín, por incendio forestal, que se encuentra vigente desde el 04 de febrero de 2025.</p><p>Cabe señalar que se exceptúa de esta alerta la comuna de Galvarino, la cual se mantiene con Alerta Roja por Incendio Forestal. Dicha excepción se mantendrá hasta el término de la vigencia de dicha alerta roja.</p><p>Con la actualización y reducción de cobertura de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED); para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

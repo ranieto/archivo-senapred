@@ -1,0 +1,20 @@
+{
+	"id": "70b6b355-90aa-4a13-bde2-2aa3b05a5b09",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Toltén por desborde",
+	"fechaHora": "2024-07-05T17:48:00.000-04:00",
+	"createdAt": "2024-07-05T22:17:19.553Z",
+	"updatedAt": "2024-07-05T22:18:26.841Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tolten-por-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Toltén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Toltén en Teodoro Schmidt”, ha alcanzado los valores del umbral Azul, asimismo, se ha mantenido estables las mediciones de la gran mayoría de las estaciones fluviométricas de los causes en la región.<br></p><p style=\"text-align:justify\">Cabe señalar, que la municipalidad de Toltén informa la realización de trabajos y gestiones para volver a la normalidad y habilitar las rutas y caminos que se encontraban anegados.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja para la comuna de Toltén por desborde, </strong>que se mantuvo vigente a contar del 27 de junio de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

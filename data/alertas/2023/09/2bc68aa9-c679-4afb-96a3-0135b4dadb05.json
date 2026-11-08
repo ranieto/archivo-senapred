@@ -1,0 +1,20 @@
+{
+	"id": "2bc68aa9-c679-4afb-96a3-0135b4dadb05",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Arica y Parinacota por viento",
+	"fechaHora": "2023-09-14T07:58:00.000-03:00",
+	"createdAt": "2023-09-14T10:59:52.894Z",
+	"updatedAt": "2023-09-14T11:00:06.575Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento técnico para la Región de Arica y Parinacota:<br></p><table><tbody><tr><td><p><strong>Aviso A356-3</strong></p></td><td><p>Viento normal a moderado con probabilidad de tormentas de arena en litoral y cordillera.</p></td></tr></tbody></table><p>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional</strong> por viento, que se mantuvo vigente desde el lunes 11 de septiembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

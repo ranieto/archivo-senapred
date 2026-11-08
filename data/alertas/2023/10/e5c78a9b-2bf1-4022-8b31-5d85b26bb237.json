@@ -1,0 +1,20 @@
+{
+	"id": "e5c78a9b-2bf1-4022-8b31-5d85b26bb237",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región por evento meteorológico",
+	"fechaHora": "2023-10-29T21:41:26.2626-03:00",
+	"createdAt": "2023-10-30T00:43:06.890Z",
+	"updatedAt": "2023-10-30T00:43:27.839Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), en atención al debilitamiento de las condiciones meteorológicas que los originaron, han sido cancelados los siguientes alertamientos técnicos para la Región de Los Lagos:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso A413-1</strong></p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera, cordillera, cordillera austral y   patagonia subandina.</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso A417</strong></p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en valle, precordillera, Chiloé, litoral interior y   cordillera austral.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">De acuerdo con estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong> por evento meteorológico, que se mantenía vigente desde el 26 de octubre.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

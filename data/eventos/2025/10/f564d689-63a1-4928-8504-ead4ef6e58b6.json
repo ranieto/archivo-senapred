@@ -1,0 +1,19 @@
+{
+	"id": "f564d689-63a1-4928-8504-ead4ef6e58b6",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región del Biobío",
+	"fechaHora": "2025-10-29T22:18:45.4545-03:00",
+	"createdAt": "2025-10-30T01:29:23.424Z",
+	"updatedAt": "2025-10-30T01:29:23.424Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-biobio-11",
+	"parentId": "a84d3ced-8f40-456a-8a67-cd410260e0b1",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 22:08 horas en la Región del Biobío. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Biobío </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Concepción: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.2 localizado a 29 Kms al Oeste de Coronel.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

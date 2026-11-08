@@ -1,0 +1,20 @@
+{
+	"id": "70b90f33-9ad0-4ecd-bbb2-9b58b7b4f710",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Isla de Pascua por incendio forestal",
+	"fechaHora": "2025-09-26T23:46:00.000-03:00",
+	"createdAt": "2025-09-27T02:48:58.401Z",
+	"updatedAt": "2025-10-07T00:41:14.469Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-isla-de-pascua-por-incendio-forestal-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información&nbsp;técnica proporcionada por Conaf<strong>,&nbsp;respecto al incendio forestal en la&nbsp;comuna de Isla de Pascua se informa el siguiente detalle:</strong></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Maurata</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>12 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio forestal afecta al sector Vaitea, al noroeste por carretera IPA 1, a 6 kilómetros al noreste de Hanga Roa.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Compañía de Bomberos de Isla de Pascua</p><p>2 brigadas BRIGAR</p><p>1 brigada CONAF</p><p>1 camión aljibe municipal<br></p><p>1 Unidad de Carabineros de Chile</p><p>Encargado de GRD de la Municipalidad de Isla de Pascua</p><p>Encargado de GRD de la Delegación Presidencial Provincial de Isla de Pascua</p></td></tr></tbody></table><p style=\"text-align: justify\">El incendio forestal se encuentra controlado, por lo cual no se cumplen las condiciones que motivaron la declaración de la Alerta.</p><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, <strong>la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Isla de Pascua por incendio forestal.</strong></p><p><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "ef0c1a1b-1f19-43c6-8381-e11ba38752d3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Chimbarongo por incendio forestal",
+	"fechaHora": "2025-01-30T15:11:00.000-03:00",
+	"createdAt": "2025-01-30T18:15:33.129Z",
+	"updatedAt": "2025-01-30T18:16:12.526Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-chimbarongo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Colchagua\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Chimbarongo\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Chimbarongo se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Convento Viejo</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">29   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Chimbarongo, 4 Brigadas Conaf, 3 Técnicos Conaf, 2 Helicóptero y 1 camión   aljibe.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Chimbarongo, por incendio forestal (ATR N°38), que se mantuvo vigente desde el 29 de enero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

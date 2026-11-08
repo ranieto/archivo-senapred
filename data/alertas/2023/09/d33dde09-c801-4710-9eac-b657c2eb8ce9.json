@@ -1,0 +1,20 @@
+{
+	"id": "d33dde09-c801-4710-9eac-b657c2eb8ce9",
+	"type": "Alerta",
+	"titulo": "Una prueba de alerta con seguridad",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-15T13:43:10.600Z",
+	"updatedAt": "2023-09-20T14:06:41.872Z",
+	"urlAccess": "una-prueba-de-alerta-con-seguridad",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>esto es una prueba de subida</p><p><img src=\"x\"></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

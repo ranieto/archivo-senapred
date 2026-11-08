@@ -1,0 +1,20 @@
+{
+	"id": "c39f3b82-6b74-4bbe-9b6b-8f512f6a205e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la región de Los Lagos por precipitaciones",
+	"fechaHora": "2025-08-25T00:46:46.4646-04:00",
+	"createdAt": "2025-08-25T04:48:00.557Z",
+	"updatedAt": "2025-08-26T18:52:40.452Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-17",
+	"parentId": "d1916114-b4a0-4c07-b306-7ec8db9318fd",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, producto del evento meteorológico que se desarrolló en la región, se han reportado las siguientes novedades:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Comuna</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Novedades relevantes</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Chaitén</p></td><td><p style=\"text-align:justify\">Se mantiene la   interrupción del tránsito vehicular en el kilómetro 180 de la Ruta 7, sector   de Caleta Gonzalo y Puente Bache.</p><p style=\"text-align:justify\">Puente Yelcho se   mantiene con restricción de tránsito, el cual es regulado en cantidad de   vehículos y su velocidad.</p></td></tr><tr><td><p style=\"text-align:center\">Hualaihué   </p></td><td><p style=\"text-align:justify\">Tránsito vehicular   suspendido por daños en puente en la Ruta W-609, sector Contao - La Poza.</p><p style=\"text-align:justify\">Tránsito con   precaución en el kilómetro 85 de la Ruta 7, sector Pichicolo Alto, por   desplazamiento de material en la ruta. Asimismo, en el sector de Puente   Cholgo de la misma ruta, el tránsito se encuentra interrumpido producto de   anegamiento. </p><p style=\"text-align:justify\">Adicionalmente, se   informa la suspensión de clases en establecimientos educacionales municipales   en la comuna para la presente jornada.</p></td></tr><tr><td><p style=\"text-align:center\">Cochamó</p></td><td><p style=\"text-align:justify\">Interrupción de   tránsito vehicular en el kilómetro 107 de la Ruta V-69, sector Bahía Martín,   producto de una remoción en masa.</p></td></tr><tr><td><p style=\"text-align:center\">Puerto   Varas</p></td><td><p style=\"text-align:justify\">Tránsito vehicular   restablecido con precaución, luego de finalizar los trabajos derivados del   desborde de los ríos Blanco y Hueñu Hueñu en el kilómetro 5,5 de la Ruta   V-69.</p></td></tr><tr><td><p style=\"text-align:center\">Maullín</p></td><td><p style=\"text-align:justify\">Tránsito vehicular   restablecido luego de finalizar los trabajos derivados del desprendimiento de   material, en el kilómetro 50 de la Ruta V-860, sector Olmopulli.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva </strong></span><strong><span style=\"color:black\">Regional </span><span style=\"color:black\">por precipitaciones</span></strong><span style=\"color:black\">, que se encuentra vigente desde el 19 de agosto y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Vialidad trabaja con personal y maquinarias, a fin de restablecer el tránsito vehicular en las rutas de la región.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

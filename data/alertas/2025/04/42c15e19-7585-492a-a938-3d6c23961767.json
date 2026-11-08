@@ -1,0 +1,20 @@
+{
+	"id": "42c15e19-7585-492a-a938-3d6c23961767",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Alto del Carmen por incendio forestal",
+	"fechaHora": "2025-04-18T20:25:31.3131-04:00",
+	"createdAt": "2025-04-19T00:29:21.867Z",
+	"updatedAt": "2025-04-19T22:48:21.931Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-alto-del-carmen-por-incendio-forestal-2",
+	"parentId": "895238eb-2274-47e5-8331-ef33824104d7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información técnica proporcionada por Conaf,&nbsp;respecto al incendio forestal en la comuna de Alto del Carmen,</span></strong><span style=\"color: black\">&nbsp;se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Pampa</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Alto del Carmen, Vallenar, Huasco, Freirina, Copiapó, Caldera e Inca de Oro</p><p>2 brigadas Conaf</p><p>1 camión aljibe municipal</p><p>1 unidad de Carabineros</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal se encuentra cercano a sectores poblados</p></td></tr></tbody></table><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Al momento, se reporta 1 vivienda y 1 línea de media tensión con daños, lo que ha afectado a un estimados de 20 clientes.<br>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, <strong>la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Alto del Carmen,</strong> por incendio forestal, que se encuentra vigente desde el 18 de abril de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "3d96e028-5a1c-4712-9707-c08e58ee71d1",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Amarilla para la provincia de El Loa y las comunas de Antofagasta y Taltal por evento meteorológico",
+	"fechaHora": "2025-02-20T19:10:00.000-03:00",
+	"createdAt": "2025-02-20T22:15:52.695Z",
+	"updatedAt": "2025-03-14T18:50:48.059Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico",
+	"parentId": "44599360-5dc3-437c-8fe1-4f0a943fe9c1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa, Antofagasta\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Antofagasta, Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:</p><div><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A20-13</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas&nbsp;en precordillera salar y cordillera de la región, preferentemente durante la tarde-noche, con precipitaciones aisladas.</p></td><td><p style=\"text-align: center\">20-02</p></td><td><p style=\"text-align: center\">25-02</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color: black\">Por su parte,&nbsp;</span><span style=\"color: black\">el Servicio Nacional de Geología y Minería (SERNAGEOMIN),</span><span style=\"color: black\">mediante la actualización de su&nbsp;<strong>Minuta Técnica por Peligro de Remociones en Masa</strong>, indica que la posibilidad de ocurrencia de remociones en masa es&nbsp;</span><strong><span style=\"color: black\">moderada&nbsp;</span></strong><span style=\"color: black\">en cordillera&nbsp;<strong>y baja&nbsp;</strong>en precordillera salar de la región.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Antofagasta,&nbsp;</span><span style=\"color: black\">la&nbsp;</span><span style=\"color: black\">Dirección Regional del SENAPRED&nbsp;</span><strong><span style=\"color: black\">modifica la cobertura de la Alerta Amarilla&nbsp;</span></strong><strong><span style=\"color: black\">para la provincia&nbsp;</span></strong><strong><span style=\"color: black\">de El Loa y las comunas de Antofagasta y Taltal,&nbsp;</span></strong><strong><span style=\"color: black\">por evento meteorológico</span></strong><span style=\"color: black\">, que se mantiene vigente desde el 15 de febrero y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">Con la modificación de cobertura de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

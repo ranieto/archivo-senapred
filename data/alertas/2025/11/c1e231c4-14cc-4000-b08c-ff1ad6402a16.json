@@ -1,0 +1,20 @@
+{
+	"id": "c1e231c4-14cc-4000-b08c-ff1ad6402a16",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Melipilla por incendio forestal ",
+	"fechaHora": "2025-11-30T16:09:00.000-03:00",
+	"createdAt": "2025-11-30T19:19:01.112Z",
+	"updatedAt": "2025-11-30T21:21:11.768Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipilla-por-incendio-forestal-2025-11-30-15-14-26",
+	"parentId": "ae55c9ac-ea89-4632-90c2-1a0db228adb9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Melipilla </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Alamos de Culipran</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">5 vivienda en evaluación </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos de Melipilla, 2   brigada Roble 11 y Roble 8, 1 técnico de CONAF, 2 helicópteros de combate (HC-24,   hc-6), 1 AERONAVE (LV-HUT).</p><p style=\"text-align:justify\">Otros recursos: personal de   emergencia comunal, Bomberos El Monte y Equipo de SENAPRED.</p></td></tr></tbody></table><p style=\"text-align:justify\">Por solicitud de CONAF se Declara Alerta Roja Comunal por Incendio Forestal y mensaje SAE para evacuación de Sector Culiprán. </p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

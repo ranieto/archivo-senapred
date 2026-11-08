@@ -1,0 +1,20 @@
+{
+	"id": "74c5aeed-ceee-4296-b1c3-47ea9ee18336",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Victoria por incendio forestal",
+	"fechaHora": "2024-02-20T15:14:49.4949-03:00",
+	"createdAt": "2024-02-20T18:16:12.746Z",
+	"updatedAt": "2024-02-21T17:43:48.711Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-victoria-por-incendio-forestal",
+	"parentId": "74db45b5-44f8-4318-8cd8-d532d77bc683",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Victoria\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Victoria se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San Luis 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.820 hectáreas</p></td></tr><tr><td><p><strong>Observaciones </strong></p></td><td><p>Incendio   forestal no presenta amenaza a personas y viviendas.</p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Victoria por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color:black\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "29d262a1-4d52-40bb-9871-248b55dd5df2",
+	"type": "Evento",
+	"titulo": "evento de prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-16T15:25:46.882Z",
+	"updatedAt": "2026-01-16T15:27:01.826Z",
+	"urlAccess": "evento-de-prueba-2026-01-16-12-25-33",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p>prueba</p><p></p><blockquote data-theme=\"light\" data-dnt=\"true\" class=\"twitter-tweet\"><br>  <a href=\"https://twitter.com/Senapred/status/2011901319079215515\"></a><br></blockquote><br><br><p></p>",
+	"variableInformateEventosId": "f46479bd-762a-48e3-a236-388d311ded67"
+}

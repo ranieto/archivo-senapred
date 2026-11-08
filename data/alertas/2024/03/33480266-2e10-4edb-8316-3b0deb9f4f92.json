@@ -1,0 +1,20 @@
+{
+	"id": "33480266-2e10-4edb-8316-3b0deb9f4f92",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para las comunas de Curicó y Romeral por incendio forestal",
+	"fechaHora": "2024-03-15T19:05:52.5252-03:00",
+	"createdAt": "2024-03-15T22:07:02.238Z",
+	"updatedAt": "2024-03-16T17:13:53.122Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-curico-y-romeral-por-incendio-forestal",
+	"parentId": "65d51b23-3182-4462-8ad7-cc7740788ed6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Romeral, Curicó\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información&nbsp;técnica proporcionada por CONAF,</span><strong></strong><span style=\"color: black\">respecto al incendio forestal en las comunas de Curicó y Romeral se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Los Cristales</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5 hectáreas </p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se   presenta cercano a sectores poblados.</p></td></tr><tr><td><p><strong>Recursos   </strong></p></td><td><p>4 brigadas y 1 técnico de Conaf; 4 aviones cisterna, 3   helicópteros, 1 avión de coordinación, 1 camión cisterna y 1 skidder de   Conaf.</p><p>Recursos en   trayecto: 1 skidder, 2 brigadas y 1 técnico de Conaf.</p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para las comunas de Curicó y Romeral por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color:black\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

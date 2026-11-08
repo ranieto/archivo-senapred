@@ -1,0 +1,20 @@
+{
+	"id": "75c539da-e0e5-466f-9d3f-64b3a80bdb75",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Valparaíso por amenaza de incendios forestales",
+	"fechaHora": "2025-03-10T11:32:00.000-03:00",
+	"createdAt": "2025-03-10T14:32:51.272Z",
+	"updatedAt": "2025-03-10T14:34:10.071Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-su-territorio-insular-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La información y análisis realizado indica el término de las variables de riesgo que condicionaron la&nbsp;declaración de la Alerta Temprana Preventiva para la Región de Valparaíso por Amenaza de Incendio&nbsp;Forestal.<br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED&nbsp;cancela la Alerta Temprana Preventiva para la región de Valparaíso, por amenaza de incendios forestales,&nbsp;que se mantuvo vigente desde el 07 de marzo de 2025.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "32b6b180-08cf-4471-abf8-9cfb904b2f63",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por altas temperaturas",
+	"fechaHora": "2023-12-11T08:36:00.000-03:00",
+	"createdAt": "2023-12-11T11:38:30.375Z",
+	"updatedAt": "2023-12-11T11:41:51.007Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-altas-temperaturas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelado el Aviso A459-2 el cual pronosticaba un evento de altas temperaturas en cordillera de la costa, valle y precordillera, así como la Alerta AA82-1 que preveía un evento de altas temperaturas extremas, en cordillera de la costa, valle y precordillera de la Región de Maule. Lo anterior debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional del SENAPRED, <strong>cancela Alerta Temprana Preventiva Regional, por altas temperaturas</strong>, la cual se mantuvo vigente desde el 05 de diciembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

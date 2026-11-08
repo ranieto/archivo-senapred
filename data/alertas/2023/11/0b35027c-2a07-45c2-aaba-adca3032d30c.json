@@ -1,0 +1,20 @@
+{
+	"id": "0b35027c-2a07-45c2-aaba-adca3032d30c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de El Loa por tormentas eléctricas",
+	"fechaHora": "2023-11-08T14:48:09.099-03:00",
+	"createdAt": "2023-11-08T17:50:08.828Z",
+	"updatedAt": "2023-11-11T11:54:03.987Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-por-tormentas-electricas",
+	"parentId": "4209c923-add5-4039-8c9b-d018fabe9c59",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante la Alerta Meteorológica AA77/2023 se pronostican tormentas eléctricas en el sector norte de la Región de Antofagasta, entre la tarde y noche de hoy miércoles 08 de noviembre.<br><br>En consideración a este antecedente, que supone un aumento del riesgo asociado a esta variable meteorológica, la Dirección Regional del SENAPRED Antofagasta, en coordinación con la Delegación Presidencial Regional, declara Alerta Temprana Preventiva para la Provincia de El Loa, por tormentas eléctricas, vigente a contar de hoy y hasta que las condiciones así lo ameriten.<br><br>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p><br></p><p>​<em><strong>SENAPRED </strong>recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </em><br><br></p><p style=\"text-align: justify\"><span style=\"font-size: 15px\"></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "43419e7c-6358-4555-8580-9558f0d96fa0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Comuna de Mostazal por incendio forestal",
+	"fechaHora": "2024-11-12T16:50:00.000-03:00",
+	"createdAt": "2024-11-12T20:23:19.858Z",
+	"updatedAt": "2024-11-13T00:33:54.805Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-mostazal-por-incendio-forestal",
+	"parentId": "3c13537a-d8b4-4118-9c89-6c8c988c353a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Mostazal\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Conaf, en combate se encuentra el incendio forestal denominado Fundo La Querencia, el cual consume al momento65.3 hectáreas de vegetación en la comuna de Mostazal.<br><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Fundo La Querencia</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>65.3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>5 brigadas de Conaf, 1 técnicos, 2 camiones aljibes, 1   helicóptero y 1 puesto de mando de Conaf</p></td></tr></tbody></table><p>Cabe mencionar, que el incendio presenta comportamiento extremo y rápido avance.En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, laDirección Regional de SENAPRED declara Alerta Amarilla para la Comuna de Mostazal por incendioforestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca enextensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

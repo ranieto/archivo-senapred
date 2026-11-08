@@ -1,0 +1,20 @@
+{
+	"id": "7aa81e73-487d-4871-a4fe-434a380fc912",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de Hijuelas por incendio forestal",
+	"fechaHora": "2025-02-25T21:15:00.000-03:00",
+	"createdAt": "2025-02-26T00:44:10.803Z",
+	"updatedAt": "2025-02-26T21:52:42.366Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hijuelas-por-incendio-forestal-2",
+	"parentId": "eac0aea0-15dd-40b0-9cab-d8f99366dd8e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Quillota\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Hijuelas\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Hijuelas </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Oasis La Campana 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Hijuelas, La Calera, Llay Llay, Nogales, Papudo,   Quillota, San Felipe, Santa María, La Calera, Papudo, San Felipe Y Santa   Maria, 21 Brigadas, 10 Técnicos, 7 helicópteros, 7 aviones, 1 Equipo comunal   de GRD, 2 Skidder, 7 Aljibes CONAF Y 1 Delegación Provincial GRD</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Hijuelas por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0fa7de17-762f-42da-9a2c-0f82be253c8c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Ninhue por incendio forestal ",
+	"fechaHora": "2026-01-02T17:57:00.000-03:00",
+	"createdAt": "2026-01-02T21:09:19.456Z",
+	"updatedAt": "2026-01-02T22:46:57.439Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ninhue-por-incendio-forestal-2026-01-02-18-09-03",
+	"parentId": "98fc547f-70f8-4a7c-8be4-fe740015751f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Ninhue, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Rincón</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En trayecto</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.01</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">4 brigadas, 2 técnicos, 2 Avión   cisterna y 1 Helicóptero combate</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de Ninhue con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p><p style=\"text-align:justify\">Esta declaración estará vigente a contar de la hora del presente informe y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

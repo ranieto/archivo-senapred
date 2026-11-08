@@ -1,0 +1,20 @@
+{
+	"id": "e2c2059f-b400-4818-83ab-bebc671b238a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por amenaza de desborde para la comuna de Arauco",
+	"fechaHora": "2024-06-05T15:16:00.000-04:00",
+	"createdAt": "2024-06-05T19:20:39.311Z",
+	"updatedAt": "2024-06-07T14:04:28.441Z",
+	"urlAccess": "se-declara-alerta-roja-por-amenaza-de-desborde-para-la-comuna-de-arauco",
+	"parentId": "9d3350fb-ec2b-4730-b121-7c7eb233fbad",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red pluviométrica del Río Pichilo de la comuna de Arauco, se encuentra en umbral de Alerta Roja con tendencia a subida, a su vez en aumento de caudal de acuerdo con los monitoreos reportados por los equipos municipales desplegados en terreno.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Roja por amenaza de desborde, para la comuna de Arauco </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que las 15:02 horas del 05 de junio se emitió mensajería SAE preventivo para la comuna de Arauco por Amenaza de desborde en el sector de Pichilo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

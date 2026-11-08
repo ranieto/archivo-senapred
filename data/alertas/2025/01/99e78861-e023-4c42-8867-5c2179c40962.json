@@ -1,0 +1,20 @@
+{
+	"id": "99e78861-e023-4c42-8867-5c2179c40962",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de San Juan de la Costa por incendio forestal",
+	"fechaHora": "2025-01-19T19:00:04.044-03:00",
+	"createdAt": "2025-01-19T22:04:40.831Z",
+	"updatedAt": "2025-01-21T01:32:42.587Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-juan-de-la-costa-por-incendio-forestal-2",
+	"parentId": "dda58960-bde2-4f51-99a5-322aa293be7d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal que se desarrolla en la comuna de San Juan de la Costa, se informa lo siguiente:</p><div style=\"text-align: justify\"><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Caleta Pucatrihue<br></div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>San Juan de la Costa<br></div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>0.01 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio forestal se desarrolla cercano a sectores poblados.</div></td></tr><tr><td><div>Recursos</div></td><td><div>3 brigadas, 1 técnico, 1 helicóptero y 1 avión cisterna CONAF</div></td></tr></tbody></table></div><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la&nbsp;Dirección Regional de SENAPREDdeclara Alerta Roja para la comuna de San Juan de la Costa por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

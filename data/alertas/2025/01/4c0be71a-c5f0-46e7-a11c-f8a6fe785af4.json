@@ -1,0 +1,20 @@
+{
+	"id": "4c0be71a-c5f0-46e7-a11c-f8a6fe785af4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Lebu por incendio forestal",
+	"fechaHora": "2025-01-02T17:32:00.000-03:00",
+	"createdAt": "2025-01-02T20:39:00.158Z",
+	"updatedAt": "2025-01-02T21:42:15.999Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lebu-por-incendios-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por la Dirección Regional de CONAF, el incendio denominado \"244 - Esperanza de Lebu\" que afectó a una superficie de 0.8 [ha] en el Sector de \"Junquillo Bajo\", Comuna de Lebu, se encuentra CONTROLADO, superando así la amenaza a viviendas e infraestructura crítica que presento durante la jornada de hoy.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Lebu, por incendio forestal, que se mantuvo vigente desde el 02 de enero de 2025. La región se mantiene con Alerta Temprana Preventiva Regional por Incendio Forestal.</p><div><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Esperanza de Lebu</div></td></tr><tr><td><div>Estado</div></td><td><div>Controlado</div></td></tr><tr><td><div>Superficie</div></td><td><div>0,8 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>4 Unidades Bomberos Lebu, 5 brigadas CONAF, 3 brigadas Arauco, 1 técnico CONAF, 2 aviones cisterna, 1 helicóptero de Combate CONAF y 1 helicóptero Arauco.</div></td></tr></tbody></table></div><div><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

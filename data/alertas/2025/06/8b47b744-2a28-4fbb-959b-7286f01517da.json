@@ -1,0 +1,20 @@
+{
+	"id": "8b47b744-2a28-4fbb-959b-7286f01517da",
+	"type": "Alerta",
+	"titulo": "Se modifica variable Alerta Temprana Preventiva para la Región del Biobío por heladas",
+	"fechaHora": "2025-06-22T09:59:52.5252-04:00",
+	"createdAt": "2025-06-22T14:01:04.074Z",
+	"updatedAt": "2025-06-23T13:49:08.675Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-19",
+	"parentId": "5c979e40-4cde-4bc7-9c9d-149305907157",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente aviso meteorológico para la Región del Biobío:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A234</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto periodo de tiempo en litoral, cordillera de la   costa y precordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\">Sin embargo, se mantiene vigente el siguiente alertamiento meteorológico para la región:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A233</p></td><td><p style=\"text-align:justify\">Heladas normales a   moderadas, con probabilidad de formación de escarcha en cordillera de la   costa, valle y precordillera (entre -4 y -2 C°).</p></td><td><p style=\"text-align:center\">23-06</p></td><td><p style=\"text-align:center\">23-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED modifica la variable de la Alerta Temprana Preventiva Regional a heladas, que se encuentravigente desde el 20 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

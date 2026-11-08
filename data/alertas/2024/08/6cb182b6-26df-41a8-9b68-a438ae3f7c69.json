@@ -1,0 +1,20 @@
+{
+	"id": "6cb182b6-26df-41a8-9b68-a438ae3f7c69",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de La Serena, por evento masivo",
+	"fechaHora": "2024-08-18T09:19:00.000-04:00",
+	"createdAt": "2024-08-18T13:21:39.250Z",
+	"updatedAt": "2024-08-18T13:21:53.008Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-la-serena-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, respecto al desarrollo del evento masivo denominado “<strong>Gran Pasacalle Cultural Andino</strong>” en la comuna de La Serena, se informa este se desarrolló con normalidad, sin reportar novedades de emergencias.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de La Serena</strong>, por evento masivo, que se mantuvo vigente desde el 14 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

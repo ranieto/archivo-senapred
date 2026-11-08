@@ -1,0 +1,20 @@
+{
+	"id": "6606ef95-5c9a-4a3c-aad2-4555a6b2b6c4",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por Heladas",
+	"fechaHora": "2025-09-06T11:07:00.000-04:00",
+	"createdAt": "2025-09-06T15:09:21.325Z",
+	"updatedAt": "2025-09-06T15:10:11.929Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> mediante el Pronóstico Meteorológico Oficial de hoy, se esperan temperaturas mínimas para los próximos días en la región que promediarán los 4°C. Lo anterior, supone una disminución del riesgo asociado a dicha variable. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por Heladas, </strong>que se encontrabavigente desde el 5 de septiembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "a225dfbd-3f36-44de-97c0-043a9a7dfb8f",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Arica y Parinacota y Tarapacá",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-12-20T12:20:04.602Z",
+	"updatedAt": "2023-12-20T12:24:59.079Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-arica-y-parinacota-y-tarapaca-3",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">Un sismo de menor intensidad se percibió a las (hora) en las regiones de Arica y Parinacota y Tarapacá</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>III</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

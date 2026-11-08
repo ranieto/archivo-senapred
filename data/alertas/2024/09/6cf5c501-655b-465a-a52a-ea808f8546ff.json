@@ -1,0 +1,20 @@
+{
+	"id": "6cf5c501-655b-465a-a52a-ea808f8546ff",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento masivo",
+	"fechaHora": "2024-09-23T07:23:00.000-03:00",
+	"createdAt": "2024-09-23T10:29:34.332Z",
+	"updatedAt": "2024-09-23T10:30:16.480Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED O´Higgins</span></strong><span style=\"color: black\">, se indica que las actividades programadas en el contexto de la celebración de las fiestas patrias 2024, que se realizaron entre los días 13 y 22 de septiembre en la región, finalizaron sin registrarse situaciones de emergencia.</span><br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED<strong>cancela la Alerta Temprana Preventiva Regional por evento masivo,</strong>que se mantuvo vigente desde el 13 de septiembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

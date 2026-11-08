@@ -1,0 +1,20 @@
+{
+	"id": "7d57c6f6-9887-47d0-99bc-6847d76ed2dd",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Atacama por altas temperaturas",
+	"fechaHora": "2025-08-04T18:45:00.000-04:00",
+	"createdAt": "2025-08-04T23:08:28.706Z",
+	"updatedAt": "2025-08-04T23:08:43.561Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-7",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el Aviso Meteorológico A299/2025, el cual pronosticaba altas temperaturas en cordillera de la costa, valle y precordillera de la región. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En base a estos antecedentes, lo que supone una disminución del riesgo asociado a esta variable y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por altas temperaturas</strong>, que se mantuvo vigente desde el 02 de agosto de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

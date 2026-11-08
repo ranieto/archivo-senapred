@@ -1,0 +1,19 @@
+{
+	"id": "056e918d-afda-4842-b3a1-84de83e97d3d",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Tarapacá",
+	"fechaHora": "2024-12-09T13:28:33.3333-03:00",
+	"createdAt": "2024-12-09T16:32:36.441Z",
+	"updatedAt": "2024-12-09T16:39:54.307Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-tarapaca",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad fue percibido a las 13:27 en la Región de Tarapacá.</p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>V</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

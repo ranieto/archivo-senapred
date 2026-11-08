@@ -1,0 +1,20 @@
+{
+	"id": "4c412eea-496b-42a6-94fe-b39dec1e551c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Los Lagos por calor intenso",
+	"fechaHora": "2026-01-04T23:10:46.4646-03:00",
+	"createdAt": "2026-01-05T02:11:43.518Z",
+	"updatedAt": "2026-01-05T02:12:19.048Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-los-lagos-por-calor-intenso-2026-01-02-11-36-38",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en precordillera de la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por calor intenso, </strong>que se mantuvo vigente desde el 02 de enero de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

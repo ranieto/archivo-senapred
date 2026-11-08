@@ -1,0 +1,20 @@
+{
+	"id": "62a40ec5-a9cb-4fe5-afe9-037795217495",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Lautaro por incendio forestal",
+	"fechaHora": "2024-01-25T18:58:00.000-03:00",
+	"createdAt": "2024-01-25T22:00:32.971Z",
+	"updatedAt": "2024-01-25T23:31:56.281Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lautaro-por-incendio-forestal",
+	"parentId": "9ab8da7f-a688-49f9-abdd-55a01792a7c4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Lautaro\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Lautaro, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>Camino La Colonia</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>390 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">Incendio encuentra activo con intensidad media en parte baja y media del flanco izquierdo, en los sectores restantes no se observa actividad</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>3 brigadas de CONAF, 4 técnico de CONAF y 1 camión cisterna de CONAF</div></td></tr></tbody></table></div><p style=\"text-align: justify\">Producto de este incendio, un voluntario de Bomberos resultó lesionado, quien fue atendido por la Clínica Móvil del municipio y luego derivado a su domicilio. Mientras que los habitantes de 25 viviendas fueron evacuadas de manera preventiva, producto del avance del fuego. No obstante, ya retornaron a sus domicilios. Por su parte, el Departamento de Salud Municipal realizó una visita a los domicilios del lugar, a fin de verificar oportunamente cualquier necesidad de atención. Mientras que las viviendas destruidas se encontraban abandonadas.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía , la Dirección Regional de SENAPRED&nbsp;<strong>mantiene Alerta Roja para la comuna de Lautaro por incendio forestal</strong>, que se encuentra vigente desde el 24 de enero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "f3b0f03a-072d-4e40-9626-5f26d6c4d12f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chaitén por incendio forestal",
+	"fechaHora": "2024-03-04T22:35:00.000-03:00",
+	"createdAt": "2024-03-05T01:37:17.939Z",
+	"updatedAt": "2024-03-05T01:37:36.447Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chaiten-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;se registra un incendio forestal en la comuna de Chaitén, según el siguiente detalle:<br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Refugio</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,01 hectáreas</p></td></tr><tr><td><p><strong>Fundamentación técnica</strong></p></td><td><p>Se encuentra superada la amenaza al área protegida Parque   Nacional Pumalín Douglas Tompkins.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la Comuna de Chaitén, por incendio forestal</strong>, que se mantuvo vigente desde el 04 de marzo de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

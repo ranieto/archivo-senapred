@@ -1,0 +1,20 @@
+{
+	"id": "4cd2c04b-d5b4-4c99-8698-bcc004a20aaa",
+	"type": "Alerta",
+	"titulo": "Se actualiza la Alerta Temprana Preventiva para la Región de Arica y Parinacota por tormentas eléctricas",
+	"fechaHora": "2024-01-23T13:53:00.000-03:00",
+	"createdAt": "2024-01-23T17:07:47.672Z",
+	"updatedAt": "2024-02-09T04:19:06.673Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-tormentas-electricas-2",
+	"parentId": "53eb2414-15b8-4b5c-9de9-44db367e8888",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A9-2</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas preferentemente durante la   tarde-noche, con precipitaciones aisladas en precordillera y cordillera.</p></td><td><p style=\"text-align:center\">23-01</p></td><td><p style=\"text-align:center\">26-01</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a los antecedentes meteorológicos mencionados, que suponen un aumento del riesgo asociado a esta variable, la Dirección Regional de SENAPRED de Arica y Parinacota <strong>actualiza la Alerta Temprana Preventiva</strong><strong>regional</strong> por tormentas eléctricas, que se mantiene vigente desde el 18 de enero y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p style=\"text-align:justify\"><strong><span style=\"color:black\">SENAPRED</span></strong><span style=\"color:black\">recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </span><span style=\"color:black\">&nbsp;</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

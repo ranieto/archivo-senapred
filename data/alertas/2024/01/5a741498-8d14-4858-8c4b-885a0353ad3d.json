@@ -1,0 +1,20 @@
+{
+	"id": "5a741498-8d14-4858-8c4b-885a0353ad3d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Vallenar por incendio forestal",
+	"fechaHora": "2024-01-18T00:03:00.000-03:00",
+	"createdAt": "2024-01-18T03:09:59.011Z",
+	"updatedAt": "2024-01-21T00:09:33.414Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-vallenar-por-incendio-forestal",
+	"parentId": "9c6a6db8-e515-4590-9f26-bae3a21b7cd0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio Morro Sur, en la comuna de Vallenar, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Morro Sur</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>8 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Se mantiene   activo en todos sus sectores, con intensidad media, multiplicidad de focos y   viento a favor.</p></td></tr></tbody></table><p>Producto de este evento, al momento, se encuentra afectado el alimentador El Valle, con daños en 120 metros de la linea de media tensión, por lo que se mantienen 457 clientes sin suministro eléctrico entre los sectores Morro Sur y Algodón (Rutas C-485/C-577/C-563).</p><p>En cuanto a la conectividad, entre los kilómetro 8 y 9 de la Ruta C-485, se encuentra el tránsito vehicular restringido, a fin de facilitar el trabajo de los equipos de emergencia. Mientras que la Ruta C-577 se encuentra interrumpida en su totalidad.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED mantiene <strong>la Alerta Roja para la Comuna de Vallenar, por incendio forestal</strong>, que se encuentra vigente desde el 17 de enero de 2024.</p><p>Cabe señalar que la empresa CGE se mantiene gestionando materiales y recursos para la reparación de la línea dañada y la recuperación del suministro de electricidad.</p><p>Por otra parte, la Superintendencia de Servicios Sanitarios (SISS), descarta una posible afectación de la calidad del agua de los canales, producto del incendio forestal.</p><p>Finalmente, se encuentra en proceso de gestión la activación y desplazamiento de una Brigada Forestal del Ejército de Chile (BRIFE) del Regimiento de Infantería N°23 para la jornada del 18 de enero.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "fdc478d5-4fb2-4789-938c-128795465aee",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Puerto Montt por remoción en masa",
+	"fechaHora": "2025-06-23T20:41:45.4545-04:00",
+	"createdAt": "2025-06-24T00:43:01.740Z",
+	"updatedAt": "2025-07-17T23:46:51.045Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-puerto-montt-por-remocion-en-masa",
+	"parentId": "9cf3f7a9-50a8-4725-b5ae-3dc76ef8aeb8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos</span></strong><span style=\"color: black\">, respecto a la remoción en masa ocurrida el 10 de junio en el kilómetro 10 de la Ruta V-805, comuna de Puerto Montt, se informa que se mantiene habilitada una vía entre las 06:00 y 21:00 horas para vehículos menores y transporte público, con apoyo de señalética, Carabineros y personal municipal.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Además, durante la presente jornada se realizó una mesa técnica, donde se acordó mantener la evaluación constante de la ladera y continuar con la operación de una sola vía, debido a los niveles de riesgo aún presentes.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otro lado, durante la presente jornada, SERNAGEOMIN emitió un reporte técnico de remoción en masa que indica que el día 21 de junio se produjo una reactivación, por lo que la remoción en masa se mantiene activa, persisten bloques inestables y sedimento suelto sobre la cicatriz de la remoción y estos podrían caer o deslizar en el corto plazo. En este reporte se sugiere mantener el control visual de posibles reactivaciones, realizar monitoreos periódicos para evaluar la estabilidad en condiciones de precipitaciones y post precipitaciones, tomar medidas precautorias de no acercarse mientras la remoción presente actividad, comunicar el riesgo existente a la población mediante señalética, comunicación radial y redes sociales, entre otros.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla por remoción en masa para la comuna de Puerto Montt, que se encuentra vigente desde el 13 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Durante la jornada de hoy se realizó una mesa técnica, encabezada por la Delegada Presidencial Regional, y contó con la participación del Director Regional de SENAPRED, Dirección Meteorológica de Chile, SERNAGEOMIN, SEREMI de Transportes y Alcalde junto a personal municipal. Además posteriormente, se llevó a cabo una mesa técnica ampliada, liderada por la Municipalidad de Puerto Montt, con participación de entidades públicas y privadas, con el objetivo de evaluar e iniciar las acciones de mitigación en el sector afectado.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, también se mantienen trabajando en la superación de la emergencia Bomberos de Puerto Montt, Carabineros, Ministerio de Obras Públicas y Ejército de Chile.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

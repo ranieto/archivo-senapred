@@ -1,0 +1,20 @@
+{
+	"id": "a9f70b2b-6004-4b90-9a8c-f48fdeac9614",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2024-03-08T04:49:00.000-03:00",
+	"createdAt": "2024-03-08T07:51:25.425Z",
+	"updatedAt": "2024-03-08T08:02:06.916Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-25",
+	"parentId": "f6fa39a4-8368-42fa-b7ba-dab8f635aa0c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 04:41 horas en las regiones de Atacama y Coquimbo.<br></p><p>Las intensidades en escala de Mercalli son las siguientes:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Atacama</strong></p></td></tr><tr><td><p>Vallenar:</p></td><td><p>IV</p></td></tr><tr><td><p>Copiapó:</p></td><td><p>III</p></td></tr><tr><td><p>Tierra Amarilla:</p></td><td><p>III</p></td></tr><tr><td><p>Alto del Carmen:</p></td><td><p>III</p></td></tr><tr><td><p>Freirina:</p></td><td><p>III</p></td></tr><tr><td><p>Huasco:</p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Coquimbo</strong></p></td></tr><tr><td><p>Andacollo:</p></td><td><p>III</p></td></tr><tr><td><p>La Higuera:</p></td><td><p>III</p></td></tr><tr><td><p>Vicuña:</p></td><td><p>III</p></td></tr><tr><td><p>La Serena:</p></td><td><p>II</p></td></tr></tbody></table><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p style=\"text-align: justify\">El Centro Sismológico Nacional indica que la magnitud fue 4.7, localizada a 52 Km al Noroeste de La Higuera.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

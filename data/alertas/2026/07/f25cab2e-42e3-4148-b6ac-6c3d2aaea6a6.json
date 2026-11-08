@@ -1,0 +1,20 @@
+{
+	"id": "f25cab2e-42e3-4148-b6ac-6c3d2aaea6a6",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-07-20T18:53:27.615Z",
+	"updatedAt": "2026-07-20T18:55:09.765Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-07-13-12-33-07",
+	"parentId": "11568d35-8ac9-492e-8219-b6c7e790f325",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos para la Región Metropolitana:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A319-10</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera de la costa, valle, precordillera y   cordillera.</p></td><td><p style=\"text-align:center\">20-07</p></td><td><p style=\"text-align:center\">22-07</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A332-6</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en la región.</p></td><td><p style=\"text-align:center\">19-07</p></td><td><p style=\"text-align:center\">21-07</p></td></tr></tbody></table><p style=\"text-align:justify\">Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de su <strong>Minuta Técnica por peligro de remoción en masa, </strong>indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) para la región es <strong>Moderada</strong> para cordillera de la costa, valle longitudinal y precordillera y <strong>Baja</strong> para cordillera.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por evento meteorológico,</strong> vigente desde el 14 de julio del 2026 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Con esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

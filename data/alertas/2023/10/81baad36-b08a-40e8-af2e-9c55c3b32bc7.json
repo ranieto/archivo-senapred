@@ -1,0 +1,20 @@
+{
+	"id": "81baad36-b08a-40e8-af2e-9c55c3b32bc7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Toltén, Teodoro Schmidt y Curarrehue por evento meteorológico",
+	"fechaHora": "2023-10-04T11:49:39.3939-03:00",
+	"createdAt": "2023-10-04T14:50:30.831Z",
+	"updatedAt": "2023-10-04T14:50:58.033Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-tolten-teodoro-schmidt-pucon-y-curarrehue-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante el informe de amenaza meteorológica del día de hoy, el cual pronostica precipitaciones e intensidades de viento, señala que en la región no se observan montos considerables para los próximos días.<br><br>Cabe destacar, que a raíz de este evento se registraron diversas afectaciones, las que al momento se encuentran resueltas o en proceso de solución, con recursos municipales y sectoriales.<br><br>En consideración a estos antecedentes, que suponen la disminución del riesgo asociado a las variables meteorológicas y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED cancela la Alerta Roja para las comunas de Toltén, Teodoro Schmidt y Curarrehue, por evento meteorológico, que se mantuvo vigente desde el 15 de agosto de 2023.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

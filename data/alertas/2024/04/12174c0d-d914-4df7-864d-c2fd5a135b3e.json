@@ -1,0 +1,20 @@
+{
+	"id": "12174c0d-d914-4df7-864d-c2fd5a135b3e",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-04-18T20:22:10.1010-04:00",
+	"createdAt": "2024-04-19T00:23:39.292Z",
+	"updatedAt": "2024-04-20T21:59:51.582Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-7",
+	"parentId": "39baea9e-b087-4c6c-8628-78cc4c79fc72",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Valparaíso se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Alto El Puerto</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.8 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>1 brigada y un   técnico de Conaf; además de Bomberos de Valparaíso.</p><p>En trayecto: 1   técnico, 6 brigadas y 2 camiones de Conaf.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se   encuentra cercano a infraestructura crítica.</p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Valparaíso por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color:black\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

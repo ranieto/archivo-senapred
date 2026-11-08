@@ -1,0 +1,20 @@
+{
+	"id": "23a0b719-a3fc-4fec-995f-42350fd74daa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2026-07-20T11:17:00.000-04:00",
+	"createdAt": "2026-07-20T15:46:37.101Z",
+	"updatedAt": "2026-07-20T15:47:40.515Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-12-19-41-13",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, han sido cancelados los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron.</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA95-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   moderado a fuerte en valle y precordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A324-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en litoral y cordillera de la costa.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A329</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en   la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, la región mantiene 21.526 clientes sin suministro eléctrico, empresas eléctricas se mantienen trabajando en la recuperación del servicio. Por otra parte, los equipos municipales se mantienen desplegados en terreno realizando la evaluación de daños y necesidades para la rehabilitación de las emergencias generadas en la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>Cancela Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 15 de julio del 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

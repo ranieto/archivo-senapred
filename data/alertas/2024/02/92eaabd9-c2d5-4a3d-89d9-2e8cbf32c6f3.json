@@ -1,0 +1,20 @@
+{
+	"id": "92eaabd9-c2d5-4a3d-89d9-2e8cbf32c6f3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Galvarino por incendio forestal",
+	"fechaHora": "2024-02-07T17:25:00.000-03:00",
+	"createdAt": "2024-02-07T20:30:21.216Z",
+	"updatedAt": "2024-02-07T20:31:13.872Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-galvarino-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo c</strong>on&nbsp;<strong>la información proporcionada por CONAF</strong>,&nbsp;se reporta el siguiente detalle para el incendio forestal Nilpe 4, en la comuna de Galvarino:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Nilpe   4</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1.484   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">No   presenta amenaza ni avance a centros poblados.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la Comuna de Galvarino, por incendio forestal</strong>, que se mantuvo vigente desde el 03 de febrero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

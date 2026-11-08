@@ -1,0 +1,20 @@
+{
+	"id": "eab7a5c4-099f-4471-95a6-44a55c00c1e0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Dalcahue por incendio forestal",
+	"fechaHora": "2024-02-08T19:55:03.033-03:00",
+	"createdAt": "2024-02-08T22:56:12.113Z",
+	"updatedAt": "2024-02-08T22:56:25.045Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-dalcahue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por CONAF,</strong>&nbsp;se informa el siguiente reporte respecto al incendio forestal en la comuna de Dalcahue:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Piruquina</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1.71 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la Comuna de Dalcahue, por incendio forestal,</strong> que se mantuvo vigente desde el 07 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

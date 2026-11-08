@@ -1,0 +1,20 @@
+{
+	"id": "3b5817db-aceb-4ea8-bd7d-6eaeca412d34",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Los Álamos por incendio forestal",
+	"fechaHora": "2024-12-22T16:38:00.000-03:00",
+	"createdAt": "2024-12-22T19:49:23.654Z",
+	"updatedAt": "2024-12-24T14:56:10.552Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-alamos-por-incendio-forestal",
+	"parentId": "4b542151-5a19-4c85-95e5-a7185356dd47",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Los Álamos\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"font-size: 16px\"> se informa el siguiente detalle respecto del incendio forestal “PELAHUENCO V”, en la comuna de Los Álamos:</span></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>PELAHUENCO   V</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>400   hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   Los Álamos, Lebu y Curanilahue, 7 Brigadas CONAF, 6 ARAUCO, 1 Técnico   Supervisores Empresa Arauco, 4 CONAF, 2 jefe de operaciones Arauco, 3 Aviones   Arauco, 1 helicóptero, 1 Coordinación Arauco, 1 avión C-130, 2 aviones AT, 3   Helitransportadas Arauco, 2 skidder Arauco y 1 puesto comando Arauco.</p><p style=\"text-align:justify\">Recursos   en trayecto: 1 skidder</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Los Álamos, por incendio forestal, que se encuentra vigente desde el 22 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

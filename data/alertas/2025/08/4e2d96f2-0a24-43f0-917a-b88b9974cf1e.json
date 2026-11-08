@@ -1,0 +1,20 @@
+{
+	"id": "4e2d96f2-0a24-43f0-917a-b88b9974cf1e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Los Sauces y Angol por desborde",
+	"fechaHora": "2025-08-06T11:59:00.000-04:00",
+	"createdAt": "2025-08-06T16:02:32.722Z",
+	"updatedAt": "2025-08-06T16:03:28.979Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-los-sauces-y-angol-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por la Dirección General de Aguas (DGA), mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación<strong>“Río Rahue en Quebrada Culén”</strong>se encuentra en umbral azul con tendencia a la baja.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional,&nbsp;<strong>cancela la Alerta Roja por desborde para las comunas de Los Sauces y Angol</strong>, que se encontraba vigente desde el 03 de agosto.</span></p><div><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0148b82e-041e-465a-917c-358be8617b85",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-01-02T09:38:00.000-03:00",
+	"createdAt": "2024-01-02T12:40:21.758Z",
+	"updatedAt": "2024-01-02T22:31:47.182Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-4",
+	"parentId": "8e973bf3-b80f-4c10-aea5-3c2968f77e52",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto al incendio forestal en la comuna de Valparaíso, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Complejo Las Tablas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">19,1 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal se encuentra contenido y con fumarolas al interior del perímetro.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">Trabajó   durante la madrugada 1 brigada de CONAF.</p></td></tr></tbody></table></div><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cruce Las Tablas 3.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,6 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal con avance regular.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">Trabaja   en el lugar 1 brigada de CONAF.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja para la comuna de Valparaíso</strong><strong>por incendio forestal,</strong> vigente desde el 31 de diciembre de 2023.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

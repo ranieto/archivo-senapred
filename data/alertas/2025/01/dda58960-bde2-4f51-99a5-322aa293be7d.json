@@ -1,0 +1,20 @@
+{
+	"id": "dda58960-bde2-4f51-99a5-322aa293be7d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de San Juan de la Costa por incendio forestal",
+	"fechaHora": "2025-01-20T22:28:24.2424-03:00",
+	"createdAt": "2025-01-21T01:32:41.437Z",
+	"updatedAt": "2025-01-21T10:40:24.916Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-juan-de-la-costa-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), en relación al incendio forestal denominado “Caleta Pucatrihue”, se informa que se encuentra controlado y ya no presenta amenaza a personas, viviendas, centros poblados y/o infraestructura crítica.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de San Juan de la Costa, por incendio forestal, que se mantuvo vigente desde el 19 de enero de 2025.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

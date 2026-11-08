@@ -1,0 +1,19 @@
+{
+	"id": "1068dc53-e6fc-403b-bc96-928909861361",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Coquimbo ",
+	"fechaHora": "2024-06-12T18:29:57.5757-04:00",
+	"createdAt": "2024-06-12T22:31:11.587Z",
+	"updatedAt": "2024-06-12T22:36:28.505Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-coquimbo-3",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"La Serena\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de mediana intensidad se percibió a las 18:27 horas en la Región de Coquimbo . Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><p><br></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Serena: </p></td><td><p>V</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

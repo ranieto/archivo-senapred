@@ -1,0 +1,20 @@
+{
+	"id": "76ffd003-cc40-492a-82b4-f08c5ca9f772",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por precipitaciones",
+	"fechaHora": "2025-09-20T15:20:00.000-03:00",
+	"createdAt": "2025-09-20T18:47:10.669Z",
+	"updatedAt": "2025-09-20T18:48:15.292Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el siguiente alertamiento meteorológico para la Provincia de Isla de Pascua, Región de Valparaíso, debido al debilitamiento de las condiciones que lo generaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA85</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   moderadas a fuertes en corto periodo de tiempo en Isla de Pascua.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene vigente el Aviso Meteorológico A361-2 que pronostica la ocurrencia de precipitaciones normales a moderadas en Isla de Pascua, vigente hasta hoy sábado 20 de septiembre.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva </strong></span><strong><span style=\"color:black\">para la Provincia de Isla de Pascua por precipitaciones</span></strong><span style=\"color:black\">,que se mantuvo vigente durante hoy sábado 20 de septiembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

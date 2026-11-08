@@ -1,0 +1,20 @@
+{
+	"id": "02954cc1-2b4d-4168-8f28-229a29edc999",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2024-03-10T19:39:30.3030-03:00",
+	"createdAt": "2024-03-10T22:40:22.195Z",
+	"updatedAt": "2024-03-10T22:40:44.184Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-8",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con </span><strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><span style=\"color: black\"> ha sido cancelado el Aviso Meteorológico A59/2024, el cual pronosticaba viento normal a moderado en los sectores de Cordillera Austral Sur, Insular Central y Pampa Patagónica Sur de la Región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial <strong>cancela la Alerta Temprana Preventiva por viento</strong>, para las provincias de Magallanes y Tierra del Fuego, la cual se mantuvo vigente desde el 09 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

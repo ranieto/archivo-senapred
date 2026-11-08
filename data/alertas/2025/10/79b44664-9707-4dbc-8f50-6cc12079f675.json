@@ -1,0 +1,20 @@
+{
+	"id": "79b44664-9707-4dbc-8f50-6cc12079f675",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Combarbalá por incendio forestal",
+	"fechaHora": "2025-10-16T20:38:00.000-03:00",
+	"createdAt": "2025-10-17T00:01:35.502Z",
+	"updatedAt": "2025-10-17T00:03:44.628Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-combarbala-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Combarbalá </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>LLANOS DE COGOTÍ</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2.3</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos Combarbalá, 1 Brigada CONAF, 2 Técnicos   de CONAF, 1 Carabineros de Chile, 6 Maquinaria Municipal y 3 Camiones aljibe.</p></td></tr></tbody></table><p style=\"text-align:justify\">Controlado se encuentra el incendio forestal denominado Llanos de Cogoti, el cual consume una superficie de 2.3 hectáreas de vegetación en la comuna de Combarbalá.</p><p style=\"text-align:justify\">Cabe mencionar, que por su distancia y proyección el incendio ya no presenta amenaza a la población Cogotí.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Combarbalá, por incendio forestal, que se mantuvo vigente desde el 16 de octubre de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "db2024a8-6070-4fa1-8845-c39275702692",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla por incendio forestal, para la Provincia de Melipilla",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-12-07T03:43:44.256Z",
+	"updatedAt": "2023-12-07T03:46:04.342Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-melipilla-por-incendio-forestal",
+	"parentId": "74055d60-4baa-46b9-86fe-bd371cb4d3cb",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de María Pinto, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">El Parrón.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">105 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   con comportamiento extremo.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación </strong></p></td><td><p style=\"text-align:justify\">01   brigadista de CONAF lesionado, siendo trasladado a Clínica Los Maitenes</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla por incendio forestal</strong>, <strong>para la Provincia de Melipilla,</strong> vigente desde el 06 de diciembre y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Los recursos que trabajaron en el combate del incendio forestal en la jornada de hoy y la planificación para el día de mañana se detallan a continuación:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Incendio </span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">El Parrón., comuna de María Pinto.</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Recursos que trabajan la jornada de hoy</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1 puesto de mando, 11 técnicos, 10 brigadas, 2 camiones aljibe,   4 helicópteros, 1 avión de cisterna de CONAF; con el apoyo Bomberos, personal   municipal y 3 helicópteros dispuestos por SENAPRED.</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Planificación de recursos para mañana</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">7 brigadas, 2 skidder y 1 camión aljibe de CONAF.</span></p></td></tr></tbody></table></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

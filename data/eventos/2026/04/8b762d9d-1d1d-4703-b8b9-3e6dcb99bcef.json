@@ -1,0 +1,19 @@
+{
+	"id": "8b762d9d-1d1d-4703-b8b9-3e6dcb99bcef",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de O’Higgins",
+	"fechaHora": "2026-04-28T06:15:00.000-04:00",
+	"createdAt": "2026-04-28T10:15:39.453Z",
+	"updatedAt": "2026-04-28T10:20:01.334Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-ohiggins-2026-04-28-06-15-24",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 06:07 horas en la Región de O’Higgins.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Navidad:   </p></td><td><p>III</p></td></tr><tr><td><p>Pichilemu:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br></span><span style=\"font-size:16px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

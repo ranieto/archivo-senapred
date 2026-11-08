@@ -1,0 +1,20 @@
+{
+	"id": "c305262a-ddb0-4778-8f50-33e27b6bbe27",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso, exceptuando la comuna de Juan Fernandez y la provincia de Isla de Pascua, por tormentas eléctricas",
+	"fechaHora": "2026-01-26T01:31:43.4343-03:00",
+	"createdAt": "2026-01-26T04:33:12.618Z",
+	"updatedAt": "2026-01-26T04:33:36.240Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-la-comuna-de-juan-fernandez-y-la-isla-de-pascua-por-tormentas-electricas-2026-01-25-19-05-53",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Alerta AA23-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Tormentas eléctricas asociadas con chubascos   aislados en litoral, cordillera de la costa y precordillera y valle   precordilleranos.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A30-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Probables tormentas eléctricas en litoral,   cordillera de la costa y cordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional exceptuando la comuna de Juan Fernández y la Provincia de Isla de Pascua, por tormentas eléctricas,</strong> la cual se mantuvo vigente desde el 25 de enero 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

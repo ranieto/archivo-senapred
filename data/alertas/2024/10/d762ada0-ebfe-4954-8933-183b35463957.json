@@ -1,0 +1,20 @@
+{
+	"id": "d762ada0-ebfe-4954-8933-183b35463957",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Río Bueno, Lago Ranco y La Unión por evento masivo",
+	"fechaHora": "2024-10-21T07:56:00.000-03:00",
+	"createdAt": "2024-10-21T10:58:38.384Z",
+	"updatedAt": "2024-10-21T10:59:20.858Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-rio-bueno-lago-ranco-y-la-union-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Ranco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Río Bueno, Lago Ranco, La Unión\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos</strong>, sin emergencias mayores ha finalizado el evento denominado “RallyMobil 2024”, el cual fue realizado en las comunas de Río Bueno, Lago Ranco y La Unión. Del mismo modo, el evento “Oktoberfest 2024” que se realizó durante el mismo periodo en la comuna de Río Bueno, tampoco presentó situaciones de emergencia.<br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva para las comunas de Río Bueno, Lago Ranco y La Unión por evento masivo</strong>, la que se mantuvo vigente desde el 17 de octubre de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

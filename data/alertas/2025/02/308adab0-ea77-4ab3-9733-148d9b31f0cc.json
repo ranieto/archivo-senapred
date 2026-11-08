@@ -1,0 +1,20 @@
+{
+	"id": "308adab0-ea77-4ab3-9733-148d9b31f0cc",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Galvarino por incendio forestal",
+	"fechaHora": "2025-02-09T00:46:52.5252-03:00",
+	"createdAt": "2025-02-09T03:47:30.477Z",
+	"updatedAt": "2025-02-10T00:23:26.128Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-galvarino-por-incendio-forestal-3",
+	"parentId": "0d9d381a-5148-4766-a18a-c8e232b84afe",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Galvarino&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quichaltué</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>442 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Galvarino, Gorbea, Cunco y Loncoche; 8   brigadas y 2 técnico de Conaf; además de 1 aeronaves</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Pellahuenco 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>41.5 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Galvarino, Gorbea, Cunco, Nueva Imperial y   Loncoche; 5 brigadas y 2 técnico de Conaf; además de 4 aeronaves</p></td></tr></tbody></table><p>En cuanto a los mensajes del Sistema de Alertas de Emergencia (SAE), se envió un mensaje para la comuna de Galvarino, el día 07 de febrero.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Galvarino, por incendio forestal, que se encuentra vigente desde el 06 de febrero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

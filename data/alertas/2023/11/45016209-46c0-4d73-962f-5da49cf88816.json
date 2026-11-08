@@ -1,0 +1,20 @@
+{
+	"id": "45016209-46c0-4d73-962f-5da49cf88816",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2023-11-08T14:36:09.099-03:00",
+	"createdAt": "2023-11-08T17:37:24.016Z",
+	"updatedAt": "2023-11-08T22:42:32.550Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas",
+	"parentId": "abd65efa-bdfc-469f-ae57-59cc0436c295",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante la Alerta Meteorológica AA77/2023 se pronostican tormentas eléctricas en el sector cordillerano de la Región de Tarapacá, entre la tarde y noche de hoy miércoles 08 de noviembre.</p><p>En consideración a este antecedente, que supone un aumento del riesgo asociado a esta variable meteorológica, la Dirección Regional del SENAPRED Tarapacá, en coordinación con la Delegación Presidencial Regional, declara Alerta Temprana Preventiva para la Provincia de Tamarugal, por tormentas eléctricas, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

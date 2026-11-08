@@ -1,0 +1,20 @@
+{
+	"id": "93d8bd3c-716b-4a6e-a51b-b46be9ac5bc8",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones del Maule y Ñuble",
+	"fechaHora": "2024-05-13T05:26:06.066-04:00",
+	"createdAt": "2024-05-13T09:27:54.940Z",
+	"updatedAt": "2024-05-13T09:32:08.664Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-uble-2",
+	"parentId": "a57212c3-7bef-4bf9-b55b-fccecbadbd2e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 05:21 horas en las regiones del Maule y Ñuble. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Pelluhue:   </p></td><td><p>III</p></td></tr><tr><td><p>Iloca:   </p></td><td><p>III</p></td></tr><tr><td><p>Constitución:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Cobquecura:   </p></td><td><p>III</p></td></tr><tr><td><p>Quirihue:   </p></td><td><p>III</p></td></tr><tr><td><p>Trehuaco:   </p></td><td><p>III</p></td></tr></tbody></table><p><br></p><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p><br>(Preliminar) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.6 localizado a 108 Kms al Noroeste de Cobquecura.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

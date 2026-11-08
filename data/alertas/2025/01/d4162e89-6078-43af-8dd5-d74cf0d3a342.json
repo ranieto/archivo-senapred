@@ -1,0 +1,20 @@
+{
+	"id": "d4162e89-6078-43af-8dd5-d74cf0d3a342",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por evento masivo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-02T18:54:34.814Z",
+	"updatedAt": "2025-01-02T18:55:35.368Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-3",
+	"parentId": "23bda3f0-6091-4190-8268-658279e4b810",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de Magallanes, han finalizado las diversas actividades programadas en el contexto de la celebración de “Fiestas de Navidad y Año Nuevo 2025” en la región, las que se desarrollaron entre los días 24 de diciembre del 2024 y el 02 de enero del 2025, sin registrase situaciones de emergencia relevantes.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo, </strong>que se mantuvo vigente desde el 24 de diciembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

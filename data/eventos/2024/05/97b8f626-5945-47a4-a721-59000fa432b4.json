@@ -1,0 +1,20 @@
+{
+	"id": "97b8f626-5945-47a4-a721-59000fa432b4",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las Regiones de Valparaíso y Metropolitana ",
+	"fechaHora": "2024-05-18T05:53:06.066-04:00",
+	"createdAt": "2024-05-18T09:54:28.741Z",
+	"updatedAt": "2024-05-18T09:54:28.741Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-valparaiso-y-metropolitana",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>La <em>Unidad Nacional de Alerta Temprana</em> reporta información del siguiente evento sísmico<br></p><p><br><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>18/05/2024   - 05:29</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>18/05/2024   - 05:47</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>IV   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>101-C</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Limache   : </p></td><td><p>IV</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>III</p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Tiltil:   </p></td><td><p>III</p></td></tr><tr><td><p>Macul:   </p></td><td><p>II</p></td></tr><tr><td><p>Santiago:   </p></td><td><p>II</p></td></tr><tr><td><p>La   Florida: </p></td><td><p>II</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Modificación de los datos técnicos del sismo, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>4.4</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -32.91<br>   Longitud: -70.87</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>27   Kms al Oeste de Los Andes</p></td></tr><tr><td><p>Región:   </p></td><td><p>Valparaíso</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>79</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

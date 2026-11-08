@@ -1,0 +1,20 @@
+{
+	"id": "4764f564-cb5d-4fbf-b03b-3f90a056c7a3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por precipitaciones",
+	"fechaHora": "2026-05-05T17:55:50.5050-04:00",
+	"createdAt": "2026-05-05T21:57:26.378Z",
+	"updatedAt": "2026-05-05T21:57:53.686Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-precipitaciones-2026-05-03-16-54-44",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 16px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><p><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><strong>Alertamiento   cancelado</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\">A212</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\">Precipitaciones   normales a moderadas en pampa patagónica sur.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 16px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial de la Región de Magallanes, la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva por precipitaciones para las provincias de Magallanes y Tierra del Fuego</strong>, que se mantenía vigente desde el 03 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

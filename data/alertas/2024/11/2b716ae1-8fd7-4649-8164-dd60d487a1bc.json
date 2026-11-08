@@ -1,0 +1,20 @@
+{
+	"id": "2b716ae1-8fd7-4649-8164-dd60d487a1bc",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento masivo",
+	"fechaHora": "2024-11-25T12:11:20.2020-03:00",
+	"createdAt": "2024-11-25T15:12:24.048Z",
+	"updatedAt": "2024-11-25T15:13:29.131Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, respecto a la Segunda Vuelta Electoral de Gobernadores Regionales 2024, se informa que estas finalizaron sin reportar situaciones relevantes de emergencia.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento masivo,</strong> que se mantuvo vigente desde el 22 de noviembre de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

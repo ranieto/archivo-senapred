@@ -1,0 +1,19 @@
+{
+	"id": "b2cdbe6f-0af7-4996-9128-6df8e3e7eae7",
+	"type": "Evento",
+	"titulo": "Prueba de contenido",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-16T15:01:35.156Z",
+	"updatedAt": "2026-01-16T15:26:51.576Z",
+	"urlAccess": "prueba-de-contenido-2026-01-16-12-01-25",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>Hola. Esto es una prueba de contenido.</p><div>sfdfsdfsfsf</div><p></p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

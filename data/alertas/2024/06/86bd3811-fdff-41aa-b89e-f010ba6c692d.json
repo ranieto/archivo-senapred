@@ -1,0 +1,20 @@
+{
+	"id": "86bd3811-fdff-41aa-b89e-f010ba6c692d",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Atacama por viento",
+	"fechaHora": "2024-06-11T16:32:57.5757-04:00",
+	"createdAt": "2024-06-11T20:34:37.306Z",
+	"updatedAt": "2024-06-19T04:37:18.437Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comuna-de-diego-de-almagro-copiapo-tierra-amarilla-y-alto-del-carmen-por-viento",
+	"parentId": "47fa8517-565c-4d03-af57-c78d7d0ea0e9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama:<br></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: justify\">Alerta AA45</p></td><td><p style=\"text-align: justify\">Viento moderado a fuerte en cordillera de la región.</p></td><td><p style=\"text-align: center\">13-06</p></td><td><p style=\"text-align: center\">14-06</p></td></tr><tr><td><p style=\"text-align: justify\">Aviso A189-2</p></td><td><p style=\"text-align: justify\">Viento normal a moderado en litoral, cordillera de la costa, valles, pampa, precordillera y cordillera de la región.</p></td><td><p style=\"text-align: center\">12-06</p></td><td><p style=\"text-align: center\">16-06</p></td></tr></tbody></table><p style=\"text-align: justify\">Cabe mencionar, que los montos indicados de viento para cordillera en la Alerta AA45, corresponden a entre 100 y 120 (km/h) para el jueves 13 y entre 90 y 110 (km/h) para el viernes 14 de junio.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED&nbsp;<strong>modifica la cobertura de la Alerta Temprana Preventiva a regional por viento</strong>,que se encuentra vigente desde el 04 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><a name=\"x__Hlk124948893\"></a></p><p style=\"text-align: justify\"><span style=\"color: black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: black\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em>SENAPRED&nbsp;</em></strong></span><em>recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</em><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

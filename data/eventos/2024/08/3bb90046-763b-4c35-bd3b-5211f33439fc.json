@@ -1,0 +1,22 @@
+{
+	"id": "3bb90046-763b-4c35-bd3b-5211f33439fc",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad entre las regiones de Maule y Araucanía",
+	"fechaHora": "2024-08-18T19:54:25.2525-04:00",
+	"createdAt": "2024-08-18T23:56:42.132Z",
+	"updatedAt": "2024-08-18T23:56:42.132Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-uble-y-biobio",
+	"parentId": "604bfa50-ab51-422d-914b-61bd51911d92",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía, Región del Maule, Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 19:32 horas entre las regiones de Maule y Araucanía.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Cauquenes:   </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Santa   Juana: </p></td><td><p>IV</p></td></tr><tr><td><p>Concepción:   </p></td><td><p>IV</p></td></tr><tr><td><p>Talcahuano:   </p></td><td><p>IV</p></td></tr><tr><td><p>Hualpén:   </p></td><td><p>IV</p></td></tr><tr><td><p>Arauco:   </p></td><td><p>IV</p></td></tr><tr><td><p>San   Pedro de la Paz: </p></td><td><p>III</p></td></tr><tr><td><p>Hualqui:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Angol:   </p></td><td><p>IV</p></td></tr><tr><td><p>Renaico:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Quillón:   </p></td><td><p>V</p></td></tr><tr><td><p>Coelemu:   </p></td><td><p>IV</p></td></tr><tr><td><p>Yungay:   </p></td><td><p>III</p></td></tr></tbody></table><p>SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. </p><p style=\"margin-left:0cm\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.3 y se localizó a 81 Kms al Noroeste de Lebu. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

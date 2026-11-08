@@ -1,0 +1,20 @@
+{
+	"id": "c984c643-c69e-4c7a-b932-85ecf2f7447a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región del Maule por calor extremo",
+	"fechaHora": "2024-02-07T14:15:00.000-03:00",
+	"createdAt": "2024-02-07T17:27:49.997Z",
+	"updatedAt": "2024-02-07T17:28:10.956Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-del-maule-por-calor-extremo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento para la Región de Maule, en atención al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta AA7-1</p></td><td><p style=\"text-align:justify\">Evento de altas   temperaturas extremas en litoral, cordillera de la costa, valle y   precordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional Maule, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Roja Regional por calor extremo,</strong> que se mantenía vigente desde el 29 de enero.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">El SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

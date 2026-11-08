@@ -1,0 +1,20 @@
+{
+	"id": "cb0f39f0-e98d-4bc2-95ff-7424a8d4bc76",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2025-01-19T21:05:00.000-03:00",
+	"createdAt": "2025-01-20T01:40:42.817Z",
+	"updatedAt": "2025-01-20T01:41:19.887Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que se desarrolla en la comuna de Puerto Montt, se informa lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Feria Alerce</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">De acuerdo con la evaluación técnica realizada por CONAF,   el incendio ya no presenta comportamiento</p><p style=\"text-align:justify\">extremo.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED&nbsp;<strong>cancela la Alerta Amarilla para la comuna de Puerto Montt</strong>, por incendio forestal, que se mantuvo vigente desde el 19 de enero de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

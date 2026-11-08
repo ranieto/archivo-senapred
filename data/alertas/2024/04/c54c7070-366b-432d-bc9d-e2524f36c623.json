@@ -1,0 +1,20 @@
+{
+	"id": "c54c7070-366b-432d-bc9d-e2524f36c623",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví y Parral por viento",
+	"fechaHora": "2024-04-03T10:07:00.000-03:00",
+	"createdAt": "2024-04-03T13:10:39.718Z",
+	"updatedAt": "2024-04-03T13:10:51.886Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-romeral-curico-molina-san-clemente-colbun-linares-longavi-y-parral-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> debido al término de las condiciones meteorológicas que lo originaron, <strong>ha sido cancelado el siguiente alertamiento meteorológico</strong> para la Región del Maule:<br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A79-4</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en sector cordillerano. </p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes meteorológicos y en coordinación con la Delegación Presidencial del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para las comunas de Romeral, Curicó, Molina, San Clemente, Colbún, Linares, Longaví y Parral</strong>,que se manteníavigente desde el 31 de marzo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

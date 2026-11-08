@@ -1,0 +1,20 @@
+{
+	"id": "06565909-0aa8-4cea-a6af-baa1d4e21ddf",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Roja para la comuna de San Pedro por incendio forestal ",
+	"fechaHora": "2024-02-12T18:27:00.000-03:00",
+	"createdAt": "2024-02-13T11:45:18.757Z",
+	"updatedAt": "2024-02-13T23:24:22.827Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal-2",
+	"parentId": "deec29da-7b3c-4c29-9a61-b555f3b33de9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Pedro\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">De acuerdo con la información proporcionada por CONAF</span></strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">, en combate se mantiene el incendio forestal denominado “Cuesta Changanal”, el que afecta una superficie aproximada de 230 hectáreas en la comuna de San Pedro.</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Nombre del   incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Cuesta Changanal</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">En Combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">230.0 hectáreas</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de San Pedro, por incendio forestal, que se encuentra vigente desde el 12 de febrero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Se envió Mensajería SAE, para evacuar sector Cuesta Changanal, comuna de San Pedro</span></p><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Se realizó corte de tránsito vehicular en ambos sentidos de Ruta G-690, para el trabajo y desplazamiento de los equipos de emergencias.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "fdc695ea-a6e3-4627-adb9-ea65365fc854",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Collipuli por incendio forestal",
+	"fechaHora": "2025-03-10T23:06:30.3030-03:00",
+	"createdAt": "2025-03-11T02:09:23.343Z",
+	"updatedAt": "2025-03-11T02:15:05.721Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-collipuli-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Collipulli\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Collipulli, se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Curaco 6</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>80 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Al momento el incendio afecta una superficie 80 hectáreas de vegetación y ya no presenta amenaza a viviendas ni infraestructura crítica del sector José Miguel Carrera.<br></div></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>Cuerpo de bomberos de Colllipulli</div><div>7 brigadas Conaf</div><div>6 técnicos Conaf</div><div>8 aviones Conaf</div><div>2 helicópteros Conaf</div><div>2 camiones cisternas</div><div>1 maquinaria pesada</div></td></tr></tbody></table></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía,<strong> la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Collipulli por incendio forestal,</strong> la cual se mantuvo vigente desde el 10 de marzo de 2025.<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

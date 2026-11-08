@@ -1,0 +1,20 @@
+{
+	"id": "15e4b478-37ff-4fc3-9e0e-0e2d70f90ae6",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva Regional por evento meteorológico",
+	"fechaHora": "2024-05-23T18:25:47.4747-04:00",
+	"createdAt": "2024-05-23T22:26:36.593Z",
+	"updatedAt": "2024-05-23T22:27:55.168Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-colina-lo-barnechea-vitacura-las-condes-la-reina-penalolen-la-florida-puente-alto-pirque-y-san-jose-de-maipo-por-evento-meteorologico-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A157-2</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado, en precordillera y cordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A158</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A160-2</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas, con probabilidad de ventisca en cordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A163</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto período de tiempo en valle.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantenía vigente desde del 17 de mayo del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

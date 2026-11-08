@@ -1,0 +1,20 @@
+{
+	"id": "83e22617-d2fb-4521-88cf-5c3d081ad0d4",
+	"type": "Alerta",
+	"titulo": "pre prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-24T23:10:59.614Z",
+	"updatedAt": "2023-09-25T10:32:38.706Z",
+	"urlAccess": "prueba",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Mejillones\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>pre prueba</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0bfbb016-03e9-4858-9649-1fc4ac173190"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "5cb7b753-988f-464f-98a3-16e752c7d681",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de La Araucanía por desborde",
+	"fechaHora": "2026-08-10T11:31:58.5858-04:00",
+	"createdAt": "2026-08-10T15:33:47.020Z",
+	"updatedAt": "2026-08-10T15:35:08.955Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curarrehue-por-crecida-2026-07-26-20-58-26",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las distintas estaciones hidrométricas por las que se declaró esta alerta han disminuido al <strong>umbral de alerta azul y verde, </strong>con tendencia a la baja en sus caudales, lo que supone una disminución del riesgo asociado a esta variable.</span></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela&nbsp;la Alerta Roja Regional por desborde</strong>, que se mantuvo vigente desde el 31 de julio de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

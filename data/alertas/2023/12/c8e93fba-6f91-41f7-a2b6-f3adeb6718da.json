@@ -1,0 +1,20 @@
+{
+	"id": "c8e93fba-6f91-41f7-a2b6-f3adeb6718da",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Quintero por incendio forestal",
+	"fechaHora": "2023-12-15T10:45:00.000-03:00",
+	"createdAt": "2023-12-15T13:47:28.500Z",
+	"updatedAt": "2023-12-15T18:43:31.202Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quintero-por-incendio-forestal",
+	"parentId": "39710624-bec3-432d-9966-9766047f9b06",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Quintero\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto al incendio forestal en la comuna de Quintero, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las Gaviotas 2.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3,37 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por incendio forestal para la comuna de Quintero</strong>, que se mantiene desde el 14 de diciembre de 2023.</p><p><span style=\"color: black\">La planificación establecida por CONAF para la jornada de hoy es de 2 brigadas.</span><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

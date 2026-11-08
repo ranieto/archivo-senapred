@@ -1,0 +1,20 @@
+{
+	"id": "80caebcc-fe8c-4897-b823-54a55836eae3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por precipitaciones",
+	"fechaHora": "2025-06-19T13:43:00.000-04:00",
+	"createdAt": "2025-06-19T17:50:32.928Z",
+	"updatedAt": "2025-06-22T14:36:27.746Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-precipitaciones-4",
+	"parentId": "c93d1b6a-8ce8-44db-b939-791acc13ae55",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigente el siguiente alertamiento meteorológico para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A232</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto periodo de tiempo en zonas de precordillera,   litoral interior y cordillera austral.</p></td><td><p style=\"text-align:center\">21-06</p></td><td><p style=\"text-align:center\">21-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con el Aviso Meteorológico mencionado, a continuación se detallan los montos de precipitaciones (mm) estimadas:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Sábado 21</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Precordillera</p></td><td><p style=\"text-align:center\">30 – 55 </p></td></tr><tr><td><p style=\"text-align:center\">Litoral Interior</p></td><td><p style=\"text-align:center\">25 – 50 &nbsp;</p></td></tr><tr><td><p style=\"text-align:center\">Cordillera Austral</p></td><td><p style=\"text-align:center\">40 – 55 <br>   20 – 35 cm</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional por precipitaciones, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

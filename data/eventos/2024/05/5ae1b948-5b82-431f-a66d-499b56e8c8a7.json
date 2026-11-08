@@ -1,0 +1,20 @@
+{
+	"id": "5ae1b948-5b82-431f-a66d-499b56e8c8a7",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2024-04-30T21:33:33.3333-04:00",
+	"createdAt": "2024-05-01T01:35:28.046Z",
+	"updatedAt": "2024-05-01T01:46:37.223Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-21",
+	"parentId": "6fd159ac-f7b5-4086-84da-ad45cd4464af",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 21:25 horas en las regiones de Tarapacá y Antofagasta.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapacá </strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>IV</p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>IV</p></td></tr><tr><td><p>Camiña   : </p></td><td><p>IV</p></td></tr><tr><td><p>La   Tirana: </p></td><td><p>IV</p></td></tr><tr><td><p>Pica   : </p></td><td><p>IV</p></td></tr><tr><td><p>Huara   : </p></td><td><p>III</p></td></tr><tr><td><p>Ujina:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>María   Elena: </p></td><td><p>IV</p></td></tr><tr><td><p>Calama:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.1 y se localizó a 45 Kms al Noreste de Quillagua. </span></p><p><span style=\"font-size:15px\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

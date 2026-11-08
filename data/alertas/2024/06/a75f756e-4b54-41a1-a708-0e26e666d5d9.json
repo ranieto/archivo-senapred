@@ -1,0 +1,20 @@
+{
+	"id": "a75f756e-4b54-41a1-a708-0e26e666d5d9",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2024-06-12T19:53:00.000-04:00",
+	"createdAt": "2024-06-12T23:55:00.874Z",
+	"updatedAt": "2024-06-20T16:48:41.142Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-provincias-de-arauco-y-concepcion-por-desborde",
+	"parentId": "d2c639c8-56f8-470e-9b5d-5a5758cb5c16",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, se realizó una evacuación preventiva de los sectores Horcones Playa y Horcones Cordillera, comuna de Arauco, por desborde del río Lía, reforzado mediante mensajería SAE a las 19:33 horas. Asimismo, por el desborde del mismo río, fueron evacuados mediante mensaje SAE a las 16:21 horas de hoy, los sectores Tricauco bajo, Saruca, Vaqueria, Paso Largo y Papal.<br></p><p style=\"text-align:justify\">Adicionalmente, por el reporte de una remoción en masa, fue evacuado preventivamente el sector Las Peñas de la comuna de Arauco, apoyado con mensaje SAE a las 17:04 horas.</p><p style=\"text-align:justify\">Finalmente, en la comuna de San Rosendo fue evacuado el sector Antena, por remoción en masa, siendo reforzado el proceso de evacuación a través de mensaje SAE a las 16:59 horas.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Roja Regional por evento meteorológico</strong>, <span style=\"color:black\">que se mantiene vigente desde el 11 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\">Cabe mencionar, que se mantienen vigentes la Alerta Roja para las provincias de Arauco y Concepción y comuna de Los Ángeles por desborde y la Alerta Amarilla regional por amenaza de desborde.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

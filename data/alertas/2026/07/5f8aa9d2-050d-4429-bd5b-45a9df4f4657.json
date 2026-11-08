@@ -1,0 +1,20 @@
+{
+	"id": "5f8aa9d2-050d-4429-bd5b-45a9df4f4657",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Arauco por crecida",
+	"fechaHora": "2026-07-26T14:50:21.2121-04:00",
+	"createdAt": "2026-07-26T18:51:25.534Z",
+	"updatedAt": "2026-07-27T18:12:12.730Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-07-26-14-51-05",
+	"parentId": "03174da9-f489-4e79-97f8-f3082f824c04",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA)</strong>, la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</p><p><br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por crecida para la comuna de Arauco,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

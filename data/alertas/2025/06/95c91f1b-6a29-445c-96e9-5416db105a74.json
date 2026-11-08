@@ -1,0 +1,20 @@
+{
+	"id": "95c91f1b-6a29-445c-96e9-5416db105a74",
+	"type": "Alerta",
+	"titulo": "Se modifica variable de Alerta Temprana Preventiva para la Región de Antofagasta a evento meteorológico",
+	"fechaHora": "2025-06-28T10:40:50.5050-04:00",
+	"createdAt": "2025-06-28T14:41:41.092Z",
+	"updatedAt": "2025-06-29T05:39:46.179Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-10",
+	"parentId": "0c7b3370-d5cf-4df8-a981-8b3b3090af8c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA53-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   moderado a fuerte con desarrollo de viento blanco en cordillera (entre 70 y   90 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">27-06</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-06</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A235-5</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad de tormentas de arena en cordillera de la   costa, precordillera, precordillera salar y cordillera (entre 40 y 80 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">27-06</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-06</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A245</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en precordillera salar y cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-06</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-06</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>modifica la variable de la Alerta Temprana Preventiva Regional a evento meteorológico</strong>,que se mantiene vigente desde el 21 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de variable de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

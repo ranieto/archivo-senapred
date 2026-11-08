@@ -1,0 +1,20 @@
+{
+	"id": "7072e005-4ed4-4233-9ec2-186adea4098d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana para la comuna de Tierra Amarilla por evento masivo",
+	"fechaHora": "2024-12-22T11:47:00.000-03:00",
+	"createdAt": "2024-12-22T14:59:32.752Z",
+	"updatedAt": "2024-12-22T15:02:21.232Z",
+	"urlAccess": "se-declara-alerta-temprana-para-la-comuna-de-tierra-amarilla-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Tierra Amarilla\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, sin emergencias mayores finalizó el evento denominado “Aniversario de la Comuna de Tierra Amarilla”, en la comuna del mismo nombre, cuya afluencia de público se estimó en torno a las 7.000 personas durante la tarde del día 21 y madrugada del día 22 de diciembre.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana para la comuna de Tierra Amarilla por evento masivo</strong>, que se mantuvo vigente desde el día 21 de diciembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

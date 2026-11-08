@@ -1,0 +1,19 @@
+{
+	"id": "be906480-0cbd-4835-ab34-65927515fcc4",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Los Lagos",
+	"fechaHora": "2024-07-06T04:42:00.000-04:00",
+	"createdAt": "2024-07-06T08:43:35.441Z",
+	"updatedAt": "2024-07-06T09:05:19.047Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-los-lagos",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 04:40 horas en la Región de Los Lagos.<br></p><p style=\"text-align:justify\">Las intensidades en escala de Mercalli son las siguientes:</p><p style=\"text-align:justify\"></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Los Lagos </strong></p></td></tr><tr><td><p>Castro:   </p></td><td><p>V</p></td></tr><tr><td><p>Puerto   Montt: </p></td><td><p>III</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

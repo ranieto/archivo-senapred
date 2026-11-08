@@ -1,0 +1,20 @@
+{
+	"id": "8cfa990f-ef01-4fcf-bf7f-65899048057f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Monte Patria por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-10-04T23:51:35.978Z",
+	"updatedAt": "2025-10-04T23:55:04.053Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-monte-patria-por-incendio-forestal-2",
+	"parentId": "b3d54459-278b-418a-bb2e-0aec7149e761",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la<strong>comuna de Monte Patria</strong>, se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Colliguay Bajo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos de Monte Patria, El Palqui, Tulahuén, Ovalle y Punitaqui</p><p>1 técnico de Conaf</p><p>1 unidad de Carabineros</p><p>Personal GRD Municipalidad de Monte Patria</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal con velocidad de propagación extrema y cercano a sectores poblados</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: rgb(46, 46, 46);font-size: 14px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Coquimbo, <strong>la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Monte Patria</strong>&nbsp;por incendio forestal, que se encuentra vigente&nbsp;desde el 04 de octubre de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

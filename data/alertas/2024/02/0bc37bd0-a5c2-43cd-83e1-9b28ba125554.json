@@ -1,0 +1,20 @@
+{
+	"id": "0bc37bd0-a5c2-43cd-83e1-9b28ba125554",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Perquenco por incendio forestal",
+	"fechaHora": "2024-02-20T13:51:02.022-03:00",
+	"createdAt": "2024-02-20T16:52:01.289Z",
+	"updatedAt": "2024-02-20T16:53:20.456Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-perquenco-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Perquenco\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Perquenco se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Guacolda 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>622 hectáreas</p></td></tr><tr><td><p><strong>Observaciones </strong></p></td><td><p>Incendio   forestal ya no presenta amenaza a personas y viviendas.</p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Perquenco, por incendio forestal, que se mantuvo vigente desde el 19 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

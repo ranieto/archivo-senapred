@@ -1,0 +1,19 @@
+{
+	"id": "8677ab74-6de4-48d3-a731-b1a70f5492a3",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Valparaíso",
+	"fechaHora": "2024-08-01T12:55:15.1515-04:00",
+	"createdAt": "2024-08-01T16:56:21.583Z",
+	"updatedAt": "2024-08-01T17:05:32.696Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-valparaiso-3",
+	"parentId": "e257824f-9fdf-4a4c-bc8e-ec4239afd576",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">Un sismo de mediana intensidad se percibió a las 12:46 horas en la Región de Valparaíso.</span><br></p><p><span style=\"font-size: 14px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><span style=\"font-size: 14px\"><strong>Región:   Valparaíso </strong></span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">San   Esteban: </span></p></td><td><p><span style=\"font-size: 14px\">V</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Quillota:   </span></p></td><td><p><span style=\"font-size: 14px\">V</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Limache   : </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size: 14px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p><p style=\"margin-left:0cm\"><span style=\"font-size: 14px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 3.9 y se localizó a 20 Kms al Este de La Ligua.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

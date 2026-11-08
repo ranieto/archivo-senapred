@@ -1,0 +1,20 @@
+{
+	"id": "a5e9b3b1-0707-4fb6-8a30-5bc7717f4ec7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para las comunas de Colina y Tiltil por incendios forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-12-25T22:00:01.081Z",
+	"updatedAt": "2024-12-25T22:01:41.536Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-colina-y-tiltil-por-incendios-forestal",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal de rápida propagación con amenaza inminente a población y viviendas de condominio \"Alto El Manzano\".<br></p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>El Manzano 2</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>-Colina</div><div>-Tiltil</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>150 hectáreas</div></td></tr><tr><td><div>Descripción</div></td><td><div>Según lo informado por CONAF en su plataforma SIDCO, en combate se encuentra el incendio forestal denominado “El Manzano 2” el que afecta al momento una superficie de 2.5 hectáreas en las comunas de Colina y Tiltil. El Incendio presenta comportamiento extremo con avance rápido y proyección a centro poblado con amenaza inminente a la población CONDOMINIO ALTO EL MANZANO. Cabe señalar que CONAF solicita activar Alerta Roja Comunal para ambas comunas, producto que yo representa una amenaza inminente a personas, viviendas, centros poblados, población y/o infraestructura crítica. Cabe señalar que, al momento, producto de este incendio no se reportan personas lesionadas, como tampoco infraestructuras afectadas.<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>Bomberos de Quilicura y Tiltil </div><div>Brigadas Roble 3 y Roble 5</div><div>6 aeronaves CONAF</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para las comunas de Colina y Tiltil por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

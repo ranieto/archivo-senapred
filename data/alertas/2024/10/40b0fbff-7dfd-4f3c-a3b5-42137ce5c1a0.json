@@ -1,0 +1,20 @@
+{
+	"id": "40b0fbff-7dfd-4f3c-a3b5-42137ce5c1a0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por Tormentas Eléctricas",
+	"fechaHora": "2024-10-01T14:36:17.1717-03:00",
+	"createdAt": "2024-10-01T17:37:27.363Z",
+	"updatedAt": "2024-10-01T17:38:29.195Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-en-la-region-de-los-lagos-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A366/2024, el cual pronosticaba probables tormentas eléctricas en litoral, cordillera de la costa y valle de la Región de Los Lagos. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por Tormentas Eléctricas, </strong>que se mantuvo vigente desde el 26 de septiembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

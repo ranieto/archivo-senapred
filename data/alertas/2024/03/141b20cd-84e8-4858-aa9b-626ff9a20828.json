@@ -1,0 +1,20 @@
+{
+	"id": "141b20cd-84e8-4858-aa9b-626ff9a20828",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento meteorológico",
+	"fechaHora": "2024-03-13T03:55:00.000-03:00",
+	"createdAt": "2024-03-13T07:42:21.449Z",
+	"updatedAt": "2024-03-20T04:46:50.228Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-evento-meteorologico",
+	"parentId": "3e0a0d83-8768-47df-9a14-42f8732d6ceb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información preliminar proporcionada por la Dirección Regional de SENAPRED Arica y Parinacota, aproximadamente a las 02:00 horas de hoy 13 de marzo, se produjo un socavón en el kilómetro 137 de la Ruta 11-CH, comuna de Putre, a raíz del paso de un canal que circula a un costado de la vía. Producto de este socavón, se reporta la caída de 1 vehículo mayor a este, el cual logró salir con ayuda de Carabineros para continuar su recorrido.<br></p><p style=\"text-align:justify\">Al momento, Carabineros mantiene interrumpido el tránsito vehicular en ambos sentidos de la Ruta 11-CH, a fin de evitar accidentes en el sector del socavón. Tanto Los vehículos que suben hacia el Complejo Fronterizo Chungará o bajan desde el, se encuentran siendo detenidos en sectores anteriores al socavón y redirigidos a una zona segura de parada.</p><p style=\"text-align:justify\">Cabe señalar que la Dirección Meteorológica de Chile (DMC), mantiene vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A40-7</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas en precordillera y cordillera,   preferente durante la tarde-noche, con precipitaciones aisladas.</p></td><td><p style=\"text-align:center\">10-03</p></td><td><p style=\"text-align:center\">15-03</p></td></tr></tbody></table><p style=\"text-align:justify\">Por su parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), a través de la actualización de su Minuta de Peligro de Remoción en Masa, indicó que la probabilidad de flujos de detritos, deslizamientos y/o caída de rocas es <strong>alta</strong><strong>en cordillera</strong> y moderada en precordillera de la región.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional de SENAPRED, <strong>mantiene la Alerta Temprana Preventiva Regional</strong> por<strong> evento meteorológico,</strong> que se encuentra vigente desde el 11 de febrero de 2024 y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

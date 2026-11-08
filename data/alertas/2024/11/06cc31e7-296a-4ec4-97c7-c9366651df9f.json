@@ -1,0 +1,20 @@
+{
+	"id": "06cc31e7-296a-4ec4-97c7-c9366651df9f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-11-08T19:00:00.000-03:00",
+	"createdAt": "2024-11-08T22:16:01.983Z",
+	"updatedAt": "2024-11-10T17:26:36.807Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-10",
+	"parentId": "aa039bbd-d869-4eca-b372-b925c0f73a53",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Valparaíso, indica el siguiente detalle:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Fundo Curaumilla (Laguna Verde)</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>activo</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5 hectáreas</p></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>11 brigadas, 7 técnicos, 6 aeronaves, 1 puesto de mando, 4 camiones cisterna, 1 skidder y una maquinaria de CONAF; 15 unidades de Bomberos de Valparaíso, Carabineros, personal municipal y Delegación Presidencial Regional.</div></td></tr><tr><td><div><strong>Afectación</strong></div></td><td><div>1 vivienda destruida</div></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color: black\">20 personas evacuadas. Se envió mensajería SAE para reforzar evacuación de los sectores Las Gaviotas, Caleta Grande y Curaumilla Center.</span></p></td></tr></tbody></table></div><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene&nbsp;<strong>Alerta Roja&nbsp;</strong>para la comuna de Valparaíso por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "cd2d0beb-7da3-4395-b07e-c80bc56752a7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Caldera por evento masivo",
+	"fechaHora": "2025-02-23T12:59:00.000-03:00",
+	"createdAt": "2025-02-23T16:01:22.770Z",
+	"updatedAt": "2025-02-23T16:01:53.283Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-caldera-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Caldera\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, ha finalizado el evento “Chao Pesca’o 2025”, que se desarrolló el 22 de febrero en la comuna de Caldera, sin reportarse situaciones de emergencia relevantes.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Caldera</strong>, que se mantuvo vigente desde el 21 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

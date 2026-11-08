@@ -1,0 +1,20 @@
+{
+	"id": "b2b4a5ef-71e9-4151-a128-610b7e5a5496",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Los Ángeles por crecida",
+	"fechaHora": "2026-07-18T17:00:00.000-04:00",
+	"createdAt": "2026-07-18T21:11:41.324Z",
+	"updatedAt": "2026-07-19T04:47:05.885Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-crecida-2026-07-18-17-11-22",
+	"parentId": "844e26a5-3b6b-4dcc-a8f6-91512541e5a5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica <strong>Estero Paillihue en ex longitudinal</strong>, ubicada en la comuna de Los Ángeles, indica un <strong>incremento en su caudal</strong>, alcanzando valores de <strong>umbral amarillo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</p><p><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por crecida para la comuna de Los Ángeles,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

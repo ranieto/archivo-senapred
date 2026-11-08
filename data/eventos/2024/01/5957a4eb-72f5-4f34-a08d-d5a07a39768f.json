@@ -1,0 +1,19 @@
+{
+	"id": "5957a4eb-72f5-4f34-a08d-d5a07a39768f",
+	"type": "Evento",
+	"titulo": "Incendio forestal, comuna de Lolol",
+	"fechaHora": "2024-01-19T18:45:07.077-03:00",
+	"createdAt": "2024-01-19T21:47:01.129Z",
+	"updatedAt": "2024-01-20T23:23:18.818Z",
+	"urlAccess": "incendio-forestal-comuna-de-lolol",
+	"parentId": "a55b188f-63e2-42f6-bb80-a36fbb675249",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Colchagua\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Lolol\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">En relación al incendio en la comuna de Lolol denominado Ranguil 1, se informa que se encuentra activo y afectando&nbsp;</span>una superficie de 732 hectáreas.<br></p><p><span style=\"font-size:14px;color:#2E2E2E\">Trabajan en el combate del incendio 1 técnico de Conaf, 6 helicópteros, 3 aviones, </span><span style=\"font-size:14px;color:#2E2E2E\">4 camiones Aljibes CONAF, 1 Skidder CONAF, 1 ambulancia ACHS, 1 Puesto de Mando CONAF, 1 Analista CONAF, 1 Encargado de seguridad, 1 Comandante de incidente.</span></p>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

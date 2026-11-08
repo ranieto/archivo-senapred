@@ -1,0 +1,20 @@
+{
+	"id": "cf54a079-3a12-4f91-a522-60ca3ffc0690",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Castro por incendio forestal",
+	"fechaHora": "2023-10-18T15:35:00.000-03:00",
+	"createdAt": "2023-10-18T19:19:41.747Z",
+	"updatedAt": "2023-10-21T23:18:00.267Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-castro-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Castro\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), con relación al incendio forestal registrado en la comuna de Castro, se indica el siguiente detalle:</p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Alto Muro</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">35 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Se mantiene riesgo de   afectación a viviendas, Reserva Natural Municipal de Bosque Nativo y   Vertedero Municipal.</span></p></td></tr></tbody></table></div><p>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Roja para la comuna de Castro por incendio forestal, que se encuentra vigente desde el 17 de octubre.<br></p><p><br>Trabajan en el lugar 3 técnicos y 2 brigadas de CONAF, Carabineros, personal municipal con apoyo de 1 excavadora de la Municipalidad de Dalcahue, 1 buldócer y 1 excavadora de la Municipalidad de Chonchi.<br><br>Asimismo, CONAF por medio de la resolución N°488 indica la suspensión del uso del fuego y avisos de quemas controladas en labores silvoagropecuarias en toda la Provincia de Chiloé.<br></p><p><br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

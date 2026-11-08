@@ -1,0 +1,20 @@
+{
+	"id": "6af244a0-6ee0-4361-9b6a-bd8e4a08af4d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2026-03-20T15:55:24.2424-03:00",
+	"createdAt": "2026-03-20T18:56:39.340Z",
+	"updatedAt": "2026-03-20T18:57:30.604Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-03-13-14-41-23",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, fue cancelado el siguiente alertamiento meteorológico para la Región del Maule:</span></p><p><span style=\"color: black\"><br></span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A137-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en precordillera y cordillera de la región.</span></p></td></tr></tbody></table></div><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Adicionalmente, la actualización del Aviso Meteorológico A117-4 por viento normal a moderado, ya no considera en su cobertura a la Región del Maule.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico, la cual se mantuvo vigente desde el 13 de marzo de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

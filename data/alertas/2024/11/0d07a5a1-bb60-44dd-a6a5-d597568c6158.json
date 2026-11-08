@@ -1,0 +1,20 @@
+{
+	"id": "0d07a5a1-bb60-44dd-a6a5-d597568c6158",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de La Higuera, La Serena, Coquimbo, Ovalle, Canela y Los Vilos, por viento",
+	"fechaHora": "2024-11-05T23:09:00.000-03:00",
+	"createdAt": "2024-11-06T02:15:10.176Z",
+	"updatedAt": "2024-11-06T02:16:03.596Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-la-serena-coquimbo-ovalle-canela-y-los-vilos-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui, Choapa, Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"La Higuera, La Serena, Coquimbo, Ovalle, Canela, Los Vilos\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A417/2024, el cual pronosticaba viento normal a moderado en la zona de litoral de la Región de Coquimbo. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, que supone una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para las comunas de La Higuera, La Serena, Coquimbo, Ovalle, Canela y Los Vilos, por viento, </strong>la cual se mantuvo vigente desde el 04 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "44ec1837-f10c-4862-b47c-af332572e427",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las Provincias de Osorno, Llanquihue y Chiloé por heladas ",
+	"fechaHora": "2025-07-01T12:37:00.000-04:00",
+	"createdAt": "2025-07-01T16:45:27.650Z",
+	"updatedAt": "2025-07-01T16:47:30.955Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-palena-por-nevadas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA55-2</p></td><td><p style=\"text-align:justify\">Heladas moderadas   a intensas con formación de escarcha en patagonia subandina.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A240-7</p></td><td><p style=\"text-align:justify\">Heladas normales a   moderadas en valle, precordillera, litoral interior y patagonia subandina.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por heladas </strong>para las Provincias de Osorno, Llanquihue y Chiloé, que se mantuvo vigente desde el 23 de junio de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

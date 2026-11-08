@@ -1,0 +1,20 @@
+{
+	"id": "ba5cda98-a13d-44f8-b7dc-5491824f2320",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de San Felipe y Los Andes y las comunas de La Ligua, Petorca y Cabildo por tormentas eléctricas",
+	"fechaHora": "2023-11-03T09:51:00.000-03:00",
+	"createdAt": "2023-11-03T12:53:40.045Z",
+	"updatedAt": "2023-11-03T12:53:58.794Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-san-felipe-y-los-andes-y-las-comunas-de-la-ligua-petorca-y-cabildo--por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><strong>han sido cancelados los siguientes alertamientos técnicos para la Región de Valparaíso</strong>, en atención al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento   cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta AA76</p></td><td><p style=\"text-align:justify\">Tormentas eléctricas en   precordillera y valles precordilleranos.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A421</p></td><td><p style=\"text-align:justify\">Probables tormentas   eléctricas en precordillera, valles precordilleranos y cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva </strong>paralas provincias de San Felipe y Los Andes, y las comunas de La Ligua, Petorca y Cabildo, en la Región de Valparaíso, por tormentas eléctricas, que se encontraba vigente desde el 02 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

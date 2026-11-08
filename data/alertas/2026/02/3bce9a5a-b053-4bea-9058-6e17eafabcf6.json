@@ -1,0 +1,20 @@
+{
+	"id": "3bce9a5a-b053-4bea-9058-6e17eafabcf6",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Vichuquén por incendio forestal",
+	"fechaHora": "2026-02-14T23:57:00.000-03:00",
+	"createdAt": "2026-02-15T03:03:20.865Z",
+	"updatedAt": "2026-02-18T03:28:47.477Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-vichuquen-por-incendio-forestal-2026-02-14-18-01-24",
+	"parentId": "7a5d6fc9-f33f-4c9b-b38e-e997c71eb869",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">De acuerdo con la información proporcionada por CONAF, </span></strong><span style=\"font-size:15px;color:black\">en atención al incendio forestal en la comuna de Vichuquén, se reporta el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Alto Llico</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">200 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Observaciones​</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">El incendio forestal se desarrolla cercano a sectores habitados.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Comuna de Vichuquén,</strong> por incendio forestal, que se encuentra vigente desde el 14 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

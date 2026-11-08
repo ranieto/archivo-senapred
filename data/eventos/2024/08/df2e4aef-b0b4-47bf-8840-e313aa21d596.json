@@ -1,0 +1,21 @@
+{
+	"id": "df2e4aef-b0b4-47bf-8840-e313aa21d596",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Valparaíso, Metropolitana y O´Higgins",
+	"fechaHora": "2024-08-26T02:28:54.5454-04:00",
+	"createdAt": "2024-08-26T06:30:57.064Z",
+	"updatedAt": "2024-08-26T06:33:06.458Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-valparaiso-metropolitana-y-ohiggins",
+	"parentId": "5c7ae0bd-4371-476b-b552-c367bd746bb8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>​<span style=\"color: rgb(0, 0, 0);font-size: 16px\">Un sismo de menor&nbsp; intensidad se percibió a las 02:22 horas en las regiones de Valparaíso, Metropolitana y O´Higgins. Las intensidades en escala de Mercalli son:&nbsp;</span></p><p>​</p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Puchuncaví­:   </p></td><td><p>V</p></td></tr><tr><td><p>San   Antonio: </p></td><td><p>IV</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Macul:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Rancagua:   </p></td><td><p>III</p></td></tr><tr><td><p>Codegua:   </p></td><td><p>III</p></td></tr><tr><td><p>Doñihue:   </p></td><td><p>III</p></td></tr><tr><td><p>Machalí­:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Información preliminar del Sistema Automático de Sismos, CSN.</span></p><p><br></p><p style=\"text-align:justify\"><span style=\"color:black\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.1 y se localizó a <span style=\"font-size: 16px\">15 Kms al Suroeste de Pichidangui</span>.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

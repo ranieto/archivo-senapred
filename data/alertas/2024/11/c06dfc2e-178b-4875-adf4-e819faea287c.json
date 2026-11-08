@@ -1,0 +1,20 @@
+{
+	"id": "c06dfc2e-178b-4875-adf4-e819faea287c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Melipilla por incendio forestal",
+	"fechaHora": "2024-11-04T17:26:08.088-03:00",
+	"createdAt": "2024-11-04T20:32:13.284Z",
+	"updatedAt": "2024-11-04T23:47:43.962Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipilla-por-incendio-forestal-2",
+	"parentId": "dadefeed-2e7b-4d5a-91f5-5709921ce7e3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Melipilla, indica el siguiente detalle:</span></p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Pallocabe</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>activo</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>8 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color: black\">3 brigadas, 7 técnico, 2 camiones aljibe y 3 aeronaves de CONAF; y Bomberos de Melipilla, El Monte, María Pinto, Talagante e Isla de Maipo.</span></p></td></tr></tbody></table></div><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional de SENAPRED declara&nbsp;<strong>Alerta Roja&nbsp;</strong>para la comuna de Melipilla por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

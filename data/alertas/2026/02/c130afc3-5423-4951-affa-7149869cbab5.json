@@ -1,0 +1,20 @@
+{
+	"id": "c130afc3-5423-4951-affa-7149869cbab5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Región Metropolitana calor extremo",
+	"fechaHora": "2026-02-16T11:03:33.3333-03:00",
+	"createdAt": "2026-02-16T14:06:13.628Z",
+	"updatedAt": "2026-02-20T14:34:56.522Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-metropolitana-calor-extremo-2026-02-16-11-05-56",
+	"parentId": "a69f5df8-98fc-4e1e-9016-7fdbdcb13606",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana:</span></p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"color: black\">Alerta AA43-1</span></p></td><td><p style=\"text-align: justify\"><span style=\"color: black\">Evento de altas temperaturas extremas en cordillera de la costa, valle y precordillera (entre 33 y 36 °C).</span></p></td><td><p style=\"text-align: center\"><span style=\"color: black\">17-02</span></p></td><td><p style=\"text-align: center\"><span style=\"color: black\">17-02</span></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"color: black\">Aviso A66-2</span></p></td><td><p style=\"text-align: justify\"><span style=\"color: black\">Altas temperaturas en cordillera de la costa, valle y precordillera (entre 30 y 34 °C).</span></p></td><td><p style=\"text-align: center\"><span style=\"color: black\">16-02</span></p></td><td><p style=\"text-align: center\"><span style=\"color: black\">18-02</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional</span><span style=\"color: black\">Metropolitana, la Dirección Regional del SENAPRED&nbsp;<strong>&nbsp;</strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">El&nbsp;</span><strong><span style=\"color: black\">SENAPRED recomienda&nbsp;</span></strong><strong><span style=\"color: black\">a la población&nbsp;</span></strong><span style=\"color: black\">protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

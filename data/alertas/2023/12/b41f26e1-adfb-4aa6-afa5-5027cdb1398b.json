@@ -1,0 +1,20 @@
+{
+	"id": "b41f26e1-adfb-4aa6-afa5-5027cdb1398b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Requínoa por incendio forestal",
+	"fechaHora": "2023-12-24T16:40:00.000-03:00",
+	"createdAt": "2023-12-24T19:42:38.537Z",
+	"updatedAt": "2023-12-25T20:01:07.144Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-requinoa-por-incendio-forestal",
+	"parentId": "f7097d5d-205b-4b78-8119-7a9db29ae9ad",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Requínoa\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, con relación al incendio forestal registrado en la comuna Requínoa, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Yesca.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">65 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos </strong></p></td><td><p style=\"text-align:justify\">Incendio forestal activo en su frente de avance con   velocidad de propagación rápida.</p></td></tr></tbody></table></div><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por incendio forestal para la comuna de Requínoa</strong>, que se encuentra vigente desde hoy 24 de diciembre de 2023.</p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio, 2 técnicos, 4 brigadas, 1 camión cisterna, 4 aviones y 3 helicópteros de CONAF, junto a Bomberos de Requínoa, Machalí, Rancagua y Olivar.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

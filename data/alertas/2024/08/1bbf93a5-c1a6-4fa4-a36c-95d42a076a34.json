@@ -1,0 +1,20 @@
+{
+	"id": "1bbf93a5-c1a6-4fa4-a36c-95d42a076a34",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2024-08-13T11:07:18.1818-04:00",
+	"createdAt": "2024-08-13T15:08:36.678Z",
+	"updatedAt": "2024-08-13T15:09:38.052Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) a través de su Pronóstico Meteorológico emitidos hoy 13 de agosto, se informa que para los próximos días no se registran valores significativos de precipitaciones y viento en la Región Metropolitana.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED, <strong>se cancela la Alerta Amarilla regional por evento meteorológico</strong>, que se mantuvo vigente desde el 02 de agosto de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

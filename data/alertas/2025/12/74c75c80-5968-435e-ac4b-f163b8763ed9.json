@@ -1,0 +1,20 @@
+{
+	"id": "74c75c80-5968-435e-ac4b-f163b8763ed9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chillán por incendio forestal",
+	"fechaHora": "2025-12-17T16:23:00.000-03:00",
+	"createdAt": "2025-12-17T19:38:41.097Z",
+	"updatedAt": "2025-12-17T22:47:22.827Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal-2025-12-17-16-38-24",
+	"parentId": "8c40eaff-e1a6-458e-a456-3e3acea58d86",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Chillán, </strong>se informa el siguiente detalle:</p><p style=\"text-align:justify\"><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San Bernardo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Chillán, 1 brigada de CONAF y 2   técnicos de Conaf</p></td></tr><tr><td><p><strong>Descripción </strong></p></td><td><p>Incendio con cercanía a sectores poblados</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de Chillán con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p><p style=\"text-align:justify\">Esta declaración estará vigente a contar de la hora del presente informe y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

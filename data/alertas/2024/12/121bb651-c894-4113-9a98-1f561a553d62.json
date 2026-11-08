@@ -1,0 +1,20 @@
+{
+	"id": "121bb651-c894-4113-9a98-1f561a553d62",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Rancagua por incendio forestal",
+	"fechaHora": "2024-12-27T14:36:48.4848-03:00",
+	"createdAt": "2024-12-27T17:37:30.269Z",
+	"updatedAt": "2024-12-27T17:38:41.639Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rancagua-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la</strong><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Rancagua, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Punta de Cortes</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Rancagua y Doñihue; 2 técnicos y 3 brigadas de Conaf; 2 aviones cisterna y   1 helicóptero. Además del director regional de Conaf, personal Senapred, Carabineros   y ambulancia Cesfam Doñihue</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">Al momento se informa que, producto de este incendio forestal se reporta 1 vivienda destruida y 5 damnificados, se mantiene la evaluación de daños en el sector. Además, se activó mensajería SAE para el sector de la Villa Millantú.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Rancagua, por incendio forestal, que se mantuvo vigente desde el 27 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

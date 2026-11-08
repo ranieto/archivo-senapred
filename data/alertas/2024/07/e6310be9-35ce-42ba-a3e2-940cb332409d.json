@@ -1,0 +1,20 @@
+{
+	"id": "e6310be9-35ce-42ba-a3e2-940cb332409d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2024-07-25T01:07:00.000-04:00",
+	"createdAt": "2024-07-25T06:15:45.042Z",
+	"updatedAt": "2024-07-25T06:16:34.495Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los Avisos Meteorológicos Aviso A272-3 y Aviso A276-1, que pronosticaron Viento normal a moderado en zonas de la región de Antofagasta. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\">&nbsp;</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por viento, </strong>la cual se mantuvo vigente desde el 16 de julio de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

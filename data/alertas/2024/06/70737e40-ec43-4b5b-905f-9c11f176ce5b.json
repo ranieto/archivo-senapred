@@ -1,0 +1,20 @@
+{
+	"id": "70737e40-ec43-4b5b-905f-9c11f176ce5b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por amenaza de desborde y cancela Amarilla, para las comunas de Los Sauces y Angol",
+	"fechaHora": "2024-06-21T12:40:00.000-04:00",
+	"createdAt": "2024-06-21T17:14:58.226Z",
+	"updatedAt": "2024-06-30T14:46:40.654Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-sauces-por-amenaza-de-desborde",
+	"parentId": "3a095f83-8af8-42e4-acd9-e26f57f34159",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Angol, Los Sauces\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Rahue en quebrada Culen”, en la comuna de Los Sauces, ha alcanzado los valores del umbral de Alerta Roja. Cabe señalar, que el río Rahue, también cubre gran parte del territorio de la comuna de Angol, por lo que podría generar afectación en ambas comunas.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por amenaza de desborde y cancela Amarilla, para las comunas de Los Sauces y Angol,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "a24436e7-1e9a-49b5-bc1f-818f82de2823",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+	"fechaHora": "2024-02-09T12:13:17.1717-03:00",
+	"createdAt": "2024-02-09T15:14:28.394Z",
+	"updatedAt": "2024-02-09T15:14:39.993Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> han sido cancelados los siguientes alertamientos meteorológicos para la región de Tarapacá, debido al término de las condiciones que los originaron:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A25-1</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas   en precordillera y cordillera de la región.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A9-10</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas en   precordillera y cordillera de la región.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por&nbsp;</strong><strong>evento meteorológico</strong>, que se encontraba vigente desde el 16 de enero.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

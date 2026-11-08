@@ -1,0 +1,20 @@
+{
+	"id": "689a531b-2e31-4ed9-bc68-3eb3282c3e97",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Coquimbo por altas temperaturas",
+	"fechaHora": "2023-12-11T15:23:00.000-03:00",
+	"createdAt": "2023-12-11T18:29:53.553Z",
+	"updatedAt": "2023-12-13T23:41:08.693Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-altas-temperaturas-3",
+	"parentId": "ce946043-fc01-434c-9547-044c0f6a47ee",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se mantiene vigente el siguiente </span><strong>alertamiento técnico</strong><span style=\"font-size: 15px\"> para la Región de Coquimbo:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"font-size:15px\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"font-size:15px\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"font-size:15px\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"font-size:15px\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size:15px\">Aviso   A463</span></p></td><td><p><span style=\"font-size:15px\">Evento de altas temperaturas en zonas de cordillera de la   costa, valles precordilleranos y precordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size:15px\">12-12</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size:15px\">13-12</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional Coquimbo, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional&nbsp;</strong></span><span style=\"font-size:15px\">por altas temperaturas</span><span style=\"font-size: 15px\">, vigente desde hoy y hasta que las condiciones así lo ameriten. </span></p><p style=\"text-align:justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

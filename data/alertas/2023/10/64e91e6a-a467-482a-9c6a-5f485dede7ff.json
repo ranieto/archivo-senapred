@@ -1,0 +1,20 @@
+{
+	"id": "64e91e6a-a467-482a-9c6a-5f485dede7ff",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región Metropolitana por evento zoosanitario",
+	"fechaHora": "2023-03-23T18:22:00.000-03:00",
+	"createdAt": "2023-10-26T01:23:41.825Z",
+	"updatedAt": "2023-10-26T01:23:41.825Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), mediante la emisión de la Resolución Exenta N°614/2023, se determina la detección del virus “Influenza Aviar” H5N1 de alta patogenicidad en aves de traspatio, en la comuna de Melipilla.<br><br>Adicionalmente, mediante la Resolución exenta N°658/2023 de hoy 23 de marzo del 2023, se informa que durante la jornada de ayer se diagnosticó 1 caso positivo de Influencia Aviar en un Pato Jergón, encontrado en el relave de Anglo American, comuna de Lampa. Por ello se sacrificaron 20 aves que fueron encontradas en el lugar.<br><br>Adicionalmente, durante la jornada de hoy, por la Resolución exenta N°662/2023 se confirma el diagnóstico positivo de H5N1, en 2 aves de traspatio, en la comuna de María Pinto. Por ello, se instruyó el sacrificio de 23 aves asociadas a un mismo productor.<br><br>En consideración a estos antecedentes, y los factores de vulnerabilidad en relación con las variables epidemiológicas que pueden afectar a la población, en coordinación con la Delegación Presidencial Metropolitana, la Dirección Regional del SENAPRED, actualiza la Alerta Temprana Preventiva regional, por evento zoosanitario, que se mantiene vigente desde el 10 de diciembre de 2022.<br><br>La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

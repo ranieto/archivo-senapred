@@ -1,0 +1,20 @@
+{
+	"id": "116c04a0-6af3-41d3-a057-f8cc70466407",
+	"type": "Alerta",
+	"titulo": "Actualizacion alerta prueba incidencia ambiente preproductivo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-28T14:13:04.089Z",
+	"updatedAt": "2023-09-28T14:21:04.755Z",
+	"urlAccess": "alerta-prueba-incidencia-ambiente-preproductivo",
+	"parentId": "af7e65bd-0859-441e-8423-3da57ecccd60",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>Actualizacion alerta prueba incidencia ambiente preproductivo<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0bfbb016-03e9-4858-9649-1fc4ac173190"
+}

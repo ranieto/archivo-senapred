@@ -1,0 +1,20 @@
+{
+	"id": "8d64281b-429c-4599-b443-cc4f85e1b7e8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes y de la Antártica Chilena por viento",
+	"fechaHora": "2024-07-24T10:19:14.1414-04:00",
+	"createdAt": "2024-07-24T14:20:05.674Z",
+	"updatedAt": "2024-07-24T14:20:17.404Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-14",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelada la Alerta Meteorológica AA60/2024 que pronosticó viento moderado a fuerte en pampa patagónica sur de la Región de Magallanes y de la Antártica Chilena.<br></p><p style=\"text-align:justify\">Asimismo, fue cancelado el Aviso Meteorológico A274-1/2024, que pronosticó la ocurrencia de viento normal a moderado en zonas de la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por viento</strong>, que se mantuvo vigente desde el 19 de julio del 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

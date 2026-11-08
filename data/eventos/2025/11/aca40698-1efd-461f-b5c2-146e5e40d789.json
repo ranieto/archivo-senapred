@@ -1,0 +1,19 @@
+{
+	"id": "aca40698-1efd-461f-b5c2-146e5e40d789",
+	"type": "Evento",
+	"titulo": "Interrupcción de servicio de agua potable - Comuna de Antofagasta (Cierre de evento)",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-11-25T10:40:21.277Z",
+	"updatedAt": "2025-11-25T10:41:28.300Z",
+	"urlAccess": "interrupccion-de-servicio-de-agua-potable---comuna-de-antofagasta",
+	"parentId": "9235d147-f75d-4214-bbc2-8e0b49ac428f",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, el servicio de suministro de agua potable se encuentra restablecido en el sector norte de la comuna de Antofagasta, cuyo corte afectó a 15.604 clientes, producto de una rotura de matriz en la zona.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajaron en la reposición del servicio personal de la empresa sanitaria Aguas Antofagasta.</p>",
+	"variableInformateEventosId": "47537f83-6692-4432-9f54-2f8fab2808ab"
+}

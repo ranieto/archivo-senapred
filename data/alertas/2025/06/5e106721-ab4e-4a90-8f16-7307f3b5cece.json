@@ -1,0 +1,20 @@
+{
+	"id": "5e106721-ab4e-4a90-8f16-7307f3b5cece",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Puerto Varas por evento meteorológico",
+	"fechaHora": "2025-06-09T18:19:00.000-04:00",
+	"createdAt": "2025-06-09T22:27:04.502Z",
+	"updatedAt": "2025-06-26T03:25:56.437Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puerto-varas-por-evento-meteorologico",
+	"parentId": "2339523d-83e2-4121-a1f7-9b77b19f9e9f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con los antecedentes proporcionados por la Dirección Regional de SENAPRED Los Lagos,</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><span style=\"font-size:15px\">ha finalizado la etapa de respuesta a la afectación provocada por el tornado que afectó a la comuna de Puerto Varas, con la desmovilización de la mayoría de los medios desplegados en los diversos sectores. Por otra parte, los trabajos en la zona se encuentran en la fase de recuperación con un avance a la fecha del 50 % de viviendas de emergencias instaladas. </span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><span style=\"font-size:15px\">Cabe mencionar, que debido a las condiciones meteorológicas adversas propias de la época invernal y zona geográfica del país en que se emplaza la afectación, la población presenta un alta exposición y vulnerabilidad ante la ocurrencia de nuevos eventos meteorológicos. </span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja y declara Amarilla</strong><strong>para la comuna de Puerto Varas por evento meteorológico</strong>, a contar de hoy y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

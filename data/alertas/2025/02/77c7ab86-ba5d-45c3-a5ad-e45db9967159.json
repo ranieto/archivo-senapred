@@ -1,0 +1,20 @@
+{
+	"id": "77c7ab86-ba5d-45c3-a5ad-e45db9967159",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por incendios forestales",
+	"fechaHora": "2025-02-28T12:01:49.4949-03:00",
+	"createdAt": "2025-02-28T15:03:42.849Z",
+	"updatedAt": "2025-02-28T22:49:26.326Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Se informa que, de acuerdo con el análisis meteorológico emitido por la Dirección Meteorológica de Chile, el pronóstico para los próximos dos días en la región indica temperaturas máximas que no superarán los 28 grados, un aumento en la humedad relativa y la posibilidad de precipitaciones en diversos puntos, condiciones que favorecen el combate de incendios forestales.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, <strong>la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la región de Biobío, por amenaza de incendios forestales, </strong>que se mantuvo vigente desde el 10 de febrero de 2025.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

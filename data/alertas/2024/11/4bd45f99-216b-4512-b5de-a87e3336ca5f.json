@@ -1,0 +1,20 @@
+{
+	"id": "4bd45f99-216b-4512-b5de-a87e3336ca5f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Lampa por incendio forestal",
+	"fechaHora": "2024-11-11T22:02:54.5454-03:00",
+	"createdAt": "2024-11-12T01:08:12.364Z",
+	"updatedAt": "2024-11-12T17:23:53.165Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-2",
+	"parentId": "eb12594e-75d4-47fb-a1e9-c4dedf6db7c3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Lampa\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto al incendio forestal que afecta a la comuna de Lampa, es la siguiente:</p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Estero Las Cruces</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En Combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">44 hectáreas</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">Bomberos; 2 brigadas, 5 técnicos y 1 puesto de mando de Conaf</p></td></tr></tbody></table><p style=\"text-align: justify\">De acuerdo a lo indicado por CONAF, handisminuido las condiciones que originaron el incendio, así como la amenaza a viviendas y galpones del sector.En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regionalde SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Lampa por incendioforestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursosnecesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional dePrevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión yseveridad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

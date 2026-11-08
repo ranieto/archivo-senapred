@@ -1,0 +1,19 @@
+{
+	"id": "64b9c14a-9710-4c92-b416-22fe7d6ae77d",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2024-06-14T03:42:27.2727-04:00",
+	"createdAt": "2024-06-14T07:49:48.050Z",
+	"updatedAt": "2024-06-14T07:49:48.050Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-40",
+	"parentId": "4aaf0144-002f-4ca7-a5ba-fc7fdd82f2eb",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>La <em>Unidad Nacional de Alerta Temprana</em> reporta información del siguiente evento sísmico<br></p><p><br><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>14/06/2024   - 03:36</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>14/06/2024   - 03:49</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>IV   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>119-B</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>IV</p></td></tr><tr><td><p>Freirina:   </p></td><td><p>III</p></td></tr><tr><td><p>Huasco:   </p></td><td><p>III</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>III</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Modificación de los datos técnicos del sismo, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>3.7</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -28.62<br>   Longitud: -70.99</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>23   Kms al Oeste de Vallenar</p></td></tr><tr><td><p>Región:   </p></td><td><p>Atacama</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>41.2</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

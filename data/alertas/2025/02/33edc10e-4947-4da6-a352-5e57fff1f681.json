@@ -1,0 +1,20 @@
+{
+	"id": "33edc10e-4947-4da6-a352-5e57fff1f681",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de Angol por incendio forestal",
+	"fechaHora": "2025-02-01T22:29:00.000-03:00",
+	"createdAt": "2025-02-02T01:44:22.322Z",
+	"updatedAt": "2025-02-02T16:13:47.414Z",
+	"urlAccess": "se-declara-alerta-roja-y-cancela-alerta-amarilla-para-la-comuna-de-angol-por-incendio-forestal",
+	"parentId": "c848705d-889f-4c61-8e8b-b39c6b73c9c9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Angol\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Angol se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Huequén Alto 4</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>116 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>9 Brigadas CONAF, 5 Técnicos CONAF, 5 Aviones cisterna de   CONAF, 1 Helicóptero de CONAF 2 Aviones de observación/coordinación de CONAF,   1 Camiones cisterna de CONAF, 1 Maquinaría pesada de CONAF, 1 Puesto de mando   de CONAF y 2 Unidad de Análisis y Diagnostico CONAF.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Angol por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><span style=\"font-size:15px\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

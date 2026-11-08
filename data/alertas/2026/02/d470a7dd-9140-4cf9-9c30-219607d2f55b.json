@@ -1,0 +1,20 @@
+{
+	"id": "d470a7dd-9140-4cf9-9c30-219607d2f55b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Los Ángeles por incendio forestal",
+	"fechaHora": "2026-02-14T14:00:12.1212-03:00",
+	"createdAt": "2026-02-14T17:04:39.499Z",
+	"updatedAt": "2026-02-14T21:38:12.418Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-incendio-forestal-2026-02-14-14-04-23",
+	"parentId": "5f281e75-26c0-4c53-b90a-d2bb8a49595e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">De acuerdo a la información proporcionada por CONAF,&nbsp;</span></strong><span style=\"font-size: 15px\">en atención al incendio forestal en la comuna de Los Ángeles, se reporta el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Comuna</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color:#000000\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Los Ángeles</span></span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">535 - Totoral Casas Viejas<br></span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">1.3 hectáreas</span></p></td></tr><tr><td><div><strong><span style=\"color: rgb(0, 0, 0)\">Observaciones</span></strong></div></td><td><div><span style=\"color: rgb(0, 0, 0)\">Incendio presenta cercanía a sectores habitados</span></div></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Recursos</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">4 Compañías del Cuerpo de Bomberos de Los Ángeles</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">4 brigada terrestres y 1 técnico CONAF<br></span></p></td></tr></tbody></table><div style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></div><div style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED&nbsp;<strong>declara Alerta Roja para la comuna de Los Ángeles por incendio foresta</strong>l, vigente desde hoy y hasta que las&nbsp;condiciones del incendio así lo ameriten.</span></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo&nbsp;adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad&nbsp;</span><span style=\"color: rgb(0, 0, 0);font-size: 14px\">del evento.</span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

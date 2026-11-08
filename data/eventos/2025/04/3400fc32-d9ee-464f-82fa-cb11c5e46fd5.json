@@ -1,0 +1,19 @@
+{
+	"id": "3400fc32-d9ee-464f-82fa-cb11c5e46fd5",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad en la Región de Atacama   ",
+	"fechaHora": "2025-04-24T21:03:00.000-04:00",
+	"createdAt": "2025-04-25T01:05:14.069Z",
+	"updatedAt": "2025-04-25T01:05:14.069Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-84",
+	"parentId": "709fc609-5b8d-4e5c-99ad-96334d8125d3",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">Un sismo de menor intensidad se percibió a las 20:42 horas en la Región de Atacama.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Caldera:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">De acuerdo con la información proporcionada por el Centro Sismológico Nacional, la percepción reportada no se asocia a un evento de origen sísmico.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

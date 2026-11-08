@@ -1,0 +1,20 @@
+{
+	"id": "1cd22bba-c727-4251-b9a6-83e6e4244fb8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chillán por incendio forestal ",
+	"fechaHora": "2025-01-15T19:50:00.000-03:00",
+	"createdAt": "2025-01-15T22:56:18.870Z",
+	"updatedAt": "2025-01-15T22:56:56.787Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chillán\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Chillán se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Callejón Bustamante </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">21.38   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Chillan, 6 Brigadas CONAF, 3 Técnicos CONAF, 2 Avión Cisterna, 2   helicóptero, 1 Aeronave de coordinación / observación y 2 UAD y Puesto de   mando. </p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

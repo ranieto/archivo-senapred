@@ -1,0 +1,20 @@
+{
+	"id": "85b79c89-a358-476d-bc22-a81cd220e2cb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Olmué por incendio forestal",
+	"fechaHora": "2025-12-03T16:09:00.000-03:00",
+	"createdAt": "2025-12-03T19:53:58.532Z",
+	"updatedAt": "2025-12-03T21:26:18.258Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-olmue-por-incendio-forestal-2025-12-03-14-59-59",
+	"parentId": "2e7ee78d-1a40-4e13-b35a-d65d6e5c2187",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información técnica proporcionada por Conaf,&nbsp;</span><span style=\"color: black\">respecto al incendio forestal en la comuna de Olmué, Región de Valparaíso, se informa el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p>Nombre del incendio</p></td><td><p>Alto Olmué</p></td></tr><tr><td><p>Estado</p></td><td><p>Controlado</p></td></tr><tr><td><p>Superficie</p></td><td><p>1.5 [ha]</p></td></tr><tr><td><p>Recursos</p></td><td><p>Cuerpo de Bomberos de Olmué, 6 brigadas, 3 técnicos, 3 aviones, 3 helicópteros y 1 camión aljibe.</p></td></tr><tr><td><p>Observaciones</p></td><td><p>Incendio forestal controlado.</p></td></tr></tbody></table><p style=\"text-align: justify\"><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Olmué por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

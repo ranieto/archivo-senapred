@@ -1,0 +1,20 @@
+{
+	"id": "5a7617da-6d56-4796-bf1d-2794931840d5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Castro por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-12-15T03:44:09.479Z",
+	"updatedAt": "2024-12-15T09:19:34.367Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-castro-por-incendio-forestal-2",
+	"parentId": "46d160d4-e73e-495a-bd5c-062f78448c71",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la </strong><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Castro, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">El Polvorín</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Contenido/   En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2.16 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Trabajaron durnate la jornada, bomberos   de Castro y Chonchi; 4 brigadas y 3 técnicos de Conaf; 2 helicópteros y 1   avión cisterna de Conaf; Carabineros, Cruz Roja, SAMU, personal empresa   eléctrica y municipal.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">Producto de este incendio, a las 20:16 horas se envió mensajería SAE para la sector Villa Mirador 5, en la comuna de Castro, por lo que un total de 100 personas fueron evacuadas de sus viviendas, quienes posteriormente retornaron en buenas condiciones a sus hogares. </span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">Al momento no se reportan viviendas, redes de telecomunicaciones o transporte afectadas. Por otro lado, se indica que la persona lesionada corresponde a un voluntario de Bomberos.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">A las 21:00 y 22:00 horas se constituye el COGRID Provincial en terreno, con el fin de evaluar y determinar los cursos de acción de hoy y mañana. Durante la jornada nocturna continuarán trabajando 1 brigada de CONAF y Bomberos de Castro. Asimismo, para la jornada de mañana se incluirá el trabajo de maquinaria municipal.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Castro, por incendio forestal, que se encuentra vigente desde el 14 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

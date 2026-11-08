@@ -1,0 +1,20 @@
+{
+	"id": "cfef0109-4ff1-4725-88fa-b5ddb49a1407",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Quintero por incendio forestal ",
+	"fechaHora": "2023-12-14T16:45:00.000-03:00",
+	"createdAt": "2023-12-14T19:47:52.660Z",
+	"updatedAt": "2023-12-15T18:43:31.350Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quintero-por-incendio-forestal",
+	"parentId": "39710624-bec3-432d-9966-9766047f9b06",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se registra un incendio forestal en la comuna de Quintero, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las Gaviotas 2.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio se desarrolla   cercano a sectores habitados.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">1 técnico, 11 brigadas y 4   aviones de CONAF; Bomberos de Viña del Mar y 1 camión aljibe de la empresa   ENAP.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por incendio forestal para la comuna de Quintero</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c37ed3ea-5bea-485e-a0d8-5dfc7da04020",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Colina, Vitacura, Las Condes, La Reina, Lo Barnechea, Peñalolén, La Florida, Puente Alto, San José de Maipo y Pirque por tormentas eléctricas",
+	"fechaHora": "2023-12-29T08:03:48.4848-03:00",
+	"createdAt": "2023-12-29T11:05:16.073Z",
+	"updatedAt": "2023-12-29T11:07:30.591Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-colina-vitacura-las-condes-la-reina-lo-barnechea-penalolen-la-florida-puente-alto-san-jose-de-maipo-y-pirque-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A479/2023 que pronosticó la ocurrencia de tormentas eléctricas en la región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional, la Dirección del SENAPRED Región Metropolitana <strong>cancela la Alerta Temprana Preventiva para las comunas de Colina, Vitacura, Las Condes, La Reina, Lo Barnechea, Peñalolén, La Florida, Puente Alto, San José de Maipo y Pirque, por tormentas eléctricas</strong>, que se mantuvo vigente desde el 27 de diciembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

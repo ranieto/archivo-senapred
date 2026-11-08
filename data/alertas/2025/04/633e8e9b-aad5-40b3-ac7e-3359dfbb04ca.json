@@ -1,0 +1,20 @@
+{
+	"id": "633e8e9b-aad5-40b3-ac7e-3359dfbb04ca",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Tucapel por incendio forestal",
+	"fechaHora": "2025-04-04T06:37:44.4444-03:00",
+	"createdAt": "2025-04-04T09:42:57.775Z",
+	"updatedAt": "2025-04-04T22:30:16.513Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tucapel-por-incendio-forestal",
+	"parentId": "bba9c23a-65e3-4007-8670-0982fde1b4a9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la comuna de Tucapel, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Las Lomas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>60 hectáreas</p></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio forestal se desarrolla cercano a sectores poblados.</div></td></tr><tr><td><div>Recursos</div></td><td><div>3&nbsp;Compañías del cuerpo de bomberos de Tucapel</div><div>1 brigada nocturna Conaf</div><div>2 brigadas terrestres de la empresa CMPC</div></td></tr></tbody></table></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío,<strong> la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Tucapel por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

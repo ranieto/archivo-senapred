@@ -1,0 +1,20 @@
+{
+	"id": "dbf80ffa-6c94-4614-8f82-9a5f62bf22f4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Mulchén por incendio forestal",
+	"fechaHora": "2025-02-10T21:42:00.000-03:00",
+	"createdAt": "2025-02-11T01:03:35.683Z",
+	"updatedAt": "2025-02-12T23:01:31.997Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-mulchen-por-incendio-forestal-2",
+	"parentId": "f125462f-f979-4173-956a-47ea9815e5af",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Mulchén\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Mulchén </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Bellavista</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>162 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>6 Brigadas Terrestres, 2 Técnicos, 3 Aeronaves, 1 Puesto   de mando y 3 Camión cisterna</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Mulchén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

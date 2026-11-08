@@ -1,0 +1,20 @@
+{
+	"id": "6c572bfd-7d15-44cc-85c7-3dc42e48f18f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Monte Patria por evento masivo",
+	"fechaHora": "2024-02-19T09:55:08.088-03:00",
+	"createdAt": "2024-02-19T12:56:05.374Z",
+	"updatedAt": "2024-02-19T12:57:16.105Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-monte-patria-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Monte Patria\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, ha finalizado el evento masivo “Festival Anatauma Kulkutaya”, en el sector Las Ruinas, comuna de Monte Patria, evento que congregó cerca de 20.000 personas durante los días de la actividad. Cabe mencionar que, no se registraron situaciones relevantes producto de este evento.<br></p><p style=\"text-align:justify\">En consideración a lo anterior, y en coordinación con la Delegación Presidencial Regional Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Monte Patria por evento masivo, que se mantuvo vigente desde el 13 de febrero de 2024. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

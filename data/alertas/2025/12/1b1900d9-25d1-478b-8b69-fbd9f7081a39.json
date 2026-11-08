@@ -1,0 +1,20 @@
+{
+	"id": "1b1900d9-25d1-478b-8b69-fbd9f7081a39",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen por tormentas eléctricas",
+	"fechaHora": "2025-12-06T20:14:29.2929-03:00",
+	"createdAt": "2025-12-06T23:15:38.471Z",
+	"updatedAt": "2025-12-06T23:16:34.505Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-huasco-y-freirina-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A462-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en cordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En base a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por tormentas eléctricas para las comunas de </strong></span><strong><span style=\"color:black\">Diego de Almagro, Copiapó, Tierra Amarilla, Vallenar y Alto del Carmen</span></strong><span style=\"color:black\">,&nbsp;</span><span style=\"color:black\">que se mantuvo vigente desde el 27 de noviembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "ca0a6836-2a05-471f-a7d3-71973bd69bb5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Cabo de Hornos por precipitaciones",
+	"fechaHora": "2025-02-12T19:06:00.000-03:00",
+	"createdAt": "2025-02-12T22:13:27.222Z",
+	"updatedAt": "2025-02-12T22:18:10.743Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-cabo-de-hornos-por-precipitaciones-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A48</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en el sector insular sur.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por precipitaciones para la comuna de Cabo de Hornos, </strong>que se mantenía vigente desde el 11 de febrero de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

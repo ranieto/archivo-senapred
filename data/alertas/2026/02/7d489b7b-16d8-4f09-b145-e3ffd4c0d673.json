@@ -1,0 +1,20 @@
+{
+	"id": "7d489b7b-16d8-4f09-b145-e3ffd4c0d673",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de San Rafael por incendio forestal",
+	"fechaHora": "2026-02-07T21:15:00.000-03:00",
+	"createdAt": "2026-02-08T00:28:10.462Z",
+	"updatedAt": "2026-02-08T02:33:22.234Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-rafael-por-incendio-forestal-2026-02-07-20-47-59",
+	"parentId": "a505afdd-5207-496c-819a-79bcda008b7d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de San Rafael,&nbsp;</strong>se informa el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Camarico 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6 (ha)</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Producto del incendio se registra una alteración de conectividad   en la Ruta 5 sur, km 224, sector los Maquis. Además, se mantienen detenidos   dos trenes según reporte de EFE.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Bomberos Cumpeo, San Rafael, Talca, Pelarco</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   3 Brigadas CONAF</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   4 Aviones CONAF</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2 Helicoptero CONAF</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Skidder</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Carabineros tenencia carretera</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Concesionaria SurVias</p></td></tr></tbody></table><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED m<strong>antiene la Alerta Roja para la Comuna de San Rafael,</strong> por incendio forestal, que se encuentra vigente desde el 07 de febrero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

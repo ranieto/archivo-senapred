@@ -1,0 +1,20 @@
+{
+	"id": "d002d467-fb26-4b09-a661-a5f33fad1f89",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva por precipitaciones para la Provincia de última Esperanza",
+	"fechaHora": "2025-01-11T19:11:00.000-03:00",
+	"createdAt": "2025-01-11T22:23:22.610Z",
+	"updatedAt": "2025-01-11T22:51:59.090Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante la publicación de sus Aviso A12/2025 por viento normal a moderado, A15/2025 por precipitaciones normales a moderadas, A16/2025, por probables tormentas eléctricas y Alerta AA5/2025 por viento moderado a fuerte, en diversas zonas de la Región de Magallanes, es necesario reforzar las medidas de prevención ante eventos meteorológicos para la región.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en virtud de la necesidad de reforzar de mayor maneras las medidas preventivas en la zona, la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial Regional, <strong>cancela Alerta Temprana Preventiva por precipitaciones</strong><strong>para la Provincia de última Esperanza,</strong> que se mantienevigente desde el 06 de enero.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que la Región mantiene Alerta Amarilla regional por Evento Meteorológico.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

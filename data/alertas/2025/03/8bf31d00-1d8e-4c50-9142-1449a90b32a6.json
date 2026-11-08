@@ -1,0 +1,20 @@
+{
+	"id": "8bf31d00-1d8e-4c50-9142-1449a90b32a6",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la comuna de Rengo por incendio forestal",
+	"fechaHora": "2025-03-16T01:35:59.5959-03:00",
+	"createdAt": "2025-03-16T04:37:02.112Z",
+	"updatedAt": "2025-03-16T04:37:18.343Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-rengo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Rengo&nbsp;</strong>se reporta el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre   del incendio</strong></a></p></td><td><p>Las Nieves   1</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.4   hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio   forestal se encuentra controlado en todos sus sectores.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla</strong> para la comuna de Rengo, por incendio forestal, que se mantuvo vigente desde el 15 de marzo de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

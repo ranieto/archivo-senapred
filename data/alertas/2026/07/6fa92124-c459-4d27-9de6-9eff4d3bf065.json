@@ -1,0 +1,20 @@
+{
+	"id": "6fa92124-c459-4d27-9de6-9eff4d3bf065",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de Tierra Amarilla por evento meteorológico ",
+	"fechaHora": "2026-07-25T01:15:00.000-04:00",
+	"createdAt": "2026-07-25T05:32:49.977Z",
+	"updatedAt": "2026-08-02T01:52:14.161Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-evento-meteorologico-2026-07-18-09-44-14",
+	"parentId": "3752a6ee-8a25-4fc7-a231-2937a61a77f0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A346-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas en cordillera de la costa y sectores de valles y   pampa.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-07</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En tanto, ha sido cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A345</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado con probabilidad de ventisca en cordillera de   la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de sus Minutas Técnicas por peligro de remociones en masa, indica que la probabilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos y caídas de rocas) es <strong>Moderada </strong>en litoral, cordillera de la costa y valles transversales, pampa, precordillera y valles precordillera y valles precordilleranos y cordillera.</span></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Atacama, la Dirección Regional del SENAPRED <strong>mantiene Alerta Roja por evento meteorológico para la comuna de Tierra Amarilla,</strong> vigente desde el 18 de julio y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "591eae85-0f1c-4c29-b3ac-1d30dd4e62c4",
+	"type": "Alerta",
+	"titulo": "jull",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-21T15:08:23.508Z",
+	"updatedAt": "2023-09-21T15:16:47.303Z",
+	"urlAccess": "test-1",
+	"parentId": "f9191f4d-f05d-46c0-9c42-0de91d94cef2",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>hjhkj</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0bfbb016-03e9-4858-9649-1fc4ac173190"
+}

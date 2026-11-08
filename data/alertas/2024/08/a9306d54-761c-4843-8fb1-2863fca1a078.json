@@ -1,0 +1,20 @@
+{
+	"id": "a9306d54-761c-4843-8fb1-2863fca1a078",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de Sagrada Familia y San Rafael por crecida",
+	"fechaHora": "2024-08-06T03:36:00.000-04:00",
+	"createdAt": "2024-08-06T07:37:42.128Z",
+	"updatedAt": "2024-08-06T07:38:46.302Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-sagrada-familia-y-san-rafael-por-crecida-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca, Curicó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"San Rafael, Sagrada Familia\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la <strong>Dirección General de Aguas</strong> (DGA), se indica que la estación de red hidrométrica <strong>“Estación Estero Culenar en Villa Prat” </strong>se encuentra por debajo del <strong>umbral de alerta amarillo</strong>, con tendencia a la baja en su caudal.<br></p><p style=\"text-align:justify\">En consideración a este antecedente<span style=\"color:black\"> y en coordinación con </span>la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por crecida para las comunas de Sagrada Familia y San Rafael</strong>, que se mantenía <span style=\"color:black\">vigente desde el 05 de agosto.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

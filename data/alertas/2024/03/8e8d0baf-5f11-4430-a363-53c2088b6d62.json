@@ -1,0 +1,20 @@
+{
+	"id": "8e8d0baf-5f11-4430-a363-53c2088b6d62",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Roja para las comunas de Camiña y Huara por aumento de caudal",
+	"fechaHora": "2024-03-02T13:16:27.2727-03:00",
+	"createdAt": "2024-03-02T16:18:54.477Z",
+	"updatedAt": "2024-03-04T19:53:19.206Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-camina-por-aumento-de-caudal-3",
+	"parentId": "bef0ef93-1b21-409f-8b86-1f99791031b5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Dirección General de Aguas (DGA),</strong><span style=\"color: black\"> a través de su </span><strong>plataforma de monitoreo de caudales</strong><span style=\"color: black\">, se ha emitido una nueva </span><strong>Alerta Roja</strong><span style=\"color: black\"> en la estación denominada “</span><strong>Quebrada de Tarapacá en Tarapacá</strong><span style=\"color: black\">” en la comuna de Huara.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que se mantiene el monitoreo asociado a la estación “<strong>Q. Camiña 3 Km. Arriba de Tarcavire</strong>”, ante la amenaza asociada a dicho aumento de caudal.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes técnicos proporcionado por la DGA, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, , que se mantiene vigente desde el 28 de febrero y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene vigente una Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico</strong>, vigentedesde hoy 28 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "76ca8d5f-4535-4250-b494-664bed70e11a",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura y variable de Alerta Temprana Preventiva para las comunas de Huasco, Freirina, Alto del Carmen, Copiapó, Tierra Amarilla y Diego de Almagro a evento meteorológico ",
+	"fechaHora": "2025-12-01T17:00:00.000-03:00",
+	"createdAt": "2025-12-01T21:16:36.265Z",
+	"updatedAt": "2025-12-06T23:15:39.586Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-huasco-y-freirina-por-viento",
+	"parentId": "1b1900d9-25d1-478b-8b69-fbd9f7081a39",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A460-1</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado con probabilidad de tormentas de arena en la costa sur de la   Provincia de Huasco.</p></td><td><p style=\"text-align:center\">30-11</p></td><td><p style=\"text-align:center\">02-12</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A462-1</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en cordillera de la región.</p></td><td><p style=\"text-align:center\">04-12</p></td><td><p style=\"text-align:center\">05-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>modifica la cobertura y variable de la Alerta Temprana Preventiva por evento meteorológico para las comunas de </strong></span><strong><span style=\"color:black\">Huasco, Freirina, Alto del Carmen, Copiapó, Tierra Amarilla y Diego de Almagro</span></strong><span style=\"color:black\">,</span><span style=\"color:black\">que se mantiene vigente desde el 27 de noviembre de 2025 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

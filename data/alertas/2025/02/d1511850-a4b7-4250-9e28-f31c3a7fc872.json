@@ -1,0 +1,20 @@
+{
+	"id": "d1511850-a4b7-4250-9e28-f31c3a7fc872",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Hijuelas por incendio forestal",
+	"fechaHora": "2025-02-25T13:17:22.2222-03:00",
+	"createdAt": "2025-02-25T16:22:49.320Z",
+	"updatedAt": "2025-02-26T21:52:42.313Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hijuelas-por-incendio-forestal-2",
+	"parentId": "eac0aea0-15dd-40b0-9cab-d8f99366dd8e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Quillota\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Hijuelas\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF, el incendio forestal Oasis La Campana 3 se encuentra cercano al Parque Nacional La Campana y presentauna proyección a sectores poblados.</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Oasis La Campana 3, Hijuelas (Hualcapo)</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En trayecto</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,2 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Hijuelas, 11 brigadas, 1 técnico, 2 helicópteros,   1 avión y equipo municipal de GRD</p></td></tr></tbody></table><p><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPREDdeclara Alerta Roja para la comuna de Hijuelas por incendio forestal, vigente desde hoy y hasta que lascondiciones del incendio así lo ameriten.<br><br>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

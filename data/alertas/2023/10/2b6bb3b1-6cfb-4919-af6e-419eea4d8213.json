@@ -1,0 +1,20 @@
+{
+	"id": "2b6bb3b1-6cfb-4919-af6e-419eea4d8213",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por evento Zoosanitario",
+	"fechaHora": "2023-03-04T23:01:00.000-03:00",
+	"createdAt": "2023-10-26T02:02:54.090Z",
+	"updatedAt": "2024-07-23T21:49:46.188Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-zoosanitario",
+	"parentId": "2c9aa239-4671-4681-a4cc-14c5c8c1ff7a",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), mediante la resolución exenta N°228, se determina la presencia de la enfermedad de Influenza Aviar en la Región de La Araucanía, por lo que mediante el protocolo N° 239189 del 28 de febrero, determina el resultado positivo a influenza aviar tipo A H5N1 de alta patogenicidad en ave traspatio en la comuna de Nueva Imperial.<br><br>En consideración a estos antecedentes, los factores de vulnerabilidad en relación con las variables epidemiológicas que pueden afectar a la población a lo largo de la región y en coordinación con la Delegación Presidencial La Araucanía, la Dirección Regional del SENAPRED, declara Alerta Temprana Preventiva Regional, por evento zoosanitario, vigente desde hoy y hasta que las condiciones así lo ameriten.<br><br>La declaración de esta alerta, se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

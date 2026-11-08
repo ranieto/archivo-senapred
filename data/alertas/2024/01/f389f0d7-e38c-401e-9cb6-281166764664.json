@@ -1,0 +1,20 @@
+{
+	"id": "f389f0d7-e38c-401e-9cb6-281166764664",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Panguipulli, Río Bueno, Futrono y Lago Ranco por tormentas eléctricas",
+	"fechaHora": "2024-01-23T21:24:00.000-03:00",
+	"createdAt": "2024-01-24T00:40:55.995Z",
+	"updatedAt": "2024-01-24T00:41:45.372Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-panguipulli-rio-bueno-futrono-y-lago-ranco-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Ranco, Valdivia\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Río Bueno, Lago Ranco, Futrono, Panguipulli\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el Aviso Meteorológico A15-1/2024, que pronosticó probables tormentas eléctricas con precipitaciones aisladas en sectores de la Región de Los Ríos. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que le dieron origen.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>,</strong> que se mantuvo vigente desde el 22 de enero.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

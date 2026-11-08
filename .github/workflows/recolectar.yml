@@ -1,0 +1,38 @@
+name: Recolectar
+
+on:
+  schedule:
+    - cron: '17 1,9,17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recolectar
+  cancel-in-progress: false
+
+jobs:
+  recolectar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - id: run
+        run: node collector/recolectar.ts
+      - name: Guardar cambios
+        env:
+          RESUMEN: ${{ steps.run.outputs.resumen }}
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898333+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Add data up to $(date -u '+%F %H:%M') UTC" -m "$RESUMEN"
+          git push

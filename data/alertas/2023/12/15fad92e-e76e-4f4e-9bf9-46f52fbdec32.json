@@ -1,0 +1,20 @@
+{
+	"id": "15fad92e-e76e-4f4e-9bf9-46f52fbdec32",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2023-12-04T21:03:32.3232-03:00",
+	"createdAt": "2023-12-05T00:04:34.323Z",
+	"updatedAt": "2023-12-05T02:27:07.302Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-valparaiso-por-incendio-forestal",
+	"parentId": "b7e66a5d-4ebc-4518-91f0-54092cb02b65",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto a los incendios forestales en la comuna de Valparaíso, se informa lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cuesta Balmaceda.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,01 hectáreas.</p></td></tr></tbody></table></div><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">San Roque.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,09 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla para la comuna de Valparaíso por incendio forestal</strong>, que se encuentra vigente desde hoy y hasta que las condiciones de los incendios así lo ameriten.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el incendio Cuesta Balmaceda 7 brigadas de CONAF con apoyo de Bomberos y en el incendio San Roque 1 técnico y 3 brigadas de CONAF junto a Bomberos.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

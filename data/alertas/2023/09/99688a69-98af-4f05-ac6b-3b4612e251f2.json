@@ -1,0 +1,20 @@
+{
+	"id": "99688a69-98af-4f05-ac6b-3b4612e251f2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2023-09-14T01:01:00.000-03:00",
+	"createdAt": "2023-09-14T04:04:26.891Z",
+	"updatedAt": "2023-09-14T04:04:38.963Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><br></p><p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos técnicos para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que los originaron:</p><table><tbody><tr><td><p><strong>Alerta AA63</strong></p></td><td><p>Viento moderado a fuerte en cordillera, con desarrollo de viento blanco,</p></td></tr><tr><td><p><strong>Aviso A356-3</strong></p></td><td><p>Viento normal a moderado, con probabilidad de tormentas de arena, en zonas de litoral, cordillera de la costa, pampa, precordillera, precordillera salar y cordillera</p></td></tr></tbody></table><p>En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional</strong> por viento, que se mantuvo vigente desde el 08 de septiembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

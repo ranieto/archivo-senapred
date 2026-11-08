@@ -1,0 +1,20 @@
+{
+	"id": "e4654386-2f5c-42f3-9882-046b4a93bcc5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región Ñuble por amenaza de incendios forestales",
+	"fechaHora": "2024-01-13T12:35:00.000-03:00",
+	"createdAt": "2024-01-13T15:50:21.061Z",
+	"updatedAt": "2024-02-20T13:59:55.326Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-uble-por-amenaza-de-incendios-forestales",
+	"parentId": "07c0e66b-8907-44fa-86ca-3475765c9a59",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(46, 46, 46);font-size: 14px\"><strong>En base a la información técnica proporcionada por CONAF</strong>, que señala un aumento de la probabilidad de generación y propagación de incendios forestales, se prevén pronósticos de velocidad de viento entre 20 y 40 Km/h, contenido de humedad del combustible vegetal fino muerto entre 2 y 8%.</span><br></p><div><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Resumen de la situación:</span></div><div><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span><br><br><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span><br></div><div><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Cursos de acción:</span></div><div><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Activación preventiva de Comité de Gestión de Riesgo y Desastre de Emergencia, puesta a punto de Enlaces de Coordinación y Planificación de Operaciones de Emergencia.</span><br><br><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Efectiva información a la comunidad.</span><br><br><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Las maquinarias entregadas en Comodato por SENAPRED a los Municipios deberán estar preparadas y con conductores de turno, ante la eventualidad de que deban desplazarse en la Región debido a una situación de emergencia.</span></div>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

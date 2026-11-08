@@ -1,0 +1,20 @@
+{
+	"id": "2e3a97e2-0809-4b27-81e7-9d45b8f6b54f",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de Curepto por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-12T22:23:10.142Z",
+	"updatedAt": "2026-01-12T22:25:09.140Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-curepto-por-incendio-forestal-2026-01-12-16-30-22",
+	"parentId": "4c4331b4-c53b-486f-b1f9-dbe22b0893e5",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size:15px;color:black\">respecto al incendio forestal en la comuna de&nbsp;<strong>Curepto,&nbsp;</strong>se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Los Zorrillos</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">35</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">El incendio se desarrolla cercano a sectores habitados.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Curepto, por incendio forestal, que se encuentra vigente desde el 12 de enero de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

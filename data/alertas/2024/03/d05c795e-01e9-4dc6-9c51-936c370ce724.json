@@ -1,0 +1,20 @@
+{
+	"id": "d05c795e-01e9-4dc6-9c51-936c370ce724",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2024-03-05T19:08:00.000-03:00",
+	"createdAt": "2024-03-05T22:09:45.958Z",
+	"updatedAt": "2024-03-05T22:10:32.101Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Ovalle\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,</span><span style=\"color: rgb(33, 37, 41)\">&nbsp;respecto al incendio forestal en la comuna de Ovalle, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>La Chimba 8</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>7,2 hectáreas</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED <strong>cancela Alerta Amarilla para la comuna de Coquimbo por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 04 de marzo de 2024.</span></p><p style=\"text-align:justify\"></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

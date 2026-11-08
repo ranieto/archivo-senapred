@@ -1,0 +1,20 @@
+{
+	"id": "a6a45df6-df47-4f82-a54e-efae6774d542",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de San Rafael por incendio forestal",
+	"fechaHora": "2024-01-22T19:25:00.000-03:00",
+	"createdAt": "2024-01-22T22:31:09.780Z",
+	"updatedAt": "2024-01-22T22:31:34.558Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-rafael-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"</span><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Alto Pangue\"</span>, en la comuna de San Rafael, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Alto Pangue</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectárea</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Incendio forestal se encuentra controlado.</span></p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la Comuna de San Rafael</strong>, por incendio forestal, que se mantuvo vigente desde el 22 de enero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

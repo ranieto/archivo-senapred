@@ -1,0 +1,20 @@
+{
+	"id": "062bbc82-1f6f-4fb2-b202-0db1be61c07c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Río Claro por incendio forestal",
+	"fechaHora": "2024-12-25T15:11:00.000-03:00",
+	"createdAt": "2024-12-25T18:15:24.548Z",
+	"updatedAt": "2024-12-25T21:41:17.193Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rio-claro-por-incendio-forestal",
+	"parentId": "96af3fc2-4b60-40ae-9eb0-742336985506",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal con amenaza inminente a la población Altos de Camarico.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Alto Camarico 3</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Río Claro (Camarico)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>2 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>Bombero Río Claro</div><div>6 brigadas, 1 técnico, 3 aviones cisternas y 2 helicópteros CONAF</div><div>En trayecto: Bomberos Talca</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Río Claro por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

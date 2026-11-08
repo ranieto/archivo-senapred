@@ -1,0 +1,20 @@
+{
+	"id": "a1ec182a-b0ea-4e75-98b3-762cb0b554c8",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones del Maule y Ñuble",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-05-13T09:40:46.656Z",
+	"updatedAt": "2024-05-13T09:43:44.927Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-uble-2",
+	"parentId": "5f15a742-3c50-4454-a50d-a3285ecc0df1",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 05:21 horas en las regiones del Maule y Ñuble. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Pelluhue:   </p></td><td><p>III</p></td></tr><tr><td><p>Iloca:   </p></td><td><p>III</p></td></tr><tr><td><p>Constitución:   </p></td><td><p>III</p></td></tr><tr><td><p>Llico:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Cobquecura:   </p></td><td><p>III</p></td></tr><tr><td><p>Quirihue:   </p></td><td><p>III</p></td></tr><tr><td><p>Trehuaco:   </p></td><td><p>III</p></td></tr><tr><td><p>Coelemu:   </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.8 localizado a 76 Kms al Oeste de Constitución.</p><p>SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

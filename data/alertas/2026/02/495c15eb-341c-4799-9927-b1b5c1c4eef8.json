@@ -1,0 +1,20 @@
+{
+	"id": "495c15eb-341c-4799-9927-b1b5c1c4eef8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2026-02-13T19:31:05.055-03:00",
+	"createdAt": "2026-02-13T22:33:17.558Z",
+	"updatedAt": "2026-02-24T16:35:22.871Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2026-02-12-20-51-19",
+	"parentId": "1a36ca85-6721-4c00-96f2-e88abeb7ebe6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de&nbsp;<strong>Linares&nbsp;</strong>se informa el siguiente detalle:<br><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Cajón de Pejerrey</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>180 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"font-size: 15px\">1 brigada CONAF: 7 técnicos Conaf; 7 helicópteros Conaf;&nbsp;</span><span style=\"font-size: 16px\">1 puesto de comando; 2 operadores de motobomba.</span></p></td></tr><tr><td><p><strong>Afectación</strong></p></td><td><p><span style=\"font-size: 15px\">Incendio en el interior de Área Protegida (ASP y Privada)</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><br>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED&nbsp;<strong>mantiene la Alerta Roja para la Comuna de Linares</strong>, por incendio forestal, que se encuentra vigente desde el<br>12 de febrero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

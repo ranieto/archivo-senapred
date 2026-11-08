@@ -1,0 +1,21 @@
+{
+	"id": "efab35b7-acc6-46d5-ae4f-a89d1e46b03f",
+	"type": "Alerta",
+	"titulo": "ALERTAA POSIBLE SISMO ",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-08-03T05:31:07.840Z",
+	"updatedAt": "2026-08-03T05:56:39.036Z",
+	"urlAccess": "alertaa-posible-sismo-2026-08-03-01-30-46",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Talca, Cauquenes, Curicó, Linares, Santiago, Chacabuco, Cordillera, Mellipilla, Maipo, Talagante\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Maule, Curepto, Talca, Empedrado, Constitución, Longaví, Parral, Colbún, Linares, Retiro, Yerbas Buenas, Villa Alegre\",\"regiones\":\"Región del Maule, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>ALERTA ALERTA ALERTA</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "1adbc450-6cf3-4893-8004-96fbfb62a368"
+}

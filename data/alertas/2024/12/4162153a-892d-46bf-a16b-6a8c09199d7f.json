@@ -1,0 +1,20 @@
+{
+	"id": "4162153a-892d-46bf-a16b-6a8c09199d7f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2024-12-24T19:21:00.000-03:00",
+	"createdAt": "2024-12-24T22:23:22.022Z",
+	"updatedAt": "2024-12-27T23:22:12.323Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal",
+	"parentId": "6dd9de10-72b5-4b6a-8405-c9a9e7862e4f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;en relación al incendio forestal en la comuna de Cauquenes, indica:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Raya</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">150 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio con comportamiento extremo, velocidad de   propagación Alta, intensidad en el frente del avance Alta, longitud de llama   Extrema. Además, se desarrolla cercano a sectores habitados.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla y declara Alerta Roja para la Comuna de Cauquenes por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

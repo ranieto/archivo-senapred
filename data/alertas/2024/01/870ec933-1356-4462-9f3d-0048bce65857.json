@@ -1,0 +1,20 @@
+{
+	"id": "870ec933-1356-4462-9f3d-0048bce65857",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Panquehue por incendio forestal",
+	"fechaHora": "2024-01-16T22:19:04.044-03:00",
+	"createdAt": "2024-01-17T01:19:46.763Z",
+	"updatedAt": "2024-01-17T03:50:04.378Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-panquehue-por-incendio-forestal",
+	"parentId": "461f6491-8b15-43b5-9239-79665ea5d947",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"color: rgb(0, 0, 0)\"> respecto al incendio Callejón San Luis, en la comuna de Panquehue, se informa los siguiente:</span><br></p><table><tbody><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Callejón San Luis</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal   con comportamiento extremo, con rápida propagación y posible proyección hacia   sectores poblados.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de <strong>SENAPRED declara Alerta Amarilla para la Comuna de Panquehue por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

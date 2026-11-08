@@ -1,0 +1,20 @@
+{
+	"id": "1ad29d4f-66f8-4d1f-8842-7ef0039d6f16",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región del Maule por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-11T03:17:23.231Z",
+	"updatedAt": "2023-10-26T01:51:17.491Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-coihueco-pinto-chillan-y-chillan-viejo-por-crecida",
+	"parentId": "9d65279e-0a93-46e6-9b7c-27de00ec7e1f",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule, debido a las precipitaciones registradas en la región, se reportan los siguientes antecedentes:<br></p><table><tbody><tr><td><div><strong>Afectación a personas</strong></div></td><td><div><strong><u>Comuna de Romeral</u></strong><p>– 125 personas aisladas, producto de la crecida del río Guaiquillo.</p><p>– 10 personas albergadas de manera preventiva en la escuela Luis Escobar Lara.</p></div></td></tr><tr><td><div><strong>Daños a viviendas e infraestructura</strong></div></td><td><div><strong><u>Comuna de Pelluhue</u></strong><p>– 1 vivienda con daños en evaluación, producto de una remoción en masa en el sector Vista Hermosa. Debido a esto, 7 personas (moradores de viviendas aledañas) fueron evacuadas de manera preventiva del lugar y trasladadas a casas de vecinos.</p><p>– 1 vivienda (segunda residencia) con daños en evaluación, producto de una remoción en masa en el sector Curanipe.</p><p>– Colapso de un recolector de aguas lluvias mantiene involucrados a 6 locales comerciales. Personal municipal se encuentra realizando el correspondiente catastro de afectación.</p><p><strong><u>Comuna de Cauquenes</u></strong></p><p>– 3ra Compañía del Cuerpo de Bomberos de Cauquenes con daños en evaluación.</p></div></td></tr><tr><td><div><strong>Otros incidentes</strong></div></td><td><div><strong><u>Comuna de Curicó</u></strong><p>– Anegamiento en calle Valladolid, Villa Nueva Galilea.</p></div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinacion con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED<strong>mantiene la Alerta Roja regional</strong>por evento meteorológico, que se encuentra vigente desde el 20 de agosto y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

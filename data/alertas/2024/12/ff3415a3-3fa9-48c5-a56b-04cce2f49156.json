@@ -1,0 +1,20 @@
+{
+	"id": "ff3415a3-3fa9-48c5-a56b-04cce2f49156",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-12-01T22:45:00.000-03:00",
+	"createdAt": "2024-12-02T01:45:14.249Z",
+	"updatedAt": "2024-12-02T01:45:38.337Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentra cancelado el siguiente alertamiento meteorológico para la Región de Tarapacá, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A439-4</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas, preferentemente durante la tarde noche, con   precipitaciones aisladas, en precordillera y cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">&nbsp; &nbsp; </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>Cancela la Alerta Temprana Preventiva para la Provincia del Tamarugal por tormentas eléctricas</strong>, que se mantenía vigente desde el 25 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

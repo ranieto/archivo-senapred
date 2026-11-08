@@ -1,0 +1,20 @@
+{
+	"id": "7e0a59c7-008a-48be-8d1a-39755da1682a",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Roja para la Comuna de San Nicolás por incendio forestal",
+	"fechaHora": "2024-03-25T18:12:00.000-03:00",
+	"createdAt": "2024-03-25T21:19:54.772Z",
+	"updatedAt": "2024-03-25T21:23:46.768Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-nicolas-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Punilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Nicolas\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Departamento de Protección contra Incendios Forestalesde CONAF, controlado se encuentra el incendio forestal denominado Quillahue, el cual consume al momento, 5,5hectáreas de vegetación en la comuna de San Nicolás.Cabe mencionar, que el incendio ya no presenta amenaza directa a viviendas<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED cancela laAlerta Roja para la Comuna de San Nicolás, por incendio forestal, que se mantuvo vigente desde el 25 de marzode 2024.<br></p><p><br></p><p style=\"text-align: justify\"><strong><span style=\"color: black\">De acuerdo con la información técnica proporcionada por CONAF,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de&nbsp;</span>San Nicolás<span style=\"color: black\">se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Quillahue</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5.5 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio controlado, no presenta cercanía a sectores habitados.</p></td></tr></tbody></table><p style=\"text-align: justify\">Recursos asociados al evento:</p><p style=\"text-align: justify\">3 Brigadas de CONAF, 3 Técnicos de CONAF, 1 Helicóptero de CONAF, 2 Aviones Cisterna de CONAF y 1 camión cisterna de CONAF.</p><p style=\"text-align: justify\">Recursos en trayecto: 2 Técnicos de CONAF, 1 skidder de CONAFY 2 Brigadas de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

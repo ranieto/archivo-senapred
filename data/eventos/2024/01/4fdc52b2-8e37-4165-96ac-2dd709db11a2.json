@@ -1,0 +1,19 @@
+{
+	"id": "4fdc52b2-8e37-4165-96ac-2dd709db11a2",
+	"type": "Evento",
+	"titulo": "Accidente Terrestre, Comuna de Cartagena",
+	"fechaHora": "2024-01-13T14:30:00.000-03:00",
+	"createdAt": "2024-01-13T17:52:25.088Z",
+	"updatedAt": "2024-01-14T00:27:01.969Z",
+	"urlAccess": "accidente-terrestre-comuna-de-cartagena",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Cartagena\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso, a la hora del presente informe, se registra el volcamiento de un bus de turismo, en la variante San Sebastián, comuna de Cartagena.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de lo anterior, se reporta 01 persona fallecida y 31 lesionadas, de las cuales 06 fueron trasladas por lesiones de gravedad al Hospital Claudio Vicuña de San Antonio, mientras que el resto de los lesionados son evaluados en el lugar para su posterior derivación a otros centros asistenciales. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, el tránsito vehicular se encuentra interrumpido en ambos sentidos, para facilitar el trabajo de los equipos de repuesta, existiendo vías alternativas.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, Carabineros, SAMU y personal Municipal de GRD.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

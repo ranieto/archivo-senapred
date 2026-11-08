@@ -1,0 +1,20 @@
+{
+	"id": "b5eed0d3-6056-464c-ae45-1f6a980df844",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2023-12-23T18:50:41.4141-03:00",
+	"createdAt": "2023-12-23T21:54:21.862Z",
+	"updatedAt": "2023-12-25T17:51:29.362Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-2",
+	"parentId": "47fb339a-db8d-48da-9f07-1a48745b13fb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, con relación al incendio forestal registrado en la comuna de Valparaíso, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Calle El Palomar – Laguna Verde.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5,7 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados </strong></p></td><td><p style=\"text-align:justify\">1   puesto de mando, 6 técnicos, 12 brigadas, 1 skidder, 2 camiones aljibe y 3   helicópteros de CONAF; 3 helicópteros gestionados por SENAPRED; Bomberos de   Valparaíso; Carabineros; Delegada Presidencial Regional; Carabineros;   SENAPRED Valparaíso; y personal municipal con apoyo de 2 camiones aljibe.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla y cancela la Alerta Roja por incendio forestal para la comuna de Valparaíso</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

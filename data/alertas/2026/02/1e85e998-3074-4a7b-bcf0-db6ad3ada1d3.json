@@ -1,0 +1,20 @@
+{
+	"id": "1e85e998-3074-4a7b-bcf0-db6ad3ada1d3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Ñuble por amenaza de incendios forestales",
+	"fechaHora": "2026-02-18T19:38:42.4242-03:00",
+	"createdAt": "2026-02-18T22:41:34.272Z",
+	"updatedAt": "2026-03-02T00:00:04.826Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-amenaza-de-incendios-forestales-2026-02-18-19-41-15",
+	"parentId": "47c0ffc4-5c32-4683-ac09-06fd5e507bd8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED declara Alerta Temprana Preventiva regional por amenaza de incendios forestales con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF, que señala lo siguiente:</p><p><br></p><p>Según el Informe Meteorológico de Temperatura–Humedad–Viento–Precipitaciones, antecedentes de estaciones meteorológicas y el pronóstico de riesgo del Departamento de Desarrollo e Investigación de CONAF, se prevén condiciones favorables para la propagación de incendios forestales en la Región. Durante la presente noche se proyectan vientos entre 15 y 20 km/h, con rachas de 40 a 50 km/h entre las 23:00 y 09:00 horas. Para los días siguientes, se esperan vientos diurnos sostenidos entre 15 y 20 km/h, junto a humedades relativas inferiores al 30 % y una escasa recuperación nocturna de humedad. La Humedad del Combustible Fino Muerto (HCFM) se mantiene en rangos muy bajos, cercanos al 3 %, evidenciando una condición de combustible extremadamente seco.</p><p><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

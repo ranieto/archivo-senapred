@@ -1,0 +1,20 @@
+{
+	"id": "f967a93e-4182-4097-8736-aaf4f563e488",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Amarilla para la Región del Biobío por calor intenso",
+	"fechaHora": "2026-01-16T13:45:32.3232-03:00",
+	"createdAt": "2026-01-16T16:46:53.659Z",
+	"updatedAt": "2026-01-21T04:16:05.030Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-calor-intenso-2026-01-15-17-23-10",
+	"parentId": "a291a73c-88df-4130-a049-84e729e756d9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA10-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de   altas temperaturas extremas en cordillera de la costa, valle y precordillera   (entre 34 y 37 °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">19-01</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A16-5</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en cordillera de la costa, valle y precordillera (entre 31 y 36   °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">19-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPREDactualiza la Alerta Amarilla Regional por calor intenso, que se encuentra vigente desde el 15 de enero y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Con la actualización de esta alerta se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><em><strong><span style=\"color: black\">SENAPRED </span></strong><span style=\"color: black\">recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del calor intenso, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></em></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

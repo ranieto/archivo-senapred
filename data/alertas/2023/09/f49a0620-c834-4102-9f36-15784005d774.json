@@ -1,0 +1,20 @@
+{
+	"id": "f49a0620-c834-4102-9f36-15784005d774",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-10T17:02:06.174Z",
+	"updatedAt": "2023-09-11T20:53:47.977Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento técnico para la Región de Antofagasta:<br></p><table><tbody><tr><td><p><strong>Alerta AA63</strong></p></td><td><p>Viento moderado a fuerte en cordillera, con desarrollo de viento blanco, entre la madrugada del martes 12 y la noche del miércoles 13 de septiembre. Con montos esperados entre 70 y 90 km/h durante el martes 12 y entre 80 y 100 km/h el miércoles 13.</p></td></tr><tr><td><p><strong>Aviso A356-1</strong></p></td><td><p>Viento normal a moderado, con probabilidad de tormentas de arena, en zonas de litoral, cordillera de la costa, pampa, precordillera, precordillera salar y cordillera de la región, desde la mañana del martes 12 y la noche del miércoles 13 de septiembre.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>actualiza y modifica la cobertura de la Alerta Temprana Preventiva a Regional</strong>, por viento, que se encuentra vigente desde el 08 de septiembre y hasta que las condiciones del evento así lo ameriten.</p><p>La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p><em><strong>SENAPRED</strong>recomienda a la poblacióninformarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

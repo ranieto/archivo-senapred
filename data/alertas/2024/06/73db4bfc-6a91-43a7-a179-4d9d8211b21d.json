@@ -1,0 +1,20 @@
+{
+	"id": "73db4bfc-6a91-43a7-a179-4d9d8211b21d",
+	"type": "Alerta",
+	"titulo": "Se Alerta Temprana Preventiva para la Región de Magallanes por heladas",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-06-27T16:41:38.577Z",
+	"updatedAt": "2024-06-27T16:44:31.128Z",
+	"urlAccess": "se-alerta-temprana-preventiva-para-la-region-de-magallanes-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el Aviso Meteorológico A242/2024, que pronosticó heladas normales a moderadas en zonas de la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, el Centro Meteorológico Regional Austral en su pronóstico público regional indica un aumento en las temperaturas máximas, reduciendo la amenaza asociada a esta variable.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por heladas</strong>, que se mantuvo vigente desde el 14 de junio.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que las clases se encuentran suspendidas para los días 27 y 28 de junio en las comunas de Punta Arenas, Río Verde, Natales, Torres del Paine, Porvenir y Primavera, además de mantenerse vigente la Alerta Amarilla para la comuna de Natales por Alteración de suministro de Agua Potable. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

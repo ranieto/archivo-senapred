@@ -1,0 +1,21 @@
+{
+	"id": "d34f1104-1e67-401a-84bb-ca511ce962e9",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos por actividad del volcán Villarrica",
+	"fechaHora": "2023-10-20T13:42:00.000-03:00",
+	"createdAt": "2023-10-26T02:08:19.331Z",
+	"updatedAt": "2023-12-03T14:36:29.685Z",
+	"urlAccess": "monitoreo-alerta-amarilla-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-3",
+	"parentId": "b14ebe12-b4f7-43d5-aca3-24e7a3e28291",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia, Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curarrehue, Pucón, Villarrica, Panguipulli\",\"regiones\":\"Región de la Araucanía, Región de los Ríos\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla[1].<br><br>En relación con el último Reporte de Actividad Volcánica (RAV), que evaluó el periodo comprendido entre el 01 y 15 de octubre, se informa que el volcán Villarrica permanece con una alta generación de actividad sísmica tipo Largo Periodo (LP) y con valores promedios de la amplitud sísmica continua. A su vez, persiste el registro de explosiones estrombolianas que dispersan material piroclástico generalmente en el área de influencia del cráter activo. En superficie se observan emisiones pulsátiles de gases y material particulado, y durante la noche se registró incandescencia.<br><br>Lo indicado es coherente con un lago de lava que continúa cerca de la superficie y producto de su actividad, genera sismicidad recurrente y explosiones intermitentes. Es por ello se infiere que el sistema volcánico presenta signos de actividad interna y externa relacionados con la dinámica de un lago de lava activo, por lo tanto, se concluye que aún se encuentra por encima de umbral base. En base a lo anterior, SERNAGEOMIN modifica la zona de potencial afectación por peligros volcánicos a un radio de 1 kilómetro medido desde el centro del cráter activo.<br><br>Para más información del organismo técnico, consultar en https://rnvv.sernageomin.cl/volcan-villarrica/<br><br>En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN y en coordinación con las Delegaciones Presidenciales Regionales, las Direcciones Regionales del SENAPRED La Araucanía y Los Ríos mantienen la Alerta Amarilla, para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica, que permanece vigente desde el 08 de noviembre de 2022.<br><br>Conforme a los antecedentes técnicos proporcionados por SERNAGEOMIN, las Delegaciones Presidenciales Regionales de La Araucanía y Los Ríos gestionan la modificación del perímetro de seguridad, en conformidad con las facultades que otorga el artículo N°38, letra d), de la Ley N°21.364.<br><br>Por su parte, SERNAGEOMIN continúa con la vigilancia permanente del complejo volcánico y las Direcciones Regionales de SENAPRED La Araucanía y Los Ríos, mantendrán las coordinaciones con los integrantes del SINAPRED para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia.<br><br>[1] Alerta técnica en Nivel Amarilla: comprende variaciones en los niveles de parámetros derivados de la vigilancia que indican que el volcán está por encima de su umbral base y que el proceso es inestable, pudiendo evolucionar aun aumentando o disminuyendo esos niveles, por ende, una erupción probable, se podría desarrollar en un periodo de semanas o meses.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

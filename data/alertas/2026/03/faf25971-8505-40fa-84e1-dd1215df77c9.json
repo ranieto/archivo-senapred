@@ -1,0 +1,20 @@
+{
+	"id": "faf25971-8505-40fa-84e1-dd1215df77c9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de San Fernando por incendio forestal",
+	"fechaHora": "2026-03-09T15:03:28.2828-03:00",
+	"createdAt": "2026-03-09T18:11:48.958Z",
+	"updatedAt": "2026-03-09T22:40:42.298Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-fernando-por-incendio-forestal-2026-03-09-15-11-30",
+	"parentId": "87b5bf66-82cc-4c45-97a5-245e6facd6d3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Ribera   Norte Tinguiririca</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,01   (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4   brigadas de CONAF, 1 técnico de CONAF, 1 helicóptero de CONAF, 1 avión   cisterna de CONAF y 1 camión cisterna de CONAF.</p></td></tr></tbody></table><p><br><br></p><p style=\"text-align:justify\">De acuerdo con la información técnica proporcionada por CONAF, activo se encuentra el incendio forestal Rivera Norte Río Tinguiririca, el que se desarrolla cercano a una planta de la empresa Alifrut - Minuto Verde. Cabe señalar que se esperan temperaturas máximas de 31°C y viento componente SW de 8 a 10 km/h.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de San Fernando por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9efb7820-d8e4-4abd-bc7b-1dcab51d8f31",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de San Pedro de Atacama por actividad del volcán Láscar",
+	"fechaHora": "2023-11-08T19:47:19.1919-03:00",
+	"createdAt": "2023-11-08T22:49:15.881Z",
+	"updatedAt": "2023-11-08T22:50:15.837Z",
+	"urlAccess": "se-cancela-alerta-amarilla-y-declara-alerta-temprana-preventiva-para-la-comuna-de-san-pedro-de-atacama-por-actividad-del-volcan-lascar",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"San Pedro de Atacama\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS)</strong> del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Láscar mantiene su nivel de alerta técnica Verde [1]. <br><br>En relación con el último Reporte de Actividad Volcánica (RAV), que evaluó el periodo comprendido entre el 1 y 31 de octubre, se informa que posterior a la crisis eruptiva menor experimentada por el volcán en enero de 2023, los distintos parámetros obtenidos con la red instrumental han mostrado una disminución en sus valores y tendencias, llegando a posicionarse en torno a sus niveles de umbral habituales, lo que sugiere una estabilidad en el sistema volcánico.<br><br>Para más información del organismo técnico, consultar en: https://rnvv.sernageomin.cl/volcan-lascar/<br><br>En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN, y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de San Pedro de Atacama, por actividad del Volcán Láscar, que se mantuvo vigente desde el 6 de octubre de 2023.<br><br>Por su parte, SERNAGEOMIN mantiene una zona de potencial peligro volcánico proximal al cráter activo con un radio de 500 metros respecto al centro del cráter.  <br><br>Conforme a los antecedentes técnicos proporcionados por SERNAGEOMIN, la Delegación Presidencial Regional de Antofagasta junto a la Dirección Regional del SENAPRED, gestiona la modificación del perímetro de seguridad, en conformidad con las facultades que otorga el artículo N°38, letra d), de la Ley N°21.364. <br><br>Finalmente, SERNAGEOMIN continúa la vigilancia permanente del volcán en línea y la Dirección Regional del SENAPRED mantendrá las coordinaciones con los integrantes del Sistema Regional de Prevención y Respuesta ante Desastres para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia producto de la condición volcánica.<br><br><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

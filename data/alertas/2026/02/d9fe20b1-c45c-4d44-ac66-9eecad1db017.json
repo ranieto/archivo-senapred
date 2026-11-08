@@ -1,0 +1,20 @@
+{
+	"id": "d9fe20b1-c45c-4d44-ac66-9eecad1db017",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2026-02-14T19:34:05.055-03:00",
+	"createdAt": "2026-02-14T22:35:53.893Z",
+	"updatedAt": "2026-02-27T00:00:17.432Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2026-02-12-20-51-19",
+	"parentId": "4c8a9069-b82d-4c46-9719-bec35404d386",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">De acuerdo a la información proporcionada por CONAF, en atención al incendio forestal en la comuna de Linares, se reporta el siguiente detalle:</span></strong></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">460 - Cajón de Pejerrey</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">200 hectáreas</span></p></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Incendio en el interior de Área Protegida (ASP y Privada) o en una proximidad menor a 2.000 metros de distancia.<br></span></div></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">1 brigada, 3 técnicos, 3 aeronaves y 1 puesto de mando CONAF</span></div><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">2 operadores de Motobomba</span></div></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En&nbsp;consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED&nbsp;<strong>mantiene la Alerta Roja para la comuna de Linares por incendio forestal</strong>, que se encuentra vigente desde el&nbsp;12 de febrero de 2026.</span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "cf9d2750-e687-46ef-81d8-acbd892e899c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de La Estrella por incendio forestal ",
+	"fechaHora": "2024-01-12T19:33:00.000-03:00",
+	"createdAt": "2024-01-12T22:40:50.356Z",
+	"updatedAt": "2024-01-13T02:41:42.405Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal-3",
+	"parentId": "25062083-fd3d-4209-81c9-4162148e9702",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"La Estrella\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(46, 46, 46);font-size: 14px\"><strong>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF</strong>, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED declara&nbsp; Alerta Roja para la Comuna de La Estrella, por incendio forestal, que se encuentra vigente desde el 12 de enero de 2024.</span><br></p><div><br></div><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:16px\">Los   Cardillos</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">30 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Fundamentación técnica</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:16px\">Cercanía a Sectores habitados</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:16px\">Recursos involucrados</span></strong></p></td><td><p><span style=\"font-size:16px\">Trabajan 2 brigadas   de CONAF,1 técnico CONAF, 1 avión CONAF y 2 Skidder de CONAF.</span></p></td></tr></tbody></table></div><div><br></div><div><br></div><div><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Activación preventiva de Comité de Provincial y Comunal de Gestión de Riesgo y Desastre de Emergencia, puesta a punto de Enlaces de Coordinación y Planificación de Operaciones de Emergencia.</span><br><br><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Efectiva información a la comunidad.</span><br><br><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Las maquinarias entregadas en Comodato por SENAPRED a los Municipios deberán estar preparadas y con conductores de turno, ante la eventualidad de que deban desplazarse en la Región debido a una situación de emergencia.</span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

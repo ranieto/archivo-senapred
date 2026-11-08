@@ -1,0 +1,20 @@
+{
+	"id": "3e815850-93f5-421d-9958-5f97e5da4b09",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Malleco por calor intenso",
+	"fechaHora": "2025-01-07T13:56:00.000-03:00",
+	"createdAt": "2025-01-07T18:04:42.102Z",
+	"updatedAt": "2025-01-07T18:05:26.213Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco-por-calor-intenso-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico asociado a la variable de altas temperaturas en la Región de La Araucanía:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA1</p></td><td><p style=\"text-align:justify\">Altas temperaturas   extremas en la provincia de Malleco.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene vigente la Alerta Temprana Preventiva Nacional por Calor, vigente desde el 1 de noviembre de 2024 y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por calor intenso para la provincia de Malleco, </strong>que se mantuvo vigente desde el 04 de enero 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

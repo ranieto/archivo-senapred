@@ -1,0 +1,20 @@
+{
+	"id": "57656d8d-42c5-4dc0-af20-84753ea51658",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de Nueva Imperial por incendio forestal",
+	"fechaHora": "2024-02-18T00:20:00.000-03:00",
+	"createdAt": "2024-02-18T03:36:42.526Z",
+	"updatedAt": "2024-02-19T23:15:51.231Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-nueva-imperial-por-incendio-forestal",
+	"parentId": "180e1a2b-0f46-4291-9852-268577600965",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Nueva Imperial\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>El Departamento de Protección contra Incendios Forestales de CONAF indica que el incendio se mantiene\"en combate\", no obstante se encuentra contenido, sin avance y sin amenaza directa a viviendas o infraestructuracrítica.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPREDcancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Nueva Imperial por incendio forestal, vigentedesde hoy y hasta que las condiciones del incendio así lo ameriten.Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios,en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuestaante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectosnegativos en las personas, sus bienes y el medio ambiente.</p><p><strong><span style=\"color:black\">De acuerdo con la información proporcionada por el Departamento de Protección con Incendios Forestales de CONAF, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de Nueva Imperial se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Manzanal 4 </p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>47.4 hectáreas</p></td></tr><tr><td><p><strong>Antecedentes </strong></p></td><td><p>Incendio forestal se encuentra contenido.</p></td></tr></tbody></table>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

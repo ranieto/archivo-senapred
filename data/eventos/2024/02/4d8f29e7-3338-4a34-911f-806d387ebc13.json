@@ -1,0 +1,19 @@
+{
+	"id": "4d8f29e7-3338-4a34-911f-806d387ebc13",
+	"type": "Evento",
+	"titulo": "Incendio Estructural, Comuna de Temuco (Información preliminar)",
+	"fechaHora": "2024-02-29T11:15:00.000-03:00",
+	"createdAt": "2024-02-29T14:19:59.827Z",
+	"updatedAt": "2024-02-29T16:08:34.999Z",
+	"urlAccess": "incendio-estructural-comuna-de-temuco-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Temuco\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía</span></strong><span style=\"color: black\">, a la hora del presente informe se reporta un incendio estructural que afecta el primer piso del Mall Portal Temuco, ubicado en la intersección de las avenidas Alemania y España, en la Comuna de Temuco.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que 350 personas fueron evacuadas preventivamente desde las instalaciones del mall hacia zona segura, sin registrarse al momento personas lesionadas.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, Carabineros y personal municipal.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

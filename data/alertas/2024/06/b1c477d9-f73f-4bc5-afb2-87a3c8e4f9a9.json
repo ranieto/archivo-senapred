@@ -1,0 +1,20 @@
+{
+	"id": "b1c477d9-f73f-4bc5-afb2-87a3c8e4f9a9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Curanilahue por desborde",
+	"fechaHora": "2024-06-22T18:51:00.000-04:00",
+	"createdAt": "2024-06-22T22:53:49.706Z",
+	"updatedAt": "2024-06-22T22:54:16.056Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curanilahue-por-amenaza-de-desborde-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación de red fluviométrica “Rio Curanilahue en Curanilahue”, se encuentra fuera de los umbrales de alerta y con tendencia a la baja. Asimismo, personal municipal en terreno reporta la disminución de los cauces de los ríos Curanilahue y Ranas, y del estero Plegarias.<br></p><p style=\"text-align:justify\">Por otro lado, la Dirección Meteorológica de Chile (DMC) señala que no se pronostican precipitaciones para los próximos días en la comuna.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por desborde para la comuna de Curanilahue,</strong> la cual se encontraba vigente desde el 20 de junio de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

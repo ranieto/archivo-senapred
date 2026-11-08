@@ -1,0 +1,20 @@
+{
+	"id": "190b3094-865a-4bc2-87de-ff097251ccf3",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Atacama por viento",
+	"fechaHora": "2025-06-20T01:15:00.000-04:00",
+	"createdAt": "2025-06-20T05:16:44.944Z",
+	"updatedAt": "2025-06-20T05:17:01.727Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-13",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelada la Alerta Meteorológica AA50-1/2025 que pronosticó viento moderado a fuerte en precordillera y cordillera; y el Aviso A230/2025 por viento normal a moderado en litoral de región. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Del mismo modo, la DMC mediante la actualización de su Aviso Meteorológico A222-2/2025, da por finalizada la condición que pronosticó viento normal a moderado en la precordillera y cordillera de la región.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la</strong><strong>Alerta Temprana Preventiva regional por viento</strong>, que se mantuvo vigente desde el 14 de junio de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "737c2c21-a7dd-49e2-9485-936d06cdd2ff",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la Región de Aysén por evento meteorológico",
+	"fechaHora": "2025-02-24T11:18:00.000-03:00",
+	"createdAt": "2025-02-24T14:20:56.810Z",
+	"updatedAt": "2025-02-24T14:22:00.814Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-evento-meteorologico-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados la Alerta Meteorológica AA18/2025 y el Aviso Meteorológico A54-2/2025, los cuales pronosticaban respectivamente, precipitaciones moderadas a fuertes en corto periodo de tiempo en la zona de la Cordillera Austral Norte y precipitaciones normales a moderadas en la zona de la Cordillera Austral Norte de la región. Lo anterior, debido al debilitamiento de las condiciones que los originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva&nbsp;</strong><strong>Regional</strong></span><strong><span style=\"color:black\">, </span><span style=\"color:black\">por evento meteorológico</span></strong><span style=\"color:black\">, la que se mantuvo vigente desde el 19 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

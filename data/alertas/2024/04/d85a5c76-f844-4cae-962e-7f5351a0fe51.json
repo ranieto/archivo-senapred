@@ -1,0 +1,20 @@
+{
+	"id": "d85a5c76-f844-4cae-962e-7f5351a0fe51",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Atacama por altas temperaturas",
+	"fechaHora": "2024-04-15T17:31:36.3636-04:00",
+	"createdAt": "2024-04-15T21:33:32.514Z",
+	"updatedAt": "2024-04-17T22:51:25.371Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-3",
+	"parentId": "f5abe9f2-3a4f-4657-be75-537a11d32c41",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A93/2024</p></td><td><p style=\"text-align:justify\">Altas   temperaturas en sectores de litoral, cordillera de la costa y valles, pampa y   precordillera de la región.</p></td><td><p style=\"text-align:center\">16-04</p></td><td><p style=\"text-align:center\">17-04</p></td></tr></tbody></table><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional por altas temperaturas</strong>, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><em><strong><span style=\"color: black\">SENAPRED</span></strong>&nbsp;recomienda a la población evitar exponerse al sol durante las horas centrales del día (11:00 a 17:00 hrs.máxima radiación ultravioleta); y vigilar la temperatura corporal y condición de niños/as y adultos mayores, ya que dichos grupos suelen deshidratarse con facilidad.</em></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

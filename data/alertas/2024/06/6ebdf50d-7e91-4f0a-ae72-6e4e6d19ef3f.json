@@ -1,0 +1,20 @@
+{
+	"id": "6ebdf50d-7e91-4f0a-ae72-6e4e6d19ef3f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Los Ángeles por amenaza de desborde",
+	"fechaHora": "2024-06-22T15:59:00.000-04:00",
+	"createdAt": "2024-06-22T20:01:37.901Z",
+	"updatedAt": "2024-06-22T20:01:55.326Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-amenaza-de-desborde-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA), </strong>se indica que la estación de red fluviométrica “Estero Paillihue”, en la comuna de Los Ángeles, se encuentra sin umbral de alerta y una tendencia a la baja en su caudal, lo cual también ha podido ser confirmado por personal municipal en terreno.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para la comuna de Los Ángeles,</strong> que se mantenía vigente desde el 20 de junio.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

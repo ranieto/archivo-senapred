@@ -1,0 +1,20 @@
+{
+	"id": "ef735bb5-ac57-4132-b787-33eda44c0082",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento masivo",
+	"fechaHora": "2025-09-22T13:35:00.000-03:00",
+	"createdAt": "2025-09-22T16:39:25.810Z",
+	"updatedAt": "2025-09-22T16:39:46.382Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, se informa la finalización de las actividades asociadas a los distintos eventos masivos y celebraciones de Fiestas Patrias en la región. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo</strong>, que se encontraba vigente desde el 15 de septiembre. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9e4c445f-a6d9-41e8-9a7c-f923cbb78559",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las comunas de Toltén, Teodoro Schmidt, Pucón y Curarrehue por evento meteorológico",
+	"fechaHora": "2023-09-18T12:06:00.000-03:00",
+	"createdAt": "2023-09-18T15:14:35.260Z",
+	"updatedAt": "2023-09-22T13:04:34.151Z",
+	"urlAccess": "monitoreo-alerta-roja-para-las-comunas-de-tolten-teodoro-schmidt-pucon-y-curarrehue-por-evento-meteorologico",
+	"parentId": "2f1188eb-7806-4a3f-9698-2852de17be0a",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Toltén, Teodoro Schmidt, Pucón, Curarrehue\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED La Araucanía</strong>, respecto a la remoción en masa ocurrida en cercanías de la ruta S-965 (Curarrehue – Reigolil), comuna de Curarrehue, se informa que se realizó la evacuación preventiva de 4 personas hacia vivienda de familiares. Asimismo, se registran 2 personas fallecidas, 1 desaparecida, 2 viviendas (1 de ellas deshabitada) y 1 iglesia con daños por evaluar.<br></p><p>Cabe mencionar que, se mantiene la interrupción de conectividad de la ruta. Por otro lado, aproximadamente 100 clientes se encuentran sin servicio del suministro eléctrico en el sector.</p><p>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja </strong>para las comunas de Toltén, Teodoro Schmidt, Pucón y Curarrehue, por evento meteorológico, que se encuentra vigente desde el 15 de septiembre.</p><p>En el lugar se encuentra establecido un puesto de mando, donde se encuentran trabajando Delegado Presidencial Regional; Directora Regional de SENAPRED; personal municipal de Curarrehue con apoyo de maquinaria pesada; personal municipal de Pucón; Bomberos de Curarrehue, Pucón, Pitrufquén, Lican Ray, Villarrica y Freire; Carabineros junto a GOPE; 1 ambulancia del SAMU; personal de la empresa eléctrica CGE; voluntarios y lugareños.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

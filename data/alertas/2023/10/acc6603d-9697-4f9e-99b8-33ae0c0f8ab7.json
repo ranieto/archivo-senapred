@@ -1,0 +1,20 @@
+{
+	"id": "acc6603d-9697-4f9e-99b8-33ae0c0f8ab7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
+	"fechaHora": "2023-10-26T11:42:00.000-03:00",
+	"createdAt": "2023-10-26T14:44:24.862Z",
+	"updatedAt": "2023-10-26T14:44:58.861Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones meteorológicas que los originaron, <strong>han sido cancelados los siguientes alertamientos técnicos</strong> para la Región de Magallanes:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><strong>Alerta   AA71</strong></p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte en zonas de la región.</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso   A396</strong></p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en zonas de la región.</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso   A409</strong></p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en zonas de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la la Alerta Temprana Preventiva Regional </strong>por Evento meteorológico, que se mantenía vigente desde el 22 de octubre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

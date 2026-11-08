@@ -1,0 +1,19 @@
+{
+	"id": "d488511e-81da-44ff-98ea-18c458b89db2",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región del Biobío",
+	"fechaHora": "2023-10-21T03:22:41.4141-03:00",
+	"createdAt": "2023-10-21T06:24:05.218Z",
+	"updatedAt": "2023-10-21T06:24:05.218Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-biobio",
+	"parentId": "f6c6d757-bc10-4466-b5e2-532d7d8367db",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 03:01 horas en la Región del Biobío.<br><br>Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Concepción:   </p></td><td><p>IV</p></td></tr><tr><td><p>Coronel:   </p></td><td><p>IV</p></td></tr><tr><td><p>Lota:   </p></td><td><p>IV</p></td></tr><tr><td><p>Hualpén:   </p></td><td><p>III</p></td></tr><tr><td><p>Talcahuano:   </p></td><td><p>III</p></td></tr></tbody></table><p><br>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br><br>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.1 y se localizó a 27 Kms al Oeste de Cabrero<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "43df74c4-d9ce-4944-ac64-9d84446613e4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Rinconada por evento masivo",
+	"fechaHora": "2024-10-12T22:39:00.000-03:00",
+	"createdAt": "2024-10-13T01:41:38.581Z",
+	"updatedAt": "2024-10-13T01:43:06.686Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-rinconada-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Los Andes\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Rinconada\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso</strong>, sin emergencias mayores ha finalizado el evento masivo denominado “Peregrinación Juvenil al Santuario Santa Teresa de Los Andes”, el cual congregó alrededor de 35.000 personas que se desplazaron hacia el santuario, ubicado en la comuna de Rinconada.<br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva para la comuna de Rinconada por evento masivo</strong>, la que se mantuvo vigente desde el 11 de octubre de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

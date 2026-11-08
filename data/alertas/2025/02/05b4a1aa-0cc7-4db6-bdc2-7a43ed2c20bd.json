@@ -1,0 +1,20 @@
+{
+	"id": "05b4a1aa-0cc7-4db6-bdc2-7a43ed2c20bd",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chillán por incendio forestal ",
+	"fechaHora": "2025-02-17T18:38:00.000-03:00",
+	"createdAt": "2025-02-17T21:45:55.269Z",
+	"updatedAt": "2025-02-17T23:47:51.043Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal-4",
+	"parentId": "f2e0ff0c-ab7f-44fe-947e-e0d3a2885318",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chillán\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal para la comuna de Chillán, se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Pataguas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1 hectárea</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos de Chillán, 3 Brigadas de Conaf y 2 avión Cisterna.&nbsp;</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>No se reportan afectaciones en personas ni daños en viviendas en la comuna de Chillán.<br></p></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"font-size: 14px\">​<br></span></div><p><span style=\"font-size: 14px\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED). De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p><div style=\"text-align: justify\"><div style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Chillán por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></div><div style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41);font-size: 14px\"><br></span></div><span style=\"font-size: 14px\">​<br></span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

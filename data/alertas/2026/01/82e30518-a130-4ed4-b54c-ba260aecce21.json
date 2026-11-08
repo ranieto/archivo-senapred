@@ -1,0 +1,20 @@
+{
+	"id": "82e30518-a130-4ed4-b54c-ba260aecce21",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la Región del Biobío por calor extremo",
+	"fechaHora": "2026-01-03T19:05:00.000-03:00",
+	"createdAt": "2026-01-03T22:07:33.521Z",
+	"updatedAt": "2026-01-03T22:07:49.449Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-calor-intenso-2025-12-28-10-28-17",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>fue cancelado el siguiente alertamiento meteorológico para la Región del Biobío, </span><span style=\"font-size:15px;color:black\">debido al debilitamiento de las condiciones meteorológicas que lo originaron. </span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A498-7</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas en cordillera de la costa, valle y precordillera de   la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Asimismo, y acorde a lo indicado en el Pronóstico Meteorológico Público de la DMC, se espera que las temperaturas máximas previstas para los próximos días bajen a rangos normales para la región.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por calor extremo</strong>, que se mantuvo vigente desde el 29 de diciembre de 2025.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Cabe señalar, que se mantiene la Alerta Temprana Preventiva entre las regiones de Arica y Parinacota y Los Lagos por calor, vigente desde el 02 de noviembre de 2025 hasta el 31 de marzo del 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

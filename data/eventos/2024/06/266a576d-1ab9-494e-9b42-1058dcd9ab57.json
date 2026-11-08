@@ -1,0 +1,20 @@
+{
+	"id": "266a576d-1ab9-494e-9b42-1058dcd9ab57",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2024-06-01T07:04:13.1313-04:00",
+	"createdAt": "2024-06-01T11:05:21.946Z",
+	"updatedAt": "2024-06-01T11:18:03.165Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-24",
+	"parentId": "a47b28e1-d3af-41b6-a4e6-53336f1dd785",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">Un sismo de menor intensidad se percibió a las 06:54 horas en las regiones de Tarapacá y Antofagasta.</span><br></p><p><span style=\"font-size: 14px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><span style=\"font-size: 14px\"><strong>Región:   Tarapacá </strong></span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Iquique:   </span></p></td><td><p><span style=\"font-size: 14px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Alto   Hospicio : </span></p></td><td><p><span style=\"font-size: 14px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Huara   : </span></p></td><td><p><span style=\"font-size: 14px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Camiña   : </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Pica   : </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">La   Tirana: </span></p></td><td><p><span style=\"font-size: 14px\">II</span></p></td></tr><tr><td colspan=\"2\"><p><span style=\"font-size: 14px\"><strong>Región:   Antofagasta </strong></span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">María   Elena: </span></p></td><td><p><span style=\"font-size: 14px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Tocopilla:   </span></p></td><td><p><span style=\"font-size: 14px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Calama:   </span></p></td><td><p><span style=\"font-size: 14px\">IV</span></p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size: 14px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p><p style=\"margin-left:0cm\"><span style=\"font-size: 14px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.5 y se localizó a 64 Kms al Suroeste de Mina Collahuasi.</span></p><p style=\"margin-left:0cm\"><span style=\"font-size: 14px\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "e4fd855b-320b-4e0a-a42e-5f479499c310",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Quirihue por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-10T18:35:28.196Z",
+	"updatedAt": "2025-01-10T18:36:32.795Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quirihue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de Quirihue con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF, que señala lo siguiente:</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>La Quebrada</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Quirihue (La Quebrada)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>4 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>6 brigadas CONAF, 2 técnicos CONAF, 2 aviones cisterna y 1 helicóptero.</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio se desarrolla cercano a sectores poblados.</div></td></tr></tbody></table><p>Esta declaración estará vigente a contar de la hora del presente informe y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

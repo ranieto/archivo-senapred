@@ -1,0 +1,20 @@
+{
+	"id": "39816241-35b1-4a7d-94f7-034250618827",
+	"type": "Alerta",
+	"titulo": "Se modifica variable de Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2025-11-09T10:30:17.1717-03:00",
+	"createdAt": "2025-11-09T13:31:26.423Z",
+	"updatedAt": "2025-11-10T13:54:19.339Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-22",
+	"parentId": "abaa570e-7e15-42b1-bd19-e0152aa62f1a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA96</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas con probabilidad de granizos en la región.</p></td><td><p style=\"text-align:center\">09-11</p></td><td><p style=\"text-align:center\">09-11</p></td></tr></tbody></table><p style=\"text-align:justify\">Asimismo, fueron cancelados los Avisos Meteorológicos A435 y A437-1 por probable desarrollo de nubes convectivas con características tornádicas y probables tormentas eléctricas, debido al debilitamiento de las condiciones meteorológicas que los originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>modifica la variable de la Alerta Temprana Preventiva regional a tormentas eléctricas</strong></span><strong><span style=\"color:black\">, </span></strong><span style=\"color:black\">la cual se encuentra vigente desde el 07 de noviembre y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

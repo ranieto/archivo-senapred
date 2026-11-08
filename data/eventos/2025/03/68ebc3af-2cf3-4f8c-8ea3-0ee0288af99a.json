@@ -1,0 +1,21 @@
+{
+	"id": "68ebc3af-2cf3-4f8c-8ea3-0ee0288af99a",
+	"type": "Evento",
+	"titulo": " Sismo de mediana intensidad en las regiones de Ñuble, Biobío y Araucanía",
+	"fechaHora": "2025-03-24T00:47:00.000-03:00",
+	"createdAt": "2025-03-24T03:49:10.346Z",
+	"updatedAt": "2025-03-24T03:53:37.798Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-uble-y-biobio",
+	"parentId": "aa92c072-bfa4-4c0d-a30d-2e9152594df7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía, Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">Un sismo de mediana intensidad se percibió a las 00:38 horas en las regiones de Ñuble, Biobío y Araucanía.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Chiguayante:   </p></td><td><p>V</p></td></tr><tr><td><p>Hualpén:   </p></td><td><p>V</p></td></tr><tr><td><p>San   Pedro de la Paz: </p></td><td><p>V</p></td></tr><tr><td><p>Lota:   </p></td><td><p>V</p></td></tr><tr><td><p>Concepción:   </p></td><td><p>IV</p></td></tr><tr><td><p>Santa   Juana: </p></td><td><p>IV</p></td></tr><tr><td><p>Talcahuano:   </p></td><td><p>IV</p></td></tr><tr><td><p>Los   Ángeles: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Angol:   </p></td><td><p>IV</p></td></tr><tr><td><p>Purén:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Bulnes:   </p></td><td><p>IV</p></td></tr><tr><td><p>Quillón:   </p></td><td><p>III</p></td></tr><tr><td><p>Yungay:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.6 y se localizó a 38 Kms al Oeste de Coronel. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

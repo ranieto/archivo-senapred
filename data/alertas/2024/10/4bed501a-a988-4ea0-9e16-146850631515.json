@@ -1,0 +1,20 @@
+{
+	"id": "4bed501a-a988-4ea0-9e16-146850631515",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Camarones por remoción en masa",
+	"fechaHora": "2024-10-04T19:37:48.4848-03:00",
+	"createdAt": "2024-10-04T22:38:32.233Z",
+	"updatedAt": "2024-11-07T18:47:12.691Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "f4e85fe1-2611-434f-b7d2-7b5bd9824661",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, respecto a los continuos deslizamientos de rocas en la Ruta 5 Norte, sector Cuesta Cultura Chinchorro, se informa que la ruta se encontrará operativa hasta las 20:00 horas de hoy, para todo tipo de vehículos, y será habilitada nuevamente a las 08:00 de mañana, si las condiciones así lo permiten.&nbsp;&nbsp;<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla por remoción en masa para la comuna de Camarones,</strong> la que se mantiene vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Durante la presente jornada Vialidad realizó detonaciones en la ruta y procedió al despeje de la vía en la localidad de Cuya, normalizando paulatinamente el tránsito en el sector.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Han trabajado en el lugar Carabineros, Vialidad y equipo regional de SENAPRED. Mientras que, se realizó la contratación de servicios de baños químicos desde la Región de Tarapacá; servicios de tronadura para el despeje de la ruta; habilitación de albergue en la ciudad de Arica para Pasajeros de Perú - Santiago; se efectuó la entrega de agua embotellada para la población y se abastece de un camión Aljibe de agua potable desde la localidad de Huara.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, se realizaron COGRID en las comunas de Arica y Camarones. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

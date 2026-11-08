@@ -1,0 +1,20 @@
+{
+	"id": "f66af563-5b72-4681-beca-c3426ce1f06b",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Valparaíso y Metropolitana",
+	"fechaHora": "2024-02-02T21:51:44.4444-03:00",
+	"createdAt": "2024-02-03T00:52:19.970Z",
+	"updatedAt": "2024-02-03T00:56:01.330Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-valparaiso-y-metropolitana",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 21:49 horas en las regiones de Valparaíso y Metropolitana.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quillota:   </p></td><td><p>V</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Santiago:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "8cc064b0-86a8-4f27-8bd6-9e348bea49d2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región del Maule por crecida",
+	"fechaHora": "2026-07-27T06:41:47.4747-04:00",
+	"createdAt": "2026-07-27T10:43:41.022Z",
+	"updatedAt": "2026-08-04T22:34:15.633Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-07-26-23-32-23",
+	"parentId": "a53fb430-0586-4317-8757-465297193210",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo reportan un incremento en los valores de caudal, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua:</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Estación hidrométrica</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Umbral</strong></span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rio   Perquilauquén en San Manuel</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Achibueno en la Recova</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   El Melado en el Salto</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Maule en Armerillo</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Palos en junta con Colorado</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Asimismo, se indica que las condiciones meteorológicas son favorables para que continúe el aumento de caudales en los diferentes afluentes de la región.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por crecida,</strong> que se mantenía vigente desde el 26 de julio. Del mismo modo, hoy 27 de julio fue modificada la cobertura de la Alerta Roja por desborde para la Región del Maule, integrando la totalidad del territorio bajo esta alerta que se encuentra vigente desde el 25 de julio de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

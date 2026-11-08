@@ -1,0 +1,20 @@
+{
+	"id": "e475114e-6f3c-424f-a983-2839a392e41d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Quilpué por incendio forestal",
+	"fechaHora": "2024-01-10T21:10:00.000-03:00",
+	"createdAt": "2024-01-11T00:19:46.550Z",
+	"updatedAt": "2024-01-16T13:58:13.966Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quilpue-por-incendio-forestal",
+	"parentId": "6b46843e-62f3-40db-b9d0-498cbdf6fb52",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Quilpué\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), </span></strong><span style=\"color: rgb(33, 37, 41)\">respecto al incendio forestal en la comuna de Quilpué, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><div>Los Yuyos</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>95.0 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Activo en todos sus sectores con intensidad media</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos involucrados</strong></p></td><td><div>13 brigadas de CONAF; 4 técnicos de CONAF, 6 aeronaves de CONAF, 2 camión aljibe municipal, 10 camión aljibe CONAF, Carabineros, SAMU, Delegada Presidencial Provincial de Marga Marga y personal municipal de Quilpué.<br></div></td></tr></tbody></table></div><div><br></div><div>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la comuna de Quilpué</strong>&nbsp;por incendio forestal, que se encuentra vigente desde el 10 de enero de 2024.</div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

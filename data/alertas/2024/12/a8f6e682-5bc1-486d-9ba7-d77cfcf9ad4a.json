@@ -1,0 +1,20 @@
+{
+	"id": "a8f6e682-5bc1-486d-9ba7-d77cfcf9ad4a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Machalí por incendio forestal",
+	"fechaHora": "2024-12-24T19:45:00.000-03:00",
+	"createdAt": "2024-12-24T22:59:17.120Z",
+	"updatedAt": "2024-12-24T22:59:39.887Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-machali-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;en relación al incendio forestal en la comuna de Machalí indica:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Los Peumos</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.7 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Machalí, por incendio forestal, que se mantuvo vigente desde el 24 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "f24fb10a-cbc5-4123-bf7b-e57499f285b9",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Ñuble y Biobío",
+	"fechaHora": "2026-01-01T10:30:00.000-03:00",
+	"createdAt": "2026-01-01T13:33:01.374Z",
+	"updatedAt": "2026-01-01T13:35:28.674Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-biobio-2026-01-01-10-30-18",
+	"parentId": "4bad513b-77f5-4a50-8ef9-da69212031a7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>​<span style=\"color: rgb(0, 0, 0);font-size: 16px\">Un sismo de menor intensidad se percibió a las 10:27 horas en regiones de Ñuble y Biobío. Las intensidades en escala de Mercalli son:&nbsp;</span></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Concepción:   </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Chillán:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

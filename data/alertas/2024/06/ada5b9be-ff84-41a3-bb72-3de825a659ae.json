@@ -1,0 +1,20 @@
+{
+	"id": "ada5b9be-ff84-41a3-bb72-3de825a659ae",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Carahue por amenaza de desborde",
+	"fechaHora": "2024-06-26T08:25:35.3535-04:00",
+	"createdAt": "2024-06-26T12:26:33.070Z",
+	"updatedAt": "2024-06-26T12:27:05.729Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-carahue-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Carahue\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Imperial” en la comuna de Carahue, se encuentran en valores de umbral Azul con tendencia a la baja de sus caudales.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para la comuna de Carahue</strong>, que se mantuvo vigente desde el 24 de junio del 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

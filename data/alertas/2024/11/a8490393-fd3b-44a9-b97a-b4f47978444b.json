@@ -1,0 +1,20 @@
+{
+	"id": "a8490393-fd3b-44a9-b97a-b4f47978444b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Hijuelas por incendio forestal",
+	"fechaHora": "2024-11-22T14:05:00.000-03:00",
+	"createdAt": "2024-11-22T17:12:01.547Z",
+	"updatedAt": "2024-11-25T23:57:11.975Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-hijuelas-por-incendio-forestal",
+	"parentId": "04377f8f-34b5-458b-b3ea-9f27760371fa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf&nbsp;</span></strong><span style=\"color: black\">respecto al incendio en la comuna de Hijuelas indica:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Oasis La Campana 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>en combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectárea</p></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>6 brigadas, 2 técnicos y 8 aeronaves de CONAF; Bomberos de Hijuelas</div></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Se desarrolla evacuación de sector El Trigal de Condominio Oasis La Campana</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED&nbsp;<strong>declara Alerta Amarilla para la comuna de Hijuelas por incendio forestal</strong>, vigente a contar de hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

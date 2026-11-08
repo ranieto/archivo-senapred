@@ -1,0 +1,22 @@
+{
+	"id": "604bfa50-ab51-422d-914b-61bd51911d92",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad entre las regiones de Maule y Araucanía",
+	"fechaHora": "2024-08-18T19:40:26.2626-04:00",
+	"createdAt": "2024-08-18T23:41:23.584Z",
+	"updatedAt": "2024-08-18T23:56:42.361Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-uble-y-biobio",
+	"parentId": "25234a5d-742e-4453-9a9f-2b2764eb0561",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía, Región del Maule, Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 19:32 horas entre las regiones de Maule y Araucanía.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Cauquenes:   </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Concepción:   </p></td><td><p>IV</p></td></tr><tr><td><p>Talcahuano:   </p></td><td><p>IV</p></td></tr><tr><td><p>Hualpén:   </p></td><td><p>IV</p></td></tr><tr><td><p>Arauco:   </p></td><td><p>IV</p></td></tr><tr><td><p>San   Pedro de la Paz: </p></td><td><p>III</p></td></tr><tr><td><p>Hualqui:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Renaico:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Quillón:   </p></td><td><p>V</p></td></tr><tr><td><p>Coelemu:   </p></td><td><p>IV</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.4 y se localizó a 67 Kms al Noroeste de Lebu. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

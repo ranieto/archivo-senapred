@@ -1,0 +1,21 @@
+{
+	"id": "fbb7c3f2-3932-4746-b890-d06afc4cb845",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Arica, Tarapacá y Antofagasta",
+	"fechaHora": "2025-05-25T23:59:00.000-04:00",
+	"createdAt": "2025-05-26T04:00:16.088Z",
+	"updatedAt": "2025-05-26T04:05:34.042Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-65",
+	"parentId": "b39680fc-7dce-4be8-9a68-3891c07104aa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de mediana intensidad se percibió a las 23:51 horas en las regiones de Arica, Tarapacá y Antofagasta. Las intensidades en escala de Mercalli son:&nbsp;</span></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Codpa:   </p></td><td><p>V</p></td></tr><tr><td><p>Cuya:   </p></td><td><p>V</p></td></tr><tr><td><p>Arica   : </p></td><td><p>IV</p></td></tr><tr><td><p>San   Miguel de Azapa: </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapacá</strong></p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>IV</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Mejillones:   </p></td><td><p>IV</p></td></tr><tr><td><p>Tocopilla:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental.</span></p><p></p><p style=\"text-align:justify\"><span style=\"color:black\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.6 y se localizó a <span style=\"font-size: 16px\">42 Kms al Suroeste de Camiña</span>.</span></p><p>​</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4f11f71b-7456-4f6b-af94-6b61831c6d93",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en Regiones de Arica y Tarapacá ",
+	"fechaHora": "2024-06-04T05:43:55.5555-04:00",
+	"createdAt": "2024-06-04T09:45:00.191Z",
+	"updatedAt": "2024-06-04T09:54:45.591Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-arica-y-parinacota",
+	"parentId": "61b2f09d-25e2-4b76-b59c-c285e4c0a8ac",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p>La <em>Unidad Nacional de Alerta Temprana</em> reporta información del siguiente evento sísmico <br><br><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>04/06/2024   - 05:37</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>04/06/2024   - 05:42</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>IV   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>108-B</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Camiña   : </p></td><td><p>IV</p></td></tr><tr><td><p>Huara   : </p></td><td><p>III</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Información preliminar del Sistema Automático de Sismos, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>4.5</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -19.13<br>   Longitud: -69.36</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>21   Kms al Norte de Camiña</p></td></tr><tr><td><p>Región:   </p></td><td><p>Tarapaca</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>156.1</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

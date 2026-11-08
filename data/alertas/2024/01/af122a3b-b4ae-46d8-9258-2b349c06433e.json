@@ -1,0 +1,20 @@
+{
+	"id": "af122a3b-b4ae-46d8-9258-2b349c06433e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Ovalle por incendio forestal ",
+	"fechaHora": "2024-01-14T18:57:00.000-03:00",
+	"createdAt": "2024-01-14T21:59:36.729Z",
+	"updatedAt": "2024-01-14T21:59:58.918Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal Tabalí, en la comuna de Ovalle, se informa los siguiente:<span style=\"color: rgb(0, 0, 0)\">​<br></span></p><table><tbody><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Tabalí</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.96 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Las condiciones   que propiciaron el presente alertamiento ya no se encuentran vigentes.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Ovalle, por incendio forestal, que se mantuvo vigente desde el 14 de enero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

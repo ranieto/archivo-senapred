@@ -1,0 +1,19 @@
+{
+	"id": "1360881a-568a-4d78-b613-d3270fe7fad1",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la región de Tarapacá",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-12-09T16:39:54.722Z",
+	"updatedAt": "2024-12-09T16:50:49.339Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-tarapaca",
+	"parentId": "8a057939-f854-4426-8e20-5ad40321ed36",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad fue percibido a las 13:27 en la Región de Tarapacá.<br></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Cuya:   </p></td><td><p>IV</p></td></tr><tr><td><p>Arica   : </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>V</p></td></tr><tr><td><p>Pica   : </p></td><td><p>V</p></td></tr><tr><td><p>Mamiña:   </p></td><td><p>IV</p></td></tr><tr><td><p>Pisagua:   </p></td><td><p>III</p></td></tr><tr><td><p>Huara   : </p></td><td><p>III</p></td></tr><tr><td><p>La   Tirana: </p></td><td><p>III</p></td></tr><tr><td><p>Camiña   : </p></td><td><p>II</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile <br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. <br><br> Información preliminar del Sistema Automático de Sismos, CSN.<br><br></p>",
+	"variableInformateEventosId": "dcc38dbb-00cf-4474-ab9e-201e55a87531"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4e3dd172-1154-4607-8f03-20dfafe8aa69",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las Provincias de Valparaíso y Marga Marga por incendio forestal",
+	"fechaHora": "2024-03-13T21:45:00.000-03:00",
+	"createdAt": "2024-03-14T19:06:01.574Z",
+	"updatedAt": "2024-03-17T00:48:48.489Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-5",
+	"parentId": "76b77de1-050e-4c20-93a4-083b9855302d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal Cerro Cordillera se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Cerro   Cordillera</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio   cercano a sectores poblados.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Cabe señalar, que a las 21:36 horas se activó la mensajería SAE para reforzar el proceso de evacuación en el sector Chaparro Alto.</span></p><p><span style=\"color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para las Provincias de Valparaíso y Marga Marga, por incendio forestal, que se encuentra vigente desde el 02 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

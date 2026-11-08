@@ -1,0 +1,21 @@
+{
+	"id": "438770af-3454-44f6-8a81-858135ee9e94",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla, para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica",
+	"fechaHora": "2023-12-07T18:34:23.2323-03:00",
+	"createdAt": "2023-12-07T21:35:59.570Z",
+	"updatedAt": "2024-01-12T10:06:10.967Z",
+	"urlAccess": "monitoreo-alerta-amarilla-para-las-comunas-de-villarrica-pucon-y-curarrehue-en-la-region-de-la-araucania-y-para-la-comuna-de-panguipulli-en-la-region-de-los-rios-por-actividad-del-volcan-villarrica-3",
+	"parentId": "060631e9-39b2-49c1-90f8-c3ae62e1e6c8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Cautín, Valdivia\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Panguipulli, Pucón, Villarrica\",\"regiones\":\"Región de la Araucanía, Región de los Ríos\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p><strong><span style=\"font-family:Roboto;color:black\">De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS</span></strong><span style=\"font-family: Roboto;color: black\">) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Villarrica mantiene la alerta técnica en nivel Amarilla[1].</span><br></p><p><span style=\"font-family:Roboto;color:black\">En relación con el último Reporte de Actividad Volcánica (RAV), que evaluó el periodo comprendido entre el 16 y 30 de noviembre, se informa que se aprecian algunos cambios importantes en su dinámica interna y superficial. Por una parte, la actividad sísmica discreta permaneció con una alta productividad de eventos relacionados con la dinámica de fluidos y el registro de señales acústicas de una mayor energía. Además, se registró incandescencia y la ocurrencia de explosiones estrombolianas, que gatillaron en superficie la dispersión de fragmentos piroclásticos que alcanzaron distancias horizontales desde el centro del cráter hasta 250 metros. Asimismo, se observó hacia el sector noreste del borde del cráter un cambio superficial relacionado con un depósito indiferenciado que alcanzó una distancia de 540 metros. </span></p><p><span style=\"font-family:Roboto;color:black\">Cabe señalar, que lo anteriormente descrito sugiere que continua el accionar del lago de lava ubicado cerca de la superficie, dinámico y con cambios súbitos en su nivel de actividad.</span></p><p><span style=\"font-family:Roboto;color:black\">Para más información del organismo técnico, consultar en https://rnvv.sernageomin.cl/volcan-villarrica/</span></p><p><span style=\"font-family:Roboto;color:black\">En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN y en coordinación con las Delegaciones Presidenciales Regionales, las Direcciones Regionales del SENAPRED La Araucanía y Los Ríos mantienen la Alerta Amarilla, para las comunas de Villarrica, Pucón y Curarrehue en la Región de La Araucanía y para la comuna de Panguipulli en la Región de Los Ríos, por actividad del Volcán Villarrica, que permanece vigente desde el 08 de noviembre de 2022.</span></p><p><span style=\"font-family:Roboto;color:black\">De igual forma, el SENAPRED mantiene el perímetro de seguridad para las regiones de La Araucanía y Los Ríos, de 500 metros en torno al cráter activo, indicando la restricción de acceso a la zona indicada. </span></p><p><span style=\"font-family:Roboto;color:black\">Por su parte, SERNAGEOMIN continúa con la vigilancia permanente del complejo volcánico y las Direcciones Regionales de SENAPRED La Araucanía y Los Ríos, mantendrán las coordinaciones con los integrantes del SINAPRED para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

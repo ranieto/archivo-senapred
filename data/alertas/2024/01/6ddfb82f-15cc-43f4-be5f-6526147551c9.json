@@ -1,0 +1,20 @@
+{
+	"id": "6ddfb82f-15cc-43f4-be5f-6526147551c9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Comuna de Los Ángeles por incendio forestal",
+	"fechaHora": "2024-01-14T19:29:00.000-03:00",
+	"createdAt": "2024-01-14T22:41:05.050Z",
+	"updatedAt": "2024-01-15T14:37:31.502Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-incendio-forestal",
+	"parentId": "cfbfd9e7-ea5f-42f3-8c9e-cf523e08e885",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio Chacayal Sur, en la comuna de Los Ángeles, se informa los siguiente:<span style=\"color: rgb(0, 0, 0)\">​<br></span></p><table><tbody><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Chacayal Sur</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1,5 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio se desarrolla   cercano a sectores habitados y activo en todos sus sectores, con intensidad y   propagación media a alta, presentando salto de pavesas.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la dirección Regional de SENAPRED declara ˊ Alerta Amarilla para la Comuna de Los Ángeles por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

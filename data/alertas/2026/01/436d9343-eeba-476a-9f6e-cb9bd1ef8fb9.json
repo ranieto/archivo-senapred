@@ -1,0 +1,20 @@
+{
+	"id": "436d9343-eeba-476a-9f6e-cb9bd1ef8fb9",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Collipulli por incendio forestal",
+	"fechaHora": "2026-01-19T02:09:00.000-03:00",
+	"createdAt": "2026-01-19T05:28:05.742Z",
+	"updatedAt": "2026-08-10T21:04:24.749Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-collipulli-por-incendio-forestal-2026-01-17-21-32-38",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Collipulli, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Santa Cruz - Pan Grande</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">657 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Cuerpo de bomberos de Bomberos   Collipulli, 6 brigadas de CONAF, 9 técnicos de CONAF, 1 Aviones cisterna de   CONAF, 2 Helicóptero de CONAF, 1 Puesto de comando CONAF y 2 BRIFES.</p><p style=\"text-align:justify\">Programación para el día   19-01-2026: 1 Técnico, 1 Puesto de comando, 3 Brigadas Terrestres, 2 BRIFES   del Ejército, 2 Skidder y 1 PC Ambulancia.</p></td></tr></tbody></table><p style=\"text-align:justify\">Mensaje SAE enviado:</p><p style=\"text-align:justify\">17-01-2026 17:31 horas sector Salto Caillin.</p><p style=\"text-align:justify\">Recursos Gestionados para las BRIFES: 54 botellas de agua de 1.6 litros y 54 raciones de combate de 12 horas.</p><p style=\"text-align:justify\">Recursos gestionados para la Municipalidad: 40 Colchones, 40 Juegos de sábanas, 40 almohadas y 80 frazadas.</p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Collipulli, por incendio forestal, que se encuentra vigente desde el 17 de enero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

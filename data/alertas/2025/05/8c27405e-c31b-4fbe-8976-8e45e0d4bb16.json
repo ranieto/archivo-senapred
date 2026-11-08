@@ -1,0 +1,20 @@
+{
+	"id": "8c27405e-c31b-4fbe-8976-8e45e0d4bb16",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Ríos por evento meteorológico",
+	"fechaHora": "2025-05-18T11:20:25.2525-04:00",
+	"createdAt": "2025-05-18T15:45:06.800Z",
+	"updatedAt": "2025-05-18T15:47:13.872Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-meteorologico-10",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguientes alertamiento meteorológico para la Región de Los Ríos:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   37</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en litoral, cordillera de la costa, valle, precordillera   y cordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\">Asimismo, han sido modificadas las coberturas territoriales de los siguientes alertamientos, los cuales ya no consideran a la Región de Los Ríos como parte de ellos:</p><table><tbody><tr><td><p><strong><span style=\"color:black\">Alertamiento actualizado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Cobertura   territorial</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA34-3</p></td><td><p style=\"text-align:justify\">Entre las regiones   del Maule y Biobío.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A167-5</p></td><td><p style=\"text-align:justify\">Entre las regiones   de Valparaíso y Biobío.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A172-1</p></td><td><p style=\"text-align:justify\">Región de Aysén</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por evento meteorológico</strong>, que se mantenía vigente desde el 15 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

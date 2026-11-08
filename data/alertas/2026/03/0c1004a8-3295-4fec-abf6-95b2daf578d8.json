@@ -1,0 +1,20 @@
+{
+	"id": "0c1004a8-3295-4fec-abf6-95b2daf578d8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-03-11T16:00:41.4141-03:00",
+	"createdAt": "2026-03-11T19:02:21.598Z",
+	"updatedAt": "2026-03-25T17:55:07.121Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-03-11-16-02-01",
+	"parentId": "01cd2078-b2ca-4810-abd9-3b81da61997a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 16px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento para la Región de Los Lagos:</span></p><p><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><strong>Inicio</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><strong>Fin</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\">Aviso   A112</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\">Precipitaciones   normales a moderadas en litoral, cordillera de la costa, cordillera, litoral   interior, cordillera austral y patagonia subandina (entre 55 y 75 mm).</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\">14-03</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\">15-03</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\">Por otra parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la Minuta Técnica por Peligro de Remociones en Masa, emitida hoy 11 de marzo, indica que la posibilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos, caídas de rocas) es <strong>Alta </strong>en litoral, cordillera de la costa, cordillera, litoral interior, cordillera austral y patagonia subandina y <strong>Baja </strong>en valle longitudinal, precordillera y Chiloé de la región.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 16px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional por evento meteorológico,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 16px\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

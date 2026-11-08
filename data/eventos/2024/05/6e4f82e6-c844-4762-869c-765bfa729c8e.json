@@ -1,0 +1,19 @@
+{
+	"id": "6e4f82e6-c844-4762-869c-765bfa729c8e",
+	"type": "Evento",
+	"titulo": "Incendio estructural, Comuna de Santiago (Cierre de evento)",
+	"fechaHora": "2024-05-09T20:20:34.3434-04:00",
+	"createdAt": "2024-05-10T00:23:17.476Z",
+	"updatedAt": "2024-05-10T00:23:17.476Z",
+	"urlAccess": "incendio-estructural-comuna-de-santiago-cierre-de-evento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Santiago\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Metropolitana</span></strong><span style=\"color: black\">, en relación con el incendio estructural ocurrido en bodegas ubicadas en cercanía de la intersección de las calles Exposición y Fray Luis de la Peña en la comuna de Santiago, se informa que la emergencia se encuentra finalizada por parte de Bomberos.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de este incendio se reportaron 2 bodegas con daño mayor y 1 vehículo menor destruido. Por otro lado, no se registraron personas lesionadas ni otras emergencias derivadas de este evento.</span></p><p style=\"text-align:justify\">Trabajaron en el lugar Bomberos de Santiago, Quinta Normal y Ñuñoa con apoyo de una ambulancia institucional, Carabineros y personal municipal con apoyo de 2 camiones aljibe.<br></p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

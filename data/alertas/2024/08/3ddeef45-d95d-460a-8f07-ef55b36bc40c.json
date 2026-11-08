@@ -1,0 +1,20 @@
+{
+	"id": "3ddeef45-d95d-460a-8f07-ef55b36bc40c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la comuna de Torres del Paine por heladas",
+	"fechaHora": "2024-08-20T12:46:00.000-04:00",
+	"createdAt": "2024-08-20T16:55:51.559Z",
+	"updatedAt": "2024-08-23T22:15:33.803Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-heladas",
+	"parentId": "fb24b482-fa5c-4cf2-8f91-c7340824e6e2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Torres del Paine\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A314</p></td><td><p style=\"text-align:justify\">Heladas   normales a moderadas con formación de hielo en Pampa Patagónica Norte.</p></td><td><p style=\"text-align:center\">21-08</p></td><td><p style=\"text-align:center\">22-08</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, según lo indicado en el pronóstico especial emitido por el Centro Meteorológico Regional Austral de la DMC, las temperaturas mínimas esperadas (°C) son las siguientes:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Comuna</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Miércoles 21 de agosto</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Jueves 22 de agosto</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Torres   del Paine</p></td><td><p style=\"text-align:center\">-8</p></td><td><p style=\"text-align:center\">-7</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen un aumento del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional de SENAPRED <strong>declara Alerta Temprana Preventiva por heladas para la comuna de Torres del Paine</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><em><strong><span style=\"color: rgb(0, 0, 0)\">SENAPRED&nbsp;</span></strong><span style=\"color: rgb(0, 0, 0)\">recomienda a la población vestir adecuadamente con ropa de abrigo, utilizando calzado cerrado y manteniendo manos, cuello y cabeza protegidos; evitar cambios bruscos de temperatura, recordando cubrir nariz y boca al momento de salir desde un lugar temperado; y no exponer al frío a niños, ancianos y enfermos crónicos.</span></em><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

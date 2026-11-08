@@ -1,0 +1,20 @@
+{
+	"id": "bc728dcf-6b0a-4067-98e1-6bdd7816976a",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Roja para la comuna de Collipulli por incendio forestal",
+	"fechaHora": "2025-02-25T12:34:15.1515-03:00",
+	"createdAt": "2025-02-25T15:38:04.444Z",
+	"updatedAt": "2025-02-26T01:29:02.119Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-collipulli-por-incendio-forestal-5",
+	"parentId": "8dea16ac-4c13-490e-8566-d5e6bd9a6866",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Collipulli\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Collipulli&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Pan Grande</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>209 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 Brigadas de CONAF, Brigadas CMPC y 1 técnico de CONAF</p></td></tr></tbody></table><p><br>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPREDmantiene la Alerta Roja para la Comuna de Collipulli, por incendio forestal, que se encuentra vigente desdeel 24 de febrero de 2025.<br></p><p>Cabe mencionar, que no se han registrado otras situaciones de emergencia, ni afectación a raíz del evento.Por otra parte, la región mantiene alerta amarilla para las comunas de Cholchol y Pitrufquén por incendioforestal<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

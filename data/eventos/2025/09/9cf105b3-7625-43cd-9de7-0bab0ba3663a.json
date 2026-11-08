@@ -1,0 +1,19 @@
+{
+	"id": "9cf105b3-7625-43cd-9de7-0bab0ba3663a",
+	"type": "Evento",
+	"titulo": "Incendio forestal, comuna de Linares (información preliminar)",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-09-07T17:51:23.040Z",
+	"updatedAt": "2025-09-07T17:54:45.907Z",
+	"urlAccess": "incendio-forestal-comuna-de-linares-informacion-preliminar",
+	"parentId": "950d4f2b-f0c2-44cf-8ba1-348e0c732ed4",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información preliminar entregada por la Dirección Regional de Senapred Maule, CONAF y Carabineros, se reportan focos de incendio forestal en el sector Cerro Medina, 3 kilómetros al Este, desde el Embalse Ancoa, comuna de Linares.</p><p>Al momento, no se reportan personas lesionadas o amenaza a centros poblados y/o infraestructuras críticas del sector.</p><p>Recursos en trayecto: 1 técnico de CONAF y personal de Carabineros.</p>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

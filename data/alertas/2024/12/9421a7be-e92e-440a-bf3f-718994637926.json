@@ -1,0 +1,20 @@
+{
+	"id": "9421a7be-e92e-440a-bf3f-718994637926",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2024-12-24T21:05:00.000-03:00",
+	"createdAt": "2024-12-25T00:11:46.199Z",
+	"updatedAt": "2024-12-27T23:22:12.329Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal",
+	"parentId": "6dd9de10-72b5-4b6a-8405-c9a9e7862e4f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Cauquenes\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Cauquenes\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"font-size: 16px\"> se informa el siguiente detalle respecto del incendio forestal “La Raya”, en la comuna de Cauquenes:</span></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Raya</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>250   hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Cauquenes, 8 Brigadas CONAF, 5 Forestal Arauco, 3 Técnicos CONAF, 6   Aviones Cisterna CONAF, 5 helicópteros CONAF, 2 Aviones Cisterna Forestal   Arauco, 2 helicópteros Forestal Arauco, 2 Tankeros CONAF</p><p style=\"text-align:justify\">Otros   recursos: 1 Skidder CONAF, 1 Skidder Forestal Arauco, 1 Aljibe</p><p style=\"text-align:justify\">Recursos   en trayecto: Bomberos de Chanco, Linares y Pelluhue.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Cauquenes, por incendio forestal, que se encuentra vigente desde el 24 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

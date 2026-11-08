@@ -1,0 +1,19 @@
+{
+	"id": "aca3777f-55de-4387-8f52-bfed243df8a9",
+	"type": "Evento",
+	"titulo": "Accidente Aéreo, Comuna de Freire (información preliminar)",
+	"fechaHora": "2025-01-20T19:05:00.000-03:00",
+	"createdAt": "2025-01-20T22:18:35.129Z",
+	"updatedAt": "2025-01-21T00:22:15.868Z",
+	"urlAccess": "accidente-aereo-comuna-de-freire-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Freire\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía, se informa de un accidente aéreo que involucra una aeronave menor con 4 ocupantes en el sector rural agrícola Mar Rojo, al sur del Aeropuerto Araucanía en la comuna de Freire.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento se evalúa la cantidad de personas lesionadas.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Trabajan en el lugar Bomberos, Carabineros y SAMU.</span></p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

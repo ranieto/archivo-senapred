@@ -1,0 +1,20 @@
+{
+	"id": "94141932-7851-4f7f-b390-65a9fcfe6548",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Camarones por remoción en masa",
+	"fechaHora": "2024-10-06T15:34:20.2020-03:00",
+	"createdAt": "2024-10-06T18:39:58.448Z",
+	"updatedAt": "2024-11-21T10:44:59.646Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "1e8d86c7-9008-4b9a-a296-181df11d744f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>La información proporcionada por la Dirección Regional de SENAPRED Arica y Parinacota, respecto a los continuos deslizamientos de rocas en la Ruta 5 Norte, sector Cuesta Cultura Chinchorro; indica que a las 12:30 horas de hoy se registró un nuevo deslizamiento de rocas en la Ruta 5 Norte.<br></p><p style=\"text-align:justify\">Cabe señalar que, la ruta se encontraba con tránsito vehicular regulado, sin embargo, producto de este nuevo deslizamiento el tránsito se mantendrá suspendido en ambos sentidos.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional de SENAPRED <strong>mantiene Alerta Amarilla por remoción en masa para la comuna de Camarones,</strong> vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar Carabineros y empresa SOCOVIAL.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar que, producto de este evento se han realizado 3 COGRID del nivel Regional y 3 del nivel comunal. Por otra parte, se mantiene la contratación de baños químicos, así como la habilitación del albergue en la ciudad de Arica, el cual se encuentra sin ocupantes. Además, se mantiene el abastecimiento de agua potable mediante camión aljibe en la localidad de Huara y fue gestionada la entrega de alimentos vía marítima hacia la Caleta Camarones. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

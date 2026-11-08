@@ -1,0 +1,20 @@
+{
+	"id": "1e831f71-5b79-40c3-a91c-b8925dba992f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Coquimbo por incendio forestal",
+	"fechaHora": "2024-01-04T20:32:00.000-03:00",
+	"createdAt": "2024-01-04T23:33:28.080Z",
+	"updatedAt": "2024-01-04T23:34:26.763Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-coquimbo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Coquimbo\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto del incendio forestal que se desarrolló en la comuna de Coquimbo se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Los Jardines.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.01 hectárea.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos</strong></p></td><td><p style=\"text-align:justify\">No   existen las condiciones que propiciaron el alertamiento.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por incendio forestal para la comuna de Coquimbo</strong>, que se mantuvo vigente durante hoy 04 de enero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

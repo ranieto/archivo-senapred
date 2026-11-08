@@ -1,0 +1,20 @@
+{
+	"id": "3cbdb400-19ef-4c82-a64b-bb2e66baa1c8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de San Javier por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-02-04T21:54:31.597Z",
+	"updatedAt": "2024-02-04T22:27:11.824Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-javier-por-incendio-forestal",
+	"parentId": "f31d4074-cbd1-46df-9ccd-2df9c2e45475",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Javier\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo c</span></strong><span style=\"color: black\">on <strong>la información proporcionada por CONAF</strong>, </span><span style=\"color: black\">se reporta el siguiente detalle para el incendio forestal Vado La Patagua 4, en la comuna de Sam Javier:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"color:black\">Vado La Patagua 4</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a   sectores poblados.</p></td></tr><tr><td><p><strong>Recursos desplegados</strong></p></td><td><p>3 brigadas de Conaf, 1 técnico de Conaf,   1 helicóptero de Conaf, 2 aviones de Conaf y 1 camión aljibe de Conaf.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de San Javier por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

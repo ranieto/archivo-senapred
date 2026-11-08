@@ -1,0 +1,20 @@
+{
+	"id": "748e417d-3777-4b10-9431-c4a5a38c8a07",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Maule por amenaza de incendios forestales",
+	"fechaHora": "2026-03-06T18:31:00.000-03:00",
+	"createdAt": "2026-03-06T22:11:37.158Z",
+	"updatedAt": "2026-03-06T22:12:21.397Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-amenaza-de-incendios-forestales-2026-02-05-18-15-20",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por CONAF Maule informan del término de las variables de riesgo que dieron origen a su declaración, según el análisis por parte de CONAF.<br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de Maule, por amenaza de incendios forestales, que se mantuvo vigente desde el 05 de febrero de 2026.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

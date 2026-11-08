@@ -1,0 +1,20 @@
+{
+	"id": "0ca85764-a8c3-4f87-96f8-fde42a4195ba",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la Región de Maule por calor extremo",
+	"fechaHora": "2026-01-20T08:25:00.000-03:00",
+	"createdAt": "2026-01-20T11:49:50.028Z",
+	"updatedAt": "2026-01-20T11:50:09.377Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-del-maule-por-calor-extremo-2026-01-16-10-16-37",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA10-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de altas temperaturas extremas en cordillera de la costa, valle   y precordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por calor extremo, </strong>que se mantuvo vigente desde el viernes 16 de enero.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que se mantiene Alerta Temprana Preventiva por calor para la Región del Maule, vigente desde el 02 de noviembre de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

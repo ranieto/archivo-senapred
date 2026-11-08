@@ -1,0 +1,20 @@
+{
+	"id": "06fda002-0d62-4e05-bd61-6205b7e0c1c0",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Arica y Parinacota y Tarapacá",
+	"fechaHora": "2024-03-07T14:09:23.2323-03:00",
+	"createdAt": "2024-03-07T17:10:16.788Z",
+	"updatedAt": "2024-03-07T17:14:44.156Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-15",
+	"parentId": "890caf54-f4f6-43a2-b1a0-01b92f505c84",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">14:05 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en las regiones de Arica y Parinacota y Tarapacá.&nbsp;</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>IV</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>IV</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br></p><p><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

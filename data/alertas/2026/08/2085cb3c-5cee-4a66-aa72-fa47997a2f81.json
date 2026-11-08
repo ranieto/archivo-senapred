@@ -1,0 +1,20 @@
+{
+	"id": "2085cb3c-5cee-4a66-aa72-fa47997a2f81",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la comuna de Concepciónpor desborde",
+	"fechaHora": "2026-08-31T12:01:00.000-04:00",
+	"createdAt": "2026-08-31T16:23:58.447Z",
+	"updatedAt": "2026-08-31T16:24:08.922Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-crecida-2026-08-29-13-41-27",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por Dirección General de Aguas (DGA),</strong> la estación de la red fluviométrica del&nbsp;<strong>“Río Andalién antes del Ex peaje Chaimávida”</strong> ubicada en la comuna de Concepción, indica una disminución en su caudal, sin encontrarse en umbral de alerta técnica, lo que supone una disminución del riesgo asociado a esta variable.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja para la comuna de Concepción&nbsp;</strong><strong>por desborde</strong>, que se mantenía vigente desde el 29 de agosto de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

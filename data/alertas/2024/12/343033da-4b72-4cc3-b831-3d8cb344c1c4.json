@@ -1,0 +1,20 @@
+{
+	"id": "343033da-4b72-4cc3-b831-3d8cb344c1c4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Provincias de San Felipe y Los Andes por Calor intenso",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-12-21T17:33:14.831Z",
+	"updatedAt": "2024-12-21T17:34:08.602Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincias-de-san-felipe-y-los-andes-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Felipe de Aconcagua, Los Andes\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Los Andes, San Felipe\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Valparaíso:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA88-1</p></td><td><p style=\"text-align:justify\">Altas temperaturas   extremas para precordillera y valles precordilleranos de la región.</p></td><td><p style=\"text-align:center\">22-12</p></td><td><p style=\"text-align:center\">22-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, la DMC indica las temperaturas máximas en la región durante los próximos días serán las siguientes:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Sábado 21 de diciembre</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Domingo 22 de diciembre</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Provincia San Felipe y Los   Andes</p></td><td><p style=\"text-align:center\">34 °C</p></td><td><p style=\"text-align:center\">35 °C</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la Provincias de San Felipe y Los Andes por Calor intenso, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

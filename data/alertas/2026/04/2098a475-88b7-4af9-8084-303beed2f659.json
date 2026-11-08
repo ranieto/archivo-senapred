@@ -1,0 +1,20 @@
+{
+	"id": "2098a475-88b7-4af9-8084-303beed2f659",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-04-14T22:22:14.1414-04:00",
+	"createdAt": "2026-04-15T02:23:33.147Z",
+	"updatedAt": "2026-04-15T02:25:29.721Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-04-10-17-45-21",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se ha cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><p><span style=\"color: black\"><br></span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A175-2</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en Litoral, Chiloé y litoral interior.</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, los montos pronosticados de precipitaciones (mm) para los próximos días en la región, son de categoría débil a normal.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, el aviso de marejadas normales desde Golfo de Penas hasta Constitución ha finalizado la vigencia correspondiente a las condiciones de mar, lo que supone una disminución del riesgo asociado a esta variable. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico,</strong> que se mantuvo vigente desde el 10 de abril de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

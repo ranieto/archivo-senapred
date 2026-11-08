@@ -1,0 +1,20 @@
+{
+	"id": "6302cfdc-0b2e-4d3b-9a1b-63a574734d01",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+	"fechaHora": "2025-09-09T20:29:19.1919-03:00",
+	"createdAt": "2025-09-09T23:30:22.382Z",
+	"updatedAt": "2025-09-10T15:39:08.666Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-taltal-mejillones-y-tocopilla-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelado los siguientes alertamientos meteorológicos para la Región de Antofagasta, debido al debilitamiento de las condiciones que lo originaron:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A343-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad tormentas de arena en litoral y pampa.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A346-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en pampa y precordillera.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico,</strong> que se mantuvo vigente desde el 1 de septiembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

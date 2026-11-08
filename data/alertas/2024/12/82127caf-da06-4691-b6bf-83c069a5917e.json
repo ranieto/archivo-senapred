@@ -1,0 +1,20 @@
+{
+	"id": "82127caf-da06-4691-b6bf-83c069a5917e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2024-12-19T17:55:00.000-03:00",
+	"createdAt": "2024-12-19T21:41:39.715Z",
+	"updatedAt": "2024-12-22T19:41:57.716Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2",
+	"parentId": "3db16aa3-1356-475b-badc-38dbaadce93c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de <strong>Linares </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los Guayes</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.02 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 brigadas y 3 técnicos de Conaf; 6   avionetas cisterna y 2 helicópteros de Conaf.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal con amenaza   inminente a área silvestre protegida sitio Prioritario de Conservación Cajón   de Pejerreyes.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Linares por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

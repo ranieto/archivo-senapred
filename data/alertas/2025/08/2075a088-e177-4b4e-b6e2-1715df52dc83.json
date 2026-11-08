@@ -1,0 +1,20 @@
+{
+	"id": "2075a088-e177-4b4e-b6e2-1715df52dc83",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por nevadas",
+	"fechaHora": "2025-08-03T10:39:49.4949-04:00",
+	"createdAt": "2025-08-03T14:41:10.606Z",
+	"updatedAt": "2025-08-03T14:41:13.824Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-nevadas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Nevadas\",\"nombreImg\":\"nevadas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso A297/2025 que pronosticaba nevadas en zonas de valle y precordillera de la Región de La Araucanía. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por nevadas</strong>, que se mantuvo vigente desde el 02 de agosto de 2025.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\">SENAPRED </span><span style=\"color: rgb(0, 0, 0);font-size: 15px\">recomienda a la población limpiar la nieve acumulada en techumbres y estructuras que puedan colapsar debido al peso adicional; y mantener despejados los caminos de acceso a viviendas.</span><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "10cc82c8-9c32-4296-9667-ad2b1a10f5a4"
+}

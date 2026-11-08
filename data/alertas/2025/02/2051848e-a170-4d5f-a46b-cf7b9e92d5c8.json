@@ -1,0 +1,20 @@
+{
+	"id": "2051848e-a170-4d5f-a46b-cf7b9e92d5c8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Victoria por incendio forestal",
+	"fechaHora": "2025-02-06T18:39:58.5858-03:00",
+	"createdAt": "2025-02-06T21:41:11.733Z",
+	"updatedAt": "2025-02-17T23:30:18.913Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-victoria-por-incendio-forestal-2",
+	"parentId": "383693c8-8a5a-4b8d-9b59-1c984fac836c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto a los incendios forestales en la <strong>comuna de Victoria </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Bayotoro,   Las Cardas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>25 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Victoria; 2 brigadas y 2   técnicos de Conaf; 3 aeronaves de Conaf</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Cullinco 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>176   hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>8   brigadas y 3 técnicos; 1 helicóptero de Conaf</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio   cercano a sectores poblados</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Producto de estos incendios se activó mensajería SAE para evacuación de los sectores Las Cardas y Bayotoro. </span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Victoria, por incendio forestal, que se encuentra vigente desde el 05 de febrero de 2025.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Cabe señalar, que se mantiene Alerta Roja para las comunas de Galvarino y Collipulli por incendio forestal y Alerta Amarilla para el resto de la región por incendios forestales.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

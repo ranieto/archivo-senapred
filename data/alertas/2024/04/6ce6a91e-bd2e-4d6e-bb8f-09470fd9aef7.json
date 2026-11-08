@@ -1,0 +1,20 @@
+{
+	"id": "6ce6a91e-bd2e-4d6e-bb8f-09470fd9aef7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Yerbas Buenas por evento masivo",
+	"fechaHora": "2024-04-21T10:10:00.000-04:00",
+	"createdAt": "2024-04-21T14:12:02.724Z",
+	"updatedAt": "2024-04-21T14:12:39.884Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-yerbas-buenas-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Yerbas Buenas\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule</strong>, respecto del evento denominado “Aniversario de la comuna de Yerbas Buenas”, se informa que este finalizó con normalidad y sin reportar situaciones de emergencia en el ámbito de la Gestión del Riesgo de Desastres.<br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva, para la comuna de Yerbas Buenas por</strong><strong>evento masivo,</strong> que se mantuvo vigente desde el 19</span> de abril de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

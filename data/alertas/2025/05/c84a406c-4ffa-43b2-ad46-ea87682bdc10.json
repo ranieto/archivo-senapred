@@ -1,0 +1,20 @@
+{
+	"id": "c84a406c-4ffa-43b2-ad46-ea87682bdc10",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Magallanes y la comuna de Natales por evento meteorológico",
+	"fechaHora": "2025-05-07T17:39:00.000-04:00",
+	"createdAt": "2025-05-07T22:20:39.158Z",
+	"updatedAt": "2025-05-07T22:21:20.724Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-magallanes-y-la-comuna-de-natales-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelada la Alerta Meteorológica AA32/2025, que pronosticaba precipitaciones moderadas a fuertes en corto periodo de tiempo en las comunas de Laguna Blanca, Río Verde y Punta Arenas.</p><p style=\"text-align:justify\">Del mismo modo, han sido cancelados los Avisos A153/2025 por precipitaciones normales a moderadas y A159/2025 por probables tormentas eléctricas en diversas zonas de la Región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento meteorológico para la Provincia de Magallanes y la comuna de Natales, </strong>que se mantuvovigente desde el 04 de mayo de 2025</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

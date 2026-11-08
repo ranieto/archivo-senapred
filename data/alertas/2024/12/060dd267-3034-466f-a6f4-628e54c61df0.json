@@ -1,0 +1,20 @@
+{
+	"id": "060dd267-3034-466f-a6f4-628e54c61df0",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2024-12-26T14:09:33.3333-03:00",
+	"createdAt": "2024-12-26T17:16:01.537Z",
+	"updatedAt": "2024-12-27T23:22:12.031Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal",
+	"parentId": "6dd9de10-72b5-4b6a-8405-c9a9e7862e4f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio Forestal \"La Raya\", de la comuna de Cauquenes, se encuentra en estado Controlado.</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Raya</p></td></tr><tr><td><div><strong>Comuna (sector)</strong></div></td><td><div>Cauquenes</div></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.271 hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">CONAF: 9 Brigadas, 6 técnicos, 4 Skidder, 2 camiones cisterna y 4 aeronaves.</p><p style=\"text-align: justify\">Forestal Arauco: 3 brigadas y 1 técnico</p><p style=\"text-align: justify\">BRIFE Maule:&nbsp;2 brigadas</p><p style=\"text-align: justify\">Otros recursos: 1 puesto de mando, 2 personal municipal de Cauquenes y 1 ambulancia ACHS.</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Cauquenes por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

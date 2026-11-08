@@ -1,0 +1,19 @@
+{
+	"id": "4795bbef-457e-4253-987b-87ede516b7be",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2023-12-03T21:09:44.4444-03:00",
+	"createdAt": "2023-12-04T00:10:19.284Z",
+	"updatedAt": "2023-12-04T00:15:54.729Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-16",
+	"parentId": "1325d2dd-0a18-49cc-98d6-db6c3eef9945",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">21:02 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de Atacama.</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>III</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>II</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED<br></p><p><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.4 localizado a</span> 41 Kms al Sur de Alto del Carmen</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

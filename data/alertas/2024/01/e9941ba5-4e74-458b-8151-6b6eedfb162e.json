@@ -1,0 +1,20 @@
+{
+	"id": "e9941ba5-4e74-458b-8151-6b6eedfb162e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chonchi por incendio forestal",
+	"fechaHora": "2024-01-25T21:49:00.000-03:00",
+	"createdAt": "2024-01-26T01:17:23.870Z",
+	"updatedAt": "2024-01-26T01:17:38.616Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal \"Nalhuitad Escuela\", en la comuna de Chonchi, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Nalhuitad Escuela</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6,7 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Incendio forestal controlado, sin amenaza a   viviendas del sector.</span></p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Chonchi, por incendio forestal, que se mantuvo vigente desde el 23 de enero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

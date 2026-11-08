@@ -1,0 +1,20 @@
+{
+	"id": "b3c17cf2-b3b7-49a6-ba8d-18ba63a087ff",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Biobío por amenaza de incendios forestales",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-19T13:34:35.361Z",
+	"updatedAt": "2025-01-19T13:38:15.802Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-biobio-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Debido a las condiciones meteorológicas adversas pronosticadas para la Región del Biobío, según las proyecciones, se esperan vientos máximos superiores a 25 km/h en gran parte de la región, junto con un descenso significativo de la humedad relativa por debajo del 20% y una humedad del combustible fino muerto inferior al 6%.</p><p>Estas condiciones generan un escenario altamente favorable para la ocurrencia y propagación de incendios forestales. Además, de acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el Aviso Meteorológico A22-1/2025, que advierte sobre un evento de altas temperaturas en los sectores del Litoral, cordillera de la costa, el valle y la precordillera de la Región del Biobío, este fenómeno está previsto desde la tarde del domingo 19 hasta la tarde del lunes 20 de enero.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten. </p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

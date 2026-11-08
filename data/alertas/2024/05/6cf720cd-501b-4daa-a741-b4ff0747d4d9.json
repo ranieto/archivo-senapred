@@ -1,0 +1,21 @@
+{
+	"id": "6cf720cd-501b-4daa-a741-b4ff0747d4d9",
+	"type": "Alerta",
+	"titulo": "Sismo de mediana intensidad en la Regiones de Valparaíso y Metropolitana ",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-05-18T09:37:55.993Z",
+	"updatedAt": "2024-05-18T09:41:30.367Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-regiones-de-valparaiso-y-metropolitana",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size:16px\">​<u>Observaciones</u><br><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental.<br><br></span></p><p>La <em>Unidad Nacional de Alerta Temprana</em> reporta información del siguiente evento sísmico <br><br><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>18/05/2024   - 05:29</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>18/05/2024   - 05:35</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>IV   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>101-B</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Limache   : </p></td><td><p>IV</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>III</p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Macul:   </p></td><td><p>II</p></td></tr><tr><td><p>Santiago:   </p></td><td><p>II</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Información preliminar del Sistema Automático de Sismos, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>4.2</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -32.88<br>   Longitud: -70.95</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>28   Kms al Este de Quillota</p></td></tr><tr><td><p>Región:   </p></td><td><p>Valparaíso</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>69.8</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "a0b481da-127e-414b-99c0-39ae8cd7051f"
+}

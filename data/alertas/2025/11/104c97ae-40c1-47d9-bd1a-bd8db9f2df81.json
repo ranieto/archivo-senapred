@@ -1,0 +1,20 @@
+{
+	"id": "104c97ae-40c1-47d9-bd1a-bd8db9f2df81",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Arica y Parinacota por viento",
+	"fechaHora": "2025-11-19T18:00:07.077-03:00",
+	"createdAt": "2025-11-19T21:01:12.820Z",
+	"updatedAt": "2025-11-19T21:01:59.543Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-arica-por-viento-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A452</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado con probabilidad de tormentas de arena en el litoral de la región   (entre 25 y 40 km/h).</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para la Provincia de Arica</strong></span><span style=\"color:black\">, que se mantuvo</span><span style=\"color:black\">vigente desde el 17 de noviembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

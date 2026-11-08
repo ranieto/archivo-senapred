@@ -1,0 +1,20 @@
+{
+	"id": "0baa4c2c-7b7d-479e-b00e-5b3062f9f1d6",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Teno por incendio forestal",
+	"fechaHora": "2026-02-17T18:50:00.000-03:00",
+	"createdAt": "2026-02-17T22:36:54.026Z",
+	"updatedAt": "2026-02-18T05:31:31.594Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-teno-por-incendio-forestal-2026-02-17-16-58-05",
+	"parentId": "2a96f910-a378-45b2-8c1f-5dab78bb29aa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;respecto al incendio forestal en la comuna de Teno se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\">Nombre del incendio</a></p></td><td><p>Cuesta El Peral</p></td></tr><tr><td><p>Estado</p></td><td><p>En combate</p></td></tr><tr><td><p>Superficie</p></td><td><p>20 (ha)</p></td></tr><tr><td><p>Recursos</p></td><td><p>Bomberos de Teno, Rauco, Romeral, Molina, Sagrada Familia   y Curicó; 5 brigadas y 1 técnico de Conaf; 6 Aeronaves, 2 camiones Aljibe de   Conaf, Delegación Presidencial de Curicó, UGRD Municipalidad de Teno y   Carabineros.</p></td></tr><tr><td><p>Observaciones</p></td><td><p>Incendio se encuentra cercano a sectores poblados.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Teno, por incendio forestal, que se encuentra vigente desde el 17 de febrero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

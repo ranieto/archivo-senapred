@@ -1,0 +1,20 @@
+{
+	"id": "eb50f839-cdf9-48bd-bb69-b1a83e33ad64",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por tormentas eléctricas",
+	"fechaHora": "2025-11-29T20:51:55.5555-03:00",
+	"createdAt": "2025-11-29T23:52:55.098Z",
+	"updatedAt": "2025-11-29T23:54:14.106Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la </span><span style=\"color: black\">Región de Antofagasta</span><span style=\"color: black\">, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A456</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas asociadas con chubascos aislados, en cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la provincia de El Loa y las comunas de Antofagasta y Taltal por tormentas eléctricas</strong></span><span style=\"color:black\">, que se mantuvo&nbsp;</span><span style=\"color:black\">vigente desde el 26 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

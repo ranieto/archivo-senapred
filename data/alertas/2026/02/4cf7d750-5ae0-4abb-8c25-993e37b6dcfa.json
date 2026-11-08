@@ -1,0 +1,20 @@
+{
+	"id": "4cf7d750-5ae0-4abb-8c25-993e37b6dcfa",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Machalí por incendio forestal",
+	"fechaHora": "2026-02-11T18:17:38.3838-03:00",
+	"createdAt": "2026-02-11T21:23:48.097Z",
+	"updatedAt": "2026-02-13T15:00:51.707Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-machali-por-incendio-forestal-2026-02-11-14-43-11",
+	"parentId": "2bbf6b60-264a-4b9d-ae90-6558bd506f20",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED,</strong> se reporta un incendio forestal con el siguiente detalle:<br><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Perales</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">30 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Cuerpo de bomberos de Machalí; 7   brigadas; 6 técnicos; 6 helicópteros CONAF; 4 avión cisterna CONAF; 1 camión aljibe;   1 puesto de mando; 1 helicóptero pesado SENAPRED en trayecto.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td class=\"se-table-selected-cell\"><p style=\"text-align:justify\">No se reportan afectaciones en   personas ni daños en viviendas en la comuna de Machalí.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED O’Higgins mantiene la Alerta Roja para la comuna de Machalí, por incendio forestal, que se encuentra vigente desde el 11 de febrero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

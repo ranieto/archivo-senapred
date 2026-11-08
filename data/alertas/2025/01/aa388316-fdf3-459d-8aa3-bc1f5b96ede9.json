@@ -1,0 +1,20 @@
+{
+	"id": "aa388316-fdf3-459d-8aa3-bc1f5b96ede9",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Coyhaique por incendio forestal",
+	"fechaHora": "2025-01-17T17:51:00.000-03:00",
+	"createdAt": "2025-01-17T20:53:48.246Z",
+	"updatedAt": "2025-01-20T19:45:49.178Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-coyhaique-por-incendio-forestal",
+	"parentId": "4f6e04cb-6a56-4405-84c3-77ee0a419fb2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo </span><strong>con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"color: black\">&nbsp;respecto del incendio forestal que se encuentra en la comuna de Coyhaique se reporta lo siguiente:</span></p><p style=\"text-align:justify\"></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Sector   Los Chochos</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En   combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1.0   hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">El   incendio se desarrolla en el sector del Cementerio Baquedano, parte   posterior, hacia el Río Coyhaique. Al momento, se mantiene con rápida   propagación por lo que han sido evacuadas 11 viviendas y se ha dispuesto 1   albergue municipal para recibir personas. Del mismo modo, se informa de 1   persona lesionada (bombero).</span></p></td></tr></tbody></table><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Coyhaique, por incendio forestal, que se encuentra vigente desde el 17 de enero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

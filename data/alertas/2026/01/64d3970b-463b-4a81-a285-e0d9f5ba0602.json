@@ -1,0 +1,20 @@
+{
+	"id": "64d3970b-463b-4a81-a285-e0d9f5ba0602",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna deTirúa por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-13T19:25:51.984Z",
+	"updatedAt": "2026-01-13T19:27:53.696Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-detirua-por-incendio-forestal-2026-01-13-16-25-34",
+	"parentId": "2872e62b-3aef-48a0-8bd6-37189f955fa7",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Tirúa\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong><span style=\"color: rgb(0, 0, 0)\">respecto al incendio forestal en la&nbsp;</span><strong>comuna de Tirúa,&nbsp;</strong><span style=\"color: rgb(0, 0, 0)\">se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">360-Tranicura</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">4 (ha)</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color:#000000\">1 Compañía del cuerpo de Bomberos de Tirúa y 2 vehículos,&nbsp;</span>6 Brigadas terrestres,&nbsp;2 Técnicos,&nbsp;2 aviones cisterna</p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Afectación</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">No se reportan afectaciones en personas ni daños en viviendas en la comuna de Tirúa.</span></p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio presenta cercanía a sectores habitados.</div></td></tr></tbody></table><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Tirúa por incendio forestal, vigente desde hoy y hasta que las<br>condiciones del incendio así lo ameriten.<br></p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

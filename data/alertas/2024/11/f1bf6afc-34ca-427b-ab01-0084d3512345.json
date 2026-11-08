@@ -1,0 +1,20 @@
+{
+	"id": "f1bf6afc-34ca-427b-ab01-0084d3512345",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para varias comunas de la Región Metropolitana",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-11-08T21:52:43.076Z",
+	"updatedAt": "2024-11-08T22:03:09.783Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-varias-comunas-de-la-region-metropolitana",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>La Dirección Regional del SENAPRED, en coordinación con la Delegación Presidencial Regional Metropolitana, declara Alerta Temprana Preventiva para las comunas de Colina, Lo Barnechea, Vitacura, Las Condes, La Reina, Peñalolén, La Florida, Puente Alto, Pirque y San José de Maipo, por tormentas eléctricas, vigente a partir de hoy y hasta que las condiciones meteorológicas así lo ameriten.<br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A424</p></td><td><p style=\"text-align:justify\">Probables tormentas   eléctricas en sectores de valle, precordillera y cordillera de la región,   preferentemente durante la tarde-noche, con precipitaciones aisladas.</p></td><td><p style=\"text-align:center\">09-11</p></td><td><p style=\"text-align:center\">10-11</p></td></tr></tbody></table></div><div>En vista de lo anteriormente expuesto, la Dirección Regional del SENAPRED, en coordinación con la Delegación Presidencial Regional Metropolitana, declara Alerta Temprana Preventiva para las comunas de Colina, Lo Barnechea, Vitacura, Las Condes, La Reina, Peñalolén, La Florida, Puente Alto, Pirque y San José de Maipo, por tormentas eléctricas, vigente a partir de hoy y hasta que las condiciones meteorológicas así lo ameriten.<br></div><div><br></div><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9f252ea2-1fc7-449e-85f8-cfa92466da71",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y se declara Alerta Amarilla para la comuna Curacautín por amenaza de desborde",
+	"fechaHora": "2024-06-13T07:17:10.1010-04:00",
+	"createdAt": "2024-06-13T11:18:36.493Z",
+	"updatedAt": "2024-06-14T10:37:02.489Z",
+	"urlAccess": "se-declara-alerta-roja-en-la-comuna-de-curacautin-por-amenaza-de-desborde",
+	"parentId": "8fa7f1a1-60ae-4157-b6c0-0dfe3b549610",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Blanco”, en la comuna de Curacautín, se encuentra en umbral amarillo con tendencia a la baja.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED de La Araucanía en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Roja y declara Alerta Amarilla por amenaza de desborde para la comuna Curacautín</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\">Cabe mencionar, que se mantiene vigente la Alerta Roja para la comuna de Renaico por amenaza de desborde, y las Alertas Amarilla para la comuna de Collipulli y Purén por amenaza de desborde.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

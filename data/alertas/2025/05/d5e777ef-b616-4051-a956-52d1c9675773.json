@@ -1,0 +1,20 @@
+{
+	"id": "d5e777ef-b616-4051-a956-52d1c9675773",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2025-05-18T16:14:00.000-04:00",
+	"createdAt": "2025-05-18T20:32:34.621Z",
+	"updatedAt": "2025-05-18T23:49:23.091Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-9",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) han sido cancelados los siguientes alertamientos meteorológicos para la Región de Ñuble:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA34-3</p></td><td><p style=\"text-align:justify\">Viento moderado a   fuerte.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A171-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas.</p></td></tr></tbody></table><p style=\"text-align:justify\">Asimismo, ha sido modificada la cobertura territorial del siguiente alertamiento, el cual ya no considera a la Región de Ñuble:</p><table><tbody><tr><td><p><strong><span style=\"color:black\">Alertamiento actualizado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Cobertura   territorial</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A167-7</p></td><td><p style=\"text-align:justify\">Entre las regiones   de Valparaíso y Maule.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por evento meteorológico</strong>, que se mantenía vigente desde el 14 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

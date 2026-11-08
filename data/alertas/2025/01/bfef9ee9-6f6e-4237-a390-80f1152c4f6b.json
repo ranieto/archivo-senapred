@@ -1,0 +1,20 @@
+{
+	"id": "bfef9ee9-6f6e-4237-a390-80f1152c4f6b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de San Carlos por incendio forestal ",
+	"fechaHora": "2025-01-01T20:39:00.000-03:00",
+	"createdAt": "2025-01-01T23:47:34.022Z",
+	"updatedAt": "2025-01-02T01:07:57.891Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-carlos-por-incendio-forestal-2",
+	"parentId": "cac0e28e-b37d-40ae-b807-675a2eeac34a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Punilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Carlos\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de San Carlos , se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Torrecillas </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.01   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Recursos   en trayecto: 5 Brigadas CONAF , 2 técnicos CONAF, 1 Camión de combustible   CONAF y 1 aeronave CONAF .</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de San Carlos con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">Esta declaración estará vigente a contar de la hora del presente informe y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

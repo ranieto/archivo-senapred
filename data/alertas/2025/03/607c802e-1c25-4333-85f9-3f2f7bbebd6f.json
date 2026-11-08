@@ -1,0 +1,20 @@
+{
+	"id": "607c802e-1c25-4333-85f9-3f2f7bbebd6f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2025-03-20T17:40:00.000-03:00",
+	"createdAt": "2025-03-20T21:04:30.212Z",
+	"updatedAt": "2025-03-20T21:05:47.203Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-9",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Las Cabras\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Las Cabras </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los Maquis</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>116 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\">De acuerdo con la información técnica proporcionada por la Corporación Nacional Forestal CONAF, controlado desde las 16:00 horas de hoy se encuentra el incendio forestal \"Los Maquis\", en la comuna de Las Cabras, afectando una superficie de 116 hectáreas de vegetación.</p><p style=\"text-align:justify\">Cabe destacar que, a la hora del presente informe, este incendio no presenta amenaza a viviendas o infraestructura crítica.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Las Cabras por incendio forestal (ATR 74) la que se mantuvo vigente desde el 19 de marzo de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

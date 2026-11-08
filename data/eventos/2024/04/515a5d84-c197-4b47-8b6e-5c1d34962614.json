@@ -1,0 +1,19 @@
+{
+	"id": "515a5d84-c197-4b47-8b6e-5c1d34962614",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región del Maule",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-04-16T04:12:00.492Z",
+	"updatedAt": "2024-04-16T11:57:48.299Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-maule-2",
+	"parentId": "40461299-3d6c-4949-b342-4f0cc7a2b2eb",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 00:08 horas en la Región del Maule.<br></p><p style=\"text-align:justify\">Las intensidades en escala de Mercalli son las siguientes:</p><p style=\"text-align:justify\"></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Talca:   </p></td><td><p>II</p></td></tr></tbody></table><p style=\"text-align:justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b89a8b69-28c0-4072-b3e7-384cd9b2deb7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2026-09-29T11:50:27.2727-03:00",
+	"createdAt": "2026-09-29T14:52:16.712Z",
+	"updatedAt": "2026-09-29T14:53:31.136Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-2026-09-28-12-49-42",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px\"><strong><span style=\"color: black\">Alertamiento</span></strong></span></p></td><td><p><span style=\"font-size: 14px\"><strong><span style=\"color: black\">Pronóstico</span></strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: black;font-size: 14px\">Aviso A510</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: black;font-size: 14px\">Probables   tormentas eléctricas en valle y precordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color: black;font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>Cancela Alerta Temprana Preventiva Regional por tormentas eléctricas,</strong> que se mantuvo vigente desde el 28 de septiembre del 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

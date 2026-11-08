@@ -1,0 +1,20 @@
+{
+	"id": "e5a34fa7-ee17-4311-87c2-cb384faba044",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por viento",
+	"fechaHora": "2025-06-28T18:36:00.000-04:00",
+	"createdAt": "2025-06-28T22:41:56.491Z",
+	"updatedAt": "2025-06-29T17:40:01.023Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2",
+	"parentId": "4c73a1e5-f1e1-461b-bdf6-e1af234a2b12",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá y el Servicio Nacional de Geología y Minería (SERNAGEOMIN), respecto de la remoción en masa ocurrida el día 26 de junio tras las precipitaciones registradas en la localidad de Huatacondo, comuna de Pozo Almonte, se indica que de las 136 viviendas catastradas, 4 resultaron con daño menor y 5 personas afectadas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>mantiene la Alerta TempranaPreventiva para la provincia del Tamarugal por viento</strong>,que se encuentravigente desde el 23 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante el 26 de junio, se realizó un COGRID en la comuna de Pozo Almonte </span><span style=\"color:black\">con la participación de representantes de la Delegación Presidencial Provincial del Tamarugal, SENAPRED, SEREMI de Gobierno y Ministerio de Obras Públicas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar, Bomberos de Pica, Carabineros con apoyo de maquinaria local, personal municipal, Ejército de Chile, equipo Regional de SENAPRED.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la poblacióninformarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

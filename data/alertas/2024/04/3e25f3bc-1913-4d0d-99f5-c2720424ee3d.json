@@ -1,0 +1,20 @@
+{
+	"id": "3e25f3bc-1913-4d0d-99f5-c2720424ee3d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Ñuble por evento meteorológico",
+	"fechaHora": "2024-04-27T15:37:00.000-04:00",
+	"createdAt": "2024-04-27T19:39:22.971Z",
+	"updatedAt": "2024-05-14T22:58:02.832Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-uble-por-evento-meteorologico",
+	"parentId": "29c0df97-5c10-419d-b479-a5f75aa7dc56",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A120</p></td><td><p style=\"text-align:justify\">Nevadas normales a moderadas en Cordillera con   probabilidad de ventisca.</p></td><td><p style=\"text-align:justify\">29-04</p></td><td><p style=\"text-align:justify\">30-04</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A121</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas en Litoral,   Cordillera de la Costa, Valle y Precordillera.</p></td><td><p style=\"text-align:justify\">29-04</p></td><td><p style=\"text-align:justify\">30-04</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED, <strong>declara Alerta Temprana Preventiva Regional por evento meteorológico, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><strong><span style=\"color:black\">SENAPRED</span></strong><span style=\"color:black\">recomienda a la población informarse sobre las condiciones del tiempo; revisar y limpiar el techo y canaletas de las viviendas; mantener las vías de evacuación de aguas lluvias libres de tierra y desperdicios; evitar transitar a pie o en vehículos por zonas o caminos anegados; y evitar internarse en zonas montañosas, ríos, lagos y mar, especialmente cuando las condiciones meteorológicas sean desfavorables.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

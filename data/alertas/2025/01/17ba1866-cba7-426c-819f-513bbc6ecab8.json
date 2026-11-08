@@ -1,0 +1,20 @@
+{
+	"id": "17ba1866-cba7-426c-819f-513bbc6ecab8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las provincias de San Felipe, Los Andes, Petorca y Quillota por calor extremo",
+	"fechaHora": "2025-01-12T21:15:00.000-03:00",
+	"createdAt": "2025-01-13T10:20:26.838Z",
+	"updatedAt": "2025-01-13T10:20:53.771Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-por-calor-intenso-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos asociados a la variable de altas temperaturas para la Región de Valparaíso:</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED,<strong>cancela la Alerta Roja por calor extremo, para las provincias de San Felipe, Los Andes, Petorca y Quillota,</strong>que se mantuvo vigente desde el 10 de enero de 2025.</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Alerta AA3</p></td><td><p style=\"text-align: justify\">Evento de altas temperaturas extremas en cordillera de la costa, precordillera y valles precordilleranos.</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A9-2</p></td><td><p style=\"text-align: justify\">Altas temperaturas en litoral, cordillera de la costa, precordillera y valles precordilleranos.</p></td></tr></tbody></table></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

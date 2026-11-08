@@ -1,0 +1,20 @@
+{
+	"id": "4b542151-5a19-4c85-95e5-a7185356dd47",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Los Álamos por incendio forestal",
+	"fechaHora": "2024-12-24T11:53:06.066-03:00",
+	"createdAt": "2024-12-24T14:56:08.981Z",
+	"updatedAt": "2024-12-24T14:56:25.371Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-alamos-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p><strong>De acuerdo con la</strong>&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;se informa el siguiente detalle respecto del incendio forestal “Pelahuenco V”, en la comuna de Los Álamos:</p><table class=\"se-table-layout-fixed\"><tbody><tr><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p style=\"text-align:justify\">Pelahuenco V</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">500 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Producto de esta emergencia no se generó   afectación. Se evacuo familia de forma preventiva, información entregada en   Alfa N°1. La posta de salud rural Ranquilco no presentó daños de infraestructura   durante la emergencia, por lo cual mantuvo el horario normal de atención.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la comuna de Los Alamos</strong>, por incendio forestal, que se mantuvo vigente desde el 22 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "49bfbca3-301b-443f-b40c-a6d88b784220",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Roja para la Provincia de Marga Marga por incendios forestales",
+	"fechaHora": "2023-12-09T15:50:59.5959-03:00",
+	"createdAt": "2023-12-09T18:52:55.818Z",
+	"updatedAt": "2023-12-15T00:36:23.240Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-limache-por-incendio-forestal",
+	"parentId": "83c41cec-a51b-48a9-a78b-dc10f4b0ab48",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la Provincia de Marga Marga, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cajón de Lebu</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna</strong></p></td><td><p style=\"text-align:justify\">Limache</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">50 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Este incendio   forestal se encuentra cercano a sectores poblados.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">1 técnico, 9 brigadas, 2 helicópteros, 4 aviones y 1   camión aljibe de CONAF; Bomberos de Limache y personal municipal.</p></td></tr></tbody></table></div><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Patagual</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Comuna</strong></p></td><td><p style=\"text-align:justify\">Villa Alemana</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">30 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal cercano a sectores poblados.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">3 técnicos, 6 brigadas, 3 helicópteros, 3 aviones, 1   puesto de mando y 2 camiones aljibe de CONAF; Bomberos de Villa Alemana y   personal municipal.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>modifica cobertura de Alerta Roja para la Provincia de Marga Marga por incendios forestales</strong>, vigente desde el 09 de diciembre de 2023.</p><p style=\"text-align:justify\">Con la <strong>modificación de cobertura de esta Alerta Roja,</strong> se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

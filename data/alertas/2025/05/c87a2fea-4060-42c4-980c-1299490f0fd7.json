@@ -1,0 +1,20 @@
+{
+	"id": "c87a2fea-4060-42c4-980c-1299490f0fd7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla y cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico.",
+	"fechaHora": "2025-05-25T18:07:00.000-04:00",
+	"createdAt": "2025-05-25T22:24:15.878Z",
+	"updatedAt": "2025-05-27T20:41:47.624Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-viento-5",
+	"parentId": "003f0839-8f43-4457-a0d6-f96e8deb01ec",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Puerto Varas\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se mantienen vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos:</span></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: black;font-size: 12px\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black;font-size: 12px\">Pronóstico</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black;font-size: 12px\">Inicio</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black;font-size: 12px\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"font-size: 12px\">Alarma AAA3</span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 12px\">Desarrollo de tornados y trombas marinas en la región.</span></p></td><td><p style=\"text-align: center\"><span style=\"font-size: 12px\">25-05</span></p></td><td><p style=\"text-align: center\"><span style=\"font-size: 12px\">25-05</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"font-size: 12px\">Aviso 183-4</span></p></td><td><p style=\"text-align: justify\">Viento normal a moderado en el litoral, cordillera de la costa, precordillera, Chiloé y litoral interior.</p></td><td><p style=\"text-align: center\">25-05</p></td><td><p style=\"text-align: center\">27-05</p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"font-size: 12px\">Aviso 187-2</span></p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas en el litoral, cordillera de la costa, valle, precordillera, Chiloé y litoral interior.</p></td><td><p style=\"text-align: center\">25-05</p></td><td><p style=\"text-align: center\">25-05</p></td></tr></tbody></table><p style=\"text-align: justify\">Por otra parte, y según la minuta técnica por “Peligro de Remociones en Masa” emitida durante la presente jornada por SERNAGEOMIN, se informa que la probabilidad de ocurrencia de remociones es&nbsp;<strong>moderada&nbsp;</strong>en litoral, cordillera de la costa, precordillera y litoral interior; y&nbsp;<strong>baja&nbsp;</strong>en valle longitudinal, cordillera, Chiloé, cordillera austral y patagonia subandina.</p><p style=\"text-align: justify\"><span style=\"color: black\">Cabe señalar que se mantiene Alerta Roja por evento meteorológico para la comuna de Puerto Varas.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional Los Lagos, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva y declara Alerta Amarilla Regional&nbsp;</strong><strong>por evento meteorológico</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

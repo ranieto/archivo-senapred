@@ -1,0 +1,20 @@
+{
+	"id": "d5a0cf46-056e-40d9-903c-c668b13de7b0",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de Retiro por incendio forestal",
+	"fechaHora": "2026-01-20T19:51:00.000-03:00",
+	"createdAt": "2026-01-20T22:59:52.106Z",
+	"updatedAt": "2026-01-21T01:23:12.023Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-retiro-por-incendio-forestal-2026-01-20-18-56-09",
+	"parentId": "1e75e858-0758-46b6-af14-6a4783efa82b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con la <strong>información técnica proporcionada por Conaf,</strong>&nbsp;respecto al incendio forestal en la comuna de Retiro; se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Nombre del   incendio</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Curacura</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Estado</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Superficie</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">30 (ha)</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Observaciones</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Preliminarmente   se reportan 2 viviendas afectadas.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Retiro, por incendio forestal, que se encuentra vigente desde el 20 de enero de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

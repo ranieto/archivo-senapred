@@ -1,0 +1,20 @@
+{
+	"id": "d1c5230d-06ec-4e26-85a8-ea558dd99e62",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por viento",
+	"fechaHora": "2026-07-22T16:01:00.000-04:00",
+	"createdAt": "2026-07-22T20:33:25.778Z",
+	"updatedAt": "2026-07-30T22:16:27.428Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-viento-2026-07-21-18-46-40",
+	"parentId": "e1ba9e23-49a4-4ff3-86ec-668b6fb48bc1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Ríos:</span></span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Inicio</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Fin</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">Alerta AA106-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Viento moderado a fuerte en Litoral, Cordillera Costa y Cordillera (40   - 60 rachas 90).</span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">23-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">23-07</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">Aviso A342-4</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Viento normal a moderado en Valle y Precordillera (40 - 60 rachas 80).</span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">23-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">23-07</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva regional por viento</strong>, vigente desde el 21 de julio de 2026 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"></span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

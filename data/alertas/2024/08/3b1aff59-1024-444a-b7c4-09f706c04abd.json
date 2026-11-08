@@ -1,0 +1,20 @@
+{
+	"id": "3b1aff59-1024-444a-b7c4-09f706c04abd",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Río Hurtado por incendio forestal",
+	"fechaHora": "2024-08-06T14:35:31.3131-04:00",
+	"createdAt": "2024-08-06T18:36:07.494Z",
+	"updatedAt": "2024-08-06T18:36:58.415Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Río Hurtado\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por CONAF, extinguido se encuentra el incendio forestal “Los&nbsp;Huapis”, que afectó una superficie de 45 hectáreas, en la comuna de Río Hurtado.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela&nbsp;la Alerta Amarilla para la comuna de Río Hurtado, por incendio forestal, que se mantuvo vigente desde el 02 de&nbsp;agosto de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

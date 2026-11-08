@@ -1,0 +1,20 @@
+{
+	"id": "c3f7dbdf-819d-4cda-b27e-446cbeda417d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2024-12-27T15:45:12.1212-03:00",
+	"createdAt": "2024-12-27T18:45:59.777Z",
+	"updatedAt": "2024-12-27T23:22:12.029Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal",
+	"parentId": "6dd9de10-72b5-4b6a-8405-c9a9e7862e4f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la</strong>&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Cauquenes, se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Raya</p></td></tr><tr><td><p><strong>Comuna (sector)</strong></p></td><td><p>Cauquenes</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.271 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 brigadas de Conaf y 2 de empresas forestales; 1 técnico de Conaf y 1 camión cisterna.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio controlado, en faenas de liquidación y extinción</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la comuna de Cauquenes, por incendio forestal, que se encuentra vigente desde el 26 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

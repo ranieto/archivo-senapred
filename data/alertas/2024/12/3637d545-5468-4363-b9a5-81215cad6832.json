@@ -1,0 +1,20 @@
+{
+	"id": "3637d545-5468-4363-b9a5-81215cad6832",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Malleco por tormentas eléctricas",
+	"fechaHora": "2024-12-01T00:09:00.000-03:00",
+	"createdAt": "2024-12-01T03:54:58.595Z",
+	"updatedAt": "2024-12-01T03:56:03.044Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-malleco-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso A446/2024, el cual pronosticaba probables tormentas eléctricas, preferentemente durante la tarde noche con precipitaciones aisladas en la Provincia de Malleco, Región de La Araucanía.&nbsp; Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, lo que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva provincial, por tormentas eléctricas, para la Provincia de Malleco, </strong>la que se mantuvo vigente desde el 29 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

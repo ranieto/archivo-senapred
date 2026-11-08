@@ -1,0 +1,20 @@
+{
+	"id": "a40b2585-7df3-4530-be9e-144b08f05049",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-11-02T19:32:39.3939-03:00",
+	"createdAt": "2024-11-02T22:38:17.993Z",
+	"updatedAt": "2024-11-02T22:40:59.347Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-9",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Valparaíso, indica el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Camino al faro</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.35 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color: black\">5 brigadas, 1 técnico, 4 camiones aljibe y 4 aeronaves de CONAF; Carabineros, 4 unidades de Bomberos de Valparaíso y 1 camión aljibe municipal.</span></p></td></tr></tbody></table><p style=\"text-align: justify\">Producto del incendio desde el camping \"Islote Las Gaviotas\" se evacuó preventivamente a 100 personas, siendo derivadas a sus domicilios.<br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela&nbsp;<strong>Alerta Roja&nbsp;</strong>para la comuna de Valparaíso por incendio forestal, vigente desde hoy.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

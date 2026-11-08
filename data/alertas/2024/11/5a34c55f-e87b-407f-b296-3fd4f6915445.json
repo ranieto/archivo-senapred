@@ -1,0 +1,20 @@
+{
+	"id": "5a34c55f-e87b-407f-b296-3fd4f6915445",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Temprana Preventiva para la comuna de San Gregorio por amenaza de incendios forestales",
+	"fechaHora": "2024-11-18T13:31:26.2626-03:00",
+	"createdAt": "2024-11-18T16:32:43.435Z",
+	"updatedAt": "2024-11-24T14:57:40.927Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-san-gregorio-por-amenaza-de-incendios-forestales",
+	"parentId": "2d2b2338-c140-4d64-b2dc-fc77e179f925",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a los antecedentes proporcionados por la Corporación Nacional Forestal (CONAF),</strong> las condiciones meteorológicas proyectadas entre los días 18 y 23 de noviembre en la comuna de San Gregorio, Región de Magallanes, indican que existen condiciones propicias para la propagación y generación de incendios forestales en la comuna.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes y de la Antártica Chilena, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Comunal, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p><br></p><p>​<span style=\"color: rgb(0, 0, 0);font-size: 15px\"><em><strong>SENAPRED&nbsp;</strong>recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder;no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (<span style=\"color: rgb(5, 99, 193);font-size: 15px\">https://www.senapred.cl/visor-chile-preparado-2/</span>). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).</em></span>​<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

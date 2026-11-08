@@ -1,0 +1,20 @@
+{
+	"id": "f0c1a73b-39a4-4e10-99db-2f2b601fc564",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de San Javier, por incendio forestal",
+	"fechaHora": "2025-01-25T16:51:17.1717-03:00",
+	"createdAt": "2025-01-25T19:51:48.485Z",
+	"updatedAt": "2025-01-28T23:20:48.931Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-javier-por-incendio-forestal-3",
+	"parentId": "1c666371-ddf3-4307-922a-014bc9eeded8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de San Javier se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Villaboro</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1510 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">El incendio presenta velocidad   de propagación media, intensidad del</p><p style=\"text-align:justify\">frente medio y longitud de   llama baja.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de San Javier</strong>, por incendio forestal, que se encuentra vigente desde el 24 de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

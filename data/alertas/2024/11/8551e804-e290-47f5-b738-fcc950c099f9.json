@@ -1,0 +1,20 @@
+{
+	"id": "8551e804-e290-47f5-b738-fcc950c099f9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-11-08T20:57:42.532Z",
+	"updatedAt": "2024-11-08T22:08:07.858Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-10",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En combate se encuentra el incendio forestal denominado Fundo Curaumilla, el cual consume al momento 5hectáreas de vegetación en el sector de Laguna Verde, Región de Valparaíso.Cabe mencionar, que el incendio presenta comportamiento extremo y amenaza directa a viviendas.En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPREDdeclara Alerta Roja para la Comuna de Valparaíso por incendio forestal, vigente desde hoy y hasta que lascondiciones del incendio así lo ameriten.Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento.<br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

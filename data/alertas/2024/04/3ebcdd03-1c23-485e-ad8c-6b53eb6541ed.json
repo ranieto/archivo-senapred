@@ -1,0 +1,20 @@
+{
+	"id": "3ebcdd03-1c23-485e-ad8c-6b53eb6541ed",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-04-12T08:21:00.000-04:00",
+	"createdAt": "2024-04-12T12:24:41.659Z",
+	"updatedAt": "2024-04-12T12:25:00.318Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Tarapacá, debido al debilitamiento de las condiciones que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A82-3</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en cordillera, preferentemente durante la tarde y noche   con precipitaciones aisladas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial de Tarapacá, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva para la Provincia del Tamarugal</strong>, por tormentas eléctricas, que se mantenía vigente desde el 01 de abril de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

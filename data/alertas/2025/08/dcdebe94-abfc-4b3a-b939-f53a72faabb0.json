@@ -1,0 +1,20 @@
+{
+	"id": "dcdebe94-abfc-4b3a-b939-f53a72faabb0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Renaico por crecida",
+	"fechaHora": "2025-08-01T09:12:31.3131-04:00",
+	"createdAt": "2025-08-01T13:14:00.233Z",
+	"updatedAt": "2025-08-03T16:48:32.887Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-renaico-por-crecida",
+	"parentId": "9d616627-9bb5-4dac-bed5-2b4b7ab98409",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con lo informado por la Dirección General de Aguas (DGA)</strong>, mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación “Río Vergara en Tijeral”, en la comuna de Renaico, se encuentra en el umbral de alerta amarilla. Si continúa aumentando el caudal, podría ocasionar afectación a personas y daños en infraestructuras de la comuna.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED La Araucanía en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Amarilla para la comuna de Renaico por crecida, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la alerta amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

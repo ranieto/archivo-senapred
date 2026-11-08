@@ -1,0 +1,20 @@
+{
+	"id": "053288df-2345-4880-b226-9343fe38f867",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Angol por incendio forestal",
+	"fechaHora": "2025-02-01T17:05:00.000-03:00",
+	"createdAt": "2025-02-01T20:54:51.213Z",
+	"updatedAt": "2025-02-02T16:13:47.125Z",
+	"urlAccess": "se-declara-alerta-roja-y-cancela-alerta-amarilla-para-la-comuna-de-angol-por-incendio-forestal",
+	"parentId": "c848705d-889f-4c61-8e8b-b39c6b73c9c9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Angol se reporta lo siguiente:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Huequén Alto 4</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">10 hectáreas</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align: justify\">Incendio forestal con comportamiento extremo: velocidad de propagación alta,</p><p style=\"text-align: justify\">intensidad en el frente del avance alta.</p></td></tr></tbody></table></div><div style=\"text-align: justify\"><br></div><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Angol por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

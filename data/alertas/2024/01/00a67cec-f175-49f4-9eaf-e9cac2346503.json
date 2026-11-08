@@ -1,0 +1,20 @@
+{
+	"id": "00a67cec-f175-49f4-9eaf-e9cac2346503",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Marchihue por incendio forestal",
+	"fechaHora": "2024-01-08T19:34:00.000-03:00",
+	"createdAt": "2024-01-08T22:36:31.809Z",
+	"updatedAt": "2024-01-08T22:37:34.571Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchihue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Marchigüe\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;el incendio forestal denominado&nbsp;</span><span style=\"color: rgb(33, 37, 41)\">“Mallermo 1”&nbsp;</span><span style=\"color: rgb(33, 37, 41)\">en la comuna de Marchihue, se encuentra contenido y ya no representa una amenaza para las viviendas del sector.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de O'Higgins, la Dirección Regional de SENAPRED&nbsp;<strong>cancela Alerta Roja para la comuna de Marchihue por incendio forestal</strong>, vigente desde el 08 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

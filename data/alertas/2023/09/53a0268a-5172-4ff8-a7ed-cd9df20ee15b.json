@@ -1,0 +1,20 @@
+{
+	"id": "53a0268a-5172-4ff8-a7ed-cd9df20ee15b",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2023-09-11T16:05:00.000-03:00",
+	"createdAt": "2023-09-11T20:54:12.616Z",
+	"updatedAt": "2023-09-14T04:04:40.401Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento",
+	"parentId": "99688a69-98af-4f05-ac6b-3b4612e251f2",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento técnico para la Región de Antofagasta:<br></p><table><tbody><tr><td><div><strong>Alerta AA63</strong></div></td><td><div>Viento moderado a fuerte en cordillera, con desarrollo de viento blanco, entre la madrugada del martes 12 y la noche del miércoles 13 de septiembre. Con montos esperados entre 70 y 90 km/h durante el martes 12 y entre 80 y 100 km/h el miércoles 13.</div></td></tr><tr><td><div><strong>Aviso A356-2</strong></div></td><td><div>Viento normal a moderado, con probabilidad de tormentas de arena, en zonas de litoral, cordillera de la costa, pampa, precordillera, precordillera salar y cordillera de la región, entre la mañana del martes 12 y la noche del jueves 14 de septiembre.</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED<strong>actualiza la Alerta Temprana Preventiva regional</strong>por viento, que se encuentra vigente desde el 08 de septiembre y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align: justify\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

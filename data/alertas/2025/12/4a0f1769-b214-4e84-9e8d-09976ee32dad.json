@@ -1,0 +1,20 @@
+{
+	"id": "4a0f1769-b214-4e84-9e8d-09976ee32dad",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Retiro por incendio forestal",
+	"fechaHora": "2025-12-16T21:42:08.088-03:00",
+	"createdAt": "2025-12-17T00:50:47.001Z",
+	"updatedAt": "2025-12-17T05:27:51.764Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-retiro-por-incendio-forestal-2025-12-16-18-17-32",
+	"parentId": "e7fadb6f-59b2-4f98-b41a-dfd3dba02b08",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de<strong>&nbsp;Retiro,&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>CUÑAO</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>25</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Retiro, 4 brigadas de Conaf, 1   helitransportada, 4 aeronaves, 1 camión cisterna, 1 skidder, 1 ambulancia,   Carabineros y personal de seguridad.</p></td></tr></tbody></table><p>De acuerdo con nuevas evaluaciones, han disminuido las condiciones que dieron originaron la Alerta Roja. </p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Retiro por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

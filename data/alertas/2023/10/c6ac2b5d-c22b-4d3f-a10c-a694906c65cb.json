@@ -1,0 +1,21 @@
+{
+	"id": "c6ac2b5d-c22b-4d3f-a10c-a694906c65cb",
+	"type": "Alerta",
+	"titulo": "Demostracion inserción anterior",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-23T22:50:07.264Z",
+	"updatedAt": "2023-10-23T22:51:56.124Z",
+	"urlAccess": "demostracion-insercion-anterior",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p>asdf</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "8f72cfd1-bb4d-4c77-9f82-cb67fe2dda35"
+}

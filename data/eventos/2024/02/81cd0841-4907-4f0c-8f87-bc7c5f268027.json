@@ -1,0 +1,19 @@
+{
+	"id": "81cd0841-4907-4f0c-8f87-bc7c5f268027",
+	"type": "Evento",
+	"titulo": "Incendio estructural, Comuna de Pudahuel (Información preliminar)",
+	"fechaHora": "2024-02-20T21:42:00.000-03:00",
+	"createdAt": "2024-02-21T00:44:22.988Z",
+	"updatedAt": "2024-02-21T01:04:59.645Z",
+	"urlAccess": "incendio-estructural-comuna-de-pudahuel-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Pudahuel\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Metropolitana</span></strong><span style=\"color: black\">, a la hora del presente informe se reporta un incendio estructural que afecta bodegas “San Francisco” en la comuna de Pudahuel.</span><br></p><p style=\"text-align: justify\">Trabajan en el lugar Bomberos, Carabineros y personal municipal.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

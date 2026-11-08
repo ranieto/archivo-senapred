@@ -1,0 +1,19 @@
+{
+	"id": "9dd5256e-0379-4e19-a611-fea1a598277b",
+	"type": "Evento",
+	"titulo": "Accidente Aéreo, comuna de Tiltil",
+	"fechaHora": "2024-12-13T12:40:00.000-03:00",
+	"createdAt": "2024-12-13T15:42:40.413Z",
+	"updatedAt": "2024-12-13T22:51:15.194Z",
+	"urlAccess": "accidente-aereo-comuna-de-tiltil",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Tiltil\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional Metropolitana del SENAPRED, se indica que 1 avioneta capotó en el Tranque Ovejería sector Codelco, comuna de Tiltil, con un número en evaluación de tripulantes.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Trabajan en el lugar Bomberos de Tiltil, 1 ambulancia ACHS, personal municipal, Carabineros con 2 helicópteros y equipos de buceo junto a equipos de Codelco.</span></p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9af3bf5d-5d8e-4daa-8723-74c545547b93",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Copiapó por incendio forestal ",
+	"fechaHora": "2024-01-07T18:17:00.000-03:00",
+	"createdAt": "2024-01-07T21:16:44.058Z",
+	"updatedAt": "2024-01-07T21:17:03.126Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-copiapo-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal en la comuna de Copiapó, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Valle Fértil.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">20,56 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por incendio forestal para la comuna de Copiapó</strong>, que se mantenía vigente desde el 06 de enero.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

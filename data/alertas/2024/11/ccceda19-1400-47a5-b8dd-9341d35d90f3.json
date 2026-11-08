@@ -1,0 +1,20 @@
+{
+	"id": "ccceda19-1400-47a5-b8dd-9341d35d90f3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Freirina por incendio forestal",
+	"fechaHora": "2024-11-12T14:07:00.000-03:00",
+	"createdAt": "2024-11-12T17:19:07.779Z",
+	"updatedAt": "2024-11-12T17:19:43.150Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-freirina-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por Conaf,&nbsp;Controlado y sin puntos calientes activos se encuentra el incendio forestal denominado “Bodeguilla II”, elcual afectó una superficie de 18 hectáreas de vegetación en la comuna de Freirina. Cabe señalar, que esteincendio no presenta un comportamiento que pueda generar amenaza a viviendas, infraestructura crítica ycentros poblados.</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Freirina (Tatara)</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>18 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPREDcancela la Alerta Amarilla para la Comuna de Freirina, por incendio forestal, que se mantuvo vigente desdeel 10 de noviembre de 2024</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

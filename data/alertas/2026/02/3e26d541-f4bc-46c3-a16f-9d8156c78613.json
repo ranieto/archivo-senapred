@@ -1,0 +1,20 @@
+{
+	"id": "3e26d541-f4bc-46c3-a16f-9d8156c78613",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Comuna de Quintero por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-02-18T21:04:27.733Z",
+	"updatedAt": "2026-02-18T21:05:02.922Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quintero-por-incendio-forestal-2026-02-18-18-04-08",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</strong></p><p><strong><br></strong></p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Loncura</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1   (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo   de bomberos de Quintero, 3 brigadas, 4 técnicos, 4 aviones</p></td></tr></tbody></table><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Comuna de Quintero por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><br></p><p><br></p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "e49795d4-aba2-4842-ad5e-3dbc29f123d3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja por evento meteorológico y declara Alerta Amarilla para la Región de Coquimbo por viento",
+	"fechaHora": "2026-08-04T09:06:24.2424-04:00",
+	"createdAt": "2026-08-04T13:11:26.261Z",
+	"updatedAt": "2026-08-13T22:31:46.792Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2026-07-12-14-22-23",
+	"parentId": "4172199c-1d3a-4a78-be48-848c6ef6a4f7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Coquimbo:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Enlace</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A387</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">05-08</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">07-08</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\"><a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchivos.meteochile.gob.cl%2Fportaldmc%2FAAA%2Fdoc%2Fevento_A387_2026.php&amp;data=05%7C02%7Cperiodistadeturno%40senapred.gob.cl%7C049d879e01ee4c0863c008def2291438%7Cc4c70e6abf1c4c55986259a5f3ac8257%7C0%7C0%7C639214455469805343%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=%2BP9Dh8et5xomnaquh8BzNaLg1%2FBVJg8VLF%2Bjdz5sTpk%3D&amp;reserved=0\">Abrir aquí</a></span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">Asimismo, y conforme al acuerdo de los participantes de la convocatoria del COGRID Regional, realizada el día 03 de agosto del 2026 a las 19:00 horas y al término de las condiciones meteorológica que las ocasionaron, la Dirección Regional de SENAPRED Coquimbo <strong>cancela la Alerta Roja regional por evento meteorológico y declara Alerta Amarilla regional por viento</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "2461cd63-6197-4a3c-9354-18994c2b175d"
+}

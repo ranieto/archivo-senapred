@@ -1,0 +1,20 @@
+{
+	"id": "f13500f1-eaa5-42d2-9a7f-0bbc43a61b2c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento masivo",
+	"fechaHora": "2024-09-23T14:29:24.2424-03:00",
+	"createdAt": "2024-09-23T17:31:15.032Z",
+	"updatedAt": "2024-09-23T17:32:05.287Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía, se indica que las actividades programadas en el contexto de la celebración de las fiestas patrias 2024, que se realizaron entre los días 13 y 22 de septiembre en la región, finalizaron sin registrarse situaciones de emergencia.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva Regional por evento masivo, </strong>que se mantuvo vigentes desde el 14 de septiembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

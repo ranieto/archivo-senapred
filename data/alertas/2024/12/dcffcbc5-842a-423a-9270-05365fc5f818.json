@@ -1,0 +1,20 @@
+{
+	"id": "dcffcbc5-842a-423a-9270-05365fc5f818",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la provincia de Chacabuco por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-12-09T22:18:55.564Z",
+	"updatedAt": "2024-12-09T22:20:13.247Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-4",
+	"parentId": "b4eb374b-8ab8-49c8-878d-ab6eaf7cf00e",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), acerca del incendio forestal denominado “Santa Sara” que se desarrolla en la comuna de Lampa y Tiltil, el que afecta al momento una superficie de 285 hectáreas, incendio forestal con comportamiento extremo que por sus condiciones requiere para su combate parte de los recursos aéreos y terrestres disponibles.</p><div><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Santa Sara</div></td></tr><tr><td><div>Comuna</div></td><td><div>Lampa y Tiltil</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>285 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 compañías de Bomberos, 5 brigadas CONAF, 6 técnicos CONAF, 8 aeronaves CONAF, 2 camiones cisterna CONAF, 1 puesto de mando CONAF y 1 maquinaria pesada CONAF.</div></td></tr></tbody></table></div><div><br></div><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Provincia de Chacabuco por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

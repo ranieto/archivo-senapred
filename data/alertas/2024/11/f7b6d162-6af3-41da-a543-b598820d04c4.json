@@ -1,0 +1,20 @@
+{
+	"id": "f7b6d162-6af3-41da-a543-b598820d04c4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2024-11-24T16:34:34.3434-03:00",
+	"createdAt": "2024-11-24T19:36:08.718Z",
+	"updatedAt": "2024-11-26T14:23:09.371Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-santo-domingo-por-incendio-forestal-2",
+	"parentId": "b49ea24f-6f5d-496f-9adc-2075c5c2ff0f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Santo Domingo se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Bucalemu</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Santo Domingo, 7 brigadas   de Conaf, 2 técnicos de Conaf, 1 camión cisterna, 1 maquinaria, 3 aviones   cisterna, 3 helicópteros, 1 avión de coordinación y avión de observación,   todos recursos de Conaf.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Cabe mencionar, que el incendio presenta un comportamiento extremo, alta velocidad de propagación e&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">intensidad en su frente de avance.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Producto de este incendio, se activó mensajería SAE para el sector Santa Rosa en la comuna de Santo Domingo por incendio forestal Bucalemu En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Santo Domingo por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

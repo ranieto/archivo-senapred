@@ -1,0 +1,20 @@
+{
+	"id": "0ed09caf-790d-4133-8bd1-9ff410ef3ed5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Melipeuco por incendio forestal",
+	"fechaHora": "2024-02-10T12:30:33.3333-03:00",
+	"createdAt": "2024-02-10T15:31:48.737Z",
+	"updatedAt": "2024-02-14T15:07:23.414Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipeuco-por-incendio-forestal",
+	"parentId": "53886778-1c47-4542-b2a4-eb199b4f9394",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Melipeuco\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo c</span></strong><span style=\"color: black\">on <strong>la información proporcionada por CONAF</strong>, </span><span style=\"color: black\">se reporta el siguiente detalle para el incendio forestal Parque Nacional Conguillío, en la comuna de Melipeuco:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"color:black\">Parque Nacional Conguillío</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Recursos desplegados</strong></p></td><td><p>1 brigada de Conaf, 1 helicóptero de   Conaf, 1 avión cisterna, 1 avión coordinación. Además de los siguientes   recursos en trayecto 1 Puesto de Mando de Conaf, 1 Técnico de Conaf, 2 brigadas   de Conaf, 2 helicópteros de Conaf y 2 aviones de Conaf</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Melipeuco por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

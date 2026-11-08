@@ -1,0 +1,20 @@
+{
+	"id": "93b2112d-0028-4fc8-87dc-dfa46a356712",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Punta Arenas por desborde",
+	"fechaHora": "2025-05-07T01:21:48.4848-04:00",
+	"createdAt": "2025-05-07T05:23:15.879Z",
+	"updatedAt": "2025-05-07T14:24:08.254Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-punta-arenas-por-desborde",
+	"parentId": "543b7420-c137-4a4f-860f-f1deb128f8ce",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes, </strong>se indica que se mantienen los trabajos de extracción de agua acumulada en la planta de distribución de GASCO ubicada en el sector Tres Puentes, de la comuna de Punta Arenas, debido al desborde del estero Llau-Llau.</p><p style=\"text-align:justify\">Cabe destacar que, Carabineros se encuentra regulando el tránsito vehicular en la Avenida Presidente Ibáñez.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial Regional, <strong>mantiene la </strong>Alerta Amarilla por desborde<span style=\"color: black\"> para la comuna de Punta Arena</span><strong><span style=\"color:black\">s </span></strong><span style=\"color:black\">que se mantiene vigente desde el 06 de mayo y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Durante la noche del martes 06 de mayo, se realizó un COGRID presidido por el Delegado Presidencial Regional, en el cual, se resolvió concentrar la mayoría de los recursos en los trabajos que se están realizando en la planta de distribución de GASCO. Además, se tomó la decisión de suspender las clases para el día de hoy miércoles 07 de mayo, debido a las condiciones meteorológicas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Dirección General de Aguas (DGA), Dirección de Obras Hidráulicas (DOH) y personal municipal, se mantienen monitoreando los distintos cursos de agua en la comuna de Punta Arenas.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

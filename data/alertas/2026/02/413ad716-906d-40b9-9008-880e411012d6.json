@@ -1,0 +1,20 @@
+{
+	"id": "413ad716-906d-40b9-9008-880e411012d6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por amenaza de incendios forestales",
+	"fechaHora": "2026-02-03T10:38:00.000-03:00",
+	"createdAt": "2026-02-03T15:54:22.748Z",
+	"updatedAt": "2026-02-03T15:55:15.688Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-amenaza-de-incendios-forestales-2026-02-02-18-33-54",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED cancela Alerta Temprana Preventiva regional por amenaza de incendios forestales, con base a la información técnica proporcionada por CONAF, que señala lo siguiente:<br></p><p>En consideración de los datos registrados por las estaciones meteorológicas de la región de Ñuble, específicamente la estación Bernardo O'Higgins, estación Mayulermo y estación Liceo Polivalente San Nicolás, los que muestran condiciones de reducción de la velocidad media del viento y un aumento en la humedad relativa, que continuarán durante los próximos días, se evidencia un retorno a las condiciones meteorológicas dentro del rango normal para la época.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

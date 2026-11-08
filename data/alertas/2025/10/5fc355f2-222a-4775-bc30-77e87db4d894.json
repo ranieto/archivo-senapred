@@ -1,0 +1,20 @@
+{
+	"id": "5fc355f2-222a-4775-bc30-77e87db4d894",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Combarbalá por incendio forestal",
+	"fechaHora": "2025-10-16T19:29:00.000-03:00",
+	"createdAt": "2025-10-16T22:33:14.509Z",
+	"updatedAt": "2025-10-17T00:01:36.564Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-combarbala-por-incendio-forestal",
+	"parentId": "79b44664-9707-4dbc-8f50-6cc12079f675",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:15px\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size:15px\">respecto al incendio forestal en la&nbsp;<strong>comuna de Combarbalá </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong><span style=\"font-size:15px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:15px\">Llanos de Cogotí</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Estado</span></strong></p></td><td><p><span style=\"font-size:15px\">En combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:15px\">2.0 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:15px\">El incendio se encuentra activo en   todos los sectores, con velocidad de</span></p><p><span style=\"font-size:15px\">propagación media -alta e intensidad   del frente y longitud de llama, media.</span></p><p><span style=\"font-size:15px\">Brigada se encuentra trabajando en   frente de avance en construcción</span></p><p><span style=\"font-size:15px\">de líneas cortafuegos y en los   sectores restantes trabaja brigada junto a Bomberos.</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Recursos</span></strong></p></td><td><p><span style=\"font-size:15px\">2 técnicos y 1 brigada de CONAF;   Carabineros, maquinaria municipal, camiones aljibe y Bomberos.</span></p></td></tr></tbody></table><p><span style=\"font-size:15px\">De acuerdo con la información proporcionada por CONAF, el incendio se mantiene en combate, disminuyendo las condiciones que originaron la alerta roja. Sin embargo, el incendio se mantiene cercano a centros poblados y/o infraestructura crítica.</span></p><p><span style=\"font-size:15px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de <strong>SENAPRED cancela la Alerta Roja y declara Alerta Amarilla</strong> para la Comuna de Combarbalá por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

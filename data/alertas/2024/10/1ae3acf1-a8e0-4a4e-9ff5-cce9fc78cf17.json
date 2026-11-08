@@ -1,0 +1,20 @@
+{
+	"id": "1ae3acf1-a8e0-4a4e-9ff5-cce9fc78cf17",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por Amenaza de Incendios Forestales",
+	"fechaHora": "2024-10-30T09:10:00.000-03:00",
+	"createdAt": "2024-10-30T12:26:42.918Z",
+	"updatedAt": "2024-10-30T12:27:34.362Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con el análisis técnico efectuado por la Corporación Nacional Forestal (CONAF), </strong>han determinado que ha disminuido la severidad de las condiciones meteorológicas, disminuyendo también la amenaza de Incendios Forestales que justificaron la declaración de esta Alerta. </p><p>Además, la actualización del pronóstico público de la Dirección Meteorológica de Chile (DMC), refuerza la disminución de la probabilidad de Incendios Forestales por condiciones meteorológicas desfavorables para su generación y propagación en la Región Metropolitana para las próximas jornadas. </p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de Metropolitana de Santiago, por amenaza de incendios forestales, que se mantuvo vigente desde el 28 de octubre de 2024.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

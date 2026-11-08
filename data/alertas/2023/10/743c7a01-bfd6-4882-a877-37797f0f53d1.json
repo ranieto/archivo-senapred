@@ -1,0 +1,20 @@
+{
+	"id": "743c7a01-bfd6-4882-a877-37797f0f53d1",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva, para la Provincia de El Loa y comunas de Antofagasta y Taltal por viento",
+	"fechaHora": "2023-10-01T18:11:00.000-03:00",
+	"createdAt": "2023-10-01T21:21:45.267Z",
+	"updatedAt": "2023-10-08T10:38:07.410Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-viento",
+	"parentId": "898b8412-d7ad-4910-b1b2-41e7af25f9f2",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta, El Loa\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento técnico para la Región de Antofagasta:<br><br>Aviso A391-1 Viento normal a moderado en cordillera, entre la mañana del martes 03 y la noche del viernes 06 de octubre.<br><br>En consideración a este antecedente, que supone un aumento del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED declara Alerta Temprana Preventiva, para la Provincia de El Loa y comunas de Antofagasta y Taltal, por viento, vigente desde hoy y hasta que las condiciones así lo ameriten.<br><br>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br>SENAPRED recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento. <br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

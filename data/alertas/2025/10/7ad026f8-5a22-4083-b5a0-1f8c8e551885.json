@@ -1,0 +1,20 @@
+{
+	"id": "7ad026f8-5a22-4083-b5a0-1f8c8e551885",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para las provincias de Capitán Prat y General Carrera por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-10-11T16:09:55.047Z",
+	"updatedAt": "2025-10-19T18:41:56.049Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-capitan-prat-por-crecida-2",
+	"parentId": "b3a5090c-e045-4c33-88aa-6af92dbe0c81",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Aysén,</span></strong><span style=\"color: black\"> se indica que fueron cancelados los alertamientos meteorológicos emitidos por la Dirección Meteorológica de Chile (DMC) para la región. Sin embargo, producto del sistema frontal que se desarrolló en la región fueron reportadas diversas afectaciones concentradas principalmente en las Provincias de General Carrera y Capitán Prat, tales como inundaciones, crecidas de ríos, remociones en masa, alteraciones de conectividad terrestre, cortes de suministro de agua potable, servicio de alcantarillado y suministro eléctrico.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Conforme a los monitoreos regionales, se señala que se mantienen alteraciones de conectividad, líneas de suministros afectados y personas aisladas en las provincias mencionadas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Provincial por evento meteorológico, </strong>la cual se mantuvo vigente desde el 02 de octubre de 2025, <strong>y declara Alerta Amarilla para las provincias de Capitán Prat y General Carrera por evento meteorológico</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta alerta, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

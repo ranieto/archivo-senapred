@@ -1,0 +1,20 @@
+{
+	"id": "91145737-6fe4-421c-86c3-e0425411b580",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Arauco por desborde",
+	"fechaHora": "2024-06-10T22:55:00.000-04:00",
+	"createdAt": "2024-06-11T02:56:06.710Z",
+	"updatedAt": "2024-06-11T21:45:36.704Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde",
+	"parentId": "d0a60308-ca40-458a-b10f-8ad79dbc54d8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red pluviométrica del Río Pichilo ubicado en la comuna de Arauco, se encuentra en umbral de Alerta Roja.<br></p><p style=\"text-align:justify\">Por otra parte, los pronósticos emitidos por la Dirección Meteorológica de Chile (DMC) prevén que continúen las precipitaciones durante las próximas horas en la comuna.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Roja por desborde<span style=\"color:black\"> para la comuna de Arauco, </span></strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten. </p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

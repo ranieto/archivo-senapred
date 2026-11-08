@@ -1,0 +1,20 @@
+{
+	"id": "0e9d22e3-ef68-4cc4-9f47-45bb4c82ace1",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la Provincia de El Loa y comunas de María Elena, Sierra Gorda, Antofagasta y Taltal por viento",
+	"fechaHora": "2026-05-24T17:44:50.5050-04:00",
+	"createdAt": "2026-05-24T21:46:21.836Z",
+	"updatedAt": "2026-05-24T21:50:30.176Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-viento-2026-05-15-16-22-40",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A227-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado en Precordillera, Cordillera Salar y Cordillera de la   región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para la Provincia de El Loa y comunas de </strong></span><strong><span style=\"color:black\">María Elena, Sierra Gorda, Antofagasta y Taltal</span></strong><span style=\"color:black\">, que se mantuvo vigente desde el 15 de mayo del 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

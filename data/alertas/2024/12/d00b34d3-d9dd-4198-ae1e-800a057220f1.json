@@ -1,0 +1,20 @@
+{
+	"id": "d00b34d3-d9dd-4198-ae1e-800a057220f1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por remoción en masa",
+	"fechaHora": "2024-12-13T00:02:00.000-03:00",
+	"createdAt": "2024-12-13T03:33:38.662Z",
+	"updatedAt": "2025-01-02T11:39:54.088Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "b8ffa0f7-fb1e-4cab-8cde-518073dd14e8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, respecto a los <strong>deslizamientos en la Cuesta Chinchorro</strong> y las zonas de talud con alta susceptibilidad de remoción en masa,se informa que la<strong> Ruta 5 Norte se mantiene habilitada </strong>y regulada por banderilleros,<strong> continuando con el corte preventivo nocturno entre las 20:00 horas y las 06:00 horas del día siguiente.</strong></p><p style=\"text-align:justify\">Cabe mencionar, que desde el 10 de octubre de 2024 no se registran nuevos derrumbes de importancia en la zona. Sin embargo, en caso de presentarse nuevos deslizamientos, se despejará la ruta con maquinarias dispuestas en el lugar y se dará paso al tránsito vehicular una vez realizada la correspondiente evaluación del talud.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por remoción en masa,</strong> la que se encuentra vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "38db2540-6de4-4d12-b21d-28e250bcbbba"
+}

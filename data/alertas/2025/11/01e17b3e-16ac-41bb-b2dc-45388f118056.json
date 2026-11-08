@@ -1,0 +1,20 @@
+{
+	"id": "01e17b3e-16ac-41bb-b2dc-45388f118056",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Isla de Pascua por incendio forestal",
+	"fechaHora": "2025-11-22T19:20:00.000-03:00",
+	"createdAt": "2025-11-22T22:34:36.426Z",
+	"updatedAt": "2025-11-23T02:25:48.378Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-isla-de-pascua-por-incendio-forestal-6",
+	"parentId": "05b7c08c-4a81-40f5-add0-174292317a9b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Isla de Pascua\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de Isla de Pascua se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Hanga Rau</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"font-size:15px\">Cuerpo&nbsp;</span><span style=\"font-size:15px\">de&nbsp;</span><span style=\"font-size:15px\">bomberos&nbsp;</span><span style=\"font-size:15px\">de&nbsp;</span><span style=\"font-size:15px\">Isla de   Pascua, 1 Brigada.</span></p><p><span style=\"font-size:15px\">Otros Recursos:</span></p><p><span style=\"font-size:15px\">1 DGAC SEI</span></p><p><span style=\"font-size:15px\">1 BRIFAR</span></p><p><span style=\"font-size:15px\">2 camiones aljibes   municipales</span></p><p><span style=\"font-size:15px\">4 camiones aljibes de la   empresa Pavimentos Chile</span></p></td></tr></tbody></table><p style=\"text-align:justify\">Incendio en el interior de Área Protegida (ASP y Privada) o en una proximidad menor a 2.000 metros de distancia.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED, en coordinación con la Delegación Presidencial Regional de Valparaíso, declara Alerta Roja para la comuna de Isla de Pascua por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

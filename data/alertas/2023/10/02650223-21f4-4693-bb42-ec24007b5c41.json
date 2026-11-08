@@ -1,0 +1,20 @@
+{
+	"id": "02650223-21f4-4693-bb42-ec24007b5c41",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la región de Antofagasta por viento",
+	"fechaHora": "2023-10-06T19:53:00.000-03:00",
+	"createdAt": "2023-10-06T22:58:17.985Z",
+	"updatedAt": "2023-10-08T10:38:07.435Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-viento",
+	"parentId": "898b8412-d7ad-4910-b1b2-41e7af25f9f2",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante la Alerta Meteorológica AA68-1/2023, se pronostica viento moderado a fuerte con desarrollo de tormentas de arena en cordillera de la Región de Antofagasta, hasta la noche del sábado 07 de octubre.<br><br>Adicionalmente, la DMC mantiene vigente el Aviso Meteorológico A391-5/2023, en el cual se prevé viento normal a moderado en los sectores de cordillera de la costa, precordillera, precordillera salar y cordillera de la región, con probabilidad de tormentas de arena hasta la tarde del sábado 07 de octubre.<br><br>Cabe destacar, que las intensidades de viento (km/h) esperadas son las siguientes:<br><br>Zona\tViernes 06\tSábado 07<br>Cordillera Costa\t60 - 80\t60 - 80<br>Precordillera\t50 - 70\t50 - 70<br>Precordillera Salar\t40 - 60\t40 - 60<br>Cordillera\t70 - 90\t60 - 80<br><br>En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED actualiza la Alerta Temprana Preventiva Regional, por viento, que se encuentra vigente desde el 01 de octubre de 2023.<br><br>La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br>SENAPRED recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico y carteles publicitarios, ya que podrían colapsar debido al viento.&nbsp;<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

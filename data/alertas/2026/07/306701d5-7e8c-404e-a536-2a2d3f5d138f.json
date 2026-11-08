@@ -1,0 +1,20 @@
+{
+	"id": "306701d5-7e8c-404e-a536-2a2d3f5d138f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja Regional por desborde y declara Alerta Amarilla para la Región del Maule por crecida",
+	"fechaHora": "2026-07-29T11:25:00.000-04:00",
+	"createdAt": "2026-07-29T15:36:54.929Z",
+	"updatedAt": "2026-09-07T09:58:59.276Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, las estaciones hidrométricas de monitoreo registran un descenso en los valores de los caudales, lo que supone una disminución del riesgo para la población cercana a estos cursos de agua:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Estación hidrométrica</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Umbral</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Río Mataquito en Licantén</p></td><td><p style=\"text-align:center\">Amarillo</p></td></tr><tr><td><p style=\"text-align:center\">Río Perquilauquen en Quella</p></td><td><p style=\"text-align:center\">Amarillo</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección General de Aguas (DGA) mantiene un monitoreo permanente de la red hidrométrica regional, efectuando un seguimiento continuo de la evolución de los caudales y niveles de los principales cursos de agua, considerando tanto el comportamiento observado como la evolución prevista de las condiciones meteorológicas.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja Regional por desborde y declara Alerta Amarilla Regional por crecida,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Con esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

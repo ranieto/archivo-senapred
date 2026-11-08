@@ -1,0 +1,20 @@
+{
+	"id": "016b48d1-8e82-4786-a0f8-4d89051e379d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Pencahue y Curepto por incendio forestal",
+	"fechaHora": "2024-02-01T15:10:00.000-03:00",
+	"createdAt": "2024-02-01T18:14:46.660Z",
+	"updatedAt": "2024-02-08T22:46:57.948Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-pencahue-y-curepto-por-incendio-forestal",
+	"parentId": "bee45ae0-5b4e-495a-bc66-e093d64329a4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en las comunas de Pencahue y Curepto, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Hijuela 3 Las Palmas<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>650 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio se encuentra con amenaza a antenas de telecomunicación a una distancia de 50 metros</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>5 brigadas de CONAF, 7 brigadas de ARAUCO, 2 <u>brigadas de </u>MININCO Y VISTA HERMOSA, 6 técnicos de CONAF, 2 técnicos de ARAUCO, 5 técnicos de MININCO y VISTA HERMOSA, 4 helicópteros de CONAF, 1 avión de Coordinación de CONAF, 4 helicópteros de ARAUCO, 1 avión cisterna de ARAUCO, 1 puesto de mando de CONAF, 3 camiones cisternas deCONAF, 2 Skidder de CONAF, 1 puesto de mando de ARAUCO, 2 Skidder de ARAUCO, 2 camiones aljibe de MININCO y VISTA HERMOSA</div></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:#212529\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para las comunas de Pencahue y Curepto por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:#212529\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

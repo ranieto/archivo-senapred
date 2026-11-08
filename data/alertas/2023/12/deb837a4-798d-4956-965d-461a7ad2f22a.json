@@ -1,0 +1,20 @@
+{
+	"id": "deb837a4-798d-4956-965d-461a7ad2f22a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para las comunas de Copiapó y Tierra Amarilla por viento",
+	"fechaHora": "2023-12-30T18:03:03.033-03:00",
+	"createdAt": "2023-12-30T21:04:37.907Z",
+	"updatedAt": "2023-12-31T01:49:22.998Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-tierra-amarilla-por-viento",
+	"parentId": "8a1e3926-e4a8-4e14-af20-36221b8fc2a4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Copiapó, Tierra Amarilla\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por </strong>la <strong>Dirección Meteorológica de Chile</strong> (DMC) y la Dirección Regional de SENAPRED Atacama, respecto al reporte de viento en las comunas de Copiapó y Tierra Amarilla, se reportan los siguientes antecedentes:<br></p><div><table><tbody><tr><td colspan=\"2\"><p style=\"text-align:justify\"><strong><span style=\"color:black\">Condición meteorológica</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Situación</p></td><td><p style=\"text-align:justify\">Viento   arrachado en zonas interiores de la región, originado principalmente por “líneas   de inestabilidad” asociadas al paso de una masa fría por la zona centro del   país, que, al interactuar con la masa cálida presente, generó una   intensificación del viento norte en superficie y con ello levantamiento de   polvo en diferentes sectores</p></td></tr><tr><td><p style=\"text-align:justify\">Pronóstico</p></td><td><p style=\"text-align:justify\">Se   prevé queesta   condición comience a declinar hacia las primeras horas de la noche de hoy 30   de diciembre y con ello la disminución de la cobertura nubosa.</p></td></tr></tbody></table></div><p style=\"text-align:right\"><span style=\"font-size:11px\">Fuente: Dirección Meteorológica de Chile</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Afectación y daños</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Al   momento, se han registrado caída de árboles en la vía pública y en el sector   de la Universidad de Atacama, así como la interrupción del suministro de   electricidad en diversos sectores.</p></td></tr></tbody></table></div><p style=\"text-align:right\"><span style=\"font-size:11px\">Fuente: Dirección Regional de Atacama</span></p><p>En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla para las comunas de Copiapó y Tierra Amarilla por viento</strong>, que se encuentra vigente desde hoy 30 de diciembre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar Carabineros, personal municipal de las comunas de Copiapó y Tierra Amarilla y equipo de emergencias de la empresa eléctrica CGE. Asimismo, se mantienen activados los equipos de la Delegación Presidencial Regional de Atacama y Unidad de Alerta Temprana de SENAPRED Atacama</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "2461cd63-6197-4a3c-9354-18994c2b175d"
+}

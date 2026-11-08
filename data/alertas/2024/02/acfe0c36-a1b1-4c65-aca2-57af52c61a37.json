@@ -1,0 +1,20 @@
+{
+	"id": "acfe0c36-a1b1-4c65-aca2-57af52c61a37",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de San Javier por incendios forestales",
+	"fechaHora": "2024-02-05T19:09:00.000-03:00",
+	"createdAt": "2024-02-05T22:21:42.606Z",
+	"updatedAt": "2024-02-05T22:22:18.894Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-javier-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;con relación al incendio forestal registrado en la comuna de San Javier, se indica lo siguiente:<br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Vado La Patagua 4</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>247 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la Comuna de San Javier, por incendio forestal</strong>, que se mantuvo vigente desde el 05 de febrero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0a31aec9-e6a4-4994-8cb0-f7ba530edb93",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Melipilla por incendio forestal",
+	"fechaHora": "2024-01-11T00:14:00.000-03:00",
+	"createdAt": "2024-01-11T03:19:20.000Z",
+	"updatedAt": "2024-01-11T13:34:45.475Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipilla-por-incendio-forestal",
+	"parentId": "fba5282e-e364-4162-b144-f79d9d6161de",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Melipilla\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">respecto al incendio forestal en la comuna de Melipilla, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>Campanario</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>30 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">El incendio presenta una disminución considerable de intensidad y no presenta frente de avance por ambos flancos, sin embargo se observan varios puntos calientes dentro del área quemada.</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>Trabajarán durante la noche 2 brigadas de CONAF, realizando líneas cortafuegos en los sectores cercanos a las viviendas.&nbsp;Durante la jornada del 11 de enero, por parte de CONAF trabajarán 7 brigadas, 5 helicópteros, 3 aviones cisterna, 2 SKKIDER y 2 camiones aljibe.</div></td></tr></tbody></table></div><div><br></div><div>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED&nbsp;<strong>mantiene la Alerta Roja para la comuna de Melipilla&nbsp;</strong>por incendio forestal, que se encuentra vigente desde el 10 de enero de 2024.</div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

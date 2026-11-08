@@ -1,0 +1,20 @@
+{
+	"id": "706118f2-7493-4b3a-8559-22c52961c22a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Los Ángeles por incendio forestal",
+	"fechaHora": "2024-01-15T02:41:13.1313-03:00",
+	"createdAt": "2024-01-15T05:46:08.237Z",
+	"updatedAt": "2024-01-15T14:37:31.488Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-incendio-forestal",
+	"parentId": "cfbfd9e7-ea5f-42f3-8c9e-cf523e08e885",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Los Ángeles\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF</strong><span style=\"color:#2e2e2e\"><span style=\"font-size: 14px\">, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Los Ángeles, por incendio forestal, que se encuentra vigente desde el 14 de enero de 2024.</span></span><br></p><p><span style=\"color:#2e2e2e\"><span style=\"font-size: 14px\">Se encuentran trabajando en el lugar&nbsp;</span></span></p><p></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Chacayal Sur</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>16 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio se   mantiene contenido, solo con tocones dentro del área quemada.</p></td></tr></tbody></table><div><span style=\"color:#2e2e2e\"><span style=\"font-size: 14px\">Por otro lado se considerarán los siguientes recursos para hoy </span></span></div><div><span style=\"color:#2e2e2e\"><span style=\"font-size: 14px\">-1 Brigada</span></span></div><div><span style=\"color:#2e2e2e\"><span style=\"font-size: 14px\">-1&nbsp;</span></span><span style=\"font-size: 14px\">Técnico</span></div><div><span style=\"color:#2e2e2e\"><span style=\"font-size: 14px\"><br></span></span></div><div><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Activación preventiva de Comité de Provincial y Comunal de Gestión de Riesgo y Desastre de Emergencia, puesta a punto de Enlaces de Coordinación y Planificación de Operaciones de Emergencia.</span><br><br><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Efectiva información a la comunidad.</span><br><br><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">- Las maquinarias entregadas en Comodato por SENAPRED a los Municipios deberán estar preparadas y con conductores de turno, ante la eventualidad de que deban desplazarse en la Región debido a una situación de emergencia.</span></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

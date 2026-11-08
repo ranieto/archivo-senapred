@@ -1,0 +1,20 @@
+{
+	"id": "c784a0c6-f197-4a32-bf1f-ccd57f15b87f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las comunas de Melipilla y Padre Hurtado por incendio forestal",
+	"fechaHora": "2024-12-21T23:53:23.2323-03:00",
+	"createdAt": "2024-12-22T02:55:11.425Z",
+	"updatedAt": "2024-12-22T22:28:36.925Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-melipilla-y-padre-hurtado-por-incendio-forestal",
+	"parentId": "8d31e9c9-9cb8-4bde-a0cd-2328fbdff17f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;se informa el siguiente detalle respecto de incendios forestales en las comunas de Melipilla y Padre Hurtado:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Palmas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>2 brigadas y 1 técnico.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Bollenar 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>12 hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>CONAF contempla para mañana los trabajos de 1 tecnico,1   brigada, 1 aljibe,1 skidder y 1 recurso aéreo.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Pimiento</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>300 hectáreas.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Roja para las comunas de Melipilla y Padre Hurtado, por incendio forestal, que se encuentra vigente desde el 20 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

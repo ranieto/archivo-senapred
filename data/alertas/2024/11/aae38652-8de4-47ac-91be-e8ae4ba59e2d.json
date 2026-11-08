@@ -1,0 +1,20 @@
+{
+	"id": "aae38652-8de4-47ac-91be-e8ae4ba59e2d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de Ovalle por incendio forestal",
+	"fechaHora": "2024-11-28T17:31:31.3131-03:00",
+	"createdAt": "2024-11-28T20:34:25.859Z",
+	"updatedAt": "2024-11-28T23:59:11.218Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ovalle-por-incendio-forestal",
+	"parentId": "f8166d8e-d204-47eb-8ff1-1eaa19617c14",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Ovalle\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Ovallese informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Sonora Ruta D-635</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectárea</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El avance del fuego se vio   parcialmente contenido por un cortafuegos. El Incendio ya no presenta cercanía   a viviendas.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Ovalle por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "e24192c8-45b7-4690-acd5-f75fd9077113",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Amarilla para las comunas de Concón y Viña del Mar por incendio forestal",
+	"fechaHora": "2023-12-18T18:25:09.099-03:00",
+	"createdAt": "2023-12-18T21:26:22.131Z",
+	"updatedAt": "2023-12-20T12:48:39.843Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-concon-y-vina-del-mar-por-incendio-forestal",
+	"parentId": "28d07935-d8fc-47ec-b095-3b4b590cdd58",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Concón, Viña del Mar\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en las comunas de Concón y Viña del Mar, con el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Predio Armada.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">30 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El incendio presenta velocidad de propagación,   longitud de llama sobre los 3 metros y proyección de pavesas en el frente de   avance.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por incendio forestal para las comunas de Concón y Viña del Mar</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio, 1 puesto de mando, 4 técnicos, 8 brigadas, 3 camiones cisterna, 4 aviones cisterna, 1 avión de coordinación y 1 avión cisterna pesado LAT de CONAF, junto a Bomberos de Viña del Mar, Carabineros y equipo municipal.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

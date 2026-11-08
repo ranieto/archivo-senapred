@@ -1,0 +1,20 @@
+{
+	"id": "0b783bd6-9c08-475d-b459-c20e335bb72b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-11-27T17:17:13.1313-03:00",
+	"createdAt": "2025-11-27T20:20:55.931Z",
+	"updatedAt": "2025-12-01T13:57:18.974Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-24",
+	"parentId": "5f7c4519-aad1-4752-822c-cd68a9011f23",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos:</p><p><br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A458</p></td><td><p style=\"text-align:justify\">Probable tormentas   eléctricas en valle, precordillera, cordillera, Chiloé, litoral Interior,   Cordillera Austral y Patagonia Subandina.</p></td><td><p style=\"text-align:center\">28-11</p></td><td><p style=\"text-align:center\">28-11</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A459</p></td><td><p style=\"text-align:justify\">Probable   desarrollo de nubes convectivas con características tornádicas en valle y   Chiloé.</p></td><td><p style=\"text-align:center\">28-11</p></td><td><p style=\"text-align:center\">28-11</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva regional por evento meteorológico</strong></span><strong><span style=\"color:black\">, </span></strong><span style=\"color:black\">vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

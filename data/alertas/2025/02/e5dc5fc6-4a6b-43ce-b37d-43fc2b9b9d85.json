@@ -1,0 +1,20 @@
+{
+	"id": "e5dc5fc6-4a6b-43ce-b37d-43fc2b9b9d85",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Los Álamos por incendio forestal",
+	"fechaHora": "2025-02-13T13:07:21.2121-03:00",
+	"createdAt": "2025-02-13T16:08:13.282Z",
+	"updatedAt": "2025-02-13T16:10:32.108Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-alamos-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Los Álamos,&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>601-LAJA</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>56 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Los Álamos, por incendio forestal, que se mantuvo vigente desde el 11 de febrero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "61bd4561-49a0-4731-9511-fb51e7bc424e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Carahue por incendio forestal",
+	"fechaHora": "2026-02-20T15:15:00.000-03:00",
+	"createdAt": "2026-02-20T18:23:49.173Z",
+	"updatedAt": "2026-02-20T21:06:23.695Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-carahue-por-incendio-forestal-2026-02-20-15-23-30",
+	"parentId": "4c0b68c5-2ba8-4d5e-b0a6-6c08537f0db4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Chacay 7</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.5 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Carahue, 4 brigadas y 1 técnico de   CONAF</p></td></tr></tbody></table><p><br></p><p>De acuerdo con los antecedentes proporcionados por CONAF, en combate se encuentra el incendio forestal denominado Chacay 7, el cual consume al momento 1.5 hectáreas de vegetación en la comuna de Carahue.</p><p><br></p><p><br></p><p>Cabe mencionar, que el incendio se desarrolla cercano a sectores habitados. En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Carahue por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><br></p><p><br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "11a797fe-1b3b-47fe-80a6-fbcc54abfae8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Nueva Imperial por incendio forestal",
+	"fechaHora": "2026-01-29T15:26:43.4343-03:00",
+	"createdAt": "2026-01-29T18:30:17.586Z",
+	"updatedAt": "2026-01-30T16:45:34.699Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-nueva-imperial-por-incendio-forestal-2026-01-29-15-30-02",
+	"parentId": "b4e71a2e-0cfa-4b50-a1b4-20fbc7c6a323",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la&nbsp;<strong>comuna de Nueva Imperial,&nbsp;</strong>se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><span style=\"color:#000000\">Los Guindos</span></span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">6 hectáreas</span></p></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cuerpo de Bomberos de Nueva Imperial</span></div><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">7 brigadas, 1 técnico, 1 helicóptero de combate y 3 aviones cisterna CONAF</span></div></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><span style=\"color:#000000\"><strong>Observaciones</strong></span></span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">El incendio presenta cercanía a sectores habitados.</span></p></td></tr></tbody></table></div><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de Nueva Imperial por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

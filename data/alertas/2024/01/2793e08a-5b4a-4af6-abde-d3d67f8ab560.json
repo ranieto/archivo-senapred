@@ -1,0 +1,20 @@
+{
+	"id": "2793e08a-5b4a-4af6-abde-d3d67f8ab560",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Comuna de Ovalle por incendio forestal ",
+	"fechaHora": "2024-01-14T17:35:00.000-03:00",
+	"createdAt": "2024-01-14T20:39:46.081Z",
+	"updatedAt": "2024-01-14T21:59:38.209Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal",
+	"parentId": "af122a3b-b4ae-46d8-9258-2b349c06433e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal Tabalí, en la comuna de Ovalle, se informa los siguiente:<br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Tabalí</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Amenaza a Servicio Sanitario Rural (SSR)</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPR<span style=\"color: rgb(0, 0, 0)\">ED </span><a name=\"_Hlk156146051\"><span style=\"color: rgb(0, 0, 0)\">declara Alerta Amarilla para la Comuna de Ovalle por incendio forestal</span></a><span style=\"color: rgb(0, 0, 0)\">, vi</span>gente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

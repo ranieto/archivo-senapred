@@ -1,0 +1,19 @@
+{
+	"id": "e26fc4fb-feaa-42b8-a305-a5c1f0084f49",
+	"type": "Evento",
+	"titulo": "Evacuación en comuna de Quillón, Región de Ñuble",
+	"fechaHora": "2026-01-21T17:33:00.000-03:00",
+	"createdAt": "2026-01-21T21:04:58.756Z",
+	"updatedAt": "2026-01-21T21:44:07.915Z",
+	"urlAccess": "procesos-de-evacuacion-con-mensajeria-sae-21012026-2026-01-21-14-02-20",
+	"parentId": "9342c3a1-8c00-434e-9a56-c28c17effb22",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<table><tbody><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Sector</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\"><span style=\"font-size: 16px\">Cancha Los Monteros</span></span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Comuna</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Quillón</span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Hora</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">17:31<br></span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Amenaza</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Incendio forestal</span></div></td></tr></tbody></table><div><span style=\"color: rgb(0, 0, 0)\">​</span></div>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

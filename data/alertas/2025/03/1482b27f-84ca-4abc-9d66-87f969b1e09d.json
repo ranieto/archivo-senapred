@@ -1,0 +1,20 @@
+{
+	"id": "1482b27f-84ca-4abc-9d66-87f969b1e09d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-03-29T18:34:00.000-03:00",
+	"createdAt": "2025-03-29T21:41:20.104Z",
+	"updatedAt": "2025-03-30T15:23:49.681Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-12",
+	"parentId": "d5e3d49a-cdc2-4b6c-b05b-24e04a331590",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, se reportan las siguientes novedades:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Comunas </span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Personas Fallecidas </span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Viviendas Daño menor habitable </span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Puerto   Montt </p></td><td><p style=\"text-align:center\">1</p></td><td><p style=\"text-align:center\">11</p></td></tr><tr><td><p style=\"text-align:center\">Fresia</p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">1</p></td></tr><tr><td><p style=\"text-align:center\">Calbuco</p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">3</p></td></tr><tr><td><p style=\"text-align:center\">Chonchi   </p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">1</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Total   </strong></p></td><td><p style=\"text-align:center\"><strong>1</strong></p></td><td><p style=\"text-align:center\"><strong>16</strong></p></td></tr></tbody></table></div><p style=\"text-align:center\"><span style=\"font-size:11px\">Fuente: Sistema Nacional de Prevención y Respuesta ante Desastres</span></p><p style=\"text-align:justify\">Se reporta 1 persona fallecida debido a la caída de un árbol en el sector Chamiza de la comuna de Puerto Montt.</p><p style=\"text-align:justify\">En tanto, las viviendas indicadas con daño menor habitable son principalmente por voladura de techumbres debido al viento en la zona.</p><p style=\"text-align:justify\">Por otra parte, en la comuna de Puerto Varas, se reportó la caída de 1 letrero publicitario en el Centro Comercial Alto Varas, el cual dejó como resultado 2 vehículos con daños.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva&nbsp;</strong><strong>Regional por evento meteorológico</strong>, vigente desde el 27 de marzo y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

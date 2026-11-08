@@ -1,0 +1,20 @@
+{
+	"id": "9e44b783-2bf8-4bb0-9fa5-58dd054d6d35",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Camiña por aumento de caudal",
+	"fechaHora": "2024-02-25T18:26:00.000-03:00",
+	"createdAt": "2024-02-25T21:26:32.233Z",
+	"updatedAt": "2024-02-28T15:47:25.405Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-camina-por-aumento-de-caudal-2",
+	"parentId": "a3b99f80-8842-4dd1-9d9f-761e609cfb1d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Camiña\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la </span><strong>Dirección General de Aguas</strong><span style=\"color: black\"> (DGA), a través de su </span><strong>plataforma de monitoreo de caudales</strong><span style=\"color: black\">, se ha emitido una </span><strong>alerta roja</strong><span style=\"color: black\"> en la estación denominada “</span><strong>Q. Camiña 3 Km. Arriba de Tarcavire</strong><span style=\"color: black\">”, lo cual prevé una amenaza para la población, sus bienes y el medio ambiente de la comuna de Camiña.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente técnico proporcionado por la DGA, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, <strong>declara Alerta Roja para la comuna de Camiña por aumento de caudal</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Amarilla, por evento meteorológico para la Provincia del Tamarugal, </strong>vigente desde el 21 de febrero de 2024, mientras que en la <strong>Provincia de Iquique se encuentra vigente una Alerta Temprana Preventiva por evento meteorológico</strong>, vigente desde el 24 de febrero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

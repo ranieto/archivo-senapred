@@ -1,0 +1,20 @@
+{
+	"id": "20564594-7a9c-4930-9841-97d1ea64fdca",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Talagante por incendio forestal",
+	"fechaHora": "2025-01-03T14:04:00.000-03:00",
+	"createdAt": "2025-01-03T17:24:23.293Z",
+	"updatedAt": "2025-01-03T20:17:11.472Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-talagante-por-incendio-forestal",
+	"parentId": "ab1596cd-de7c-4c43-8c68-62ec4785c552",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Según lo informado por CONAF, en combate se encuentra el incendio forestal denominado “Camino Carampangue”, el cual afecta una superficie de 2 hectáreas en la comuna de Talagante. </p><p>CONAF indica que el incendio forestal se desarrolla cercano a sectores poblados, por lo que solicita declarar Alerta Roja Comunal por Incendio Forestal.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Talagante por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

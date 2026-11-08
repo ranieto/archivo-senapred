@@ -1,0 +1,20 @@
+{
+	"id": "cdc7e708-ae59-40bc-a8cc-168227835ef0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Osorno por desborde",
+	"fechaHora": "2026-08-02T19:17:01.011-04:00",
+	"createdAt": "2026-08-02T23:18:39.687Z",
+	"updatedAt": "2026-08-02T23:58:22.156Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-osorno-por-desborde-2026-08-01-19-43-36",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, personal de la Ilustre Municipalidad de Osorno indica que durante la presente jornada se realizaron patrullajes de observación en la ribera del Río Damas y del Río Rahue, evidenciando una tendencia al descenso en sus niveles de caudal, lo que contribuiría a disminuir el riesgo para la población y la infraestructura vial ubicada en las cercanías de este curso de agua.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja por desborde para la comuna de Osorno</strong>, que se mantuvo vigente desde el 01 de Agosto.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

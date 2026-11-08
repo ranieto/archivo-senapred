@@ -1,0 +1,20 @@
+{
+	"id": "d41d86e3-ae49-4383-80a1-76cf83a86d0b",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2026-08-30T01:23:26.2626-04:00",
+	"createdAt": "2026-08-30T05:24:37.097Z",
+	"updatedAt": "2026-08-30T05:30:34.144Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-tarapaca-y-antofagasta-2026-08-30-01-24-23",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 01:20 horas en las regiones de Tarapacá y Antofagasta. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:   16px\">Región: Tarapaca </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Alto Hospicio : </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Iquique: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:   16px\">Región: Antofagasta </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Mejillones: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Tocopilla: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br></span>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental.</p><p><br><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

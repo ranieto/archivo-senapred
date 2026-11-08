@@ -1,0 +1,20 @@
+{
+	"id": "97525b1d-7195-4bfa-9814-8f9cad033af3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-02-20T00:52:00.000-03:00",
+	"createdAt": "2024-02-20T03:52:42.298Z",
+	"updatedAt": "2024-03-20T03:08:47.915Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2",
+	"parentId": "c0f5b59b-ab44-43b6-b0af-9825396af337",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá</strong>, producto de las precipitaciones registradas en la localidad de Parca en la comuna de Pozo Almonte, se activó la quebrada Ancuanco, ocasionando la interrupción del tránsito vehicular a la altura del kilómetro 31 de la Ruta A-639, producto del sedimento en la calzada, se dirige al lugar para evaluar la afectación personal del MOP. Cabe destacar, que al momento no se registran personas lesionadas ni otras situaciones de emergencia.<br></p><p style=\"text-align:justify\">Por otra parte, en la localidad de Cancosa de la comuna de Pica las Rutas A-963 y A-97-B, se mantienen con la recomendación de tránsito sólo para vehículos 4x4, producto de la bajada de agua. Asimismo, se informa que en la localidad de Chusmiza de la comuna de Colchane, se recomienda el tránsito con precaución.</p><p style=\"text-align:justify\">Además, conforme a la información proporcionada por la Dirección Meteorológica de Chile (DMC), se mantiene vigente el siguiente alertamiento meteorológico para la Región de Tarapacá:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A31-4</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en Cordillera.</p></td><td><p style=\"text-align:center\">18-02</p></td><td><p style=\"text-align:center\">21-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), a través su Minuta de Peligro de Remoción en Masa, indica que la probabilidad de ocurrencia de flujos de detritos, deslizamientos y/o caída de rocas es <strong>baja</strong> en los sectores del litoral, cordillera de la costa, pampa y precordillera y <strong>moderada</strong> en cordillera de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva para la Provincia del Tamarugal</strong>, por <strong>tormentas eléctricas</strong>, que se mantiene vigente desde el 09 de febrero de 2024 y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

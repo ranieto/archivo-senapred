@@ -1,0 +1,20 @@
+{
+	"id": "7a860b42-39f3-4285-9908-6066136502b8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Machalí por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-05-02T22:02:34.601Z",
+	"updatedAt": "2025-05-02T22:03:37.076Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-machali-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con&nbsp;<span style=\"color: rgb(0, 0, 0)\">la información técnica proporcionada por Conaf,respecto al incendio forestal en la comuna de Machalí, se informa el siguiente detalle:</span></span></p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Quebarada la Paula</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate</div></td></tr><tr><td><div><strong>Superficie afectada</strong></div></td><td><div>1 hectárea</div></td></tr></tbody></table><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins,<strong> la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Machalí por incendio forestal</strong> (ATR N°85), vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

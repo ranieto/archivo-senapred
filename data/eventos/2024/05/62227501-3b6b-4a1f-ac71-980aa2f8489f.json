@@ -1,0 +1,20 @@
+{
+	"id": "62227501-3b6b-4a1f-ac71-980aa2f8489f",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones Metropolitana y O’Higgins  ",
+	"fechaHora": "2024-05-05T01:32:54.5454-04:00",
+	"createdAt": "2024-05-05T05:37:07.225Z",
+	"updatedAt": "2024-05-05T05:41:10.890Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-metropolitana-y-ohiggins",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 01:32 horas en las regiones Metropolitana y O’Higgins.Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Santiago:   </p></td><td><p>III</p></td></tr><tr><td><p>El   Monte: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Rancagua:   </p></td><td><p>III</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

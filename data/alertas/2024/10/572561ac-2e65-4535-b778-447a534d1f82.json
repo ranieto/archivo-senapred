@@ -1,0 +1,20 @@
+{
+	"id": "572561ac-2e65-4535-b778-447a534d1f82",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Tierra del Fuego y Última Esperanza por viento",
+	"fechaHora": "2024-10-29T20:51:00.000-03:00",
+	"createdAt": "2024-10-30T00:06:18.615Z",
+	"updatedAt": "2024-10-30T00:07:33.875Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-18",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego, Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el Aviso A405/2024, el cual pronosticaba viento normal a moderado en cordillera austral sur, insular central, pampa patagónica norte y pampa patagónica sur de la Región de Magallanes. Por otra parte, fue cancelada la Alerta AA82/2024 que pronosticaba viento moderado a fuerte en pampa patagónica sur de la región. Lo anterior, debido al debilitamiento de las condiciones que los originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Temprana Preventiva para las provincias de Magallanes, Tierra del Fuego y Última Esperanza por viento</strong>, que se mantuvo vigente desde el 23 de octubre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

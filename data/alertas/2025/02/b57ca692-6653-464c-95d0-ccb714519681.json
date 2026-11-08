@@ -1,0 +1,20 @@
+{
+	"id": "b57ca692-6653-464c-95d0-ccb714519681",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Roja para la comuna de Hijuelas por incendio forestal",
+	"fechaHora": "2025-02-25T14:11:00.000-03:00",
+	"createdAt": "2025-02-25T17:25:21.619Z",
+	"updatedAt": "2025-02-26T21:52:42.107Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hijuelas-por-incendio-forestal-2",
+	"parentId": "eac0aea0-15dd-40b0-9cab-d8f99366dd8e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Quillota\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Hijuelas\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Activo se mantiene el incendio el que afecta arbolado natural, matorral y pastizal con una proyección haciael Parque Nacional La Campana, y al sector habitacional de Condominio Lafquén. Producto de la proximidadde viviendas, se despachó mensajería SAE para el sector Condominio Lafquén, en la comuna de Hijuelasproceso que se encuentra en desarrollo sin reportarse al momento afectación a personas.</p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Oasis La Campana 3, Hijuelas (Hualcapo)</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectárea</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>​<strong>Bomberos:</strong>Cuerpo de Bomberos de Hijuelas, Cuerpo de Bomberos de La Calera, Cuerpo de Bomberos de Llay Llay, Cuerpo de Bomberos de Nogales.<br>​<strong>Brigadas:</strong>11.<br>​<strong>Técnicos:</strong>5.<br>​<strong>Aeronaves:</strong>4 helicópteros, 4 aviones.<br>​<strong>Otros recursos:</strong>1 equipo comunal de GRD, 2 skidder, 3 aljibes CONAF.</p></td></tr></tbody></table></div><div>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Hijuelas, por incendio forestal, que se encuentra vigente desde el25 de febrero de 2025<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

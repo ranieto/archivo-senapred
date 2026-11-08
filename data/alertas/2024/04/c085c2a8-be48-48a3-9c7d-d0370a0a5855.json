@@ -1,0 +1,20 @@
+{
+	"id": "c085c2a8-be48-48a3-9c7d-d0370a0a5855",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2024-04-16T00:30:00.000-04:00",
+	"createdAt": "2024-04-16T04:31:02.553Z",
+	"updatedAt": "2024-04-16T04:31:52.608Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Antofagasta, debido al debilitamiento de las condiciones que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA21-2</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte con desarrollo de tormentas de arena, en precordillera   salar y cordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A87-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con la probabilidad de tormentas de arena, en los sectores   de cordillera de la costa, pampa, precordillera, precordillera salar y   cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva regional </strong>por viento,que se encontraba vigente desde el 10 de abril.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

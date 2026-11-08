@@ -1,0 +1,20 @@
+{
+	"id": "5805e972-6c3c-4096-9ed2-5a1f0d60f854",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Parinacota y la comuna de Camarones por Evento Meteorológico",
+	"fechaHora": "2024-11-19T15:45:00.000-03:00",
+	"createdAt": "2024-11-19T18:59:39.419Z",
+	"updatedAt": "2024-12-02T01:52:12.234Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico",
+	"parentId": "c7ef9664-2339-40f9-b57c-8c36878db2c9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Parinacota\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</span></p><div><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A439</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas, preferentemente durante la tarde noche, con precipitaciones aisladas, en cordillera de la región.</p></td><td><p style=\"text-align: center\">21-11</p></td><td><p style=\"text-align: center\">24-11</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"font-size: 15px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED&nbsp;<strong>declara Alerta Temprana Preventiva por Evento Meteorológico para la Provincia de Parinacota y la comuna de Camarones</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br><em><span style=\"color: rgb(0, 0, 0)\">SENAPRED&nbsp;recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </span></em></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

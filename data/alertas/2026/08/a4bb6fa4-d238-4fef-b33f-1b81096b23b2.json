@@ -1,0 +1,20 @@
+{
+	"id": "a4bb6fa4-d238-4fef-b33f-1b81096b23b2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región del Maule por crecida",
+	"fechaHora": "2026-08-30T09:00:00.000-04:00",
+	"createdAt": "2026-08-30T13:30:50.483Z",
+	"updatedAt": "2026-08-30T13:31:58.163Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-crecida-2026-08-25-17-52-32",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, las estaciones hidrométricas de monitoreo de la región se mantienen en rangos estables, encontrándose en umbrales verdes, situación que supone una disminución del riesgo para la población cercana a sus cursos hídricos.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por crecida,</strong> que se mantuvo vigente desde el 25 de agosto de 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

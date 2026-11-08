@@ -1,0 +1,20 @@
+{
+	"id": "d396e3c5-345f-4cbb-8808-ee45351205cf",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento zoosanitario",
+	"fechaHora": "2024-09-13T10:58:00.000-03:00",
+	"createdAt": "2024-09-13T14:00:54.595Z",
+	"updatedAt": "2024-09-13T14:01:09.796Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con los antecedentes proporcionados por el </span><strong>Servicio Nacional de Pesca y Acuicultura</strong><span style=\"color: black\"> de la Región de Tarapacá, a través de la emisión de la Resolución Exenta Nº: 5291/2023, de fecha 22 de agosto de 2023, se declara a la República de Chile libre del virus “Influenza Aviar” H5N1. Adicionalmente, a contar del lunes 12 de agosto del presente año, se procedió a finalizar la realización todo tipo de muestras relativas a este virus.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, que supone una disminución del riesgo asociado a esta variable y en coordinación con la Delegación Presidencial de Tarapacá, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva regional</strong></span><span style=\"color:black\">,</span><span style=\"color:black\">por evento zoosanitario, que se mantuvo vigente desde el 10 de diciembre de 2022.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

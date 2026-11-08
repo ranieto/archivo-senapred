@@ -1,0 +1,20 @@
+{
+	"id": "d2c404de-7aec-4176-8c81-dd6d27f3f197",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la comuna de Los Ángeles por desborde",
+	"fechaHora": "2024-06-11T00:16:00.000-04:00",
+	"createdAt": "2024-06-11T04:16:28.948Z",
+	"updatedAt": "2024-06-11T11:43:51.521Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-amenaza-de-desborde",
+	"parentId": "7af05bda-cf16-4a58-ad1a-b88e4cb4d30d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Los Ángeles\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red pluviométrica del Estero Quilque, en el sector de La Vega en la comuna de Los Ángeles, se encuentra en umbral de Alerta Roja.<br></p><p style=\"text-align:justify\">Por otro lado, según los pronósticos elaborados por la Dirección Meteorológica de Chile, se prevé que continúen las precipitaciones durante las próximas horas en la comuna.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Roja por desborde<span style=\"color:black\"> para la comuna de Los Ángeles, </span></strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten. </p><p style=\"text-align:justify\">Cabe señalar que producto de lo anterior, se <span style=\"color:black\">cancela la Alerta Amarilla comunal por amenaza de desborde, que se mantuvo vigente desde el 10 de junio de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

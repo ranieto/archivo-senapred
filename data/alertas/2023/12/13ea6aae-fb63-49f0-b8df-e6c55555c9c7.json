@@ -1,0 +1,20 @@
+{
+	"id": "13ea6aae-fb63-49f0-b8df-e6c55555c9c7",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2023-12-23T07:01:00.000-03:00",
+	"createdAt": "2023-12-23T10:04:01.900Z",
+	"updatedAt": "2023-12-25T17:51:29.500Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-2",
+	"parentId": "47fb339a-db8d-48da-9f07-1a48745b13fb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, con relación al incendio forestal que se registra en la comuna de Valparaíso, se informa lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Calle El Palomar – Laguna Verde.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   se mantiene activo en todos sus sectores con intensidad baja en parte media   del flanco derecho y la parte alta del flanco izquierdo se encuentra activo   en pendiente a favor y generación de focos secundarios.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">A las 17:55 horas de ayer 22 de diciembre fue   enviado 1 mensaje SAE para apoyar la evacuación de los sectores El Palomar y   Las Tórtolas, localidad de Laguna Verde.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos CONAF para hoy 23 de diciembre </strong></p></td><td><p style=\"text-align:justify\">8   técnicos, 14 brigadas, 4 maquinarias, 4 helicópteros y 1 puesto de mando de   CONAF.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Otros recursos</strong></p></td><td><p style=\"text-align:justify\">1   ambulancia ACHS y 3 aeronaves para apoyar el combate de este incendio   gestionadas por SENAPRED.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja por incendio forestal para la comuna de Valparaíso</strong>, que se permanece vigente desde hoy 22 de diciembre de 2023.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

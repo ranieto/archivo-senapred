@@ -1,0 +1,20 @@
+{
+	"id": "b5de7b3e-a66e-4023-acd4-b05b4a20b86c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-03-04T09:46:06.066-03:00",
+	"createdAt": "2026-03-04T12:47:13.539Z",
+	"updatedAt": "2026-03-19T14:50:09.478Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-02-26-11-12-17",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fueron cancelado los alertamientos meteorológicos por precipitaciones y probables tormentas eléctricas para la Región de Los Lagos, debido al debilitamiento de las condiciones meteorológicas que los originaron. Asimismo, en su Informe de Amenaza Meteorológica de hoy, no pronostica precipitaciones para los próximos días en la región.</p><p><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, la Dirección Regional del SENAPRED Los Lagos cancela la Alerta Temprana Preventiva regional por evento meteorológico, la cual se mantuvo vigente desde el 26 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "33a950ad-4f24-4567-b86d-1f3f3d3fa32c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Valparaíso por alteración sanitaria",
+	"fechaHora": "2024-12-02T16:54:50.5050-03:00",
+	"createdAt": "2024-12-02T20:00:17.076Z",
+	"updatedAt": "2025-01-23T18:15:35.485Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria",
+	"parentId": "e80b315d-7f25-4cb4-ae09-5ca2ffad340f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la SEREMI de Salud de Valparaíso, se indica que se mantiene el riesgo asociado al vector de enfermedades <em>arbovirosas</em> denominado <em><span style=\"color:black\">Aedes Aegypti</span></em><span style=\"color: black\">, dado que se han detectado múltiples focos del vector en diversas etapas de desarrollo.</span></p><p style=\"text-align:justify\">Asimismo, con el inicio del periodo estival, se anticipa un aumento en la aparición de vectores debido a condiciones climáticas favorables, sumado a la situación epidemiológica en América del Sur, donde presenta un notable incremento en los casos de enfermedades <em>arbovirosas</em> en comparación con el año anterior, junto con la presencia del vector en zonas limítrofes de Chile, el aumento del tránsito turístico y de carga por el Paso Fronterizo Internacional Los Libertadores, son factores que incrementan el riesgo de nuevas introducciones del vector a la Región de Valparaíso.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva Regional exceptuando las provincias de Los Andes e Isla de Pascua y la comuna de Juan Fernández por alteración sanitaria</strong>, que permanece vigente desde el 16 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El monitoreo de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

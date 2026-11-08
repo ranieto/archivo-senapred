@@ -1,0 +1,19 @@
+{
+	"id": "fb9179d0-3c17-4850-ad76-4bdee0553593",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Valparaíso   ",
+	"fechaHora": "2024-02-16T13:01:01.011-03:00",
+	"createdAt": "2024-02-16T16:01:33.216Z",
+	"updatedAt": "2024-02-16T16:06:40.687Z",
+	"urlAccess": "sismo-de-mediana--intensidad-en-la-region-de-valparaiso",
+	"parentId": "ee5a28d4-7992-4f44-b1df-336088c5429a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las </span><span style=\"font-size: 16px\">12:51 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de Valparaíso.</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Limache   : </p></td><td><p>V</p></td></tr><tr><td><p>Quillota:   </p></td><td><p>IV</p></td></tr><tr><td><p>Quilpué   : </p></td><td><p>IV</p></td></tr><tr><td><p>Los   Andes: </p></td><td><p>III</p></td></tr><tr><td><p>La   Ligua: </p></td><td><p>III</p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>III</p></td></tr></tbody></table><p><br></p><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED</p><p><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.1 localizado a</span> 5 Kms al Noroeste de Los Andes</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

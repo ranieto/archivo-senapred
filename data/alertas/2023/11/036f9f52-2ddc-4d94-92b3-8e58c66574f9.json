@@ -1,0 +1,20 @@
+{
+	"id": "036f9f52-2ddc-4d94-92b3-8e58c66574f9",
+	"type": "Alerta",
+	"titulo": "Se cancela ​Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta, Taltal, Mejillones y Tocopilla por viento",
+	"fechaHora": "2023-11-03T01:09:50.5050-03:00",
+	"createdAt": "2023-11-03T04:12:15.571Z",
+	"updatedAt": "2023-11-03T04:13:05.857Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 12px\">La información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong>&nbsp;indica que se ha cancelado la Alerta Meteorológica que pronosticó la ocurrencia de viento moderado a fuerte en los sectores cordilleranos de la Región de Antofagasta y el Aviso Meteorológico que previó la ocurrencia de viento normal a moderado, con probabil<span style=\"font-size: 12px\">​</span>idad de tormentas de arena en el sector litoral de la región, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p><span style=\"font-size: 12px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional de SENAPRED <strong>cancela Alerta Temprana Preventiva</strong> para la provincia de El Loa y comunas de Antofagasta, Taltal, Mejillones y Tocopilla por viento, vigente desde el 24 de octubre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

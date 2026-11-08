@@ -1,0 +1,20 @@
+{
+	"id": "74c7e8af-aadc-4195-9689-5c6ef5b90adf",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de Padre Las Casas por incendio forestal",
+	"fechaHora": "2025-03-24T03:49:39.3939-03:00",
+	"createdAt": "2025-03-24T06:53:45.241Z",
+	"updatedAt": "2025-03-25T15:47:47.004Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-padre-las-casas-por-incendio-forestal",
+	"parentId": "281a33d4-9547-4607-a95c-5f3a24eb7bf8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Padre Las Casas,&nbsp;se informa el siguiente detalle:</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"></p><table><tbody><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">San Ramón</p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En Combate</p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">1039 hectáreas</p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Al momento, se reporta 1 vivienda   destruida la cual se encontraba deshabitada. Se reportan preliminarmente 7   infraestructuras con daños en evaluación.</p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">4 brigadas, 2 técnico de Conaf. </p></td></tr></tbody></table><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de Padre Las Casas</strong>, por incendio forestal, que se encuentra vigente desde el 23 de marzo de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

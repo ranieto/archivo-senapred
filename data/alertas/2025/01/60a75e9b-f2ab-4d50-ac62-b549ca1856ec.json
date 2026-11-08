@@ -1,0 +1,20 @@
+{
+	"id": "60a75e9b-f2ab-4d50-ac62-b549ca1856ec",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Lumaco por incendio forestal",
+	"fechaHora": "2025-01-10T23:07:15.1515-03:00",
+	"createdAt": "2025-01-11T02:08:00.105Z",
+	"updatedAt": "2025-01-11T16:04:15.859Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lumaco-por-incendio-forestal",
+	"parentId": "a6fe7458-c89d-414e-a0e6-556f8180c055",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que se encuentra en la comuna de Lumaco, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\">Nombre del incendio</p></td><td><p style=\"text-align:justify\">La Leona de Curin</p></td></tr><tr><td><p style=\"text-align:justify\">Estado</p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\">Superficie</p></td><td><p style=\"text-align:justify\">30 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\">Observaciones</p></td><td><p style=\"text-align:justify\">Al momento, se reporta una baja en la intensidad   del incendio forestal,</p><p style=\"text-align:justify\">sin embargo se mantiene cercano a sectores   poblados. Producto de lo anterior,</p><p style=\"text-align:justify\">continúa el combate de los equipos de emergencia   y Bomberos permanece en el lugar. Durante el sábado 11 de enero, se planifica   continuar el combate por parte de CONAF, con brigadas terrestres y 2   helicópteros .</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de Lumaco</strong>, por incendio forestal, que se encuentra vigente desde el 10 de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

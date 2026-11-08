@@ -1,0 +1,20 @@
+{
+	"id": "74cb2c9e-a866-4689-abdc-a1bf3ef1cc4b",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para las comunas de Limache, Quintero, Concón y Quillota por crecida",
+	"fechaHora": "2026-07-22T13:29:00.000-04:00",
+	"createdAt": "2026-07-22T17:40:36.057Z",
+	"updatedAt": "2026-07-22T17:40:56.343Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con <strong>la información proporcionada por Dirección General de Aguas (DGA),</strong> la estación hidrométrica <strong>“Puente Colmo”</strong>, ha registrado un <strong>continuo descenso en su caudal </strong>en las últimas horas, alcanzando valores de <strong>umbral azul</strong>, lo que supone una disminución del riesgo para la población cercana a este curso de agua.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por crecida para las comunas de Limache, Quintero, Concón y Quillota,</strong> que se encontraba vigente desde el 21 de julio. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "d0a60308-ca40-458a-b10f-8ad79dbc54d8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja  para la comuna de Arauco por desborde",
+	"fechaHora": "2024-06-11T17:42:38.3838-04:00",
+	"createdAt": "2024-06-11T21:45:35.358Z",
+	"updatedAt": "2024-06-12T04:57:52.282Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío</strong>, se procedió a la evacuación preventiva de los sectores El Cajón y El Boldo, comuna de Arauco, por desborde del río Piedra Cruz, lo cual fue reforzado mediante un mensaje SAE enviado a las 16:50 horas a la comuna.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, mantiene la Alerta Roja por desborde<span style=\"color: black\"> para la comuna de Arauc</span><strong><span style=\"color:black\">o, </span></strong><span style=\"color:black\">que se mantiene vigente desde el 10 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

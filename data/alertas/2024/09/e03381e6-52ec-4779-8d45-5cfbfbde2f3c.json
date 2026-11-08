@@ -1,0 +1,20 @@
+{
+	"id": "e03381e6-52ec-4779-8d45-5cfbfbde2f3c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento masivo",
+	"fechaHora": "2024-09-23T08:54:06.066-03:00",
+	"createdAt": "2024-09-23T11:55:38.779Z",
+	"updatedAt": "2024-09-23T11:56:41.598Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío</strong>, se indica que las actividades programadas en el contexto de la celebración de las fiestas patrias 2024, que se realizaron entre los días 13 y 22 de septiembre en la región, finalizaron sin registrarse situaciones de emergencia.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva Regional por evento masivo,</strong> que se mantuvo vigentes desde el 13 de septiembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

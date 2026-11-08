@@ -1,0 +1,20 @@
+{
+	"id": "4b9de811-0d0b-420b-9cdc-afa824ecdfa5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de O´Higgins por evento meteorológico",
+	"fechaHora": "2023-09-10T23:51:00.000-03:00",
+	"createdAt": "2023-09-11T03:22:28.296Z",
+	"updatedAt": "2023-09-21T19:07:45.513Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la<strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong>se mantienen vigentes los siguientes Avisos Meteorológicos para la Región de O’Higgins:<br></p><table><tbody><tr><td><div><strong>Aviso A349-1</strong></div></td><td><div>Precipitaciones normales a moderadas en sectores de precordillera y cordillera, entre la mañana del sábado 09 y la mañana del lunes 11 de septiembre.</div></td></tr><tr><td><div><strong>Aviso A352-1</strong></div></td><td><div>Viento normal a moderado en sectores de cordillera, hasta la noche del lunes 11 de septiembre.</div></td></tr><tr><td><div><strong>Aviso A357-4</strong></div></td><td><div>Probables tormentas eléctricas en cordillera de la costa, valle, precordillera y cordillera, hasta la madrugada del lunes 11 de septiembre.</div></td></tr><tr><td><div><strong>Aviso A359-1</strong></div></td><td><div>Precipitaciones normales a moderadas en corto periodo de tiempo en el litoral, cordillera de la costa y valle, hasta la mañana del lunes 11 de septiembre.</div></td></tr></tbody></table><p style=\"text-align: justify\">Adicionalmente, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante su Minuta Técnica por Peligro de Remoción en Masa, indica que la posibilidad de ocurrencia de aluviones (flujo de detritos) y derrumbes (deslizamientos, caídas de rocas) es<strong>alta</strong>en precordillera;<strong>moderada</strong>en los sectores de litoral, cordillera de la costa y valle longitudinal; y<strong>baja</strong>para el sector cordillerano de la Región de O’Higgins.</p><p style=\"text-align: justify\">Además, en base a lo registrado en el monitoreo regional, se reportan precipitaciones moderadas, en tanto que, los<strong>niveles de agua las estaciones hidrométricas de la Dirección General de Aguas (DGA) muestran una tendencia al alza de los principales afluentes de la region</strong>, pudiendo desencadenar desbordes, activación de quebradas y eventos de remoción en masa.</p><p style=\"text-align: justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED<strong>cancela la Alerta Temprana Preventiva y declara Alerta Amarilla regional</strong>por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

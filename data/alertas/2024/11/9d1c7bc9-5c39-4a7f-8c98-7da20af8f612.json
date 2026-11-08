@@ -1,0 +1,20 @@
+{
+	"id": "9d1c7bc9-5c39-4a7f-8c98-7da20af8f612",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento masivo",
+	"fechaHora": "2024-11-25T08:53:30.3030-03:00",
+	"createdAt": "2024-11-25T11:54:33.465Z",
+	"updatedAt": "2024-11-25T11:55:39.346Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Arica y Parinacota, respecto a la Segunda Vuelta Electoral de Gobernadores Regionales 2024, se informa que estas finalizaron sin reportar situaciones relevantes de emergencia.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de </span><span style=\"color:black\">Arica y Parinacota</span><span style=\"color:black\">, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento masivo,</strong> que se mantuvo vigente desde el 22 de noviembre de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

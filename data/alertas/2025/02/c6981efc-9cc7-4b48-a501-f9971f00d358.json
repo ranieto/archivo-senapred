@@ -1,0 +1,20 @@
+{
+	"id": "c6981efc-9cc7-4b48-a501-f9971f00d358",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Parral por incendio forestal",
+	"fechaHora": "2025-02-10T19:50:00.000-03:00",
+	"createdAt": "2025-02-10T23:09:32.918Z",
+	"updatedAt": "2025-02-12T16:43:20.133Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-parral-por-incendio-forestal",
+	"parentId": "ff9a3e30-d104-4851-a6b8-4eecd1903c6a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Parral\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Parral&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Junquillo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>25 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Parral, 4Brigadas CONAF, 5 ARAUCO, 2 CAMBIUM, 1 VISTA HERMOSA, 3 Técnicos CONAF,   3 CAMBIUM, 1 VISTA HERMOSA, 2 AVION CISTERNA CONAF, 2 AVION CISTERNA CONAF, 2   AVION CISTERNA CAMBIUM, 2 SKIDDER CONAF y 1 CAMIÓN ALJIBE.</p></td></tr></tbody></table><p style=\"text-align:justify\">De acuerdo a la información proporcionada por CONAF el incendio forestal Junquillo presenta un comportamiento extremo del fuego en incendio(s) en desarrollo, conforme a la ficha técnica de variable de comportamiento extremo de incendios forestales.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Parral por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "55cc6725-0f2b-4fe7-bd64-0a63791c0206",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Litueche por incendio forestal",
+	"fechaHora": "2026-02-17T13:20:33.3333-03:00",
+	"createdAt": "2026-02-17T16:21:17.372Z",
+	"updatedAt": "2026-02-17T16:23:03.827Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-litueche-por-incendio-forestal-2026-02-16-21-05-40",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información técnica proporcionada por Conaf</strong>&nbsp;respecto al incendio forestal en la comuna de Litueche, se informa el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Aeródromo Litueche</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2.96 (ha)</p></td></tr></tbody></table><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela Alerta Roja para la comuna de Litueche, por incendio forestal, que se mantuvo vigente desde el 16 de febrero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

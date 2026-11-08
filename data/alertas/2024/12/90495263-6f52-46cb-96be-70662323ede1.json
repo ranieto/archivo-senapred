@@ -1,0 +1,20 @@
+{
+	"id": "90495263-6f52-46cb-96be-70662323ede1",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Marchihue por incendio forestal",
+	"fechaHora": "2024-12-02T13:28:06.066-03:00",
+	"createdAt": "2024-12-02T16:33:30.418Z",
+	"updatedAt": "2024-12-03T00:48:52.039Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchihue-por-incendio-forestal-2",
+	"parentId": "7267ff10-db1c-4775-8bdf-3c6e8aa74b1e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF, activo desde las 11:48 horas de hoy se encuentra el Incendio Forestal Carrizal en la comuna de Marchihue, el cual afecta una superficie de 5 hectáreas de vegetación. Asimismo, de acuerdo al análisis técnico efectuado por CONAF, el incendio forestal presenta amenaza inminente a 12 viviendas ubicadas en el sector de Carrizal, a una distancia aproximada de 500 mts. </p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Carrizal</div></td></tr><tr><td><div>Comuna</div></td><td><div>Marchihue</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>5 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>El incendio se encuentra en combate afectando 5 hectáreas de pastizal y eucaliptus .<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>3 compañías de Bomberos y 5 brigadas de CONAF</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Marchihue por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

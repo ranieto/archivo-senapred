@@ -1,0 +1,20 @@
+{
+	"id": "54932bf0-cc40-4a48-8e6a-1bfca1c39621",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chillán por incendio forestal",
+	"fechaHora": "2025-03-12T18:00:35.3535-03:00",
+	"createdAt": "2025-03-12T21:10:40.039Z",
+	"updatedAt": "2025-03-12T21:12:44.910Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para la comuna de Chillán, con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF, que señala lo siguiente:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Loteo alto lantaño</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1,22 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio de pastizal, matorrales y bosque<br></div></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>Cuerpo de Bomberos de Chillán. 7 brigadas de CONAF, 2 técnicos, 4&nbsp; helicóptero aeronaves y 1 UAD</div></td></tr></tbody></table><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

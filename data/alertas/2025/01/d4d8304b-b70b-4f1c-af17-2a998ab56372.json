@@ -1,0 +1,20 @@
+{
+	"id": "d4d8304b-b70b-4f1c-af17-2a998ab56372",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las provincias de San Felipe, Los Andes, Petorca y Quillota por calor extremo y se cancela Alerta Amarilla por calor intenso ",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-13T00:21:16.857Z",
+	"updatedAt": "2025-01-13T10:19:21.622Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-por-calor-intenso-2",
+	"parentId": "8dc684a8-7624-422c-a7c2-976b6d9870bb",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos asociados a la variable de altas temperaturas para la Región de Valparaíso:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA3</p></td><td><p style=\"text-align:justify\">Evento de altas   temperaturas extremas en cordillera de la costa, precordillera y valles   precordilleranos.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A9-2</p></td><td><p style=\"text-align:justify\">Altas temperaturas   en litoral, cordillera de la costa, precordillera y valles precordilleranos.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Roja por calor extremo, para las provincias de San Felipe, Los Andes, Petorca y Quillota,</strong> que se mantuvo vigente desde el 10 de enero de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

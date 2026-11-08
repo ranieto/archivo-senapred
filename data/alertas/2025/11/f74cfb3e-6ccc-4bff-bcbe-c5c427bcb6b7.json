@@ -1,0 +1,20 @@
+{
+	"id": "f74cfb3e-6ccc-4bff-bcbe-c5c427bcb6b7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Copiapó por incendio forestal",
+	"fechaHora": "2025-11-15T19:03:26.2626-03:00",
+	"createdAt": "2025-11-15T22:04:28.833Z",
+	"updatedAt": "2025-11-15T22:04:54.278Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-copiapo-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Copiapó\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 14px;font-family: Roboto;color: rgb(33, 37, 41)\">De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</span></strong></p><table><tbody><tr><td><p><span style=\"font-size: 14px\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"font-size: 14px\">Callejón Bruno Pizarro</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Estado</strong></span></p></td><td><p><span style=\"font-size: 14px\">Extinguido</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Superficie</strong></span></p></td><td><p><span style=\"font-size: 14px\">1.1 [ha]</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Observaciones</strong></span></p></td><td><p><span style=\"font-size: 14px\">No se reportan afectaciones en personas ni   daños en viviendas.</span></p></td></tr></tbody></table><p><span style=\"font-family: Roboto;color: rgb(33, 37, 41);font-size: 14px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal, en relación al incendio forestal denominado “Callejón Bruno Pizarro”, en la comuna de Copiapó, el que afectó una superficie de 1,1 hectáreas de arbolado y pastizales, este se encuentra Extinguido.</span></p><p><span style=\"font-size: 14px;font-family: Roboto;color: rgb(33, 37, 41)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Copiapó, por incendio forestal, que se mantuvo vigente desde el 15 de noviembre de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

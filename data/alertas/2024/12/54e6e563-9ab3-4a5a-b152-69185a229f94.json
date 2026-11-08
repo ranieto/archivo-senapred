@@ -1,0 +1,20 @@
+{
+	"id": "54e6e563-9ab3-4a5a-b152-69185a229f94",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Pencahue por incendio forestal",
+	"fechaHora": "2024-12-13T19:57:00.000-03:00",
+	"createdAt": "2024-12-13T23:04:49.511Z",
+	"updatedAt": "2024-12-14T01:33:46.046Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pencahue-por-incendio-forestal",
+	"parentId": "22f30df5-701d-4780-9aa9-7bd03ccf5a0f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pencahue\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Pencahue, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Caupolican</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.8 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Pencahue por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

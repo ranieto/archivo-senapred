@@ -1,0 +1,20 @@
+{
+	"id": "93e3bd1d-fce4-4121-b0a7-ebd64a60706a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por viento",
+	"fechaHora": "2024-07-04T08:56:00.000-04:00",
+	"createdAt": "2024-07-04T13:18:36.093Z",
+	"updatedAt": "2024-07-04T13:18:49.946Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se ha cancelado la Alerta Meteorológica AA56-1/2024 que pronosticó viento moderado a fuerte en Isla de Pascua, por el debilitamiento de las condiciones que la originaron.<br></p><p style=\"text-align: justify\"><span style=\"color: black !important\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Valparaíso, l</span><span style=\"color: black !important\">a&nbsp;</span><span style=\"color: black !important\">Dirección Regional del SENAPRED&nbsp;</span><span style=\"color: black !important\"><strong>cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por viento</strong><strong>,&nbsp;</strong>que se mantuvo vigente desde el 01 de julio del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

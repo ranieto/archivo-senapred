@@ -1,0 +1,20 @@
+{
+	"id": "8766f720-9689-45e0-9a34-6f242dc6bbd7",
+	"type": "Alerta",
+	"titulo": "Se Cancela Alerta Amarilla para las comunas de Iquique, Alto Hospicio y Huara por precipitaciones",
+	"fechaHora": "2024-10-10T12:56:00.000-03:00",
+	"createdAt": "2024-10-10T16:09:38.755Z",
+	"updatedAt": "2024-10-10T16:11:51.812Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-iquique-alto-hospicio-y-huara-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Iquique, Tamarugal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Huara, Iquique, Alto Hospicio\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A378/2024, el cual pronosticaba precipitaciones normales a moderadas en litoral de la Región de Tarapacá. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>Cancela Alerta Amarilla&nbsp;</strong><strong>para las comunas de Iquique, Alto Hospicio y Huara</strong>, <strong>por precipitaciones</strong>, la que se mantuvo vigente desde el 8 de octubre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "454bb296-af19-4fe3-ac64-6705ab2534c5"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "8f0ec7c7-2517-4552-b524-a1eb6f6096aa",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2024-12-25T10:44:01.011-03:00",
+	"createdAt": "2024-12-25T13:51:34.421Z",
+	"updatedAt": "2024-12-27T23:22:12.022Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal",
+	"parentId": "6dd9de10-72b5-4b6a-8405-c9a9e7862e4f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la&nbsp;</span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), el Incendio forestal presenta 5 puntos contenidos y uno activo.</strong></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Raya</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>940 hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">Bomberos de Cauquenes, 10 Brigadas CONAF, 2 brigadas Forestal Arauco, 1 brigadas Forestal Vista Hermosa, 7 Técnicos CONAF, 3 Aviones Cisterna CONAF, 6 aeronaves CONAF, 2 camiones cisternas Conaf.</p><p style=\"text-align: justify\">Otros recursos: 4 Skidder CONAF, 2 Skidder Forestal Arauco y 1 puesto de mando</p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Cauquenes, por incendio forestal, que se encuentra vigente desde el 24 de diciembre de 2024.<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

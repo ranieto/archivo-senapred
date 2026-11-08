@@ -1,0 +1,20 @@
+{
+	"id": "18aa3d9a-ff51-4626-afa0-ffcab96cb805",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva Región de O’Higgins por amenaza de desborde",
+	"fechaHora": "2024-04-09T18:43:00.000-04:00",
+	"createdAt": "2024-04-09T22:52:58.060Z",
+	"updatedAt": "2024-04-09T22:53:50.400Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con los nuevos antecedentes técnicos proporcionados por la Dirección General de Aguas (DGA),</strong> mediante el monitoreo constante de las cuencas de la región, principalmente en los sectores cordilleranos y precordilleranos, se puede observar en las condiciones actuales que se ha superado el peligro de desborde y aumento de caudales por deshielos, situación que supone una disminución del riesgo asociado a dicha amenaza.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional</strong>, por amenaza de desborde, la que se mantuvo vigente desde el 07 de diciembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

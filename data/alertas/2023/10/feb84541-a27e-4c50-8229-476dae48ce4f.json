@@ -1,0 +1,20 @@
+{
+	"id": "feb84541-a27e-4c50-8229-476dae48ce4f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Atacama por evento zoosanitario",
+	"fechaHora": "2023-10-15T13:29:00.000-03:00",
+	"createdAt": "2023-10-15T16:34:17.430Z",
+	"updatedAt": "2024-04-02T22:20:50.311Z",
+	"urlAccess": "monitoreo-alerta-temprana-preventiva-para-la-region-de-atacama-por-evento-zoosanitario",
+	"parentId": "8c5d81a2-013f-409e-99d2-48fec6c28373",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG) y SERNAPESCA</strong>, en función de la Emergencia Zoosanitaria y de la Alerta Temprana Preventiva Regional por “Influenza Aviar” H5N1, se informa lo siguiente:<br></p><table><tbody><tr><td><div>Cantidad de brotes a la fecha</div></td><td><div>19 (agrupados en 10 zonas).</div></td></tr><tr><td><div>Comunas afectadas</div></td><td><p>• Caldera (Las Machas, playa Loreto, playa Ramada, playa Pulpito, playa Rodillo, Caldera y puerto Punta Padrones).</p><p>• &nbsp;Huasco (Guacolda I y II, Sector Humedal, playa Grande, playa Blanca Llanos de Challe y Piedra Azul).</p><p>• Freirina (Chañaral de Aceituno).</p><p>• Chañaral (Flamenco, playa Las Pocitas, Los Amarillos y Pan de Azúcar).</p></td></tr><tr><td><div>Cantidad de aves muestreadas</div></td><td><div>322</div></td></tr><tr><td><div>Cantidad de traspatios positivos</div></td><td><div>1 (Chañaral de Aceituno)</div></td></tr><tr><td><div>Cantidad de aves muertas</div></td><td><div>8.157</div></td></tr><tr><td><div>Cantidad de pingüinos de Humboldt muertos</div></td><td><div>428</div></td></tr><tr><td><div>Cantidad de pingüinos magallánicos muertos</div></td><td><div>1</div></td></tr><tr><td><div>Marsopa Espinosa</div></td><td><div>1</div></td></tr><tr><td><div>Chungungo</div></td><td><div>4</div></td></tr><tr><td><div>Cachalote enano</div></td><td><div>1</div></td></tr><tr><td><div>Cachalote</div></td><td><div>1</div></td></tr><tr><td><div>Cantidad de lobos marinos muertos</div></td><td><div>1.570</div></td></tr><tr><td><div>Especies afectadas</div></td><td><div>Gallinas, Pelicanos, Guanay, Huala, Piqueros, Gaviota dominicana, Gaviota garuma, Gaviota peruana.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva </strong>regional, por evento zoosanitario, que se mantiene vigente desde el 19 de diciembre de 2022.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

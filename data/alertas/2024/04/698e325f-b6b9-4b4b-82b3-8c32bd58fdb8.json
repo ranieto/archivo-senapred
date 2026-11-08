@@ -1,0 +1,20 @@
+{
+	"id": "698e325f-b6b9-4b4b-82b3-8c32bd58fdb8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por amenaza de incendios forestales",
+	"fechaHora": "2024-04-01T16:19:00.000-03:00",
+	"createdAt": "2024-04-01T19:20:55.662Z",
+	"updatedAt": "2024-04-01T19:22:00.728Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), las condicionesmeteorológicas para los próximos días en la región serán favorables para el control de incendios forestales.Por otra parte, de acuerdo a los antecedentes proporcionados por CONAF, mediante su botón rojo, no existeamenaza para la propagación de incendios forestales.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPREDcancela la Alerta Temprana Preventiva para la Región de La Araucanía, por amenaza de incendios forestales,que se mantuvo vigente desde el 19 de enero de 2024.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

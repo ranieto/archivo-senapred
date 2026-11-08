@@ -1,0 +1,19 @@
+{
+	"id": "3b22dbdf-7341-4375-82fa-737adc88a534",
+	"type": "Evento",
+	"titulo": " Monitoreo sismo de mediana intensidad en las regiones de Atacama, Coquimbo y Valparaíso",
+	"fechaHora": "2024-02-13T23:40:49.4949-03:00",
+	"createdAt": "2024-02-14T02:42:01.672Z",
+	"updatedAt": "2024-02-14T06:40:40.968Z",
+	"urlAccess": "monitoreo-sismo-de-mediana-intensidad-en-las-regiones-de-atacama-coquimbo-y-valparaiso",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, debido a un sismo de mediana intensidad ocurrido a las 22:32 horas de hoy, con una magnitud 5.8 Mw a 53 kilómetros al Sur de Huasco, según lo indicado por el Centro Sismológico Nacional (CSN), se reporta alteración de conectividad de la Ruta 5 en los kilómetros 587 y 598, comuna de Vallenar, producto del desprendimiento de rodados menores ocasionado por el sismo.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Carabineros y personal de la Ruta del Algarrobo se dirigen al lugar.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

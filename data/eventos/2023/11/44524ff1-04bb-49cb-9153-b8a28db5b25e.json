@@ -1,0 +1,20 @@
+{
+	"id": "44524ff1-04bb-49cb-9153-b8a28db5b25e",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2023-11-26T20:24:33.3333-03:00",
+	"createdAt": "2023-11-26T23:25:19.792Z",
+	"updatedAt": "2023-11-26T23:25:19.792Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-atacama-y-coquimbo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">20:08&nbsp;</span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en las regiones de Atacama y Coquimbo.&nbsp;</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Huasco:   </p></td><td><p>IV</p></td></tr><tr><td><p>Freirina:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>III</p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>II</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.5 localizado a </span>23 Kms al Oeste de Huasco.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

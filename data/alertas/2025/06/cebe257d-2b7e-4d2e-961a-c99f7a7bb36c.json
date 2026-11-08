@@ -1,0 +1,20 @@
+{
+	"id": "cebe257d-2b7e-4d2e-961a-c99f7a7bb36c",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la comuna de San Juan de la Costa por evento meteorológico",
+	"fechaHora": "2025-06-25T19:17:00.000-04:00",
+	"createdAt": "2025-06-25T23:19:28.120Z",
+	"updatedAt": "2025-07-02T16:03:23.786Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-juan-de-la-costa-por-evento-meteorologico",
+	"parentId": "f9408a7d-4679-4b34-a268-206d9b506263",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Lagos, respecto del pasado evento meteorológico en la región, se indica que el río Quihué ha disminuido su caudal, permitiendo el tránsito de vehículos con tracción en el sector, por lo que las 13 personas que se encontraban aisladas ya no mantienen esta condición. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En relación a los daños en la pasarela peatonal del sector Trafunko – Los Bados, se informa que el Departamento de Obras Municipales se hará cargo de la reparación de un tensor.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla para la comuna de San Juan de la Costa por evento meteorológico, </strong>que se encuentravigente a contar desde el 15 de junio.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

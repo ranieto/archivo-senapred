@@ -1,0 +1,20 @@
+{
+	"id": "e90bd189-d73b-458e-baa4-75f0f17261c3",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de San Pedro por incendio forestal",
+	"fechaHora": "2025-12-18T12:13:00.000-03:00",
+	"createdAt": "2025-12-18T15:45:51.093Z",
+	"updatedAt": "2025-12-19T00:22:48.332Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal-2025-12-15-18-52-33",
+	"parentId": "9f1de790-d584-4a26-8232-6620de0294ff",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de<strong>&nbsp;San Pedro,&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Quilamuta</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2.321 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Al momento no se reportan personas   lesionadas, 3 viviendas destruidas, 1 bodega destruida y 2 viviendas en   evaluación.</p><p style=\"text-align:justify\">La declaración de Alerta Amarrilla se debe a un reforzamiento del <span style=\"font-size: 14px\"><span style=\"color: rgb(0, 29, 53)\"><span style=\"color: rgb(71, 71, 71)\">Sistema Nacional de Prevención y Respuesta ante Desastres</span>&nbsp;</span>para el control del incendio.</span><br></p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja y <strong>declara Alerta Amarilla para la Comuna de San Pedro</strong> por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

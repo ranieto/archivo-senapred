@@ -1,0 +1,20 @@
+{
+	"id": "c63f2a21-02f5-4684-802d-2fa04e8baa1b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Comuna de Rauco por incendio forestal",
+	"fechaHora": "2024-11-12T18:45:00.000-03:00",
+	"createdAt": "2024-11-12T22:12:32.597Z",
+	"updatedAt": "2024-11-13T01:27:24.462Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-rauco-por-incendio-forestal",
+	"parentId": "e50b4382-dbb4-47cb-8cfd-35a8dc847f87",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Rauco\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>​En combate se encuentra el incendio forestal denominado Tricao, el cual consume al momento 2 hectáreasde vegetación en la comuna de Rauco.Cabe mencionar, que el incendio presenta comportamiento extremo y rápido avance en su frente.</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Tricao</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 brigadas de Conaf, 6 técnicos, 2 camiones aljibes, 2   helicópteros, 1 puesto de mando y 3 skidder</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPREDdeclara Alerta Amarilla para la Comuna de Rauco por incendio forestal, vigente desde hoy y hasta que lascondiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca enextensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

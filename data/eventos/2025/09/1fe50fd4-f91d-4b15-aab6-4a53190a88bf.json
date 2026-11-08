@@ -1,0 +1,19 @@
+{
+	"id": "1fe50fd4-f91d-4b15-aab6-4a53190a88bf",
+	"type": "Evento",
+	"titulo": "Incendio forestal, comuna de Linares (Amplía información)",
+	"fechaHora": "2025-09-08T17:54:00.000-03:00",
+	"createdAt": "2025-09-08T21:04:03.552Z",
+	"updatedAt": "2025-09-09T03:34:36.418Z",
+	"urlAccess": "incendio-forestal-comuna-de-linares-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionda por CONAF Maule, se reportan focos de incendio forestal en el sector Quebrada de Medina, 3 kilómetros al este, desde el Embalse Ancoa, comuna de Linares.</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Quebrada de Medina</div></td></tr><tr><td><div><strong>Superficie afectada</strong></div></td><td><div>0,01 hectáreas</div></td></tr></tbody></table><p style=\"text-align: justify\">Al momento, no se reportan personas lesionadas o amenaza a centros poblados y/o infraestructuras críticas del sector&nbsp;y 3 técnicos CONAF se encuentran trabajando en la zona.</p><p>​</p>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

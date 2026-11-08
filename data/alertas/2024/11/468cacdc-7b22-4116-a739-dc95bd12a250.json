@@ -1,0 +1,20 @@
+{
+	"id": "468cacdc-7b22-4116-a739-dc95bd12a250",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Yungay por incendio forestal",
+	"fechaHora": "2024-11-25T20:25:19.1919-03:00",
+	"createdAt": "2024-11-25T23:30:16.135Z",
+	"updatedAt": "2024-11-25T23:58:48.982Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-yungay-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,</strong>&nbsp;respecto al incendio forestal en la comuna de Yungay se informa el siguiente detalle:</p><p>Incendio contenido, sin amenaza a viviendas.<br></p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p><strong>Campanario</strong></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate - Contenido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.2 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal no presenta amenaza a viviendas</p></td></tr></tbody></table></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Yungay, por incendio forestal.</div><hr>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

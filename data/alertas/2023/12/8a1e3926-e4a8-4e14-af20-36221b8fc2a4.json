@@ -1,0 +1,20 @@
+{
+	"id": "8a1e3926-e4a8-4e14-af20-36221b8fc2a4",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Amarilla para las comunas de Copiapó y Tierra Amarilla por viento",
+	"fechaHora": "2023-12-30T22:46:00.000-03:00",
+	"createdAt": "2023-12-31T01:49:18.878Z",
+	"updatedAt": "2023-12-31T01:53:36.329Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-copiapo-y-tierra-amarilla-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Copiapó, Tierra Amarilla\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>Dirección Meteorológica de Chile (DMC) y la <strong>Dirección Regional de SENAPRED Atacama</strong>, con respecto al reporte de viento en las comunas de Copiapó y Tierra Amarilla, se indica que al momento se observa una disminución de la velocidad del viento registrada en la estación meteorológica “Universidad de Atacama”, quedando en el rango débil a normal.<br></p><p style=\"text-align:justify\">Asimismo, según los antecedentes entregados por la empresa eléctrica CGE, se encuentra normalizado el servicio de suministro eléctrico, cuyo corte afectó a diversos sectores de las comunas de Copiapó y Tierra Amarilla. Cabe mencionar, que no se registran situaciones de emergencia derivadas de este evento.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para las comunas de Copiapó y Tierra Amarilla por viento</strong>, que se mantuvo vigente desde hoy 30 de diciembre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "2461cd63-6197-4a3c-9354-18994c2b175d"
+}

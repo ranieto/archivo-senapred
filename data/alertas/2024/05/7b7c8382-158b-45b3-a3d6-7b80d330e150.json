@@ -1,0 +1,20 @@
+{
+	"id": "7b7c8382-158b-45b3-a3d6-7b80d330e150",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Carahue, Saavedra, Toltén y Teodoro Schmidt por tormentas eléctricas",
+	"fechaHora": "2024-05-07T10:20:00.000-04:00",
+	"createdAt": "2024-05-07T14:48:55.401Z",
+	"updatedAt": "2024-05-07T14:50:02.488Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-saavedra-tolten-y-teodoro-schmidt-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín, Malleco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Carahue, Saavedra, Toltén, Teodoro Schmidt\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A139/2024, que pronosticó la ocurrencia de probables tormentas eléctricas en el litoral y cordillera de la costa de la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva para las comunas de Carahue, Saavedra, Toltén y Teodoro Schmidt, por tormentas eléctricas </strong>que se mantuvo vigente desde el 05 de mayo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

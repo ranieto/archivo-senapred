@@ -1,0 +1,20 @@
+{
+	"id": "a4bbf300-a223-4750-8ffd-42ebd4cf38bc",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Puerto Montt por remoción en masa",
+	"fechaHora": "2025-06-25T22:17:00.000-04:00",
+	"createdAt": "2025-06-26T02:20:54.826Z",
+	"updatedAt": "2025-07-17T23:46:51.036Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-puerto-montt-por-remocion-en-masa",
+	"parentId": "9cf3f7a9-50a8-4725-b5ae-3dc76ef8aeb8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos, respecto a la remoción en masa ocurrida el 10 de junio en el kilómetro 10 de la Ruta V-805, comuna de Puerto Montt, se informa que durante la presente jornada se realizó una reunión dirigida por la Delegada Presidencial Regional en terreno, donde se determinó que, a partir de las 00:00 de este jueves 26 de junio, se extenderá a horario continuo la habilitación de la pista de la ruta que opera en ambos sentidos.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que como medida de mitigación aún se mantienen barreras que ocupan una de las pistas de la ruta antes mencionada.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la</strong></span><strong><span style=\"color:black\"> Alerta Amarilla por remoción en masa </span><span style=\"color:black\">para la comuna de Puerto Montt</span></strong><span style=\"color:black\">, que se encuentra vigente desde el 13 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante la jornada de hoy se realizó una reunión en terreno, encabezada por la Delegada Presidencial Regional y contó con la participación de la Dirección Regional del SENAPRED, Dirección de Seguridad Pública, SERVIU, SERNAGEOMIN, SEREMI de Transportes y Alcalde junto a personal municipal.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, SENAPRED, SERNAGEOMIN y la Municipalidad de Puerto Montt se mantienen elaborando un Plan de Emergencia para la variable de remoción en masa.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

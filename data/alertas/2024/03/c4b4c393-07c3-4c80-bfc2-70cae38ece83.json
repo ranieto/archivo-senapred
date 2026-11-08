@@ -1,0 +1,20 @@
+{
+	"id": "c4b4c393-07c3-4c80-bfc2-70cae38ece83",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Biobío por amenaza de incendios forestales",
+	"fechaHora": "2024-03-19T15:03:00.000-03:00",
+	"createdAt": "2024-03-19T18:21:48.439Z",
+	"updatedAt": "2024-03-19T18:22:03.272Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-para-la-region-de-biobio-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">De acuerdo a lo <strong>informado por la Corporación Nacional Forestal (CONAF),</strong> existen condiciones favorables para el control de incendios forestales. Asimismo, se prevé una baja en la temperatura máxima, un aumento en la humedad relativa y presencia de precipitaciones para los próximos días en la región.</span><br></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong> para la Región de Biobío, por amenaza de incendios forestales, que se mantuvo vigente desde el 05 de diciembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

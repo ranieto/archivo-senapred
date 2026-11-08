@@ -1,0 +1,20 @@
+{
+	"id": "326e37f7-a233-4808-bbdc-7270dbd01bd9",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San José de Maipo por incendio forestal",
+	"fechaHora": "2026-04-04T16:04:14.1414-03:00",
+	"createdAt": "2026-04-04T19:09:00.053Z",
+	"updatedAt": "2026-04-04T20:40:02.534Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-jose-de-maipo-por-incendio-forestal-2026-04-03-20-46-21",
+	"parentId": "84983089-b13c-464e-bec4-84ef0bd5b2ca",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 18px\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo&nbsp;<strong>con la información técnica proporcionada por Conaf&nbsp;</strong>respecto al&nbsp;incendio forestal en la comuna de San José de Maipo, se informa el siguiente detalle:</span></span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><div><table><tbody><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Jaboncillo</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">10.5 hectáreas</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cuerpo de Bomberos de San José</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">4 brigadas, 7técnicos, 1 aeronaves y 1 puesto de mando Conaf</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">4 camiones y 5 funcionarios Ilustre Municipalidad de San José de Maipo</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">3 voluntarios Guardia Cordillera Forestal<br></span></p></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Al momento no se reportan afectaciones en personas, ni daños a viviendas u otras infraestructuras a raíz de este incendio.<br></span></div></td></tr></tbody></table></div><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></div><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la comuna de San José de Maipo por incendio foresta</strong>l, que se encuentra vigente desde el 03 de abril de 2026.</span><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

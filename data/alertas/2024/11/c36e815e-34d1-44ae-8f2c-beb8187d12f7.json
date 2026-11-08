@@ -1,0 +1,20 @@
+{
+	"id": "c36e815e-34d1-44ae-8f2c-beb8187d12f7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2024-11-25T23:05:48.4848-03:00",
+	"createdAt": "2024-11-26T02:10:18.544Z",
+	"updatedAt": "2024-11-26T14:23:09.368Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-santo-domingo-por-incendio-forestal-2",
+	"parentId": "b49ea24f-6f5d-496f-9adc-2075c5c2ff0f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal \"Bucalemu\" se mantiene \"controlado\", con una superficie de 30 hectáreas de vegetación en la comuna de Santo Domingo.<br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Bucalemu</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>30 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio contenido sin avance con puntos calientes al interior del área quemada. Para la jornada de mañana, se encuentra contemplado el trabajo de 1 técnico de CONAF, a contar de las 09:00 horas.<br></div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Santo Domingo, por incendio forestal, que se encuentra vigente desde el 25 de noviembre de 2024.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4c40044e-de9d-45c1-a2b9-db88cd72b40b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva repara la Región de Los Lagos por tormentas eléctricas",
+	"fechaHora": "2024-12-06T11:21:00.000-03:00",
+	"createdAt": "2024-12-06T14:58:15.555Z",
+	"updatedAt": "2024-12-06T15:04:24.012Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-tormentas-electricas-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) </strong>ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos, debido al debilitamiento de las condiciones que lo originaron.</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A449-1</p></td><td><p style=\"text-align:justify\"><strong>Probables   tormentas eléctricas</strong> con   probabilidad de <strong>precipitaciones fuertes en corto periodo de tiempo</strong> en   valle, precordillera, Cordillera, Chiloé y Patagonia Subandina.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por tormentas eléctricas, </strong>que se mantenía vigente desde el 05 de diciembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

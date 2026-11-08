@@ -1,0 +1,20 @@
+{
+	"id": "3e843566-e4f0-42a0-b664-f4a9e7fc56ab",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla por incendio forestal para las comunas de Marchihue y La Estrella",
+	"fechaHora": "2024-01-02T17:10:00.000-03:00",
+	"createdAt": "2024-01-02T20:18:07.677Z",
+	"updatedAt": "2024-01-03T17:18:32.433Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-marchihue-y-la-estrella-por-incendio-forestal",
+	"parentId": "00227612-94f3-48c3-8883-cc01a0eecc8e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"La Estrella, Marchigüe\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en las comunas de Marchihue y La Estrella, con el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cruce La Rosa</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">174 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El Incendio forestal se encuentra activo en todos   sus sectores con intensidad media a alta y avance rápido. La proyección del   incendio amenaza a 12 viviendas aproximadamente en su frente de avance, en el   sector Noreste entre las comunas de Marchihue y La Estrella.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">A las 16:54 horas de hoy fue enviado 1 mensaje SAE   para apoyar la evacuación del sector Parcelación La Aguada, comuna de La   Estrella.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por incendio forestal para las comunas de Marchihue y La Estrella</strong>, vigente desde el 02 de enero de 2024.</p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio 2 técnicos, 5 brigadas, 3 camiones aljibe, 1 puesto de mando, 4 Skidder, 3 helicópteros y 4 aviones de CONAF, apoyados por Bomberos de Marchihue, Peralillo, Litueche, Pichilemu, Palmilla, Navidad, Pumanque y La Estrella.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

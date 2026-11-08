@@ -1,0 +1,20 @@
+{
+	"id": "3fdbcdf0-d749-4aab-9704-984e3d31bb7b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla Comunal por actividad del Volcán Copahue en la Región del Biobío",
+	"fechaHora": "2024-11-08T16:32:00.000-03:00",
+	"createdAt": "2024-11-08T19:54:45.461Z",
+	"updatedAt": "2024-12-07T00:04:42.333Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-alto-biobio-por-actividad-del-volcan-copahue",
+	"parentId": "8d49f4a8-f771-448e-b3e1-8329dd0012d0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el Volcán Copahue mantiene la alerta técnica en nivel Amarillo [1]. <br><br>En relación con el Reporte de Actividad Volcánica (RAV) emitido por OVDAS-SERNAGEOMIN hoy 08 de noviembre, que comprende el período entre el 01 y 31 de octubre, se informa que la actividad volcánica ha permanecido por sobre su nivel base evidenciado por la presencia de anomalías superficiales. Se registra emisión de piroclastos principalmente entre el 17 y 22 de octubre, con intensidad variable y columnas de altura máxima de hasta 280 metros. Asimismo, el depósito de caída de piroclastos se extendió en dirección Sureste.<br><br>Sumado a lo anterior, se registró incandescencia entre los días 15 al 20 de octubre, mientras que, desde la perspectiva satelital, se ha identificado radiancia térmica anómala de manera recurrente, de moderada intensidad. <br><br>Además, una característica importante que ha estado presente durante inestabilidades anteriores es el actual abatimiento del lago cratérico. Con respecto a esto, los datos provenientes de la red geodésica no sugieren algún tipo de variación relevante. <br><br>Finalmente, el comportamiento sísmico debido a esta mayor actividad permanece con niveles bajos de ocurrencia y energía. <br><br>Cabe mencionar que, dado el comportamiento de este sistema volcánico observado durante los últimos 8 años, no se descartan explosiones de baja magnitud, súbitas y sin precursores que afecten el entorno inmediato del cráter activo. No obstante, en el contexto de su nivel base, este tipo de evento no ha sido frecuente, por lo que se considera con una baja probabilidad de ocurrencia. Peligros asociados a esta actividad menor consisten en la eyección de piroclastos balísticos, emisión de ceniza y gases volcánicos.<br><br>Para más información del organismo técnico, consultar en https://rnvv.sernageomin.cl/volcan-copahue/<br><br>En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN y en coordinación con la Delegación Presidencial Regional, la Dirección Regional del SENAPRED Biobío mantiene la Alerta Amarilla para la comuna de Alto Biobío, por actividad del volcán Copahue, que se mantiene vigente desde el 24 de octubre de 2024 y hasta que las condiciones del evento así lo ameriten.<br><br>Asimismo, se mantiene el radio mínimo de afectación de 500 metros en el entorno inmediato del cráter El Agrio por la alta probabilidad que se continúe la emisión de cenizas, las que pueden caer en territorio chileno, dependiendo de las condiciones del viento. <br><br>Por su parte, SERNAGEOMIN continúa con la vigilancia permanente del volcán y la Dirección Regional de SENAPRED Biobío mantendrá las coordinaciones con los integrantes del SINAPRED para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia.<br><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "76b77de1-050e-4c20-93a4-083b9855302d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las provincias de Valparaíso y Marga Marga por incendio forestal",
+	"fechaHora": "2024-03-16T21:47:40.4040-03:00",
+	"createdAt": "2024-03-17T00:48:46.995Z",
+	"updatedAt": "2024-03-17T00:50:08.904Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal Complejo Las Tablas-Reserva Lago Peñuelas, se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk161517974\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Complejo Las Tablas-Reserva Lago Peñuelas</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>8.566,6   hectáreas </p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para las Provincias de Valparaíso y Marga Marga, por incendio forestal, que se mantuvo vigente desde el 02 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

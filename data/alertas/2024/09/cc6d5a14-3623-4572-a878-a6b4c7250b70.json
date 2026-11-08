@@ -1,0 +1,20 @@
+{
+	"id": "cc6d5a14-3623-4572-a878-a6b4c7250b70",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2024-09-20T01:30:00.000-03:00",
+	"createdAt": "2024-09-20T07:14:43.348Z",
+	"updatedAt": "2024-09-20T07:15:17.473Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-viento-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> han sido cancelados los Avisos Meteorológicos A338-3 por viento normal a moderado con probabilidad de tormentas de arena en cordillera de la costa, precordillera, precordillera salar y cordillera; y A344 por viento normal a moderado con probabilidad de tormentas de arena en litoral. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por viento</strong>, la cual se mantuvo vigente desde el 09 de septiembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

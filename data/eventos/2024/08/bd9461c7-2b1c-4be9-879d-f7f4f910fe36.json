@@ -1,0 +1,19 @@
+{
+	"id": "bd9461c7-2b1c-4be9-879d-f7f4f910fe36",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Atacama",
+	"fechaHora": "2024-08-31T00:29:38.3838-04:00",
+	"createdAt": "2024-08-31T04:32:22.114Z",
+	"updatedAt": "2024-08-31T04:37:03.312Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-atacama-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 00:26 en la Región de Atacama.&nbsp;</span><br></p><p style=\"text-align: left\"><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>V</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>V</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br><u>Observaciones</u><br><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

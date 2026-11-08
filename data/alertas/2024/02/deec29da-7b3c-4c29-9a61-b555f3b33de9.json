@@ -1,0 +1,20 @@
+{
+	"id": "deec29da-7b3c-4c29-9a61-b555f3b33de9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de San Pedro por incendio forestal",
+	"fechaHora": "2024-02-13T20:23:15.1515-03:00",
+	"createdAt": "2024-02-13T23:24:21.361Z",
+	"updatedAt": "2024-02-13T23:25:31.553Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Pedro\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Corporaión Nacional Forestal (CONAF)</span></strong><span style=\"color: black\">, controlado se encuentra el incendio forestal denominado “Cuesta Changanal”, el cual consume al momento una superficie de 690 hectáreas de vegetación en la comuna de San Pedro.</span><br></p><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de San Pedro, por incendio forestal, que se mantuvo vigente desde el 12 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

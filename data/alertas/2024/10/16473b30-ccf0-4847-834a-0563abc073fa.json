@@ -1,0 +1,20 @@
+{
+	"id": "16473b30-ccf0-4847-834a-0563abc073fa",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2024-10-10T21:01:45.4545-03:00",
+	"createdAt": "2024-10-11T00:03:49.722Z",
+	"updatedAt": "2024-10-11T02:46:59.178Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-por-tormentas-electricas-para-la-provincia-del-loa-y-las-comunas-de-antofagasta-y-taltal",
+	"parentId": "2ebb8d74-e286-4386-8d2b-c77c9c39c51f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con los antecedentes proporcionados por la Dirección Regional de SENAPRED Antofagasta</strong>, se informa que el servicio del suministro de electricidad en la comuna de Ollagüe se encuentra restablecido en su totalidad.<br></p><p style=\"text-align:justify\">En tanto, habilitado se encuentra el tránsito vehicular desde el Salar de Ascotán hacia la comuna de Ollagüe y en la ruta 27-CH. Al momento, solo se mantienen cerrados según horarios establecidos los pasos fronterizos de la región.</p><p style=\"text-align:justify\">Por otra parte, para el día de mañana el Colegio San Antonio de Padua de la comuna de Ollagüe, operará de forma normal. </p><p style=\"text-align:justify\">Cabe destacar, que la Dirección Meteorológica de Chile (DMC), mantiene vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA80-1</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte con desarrollo de tormentas de arena en cordillera de la   costa, precordillera, precordillera salar y cordillera.</p></td><td><p style=\"text-align:justify\">09-10</p></td><td><p style=\"text-align:justify\">10-10</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A375-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de tormentas de arena en litoral,   cordillera de la costa, pampa, precordillera, precordillera salar y   cordillera.</p></td><td><p style=\"text-align:justify\">09-10</p></td><td><p style=\"text-align:justify\">10-10</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Temprana Preventiva Regional por viento</strong>, que se encuentra vigente desde el 03 de octubre y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Personal de la Ilustre Municipalidad de Ollagüe efectuó las gestiones pertinentes para la reposición total del servicio de suministro eléctrico.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, trabajaron en los diversos eventos Carabineros, personal municipal y provincial.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

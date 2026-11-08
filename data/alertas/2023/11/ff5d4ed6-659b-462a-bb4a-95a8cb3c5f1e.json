@@ -1,0 +1,20 @@
+{
+	"id": "ff5d4ed6-659b-462a-bb4a-95a8cb3c5f1e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por tormentas eléctricas",
+	"fechaHora": "2023-11-02T22:54:00.000-03:00",
+	"createdAt": "2023-11-03T02:00:50.053Z",
+	"updatedAt": "2023-11-03T02:01:04.336Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-colina-vitacura-las-condes-la-reina-lo-barnechea-penalolen-la-florida-puente-alto-san-jose-de-maipo-y-pirque-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>&nbsp;indica que se cancelado la Alerta y el Aviso Meteorológico que pronosticaron la ocurrencia de tormentas eléctricas en valle y precordillera y probables tormentas en precordillera y cordillera de la Región Metropolitana, respectivamente, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, la Dirección Regional de SENAPRED Metropolitana, en coordinación con la Delegación Presidencial Regional,&nbsp;<strong>cancela Alerta Temprana Preventiva Regional</strong>&nbsp;por tormentas eléctricas, vigente desde el 30 de octubre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

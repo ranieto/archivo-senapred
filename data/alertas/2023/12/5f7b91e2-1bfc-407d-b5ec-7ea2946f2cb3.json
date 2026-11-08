@@ -1,0 +1,21 @@
+{
+	"id": "5f7b91e2-1bfc-407d-b5ec-7ea2946f2cb3",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Limache por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-12-09T18:08:01.261Z",
+	"updatedAt": "2023-12-09T18:15:55.216Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-limache-por-incendio-forestal",
+	"parentId": "ed697075-165e-4f3a-99d2-ec11867e943e",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Limache\",\"regiones\":\"Región Metropolitana de Santiago, Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF</strong>), se registra un incendio forestal en la comuna de Limache, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cajón de Lebu</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">10 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal que, por su proyección y avance, amenaza a viviendas y centros poblados   a 100 metros, longitud de llamas de 5 metros y avance rápido por condiciones   meteorológicas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para la comuna de Limache por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la <strong>declaración de la Alerta Roja,</strong> se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p><p>Al momento los recursos que trabajan en el lugar son:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">CONAF</span></strong></p></td><td><p style=\"text-align:justify\">1 técnico, 9 brigadas, 2 helicópteros, 4 aviones y 2   camiones aljibe.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">OTROS</span></strong></p></td><td><p style=\"text-align:justify\">Bomberos de Limache y personal municipal.</p></td></tr></tbody></table></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "78b0cdbc-b18b-40a6-9b1d-d5aaff66653e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Salamanca por incendio de vertedero",
+	"fechaHora": "2026-01-08T11:11:33.3333-03:00",
+	"createdAt": "2026-01-08T14:12:51.718Z",
+	"updatedAt": "2026-01-08T14:13:39.736Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-incendio-de-vertedero-2026-01-07-09-26-59",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED </span><span style=\"color: black\">Coquimbo</span><span style=\"color: black\">, extinguido se encuentra el incendio que afectó al vertedero “El Queñe” ubicado en la comuna de Salamanca.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Salamanca por incendio de vertedero, que se mantenía vigente desde el 07 de enero.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Trabajaron en el lugar Bomberos de Illapel, Los Vilos y Salamanca, Carabineros, SAMU, CONAF, Delegación Presidencial Provincial y personal municipal.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "a1f5a8f7-af3d-4f51-aa96-83f7056f9e6f"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9f6bfc6c-505a-4566-b4e2-35cffbf32f12",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la comuna de Copiapó por incendio forestal",
+	"fechaHora": "2025-08-04T18:15:00.000-04:00",
+	"createdAt": "2025-08-04T22:22:00.968Z",
+	"updatedAt": "2025-08-05T13:59:05.822Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-copiapo-por-incendio-forestal",
+	"parentId": "911afa2d-bdff-49cd-ad8c-1cb476f280c8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:15px\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size:15px\">respecto al incendio forestal en la&nbsp;<strong>comuna de Copiapó </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong><span style=\"font-size:15px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:15px\">Rafael Zorraindo</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Estado</span></strong></p></td><td><p><span style=\"font-size:15px\">Controlado</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:15px\">0,04</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:15px\">Incendio contenido en su   frente de avance. </span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Amarilla para la Comuna de Copiapó</strong>, por incendio forestal, que se encuentra vigente desde el 04 de agosto de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

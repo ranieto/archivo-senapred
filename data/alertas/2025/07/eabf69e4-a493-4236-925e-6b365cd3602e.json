@@ -1,0 +1,20 @@
+{
+	"id": "eabf69e4-a493-4236-925e-6b365cd3602e",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Roja para la comuna de Los Ángeles por desborde",
+	"fechaHora": "2025-07-31T11:11:03.033-04:00",
+	"createdAt": "2025-07-31T15:12:11.503Z",
+	"updatedAt": "2025-08-04T11:30:51.078Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-desborde-2",
+	"parentId": "37a74b1b-d8af-4b8e-8a33-665e53634dbb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA)</span></strong><span style=\"color: black\">, en sus estaciones hidrométricas monitoreadas en línea, se indica que la estación Estero Paillihue en ruta Ex. Long. Sur, comuna de Los Ángeles, se encuentra en Alerta Técnica Roja y con tendencia al alza.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que la estación Estero Quilque en la Vega, la cual originó la Alerta Roja para la comuna de Los Ángeles, se encuentra en umbral normal y a la baja.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, considerando el comportamiento histórico del Estero Paillihue en ruta Ex. Long. Sur durante eventos meteorológicos anteriores, podría significar un aumento del riesgo asociado a crecidas o consecuentes desbordes.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Roja para la comuna</strong></span><strong><span style=\"color:black\"> de Los Ángeles por desborde</span><span style=\"color:black\">, </span></strong><span style=\"color:black\">que se encuentra vigente desde el 30 de julio y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

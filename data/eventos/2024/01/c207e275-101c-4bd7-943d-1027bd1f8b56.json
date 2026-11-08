@@ -1,0 +1,19 @@
+{
+	"id": "c207e275-101c-4bd7-943d-1027bd1f8b56",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de La Araucanía",
+	"fechaHora": "2024-01-22T02:42:04.044-03:00",
+	"createdAt": "2024-01-22T05:42:55.283Z",
+	"updatedAt": "2024-01-22T05:42:55.283Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-la-araucania",
+	"parentId": "545b0994-ca15-47ff-9694-26367e7c1e5d",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">02:26 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de La Araucanía.</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: La Araucanía</strong></p></td></tr><tr><td><p>Pucón:</p></td><td><p>IV</p></td></tr><tr><td><p>Villarrica:</p></td><td><p>IV</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. </p><p><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 2.4 localizado a</span> 26 Kms al Oeste de Curarrehue.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

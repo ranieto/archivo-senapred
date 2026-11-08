@@ -1,0 +1,20 @@
+{
+	"id": "a9afcf92-6d0a-42a1-9ed1-0e5babbd4897",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región del Biobío por tormentas eléctricas",
+	"fechaHora": "2025-12-11T11:21:00.000-03:00",
+	"createdAt": "2025-12-11T15:23:14.447Z",
+	"updatedAt": "2025-12-11T15:23:27.429Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-bioio-por-tormentas-electricas-2025-12-09-07-53-03",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido actualizado el siguiente alertamiento meteorológico, dejando fuera de cobertura a la Región del Biobío, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Alertamiento actualizado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Aviso A471-7</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Probables tormentas eléctricas entre las regiones de Coquimbo y Maule.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En base a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por tormentas eléctricas, </strong>que se mantenía vigente desde el 09 de diciembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "3f53e799-6800-4140-bd84-28262bbc8af6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de El Loa y comunas de Antofagasta y Taltal por tormentas eléctricas",
+	"fechaHora": "2026-02-27T12:41:00.000-03:00",
+	"createdAt": "2026-02-27T16:31:07.875Z",
+	"updatedAt": "2026-02-27T16:31:56.448Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-tormentas-electricas-2026-02-01-21-04-33",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelado el Aviso Meteorológico A50-15/2026, el cual pronosticaba probables tormentas eléctricas en precordillera, precordillera salar y cordillera de la región. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por tormentas eléctricas para la Provincia de El Loa y comunas de Antofagasta y Taltal, </strong></span><span style=\"color:black\">laque se mantuvo vigente desde el 03 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

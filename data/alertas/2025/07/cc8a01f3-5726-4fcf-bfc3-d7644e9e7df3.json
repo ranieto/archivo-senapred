@@ -1,0 +1,20 @@
+{
+	"id": "cc8a01f3-5726-4fcf-bfc3-d7644e9e7df3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Palena por heladas",
+	"fechaHora": "2025-07-01T12:37:00.000-04:00",
+	"createdAt": "2025-07-01T17:00:19.993Z",
+	"updatedAt": "2025-07-01T17:01:18.221Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-palena-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA55-2</p></td><td><p style=\"text-align:justify\">Heladas moderadas   a intensas con formación de escarcha en patagonia subandina.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A240-7</p></td><td><p style=\"text-align:justify\">Heladas normales a   moderadas en valle, precordillera, litoral interior y patagonia subandina.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la provincia de Palena por heladas, </strong>que se mantuvo vigente desde el 29 de junio de 2025. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "eac3cbfd-311b-4fc6-98f9-52bd47176f06"
+}

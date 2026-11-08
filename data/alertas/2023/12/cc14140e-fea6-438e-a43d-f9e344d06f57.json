@@ -1,0 +1,20 @@
+{
+	"id": "cc14140e-fea6-438e-a43d-f9e344d06f57",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla por incendio forestal, para la Provincia de Melipilla",
+	"fechaHora": "2023-12-09T14:54:52.5252-03:00",
+	"createdAt": "2023-12-09T17:56:41.427Z",
+	"updatedAt": "2023-12-14T16:25:37.245Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-melipilla-por-incendio-forestal",
+	"parentId": "be53e11d-1157-45d6-ad88-eef11b1e95e6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto al incendio forestal en la comuna de María Pinto, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\">El Parrón.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\">1.158 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\">El incendio se encuentra con actividad media baja, con activaciones   solo dentro del perímetro. </p></td></tr></tbody></table></div><p style=\"text-align:justify\">Según lo indicado por el <strong>Ministerio del Medio Ambiente, a través de su “Reporte de Calidad del Aire en la Región Metropolitana”</strong>, las concentraciones de material particulado (MP10 y MP2.5) a las 09:00 horas de hoy 09 de diciembre en las estaciones de monitoreo de Pudahuel y Puente Alto, de la Región Metropolitana, se mantienen en la categoría<strong> Bueno.</strong></p><p style=\"text-align:justify\">Cabe destacar, que al momento no se reportan daños a infraestructuras ni amenaza a viviendas. </p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por incendio forestal</strong>, <strong>para la Provincia de Melipilla,</strong> que se encuentra vigente desde el 06 de diciembre de 2023.</p><p>Al momento los recursos que trabajan en el lugar son:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">CONAF</span></strong></p></td><td><p style=\"text-align:justify\">Personal técnico, 9 brigadas, 4 helicópteros, 3   aviones, 5 camiones aljibe, maquinaria pesada y 1 puesto de mando.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">SENAPRED</span></strong></p></td><td><p style=\"text-align:justify\">4 helicópteros para el combate del incendio   forestal.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">OTROS</span></strong></p></td><td><p style=\"text-align:justify\">Bomberos de María Pinto y Curacaví; y 1 ambulancia   ACHS.</p></td></tr></tbody></table></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

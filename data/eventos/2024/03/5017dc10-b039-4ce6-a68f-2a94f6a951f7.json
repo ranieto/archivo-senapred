@@ -1,0 +1,19 @@
+{
+	"id": "5017dc10-b039-4ce6-a68f-2a94f6a951f7",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-03-21T17:12:53.286Z",
+	"updatedAt": "2024-03-21T17:23:10.604Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-30",
+	"parentId": "e9173a7f-c4b2-4d9d-90e9-c49990a12b7e",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 14:05 horas en la Región de Atacama.<br></p><p>Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>IV</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>El Centro Sismológico Nacional indica que la magnitud fue 3.9, localizada a 28 Kms al Noreste de Vallenar.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "bc2c88c4-d663-4d14-92c1-d1d68547fb8b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Paillaco por amenaza de desborde",
+	"fechaHora": "2024-06-21T15:51:00.000-04:00",
+	"createdAt": "2024-06-21T20:46:21.384Z",
+	"updatedAt": "2024-06-29T17:26:25.794Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-paillaco-por-amenaza-de-desborde-2",
+	"parentId": "b99039b6-16f8-400f-b1b0-cf8ed9a5abce",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Paillaco\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Los Ríos</strong>, producto de las precipitaciones registradas durante la presente jornada, en el sector rural San Regina de la comuna de Paillaco, se produjo un aumento de caudal del rio Llollelhue, el que presenta amenaza a viviendas.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y a la información técnica entregada por la Dirección General de Aguas (DGA), en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por amenaza de desborde para la comuna de Paillaco, </strong>vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

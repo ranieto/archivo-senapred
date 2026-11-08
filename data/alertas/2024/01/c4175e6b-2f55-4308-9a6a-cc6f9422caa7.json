@@ -1,0 +1,20 @@
+{
+	"id": "c4175e6b-2f55-4308-9a6a-cc6f9422caa7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2024-01-30T12:07:01.011-03:00",
+	"createdAt": "2024-01-30T15:08:08.546Z",
+	"updatedAt": "2024-03-18T23:33:59.698Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal",
+	"parentId": "0b914c73-4dd3-4c88-865f-2f2b89ab8f05",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa el siguiente detalle respecto del incendio forestal</span> “<span style=\"color: black\">Camino San Antonio”, en la comuna de Puerto Montt:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Camino San Antonio</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>677 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">- Producto del humo de este   incendio forestal, se registró un accidente vehicular múltiple en el sector   Peaje Trapén de la Ruta 5 Sur, dejando como resultado 3 personas lesionadas,   quienes fueron trasladadas por SAMU al hospital local. Carabineros se   encuentra regulando el transito en ambos sentidos de la ruta antes   mencionada, junto a personal de la concesionaria Ruta del Canal.</span></p><p>- Se habilitó la Escuela del sector   Trapén como albergue provisorio.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Puerto Montt, por incendio forestal, que se encuentra vigente desde el 26 de enero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

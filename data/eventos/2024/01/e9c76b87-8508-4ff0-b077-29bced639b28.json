@@ -1,0 +1,20 @@
+{
+	"id": "e9c76b87-8508-4ff0-b077-29bced639b28",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Arica y Parinacota y Tarapacá",
+	"fechaHora": "2024-01-22T10:25:00.000-03:00",
+	"createdAt": "2024-01-22T13:29:05.736Z",
+	"updatedAt": "2024-01-22T13:36:19.584Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-arica-y-parinacota-y-tarapaca-3",
+	"parentId": "47006576-eda1-455a-ad79-bae03fed4bed",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 10:16 horas en las regiones de Arica y Parinacota y Tarapacá.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>III</p></td></tr><tr><td><p>Cuya:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>IV</p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>IV</p></td></tr><tr><td><p>Huara   : </p></td><td><p>IV</p></td></tr><tr><td><p>La   Tirana: </p></td><td><p>IV</p></td></tr><tr><td><p>Mamiña:   </p></td><td><p>IV</p></td></tr><tr><td><p>Pica   : </p></td><td><p>IV</p></td></tr><tr><td><p>Pozo   Almonte : </p></td><td><p>IV</p></td></tr><tr><td><p>Ujina:   </p></td><td><p>IV</p></td></tr><tr><td><p>El   Loa: </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.0 y se localizó a 32 Kms al Suroeste de Pica. </span></p><p style=\"margin-left:0cm\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

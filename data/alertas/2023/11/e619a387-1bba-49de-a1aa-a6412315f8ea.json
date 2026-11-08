@@ -1,0 +1,20 @@
+{
+	"id": "e619a387-1bba-49de-a1aa-a6412315f8ea",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Parinacota por evento meteorológico",
+	"fechaHora": "2023-11-13T19:15:00.000-03:00",
+	"createdAt": "2023-11-13T22:21:41.320Z",
+	"updatedAt": "2023-11-13T22:22:34.483Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Parinacota\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento técnico para la región:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A423-5</p></td><td><p style=\"text-align:justify\">Probables tormentas   eléctricas en cordillera y precipitaciones aisladas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de </span>Arica y Parinacota<span style=\"color:black\">, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva </strong></span>para la <strong>provincia de Parinacota, por evento meteorológico</strong>, que se mantuvo vigente desde el 09 de noviembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

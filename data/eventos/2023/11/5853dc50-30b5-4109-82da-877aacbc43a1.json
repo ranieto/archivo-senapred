@@ -1,0 +1,20 @@
+{
+	"id": "5853dc50-30b5-4109-82da-877aacbc43a1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-11-23T15:54:17.281Z",
+	"updatedAt": "2023-11-23T15:55:06.184Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-tarapaca-y-antofagasta-2",
+	"parentId": "f11ac1e3-7092-423d-ac9d-bf4284bf232a",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">12:38 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de Tarapacá. </span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Alto   Hospicio: </p></td><td><p>III</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr><tr><td><p>El   Loa: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Tocopilla:   </p></td><td><p>IV</p></td></tr><tr><td><p>María   Elena: </p></td><td><p>IV</p></td></tr><tr><td><p>Calama:   </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. Más info. <a href=\"http://www.snamchile.cl\">www.snamchile.cl</a><br></p><p><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.1 localizado a</span> 61 Kms al Norte de Calama..</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

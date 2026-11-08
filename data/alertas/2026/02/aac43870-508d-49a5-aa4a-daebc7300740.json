@@ -1,0 +1,20 @@
+{
+	"id": "aac43870-508d-49a5-aa4a-daebc7300740",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2026-02-25T20:44:17.1717-03:00",
+	"createdAt": "2026-02-25T23:57:57.177Z",
+	"updatedAt": "2026-02-26T18:33:01.420Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-antonio-por-incendio-forestal-2026-02-25-20-57-37",
+	"parentId": "25c0d699-4c71-4986-a6ed-9ffdc236316e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">De acuerdo con la información&nbsp;</span></strong><span style=\"font-size: 14px\"><strong><span style=\"color: black\">técnica proporcionada por Conaf&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de San Antonio, se informa el siguiente detalle:</span></span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><span style=\"color: black\"><br></span></span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Nombre del incendio</span></strong></a></p></td><td><p><span style=\"color:#000000\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Rinconada de San Juan 2</span></span></p></td></tr><tr><td><p><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Estado</span></strong></p></td><td><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En combate</span></p></td></tr><tr><td><p><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Superficie</span></strong></p></td><td><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">4 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Recursos</span></strong></p></td><td><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Cuerpo de Bomberos de San Antonio</span></p><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">4 brigadas, 1 técnico y 5 aeronaves CONAF</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para la comuna de San Antonio por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

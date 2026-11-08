@@ -1,0 +1,19 @@
+{
+	"id": "6d6180e0-dc15-4b03-8c53-dec1ea6447e1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2024-07-07T00:31:00.000-04:00",
+	"createdAt": "2024-07-07T04:34:40.158Z",
+	"updatedAt": "2024-07-07T04:47:13.640Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-6",
+	"parentId": "bb12b253-8166-4d36-b951-9f1a0ab336fe",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 00:26 horas en la Región de Valparaíso.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>IV</p></td></tr><tr><td><p>El   Quisco: </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p>El Centro Sismológico Nacional indica que la magnitud fue 3.9, localizada a 23 Kms al Sur de Valparaíso.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

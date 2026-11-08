@@ -1,0 +1,20 @@
+{
+	"id": "754bcb68-6e12-4c64-9283-570be7fe7f8e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Antofagasta por alteración del suministro de agua potable",
+	"fechaHora": "2023-12-05T10:05:00.000-03:00",
+	"createdAt": "2023-12-05T13:10:47.996Z",
+	"updatedAt": "2023-12-27T17:46:15.390Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-antofagasta-por-alteracion-del-suministro-de-agua-potable",
+	"parentId": "c9c636c3-3168-49e4-86aa-4b4b60ae6d7c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p><span style=\"color: black\">Según la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, respecto a la planta desaladora Norte y la falla eléctrica externa que provocó problemas de producción e impulsión del suministro de agua potable en la comuna de Antofagasta, se informa que el servicio fue suspendido a partir de las 20:00 horas del domingo 03 de diciembre.</span><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla para la comuna de Antofagasta por alteración del suministro de agua potable</strong>, que se encuentra vigente desde hoy 05 de diciembre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Han sido dispuestos un total de 64 puntos de abastecimiento alternativo, a fin de asegurar el abastecimiento de agua potable en la comuna.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se encuentran suspendidas las clases en todos los niveles educacionales.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "ce70d6fb-262a-4ad5-92e9-0f5736424d6f"
+}

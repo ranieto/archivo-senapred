@@ -1,0 +1,20 @@
+{
+	"id": "c6330f59-6ec5-4f0f-9713-353cc0be6151",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por tormentas eléctricas",
+	"fechaHora": "2025-03-03T09:03:46.4646-03:00",
+	"createdAt": "2025-03-03T12:05:15.908Z",
+	"updatedAt": "2025-03-03T12:05:30.681Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-10",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se informa el debilitamiento de las condiciones meteorológicas que originaron el aviso meteorológico A66-2/2025, que pronosticó tormentas eléctricas para la Región de Magallanes.</p><p style=\"text-align: justify\"><span style=\"color: black !important\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Magallanes, l</span><span style=\"color: black !important\">a&nbsp;</span><span style=\"color: black !important\">Dirección Regional del SENAPRED&nbsp;</span><span style=\"color: black !important\"><strong>cancela la Alerta Temprana Preventiva por tormentas eléctricas&nbsp;</strong>para la Región de Magallanes, que se mantuvo vigente desde el 01 de marzo de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

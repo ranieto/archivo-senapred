@@ -1,0 +1,20 @@
+{
+	"id": "c02380e4-c5fc-43ab-8567-dc5ae591f0df",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Quilpué por incendio forestal",
+	"fechaHora": "2024-11-24T18:34:15.1515-03:00",
+	"createdAt": "2024-11-24T21:35:17.070Z",
+	"updatedAt": "2024-11-26T17:30:10.151Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quilpue-por-incendio-forestal-3",
+	"parentId": "f3e9a4c4-edef-45bc-9be5-54b5f3fc0869",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Quilpué se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Fundo El Pequen</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>21 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Quilpué, Villa Alemana,   Limache y Viña del Mar, 4 brigadas de Conaf, 3 técnicos de Conaf, 2 aviones   cisterna, 1 helicóptero, 1 avión de coordinación de Conaf; además de 2   helicópteros de Senapred y 1 maquinaria de Conaf.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Cabe mencionar, que el incendio se mantiene cercano a sectores poblados y producto de este incendio se activó mensajería SAE para evacuar sectores Fundo Recreo y Parcelación El Manzano.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Por otra parte, se registra una alteración de tránsito vehicular en la Ruta F-50 producto del humo, existiendo rutas alternativas.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Quilpué, por incendio forestal, que se encuentra vigente desde el 24 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

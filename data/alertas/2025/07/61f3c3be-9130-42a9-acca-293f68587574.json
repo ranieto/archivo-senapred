@@ -1,0 +1,20 @@
+{
+	"id": "61f3c3be-9130-42a9-acca-293f68587574",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Camarones por remoción en masa",
+	"fechaHora": "2025-07-08T19:51:52.5252-04:00",
+	"createdAt": "2025-07-08T23:53:34.784Z",
+	"updatedAt": "2025-10-17T02:53:11.710Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa-2",
+	"parentId": "cc0d8b2f-336a-4f94-b6e1-dd9e1ce1da64",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong>De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Arica y Parinacota</strong>, se informa que el tránsito vehicular en la Ruta 5 Norte sector Cuesta Cultura Chinchorro en la comuna de Camarones se mantendrá cerrada por 30 días, entre las 20:00 horas y las 06:00 horas, debido a la inestabilidad del talud.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla por remoción en masa para la comuna de Camarones<strong>,</strong> la cual se encuentra vigente desde hoy 08 de julio de 2025 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Durante la jornada de ayer se realizó un COGRID Comunal con el fin de determinar los cursos de acción ante este evento.</p><p style=\"text-align:justify\">En el lugar se mantiene monitoreo constante por parte de Carabineros.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

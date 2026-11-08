@@ -1,0 +1,20 @@
+{
+	"id": "a286d0a0-460b-462d-888c-f81d234e2a32",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Freire por desborde",
+	"fechaHora": "2024-06-27T01:11:00.000-04:00",
+	"createdAt": "2024-06-27T05:12:41.768Z",
+	"updatedAt": "2024-07-03T20:32:05.570Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-freire-por-desborde",
+	"parentId": "b1f5ea11-2261-4360-a02d-f5a42903b4df",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Freire\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Municipalidad de Freire</strong>, reporta el desborde del Estero Pelales en el sector de Rucahue Quepe, provocando la inundación de viviendas y predios, generando una situación de riesgo, que puede producir daños a sectores poblados e infraestructura, pudiéndose requerir acciones tales como: evacuación, disponibilidad de recursos humanos, maquinaria y equipos. </p><p>En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del <strong>SENAPRED declara Alerta Roja por desborde para la comuna de Freire</strong>, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p>Con la declaración de la <strong>Alerta Roja,</strong> se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

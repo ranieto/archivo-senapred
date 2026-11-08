@@ -1,0 +1,20 @@
+{
+	"id": "234dbf61-a2c4-44c4-b52f-5b5eb99e4194",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2025-03-31T10:12:55.5555-03:00",
+	"createdAt": "2025-03-31T13:14:09.072Z",
+	"updatedAt": "2025-03-31T13:14:52.259Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) </strong>han sido cancelados los siguientes alertamientos meteorológicos para la Región del Biobío:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA24</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes con isoterma cero alta en corto periodo de tiempo en   Precordillera y Cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A114</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas, en corto periodo de tiempo en Cordillera de la Costa,   Valle, Precordillera y Cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A115</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en Litoral, Cordillera de la Costa, Valle, Precordillera y   Cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\">Conforme a lo indicado en el Informe de Amenaza del día de hoy, no se esperan precipitaciones para los próximos días en la región.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Biobío, </span><strong><span style=\"color: black\">la Dirección Regional del SENAPRED </span></strong><span style=\"color:black\"><strong>cancela la Alerta Temprana Preventiva&nbsp;Regional por evento meteorológico</strong>, que se mantenía vigentes desde el 27 de marzo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

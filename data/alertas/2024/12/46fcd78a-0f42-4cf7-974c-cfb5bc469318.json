@@ -1,0 +1,20 @@
+{
+	"id": "46fcd78a-0f42-4cf7-974c-cfb5bc469318",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de La Ligua por incendio forestal",
+	"fechaHora": "2024-12-30T20:30:00.000-03:00",
+	"createdAt": "2024-12-30T23:34:49.538Z",
+	"updatedAt": "2024-12-30T23:36:32.479Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-ligua-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de La Ligua, se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Canela</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>15 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de La Ligua, Papudo, Cabildo; 3 Brigadas, 2   Técnicos, 2 Aviones y 1 helicóptero</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de La Ligua, por incendio forestal, que se mantuvo vigente desde el 30 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

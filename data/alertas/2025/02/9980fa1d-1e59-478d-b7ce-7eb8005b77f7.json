@@ -1,0 +1,20 @@
+{
+	"id": "9980fa1d-1e59-478d-b7ce-7eb8005b77f7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Los Ángeles por incendio forestal",
+	"fechaHora": "2025-02-12T13:00:00.000-03:00",
+	"createdAt": "2025-02-12T16:38:46.214Z",
+	"updatedAt": "2025-02-12T17:16:48.761Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Los Ángeles\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Los Ángeles,&nbsp;</strong>se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>602 - LA SUERTE II<br></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>35 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio se desarrolla cercano a sectores poblados</div></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos de Los Ángeles (3 vehículos)</p><p>13 brigadas CONAF</p><p>1 técnico CONAF</p><p>5 helicópteros COAF</p><p>4 aviones CONAF</p><p>1 puesto de mando</p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Los Ángeles, por incendio forestal, que se mantuvo vigente desde el 11 de febrero de 2025.<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "25f7eb12-6028-4d27-a379-90ce684c0b99",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por tormentas eléctricas",
+	"fechaHora": "2024-12-31T10:07:02.022-03:00",
+	"createdAt": "2024-12-31T13:09:04.265Z",
+	"updatedAt": "2024-12-31T13:09:37.439Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>&nbsp;indica que ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A472</p></td><td><p style=\"text-align: justify\">Probables tormentas eléctricas en la región.</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes,&nbsp;</span><span style=\"color: black\">la&nbsp;</span><span style=\"color: black\">Dirección Regional de SENAPRED&nbsp;</span><strong><span style=\"color: black\">cancela Alerta Temprana Preventiva Regional por tormentas eléctricas,&nbsp;</span></strong><span style=\"color: black\">vigente desde el 30 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

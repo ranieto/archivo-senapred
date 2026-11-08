@@ -1,0 +1,20 @@
+{
+	"id": "8acf5fda-8a75-4259-8f86-b9effcf5ee52",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Cautín por incendios forestales",
+	"fechaHora": "2025-02-09T21:10:00.000-03:00",
+	"createdAt": "2025-02-10T00:27:55.574Z",
+	"updatedAt": "2025-02-10T00:28:12.000Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-la-araucania-por-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por CONAF, se registra una gran cantidad de incendios forestales con comportamiento extremo y erráticos, amenaza inminente centros poblados y asentamientos rurales, presentando gran resistencia al control con condiciones meteorológicas propicias para la ignición y propagación de estos. Además, de acuerdo con lo informado por las distintas municipalidades de la región, se ha realizado evacuaciones en diversos sectores con apoyo de mensajería SAE.</p><p style=\"text-align: justify\">Cabe señalar, que debido al comportamiento de los incendios forestales registrados en las comunas de Lautaro y Galvarino, estos mantienen la amenaza a viviendas y centros poblados, por lo que se adhieren a esta Alerta Roja Regional por incendios forestales.</p><p style=\"text-align: justify\">Asimismo, la Alerta Amarilla para la provincia de Cautín por incendios forestales queda contenida en esta<br>Alerta Roja Regional.<br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED modifica la cobertura de la Alerta Roja a la Región de La Araucanía, por incendio forestal, que se encuentra vigente desde el 06 de febrero de 2025.<br></p><p style=\"text-align: justify\">Con la modificación de cobertura de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

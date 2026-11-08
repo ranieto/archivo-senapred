@@ -1,0 +1,20 @@
+{
+	"id": "f6a991db-9904-4d17-924c-858b3dbb08ad",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Región de Ñuble por calor extremo",
+	"fechaHora": "2026-01-16T19:30:35.3535-03:00",
+	"createdAt": "2026-01-16T22:31:53.365Z",
+	"updatedAt": "2026-01-20T04:32:19.964Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-de-uble-por-calor-extremo-2026-01-16-19-31-38",
+	"parentId": "c6537469-8c80-4c6c-b52f-c784c3405fdf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Ñuble:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA10-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de   altas temperaturas extremas en cordillera de la costa, valle y precordillera   (entre 34 y 37 °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">19-01</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A16-6</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en cordillera de la costa, valle y precordillera (entre 30 y 34   °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">17-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">20-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED declara Alerta Roja Regional por calor extremo, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><em><strong><span style=\"color: black\">SENAPRED </span></strong><span style=\"color: black\">recomiendaa la población protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></em></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

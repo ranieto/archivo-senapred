@@ -1,0 +1,20 @@
+{
+	"id": "5e86446f-9184-413f-8d63-f83b0f23b4b3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2026-03-22T22:44:08.088-03:00",
+	"createdAt": "2026-03-23T01:45:47.077Z",
+	"updatedAt": "2026-03-23T01:46:48.458Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-03-18-15-54-05",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que los originaron:</p><p><br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A137-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera y cordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A143-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas asociadas con chubascos aislados en valle, precordillera   y cordillera de la región.</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, la actualización del Aviso Meteorológico A117-4 por viento normal a moderado, ya no considera en su cobertura a la Región de Ñuble.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, la cual se mantuvo vigente desde el 18 de marzo de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

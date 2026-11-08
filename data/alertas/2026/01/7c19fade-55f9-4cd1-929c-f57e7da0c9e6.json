@@ -1,0 +1,20 @@
+{
+	"id": "7c19fade-55f9-4cd1-929c-f57e7da0c9e6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región del Biobío por calor extremo",
+	"fechaHora": "2026-01-11T00:43:29.2929-03:00",
+	"createdAt": "2026-01-11T03:45:25.037Z",
+	"updatedAt": "2026-01-11T03:46:19.847Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-calor-intenso-2026-01-05-13-32-55",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> a través de su Pronóstico Meteorológico Público, emitido el sábado 10 de enero a las 17:37 horas, se prevé que las temperaturas máximas previstas para los próximos días, desciendan a rangos normales para la región, a lo anterior, se suma que en la actualización del Aviso Meteorológico A7-5/2026, el cual pronostica altas temperaturas entre las regiones de Valparaíso a Biobío, finalizó su cobertura el sábado 10 de enero para la región.</span></p><p><span style=\"color: black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Roja Regional por calor extremo, que se mantuvo vigente desde el 06 de enero de 2026.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene la Alerta Temprana Preventiva entre las regiones de Arica y Parinacota y Los Lagos por calor, vigente desde el 02 de noviembre de 2025 hasta el 31 de marzo del 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

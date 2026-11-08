@@ -1,0 +1,20 @@
+{
+	"id": "2ba47c3a-4761-4933-a48e-7ddedd842431",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico",
+	"fechaHora": "2026-07-29T12:31:00.000-04:00",
+	"createdAt": "2026-07-29T16:46:23.854Z",
+	"updatedAt": "2026-07-31T02:29:19.191Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-meteorologico-2026-07-29-12-46-03",
+	"parentId": "1923a0ec-8da2-49bd-a10e-50dc1ce1a651",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> se encuentran vigentes los siguientes alertamientos meteorológicos para la comuna de Juan Fernández:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA115</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   moderado a fuerte (60–80 km/h) en el Archipiélago Juan Fernández.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">29-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">29-07</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A371</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas (30–40 mm) en el Archipiélago Juan Fernández.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">29-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">30-07</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva para la comuna de Juan Fernández por evento meteorológico</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

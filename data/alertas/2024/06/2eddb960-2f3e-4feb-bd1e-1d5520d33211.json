@@ -1,0 +1,20 @@
+{
+	"id": "2eddb960-2f3e-4feb-bd1e-1d5520d33211",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Amarilla para la comuna de Linares por crecida ",
+	"fechaHora": "2024-06-06T17:33:00.000-04:00",
+	"createdAt": "2024-06-06T21:37:57.003Z",
+	"updatedAt": "2024-06-07T07:15:15.762Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-linares-por-crecida",
+	"parentId": "93858212-2b40-47ce-b7bd-45ba48d5bdfa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación de red hidrométrica <strong>“Rio Achibueno en la Recova” </strong>en la comuna de Linares, ha presentado una disminución de los valores del umbral encontrándose en amarillo.<br></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable la Dirección Regional de SENAPRED Maule en coordinación con la Delegación Presidencial Regional,</span><strong><span style=\"color:black\">cancela la Alerta Roja por desborde y declara Amarilla por crecida </span></strong><span style=\"color:black\">para la comuna de Linares, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

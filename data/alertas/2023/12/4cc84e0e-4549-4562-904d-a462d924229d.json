@@ -1,0 +1,20 @@
+{
+	"id": "4cc84e0e-4549-4562-904d-a462d924229d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de La Estrella y Marchihue por incendio forestal",
+	"fechaHora": "2023-11-30T22:15:23.2323-03:00",
+	"createdAt": "2023-12-01T01:16:15.973Z",
+	"updatedAt": "2023-12-01T01:16:39.915Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-estrella-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con </span><strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"color: black\"> respecto del incendio forestal en las comunas de La Estrella y Marchihue, se indica el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">San Miguel de Viluco.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">354,7 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal se encuentra contenido, sin   propagación ni amenaza a viviendas.</p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja para las comunas de La Estrella y M<span style=\"color:black\">archihue</span></strong>, por incendio forestal, que se mantenía vigente desde el 29 de noviembre de 2023.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

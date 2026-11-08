@@ -1,0 +1,20 @@
+{
+	"id": "1ada6fca-168e-4955-ae84-9f462a3aaa5c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Mostazal por incendio forestal",
+	"fechaHora": "2026-01-21T11:42:53.5353-03:00",
+	"createdAt": "2026-01-21T14:47:46.886Z",
+	"updatedAt": "2026-01-21T21:49:40.155Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-mostazal-por-incendio-forestal-2026-01-20-17-07-29",
+	"parentId": "6adbfba1-19a7-472b-a403-62a1592eb73c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la&nbsp;<strong>información técnica proporcionada por Conaf,</strong>&nbsp;respecto al incendio forestal en la comuna de Mostazal, se informa el siguiente detalle:</span></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0)\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Camino las Lomas</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0)\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0)\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">36.7 hectáreas</span></p></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>3 brigadas y 1 técnicos CONAF</div></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0)\">Observaciones</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Incendio forestal activo con 36.7 hectáreas de arbolado, matorral, pastizal, eucalipto y desecho agrícola. Presenta una velocidad de propagación lenta.</span><br></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED </span><strong><span style=\"color: rgb(0, 0, 0)\">mantiene la Alerta Roja para la Comuna de Mostazal por incendio forestal,</span></strong><span style=\"color: rgb(0, 0, 0)\"> que se encuentra vigente desde el 20 de enero de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

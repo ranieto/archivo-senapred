@@ -1,0 +1,19 @@
+{
+	"id": "4e5b480b-276c-4624-a96a-a201cda1ef27",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2025-07-21T00:58:00.000-04:00",
+	"createdAt": "2025-07-21T05:01:26.947Z",
+	"updatedAt": "2025-07-21T05:04:33.217Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-21",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor  intensidad se percibió a las 00:56 horas en la Región de Valparaíso. Las intensidades en escala de Mercalli son:&nbsp;</span></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quillota:   </p></td><td><p>IV</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

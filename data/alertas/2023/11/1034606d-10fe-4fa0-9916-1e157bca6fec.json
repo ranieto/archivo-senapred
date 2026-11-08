@@ -1,0 +1,20 @@
+{
+	"id": "1034606d-10fe-4fa0-9916-1e157bca6fec",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda, Taltal, Calama, San Pedro de Atacama y María Elena por altas temperaturas",
+	"fechaHora": "2023-11-09T21:45:00.000-03:00",
+	"createdAt": "2023-11-10T00:53:13.774Z",
+	"updatedAt": "2023-11-10T00:54:22.954Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-taltal-calama-san-pedro-de-atacama-y-maria-elena-por-altas-temperaturas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta, El Loa, Tocopilla\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Sierra Gorda, Taltal, Calama, San Pedro de Atacama, María Elena\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A429-2</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas en pampa, precordillera y precordillera salar.</p></td><td><p style=\"text-align:justify\">09-11</p></td><td><p style=\"text-align:justify\">09-11</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva </strong>para las comunas de Antofagasta, Sierra Gorda, Taltal, Calama, San Pedro de Atacama y María Elena por altas temperaturas, que se mantuvo vigente desde el 04 de noviembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "13f4c87f-ebd2-4318-a834-18aedf6bd14e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la comuna de Renaico por amenaza de desborde",
+	"fechaHora": "2024-08-02T11:59:00.000-04:00",
+	"createdAt": "2024-08-02T17:09:43.436Z",
+	"updatedAt": "2024-08-04T02:33:16.757Z",
+	"urlAccess": "se-declara-alerta-amarilla-por-amenaza-de-desborde-para-la-comuna-de-renaico-por-amenaza-de-desborde",
+	"parentId": "99be91ea-5c1f-4f8b-bb07-c716b4880a92",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la</strong><strong>Dirección General de Aguas</strong> (DGA), se indica que la estacióndel<strong> “Río Vergara en tijeral”, comuna de Renaico</strong>, se encuentra <strong>en umbral rojo</strong>, si continúa aumentando puede producir daños a sectores poblados e infraestructura, por lo que puede ser requeridas acciones como evacuaciones, disponibilidad de recursos humanos, maquinaria y equipos.&nbsp;&nbsp;<br></p><p style=\"text-align:justify\">En consideración a este antecedente, <span style=\"color:black\">que supone un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Roja y cancela Alerta Amarilla por amenaza de desborde para la comuna de Renaico</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

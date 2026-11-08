@@ -1,0 +1,20 @@
+{
+	"id": "24413778-70e2-4c67-acf3-3d57e266d155",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de La Ligua por incendio forestal",
+	"fechaHora": "2025-01-29T07:06:00.000-03:00",
+	"createdAt": "2025-01-29T10:12:23.690Z",
+	"updatedAt": "2025-01-29T17:02:50.798Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-la-ligua-por-incendio-forestal-2",
+	"parentId": "cecce286-c26a-4d22-a2d5-d63cf08ae0a6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de&nbsp;<strong>La Ligua,&nbsp;</strong>se informa el siguiente detalle:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Huaquen 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>8 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>6 brigadas y 2 técnicos de Conaf; además de 3 aeronaves.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>De acuerdo con la planificación de CONAF para esta jornada se contemplan los siguientes recursos a contar de las 08:00 horas en el incendio: 2 Brigadas de Herramientas mas el apoyo de Bomberos.<br></p></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Cabe señalar que producto de este incendio se activó mensajería SAE parta el sector Parcelas de Huaquen.</span></div><div style=\"text-align: justify\"><span style=\"color: rgb(46, 46, 46);font-size: 14px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">mantiene la Alerta Roja para la Comuna de La Ligua, por incendio forestal, que se encuentra vigente desde el&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">28 de enero de 2025.</span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

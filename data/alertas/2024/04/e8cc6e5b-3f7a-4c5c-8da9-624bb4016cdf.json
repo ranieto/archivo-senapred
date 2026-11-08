@@ -1,0 +1,20 @@
+{
+	"id": "e8cc6e5b-3f7a-4c5c-8da9-624bb4016cdf",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Chépica por evento masivo",
+	"fechaHora": "2024-04-29T13:20:00.000-04:00",
+	"createdAt": "2024-04-29T17:41:09.212Z",
+	"updatedAt": "2024-04-29T17:41:48.561Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-chepica-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Colchagua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Chépica\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED O´Higgins</strong>, ha finalizado el evento “Expo Viñas de Colchagua” en la comuna de Chépica, sin reportarse situaciones de emergencia derivadas del desarrollo de esta actividad.<br></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Ilustre Municipalidad de Chépica, la Dirección Regional del SENAPRED O’Higgins, <strong>cancela la Alerta Temprana Preventiva para la comuna de Chépica por evento masivo</strong>, que se mantuvo vigente desde el 26 de abril de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

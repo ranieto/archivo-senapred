@@ -1,0 +1,20 @@
+{
+	"id": "f018c10e-c0d4-4492-8b5b-6e2f0939a447",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Atacama por viento",
+	"fechaHora": "2023-11-03T10:17:22.2222-03:00",
+	"createdAt": "2023-11-03T13:18:17.175Z",
+	"updatedAt": "2023-11-03T13:18:39.649Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-y-alto-del-carmen-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><strong>han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama</strong>, en atención al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento   cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA75</p></td><td><p style=\"text-align:justify\">Viento moderado a fuerte   en cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A424</p></td><td><p style=\"text-align:justify\">Viento normal a moderado   en el litoral.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A418-1</p></td><td><p style=\"text-align:justify\">Viento normal a moderado   en precordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong> por viento, que se mantuvo vigente desde el 29 de octubre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

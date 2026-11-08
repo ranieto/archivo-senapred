@@ -1,0 +1,19 @@
+{
+	"id": "7f8abf4e-be24-4aa5-a98b-4f88e2a92cb5",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de O’Higgins",
+	"fechaHora": "2024-11-13T03:38:35.3535-03:00",
+	"createdAt": "2024-11-13T06:39:45.290Z",
+	"updatedAt": "2024-11-13T06:42:51.761Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-ohiggins-10",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 03:35 horas en la Región de O’Higgins. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Libertador Bernardo   O'Higgins </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Rancagua: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

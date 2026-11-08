@@ -1,0 +1,20 @@
+{
+	"id": "70a03205-dafe-4222-bf9b-591f60fa6cb1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región del Biobío por incendios forestales",
+	"fechaHora": "2024-02-12T15:35:00.000-03:00",
+	"createdAt": "2024-02-12T18:38:46.436Z",
+	"updatedAt": "2024-02-22T16:16:55.490Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-incendios-forestales",
+	"parentId": "7576b208-e036-4da8-a175-05f5c8d28c1c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong>De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC),</strong> mediante la actualización de su Alerta Meteorológica AA12-1/2024, se espera un evento de altas temperaturas extremas desde la mañana hasta la noche del martes 13 de febrero, en zonas de cordillera de la costa, valle y precordillera de la Región del Biobío. Asimismo, mediante la actualización de su Aviso Meteorológico A30-2/2024, se pronostica un evento de altas temperaturas hasta la tarde del martes 13 de febrero, en la Región del Biobío. Proyectando temperaturas máximas de hasta 37°C en sectores de valle y precordillera. </p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Nombre del   incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Mininco VIII   (Huelehueico)</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Controlado</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">102,96 hectáreas</span></p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Región de Biobío, por incendios forestales, que se encuentra vigente desde el 03 de febrero de 2024</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

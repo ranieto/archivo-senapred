@@ -1,0 +1,20 @@
+{
+	"id": "2b6fc8a5-970b-4b2b-ae85-6ffa778c3165",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por marejadas anormales",
+	"fechaHora": "2026-08-09T14:13:22.2222-04:00",
+	"createdAt": "2026-08-09T18:14:36.498Z",
+	"updatedAt": "2026-08-09T18:15:15.375Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales-2026-08-05-14-36-47",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por el Centro Meteorológico Marítimo de Valparaíso, ha finalizado la vigencia del Aviso N°36-A por <strong>marejadas anormales</strong> en el sector de Isla de Pascua de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la provincia de Isla de Pascua por marejadas anormales</strong>, que se mantuvo vigente desde el 05 de agosto de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

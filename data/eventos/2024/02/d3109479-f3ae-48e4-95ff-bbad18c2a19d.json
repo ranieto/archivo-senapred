@@ -1,0 +1,20 @@
+{
+	"id": "d3109479-f3ae-48e4-95ff-bbad18c2a19d",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2024-02-11T18:20:42.4242-03:00",
+	"createdAt": "2024-02-11T21:23:59.119Z",
+	"updatedAt": "2024-02-11T21:39:11.000Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-atacama",
+	"parentId": "d2614dd0-ac20-4e58-a306-5dfd88b09dd7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las </span><span style=\"font-size: 16px\">18:15 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en las regiones de Atacama y Coquimbo.</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>V</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>V</p></td></tr><tr><td><p>Huasco:   </p></td><td><p>V</p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>IV</p></td></tr><tr><td><p>Freirina:   </p></td><td><p>IV</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>III</p></td></tr><tr><td><p>Paiguano:   </p></td><td><p>III</p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size: 16px\">​<span style=\"font-size: 15px\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></span></p><p></p><p><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.6 localizado a</span> 45 Kms al Noroeste de Huasco.</p><p><span style=\"font-size:15px\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. </span>​</p><p><br></p><p><span style=\"font-size: 16px\"><span style=\"font-size: 15px\"><br><br></span><br></span></p><p><span style=\"font-size: 16px\"><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

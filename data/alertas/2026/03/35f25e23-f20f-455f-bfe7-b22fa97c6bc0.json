@@ -1,0 +1,20 @@
+{
+	"id": "35f25e23-f20f-455f-bfe7-b22fa97c6bc0",
+	"type": "Alerta",
+	"titulo": " Se modifica cobertura Alerta Roja para las comunas de Coelemu y Ránquil por incendio forestal",
+	"fechaHora": "2026-03-04T18:07:58.5858-03:00",
+	"createdAt": "2026-03-04T21:11:33.790Z",
+	"updatedAt": "2026-03-05T00:57:14.836Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ranquil-por-incendio-forestal-2026-03-04-16-50-19",
+	"parentId": "9403334d-0c2e-461e-8856-10bd6550d4d6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en las comunas de Coelemu y Ránquil se informa el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>SN Juan de Bularco II</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>8 brigadas y 5 técnicos de CONAF, 3 aeronaves de   Conaf, 1 Puesto mando CONAF, 1 UAD CONAF y 1 móvil de combustible</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados</p></td></tr></tbody></table><p><br>Producto de este incendio se activó mensajería SAE para los sectores Casas Quemadas y&nbsp;Guarilihue Alto, en la comuna de Coelemu.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, se modifica cobertura Alerta Roja por incendio forestal para las comunas de Coelemu y Ránquil, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

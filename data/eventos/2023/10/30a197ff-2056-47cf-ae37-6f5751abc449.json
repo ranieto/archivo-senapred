@@ -1,0 +1,19 @@
+{
+	"id": "30a197ff-2056-47cf-ae37-6f5751abc449",
+	"type": "Evento",
+	"titulo": "Incendio estructural, Comuna de Valparaíso (Información preliminar)",
+	"fechaHora": "2023-10-24T03:28:00.000-03:00",
+	"createdAt": "2023-10-24T06:28:29.846Z",
+	"updatedAt": "2023-10-24T06:28:29.846Z",
+	"urlAccess": "incendio-estructural-comuna-de-valparaiso-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><br></p><p><strong>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso</strong>, a la hora de este reporte, se registra un incendio estructural que afecta a una casona ubicada en la intersección de las calles Márquez y Bustamante, sector centro de la comuna de Valparaíso.</p><p>Cabe señalar que, al momento no se registran personas lesionadas producto de este evento.</p><p>Trabajan en el lugar Bomberos de Valparaíso, Carabineros y personal municipal.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "bef8dab0-585b-4912-9e8d-1f01e3153016",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Linares y Longaví por desborde",
+	"fechaHora": "2026-07-10T22:19:11.1111-04:00",
+	"createdAt": "2026-07-11T02:22:01.642Z",
+	"updatedAt": "2026-07-11T02:23:10.867Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comunas-de-linares-y-longavi-por-desborde-2026-07-10-08-55-51",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Achibueno en la Recova” se encuentra en umbral verde, con valores estables en su caudal.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por desborde para la comunas de Linares y Longaví,</strong> que se mantenía vigente desde el 10 de julio.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

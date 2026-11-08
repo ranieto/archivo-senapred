@@ -1,0 +1,19 @@
+{
+	"id": "ebf76277-f9b3-4b0a-ae76-c538c8af6c50",
+	"type": "Evento",
+	"titulo": "Incendio Estructural, Comuna de Viña del Mar (Información preliminar)",
+	"fechaHora": "2025-09-29T22:00:01.011-03:00",
+	"createdAt": "2025-09-30T01:01:09.160Z",
+	"updatedAt": "2025-09-30T06:02:58.866Z",
+	"urlAccess": "incendio-estructural-comuna-de-vina-del-mar-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Viña del Mar\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso, a la hora del presente informe se registra un incendio estructural que afecta preliminarmente a 4 viviendas en la intersección de las calles Rogelio Astudillo y Villacura, comuna de Viña del Mar.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Cabe señalar que, producto de la emergencia, personal de la empresa eléctrica Chilquinta realiza corte del suministro de electricidad afectando a 9.997 clientes.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, Carabineros, SAMU y personal municipal.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

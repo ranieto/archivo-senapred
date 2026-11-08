@@ -1,0 +1,20 @@
+{
+	"id": "a884c82d-0820-4507-95e4-d741f3b3f5a3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Collipulli por amenaza de desborde",
+	"fechaHora": "2024-06-15T22:01:00.000-04:00",
+	"createdAt": "2024-06-16T02:12:00.068Z",
+	"updatedAt": "2024-06-16T02:12:54.550Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-collipulli-por-amenaza-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Collipulli\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Mininco en Longitudinal”, en la comuna de Collipulli ha vuelto al umbral de Alerta Azul con tendencia a la baja de caudal. Lo anterior, <span style=\"color: black\">debido al debilitamiento de las condiciones que lo originaron.</span><br></p><p style=\"text-align:justify\">En consideración a este antecedente la Dirección Regional del SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional, <strong>Cancela la Alerta Amarilla por amenaza de desborde para la comuna de Collipulli,</strong> la que se mantuvo vigente desde el 12 de junio de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

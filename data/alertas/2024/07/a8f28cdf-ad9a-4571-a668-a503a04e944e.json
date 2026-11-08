@@ -1,0 +1,20 @@
+{
+	"id": "a8f28cdf-ad9a-4571-a668-a503a04e944e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de San José de Maipo por amenaza de avalancha",
+	"fechaHora": "2024-07-05T14:11:02.022-04:00",
+	"createdAt": "2024-07-05T18:12:03.621Z",
+	"updatedAt": "2024-07-05T18:12:18.969Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-san-jose-de-maipo-por-amenaza-de-avalancha",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Cordillera\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"San José de Maipo\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional Metropolitana del SENAPRED, en base a los antecedentes entregados por la Delegación Presidencial Regional Metropolitana, en su resolución Exenta N°679 del 5 de julio de 2024, se indica que fue levantado el perímetro de seguridad establecido en el sector de Baños Morales, comuna de San José de Maipo, por amenaza de avalancha, debido a la estabilidad a nivel moderado en las laderas en que se realizó la evaluación del manto nivoso.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED, <strong>cancela Alerta Temprana Preventiva por amenaza de avalancha, para la comuna de San José de Maipo, </strong>que se mantuvo vigente desde el 25 de junio del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0bfbb016-03e9-4858-9649-1fc4ac173190"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "79e5dd81-a503-4bdd-92de-8d578e2f8d79",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Monte Patria por incendio forestal",
+	"fechaHora": "2023-12-12T19:57:00.000-03:00",
+	"createdAt": "2023-12-12T22:59:00.103Z",
+	"updatedAt": "2023-12-12T23:02:11.022Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de Monte Patria, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Mialqui</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3,1 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal ya no constituye amenaza directa a la población.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos disponibles</strong></p></td><td><p style=\"text-align:justify\">1 técnico, 3 brigadas, 1 camión aljibe y 1   helicóptero de CONAF; con apoyo de Bomberos de Monte Patria.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla para la comuna de Monte Patria por incendio forestal</strong>, la cual se mantuvo vigente desde el 12 de diciembre.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

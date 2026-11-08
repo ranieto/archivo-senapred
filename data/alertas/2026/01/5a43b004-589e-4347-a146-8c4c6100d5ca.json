@@ -1,0 +1,20 @@
+{
+	"id": "5a43b004-589e-4347-a146-8c4c6100d5ca",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2026-01-21T14:35:45.4545-03:00",
+	"createdAt": "2026-01-21T17:38:58.632Z",
+	"updatedAt": "2026-01-21T19:46:56.046Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ovalle-por-incendio-forestal-2026-01-21-14-38-42",
+	"parentId": "baefa4b5-f467-429d-8892-ba9e91fade82",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la&nbsp;<strong>información técnica proporcionada por Conaf,</strong>&nbsp;respecto al incendio forestal en la comuna de Ovalle, se informa el siguiente detalle:</span></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0)\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Costado Mall Ovalle</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0)\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0)\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">0.01 hectáreas</span></p></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\">1 brigada y 1 camión aljibe CONAf</span></div></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0)\">Observaciones</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">El incendio se desarrolla cercano a sectores habitados.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la Comuna de Ovalle por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

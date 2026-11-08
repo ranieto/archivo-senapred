@@ -1,0 +1,20 @@
+{
+	"id": "aef629b6-9663-4e2d-95c3-cf8694365184",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Santa Bárbara por incendio forestal",
+	"fechaHora": "2023-10-17T22:07:00.000-03:00",
+	"createdAt": "2023-10-18T01:18:30.783Z",
+	"updatedAt": "2023-10-25T04:57:16.285Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-santa-barbara-por-incendio-forestal",
+	"parentId": "994386d3-66ef-46f6-8872-8aec77739823",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Santa Bárbara\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED<strong>mantiene la Alerta Amarilla</strong>para la comuna de Santa Bárbara por incendio forestal, que se encuentra vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">Trabajan en el lugar 2 técnicos de CONAF; 3 brigadas de CMPC; 1 brigada y 1 skidder de COMACO.</p><p><br></p><p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto del incendio forestal en la comuna de Santa Bárbara, se indica el siguiente detalle:</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>San Lorenzo</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate</div></td></tr><tr><td><div><strong>Superficie</strong></div></td><td><div>2.000 hectáreas</div></td></tr><tr><td><div><strong>Fundamentación técnica</strong></div></td><td><div>El incendio se encuentra cercano a sectores poblados.</div></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio presenta amenaza indirecta al complejo hidroeléctrico “Peuchén”, que forma parte del sistema interconectado de electricidad. Además, el incendio tiene continuidad de combustible vegetal, con viento puelche durante el día y noche, que es propicio para un comportamiento complejo del incendio y se desarrolla en un lugar de topografía abrupta, lo cual dificulta su combate.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED&nbsp;<strong>mantiene la Alerta Amarilla&nbsp;</strong>para la comuna de Santa Bárbara por incendio forestal, que se encuentra vigente desde hoy y hasta que las condiciones así lo ameriten.<br></p><p style=\"text-align: justify\">Trabajan en el lugar 2 técnicos de CONAF; 3 brigadas de CMPC; 1 brigada y 1 skidder de COMACO.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

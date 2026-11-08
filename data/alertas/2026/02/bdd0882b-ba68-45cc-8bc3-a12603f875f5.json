@@ -1,0 +1,20 @@
+{
+	"id": "bdd0882b-ba68-45cc-8bc3-a12603f875f5",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Lumaco por incendio forestal",
+	"fechaHora": "2026-02-26T22:16:53.5353-03:00",
+	"createdAt": "2026-02-27T01:17:44.773Z",
+	"updatedAt": "2026-02-27T15:47:51.870Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lumaco-por-incendio-forestal-2026-02-25-21-04-15",
+	"parentId": "baf132bf-157d-412c-8429-2ca28bb00a75",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf&nbsp;</strong>respecto al incendio forestal en la comuna de Lumaco, se informa el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Lumaquina</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>127 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Capitán Pastene; 7 brigadas y 8 técnicos   además de 1 Puesto de Mando.</p><p>Para la jornada de mañana 27 de febrero se espera contar con:   1 puesto de mando, 1 ambulancia, 3 recursos aéreos, 3 técnicos y 3 brigadas.</p></td></tr></tbody></table><p><br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Lumaco, por incendio forestal, que se encuentra vigente desde el 25 de febrero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "68d7ab85-4175-48c9-b6e3-3b9e78a24f01",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Freirina por incendio forestal",
+	"fechaHora": "2024-11-14T15:11:00.000-03:00",
+	"createdAt": "2024-11-14T18:25:29.288Z",
+	"updatedAt": "2024-11-14T18:26:20.170Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-freirina-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La información proporcionada por CONAF</strong>&nbsp;en relación al el incendio forestal \"Los Guindos\" indica:.</p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Los Guindos</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">Controlado</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">1,5 hectárea</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">1 brigada de CONAF y carabineros</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED <strong>cancela Alerta Amarilla para la comuna de Freirina por incendio forestal</strong>, vigente desde el 13 de noviembre.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

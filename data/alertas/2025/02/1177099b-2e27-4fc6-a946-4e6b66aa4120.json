@@ -1,0 +1,20 @@
+{
+	"id": "1177099b-2e27-4fc6-a946-4e6b66aa4120",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2025-02-28T20:37:00.000-03:00",
+	"createdAt": "2025-02-28T23:47:40.870Z",
+	"updatedAt": "2025-02-28T23:48:11.200Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas-16",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la<strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong>ha sido cancelado el Aviso A61/2025, el cual pronosticaba probables tormentas eléctricas en valle, precordillera y cordillera de la Región de La Araucanía. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED<strong>cancela la Alerta Temprana Preventiva Regional por tormentas eléctricas,</strong>que se mantuvovigente desde el 27 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

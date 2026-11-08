@@ -1,0 +1,20 @@
+{
+	"id": "198e6b55-7c36-4646-88e5-4613c9bb5679",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla por amenaza de desborde para la comuna de Victoria",
+	"fechaHora": "2024-06-13T09:06:00.000-04:00",
+	"createdAt": "2024-06-13T13:27:22.964Z",
+	"updatedAt": "2024-06-16T02:06:13.111Z",
+	"urlAccess": "se-declara-alerta-amarilla-por-amenaza-de-desborde-para-la-comuna-de-victoria",
+	"parentId": "2e5db229-52d0-43f0-9f27-3215f1843216",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Quino en Longitudinal”, en la comuna de Victoria, ha alcanzado los valores del umbral de Alerta Amarilla. Esto<span style=\"color: black\"> supone un aumento del riesgo asociado a dicha variable, pues si el caudal aumenta puede llegar a producir daños en sectores poblados e infraestructura, requiriendo acciones como: evacuaciones y disponibilidad de recursos humanos, maquinarias y equipos.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por amenaza de desborde para la comuna de Victoria,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

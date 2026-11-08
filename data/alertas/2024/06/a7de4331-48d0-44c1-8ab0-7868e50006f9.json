@@ -1,0 +1,20 @@
+{
+	"id": "a7de4331-48d0-44c1-8ab0-7868e50006f9",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Roja para la comuna de Arauco por desborde",
+	"fechaHora": "2024-06-10T23:26:00.000-04:00",
+	"createdAt": "2024-06-11T03:26:04.359Z",
+	"updatedAt": "2024-06-11T21:45:36.559Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde",
+	"parentId": "d0a60308-ca40-458a-b10f-8ad79dbc54d8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que las estaciones de red pluviométrica del Río Pichilo y del Río Lía ubicados en la comuna de Arauco, se encuentran en umbral de Alerta Roja.<br></p><p style=\"text-align:justify\">Por otra parte, los pronósticos emitidos por la Dirección Meteorológica de Chile (DMC) prevén que continúen las precipitaciones durante las próximas horas en la comuna.</p><p style=\"text-align:justify\">Cabe destacar que, a las 23:07 y a las 23:08 horas de hoy se envió mensajería SAE a los sectores de La Faja, Los Guzmanes, El Llepo y Las Corrientes en la comuna de Arauco, para apoyar el proceso de evacuación por el desborde del Río Pichilo.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>actualiza la Alerta Roja por desborde<span style=\"color:black\"> para la comuna de Arauco, </span></strong><span style=\"color:black\">que se mantiene vigente desde hoy 10 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, con la <strong>actualización de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "6a69db47-0c55-47d6-8197-e769b21f4fdf",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2024-04-13T19:04:00.000-04:00",
+	"createdAt": "2024-04-13T23:04:44.680Z",
+	"updatedAt": "2024-04-13T23:10:45.708Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de intensidad se percibió a las 19:02 horas en la Región de Valparaíso.<br></p><p>Las intensidades en escala de Mercalli son las siguientes:<br></p><p style=\"text-align:justify\"></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Limache   : </p></td><td><p>III</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

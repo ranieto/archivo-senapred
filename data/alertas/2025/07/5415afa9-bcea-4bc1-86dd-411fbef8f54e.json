@@ -1,0 +1,20 @@
+{
+	"id": "5415afa9-bcea-4bc1-86dd-411fbef8f54e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-07-18T23:51:37.3737-04:00",
+	"createdAt": "2025-07-19T03:52:35.969Z",
+	"updatedAt": "2025-07-19T03:53:36.122Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-precipitaciones-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Lagos:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA62</p></td><td><p>Precipitaciones moderadas a fuertes con   isoterma 0°C alta en cordillera austral.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A272</p></td><td><p>Precipitaciones normales a moderadas con   isoterma 0°C alta en cordillera austral.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A273</p></td><td><p>Viento normal a moderado en Chiloé y   litoral interior.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por evento meteorológico</strong>, que se encontraba vigente desde el 12 de julio de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

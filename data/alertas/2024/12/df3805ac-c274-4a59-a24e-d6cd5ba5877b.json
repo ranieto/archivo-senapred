@@ -1,0 +1,20 @@
+{
+	"id": "df3805ac-c274-4a59-a24e-d6cd5ba5877b",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2024-12-19T20:51:34.3434-03:00",
+	"createdAt": "2024-12-19T23:55:19.880Z",
+	"updatedAt": "2024-12-22T19:41:57.700Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2",
+	"parentId": "3db16aa3-1356-475b-badc-38dbaadce93c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio Forestal se mantiene activo y en combate afectando una superficie de 2 hectáreas.</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los Guayes</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 brigadas y 3 técnicos de Conaf; 8 avionetas cisterna, 2 helicópteros de Conaf, 1 avión de coordinación y 1 avión de observación Conaf, 1 Retén de Carabineros (Retén Achibueno).</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal con amenaza inminente a area silvestre protegida sitio Prioritario de Conservación Cajón de Pejerreyes , a una distancia de 100 metros.<br></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 14px\">E</span>n consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Linares, por incendio forestal, que se encuentra vigente desde el 19 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

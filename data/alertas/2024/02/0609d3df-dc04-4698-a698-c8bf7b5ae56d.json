@@ -1,0 +1,20 @@
+{
+	"id": "0609d3df-dc04-4698-a698-c8bf7b5ae56d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la comuna de Curicó por incendio forestal",
+	"fechaHora": "2024-02-02T19:19:00.000-03:00",
+	"createdAt": "2024-02-02T22:27:56.687Z",
+	"updatedAt": "2024-02-03T21:57:58.300Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curico-por-incendio-forestal",
+	"parentId": "30e7a23d-b358-4de1-ab0d-245000e935bf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Curicó\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;con relación a al incendio forestal en la comuna de Curicó, se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>Santa Laura<br></div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>20 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">Incendio forestal con comportamiento extremo, con emisión de pavesas y presenta cercanía a sectores habitados. Se han enviado en la jornada de hoy 2 SAE para apoyar la evacuación de los sectores Sarmiento y Callejón Santa Julia y Callejón San Ramón.</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>3 brigadas de CONAF, 4 aviones de CONAF, 2 helicópteros de CONAF y Carabineros</div></td></tr></tbody></table><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de&nbsp;<span style=\"color: rgb(33, 37, 41)\">O'Higgins</span>, la Dirección Regional de SENAPRED&nbsp;<strong>cancela Alerta Amarilla y declara Alerta Roja para la comuna de Curicó por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></div><div><br></div><p style=\"text-align: justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

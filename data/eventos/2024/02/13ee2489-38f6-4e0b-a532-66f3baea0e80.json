@@ -1,0 +1,20 @@
+{
+	"id": "13ee2489-38f6-4e0b-a532-66f3baea0e80",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2024-02-28T02:06:00.000-03:00",
+	"createdAt": "2024-02-28T05:08:11.032Z",
+	"updatedAt": "2024-02-28T05:08:11.032Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-tarapaca-y-antofagasta-4",
+	"parentId": "ef64962e-14a3-4cee-bd63-018f06efd554",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 01:47 horas en las regiones de Tarapacá y Antofagasta.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapacá</strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>II</p></td></tr><tr><td><p>Pozo   Almonte : </p></td><td><p>II</p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Calama:   </p></td><td><p>IV</p></td></tr><tr><td><p>María   Elena: </p></td><td><p>III</p></td></tr><tr><td><p>Tocopilla:   </p></td><td><p>III</p></td></tr><tr><td><p>Sierra   Gorda: </p></td><td><p>II</p></td></tr></tbody></table><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p style=\"text-align: justify\">El Centro Sismológico Nacional indica que la magnitud fue 4.7, localizada a 50 Kms al Sureste de Quillagua.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

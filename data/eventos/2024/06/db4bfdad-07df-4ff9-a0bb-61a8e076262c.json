@@ -1,0 +1,19 @@
+{
+	"id": "db4bfdad-07df-4ff9-a0bb-61a8e076262c",
+	"type": "Evento",
+	"titulo": "Incidente por material peligroso, Comuna de Santiago (Amplía información)",
+	"fechaHora": "2024-06-27T21:14:00.000-04:00",
+	"createdAt": "2024-06-28T01:24:40.286Z",
+	"updatedAt": "2024-06-28T03:53:17.550Z",
+	"urlAccess": "incidente-por-material-peligroso-en-comuna-de-santiago-region-metropolitana",
+	"parentId": "5ebfe951-b41c-4ecd-8892-27982be59e09",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Santiago\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Materiales peligrosos - Inflamable\",\"nombreImg\":\"materialespeligrosinflamable.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional Metropolitana de SENAPRED</span></strong><span style=\"color: black\">, en relación con la fuga de gas desde una matriz y emanación de humos en cámara subterránea, en la intersección de las calles Rozas y cueto en la comuna de Santiago, Metrogas informó que la emergencia quedo controlada, esta se debió a una interferencia eléctrica por cables sin protección provocando un arco voltaico. Personal de la empresa continúan con trabajos de reparación del tramo dañado, indicando que a la hora de este informe ya no hay emanación en el exterior.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Mientras que, las personas evacuadas están retornando de formas paulatina y a medida que son autorizadas por Bomberos, sin registrarse personas lesionadas producto de este evento.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos de Santiago, Carabineros, personal municipal y Autoridad sanitaria.</p>",
+	"variableInformateEventosId": "86813d21-adb4-4b0f-a3a4-d830f59ce93e"
+}

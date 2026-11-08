@@ -1,0 +1,20 @@
+{
+	"id": "5633cc74-fad7-401d-ae60-8defd4789384",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Los Ángeles por desborde",
+	"fechaHora": "2025-07-30T22:46:20.2020-04:00",
+	"createdAt": "2025-07-31T02:49:20.430Z",
+	"updatedAt": "2025-08-04T11:30:51.036Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-desborde-2",
+	"parentId": "37a74b1b-d8af-4b8e-8a33-665e53634dbb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información técnica proporcionada por la Dirección General de Aguas (DGA),</strong> en sus estaciones hidrométricas monitoreadas en línea, se indica que la estación Estero Quilque en la Vega, comuna de Los Ángeles, se encuentra en <strong>Alerta Técnica Roja</strong><strong>y con tendencia al alza.</strong></span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Por otro lado, según los pronósticos elaborados por la Dirección Meteorológica de Chile, se prevé que continúen las precipitaciones en la comuna durante las próximas horas.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Roja para la comuna</strong></span><strong><span style=\"font-size:15px;color:black\"> de Los Ángeles por desborde</span></strong><strong><span style=\"font-size:15px;color:black\">, </span></strong><span style=\"font-size:15px;color:black\">vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

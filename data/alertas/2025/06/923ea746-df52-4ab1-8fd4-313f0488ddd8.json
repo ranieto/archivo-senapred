@@ -1,0 +1,20 @@
+{
+	"id": "923ea746-df52-4ab1-8fd4-313f0488ddd8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por heladas",
+	"fechaHora": "2025-06-30T16:52:27.2727-04:00",
+	"createdAt": "2025-06-30T20:53:42.000Z",
+	"updatedAt": "2025-06-30T20:55:05.759Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC</strong>), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Magallanes:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA56</p></td><td><p style=\"text-align:justify\">Heladas moderadas   a intensas en las zonas cordillera austral norte y pampa patagónica norte de   la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A243</p></td><td><p style=\"text-align:justify\">Heladas normales a   moderadas en cordillera austral norte, cordillera austral sur, insular norte,   insular sur, pampa patagónica norte y pampa patagónica sur de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>c</strong>ancela la Alerta Temprana Preventiva Regionalpor heladas, que se mantuvo vigente desde el 25 de junio de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

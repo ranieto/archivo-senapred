@@ -1,0 +1,20 @@
+{
+	"id": "7129f899-3f36-4600-8fd7-be778836f8c2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla en la Región de Coquimbo por evento Meteorológico",
+	"fechaHora": "2024-05-23T13:17:40.4040-04:00",
+	"createdAt": "2024-05-23T17:20:35.047Z",
+	"updatedAt": "2024-05-23T17:21:13.500Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-nevadas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Nevadas\",\"nombreImg\":\"nevadas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A160-2</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas en cordillera, con probabilidad de ventisca.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A167-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera y valles precordilleranos.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Amarilla Regional por evento Meteorológico</strong>, que se mantenía vigente desde del 22 de mayo del 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "cc226afa-0aa1-4071-87fa-ed6b8bbb4dd2"
+}

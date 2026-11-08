@@ -1,0 +1,19 @@
+{
+	"id": "afe031de-2c51-4c4d-94a9-7e26e0cd3fe5",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Tarapacá",
+	"fechaHora": "2023-11-15T20:54:00.000-03:00",
+	"createdAt": "2023-11-15T23:55:58.375Z",
+	"updatedAt": "2023-11-16T00:00:39.686Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 20:54 horas en la Región de Tarapacá.<br></p><p style=\"text-align:justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapacá</strong></p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>III</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

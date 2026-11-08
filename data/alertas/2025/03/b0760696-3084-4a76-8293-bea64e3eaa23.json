@@ -1,0 +1,20 @@
+{
+	"id": "b0760696-3084-4a76-8293-bea64e3eaa23",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Chile Chico por incendio forestal",
+	"fechaHora": "2025-03-19T23:02:30.3030-03:00",
+	"createdAt": "2025-03-20T02:04:15.110Z",
+	"updatedAt": "2025-03-21T21:03:59.625Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chile-chico-por-incendio-forestal",
+	"parentId": "6200d0a1-09bd-4ff4-9bab-e5fe4dff34e8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Chile Chico<strong>&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Llaves</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Chile Chico y Puerto Guadal, 4 brigadas de   CONAF, Carabineros, SAMU, Personal de la Delegación Provincial de General   Carrera, personal municipal y de   empresas privadas.</p></td></tr><tr><td><p><strong>Observaciones </strong></p></td><td><p>Al momento, el incendio se encuentra contenido en gran   parte del área afectada, con baja actividad y focos dispersos. Se descarta el   peligro de propagación debido a la disminución del viento.</p></td></tr></tbody></table><p>Durante la tarde y producto de este incendio se activó mensajería SAE.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Chile Chico, por incendio forestal, que se encuentra vigente desde hoy 19 de marzo de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

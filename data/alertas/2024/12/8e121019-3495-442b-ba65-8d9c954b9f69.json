@@ -1,0 +1,20 @@
+{
+	"id": "8e121019-3495-442b-ba65-8d9c954b9f69",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Metropolitana por incendio forestal",
+	"fechaHora": "2024-12-22T20:40:00.000-03:00",
+	"createdAt": "2024-12-30T07:16:49.180Z",
+	"updatedAt": "2024-12-30T07:17:22.675Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-metropolitana-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF) e</strong>&nbsp;esta hora, no se registran simultaneidad de incendios forestales en la región, por lo que los recursos&nbsp;regionales ya no se encuentran sobrepasados.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional&nbsp;de SENAPRED cancela la Alerta Amarilla para la región de Metropolitana de Santiago, por incendio forestal,<br>que se mantuvo vigente desde el 21 de diciembre de 2024.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

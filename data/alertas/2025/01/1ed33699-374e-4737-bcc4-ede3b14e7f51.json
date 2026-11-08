@@ -1,0 +1,20 @@
+{
+	"id": "1ed33699-374e-4737-bcc4-ede3b14e7f51",
+	"type": "Alerta",
+	"titulo": "Se modifica Alerta Roja para las comunas de Quirihue y Trehuaco por incendio forestal",
+	"fechaHora": "2025-01-19T18:39:27.2727-03:00",
+	"createdAt": "2025-01-19T21:45:39.301Z",
+	"updatedAt": "2025-01-20T18:58:26.611Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-trehuaco-por-incendio-forestal",
+	"parentId": "66eab155-5c1e-407d-a0f7-4a24e96bdc54",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se modifica Alerta Roja por incendio forestal declarada para la comuna de Trehuaco, ampliando su cobertura a la comuna de Quirihue.<br></p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>La Quebrada 2<br></div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Quirihue / Trehuaco</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>8 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio forestal se desarrolla cercano a sectores poblados.</div></td></tr><tr><td><div>Recursos</div></td><td><div>8 brigadas, 1 técnico y 1 puesto de mando CONAF, 2 aviones cisterna, 3 helicóptero y 1 móvil combustible.</div></td></tr></tbody></table><p style=\"text-align: justify\">Con esta modificación de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

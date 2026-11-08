@@ -1,0 +1,20 @@
+{
+	"id": "ce9bfad4-790e-4ada-8a21-3eda8d17edc6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2023-09-11T18:07:47.4747-03:00",
+	"createdAt": "2023-09-11T21:10:43.975Z",
+	"updatedAt": "2023-10-26T02:29:49.345Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico",
+	"parentId": "99cc6c40-ec32-473f-946b-4b4fe3ac35ca",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento técnico para la Región de Los Lagos:<br></p><table><tbody><tr><td><div><strong>Aviso A363</strong></div></td><td><div>Precipitaciones normales a moderadas con isoterma cero alta, en zonas de precordillera, cordillera, litoral interior, cordillera austral y Patagonia Subandina, entre la mañana del jueves 14 y la mañana del viernes 15 de septiembre.</div></td></tr><tr><td><div><strong>Aviso A364</strong></div></td><td><div>Viento normal a moderado en zonas de litoral, cordillera de la costa, Chiloé y litoral interior, entre la tarde y la noche del miércoles 13 de septiembre.</div></td></tr></tbody></table><p>En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva </strong>regional por evento meteorológico, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p><p>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

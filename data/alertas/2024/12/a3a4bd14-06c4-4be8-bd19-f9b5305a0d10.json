@@ -1,0 +1,20 @@
+{
+	"id": "a3a4bd14-06c4-4be8-bd19-f9b5305a0d10",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Romeral por incendio forestal",
+	"fechaHora": "2024-12-10T13:51:00.000-03:00",
+	"createdAt": "2024-12-10T16:54:47.389Z",
+	"updatedAt": "2024-12-11T02:55:35.158Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-romeral-por-incendio-forestal",
+	"parentId": "9491a9b4-70d5-407b-9bfb-47172e9d5a57",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal con intensidad del frente baja, longitud de llama baja y velocidad de propagación baja. se mantiene activo en sectores 1-2, con intensidad del frente media, longitud de llama media y velocidad de avance media.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Las Leñas</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Romeral (Las Leñas)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>50 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Afectando una superficie de 50 Ha. al momento. Topografía complicada, Bomberos no va a combatir. Incendio forestal con intensidad baja, longitud de llama baja, se mantiene activo en sectores 1-2, con intensidad del frente media, longitud de llama media y velocidad de avance media.<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>CONAF: 4 brigadas, 5 técnicos, 3 helicópteros y 1 puesto de mando.</div><div>2 compañías de Carabineros y 8 personal civil de emergencia.</div></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Romeral, por incendio forestal, que se encuentra vigente desde el 09 de diciembre de 2024.</p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

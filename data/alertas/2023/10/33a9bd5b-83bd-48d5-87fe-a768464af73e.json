@@ -1,0 +1,20 @@
+{
+	"id": "33a9bd5b-83bd-48d5-87fe-a768464af73e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las comunas de Los Vilos, Canela, Ovalle, Coquimbo, La Serena y La Higuera por viento",
+	"fechaHora": "2023-10-06T16:03:00.000-03:00",
+	"createdAt": "2023-10-06T19:08:32.724Z",
+	"updatedAt": "2023-10-07T21:19:21.404Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-los-vilos-canela-ovalle-coquimbo-la-serena-y-la-higuera-por-viento",
+	"parentId": "648cdeae-0659-4632-a53a-25c686ded8e4",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentra vigente el siguiente alertamiento técnico para la Región de Coquimbo:<br></p><table><tbody><tr><td><div><strong>Aviso A395-1</strong></div></td><td><div>Viento normal a moderado en el litoral, entre la tarde del sábado 07 y la noche del domingo 08 de octubre.</div></td></tr></tbody></table><p>En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva </strong>para las comunas de Los Vilos, Canela, Ovalle, Coquimbo, La Serena y La Higuera por viento, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p><p>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p><em><strong>SENAPRED&nbsp;</strong>recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

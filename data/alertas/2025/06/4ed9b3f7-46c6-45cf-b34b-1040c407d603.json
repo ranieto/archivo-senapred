@@ -1,0 +1,20 @@
+{
+	"id": "4ed9b3f7-46c6-45cf-b34b-1040c407d603",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Tarapacá por evento meteorológico",
+	"fechaHora": "2025-06-26T21:45:00.000-04:00",
+	"createdAt": "2025-06-27T01:53:14.785Z",
+	"updatedAt": "2025-06-29T17:40:01.071Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-meteorologico-2",
+	"parentId": "4c73a1e5-f1e1-461b-bdf6-e1af234a2b12",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá y el Servicio Nacional de Geología y Minería (SERNAGEOMIN)</span></strong><span style=\"color: black\">, durante la madrugada de hoy jueves 26 de junio se registró una remoción en masa en la localidad de Huatacondo, comuna de Pozo Almonte. El flujo alcanzó una altura aproximada de 1 metro en su punto máximo, lo cual se mantiene en evaluación.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Respecto a la afectación en el lugar, aún se están realizando los levantamientos en terreno, contemplando calles, plaza y establecimientos educacionales de la localidad. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, la ocurrencia de este evento, dejó sin suministro de agua potable y electricidad a toda la localidad. Sin embargo, a la hora del presente reporte, el suministro de agua potable rural se encuentra restablecido y el suministro eléctrico ha sido restituido en un 50% de los clientes.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva Regional por evento meteorológico</strong>,que se encuentravigente desde el 23 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante la mañana de hoy, se realizó un COGRID en la comuna de Pozo Almonte </span><span style=\"color:black\">con la participación de representantes de la Delegación Presidencial Provincial del Tamarugal, SENAPRED, SEREMI de Gobierno y Ministerio de Obras Públicas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar Carabineros con apoyo de maquinaria local y Ejército de Chile con 81 efectivos desplegados.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En tanto, la Dirección de Obras Hidráulicas (DOH) realizó una evaluación en terreno señalando que el sistema se encuentra operativo, no obstante, no se recomienda el consumo de agua.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

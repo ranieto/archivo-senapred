@@ -1,0 +1,20 @@
+{
+	"id": "1fcf2319-f14b-4b3d-bb8e-e8fe07a3c261",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2026-02-13T20:59:00.000-03:00",
+	"createdAt": "2026-02-14T00:21:08.376Z",
+	"updatedAt": "2026-02-14T06:22:56.451Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-cauquenes-por-incendio-forestal-2026-02-13-21-20-51",
+	"parentId": "93cb4f43-fcab-42a6-86f3-da679a5be266",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">De acuerdo a la información proporcionada por CONAF, se reporta un incendio forestal, en la comuna de Cauquenes, con el siguiente detalle:</span></strong></p><p style=\"text-align: justify\"><strong><span style=\"font-size:15px\"><br></span></strong></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Capellania   2</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">En   combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">3 (ha)</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Afectación</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Incendio   forestal cercano a sectores pobladps.</span></p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la Comuna de Cauquenes </strong>por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "ce6ccc59-a8d8-4c28-a30b-49fb420fcaa6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Arauco por amenaza de desborde",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-06-06T19:37:27.194Z",
+	"updatedAt": "2024-06-06T20:58:57.657Z",
+	"urlAccess": "se-declara-alerta-roja-por-amenaza-de-desborde-para-la-comuna-de-arauco",
+	"parentId": "a1307edf-5eb4-44ff-b648-8eceb476a728",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\">De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red pluviométrica del Río Pichilo en la comuna de Arauco, se encuentra en umbral azul con tendencia a la baja.</p><p style=\"text-align: justify\">Cabe señalar que, de acuerdo con los monitoreos reportados por los equipos municipales desplegados en terreno, no se reportan viviendas con daños y afectación a personas. No obstante, se mantienen los patrullajes preventivos en el sector.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional,&nbsp;<strong>cancela la Alerta Roja y declara Alerta Amarilla&nbsp;</strong>para la comuna de Arauco, por amenaza de desborde,&nbsp;vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><a name=\"x__Hlk124948893\"></a></p><p style=\"text-align: justify\"><span style=\"color: black\">Con la declaración de la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "cdedeb63-d338-49dc-a3d1-e28abfee25c5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva por remoción en masa para la comuna de Toltén",
+	"fechaHora": "2025-04-26T17:32:39.3939-04:00",
+	"createdAt": "2025-04-26T21:34:19.159Z",
+	"updatedAt": "2025-05-16T01:35:37.097Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-comuna-de-tolten-por-remocion-en-masa",
+	"parentId": "4cec7e56-73c6-4c26-b485-d60483804a1c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía</span></strong><span style=\"color: black\">, y en base a los pronósticos públicos de la Dirección Meteorológica de Chile (DMC), se espera principalmente nubosidad y precipitaciones débiles en la comuna de Toltén, lo que constituye una mejora de la condición meteorológica y contribuye a la reducción del riesgo de remoción en masa en el sector.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe menciona que, desde el 26 de junio de 2024, se mantiene vigente el perímetro de seguridad por peligro de remoción en masa en la zona de Queule, comuna de Toltén, manteniéndose la prohibición de ingreso al perímetro indicado entre calle Blanco Encalada (Este) y deslinde con Cabañas KechuRuca (Oeste) y entre Avda. Costanera (Norte) y calle posterior Cuartel Bomberos (Sur).</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, se indica que el municipio de Toltén realiza limpieza periódica de la quebrada Rayen Lafquén y el monitoreo continuo de las condiciones meteorológicas e indicaciones técnicas para la zona afectada.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED cancela la Alerta Amarilla y declara Alerta Temprana Preventiva por remoción en masa para la comuna de Toltén, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "38db2540-6de4-4d12-b21d-28e250bcbbba"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4b3ff137-6579-4cab-8487-61127884c562",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Portezuelo por incendio forestal",
+	"fechaHora": "2024-03-04T12:16:00.000-03:00",
+	"createdAt": "2024-03-04T15:22:07.081Z",
+	"updatedAt": "2024-03-04T15:23:08.125Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-portezuelo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Itata\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Portezuelo\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de Portezuelo, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>El Sauce</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>13,83 hectáreas</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de <span style=\"color: rgb(33, 37, 41)\">Ñuble</span>, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para la comuna de Portezuelo por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 02 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

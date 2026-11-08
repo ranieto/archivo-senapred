@@ -1,0 +1,20 @@
+{
+	"id": "c0f91979-e010-4a1e-af06-2e58009be716",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Marchigüe por incendio forestal ",
+	"fechaHora": "2023-12-21T16:44:00.000-03:00",
+	"createdAt": "2023-12-21T19:47:08.486Z",
+	"updatedAt": "2023-12-22T19:38:46.806Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-marchige-por-incendio-forestal",
+	"parentId": "79d313c2-f97b-46c6-8a68-fcbdc15bd990",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Marchigüe\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se registra un incendio forestal en la comuna de Marchigüe, con el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Mallermo 1.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">30 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El incendio presenta cercanía a sectores habitados.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por incendio forestal para la comuna de Marchigüe</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </p><p><span style=\"color: black\">Trabajan en el combate del incendio, 1 técnico, 3 brigadas, 1 helicóptero, 1 avión AT y 1 skidder de CONAF, con apoyo de Bomberos Marchigüe, Peralillo, La Estrella, Litueche y Pichilemu.</span><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

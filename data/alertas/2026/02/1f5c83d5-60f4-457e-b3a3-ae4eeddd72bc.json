@@ -1,0 +1,20 @@
+{
+	"id": "1f5c83d5-60f4-457e-b3a3-ae4eeddd72bc",
+	"type": "Alerta",
+	"titulo": "Se canela Alerta Amarilla para la comuna de Peñalolén por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-02-23T18:28:44.436Z",
+	"updatedAt": "2026-02-23T18:30:19.532Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-penalolen-por-incendio-forestal-2026-02-22-19-03-13",
+	"parentId": "800b86c3-6b80-4bb7-aeff-c73b90fbc295",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Peñalolén\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf y el SINAPRED, </span></strong><span style=\"color: black\">respecto al incendio forestal en la <strong>comuna de Peñalolén </strong>se informa el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Quebrada de   Macul</p></td></tr><tr><td><p><strong>Estado </strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de   Bomberos de Ñuñoa, 3 Brigadas Conaf.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio no   afectó personas ni infraestructura. No presenta amenaza.</p></td></tr></tbody></table><p><span style=\"font-size:16px;color:black\"><br></span></p><p><span style=\"font-size:16px;color:black\">CONAF indica que, conforme a su combate, Incendio forestal se encuentre controlado.</span></p><p><span style=\"font-size:16px;color:black\"><br></span></p><p><span style=\"font-size:16px;color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Peñalolén, por incendio forestal, que se mantuvo vigente desde el 22 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

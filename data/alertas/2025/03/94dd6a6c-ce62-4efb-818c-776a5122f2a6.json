@@ -1,0 +1,20 @@
+{
+	"id": "94dd6a6c-ce62-4efb-818c-776a5122f2a6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Rengo por incendio forestal",
+	"fechaHora": "2025-03-12T18:35:00.000-03:00",
+	"createdAt": "2025-03-12T21:43:19.588Z",
+	"updatedAt": "2025-03-12T22:35:58.104Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rengo-por-incendio-forestal",
+	"parentId": "2590e4de-11a7-44dd-9509-433736a30e39",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la informacion técnica proporcionada por CONAF, activo desde las 17:28 horas de hoy se encuentra el incendio forestal \"Puente Las Pataguas 1\" en la comuna de Rengo, afectando preliminarmente 0.01 hectáreas de vegetación. </p><p>Asimismo, a la hora del presente informe este Incendio forestal se desarrolla cercano a sectores habitados</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Puente Las Pataguas 1</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,01 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio activo<br></div></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>Cuerpo de Bomberos de Rengo y Malloa, 2 brigadas de Conaf, 1 comandante de incidente y 2 aviones cisterna</div></td></tr></tbody></table><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Rengo por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento.<br></p><p><br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

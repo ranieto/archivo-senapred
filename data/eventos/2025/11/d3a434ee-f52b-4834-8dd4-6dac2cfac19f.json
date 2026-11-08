@@ -1,0 +1,19 @@
+{
+	"id": "d3a434ee-f52b-4834-8dd4-6dac2cfac19f",
+	"type": "Evento",
+	"titulo": " Interrupción del servicio básico de agua potable, Comuna de Antofagasta (Cierre de evento)",
+	"fechaHora": "2025-11-25T07:33:00.000-03:00",
+	"createdAt": "2025-11-25T10:46:43.642Z",
+	"updatedAt": "2025-11-25T10:46:43.642Z",
+	"urlAccess": "interrupcion-del-servicio-basico-de-agua-potable-comuna-de-antofagasta",
+	"parentId": "284059ff-0b4f-4d2d-9e48-a3c80c2844a0",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, el servicio de suministro de agua potable se encuentra restablecido en el sector norte de la comuna de Antofagasta, cuyo corte afectó a 15.604 clientes, producto de una rotura de matriz en la zona.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajaron en la reposición del servicio personal de la empresa sanitaria Aguas Antofagasta.</p>",
+	"variableInformateEventosId": "47537f83-6692-4432-9f54-2f8fab2808ab"
+}

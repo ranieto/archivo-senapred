@@ -1,0 +1,20 @@
+{
+	"id": "720a21f2-a16b-4adb-9c68-27ffcad19b47",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Coihueco por incendio forestal ",
+	"fechaHora": "2025-02-08T14:41:00.000-03:00",
+	"createdAt": "2025-02-08T18:28:10.250Z",
+	"updatedAt": "2025-02-09T17:14:20.051Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-coihueco-por-incendio-forestal",
+	"parentId": "e1419806-2823-45c6-b279-15392d558da0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Punilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Coihueco\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Coihueco se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Taguitas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Chillan, 3 Brigadas CONAF, 3 Cisternas y 2   Helicópteros</p></td></tr></tbody></table><p>La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de Coihueco Con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

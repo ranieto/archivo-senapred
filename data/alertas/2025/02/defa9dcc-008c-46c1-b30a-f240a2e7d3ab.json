@@ -1,0 +1,20 @@
+{
+	"id": "defa9dcc-008c-46c1-b30a-f240a2e7d3ab",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
+	"fechaHora": "2025-02-25T12:30:03.033-03:00",
+	"createdAt": "2025-02-25T15:31:04.586Z",
+	"updatedAt": "2025-02-25T15:34:08.407Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-evento-meteorologico-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los Avisos Meteorológicos A57/2025 y A58/2027, los cuales pronosticaban respectivamente, viento normal a moderado en cordillera austral sur, pampa patagónica norte y pampa patagónica sur y probables tormentas eléctricas en la Región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de Magallanes,</span><span style=\"color: black\">la</span><span style=\"color: black\">Dirección Regional del SENAPRED&nbsp;</span><strong><span style=\"color: black\">cancela Alerta Temprana Preventiva&nbsp;</span></strong><strong><span style=\"color: black\">Regional</span></strong><strong><span style=\"color: black\">&nbsp;</span></strong><strong><span style=\"color: black\">por evento meteorológico</span></strong><span style=\"color: black\">, que se mantuvo vigente desde el 23 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

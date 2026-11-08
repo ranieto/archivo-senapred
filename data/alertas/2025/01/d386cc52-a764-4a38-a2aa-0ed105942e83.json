@@ -1,0 +1,20 @@
+{
+	"id": "d386cc52-a764-4a38-a2aa-0ed105942e83",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Coyhaique por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-20T19:35:13.605Z",
+	"updatedAt": "2025-01-20T19:38:18.297Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-coyhaique-por-incendio-forestal",
+	"parentId": "fc7b8e26-eb9f-449a-9717-984a363c261f",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"Coyhaique\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Coyhaique\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Coyhaique se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Sector Los Chochos</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2.2   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">8   Personas damnificadas, 3 lesionadas y 2 viviendas destruidas.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Coyhaique, por incendio forestal, que se mantuvo vigente desde el 18 de enero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

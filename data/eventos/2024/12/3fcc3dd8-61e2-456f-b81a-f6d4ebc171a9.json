@@ -1,0 +1,19 @@
+{
+	"id": "3fcc3dd8-61e2-456f-b81a-f6d4ebc171a9",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Tarapacá",
+	"fechaHora": "2024-12-17T13:08:59.5959-03:00",
+	"createdAt": "2024-12-17T16:11:10.951Z",
+	"updatedAt": "2024-12-17T16:20:48.749Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-40",
+	"parentId": "59ce380c-b6ed-437e-a4f8-702f847594b3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>La <em>Unidad Nacional de Alerta Temprana</em> reporta información del siguiente evento sísmico</p><p><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>17/12/2024   - 13:00</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>17/12/2024   - 13:09</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>IV   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>260-B</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Cuya:   </p></td><td><p>IV</p></td></tr><tr><td><p>Codpa:   </p></td><td><p>III</p></td></tr><tr><td><p>Pocon   Chile: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr><tr><td><p>Huara   : </p></td><td><p>III</p></td></tr><tr><td><p>La   Tirana: </p></td><td><p>II</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. <br><br> Información preliminar del Sistema Automático de Sismos, CSN. <br><br><br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>4.6</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -19.33<br>   Longitud: -69.53</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>11   Kms al Oeste de Camiña</p></td></tr><tr><td><p>Región:   </p></td><td><p>Tarapaca</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>90.3</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

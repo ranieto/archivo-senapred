@@ -1,0 +1,20 @@
+{
+	"id": "3eeec4c3-9ddb-4934-9582-3f1210b9e61f",
+	"type": "Alerta",
+	"titulo": "Actualiza Alerta Temprana Preventiva para la Región de Ñuble por amenza de incendios forestales ",
+	"fechaHora": "2025-12-26T20:21:00.000-03:00",
+	"createdAt": "2025-12-27T00:01:38.102Z",
+	"updatedAt": "2026-01-05T14:58:35.713Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-uble-por-amenaza-de-incendios-forestales-2025-12-23-14-41-30",
+	"parentId": "e398a648-b5d7-4898-9d5e-dd794071d0c3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Según los análisis técnicos realizados por CONAF y sustentado en la información proporcionada por la Dirección Meteorológica de Chile, se pronostican vientos del sector suroeste (SO) en la región de Ñuble, con velocidades de 30–40 km/h y rachas de hasta 50 km/h en la zona costera y valle. El índice de humedad de los combustibles vegetales finos muertos se ubicará entre el 2% y el 4% en el valle y precordillera. Asimismo, se prevé la mantención de temperaturas máximas sobre los 30 °C durante los próximos días en gran parte del territorio regional.</p><p><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em>SENAPRED&nbsp;</em></strong><em>recomienda a la poblaciónmantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder;no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (</em></span><span style=\"color: rgb(5, 99, 193);font-size: 15px\"><em>https://web.senapred.cl/visor-chile-preparado/</em></span><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><em>).En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).</em></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

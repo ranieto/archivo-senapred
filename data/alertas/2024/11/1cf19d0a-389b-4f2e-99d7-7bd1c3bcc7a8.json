@@ -1,0 +1,20 @@
+{
+	"id": "1cf19d0a-389b-4f2e-99d7-7bd1c3bcc7a8",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Lampa por incendio forestal",
+	"fechaHora": "2024-11-11T16:11:00.000-03:00",
+	"createdAt": "2024-11-11T19:18:38.640Z",
+	"updatedAt": "2024-11-12T17:23:53.162Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-2",
+	"parentId": "eb12594e-75d4-47fb-a1e9-c4dedf6db7c3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Lampa\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>respecto al incendio forestal que afecta a la comuna de Lampa, es la siguiente:</p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Estero Las Cruces</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En Combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">8 hectáreas</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">1 Bomberos de Clina, Lampa, Conchalí, Qulicura, Quinta Normal, La Granja, Metropolitano sur, Santiago, Maipú y Tiltil, 4 brigadas de CONAF, 5 técnicos de CONAF, 1 avión Cisterna de CONAF, 2 Helicópteros de CONAF, 1 Skidder de CONAF, 1 puesto de Mando de CONAF, 5 Camiones aljibes municipales, Carabineros y personal municipal.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regionalde SENAPRED mantiene Alerta Roja para la Comuna de Lampa, por incendio forestal, que se encuentravigente desde el 11 de noviembre de 2024<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

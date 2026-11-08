@@ -1,0 +1,20 @@
+{
+	"id": "15aff826-9d9c-4a31-b086-25964affb5aa",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Provincias de Valparaíso y Marga Marga por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-03-14T05:55:14.224Z",
+	"updatedAt": "2024-03-14T16:34:12.043Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-provincias-de-valparaiso-y-marga-marga-por-incendio-forestal",
+	"parentId": "4f38e653-eabf-4f07-9b04-663dc421fbf6",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se informa el siguiente detalle respecto del incendio forestal “Cerro Cordillera”, en la comuna de Valparaíso:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cerro Cordillera</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2.5   hectáreas.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio   forestal se mantiene activo en todos sus sectores, con intensidad media a   baja.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos   de Valparaíso; 4 brigadas y 7 técnico de Conaf. Además, de Carabineros, Dirección   Regional de SENAPRED y personal militar</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para las Provincias de Valparaíso y Marga Marga, por incendio forestal, que se encuentra vigente desde el 02 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

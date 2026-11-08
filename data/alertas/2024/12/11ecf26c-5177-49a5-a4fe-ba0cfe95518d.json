@@ -1,0 +1,20 @@
+{
+	"id": "11ecf26c-5177-49a5-a4fe-ba0cfe95518d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Machigüe por incendio forestal",
+	"fechaHora": "2024-12-24T18:19:00.000-03:00",
+	"createdAt": "2024-12-24T21:37:08.435Z",
+	"updatedAt": "2024-12-24T21:37:24.026Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchige-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;en relación con el incendio forestal en la comuna de Marchigüe, indica:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Las Rosas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">132 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Marchihue, por incendio forestal, que se mantuvo vigente desde el 23 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

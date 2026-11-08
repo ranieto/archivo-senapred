@@ -1,0 +1,20 @@
+{
+	"id": "7b43bc82-05e6-47ec-94b9-6c2e9bcec88f",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Coquimbo por viento",
+	"fechaHora": "2023-10-30T08:59:56.5656-03:00",
+	"createdAt": "2023-10-30T12:01:30.760Z",
+	"updatedAt": "2023-10-31T16:13:26.027Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A411-1/2023 que pronosticó la ocurrencia de viento normal a moderado en la Región de Coquimbo, debido al debilitamiento de las condiciones que lo originaron.<br><br>Sin embargo, la DMC mantiene vigente su Aviso Meteorológico A419/2023 que prevé la ocurrencia de viento normal a moderado en sectores cordilleranos de la región, hasta la noche de hoy lunes 30 de octubre.<br><br>En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED actualiza la Alerta Temprana Preventiva Regional por viento, que se mantiene vigente desde el 27 de octubre y hasta que las condiciones así lo ameriten.<br><br>La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "12fa7ba9-66f3-4c41-8ec7-e3cbbd65ac65",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Chonchi, por incendio forestal",
+	"fechaHora": "2024-01-24T02:42:00.000-03:00",
+	"createdAt": "2024-01-24T05:54:33.010Z",
+	"updatedAt": "2024-01-26T01:17:25.406Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal",
+	"parentId": "e9941ba5-4e74-458b-8151-6b6eedfb162e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chonchi\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En combate se mantiene el incendio forestal denominado “Nalhuitad Escuela” en la comuna de Chonchi.Durante la pasada jornada Bomberos de Castro y Chonchi trabajaron en la protección de 10 viviendas aledañas, ˜en tanto que brigadas de CONAF han continuado la construcción de líneas de cortafuegos.Durante la noche de hoy se mantiene desplegada 1 brigada nocturna de CONAF.<br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Chonchi, por incendio forestal, que se encuentra vigente desde el 23 de enero de 2024<br></p><p><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Nahuiltad Escuela</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6.7 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Incendio activo en el frente de avance y parte   media del flanco derecho con intensidad media. Sectores restantes se   encuentran contenidos.</span></p></td></tr></tbody></table><p><br></p><p>Trabajan en el lugar, Bomberos de Chonchi y Catro, 3 brigadas de CONAF, 3 técnicos de CONAF, 1 helicóptero CONAF, 1 camión cisterna CONAF, 1 camión Aljibe cuerpo de Bomberos Catro, carabineros y brigada empresa Eléctrica SAESA.</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

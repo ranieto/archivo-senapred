@@ -1,0 +1,20 @@
+{
+	"id": "965ab24c-f516-47b4-8af7-73851187f063",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la Comuna de La Estrella por incendio forestal",
+	"fechaHora": "2024-01-31T20:21:00.000-03:00",
+	"createdAt": "2024-01-31T23:43:38.358Z",
+	"updatedAt": "2024-02-06T10:30:47.176Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-la-estrella-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"La Estrella\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O’Higgins, la Dirección Regional de SENAPRED cancela la Alerta Amarilla y declara Alerta Roja para la Comuna de La Estrella por incendioforestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuara para controlar la situación, dada la extensión y severidad del evento.<br></p><p>Cabe señalar, que se mantiene vigente la Alerta Roja por incendio forestal en la comuna de Navidad y Alerta&nbsp; Amarilla Regional por incendios forestales.</p><p><span style=\"font-family: Roboto;color:#212529\">En en lugar trabajan: Bomberos de La Estrella, Pichilemu y Santa Cruz, 4 Brigada CONAF, 1 Técnico de CONAF, 4 Skidder de CONAF Y 3 Camiones cisternas de CONAF.</span></p><p><span style=\"font-family: Roboto;color:#212529\">Recurso en trayecto: 1 Ténico de CONAF, 1 Brigada de CONAF y 4 camiones cisterna de CONAF.</span></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Aguada</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal   mantiene cercanía a parcelación ”La Aguada” de la comuna de La Estrella, con   una distancia aproximada de 150 metros. Incendio forestal se encuentra activo con intensidad media a alta en la parte baja del flanco derecho,mientras que los sectores restantes no presentan avance.Se envían 2 mensajes SAE para las los sectores La Martina y Cerro Colorado, a las 19:46 horas y sector LosOlivos a las 19:48 horas</p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

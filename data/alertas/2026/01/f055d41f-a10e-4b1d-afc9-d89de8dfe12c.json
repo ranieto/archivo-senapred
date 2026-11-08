@@ -1,0 +1,20 @@
+{
+	"id": "f055d41f-a10e-4b1d-afc9-d89de8dfe12c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San Nicolás por incendio forestal",
+	"fechaHora": "2026-01-14T19:48:45.4545-03:00",
+	"createdAt": "2026-01-14T22:53:53.636Z",
+	"updatedAt": "2026-01-15T13:18:55.873Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-nicolas-por-incendio-forestal-2026-01-14-16-29-20",
+	"parentId": "97141186-fd78-4253-a9dd-98ee2cb273a8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de San Nicolás,&nbsp;</strong>se informa el siguiente detalle:</span></span></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">El Manzano</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">160 hectáreas</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cuerpo de Bomberos de San Nicolás, San Carlos, San Ignacio, El Carmen, Coihueco, Portezuelo y Chillán</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">6 brigadas, 4 técnicos, 3 aeronaves CONAF</span></p></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Afectación</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">500 personas evacuadas y 10 viviendas en evaluación</span></div></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Incendio de pastizal y matorral</span></div></td></tr></tbody></table></div><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED<strong> mantiene la Alerta Roja para la Comuna de San Nicolás por incendio forestal</strong>, que se encuentra vigente desde el 14 de enero de 2026.</span><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

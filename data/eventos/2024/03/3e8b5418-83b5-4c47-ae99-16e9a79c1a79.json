@@ -1,0 +1,19 @@
+{
+	"id": "3e8b5418-83b5-4c47-ae99-16e9a79c1a79",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región del Maule",
+	"fechaHora": "2024-03-03T16:50:42.4242-03:00",
+	"createdAt": "2024-03-03T19:51:21.832Z",
+	"updatedAt": "2024-03-03T20:09:52.645Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-maule-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 16:48 horas en la Región del Maule.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Talca:   </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

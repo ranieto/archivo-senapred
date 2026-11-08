@@ -1,0 +1,20 @@
+{
+	"id": "326e782e-7f23-4ccb-bc9d-2e2b1a48a24d",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-11-29T15:54:00.000-03:00",
+	"createdAt": "2025-11-29T19:03:45.992Z",
+	"updatedAt": "2025-12-01T13:57:18.917Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-24",
+	"parentId": "5f7c4519-aad1-4752-822c-cd68a9011f23",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA102-1</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas con probabilidad de fuertes rachas de vientos locales en sectores   de litoral, cordillera de la costa, valle, precordillera, cordillera, Chiloé,   litoral Interior y cordillera austral.</p></td><td><p style=\"text-align:center\">29-11</p></td><td><p style=\"text-align:center\">29-11</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A458-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en los sectores de valle, precordillera, cordillera,   Chiloé, litoral Interior, cordillera austral y patagonia subandina.</p></td><td><p style=\"text-align:center\">28-11</p></td><td><p style=\"text-align:center\">30-11</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A461</p></td><td><p style=\"text-align:justify\">Probable   desarrollo de nubes convectivas con características tornádicas y probabilidad   de intensos vientos locales arrachados y tornádicos en el litoral de la   región.</p></td><td><p style=\"text-align:center\">29-11</p></td><td><p style=\"text-align:center\">29-11</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva regional por evento meteorológico</strong>, la cual se mantiene vigente desde el 27 de noviembre y hasta que las condiciones del evento así lo ameriten<strong>.</strong></span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

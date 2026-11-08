@@ -1,0 +1,20 @@
+{
+	"id": "4a915dd0-f4ec-4760-a318-1e8427e35495",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Provincia de Chiloé por incendio forestal",
+	"fechaHora": "2024-01-23T20:50:54.5454-03:00",
+	"createdAt": "2024-01-23T23:53:51.988Z",
+	"updatedAt": "2024-01-27T20:40:47.710Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-chiloe-por-incendio-forestal",
+	"parentId": "95a94f9e-892f-429e-b9b8-06acea980e6e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), existe una condición de simultaneidad de ocurrencia de incendios forestales, referida a un número tal de incendios desarrollándose ˊal mismo tiempo, que concentran los recursos de combate disponibles en la región. En consecuencia, CONAF ha señalado que es necesario requerir el reforzamiento de recursos con integrantes del SINAPRED, para responder ˜a nuevos incendios que se inicien o que se encuentren en desarrollo<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp; coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Provincia de Chiloé por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp; Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que ˊ este crezca en ˊextensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

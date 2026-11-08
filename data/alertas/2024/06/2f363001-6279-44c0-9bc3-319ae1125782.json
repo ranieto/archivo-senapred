@@ -1,0 +1,20 @@
+{
+	"id": "2f363001-6279-44c0-9bc3-319ae1125782",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2024-06-12T13:38:00.000-04:00",
+	"createdAt": "2024-06-12T19:22:03.816Z",
+	"updatedAt": "2024-06-20T16:48:41.153Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-provincias-de-arauco-y-concepcion-por-desborde",
+	"parentId": "d2c639c8-56f8-470e-9b5d-5a5758cb5c16",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, se procedió a la evacuación preventiva del sector Santa Rita de la comuna de Concepción, por desborde del río Andalien, lo cual fue reforzado a las 12:46 horas mediante mensajería SAE.<br></p><p style=\"text-align:justify\">Adicionalmente, por amenaza de aluvión, fueron evacuados preventivamente los sectores Las Rocas, Estación Laraquete, Bellavista y San Pedro de la comuna de Arauco, cuya evacuación fue apoyada a través de mensajes SAE enviados a las 12:57 horas.</p><p style=\"text-align:justify\">Finalmente, fueron evacuados preventivamente los sectores Pichilo, El Llepo, Las Corrientes y La Faja de la comuna de Arauco, por desborde rio Pichilo, siendo enviada la mensajería SAE a las 13:16 horas.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Roja Regional por evento meteorológico</strong>, <span style=\"color:black\">que se mantiene vigente desde el 11 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\">Cabe mencionar, que se mantienen vigentes la Alerta Roja para las provincias de Arauco y Concepción por desborde y la Alerta Amarilla regional por amenaza de desborde.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

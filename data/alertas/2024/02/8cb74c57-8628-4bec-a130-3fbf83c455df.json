@@ -1,0 +1,20 @@
+{
+	"id": "8cb74c57-8628-4bec-a130-3fbf83c455df",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la comuna de Punitaqui por evento masivo",
+	"fechaHora": "2024-02-19T09:45:35.3535-03:00",
+	"createdAt": "2024-02-19T12:46:41.265Z",
+	"updatedAt": "2024-02-19T12:47:53.183Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-punitaqui-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Punitaqui\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo</strong>, ha finalizado el evento “Semana Punitaquina”, donde se congregaron entre 3.000 y 5.000 personas. Cabe mencionar que, no se registraron situaciones de emergencias asociadas a este evento.<br></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a lo anterior, y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Punitaqui por evento masivo, que se mantuvo vigente desde el 15 de febrero de 2024. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

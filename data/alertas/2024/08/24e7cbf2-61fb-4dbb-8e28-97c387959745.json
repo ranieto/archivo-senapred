@@ -1,0 +1,20 @@
+{
+	"id": "24e7cbf2-61fb-4dbb-8e28-97c387959745",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Atacama por viento",
+	"fechaHora": "2024-08-06T17:16:26.2626-04:00",
+	"createdAt": "2024-08-06T21:17:43.002Z",
+	"updatedAt": "2024-08-09T14:14:41.032Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen--por-viento",
+	"parentId": "8caa2d0b-7bbb-410e-80b4-97436b44743e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA72</p></td><td><p>Viento moderado a fuerte (80 a 100 km/h) con   desarrollo de viento blanco, en cordillera de la región.</p></td><td><p style=\"text-align:center\">07-08</p></td><td><p style=\"text-align:center\">07-08</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A289-3</p></td><td><p>Viento normal a moderado en precordillera y   cordillera de la región.</p></td><td><p style=\"text-align:center\">06-08</p></td><td><p style=\"text-align:center\">08-08</p></td></tr><tr><td><p style=\"text-align:center\">Aviso 298</p></td><td><p>Viento normal a moderado en el litoral de la región,   con la probabilidad de tormentas de arena, en la región.</p></td><td><p style=\"text-align:center\">06-08</p></td><td><p style=\"text-align:center\">07-08</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED, <strong>actualiza la Alerta Temprana Preventiva regional por viento, </strong>que se mantiene vigente desde el 29 de julio de 2024.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

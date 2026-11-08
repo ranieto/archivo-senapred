@@ -1,0 +1,20 @@
+{
+	"id": "6dd9de10-72b5-4b6a-8405-c9a9e7862e4f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2024-12-27T20:19:36.3636-03:00",
+	"createdAt": "2024-12-27T23:22:10.910Z",
+	"updatedAt": "2024-12-27T23:24:08.059Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la</strong><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), el&nbsp;</strong>Incendio Forestal denominado \"La Raya\" se encuentra extinguido.</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>La Raya</p></td></tr><tr><td><p><strong>Comuna (sector)</strong></p></td><td><p>Cauquenes</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.271 hectáreas</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Cauquenes, por incendio forestal, que se mantuvo vigente desde el 26 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "bdfd011d-2d75-489d-9335-9b59776411db",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Tiltil por incendio forestal",
+	"fechaHora": "2024-02-04T19:45:00.000-03:00",
+	"createdAt": "2024-02-05T00:18:53.659Z",
+	"updatedAt": "2024-02-05T00:19:49.191Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tiltil-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Tiltil\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\"><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>,&nbsp;respecto al incendio forestal en la comuna de Tiltil, se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Arturo Prat</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>Controlado</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>6 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos involucrados</strong></p></td><td><div>Bomberos de Tiltil y Metropolitano Sur, 6 brigadas de CONAF, 1 técnico de CONAF, 2 aviones de CONAF, mientras que personal de Carabineros se encuentra en trayecto</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>cancela Alerta Roja para la comuna de Tiltil por incendio forestal</strong>, que se mantuvo vigente <span style=\"color: rgb(33, 37, 41)\">desde el 04 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

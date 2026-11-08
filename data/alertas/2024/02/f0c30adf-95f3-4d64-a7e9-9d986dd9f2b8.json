@@ -1,0 +1,20 @@
+{
+	"id": "f0c30adf-95f3-4d64-a7e9-9d986dd9f2b8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Perquenco por incendio forestal",
+	"fechaHora": "2024-02-12T20:04:00.000-03:00",
+	"createdAt": "2024-02-12T23:22:16.161Z",
+	"updatedAt": "2024-02-13T19:00:10.532Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-perquenco-por-incendio-forestal",
+	"parentId": "532b85fa-10be-4a93-83b0-2b8bfd9bf6fa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Perquenco\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Perquenco, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>Quillén</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>5 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">Incendio presenta cercanía a sectores habitados</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>Bomberos de Perquenco, Ercilla y Lautaro, 6 brigadas de CONAF, 2 técnicos de CONAF, 2 aviones de CONAF y 3 helicópteros</div></td></tr></tbody></table></div><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED&nbsp;<strong>declara Alerta Roja para la comuna de Perquenco por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

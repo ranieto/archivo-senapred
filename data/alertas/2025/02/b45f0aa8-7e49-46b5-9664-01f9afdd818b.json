@@ -1,0 +1,20 @@
+{
+	"id": "b45f0aa8-7e49-46b5-9664-01f9afdd818b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Juan Fernández por evento masivo",
+	"fechaHora": "2025-02-10T00:11:00.000-03:00",
+	"createdAt": "2025-02-10T03:16:35.187Z",
+	"updatedAt": "2025-02-10T03:17:16.820Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-juan-fernandez-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Juan Fernández\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso</span></strong><span style=\"color: black\">, sin situaciones de emergencia se desarrolló la estadía y zarpe de las motonaves “Bollete” y “Artania”, que recalaron en la comuna de Juan Fernández con tránsito a la provincia de Isla de Pascua. Las motonaves continuaron su ruta sin presentarse incidentes que afectaran la infraestructura ni la capacidad de respuesta local.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Juan Fernández</strong>, que se mantuvo vigente desde el 07 de febrero de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "e959db3e-2204-4b49-a652-74a1d5dae530",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de San Fernando por incendio forestal",
+	"fechaHora": "2026-01-17T16:07:00.000-03:00",
+	"createdAt": "2026-01-17T19:30:58.122Z",
+	"updatedAt": "2026-01-18T03:44:43.888Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-fernando-por-incendio-forestal-2026-01-17-16-30-43",
+	"parentId": "a3d58b78-fd65-4a35-bc45-6f4c50510139",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de <strong>San Fernando</strong>; se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Ruta 5 Sur km 136</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 Brigadas terrestres CONAF, 2 técnicos CONAF, 1 helicóptero   CONAF, 2 Aviones cisterna CONAF y 1 PUMA.</p></td></tr></tbody></table><p style=\"text-align:justify\">De acuerdo con la información técnica proporcionada por CONAF, indica que el incendio forestal mantiene con cercanía a sectores habitados.</p><p style=\"text-align:justify\">Además, mantiene amenaza inminente a carretera principal, ubicadas en el sector ruta 5 sur km 136.</p><p style=\"text-align:justify\">Condiciones Meteorológicas al momento:</p><p style=\"text-align:justify\">Se registra viento del suroeste (SO) de 10 km/h, considerando este patrón durante las próximas horas, proyectando reducción a partir de las 19.00 horas. Condiciones actuales cálidas y secas: 32°C y humedad relativa de 25%.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de San Fernando por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

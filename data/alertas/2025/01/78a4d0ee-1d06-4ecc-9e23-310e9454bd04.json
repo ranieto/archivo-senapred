@@ -1,0 +1,20 @@
+{
+	"id": "78a4d0ee-1d06-4ecc-9e23-310e9454bd04",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Catemu por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-31T23:21:54.280Z",
+	"updatedAt": "2025-01-31T23:24:26.400Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-catemu-por-incendio-forestal-3",
+	"parentId": "d8f42cce-f6a0-469c-82e8-1bb685fc238a",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;i<strong>nformación proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Catemu se reporta lo siguiente:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Santa Rosa 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2.3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Llay llay, Catemu, Los Andes, San Felipe,   Nogales, Hijuelas y La Calera; 4 brigadas y 2 técnicos, 6 aeronaves y   Carabineros.</p></td></tr></tbody></table><p>Producto de este incendio se activó mensajería SAE para el sector Alameda Santa Rosa</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Catemu, por incendio forestal, que se mantuvo vigente desde el 31de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

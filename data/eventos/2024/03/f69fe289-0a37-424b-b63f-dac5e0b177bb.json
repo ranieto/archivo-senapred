@@ -1,0 +1,19 @@
+{
+	"id": "f69fe289-0a37-424b-b63f-dac5e0b177bb",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2024-03-11T22:36:00.000-03:00",
+	"createdAt": "2024-03-12T01:37:42.242Z",
+	"updatedAt": "2024-03-12T01:40:58.969Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-26",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Vallenar, Alto del Carmen, Huasco\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor&nbsp; intensidad se percibió a las 22:30 horas en la Región de Atacama. Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Huasco:   </p></td><td><p>III</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>III</p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>II</p></td></tr></tbody></table><p><span style=\"font-size:15px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "8ac32048-a264-4601-a5a7-f1d1abec1f0a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Marchigüe por incendio forestal",
+	"fechaHora": "2026-01-16T16:27:12.1212-03:00",
+	"createdAt": "2026-01-16T19:28:32.965Z",
+	"updatedAt": "2026-01-16T19:29:43.212Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchige-por-incendio-forestal-2026-01-16-14-12-20",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de Marchigüe se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Mallermo 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3.6 (ha)</p></td></tr></tbody></table><p><br><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Marchihue, por incendio forestal, que se mantuvo vigente desde el 16 de enero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

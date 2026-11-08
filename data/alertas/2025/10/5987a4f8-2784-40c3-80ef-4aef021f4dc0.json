@@ -1,0 +1,20 @@
+{
+	"id": "5987a4f8-2784-40c3-80ef-4aef021f4dc0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la Provincia de Capitán Prat por crecida",
+	"fechaHora": "2025-10-08T23:20:00.000-03:00",
+	"createdAt": "2025-10-09T02:23:03.340Z",
+	"updatedAt": "2025-10-17T16:55:51.262Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-capitan-prat-por-crecida-2",
+	"parentId": "b3a5090c-e045-4c33-88aa-6af92dbe0c81",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información técnica proporcionada por la Dirección General de Aguas (DGA)</span></strong><span style=\"color: black\">, en sus estaciones hidrométricas monitoreadas en línea, se indica que la estación del Río Mayer en Desembocadura, comuna de O’Higgins, ha ingresado en el umbral de </span><strong><em>Alerta Roja</em></strong><span style=\"color: black\">. Asimismo, la estación Río Baker Bajo Ñadis, Río Baker en Angostura de Chacabuco, comuna de Cochrane se mantiene en el umbral azul con tendencia a la subida de su caudal.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional del SENAPRED <strong>declara Alerta Roja y cancela la Alerta Amarilla para la Provincia de Capitán Prat por crecida, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que las Provincias de Aysén, Coyhaique y General Carrera, mantienen Alerta Temprana Preventiva por Crecida.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "342b4cd9-8681-4fb8-af09-ba5db099eb5e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla por crecida para la comunas de Sagrada Familia y San Rafael",
+	"fechaHora": "2024-06-23T23:05:00.000-04:00",
+	"createdAt": "2024-06-24T03:09:07.166Z",
+	"updatedAt": "2024-06-24T03:09:45.371Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comunas-de-sagrada-familia-y-san-rafael-por-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca, Curicó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Sagrada Familia, San Rafael\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red Hidrométricas “Estación Estero Culenar en Villa Prat”, en las comunas de Sagrada Familia y San Rafael, presenta niveles de caudal por debajo del umbral de alerta amarilla y mantiene la tendencia a la baja.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por crecida para la comunas de Sagrada Familia y San Rafael,</strong> que se encontraba vigente desde el 22 de junio de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

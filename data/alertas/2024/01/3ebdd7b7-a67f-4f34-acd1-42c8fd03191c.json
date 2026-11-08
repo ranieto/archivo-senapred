@@ -1,0 +1,20 @@
+{
+	"id": "3ebdd7b7-a67f-4f34-acd1-42c8fd03191c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Cartagena por incendio forestal",
+	"fechaHora": "2024-01-08T20:39:00.000-03:00",
+	"createdAt": "2024-01-08T23:57:24.063Z",
+	"updatedAt": "2024-01-08T23:59:32.435Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cartagena-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> el incendio forestal Cruce Malvilla en la comuna de Cartagena, se encuentra Controlado, afectando una superficie de 7.4 hectáreas.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la Comuna de Cartagena</strong>, por incendio forestal, que se mantuvo vigente desde el 08 de enero de 2024</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

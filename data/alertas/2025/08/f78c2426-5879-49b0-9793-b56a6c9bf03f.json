@@ -1,0 +1,20 @@
+{
+	"id": "f78c2426-5879-49b0-9793-b56a6c9bf03f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las provincias de Cachapoal y Colchagua por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-08-23T18:25:19.759Z",
+	"updatedAt": "2025-08-23T18:26:05.443Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-cachapoal-y-colchagua-por-evento-meteorologico",
+	"parentId": "435e0438-61ef-4217-b63d-6dea363cb540",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins, debido al debilitamiento de las condiciones que los originaron.</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA78-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Heladas   moderadas a intensas con formación de hielo en valle y precordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A314</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Nevadas   normales a moderadas con probabilidades de ventisca en cordillera. </span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A315-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   nevadas con probabilidad de riesgo en el desplazamiento en precordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A317</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con probabilidad de viento blanco en cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A321-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en litoral, cordillera de la costa y valle.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por evento meteorológico para las provincias de Cachapoal y Colchagua</strong>, que se mantenía vigente desde el martes 21 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

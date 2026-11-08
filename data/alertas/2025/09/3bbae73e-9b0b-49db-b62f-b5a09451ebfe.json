@@ -1,0 +1,20 @@
+{
+	"id": "3bbae73e-9b0b-49db-b62f-b5a09451ebfe",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la región de La Araucanía por viento",
+	"fechaHora": "2025-09-05T14:11:00.000-04:00",
+	"createdAt": "2025-09-05T19:04:30.392Z",
+	"updatedAt": "2025-09-05T19:04:44.147Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-viento-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el Aviso Meteorológico A336-1/2025, el cual pronosticaba viento normal a moderado con probabilidad de viento blanco en cordillera de la región. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por viento, </strong>la que se mantuvo vigente desde el 03 de septiembre de 2025</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

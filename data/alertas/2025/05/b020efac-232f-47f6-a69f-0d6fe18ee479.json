@@ -1,0 +1,20 @@
+{
+	"id": "b020efac-232f-47f6-a69f-0d6fe18ee479",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de María Pinto por incendio forestal",
+	"fechaHora": "2025-05-06T14:32:00.000-04:00",
+	"createdAt": "2025-05-06T18:56:46.801Z",
+	"updatedAt": "2025-05-07T15:29:22.203Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-maria-pinto-por-incendio-forestal",
+	"parentId": "264a555d-4176-4ce3-8f25-b5fc98fc0de6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la comuna de María Pinto, se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Santa Filomena</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1000 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>-Cuerpo de Bomberos de Melipilla, Vehículos: BF6 y BF3; de Maria   Pinto, Vehículos RB1 y de Ñuño,; Vehículo UT3.</p><p>-7 Brigadas: Roble-8, Roble-9, Palma-11, Palma-26, Palma-37,   Palma-7 y Peumo-9</p><p>-10 técnicos</p><p>-1 helicóptero (CC-DLE) y 3 aviones (CC-PZT, CC-PZM y CC-PZJ)</p><p><strong>Otros Recursos:</strong></p><p>1 PC Code (brigada de la quinta región, camioneta con equipo de   agua)</p><p>2 Camiones cisternas</p><p>1 Puesto de Mando</p><p>1 Skidder</p><p>Equipo SENAPRED RM</p><p>Alcaldesa María Pinto</p><p>Encargado de Emergencia Provincial de Melipilla</p><p>Encargado Comunal de Emergencia de Melipilla</p><p>Encargado Comunal de Emergencia de María Pinto</p><p>Comandante Bomberos de Melipilla</p><p>Autoridad Sanitaria Provincial</p><p><strong>Recursos en trayecto:</strong></p><p>1 Bomberos El Monte Z1</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de María Pinto, por incendio forestal, que se encuentra vigente desde el 05 de mayo de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

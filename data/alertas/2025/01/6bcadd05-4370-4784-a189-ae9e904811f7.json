@@ -1,0 +1,20 @@
+{
+	"id": "6bcadd05-4370-4784-a189-ae9e904811f7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Magallanes por evento meteorológico",
+	"fechaHora": "2025-01-13T11:55:00.000-03:00",
+	"createdAt": "2025-01-13T14:06:01.355Z",
+	"updatedAt": "2025-01-13T15:48:05.304Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-magallanes-por-viento",
+	"parentId": "b53bb09c-da8e-4959-b38a-1704d7bb29f7",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Magallanes:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA5</p></td><td><p style=\"text-align:justify\">Viento moderado a   fuerte en cordillera austral sur, Insular central, insular sur y pampa   patagónica sur.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A12</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A15</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en Cordillera Austral Norte, Insular Norte y Pampa   Patagónica Norte.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A16</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en Cordillera Austral Norte, Cordillera Austral Sur,   Insular Norte, Insular Central, Insular Sur, Pampa Patagónica Norte y Pampa   Patagónica Sur.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por evento meteorológico, </strong>que se mantuvo vigente desde el 10 de enero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

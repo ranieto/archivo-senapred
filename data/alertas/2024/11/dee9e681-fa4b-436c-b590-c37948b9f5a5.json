@@ -1,0 +1,20 @@
+{
+	"id": "dee9e681-fa4b-436c-b590-c37948b9f5a5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Mostazal por incendio forestal",
+	"fechaHora": "2024-11-10T20:39:53.5353-03:00",
+	"createdAt": "2024-11-10T23:40:25.203Z",
+	"updatedAt": "2024-11-10T23:40:36.907Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-mostazal-region-de-ohiggins-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que afecta a la comuna de Mostazal es el siguiente::</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">Fundo La Querencia</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">60.3   hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la Comuna de Mostazal</strong>, por incendio forestal, que se mantuvo vigente desde el 10 de noviembre de 2024</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

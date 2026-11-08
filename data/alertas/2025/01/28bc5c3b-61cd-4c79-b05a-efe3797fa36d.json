@@ -1,0 +1,20 @@
+{
+	"id": "28bc5c3b-61cd-4c79-b05a-efe3797fa36d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la región de Arica y Parinacota por remoción en masa",
+	"fechaHora": "2025-01-25T11:13:00.000-03:00",
+	"createdAt": "2025-01-25T14:15:05.169Z",
+	"updatedAt": "2025-01-30T19:09:02.235Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "4b3b9d69-4907-4746-8674-90d597be9635",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, respecto a los deslizamientos en la Cuesta Chinchorro y las zonas de talud con alta susceptibilidad de remoción en masa,se informa que, <strong>durante la madrugada de hoy 25 de enero, aproximadamente desde las 04:00 horas, se produjo un deslizamiento de rocas que provocó el cierre temporal de la Ruta 5 Norte</strong>, la cual se encuentra <strong>nuevamente habilitada desde las 10:25 horas</strong>.</p><p style=\"text-align:justify\">Producto de lo anterior, la empresa SOCOVIAL se mantuvo trabajando en el lugar para el despeje de la ruta y la habilitación del tránsito vehicular.</p><p style=\"text-align:justify\">Cabe señalar que la<strong> Ruta 5 Norte se mantiene con cortes preventivos nocturnos entre las 22:00 horas y las 06:00 horas del día siguiente.</strong></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por remoción en masa,</strong> la que se encuentra vigente desde el 02 de octubre del 2024 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Continúa trabajando en el lugar Carabineros y personal del Ministerio de Obras Públicas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, se mantiene la restricción de tránsito para buses en horario nocturno dispuesta por el Ministerio de Transporte y Telecomunicaciones. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, a la fecha se han realizado 2 COGRID Regionales y 1 Nacional. Además, de reuniones locales para la evaluación de necesidades. Manteniéndose las acciones acordadas en el COGRID del 15 de octubre de 2024, entre las que se encuentran:</span></p><ul type=\"disc\"><li><span style=\"color:black\">La elaboración de un Plan Operativo para abordar la emergencia.</span></li><li><span style=\"color:black\">Se traslada el control operativo de SAG a la ciudad de Arica, para      evitar aglomeraciones en Cuya.</span></li><li><span style=\"font-size:16px;color:black\">La Superintendencia de Electricidad y      Combustibles</span><span style=\"color:black\"> (SEC) mantiene el monitoreo del      abastecimiento de combustible en la región.</span></li><li><span style=\"color:black\">Se mantiene 1 ambulancia en la localidad de Huara, para la atención      de salud en Huara y Cuya.</span></li></ul><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, SENAPRED ha entregado a la fecha, 820 Kits de higiene, 360 botellas de agua de 1.5 litros, 25 cajas de alimentos y 560 raciones de alimentos de 12 horas, así como la contratación de 60 baños químicos y transporte para 160 personas.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

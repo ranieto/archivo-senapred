@@ -1,0 +1,20 @@
+{
+	"id": "97a0a053-c9eb-4720-8f8d-709a2887bd1d",
+	"type": "Alerta",
+	"titulo": "Otra con fecha igual",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-23T23:06:06.477Z",
+	"updatedAt": "2023-10-23T23:10:56.859Z",
+	"urlAccess": "demostracion-creacion-alerta",
+	"parentId": "a27e9108-b27f-4c95-95f3-561f7db5a498",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p>asdf</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "ce70d6fb-262a-4ad5-92e9-0f5736424d6f"
+}

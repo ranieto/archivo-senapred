@@ -1,0 +1,20 @@
+{
+	"id": "ae6bc7a1-cf47-45d2-b32e-8712da7077fb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Natales por precipitaciones ",
+	"fechaHora": "2025-01-30T10:15:00.000-03:00",
+	"createdAt": "2025-01-30T13:17:50.658Z",
+	"updatedAt": "2025-01-30T13:19:03.645Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-natales-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Natales\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelado el Aviso Meteorológico A37/2025, que pronosticó precipitaciones normales a moderadas en zonas de la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por precipitaciones para la comuna de Natales, </strong>que se mantuvo vigente desde el 27 de enero del 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

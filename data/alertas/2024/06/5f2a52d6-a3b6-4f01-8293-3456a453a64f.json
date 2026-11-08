@@ -1,0 +1,20 @@
+{
+	"id": "5f2a52d6-a3b6-4f01-8293-3456a453a64f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva en la provincia de Cautín por evento meteorológico",
+	"fechaHora": "2024-06-18T09:24:36.3636-04:00",
+	"createdAt": "2024-06-18T13:25:21.693Z",
+	"updatedAt": "2024-06-18T13:25:54.931Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-cautin-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) han sido <strong>cancelados</strong> los siguientes alertamientos en la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A218-1</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas en corto periodo de tiempo en cordillera.</p></td><td><p style=\"text-align:center\">17-06</p></td><td><p style=\"text-align:center\">18-06</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A219-1</p></td><td><p>Precipitaciones   normales a moderadas en corto periodo de tiempo en litoral, cordillera de la   costa, valle y precordillera.</p></td><td><p style=\"text-align:center\">17-06</p></td><td><p style=\"text-align:center\">17-06</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A220</p></td><td><p>Viento normal a   moderado en litoral y cordillera de la costa.</p></td><td><p style=\"text-align:center\">16-06</p></td><td><p style=\"text-align:center\">17-06</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva en la provincia de Cautín por evento meteorológico, </strong>que se mantuvo vigente desde el 15 de junio de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

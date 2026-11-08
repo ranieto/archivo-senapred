@@ -1,0 +1,20 @@
+{
+	"id": "9961ef93-6a1f-4f1b-a92d-505d93fed6ff",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Marchihue por incendio forestal",
+	"fechaHora": "2026-01-18T17:20:00.000-03:00",
+	"createdAt": "2026-01-18T20:52:16.582Z",
+	"updatedAt": "2026-01-19T14:01:43.736Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchihue-por-incendio-forestal-2026-01-18-17-52-02",
+	"parentId": "f5c33ffe-b3bb-439e-a48f-f168e6c8bdd6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf y SINAPRED,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la<strong>comuna de Marchihue&nbsp;</strong>se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><div>El Chequen</div></td></tr><tr><td><p><strong>Estado</strong></p></td><td><div>Marchihue (Chequen)</div></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><div>2 hectáreas</div></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><div>Cuerpo de Bomberos de Marchihue, Cuerpo de Bomberos La Estrella, 4 Brigadas Terrestres de Conaf, 1 Técnico Comandante de Incidente, 1 Helicóptero Conaf, 2 camiones Aljibe Conaf y 1 Maquinaria pesada Conaf</div></td></tr></tbody></table><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\">De acuerdo a la informacion tecnica proporcionada por CONAF, activo desde las 15:45 horas se encuentra el Incendio forestal El chequen, el que presenta amenaza inminente a la población \"Parcelación El Chequen\" , a una distancia promedio de 200 m.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Marchihue por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

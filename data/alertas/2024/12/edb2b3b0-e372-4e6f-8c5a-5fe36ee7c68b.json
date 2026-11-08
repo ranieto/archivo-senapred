@@ -1,0 +1,20 @@
+{
+	"id": "edb2b3b0-e372-4e6f-8c5a-5fe36ee7c68b",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Temprana Preventiva para la Provincia de Valdivia por tormentas eléctricas",
+	"fechaHora": "2024-12-06T01:14:52.5252-03:00",
+	"createdAt": "2024-12-06T04:16:20.802Z",
+	"updatedAt": "2024-12-06T23:27:00.069Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-tormentas-electricas-9",
+	"parentId": "2de783f7-14d7-442e-8864-f962751f3394",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Ríos:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A452</p></td><td><p style=\"text-align:justify\">Probables tormentas eléctricas en la provincia de   Valdivia. </p></td><td><p style=\"text-align:justify\">06-12</p></td><td><p style=\"text-align:justify\">06-12</p></td></tr></tbody></table><p style=\"text-align:justify\">Por otro lado, la DMC ha cancelado el siguiente alertamiento meteorológico para la región, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A449-1</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas con probabilidad de precipitaciones fuertes en corto   periodo de tiempo en valle y precordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Temprana Preventiva a la Provincia de Valdivia, por tormentas eléctricas</strong>, que se encuentra vigente desde el 04 de diciembre de 2024 y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6d85fb44-9c7b-4d00-87cb-526da061defd",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de María Pinto por evento meteorológico ",
+	"fechaHora": "2026-07-21T12:36:00.000-04:00",
+	"createdAt": "2026-07-21T16:45:05.174Z",
+	"updatedAt": "2026-07-21T16:45:42.759Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-maria-pinto-por-evento-meteorologico-2026-07-17-19-34-08",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile</strong>, se registra un debilitamiento de las condiciones meteorológicas que generaron amenaza de desborde del Canal Mercedes y la activación de diversas quebradas que presentaron condiciones de riesgo para la población en los sectores de Améstica, Santa Emilia, y Baracaldo en la comuna de Maria Pinto.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por evento meteorológico para la comuna de María Pinto,</strong> que se encontraba vigente desde el 17 de julio.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

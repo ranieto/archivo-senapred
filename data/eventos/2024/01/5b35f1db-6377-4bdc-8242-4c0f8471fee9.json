@@ -1,0 +1,19 @@
+{
+	"id": "5b35f1db-6377-4bdc-8242-4c0f8471fee9",
+	"type": "Evento",
+	"titulo": "Incendio estructural, Comuna de Santiago (Cierre de evento)",
+	"fechaHora": "2024-01-27T00:46:00.000-03:00",
+	"createdAt": "2024-01-27T03:50:13.793Z",
+	"updatedAt": "2024-01-27T03:50:13.793Z",
+	"urlAccess": "incendio-estructural-comuna-de-santiago-informacion-preliminar",
+	"parentId": "5711bedf-85b8-40cb-9dea-d1894b20cf3e",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Santiago\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Metropolitana</span></strong><span style=\"color: black\">, respecto del incendio estructural que se desarrolló en la intersección de la calle San Isidro y Avenida Santa Isabel, comuna de Santiago, se informa que a raíz de este evento se registraron 13 personas damnificadas, 2 viviendas y 3 locales comerciales destruidos.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que las personas damnificadas fueron trasladadas a viviendas de familiares, por otro lado, no se reportaron personas lesionadas producto de este evento.</span></p><p style=\"text-align:justify\">Trabajaron en el lugar Bomberos de Santiago, Carabineros, empresa eléctrica ENEL y personal municipal.<br></p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

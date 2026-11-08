@@ -1,0 +1,20 @@
+{
+	"id": "63d6e6fc-421d-40ab-8e33-f0c6347b9160",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego  por evento meteorológico",
+	"fechaHora": "2025-05-15T11:41:00.000-04:00",
+	"createdAt": "2025-05-15T15:44:17.329Z",
+	"updatedAt": "2025-05-15T23:05:57.426Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-evento-meteorologico",
+	"parentId": "7fac164b-3be3-429b-bc4d-82ff9c143f02",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes</span></strong><span style=\"color: black\">, producto del viento registrado en la región, se reporta un corte en el servicio del suministro de electricidad que afecta a 900 clientes, de un total inicial de 45.000 clientes en la comuna de Punta Arenas y 250 clientes en la comuna de Natales.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, en la comuna de Punta Arenas se reportan 2 viviendas con daños en evaluación, 1 edificio con desprendimiento de techumbres y 2 con roturas de vidrios.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva por evento meteorológico para las provincias de Magallanes, Última Esperanza y Tierra del Fuego</strong>, que se encuentra vigente desde el 13 de mayo y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\">Durante la presente jornada se realizó un COGRID Regional y se suspendieron las clases en el 50% de establecimientos educacionales de la comuna de Punta Arenas.</p><p style=\"text-align:justify\">Asimismo, se mantienen cerrados los puertos de Primera Angostura, Puerto Natales, Punta Arenas y Porvenir.</p><p style=\"text-align:justify\">Finalmente, personal de la empresa eléctrica Edelmag se mantiene trabajando en la reposición del servicio. Mientras, personal municipal trabaja en el despeje de las vías urbanas afectadas por caídas de árboles.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

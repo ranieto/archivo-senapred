@@ -1,0 +1,20 @@
+{
+	"id": "d285f54b-26d4-422f-a462-a72a03307048",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por amenaza de incendios forestales",
+	"fechaHora": "2025-12-26T18:37:00.000-03:00",
+	"createdAt": "2025-12-26T22:54:58.980Z",
+	"updatedAt": "2026-07-08T18:12:50.478Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-amenaza-de-incendios-forestales-2025-12-26-19-54-42",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a lo informado por CONAF, en atención de las condiciones meteorológicas pronosticadas para los próximos días, temperaturas mínimas y máximas y el Aviso Meteorológico A498/2025, emitido por la Dirección Meteorológica de Chile por Altas temperaturas en sectores de Cordillera de la Costa, Valle y Precordillera; en consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>declara Alerta Temprana Preventiva Regional</strong>, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><strong>SENAPRED</strong>&nbsp;recomienda a la población&nbsp;mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder;&nbsp;no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (<a href=\"https://web.senapred.cl/visor-chile-preparado/\">https://web.senapred.cl/visor-chile-preparado/</a>).&nbsp;En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).&nbsp;</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

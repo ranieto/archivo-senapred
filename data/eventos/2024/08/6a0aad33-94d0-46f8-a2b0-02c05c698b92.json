@@ -1,0 +1,19 @@
+{
+	"id": "6a0aad33-94d0-46f8-a2b0-02c05c698b92",
+	"type": "Evento",
+	"titulo": "Alteración del suministro de agua potable, comuna de Valparaíso (amplía información)",
+	"fechaHora": "2024-08-10T17:35:00.000-04:00",
+	"createdAt": "2024-08-10T21:37:03.070Z",
+	"updatedAt": "2024-08-11T12:36:31.194Z",
+	"urlAccess": "alteracion-del-suministro-de-agua-potable-comuna-de-valparaiso-informacion-preliminar",
+	"parentId": "d9160a99-848c-4ed0-83e7-2c341ca14620",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso, 10.000 clientes se mantienen afectados por un corte en el servicio de suministro de agua potable, producto de una rotura de matriz. Producto de esto, se estima que los clientes se encuentran afectados desde Cerro Bellavista hasta Playa Ancha; y desde Avenida Alemania y Calle Pacífico hasta el inicio del Plan de Valparaíso.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Conforme al reporte de falla y el procedimiento de reparación total de la tubería afectada, se estima que el proceso de restablecimiento del servicio pueda iniciar en horas de la noche y de forma gradual, hasta alcanzar la normalización completa del sistema.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Como medida de mitigación, la empresa ESVAL mantiene 10 estanques estacionarios en los sectores afectados, mientras continúa desplegando estanques y abasteciendo agua potable mediante camiones aljibe.</p>",
+	"variableInformateEventosId": "47537f83-6692-4432-9f54-2f8fab2808ab"
+}

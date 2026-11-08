@@ -1,0 +1,20 @@
+{
+	"id": "da106549-baf1-45ad-ac4f-32cb3814376e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Cholchol por amenaza de desborde",
+	"fechaHora": "2024-06-17T08:05:00.000-04:00",
+	"createdAt": "2024-06-17T12:09:02.989Z",
+	"updatedAt": "2024-06-17T12:09:41.395Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cholchol-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Cholchol\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red hidrométrica “Río Cholchol”, en la comuna de Cholchol, se encuentra actualmente en el umbral de Alerta Azul, indicando una tendencia a la baja en su caudal<span style=\"color: black\">.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para la comuna de Cholchol,</strong> que se mantenía vigente desde el 13 de junio.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

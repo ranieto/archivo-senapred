@@ -1,0 +1,20 @@
+{
+	"id": "d9fda070-62db-459e-8852-7dd424d62009",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Florida por incendio forestal",
+	"fechaHora": "2024-01-29T20:48:00.000-03:00",
+	"createdAt": "2024-01-29T23:48:18.933Z",
+	"updatedAt": "2024-02-01T21:29:54.157Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-florida-por-incendio-forestal",
+	"parentId": "5fc6a0f1-3812-41c3-b8ba-8c11666cd6e6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Florida\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que se desarrolla en la comuna de Florida, se informa lo siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Casablanca </p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>15 hectáreas</p></td></tr><tr><td><p><strong>Fundamentación   técnica</strong></p></td><td><p><span style=\"color:black\">Incendio Forestal se presenta cercano a sectores poblados.</span></p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Trabajan en la   contención del incendio 6 brigadas de Conaf, 2 técnicos de Conaf, 1 avión   Cisterna de Conaf, 2 helicópteros de Conaf, 3 aviones Cisterna Forestal   ARAUCO, 1 avión de coordinación Forestal ARAUCO</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Florida por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

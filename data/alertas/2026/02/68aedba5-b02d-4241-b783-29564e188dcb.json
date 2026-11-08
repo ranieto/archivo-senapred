@@ -1,0 +1,20 @@
+{
+	"id": "68aedba5-b02d-4241-b783-29564e188dcb",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Ninhue por incendio forestal",
+	"fechaHora": "2026-02-01T18:43:31.3131-03:00",
+	"createdAt": "2026-02-01T21:49:59.823Z",
+	"updatedAt": "2026-02-01T23:35:10.466Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ninhue-por-incendio-forestal-2026-02-01-18-49-44",
+	"parentId": "4937bf39-2ef7-42b7-9363-ac3a3e060d9f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:<br></p><p><br></p><p><br></p><table><tbody><tr><td><p style=\"margin-right:0cm;margin-left:4.85pt\"><strong><span style=\"color:black\">Nombre del incendio</span></strong></p></td><td><p style=\"margin-right:0cm;margin-left:4.1pt\">298-Collipeumo</p></td></tr><tr><td><p style=\"margin-right:0cm;margin-left:4.85pt\"><strong><span style=\"color:black\">Comuna</span></strong><strong><span style=\"color:black\">(Sector)</span></strong></p></td><td><p style=\"margin-right:0cm;margin-left:4.1pt\">Ninhue</p></td></tr><tr><td><p style=\"margin-right:0cm;margin-left:4.85pt\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"margin-right:0cm;margin-left:4.1pt\">En combate</p></td></tr><tr><td><p style=\"margin-right:0cm;margin-left:4.85pt\"><strong><span style=\"color:black\">Superficie&nbsp;</span></strong><strong><span style=\"color:black\">afectada&nbsp;</span></strong><strong><span style=\"color:black\">[ha]</span></strong></p></td><td><p style=\"margin-right:0cm;margin-left:4.1pt\">0.01</p></td></tr><tr><td><p style=\"margin-right:0cm;margin-left:4.85pt\"><strong><span style=\"color:black\">Descripción</span></strong></p></td><td><p style=\"margin-right:0cm;margin-left:4.1pt\">Incendio de pastizal y matorral con desarrollo cercano a sectores habilitados</p></td></tr></tbody></table><p><br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

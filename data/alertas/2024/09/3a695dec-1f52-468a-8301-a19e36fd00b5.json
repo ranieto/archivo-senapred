@@ -1,0 +1,20 @@
+{
+	"id": "3a695dec-1f52-468a-8301-a19e36fd00b5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Malloa por evento masivo ",
+	"fechaHora": "2024-09-09T16:45:00.000-03:00",
+	"createdAt": "2024-09-09T19:48:09.904Z",
+	"updatedAt": "2024-09-09T19:49:38.693Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-masivo-para-la-comuna-de-malloa-por-evento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Malloa\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED O’Higgins, ha finalizado la fiesta religiosa “Santa Rosa de Lima” que se desarrolló en el santuario ubicado en la localidad de Pelequén, comuna de Malloa, la que reunió aproximadamente 150.000 personas.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Malloa,</strong> que se mantuvo vigente desde el 28 de agosto de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

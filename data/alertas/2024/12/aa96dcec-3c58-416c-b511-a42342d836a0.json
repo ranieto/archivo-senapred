@@ -1,0 +1,20 @@
+{
+	"id": "aa96dcec-3c58-416c-b511-a42342d836a0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Tiltil por incendio forestal",
+	"fechaHora": "2024-12-02T18:08:58.5858-03:00",
+	"createdAt": "2024-12-02T21:11:42.698Z",
+	"updatedAt": "2024-12-02T21:30:06.769Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tiltil-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Corporación Nacional Forestal (CONAF), controlado se encuentra el incendio forestal denominado \"Polpaico 3\", el que afecta a 11 hectáreas de vegetación en la comuna de Tiltil.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Polpaico 3</div></td></tr><tr><td><div>Comuna</div></td><td><div>Tiltil</div></td></tr><tr><td><div>Estado</div></td><td><div>Controlado</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>11 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>6 compañías de Bomberos, 4 brigadas de CONAF, 5 técnicos CONAF</div></td></tr></tbody></table><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Tiltil, por incendio forestal, que se mantuvo vigente desde el 02 de diciembre de 2024.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

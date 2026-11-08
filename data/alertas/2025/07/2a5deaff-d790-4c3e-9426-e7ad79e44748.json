@@ -1,0 +1,20 @@
+{
+	"id": "2a5deaff-d790-4c3e-9426-e7ad79e44748",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Temprana Preventiva para la región de Tarapacá por viento",
+	"fechaHora": "2025-07-31T18:20:52.5252-04:00",
+	"createdAt": "2025-07-31T22:22:31.558Z",
+	"updatedAt": "2025-08-02T01:46:59.178Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-iquique-y-huara-por-viento",
+	"parentId": "5321cdc6-f34e-41a8-b319-a91fe4fab21f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Tarapacá:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA72-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   moderado a fuerte con desarrollo de tormentas de arena en sectores de   cordillera de la costa y pampa de la región (entre 40 y 60 km/h).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">31-07</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">31-07</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Temprana Preventiva por viento a Regional</strong>, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

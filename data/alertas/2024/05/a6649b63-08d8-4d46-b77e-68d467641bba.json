@@ -1,0 +1,20 @@
+{
+	"id": "a6649b63-08d8-4d46-b77e-68d467641bba",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2024-05-21T15:49:25.2525-04:00",
+	"createdAt": "2024-05-21T19:50:13.964Z",
+	"updatedAt": "2024-05-21T19:50:29.088Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-saavedra-tolten-y-teodoro-schmidt-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><strong>ha sido cancelado el siguiente alertamiento meteorológico</strong> para la Región de La Araucanía, <strong>debido al debilitamiento de las condiciones meteorológicas que lo originaron</strong>:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A162-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en litoral, cordillera de la costa y valle.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva regional por tormentas eléctricas, </strong>que se mantenía vigente desde el 19 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

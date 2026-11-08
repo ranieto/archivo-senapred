@@ -1,0 +1,20 @@
+{
+	"id": "dc1446ae-f7ce-48d9-8dc8-be3475df8138",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Atacama por evento meteorológico",
+	"fechaHora": "2025-10-07T11:15:00.000-03:00",
+	"createdAt": "2025-10-07T14:30:43.087Z",
+	"updatedAt": "2025-10-07T14:31:04.466Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-vallenar-y-alto-del-carmen-por-viento-18",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos meteorológicos para la Región de Atacama, debido al debilitamiento de las condiciones que las originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 399</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas (entre 28°C y 32°C) en cordillera de la costa,   sectores de valles y pampa de la región.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A398-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado con probabilidad de tormentas de arena en el   litoral de la región (entre 25 y 40 con rachas de hasta 60 km/h).</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A395-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado en cordillera de la región (entre 60 y 90   km/h).</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico</strong>, que se encontraba vigente desde el 02 de octubre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

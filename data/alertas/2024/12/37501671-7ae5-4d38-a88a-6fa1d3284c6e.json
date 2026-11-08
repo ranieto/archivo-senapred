@@ -1,0 +1,20 @@
+{
+	"id": "37501671-7ae5-4d38-a88a-6fa1d3284c6e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chillán Viejo por incendio Forestal",
+	"fechaHora": "2024-12-18T21:05:00.000-03:00",
+	"createdAt": "2024-12-19T00:10:58.832Z",
+	"updatedAt": "2024-12-19T00:11:15.287Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-viejo-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto del incendio forestal que se encuentra en la comuna de Chillán Viejo, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Nombre del incendio</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">San Miguel Quilmo</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Estado</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Controlado</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Superficie</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1,08 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Observaciones</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio forestal se encuentra controlado sin amenaza a   viviendas.</span></p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

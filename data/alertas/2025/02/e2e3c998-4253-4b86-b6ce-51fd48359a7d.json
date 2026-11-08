@@ -1,0 +1,20 @@
+{
+	"id": "e2e3c998-4253-4b86-b6ce-51fd48359a7d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Malleco por calor intenso",
+	"fechaHora": "2025-02-10T11:01:00.000-03:00",
+	"createdAt": "2025-02-10T16:48:06.246Z",
+	"updatedAt": "2025-02-10T16:48:20.461Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco--por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la provincia de Malleco en la Región de La Araucanía:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"font-size:12px;color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"font-size:12px;color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size:12px\">Aviso A42/2025</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:12px\">Evento   de altas temperaturas en la Provincia de Malleco.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\">Sumado a lo anterior, el monitoreo y análisis de las variables relacionadas con la declaración de esta alerta, indican una disminución de las temperaturas en la provincia de Malleco.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por Calor intenso para las provincia de Malleco, </strong>que se mantuvo vigente desde el 06 de febrero de 2025. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

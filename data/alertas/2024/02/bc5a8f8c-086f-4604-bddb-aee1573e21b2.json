@@ -1,0 +1,20 @@
+{
+	"id": "bc5a8f8c-086f-4604-bddb-aee1573e21b2",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-02-02T04:25:29.2929-03:00",
+	"createdAt": "2024-02-02T07:26:21.575Z",
+	"updatedAt": "2024-03-14T16:03:03.577Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-5",
+	"parentId": "ad403194-000e-4bda-9ab1-7402111643d9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong></a>&nbsp;se informa el siguiente detalle respecto del incendio forestal&nbsp;“Camino Las Docas”, en la comuna de Valparaíso:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Camino   Las Docas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal se mantiene activo en todos sus sectores con desprendimiento de   pavesas, intensidad alta y propagación rápida.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Trabajan   en el lugar 2 brigada, 1 técnico de CONAF. 2 camiones aljibe, Encargado GRD   municipal y Carabineros.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Comuna de Valparaíso</strong>, por incendio forestal, que se encuentra vigente desde el 02 de febrero de 2024.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

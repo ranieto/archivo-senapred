@@ -1,0 +1,20 @@
+{
+	"id": "78bf363a-f1db-40b0-95ff-aa41c20d9441",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Torres del Paine por precipitaciones",
+	"fechaHora": "2024-02-15T16:40:00.000-03:00",
+	"createdAt": "2024-02-15T19:48:51.158Z",
+	"updatedAt": "2024-02-15T19:49:49.081Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Torres del Paine\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado su <strong>Aviso Meteorológico A34/2024</strong>, que pronosticó precipitaciones normales a moderadas en zonas de cordillera austral norte y pampa patagónica norte en la Región Magallanes, debido al debilitamiento de las condiciones que lo originaron.</p><p>En consideración a este antecedente meteorológico, la Delegación Presidencial de Magallanes en coordinación con la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por precipitaciones para la comuna de Torres del Paine</strong>, que se mantenía desde el 12 de febrero.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

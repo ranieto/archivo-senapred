@@ -1,0 +1,19 @@
+{
+	"id": "4dfa0f04-483a-48ae-b0db-0f2fd0d3b65b",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Coquimbo",
+	"fechaHora": "2025-11-29T22:27:41.4141-03:00",
+	"createdAt": "2025-11-30T01:28:57.881Z",
+	"updatedAt": "2025-11-30T01:31:50.211Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-2025-11-29-22-28-48",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor intensidad se percibió a las 22:24 horas en la Región de Coquimbo.&nbsp;</span><span style=\"color: black;font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Coquimbo</strong></p></td></tr><tr><td><p>Ovalle</p></td><td><p>IV</p></td></tr><tr><td><p>SCoquimbo</p></td><td><p>III</p></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41);font-size: 16px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></div>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

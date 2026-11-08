@@ -1,0 +1,20 @@
+{
+	"id": "7c8ca1f5-954a-4610-9576-053f2b958a81",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de Ñuble por calor intenso",
+	"fechaHora": "2024-02-11T17:47:43.4343-03:00",
+	"createdAt": "2024-02-11T20:50:10.032Z",
+	"updatedAt": "2024-02-14T13:58:43.915Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-uble-por-calor-intenso-4",
+	"parentId": "6cc0629c-e5af-432d-b80f-c84df4d31437",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, mediante su pronóstico público diario, se espera que las temperaturas máximas puedan alcanzar o superar los 34°C durante los días lunes 12 y martes 13 de febrero en sectores de valle de la Región de Ñuble.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, se mantienen vigentes los siguientes alertamientos para la región:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta AA12</p></td><td><p style=\"text-align:justify\">Evento de altas temperaturas extremas   en valle de la región</p></td><td><p style=\"text-align:center\">13-02</p></td><td><p style=\"text-align:center\">13-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A30-1</p></td><td><p style=\"text-align:justify\">Evento de altas temperaturas en valle   y precordillera de la región.</p></td><td><p style=\"text-align:center\">12-02</p></td><td><p style=\"text-align:center\">13-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED, declara Alerta Amarilla Regional por calor intenso<strong>,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene una Alerta Temprana Preventiva Nacional por calor<strong>, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de minimizar los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><strong><span style=\"color: black\">SENAPRED </span></strong><span style=\"color:black\">recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del calor intenso, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

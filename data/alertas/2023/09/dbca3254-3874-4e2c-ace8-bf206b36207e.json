@@ -1,0 +1,20 @@
+{
+	"id": "dbca3254-3874-4e2c-ace8-bf206b36207e",
+	"type": "Alerta",
+	"titulo": "prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-24T23:07:25.951Z",
+	"updatedAt": "2023-09-25T10:32:34.664Z",
+	"urlAccess": "prueba",
+	"parentId": "83e22617-d2fb-4521-88cf-5c3d081ad0d4",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Coltauco\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p>prueba</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0711b0e7-e890-4e50-82a6-b194004d4fc2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "63cd3889-b822-440a-a58d-4a88069ab7ad",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por precipitaciones",
+	"fechaHora": "2025-10-15T13:01:00.000-03:00",
+	"createdAt": "2025-10-15T16:10:57.031Z",
+	"updatedAt": "2025-10-15T16:11:15.911Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-precipitaciones-7",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado en Aviso A410/2025, el cual pronosticaba precipitaciones normales a moderadas en precordillera, cordillera, litoral interior y cordillera austral de la Región de Los Lagos. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente, que constituye una disminución de riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por precipitaciones</strong>,la cual se mantuvo vigente desde el 13 de octubre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

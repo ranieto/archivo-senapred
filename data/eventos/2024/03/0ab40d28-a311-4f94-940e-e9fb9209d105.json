@@ -1,0 +1,20 @@
+{
+	"id": "0ab40d28-a311-4f94-940e-e9fb9209d105",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Arica y Tarapacá",
+	"fechaHora": "2024-03-24T16:53:00.000-03:00",
+	"createdAt": "2024-03-24T19:54:42.262Z",
+	"updatedAt": "2024-03-24T19:59:50.172Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-arica-y-tarapaca-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Iquique, Arica\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Iquique, Arica\",\"regiones\":\"Región de Tarapacá, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor&nbsp; intensidad se percibió a las 16:50&nbsp; horas en las regiones de Arica y Parinacota y Tarapacá. Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><p>​</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>IV</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapacá</strong></p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>IV</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>IV</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

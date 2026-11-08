@@ -1,0 +1,20 @@
+{
+	"id": "e535b330-7391-4ed4-9b44-59aa2525e4c3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Lonquimay por incendio forestal",
+	"fechaHora": "2024-12-16T18:51:00.000-03:00",
+	"createdAt": "2024-12-16T21:53:13.059Z",
+	"updatedAt": "2024-12-16T23:42:31.715Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lonquimay-por-incendio-forestal-3",
+	"parentId": "a4aa9b49-2180-4be6-8107-e36bbe2196db",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Lonquimay, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">RN Alto Biobío 2</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.01   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">De   acuerdo con la información proporcionada por CONAF, controlado se encuentra   el incendio forestal R.N. Alto Biobío, el cual afecta una superficie de 0.01   hectáreas (ha) de vegetación. En tanto, en combate permanece el incendio   forestal denominado R.N. Alto Biobío 2, el cual afecta una superficie de 0.01   ha de vegetación.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Icalma, brigada, técnico y aeronave de Conaf.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Lonquimay, por incendio forestal, que se encuentra vigente desde el 15 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

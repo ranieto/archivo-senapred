@@ -1,0 +1,20 @@
+{
+	"id": "cfbfd9e7-ea5f-42f3-8c9e-cf523e08e885",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Los Ángeles por incendio forestal",
+	"fechaHora": "2024-01-15T11:29:00.000-03:00",
+	"createdAt": "2024-01-15T14:37:30.138Z",
+	"updatedAt": "2024-01-15T14:37:42.900Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-angeles-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> el incendio forestal \"Chacayal Sur\" se encuentra controlado, por lo que se da por superada la amenaza a personas y viviendas.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la Comuna de Los Ángeles</strong>, por incendio forestal, que se mantuvo vigente desde el 14 de enero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

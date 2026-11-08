@@ -1,0 +1,20 @@
+{
+	"id": "6ef1e06b-b7fd-470c-b780-b2330b9262e9",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2025-07-06T12:39:34.3434-04:00",
+	"createdAt": "2025-07-06T16:40:20.936Z",
+	"updatedAt": "2025-07-06T19:26:19.028Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-20",
+	"parentId": "9f920221-bfb8-4fbd-84c1-f0b8763676e6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por la Dirección Regional del SENAPRED Biobío, se informa que se registraron 32 departamentos con daño menor, producto del desprendimiento de techumbres, ocasionando filtraciones en 5 edificios del sector Schwager de la comuna de Coronel.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva Regional por evento meteorológico, que se encuentra vigente desde el 04 de julio de 2025 </strong>y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

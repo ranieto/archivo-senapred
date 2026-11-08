@@ -1,0 +1,20 @@
+{
+	"id": "e0442e9c-eb9f-48a5-aacf-09822c5356ec",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región del Biobío por calor extremo",
+	"fechaHora": "2024-01-25T19:10:51.5151-03:00",
+	"createdAt": "2024-01-25T22:12:35.546Z",
+	"updatedAt": "2024-01-25T22:13:55.530Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-biobio-y-concepcion-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, fueron cancelados las alertas meteorológicas AA5/2024 y AA4-2/2024 y el aviso meteorológico A12-4/2024 que pronosticaron el desarrollo de un evento de altas temperaturas extremas y altas temperaturas, respectivamente en la Región del Biobío.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional Biobío, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Roja Regional por calor extremo,</strong> que se mantuvo vigente desde el 22 de enero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

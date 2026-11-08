@@ -1,0 +1,20 @@
+{
+	"id": "4fc7fc96-703d-4488-9424-6463a39a67f1",
+	"type": "Alerta",
+	"titulo": " Se actualiza Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2025-06-10T18:15:00.000-04:00",
+	"createdAt": "2025-06-10T23:27:18.478Z",
+	"updatedAt": "2025-06-21T16:42:23.297Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-viento-6",
+	"parentId": "ee112f53-37b8-440e-a1d1-0df4625f0384",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Antofagasta:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A207-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera de la costa, precordillera, precordillera   salar y cordillera.</p></td><td><p style=\"text-align:center\">12-06</p></td><td><p style=\"text-align:center\">13-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Asimismo, </span><span style=\"font-size:15px;color:black\">se prevén los siguientes montos de velocidad de viento (km/h) para la región:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Jueves 12</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Viernes 13</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Cordillera   de la Costa</strong></p></td><td rowspan=\"2\"><p style=\"text-align:center\">60 –   80</p></td><td rowspan=\"2\"><p style=\"text-align:center\">60 –   80</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Precordillera</strong></p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Precordillera   Salar</strong></p></td><td><p style=\"text-align:center\">40 –   60</p></td><td><p style=\"text-align:center\">40 –   60</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Cordillera</strong></p></td><td><p style=\"text-align:center\">60 –   80</p></td><td><p style=\"text-align:center\">60 –   80</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva regional por viento</strong>, que se mantiene vigente desde el 02 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

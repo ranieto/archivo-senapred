@@ -1,0 +1,20 @@
+{
+	"id": "7628bf03-34a9-4f22-8a05-067d91d9195b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Punta Arenas por desborde",
+	"fechaHora": "2025-05-06T22:01:25.2525-04:00",
+	"createdAt": "2025-05-07T02:03:42.439Z",
+	"updatedAt": "2025-05-07T14:24:08.261Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-punta-arenas-por-desborde",
+	"parentId": "543b7420-c137-4a4f-860f-f1deb128f8ce",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la SEREMI del Ministerio de Obras Públicas (MOP)</strong>, se indica que en las últimas horas se ha registrado el aumento de caudal de los esteros Llau-Llau y D’Agostini, lo que sumado a la pleamar afecta la desembocadura normal de los caudales de los esteros mencionados, provocando el desborde del Estero Llau-Llau a la altura del kilómetro 5,5 de la Ruta 9 Norte, en el sector Tres Puentes de la comuna de Punta Arenas, afectando principalmente la batería de gas natural que abastece la ciudad del mismo nombre.</p><p style=\"text-align:justify\">Por su parte, la Dirección Meteorológica de Chile (DMC), mediante Alerta Meteorológica AA32 emitida en la jornada de hoy, pronostica la ocurrencia de precipitaciones moderadas a fuertes en corto periodo de tiempo, en la comuna de Punta Arenas hasta la madrugada del miércoles 07 de mayo. </p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial Regional, declara Alerta Amarilla para la comuna de Punta Arenas por desborde<strong>, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

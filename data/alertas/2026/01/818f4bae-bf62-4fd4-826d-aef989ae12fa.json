@@ -1,0 +1,20 @@
+{
+	"id": "818f4bae-bf62-4fd4-826d-aef989ae12fa",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Roja para la Región Metropolitana por calor extremo",
+	"fechaHora": "2026-01-10T15:36:45.4545-03:00",
+	"createdAt": "2026-01-10T18:38:19.818Z",
+	"updatedAt": "2026-01-13T23:25:39.230Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-metropolitana-por-calor-extremo-2026-01-09-10-50-28",
+	"parentId": "230c1fa4-bda1-4e8a-9649-989f05fb83a2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región Metropolitana:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A7-5/2026</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en cordillera de la costa, valle y precordillera (entre 31 y 37   °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">10-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">11-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Roja Regional por calor extremo, </strong>que se mantiene vigente desde el 09 de enero de 2026 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la actualización de esta Alerta Roja, se mantendrán movilizados todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El <strong>SENAPRED recomienda</strong><strong>a la población</strong> protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

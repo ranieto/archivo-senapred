@@ -1,0 +1,20 @@
+{
+	"id": "4cec7e56-73c6-4c26-b485-d60483804a1c",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la comuna de Toltén por remoción en masa",
+	"fechaHora": "2025-05-15T21:34:07.077-04:00",
+	"createdAt": "2025-05-16T01:35:35.752Z",
+	"updatedAt": "2025-06-12T20:17:00.154Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-comuna-de-tolten-por-remocion-en-masa",
+	"parentId": "766a4535-c754-4f7f-8a0b-c652a1e03c8b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía,</span></strong><span style=\"color: black\"> se han realizado inspecciones de terreno de las remociones en masa ocurridas en la localidad de Queule, comuna de Toltén, manteniendo las recomendaciones para cuatro sectores de la localidad. Lo anterior, sumado a la emisión del Aviso Meteorológico 172/2025 de la Dirección Meteorológica de Chile (DMC), que pronostica precipitaciones normales a moderadas en corto periodo de tiempo en sectores de litoral, cordillera de la costa, valle, precordillera y cordillera de la Región de La Araucanía, entre la tarde del viernes 16 y la madrugada del sábado 17 de mayo, supone un aumento del riesgo asociado a remociones en masa en el sector.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, </span><span style=\"color:black\">el Servicio Nacional de Geología y Minería (SERNAGEOMIN) </span><span style=\"color:black\">a través de su Minuta Técnica por Peligro de Remociones en Masa, indica que la posibilidad de ocurrencia de remociones en masa, tales como flujo de detritos, aluviones, deslizamientos y/o caídas de rocas (derrumbes) es baja en la región, sin embargo, recomienda mantener el monitoreo en la quebrada de Escuela Rayén Lafquén y rutas S-270-T y T-270 en la comuna de Toltén.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar que, desde el 26 de junio de 2024, se encuentra vigente el perímetro de seguridad por peligro de remoción en masa en la zona de Queule, comuna de Toltén, manteniéndose la prohibición de ingreso al perímetro indicado entre calle Blanco Encalada (Este) y deslinde con Cabañas KechuRuca (Oeste) y entre Avda. Costanera (Norte) y calle posterior Cuartel Bomberos (Sur).</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED actualiza la Alerta Temprana Preventiva por remoción en masa para la comuna de Toltén, que se mantiene vigente desde el 26 de abril del 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "38db2540-6de4-4d12-b21d-28e250bcbbba"
+}

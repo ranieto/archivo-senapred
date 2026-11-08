@@ -1,0 +1,20 @@
+{
+	"id": "88a6d267-d9c1-46d9-a256-95c6130b32e1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las Provincias de Arauco y Concepción por desborde",
+	"fechaHora": "2024-08-03T16:02:00.000-04:00",
+	"createdAt": "2024-08-03T20:49:09.089Z",
+	"updatedAt": "2024-08-03T20:49:32.343Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco, Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, mediante su Informe de Cauces, indica que las estaciones de red hidrométrica de los “Río Biobío en Desembocadura” y “Río Pichilo en Pichilo”, se encuentran en Alerta Azul y con clara tendencia al descenso de sus niveles.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, el resto de las estaciones de “Río Curanilahue en Curanilahue”, “Río Andalien antes del ex peaje Chaimavida”, “Butamalal”, “Estero Hualqui”, “Estero Bellavista en Tomé” y “Estero Plegarias”, se encuentran por debajo del umbral de Alerta Azul y todos los cauces con descenso de sus niveles.</span></p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen una disminución del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por desborde para las Provincias de Arauco y Concepción</strong>, <span style=\"color:black\">vigente desde 01 de agosto de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "903afe89-76fc-4c03-b95c-74091a1c2e9f",
+	"type": "Evento",
+	"titulo": "Incendio forestal, comuna de Colina",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-12-14T20:47:30.963Z",
+	"updatedAt": "2023-12-14T20:54:28.577Z",
+	"urlAccess": "incendio-forestal-comuna-de-colina-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Metropolitana, 3 viviendas destruidas fue el resultado de un incendio forestal denominado “Casas Viejas”, el cual consumió 1,5 hectáreas de pastizal en la comuna de Colina.</span><br></p><p style=\"text-align: justify\"><span style=\"color: black\">Cabe mencionar, que el incendio logró ser extinguido por parte del personal de emergencias.</span></p><p style=\"text-align: justify;margin-right: 2.55pt;margin-left: 0cm\">Trabaja 1 brigada de CONAF; Bomberos de Colina-Lampa, Ñuñoa, Tiltil, Quilicura y Conchalí, junto a Carabineros</p>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

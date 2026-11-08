@@ -1,0 +1,20 @@
+{
+	"id": "59043ead-004f-4145-8fbc-be094f53b1c4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de La Araucanía por tormentas eléctricas",
+	"fechaHora": "2023-09-24T14:21:00.000-03:00",
+	"createdAt": "2023-09-26T15:27:21.146Z",
+	"updatedAt": "2023-09-26T15:28:36.239Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-tormentas-electricas",
+	"parentId": "4a9cd9d5-f054-4da3-a36c-66e528558b2d",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>La información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante su Aviso Meteorológico, indica el probable desarrollo de tormentas eléctricas, para la tarde del lunes 25 de septiembre, en los sectores de cordillera de la costa, valle, precordillera y cordillera de la Región de La Araucanía.<br><br>En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED, vigente desde hoy y hasta que las condiciones así lo ameriten.<br><br>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br>SENAPRED recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta.  <br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

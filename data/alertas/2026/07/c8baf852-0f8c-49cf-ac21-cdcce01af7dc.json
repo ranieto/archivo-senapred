@@ -1,0 +1,20 @@
+{
+	"id": "c8baf852-0f8c-49cf-ac21-cdcce01af7dc",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Victoria por desborde",
+	"fechaHora": "2026-07-31T03:19:27.2727-04:00",
+	"createdAt": "2026-07-31T07:22:38.643Z",
+	"updatedAt": "2026-08-01T21:24:24.579Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-victoria-por-desborde-2026-07-31-03-22-18",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “<strong>Río Quino en Longitudinal</strong>”, ubicada en la comuna de Victoria, indica un <strong>incremento en su caudal</strong>, alcanzando valores de <strong>umbral rojo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde para la comuna de Victoria</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

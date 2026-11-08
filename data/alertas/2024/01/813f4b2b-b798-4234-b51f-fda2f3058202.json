@@ -1,0 +1,20 @@
+{
+	"id": "813f4b2b-b798-4234-b51f-fda2f3058202",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Florida por incendio forestal",
+	"fechaHora": "2024-01-30T01:38:48.4848-03:00",
+	"createdAt": "2024-01-30T04:39:36.144Z",
+	"updatedAt": "2024-02-01T21:29:54.086Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-florida-por-incendio-forestal",
+	"parentId": "5fc6a0f1-3812-41c3-b8ba-8c11666cd6e6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Florida\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa </span><span style=\"color: black\">el siguiente detalle respecto del incendio forestal en la comuna </span><span style=\"color: black\">de Florida:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Casablanca</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>80 hectáreas</p></td></tr><tr><td><p><strong>Recursos desplegados</strong></p></td><td><p>4   brigadas de Conaf, 3 técnicos de Conaf, 5 técnicos Forestal Arauco, 11   brigadas de Forestal Arauco.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio   se presenta cercano a sectores poblados.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Florida, por incendio forestal, que se encuentra vigente desde el 29 de enero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

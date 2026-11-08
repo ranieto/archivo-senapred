@@ -1,0 +1,20 @@
+{
+	"id": "3fda8f02-98c5-474b-80e1-4c5958b689bd",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Región de Ñuble por calor extremo",
+	"fechaHora": "2025-01-27T18:26:00.000-03:00",
+	"createdAt": "2025-01-30T16:50:32.674Z",
+	"updatedAt": "2025-02-02T00:31:50.155Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-de-uble-por-calor-extremo",
+	"parentId": "4a26a6f1-8adf-447a-81e5-6dec7c63d145",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) mediante su pronóstico especial, emitido durante la presente jornada, se esperan temperaturas máximas superiores a los 34°C en sectores de valle y precordillera de la región, desde el 28 hasta el 31 de enero de 2025.</p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, durante la presente jornada fue realizada una Mesa Técnica Regional, donde se estableció declarar la presente alerta.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>declara Alerta Roja Regional por calor extremo</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor extremo</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

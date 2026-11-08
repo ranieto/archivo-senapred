@@ -1,0 +1,20 @@
+{
+	"id": "cfaf840f-79d0-47aa-9dcc-10c9ca22f202",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso a excepción de la Provincia de Isla de Pascua y la comuna de Juan Fernández por amenaza de incendios forestales",
+	"fechaHora": "2023-12-22T22:26:00.000-03:00",
+	"createdAt": "2023-12-23T01:31:04.401Z",
+	"updatedAt": "2023-12-27T19:10:22.092Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-a-excepcion-de-la-provincia-de-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-amenaza-de-incendios-forestales",
+	"parentId": "b28568ce-8877-406c-88ad-6431f74e1a0b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Los Andes, Petorca, Quillota, San Antonio, San Felipe de Aconcagua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> mediante su análisis técnico, se determina que existe una alta probabilidad de generación y propagación de incendios forestales, en la Región de Valparaíso. Lo anterior asociado a la condición meteorológica pronosticada.<br></p><p style=\"text-align:justify\">Además, la Dirección Meteorológica de Chile mantiene vigente su Alerta Meteorológica AA84/2023 que pronostica un evento de altas temperaturas extremas en precordillera y cordillera de la región, así como el Aviso Meteorológico A473-1/2023 que prevé altas temperatura en la cordillera de la costa, precordillera y valles precordilleranos de la Región de Valparaíso.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen un aumento del riesgo asociado a dichas variables y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>declara Alerta Temprana Preventiva </strong>regional, por amenaza de incendios forestales, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

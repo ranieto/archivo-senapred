@@ -1,0 +1,20 @@
+{
+	"id": "e19eeada-4ded-4c7e-bd35-ff57854d56bd",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y de Coquimbo",
+	"fechaHora": "2024-10-20T05:12:01.011-03:00",
+	"createdAt": "2024-10-20T08:13:05.342Z",
+	"updatedAt": "2024-10-20T08:22:01.079Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo-41",
+	"parentId": "bb75c6c8-6c4f-439d-a236-384b4386c352",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo, Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 05:03 horas en las regiones de Atacama y de Coquimbo. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Atacama </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Freirina: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Huasco: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Vallenar: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Alto del Carmen: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Coquimbo </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">La Serena: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Coquimbo: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.7 localizado a26 Kms al Noreste de Punta de Choros.</p><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. </p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "d2c639c8-56f8-470e-9b5d-5a5758cb5c16",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2024-06-20T12:40:00.000-04:00",
+	"createdAt": "2024-06-20T16:48:39.665Z",
+	"updatedAt": "2024-06-20T16:48:39.665Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-provincias-de-arauco-y-concepcion-por-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, se procedió a la evacuación preventiva de los sectores Pichilo, El Llepo, Las Corrientes y La Faja de la comuna de Arauco, por desborde rio Pichilo, lo cual fue complementado con el envío de mensajería SAE a las 10:49 horas.<br></p><p style=\"text-align:justify\">Adicionalmente, por amenaza de desborde de los ríos Curanilahue y Ranas y del estero Plegarías, se informó a la población que evite zonas bajas de la comuna de Curanilahue, apoyado con mensajes SAE enviados a las 11:29 horas.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>mantiene la Alerta Roja Regional por evento meteorológico</strong>, <span style=\"color:black\">que se mantiene vigente desde el 11 de junio y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\">Cabe mencionar, que se mantienen vigentes la Alerta Roja para la comuna de Arauco por desborde y la Alerta Amarilla para la comuna de Curanilahue por amenaza de desborde.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

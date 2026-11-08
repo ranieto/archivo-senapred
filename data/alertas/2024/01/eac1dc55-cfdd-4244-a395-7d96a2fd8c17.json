@@ -1,0 +1,26 @@
+{
+	"id": "eac1dc55-cfdd-4244-a395-7d96a2fd8c17",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Maule y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
+	"fechaHora": "2024-01-09T15:02:00.000-03:00",
+	"createdAt": "2024-01-09T18:06:16.683Z",
+	"updatedAt": "2024-01-15T10:49:21.584Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-maule-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales-2",
+	"parentId": "e8b7f115-9315-4860-8448-62d4a939ffcf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Atacama, Región de Coquimbo, Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región del Maule\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p><strong>El Centro Meteorológico Marítimo Regional de Valparaíso</strong>, dependiente de la Gobernación Marítima de Valparaíso, informa que producto de un sistema frontal que afectará la zona sur del país, se proyectan condiciones de mar como marejadas anormales del Noroeste, según el siguiente detalle:</p><ul><li>Arica hasta Constitución                             : jueves 11 de enero (PM).</li><li>Archipiélago de Juan Fernández                : jueves 11 de enero (PM).</li></ul><p>Esta condición se mantendrá hasta el domingo 14 de enero entre Arica y Constitución, incluyendo Archipiélago de Juan Fernández de la Región de Valparaíso.</p><p>En consideración a estos antecedentes, SENAPRED declara Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Maule y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales, vigente a partir de hoy y hasta que las condiciones así lo ameriten.</p><p><strong><em>SENAPRED </em></strong><em>recomienda a la población suspender las actividades recreativas en la costa; no exponerse a rompientes ni oleaje, particularmente en sectores de roqueríos; y conducir con precaución por caminos en el borde costero, ya que podrían haber obstáculos en la ruta, arrastre de arena, piedras, algas, entre otros.</em><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

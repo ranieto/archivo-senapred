@@ -1,0 +1,20 @@
+{
+	"id": "5bdd26de-1b6b-4d88-a8e2-3d3905780d21",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la provincia de Chiloé por amenaza de incendios forestales",
+	"fechaHora": "2023-10-18T18:19:00.000-03:00",
+	"createdAt": "2023-10-18T21:24:35.348Z",
+	"updatedAt": "2023-10-28T22:41:32.393Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-chiloe-por-amenaza-de-incendios-forestales",
+	"parentId": "1ea7f1e7-d041-442b-8cb5-d436b1fec831",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se presentan zonas con alta probabilidad de generación y propagación de incendios forestales en la Provincia de Chiloé. Asimismo, conforme a lo indicado por la Dirección Meteorológica de Chile (DMC) a través de su Pronóstico Público, se prevé ausencia de precipitaciones para los próximos días.<br><br>Finalmente, según señala CONAF por medio de lo establecido en la Resolución N°488, se suspende el uso del fuego y de los avisos de quemas controladas en labores silvoagropecuarias a contar del martes 17 de octubre y con vigencia de 15 días.<br><br>En consideración a estos antecedentes, la Dirección Regional del SENAPRED Los Lagos, en coordinación con la Delegación Presidencial Regional, declara Alerta Temprana Preventiva para la provincia de Chiloé, por amenaza de incendios forestales, vigente a partir de hoy y hasta que las condiciones así lo ameriten.<br><br>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br><br>SENAPRED recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder; no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (https://www.senapred.cl/visor-chile-preparado-2/). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134). <br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

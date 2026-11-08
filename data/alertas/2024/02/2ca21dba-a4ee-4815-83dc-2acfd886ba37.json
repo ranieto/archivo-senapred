@@ -1,0 +1,20 @@
+{
+	"id": "2ca21dba-a4ee-4815-83dc-2acfd886ba37",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de La Araucanía por calor intenso",
+	"fechaHora": "2024-02-12T19:12:50.5050-03:00",
+	"createdAt": "2024-02-12T22:14:09.511Z",
+	"updatedAt": "2024-02-14T14:09:47.418Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-la-araucania-por-calor-intenso-3",
+	"parentId": "181a1d55-40d5-43cf-96fc-14d7fb5b21e2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante su pronóstico público, se espera un evento de altas temperaturas extremas desde la mañana del martes 13 hasta la tarde del miércoles 14 de febrero, en sectores de valle y precordillera de la Región de La Araucanía.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED, <strong>declara Alerta Amarilla Regional por calor intenso,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

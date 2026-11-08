@@ -1,0 +1,20 @@
+{
+	"id": "0c5b4244-74f1-49c3-8e63-6caba09c0001",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por amenaza de incendios forestales",
+	"fechaHora": "2024-03-07T11:20:00.000-03:00",
+	"createdAt": "2024-03-07T14:47:25.606Z",
+	"updatedAt": "2024-03-07T14:48:46.034Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-amenaza-de-incendios-forestales-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por CONAF, existe una disminución en la probabilidad de generación y propagación de incendios forestales. Asimismo, se informa de una disminución en la velocidad del viento y un aumento en el índice de humedad del combustible fino muerto.</span><br></p><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de Ñuble, por amenaza de incendios forestales, que se mantuvo vigente desde el 02 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

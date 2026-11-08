@@ -1,0 +1,20 @@
+{
+	"id": "60a6e806-2825-4d00-a061-a88372e466f2",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2025-06-26T16:31:51.5151-04:00",
+	"createdAt": "2025-06-26T20:32:38.184Z",
+	"updatedAt": "2025-06-29T05:39:46.226Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-10",
+	"parentId": "0c7b3370-d5cf-4df8-a981-8b3b3090af8c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px;color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, respecto de las 25 personas que se encontraban con dificultades de desplazamiento entre los kilómetros 70 y 83 de la ruta CH-27 (Notificado en </span><span style=\"font-size: 15px;color: black\">Informe de Incidente o Emergencia </span><span style=\"font-size: 15px;color: black\">N°412-H ), se indica que durante la mañana de hoy, un equipo multidisciplinario tomó contacto con el bus de pasajeros brasileños, los cuales se encuentran en buenas condiciones y están siendo trasladados hasta el Complejo Fronterizo Hito Cajón para una atención primaria de salud. Cabe señalar, que al momento, 3 personas han sido derivadas desde el complejo fronterizo hacia CESFAM de la comuna de San Pedro de Atacama.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>mantiene</strong><strong>la Alerta Temprana Preventiva Regional por viento</strong>,que se encuentra vigente desde el 21 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Trabajan en el lugar Carabineros, Bomberos, Ejército de Chile, Cuerpo de Socorro Andino, Observatorio ALMA y personal de Vialidad con maquinaria, motoniveladora y cargador frontal en labores de despeje de la ruta afectada.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

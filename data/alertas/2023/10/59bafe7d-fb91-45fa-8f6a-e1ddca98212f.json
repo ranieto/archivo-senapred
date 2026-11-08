@@ -1,0 +1,20 @@
+{
+	"id": "59bafe7d-fb91-45fa-8f6a-e1ddca98212f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Santa Bárbara por incendio forestal",
+	"fechaHora": "2023-10-22T18:39:00.000-03:00",
+	"createdAt": "2023-10-22T22:24:23.647Z",
+	"updatedAt": "2023-10-25T04:57:16.192Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-santa-barbara-por-incendio-forestal",
+	"parentId": "994386d3-66ef-46f6-8872-8aec77739823",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Santa Bárbara\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto del incendio forestal en la comuna de Santa Bárbara, se indica el siguiente detalle:</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>San Lorenzo.</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate.</div></td></tr><tr><td><div><strong>Superficie</strong></div></td><td><div>2.200 hectáreas.</div></td></tr><tr><td><div><strong>Fundamentación técnica</strong></div></td><td><div>Cercanía a sectores habitados, viviendas, centros poblados y/o infraestructura crítica.</div></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio sin mayor avance, flanco izquierdo con algunas actividades dentro de líneas y flanco derecho sin actividad. Cabe destacar, que las condiciones meteorológicas al minuto son favorables para el trabajo.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla </strong>para la comuna de Santa Bárbara por incendio forestal, que se encuentra vigente desde el 17 de octubre del 2023.</p><p>Trabajan en el lugar 2 brigadas y 1 helicóptero de CONAF; 7 brigadas, 1 Skidder y 2 camiones cisterna de COMACO; 1 ambulancia ACHS; y 1 helicóptero gestionado por SENAPRED.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

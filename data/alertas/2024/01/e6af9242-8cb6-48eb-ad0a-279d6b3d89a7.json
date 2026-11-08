@@ -1,0 +1,20 @@
+{
+	"id": "e6af9242-8cb6-48eb-ad0a-279d6b3d89a7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2024-01-27T00:26:00.000-03:00",
+	"createdAt": "2024-01-27T03:31:23.353Z",
+	"updatedAt": "2024-03-18T23:33:59.733Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal",
+	"parentId": "0b914c73-4dd3-4c88-865f-2f2b89ab8f05",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Puerto Montt\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de Puerto Montt, se informa el siguiente detalle:</span><br></p><div style=\"text-align: justify\"><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>Camino San Antonio</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>63 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">Incendio presenta cercanía a sectores habitados</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>Bomberos de Puerto Montt, Llanquihue, Carretera Austral y Puerto Varas, 3 brigadas de CONAF, 4 técnicos de CONAF, 2 excavadoras de Vialidad, 1 equipo de drones ONG UAV, 1 excavadora particular, Carabineros y Policía de Investigaciones<br></div></td></tr></tbody></table></div><p style=\"text-align: justify\"><strong>Información adicional:&nbsp;</strong>A las 20:09 horas, se envía Mensaje SAE para evacuar el sector de Las Canchas, mientras que a las 20:43 horas se envía Mensaje SAE para evacuar el sector Las Cahuellas, ambas localidades ubicadas en la comuna de Puerto Montt. Además, se informa de 60 personas que fueron evacuadas preventivamente desde 17 viviendas que, al momento, no presentan daños. Las personas evacuadas pernoctarán en viviendas de familiares y se habilitó un albergue provisorio en la Sede Trapén de la comuna. Por otro lado, desde las 21:20 horas se desarrolló un COGRID Regional en dependencias de SENAPRED Los Lagos, presidido por la Delegada Presidencial Regional, mientras que en la Sede Trapén se realizó un COGRID Comunal para determinar los cursos de acción.</p><p style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED&nbsp;<strong>mantiene&nbsp;</strong></span><strong>Alerta Roja para la comuna de Puerto Montt por incendio forestal</strong><span style=\"color: rgb(33, 37, 41)\">, que se encuentra vigente desde el 26 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

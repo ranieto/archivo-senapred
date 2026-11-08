@@ -1,0 +1,20 @@
+{
+	"id": "ccb4a65b-0bb9-4182-9e74-76eba6181c0b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Lebu por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-03-12T05:27:02.481Z",
+	"updatedAt": "2025-03-12T05:30:54.971Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lebu-por-incendio-forestal",
+	"parentId": "938916fe-2f63-4e62-800d-edb67b330f82",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Lebuse informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los Filtros   V</p></td></tr><tr><td><p><strong>Estado </strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 brigadas   de CONAF y 1 de empresa forestal; además de Bomberos Lebu y Los Álamos</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se   encuentra cercano a sectores poblados</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Lebu por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

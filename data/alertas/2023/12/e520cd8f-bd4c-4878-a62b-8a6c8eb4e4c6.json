@@ -1,0 +1,20 @@
+{
+	"id": "e520cd8f-bd4c-4878-a62b-8a6c8eb4e4c6",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Antofagasta por alteración del suministro de agua potable",
+	"fechaHora": "2023-12-05T21:19:00.000-03:00",
+	"createdAt": "2023-12-06T00:28:37.116Z",
+	"updatedAt": "2023-12-27T17:46:15.397Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-antofagasta-por-alteracion-del-suministro-de-agua-potable",
+	"parentId": "c9c636c3-3168-49e4-86aa-4b4b60ae6d7c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">Según la información proporcionada por la Dirección Regional del SENAPRED Antofagast</span></strong><span style=\"color: black\">a, con relación a los problemas de producción e impulsión del suministro de agua potable en la comuna de Antofagasta, debido a una falla eléctrica externa, que provocó la interrupción del servicio en la comuna a contar del domingo 03 de diciembre, se informa que esta situación persiste, constatándose el riesgo a la salud de la población que esta condición conlleva, requiriendo tomar medidas relacionadas al déficit de agua potable.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Debido a lo anterior, a contar de hoy 05 de diciembre la SEREMI de Salud de Antofagasta declara <em>Zona de Riesgo Sanitario a la comuna de Antofagasta</em>, mediante Resolución Exenta 1.589.</span></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla para la comuna de Antofagasta por alteración del suministro de agua potable</strong>, que se encuentra vigente desde hoy 05 de diciembre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Se mantiene el abastecimiento alternativo mediante 64 puntos distribuidos en la comuna, a fin de asegurar el abastecimiento de agua potable.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se encuentran suspendidas las clases en todos los niveles educacionales.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "ce70d6fb-262a-4ad5-92e9-0f5736424d6f"
+}

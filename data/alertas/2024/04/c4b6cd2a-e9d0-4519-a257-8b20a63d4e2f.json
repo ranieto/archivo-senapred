@@ -1,0 +1,20 @@
+{
+	"id": "c4b6cd2a-e9d0-4519-a257-8b20a63d4e2f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento",
+	"fechaHora": "2024-04-06T15:25:00.000-03:00",
+	"createdAt": "2024-04-06T18:58:13.962Z",
+	"updatedAt": "2024-04-06T18:59:18.448Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-ultima-esperanza-y-tierra-del-fuego-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Última Esperanza, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, debido al término de las condiciones meteorológicas que lo originaron, <strong>ha sido cancelado el siguiente alertamiento meteorológico</strong> para la Región de Magallanes:<br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A84</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera austral sur, insular norte, insular central,   pampa patagónica norte y pampa patagónica sur.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes meteorológicos y en coordinación con la Delegación Presidencial de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para las Provincias de Magallanes, Última Esperanza y Tierra del Fuego</strong>,que se manteníavigente desde el 03 de abril de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

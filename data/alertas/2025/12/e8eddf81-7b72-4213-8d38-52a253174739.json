@@ -1,0 +1,20 @@
+{
+	"id": "e8eddf81-7b72-4213-8d38-52a253174739",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Roja para la Comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2025-12-03T16:11:53.5353-03:00",
+	"createdAt": "2025-12-03T19:17:37.798Z",
+	"updatedAt": "2025-12-03T23:03:36.360Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-2025-12-03-15-42-34",
+	"parentId": "9bfdb6a3-7e55-4309-b869-dcd18d0b9863",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><div><table><tbody><tr><td><p>Nombre del incendio</p></td><td><p>El Manzano</p></td></tr><tr><td><p>Comuna (sector)</p></td><td><p>Las Cabras El Manzano)</p></td></tr><tr><td><div>Estado</div></td><td><div>En Combate</div></td></tr><tr><td><p>Superficie</p></td><td><p>6 [ha]</p></td></tr><tr><td><p>Recursos</p></td><td><p>4 Brigadas de Conaf, 2 aerotransportadoras de Conaf, 1 técnicos, 2aviones cisterna de Conaf, 2 helicópteros de Conaf, 1 aeronave de coordinación de Conaf, 1 pusto de mando de Conaf, 2 camiones cistrna de Conaf, 2 camiones Cisterna Municipales de Las Cabras, 1 Director Comunal GRD, 1 camión Cisterna Municipal Pichidegua y 1 Carabinero de El Manzano.</p></td></tr><tr><td><p>Observaciones</p></td><td><p>No se reportan afectaciones en personas ni daños en viviendas en la comuna de Las Cabras</p></td></tr></tbody></table></div><p><br></p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Las Cabras, por incendio forestal, que se encuentra vigente desde el 03 de diciembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "a260751a-d021-4c7e-9e10-f45c46eb3e05",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las Provincias de Magallanes y Tierra del Fuego por precipitaciones",
+	"fechaHora": "2024-03-09T12:43:00.000-03:00",
+	"createdAt": "2024-03-09T15:45:08.754Z",
+	"updatedAt": "2024-03-09T15:46:08.130Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-por-precipitaciones-para-las-provincias-de-magallanes-y-tierra-del-fuego",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A55/2024, el cual pronosticaba precipitaciones Normales a Moderadas en corto periodo de tiempo en zonas de la región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que sopone una disminución del riesgo asociado a dicha variable, en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva por precipitaciones para las Provincias de Magallanes y Tierra del Fuego</strong>,la cual se mantuvo vigente desde el 08 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

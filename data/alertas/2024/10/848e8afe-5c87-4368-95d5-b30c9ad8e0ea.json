@@ -1,0 +1,20 @@
+{
+	"id": "848e8afe-5c87-4368-95d5-b30c9ad8e0ea",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la Comuna de Lago Verde por incendio forestal",
+	"fechaHora": "2024-10-24T15:01:01.011-03:00",
+	"createdAt": "2024-10-24T18:05:00.916Z",
+	"updatedAt": "2024-11-02T21:06:21.712Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lago-verde-por-incendio-forestal",
+	"parentId": "0ae7043f-7d65-4391-82f3-7b4e883bf755",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"Coyhaique\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Lago Verde\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">r</span><span style=\"color: black\">especto al incendio forestal en la comuna de Lago Verde, se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Moro</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>140 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color: black\">3 brigadas CONAF, 3 técnicos de CONAF, Carabineros y Móvil con Telecomunicaciones de SENAPRED.</span></p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Lago Verde, por incendio forestal, que se encuentra vigente desde el 23 de octubre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "95a94f9e-892f-429e-b9b8-06acea980e6e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Chiloé por incendio forestal",
+	"fechaHora": "2024-01-27T17:39:43.4343-03:00",
+	"createdAt": "2024-01-27T20:40:46.298Z",
+	"updatedAt": "2024-01-27T20:42:22.309Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-chiloe-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:15px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"font-size: 15px\">,&nbsp; respecto a los incendios forestales que se desarrollaron en la provincia y tras la evaluación efectuada por personal técnico de CONAF en terreno, se indica que dichos Incendios están controlados y/o extinguidos.</span><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Provincia de Chiloé, por incendio forestal, que se mantuvo vigente desde el 23 de enero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "994386d3-66ef-46f6-8872-8aec77739823",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Santa Bárbara por incendio forestal",
+	"fechaHora": "2023-10-24T19:52:00.000-03:00",
+	"createdAt": "2023-10-25T04:56:41.542Z",
+	"updatedAt": "2023-10-25T04:57:14.919Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-santa-barbara-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Santa Bárbara\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto del incendio forestal en la comuna de Santa Bárbara, se indica el siguiente detalle:</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>San Lorenzo.</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate, pero contenido</div></td></tr><tr><td><div><strong>Superficie</strong></div></td><td><div>2.200 hectáreas.</div></td></tr><tr><td><div><strong>Fundamentación técnica</strong></div></td><td><div>Incendio no presenta avance, mantiene actividad de tocones y puntos calientes dentro del área quemada. Adicionalmente, las condiciones meteorológicas para los próximos días son favorables (aumento en la humedad relativa y precipitaciones).</div></td></tr></tbody></table><p><br>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Santa Bárbara por incendio forestal, que se mantuvo vigente desde el 17 de octubre del 2023.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

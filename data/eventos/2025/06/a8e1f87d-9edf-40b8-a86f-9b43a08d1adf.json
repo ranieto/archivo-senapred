@@ -1,0 +1,19 @@
+{
+	"id": "a8e1f87d-9edf-40b8-a86f-9b43a08d1adf",
+	"type": "Evento",
+	"titulo": "test",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-06-12T09:58:08.826Z",
+	"updatedAt": "2025-06-12T09:58:44.274Z",
+	"urlAccess": "test",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>test</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

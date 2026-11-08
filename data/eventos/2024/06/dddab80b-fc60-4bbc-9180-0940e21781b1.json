@@ -1,0 +1,19 @@
+{
+	"id": "dddab80b-fc60-4bbc-9180-0940e21781b1",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Tarapacá",
+	"fechaHora": "2024-06-01T06:55:45.4545-04:00",
+	"createdAt": "2024-06-01T10:57:19.556Z",
+	"updatedAt": "2024-06-01T11:01:24.581Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-24",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">Un sismo de menor intensidad se percibió a las 06:54 horas en la Región de Tarapacá.</span><br></p><p><span style=\"font-size: 14px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><span style=\"font-size: 14px\"><strong>Región:   Tarapaca </strong></span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Iquique:   </span></p></td><td><p><span style=\"font-size: 14px\">IV</span></p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size: 14px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "af33f26c-3603-4056-851e-3d24228e4adb",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Monte Patria por incendio forestal",
+	"fechaHora": "2025-10-04T19:36:18.1818-03:00",
+	"createdAt": "2025-10-04T22:37:27.445Z",
+	"updatedAt": "2025-10-06T15:49:54.051Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-monte-patria-por-incendio-forestal-2",
+	"parentId": "15cfff94-9f8b-411a-92f0-1b46d23a990f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la <strong>comuna de Monte Patria </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Colliguay   Bajo</p></td></tr><tr><td><p><strong>Estado </strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de   Monte Patria, Palqui y Tulahuén; 1 técnico de Conaf</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se   presenta cercano a sectores poblados</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Monte Patria por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

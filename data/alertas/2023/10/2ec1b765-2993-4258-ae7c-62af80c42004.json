@@ -1,0 +1,20 @@
+{
+	"id": "2ec1b765-2993-4258-ae7c-62af80c42004",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Castro por incendio forestal",
+	"fechaHora": "2023-10-17T17:00:00.000-03:00",
+	"createdAt": "2023-10-18T01:24:04.022Z",
+	"updatedAt": "2023-10-21T23:18:01.430Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-castro-por-incendio-forestal",
+	"parentId": "cf54a079-3a12-4f91-a522-60ca3ffc0690",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Chiloé\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Castro\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), con relación al incendio forestal registrado en la comuna de Castro, se indica el siguiente detalle:</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Alto Muro</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate</div></td></tr><tr><td><div><strong>Superficie</strong></div></td><td><div>20 hectáreas</div></td></tr><tr><td><div><strong>Fundamentación técnica</strong></div></td><td><div>Cercanía a sectores habitados, viviendas, centros poblados y/o infraestructura critica</div></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio mantiene avance rápido, con cercanía a viviendas, reserva natural municipal de bosque nativo y vertedero municipal, ubicados en el sector Alto Muro – Piruquina.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED mantiene la Alerta Roja para la comuna de Castro por incendio forestal, que se encuentra vigente desde el 17 de octubre.<br><br>Trabajan en el lugar 3 técnicos y 1 brigada de CONAF, Bomberos de Castro con 1 camión aljibe, Carabineros, 1 brigada de la empresa eléctrica SAESA, 1 excavadora y 1 bulldozer de la Municipalidad de Castro, 1 excavadora de la Municipalidad de Dalcahue y 1 bulldozer de la Municipalidad de Chonchi; Delegado Presidencial Provincial, Director Provincial de Gestión del Riesgo, Directores comunales de gestión del riesgo de las Comunas de Castro y Dalcahue. De igual forma, se dirigen al lugar el Director Regional y equipo de SENAPRED Los Lagos, además de 1 técnico y 1 brigada de CONAF.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

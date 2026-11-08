@@ -1,0 +1,20 @@
+{
+	"id": "e6b31982-ab3f-4fd5-9826-ad8afbe47b79",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la región de Ñuble por calor intenso",
+	"fechaHora": "2024-01-26T16:47:22.2222-03:00",
+	"createdAt": "2024-01-26T19:48:25.162Z",
+	"updatedAt": "2024-01-26T19:50:37.863Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-uble-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), para los próximos días, no se prevé la ocurrencia de eventos de temperaturas máximas que igualen o superen 34°C en la Región de Ñuble.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED, cancela la Alerta Amarilla Regional por calor intenso, que se mantuvo vigente desde el 19 de enero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene una Alerta Temprana Preventiva Nacional por calor,desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "a3b99f80-8842-4dd1-9d9f-761e609cfb1d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Camiña por aumento de caudal",
+	"fechaHora": "2024-02-28T12:45:47.4747-03:00",
+	"createdAt": "2024-02-28T15:47:24.157Z",
+	"updatedAt": "2024-02-28T15:48:29.692Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-camina-por-aumento-de-caudal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Camiña\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la </span>Dirección General de Aguas<span style=\"color: black\"> (DGA)</span></strong><span style=\"color: black\">, a través de su </span>plataforma de monitoreo de caudales<span style=\"color: black\">, la estación denominada “</span>Q. Camiña 3 Km. Arriba de Tarcavire<span style=\"color: black\">”, ha llegado sus valores normales, lo que no representa una amenaza para la población, sus bienes ni el medioambiente en la comuna de Camiña.</span><br></p><p style=\"text-align:justify\"><span style=\"color: black\">En consideración a este antecedente técnico proporcionado por la DGA, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, cancela la Alerta Roja para la comuna de Camiña por aumento de caudal, que se mantuvo vigente desde el 25 de febrero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Cabe señalar, que se mantiene vigente la Alerta Amarilla, por evento meteorológico para la Provincia del Tamarugal, vigentedesde el 21 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

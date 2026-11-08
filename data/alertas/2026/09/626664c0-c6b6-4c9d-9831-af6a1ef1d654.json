@@ -1,0 +1,20 @@
+{
+	"id": "626664c0-c6b6-4c9d-9831-af6a1ef1d654",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por evento meteorológico",
+	"fechaHora": "2026-09-09T15:31:00.000-03:00",
+	"createdAt": "2026-09-09T18:43:22.596Z",
+	"updatedAt": "2026-09-21T14:03:28.520Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-evento-meteorologico-2026-08-08-13-51-59",
+	"parentId": "010a29d8-7b4e-4733-a71a-a04db68fa1bf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Enlace</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A467-7</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de ventiscas en cordillera.</p></td><td><p style=\"text-align:center\">10-09</p></td><td><p style=\"text-align:center\">10-09</p></td><td><p style=\"text-align:center\"><span style=\"font-size:15px\"><a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchivos.meteochile.gob.cl%2Fportaldmc%2FAAA%2Fdoc%2Fevento_A467-7_2026.php&amp;data=05%7C02%7Cperiodistadeturno%40senapred.gob.cl%7C6025223b5cdf420ba4cb08df0e9f6a65%7Cc4c70e6abf1c4c55986259a5f3ac8257%7C0%7C0%7C639245750011920287%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=G8BS8xBVvxLdpWnA79MXIUltYgdEiIV%2FaUuP0xuiJxE%3D&amp;reserved=0\"><span style=\"color:#0563C1\">Abrir   aquí</span></a></span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por evento meteorológico</strong>,que se encuentra vigente desde el 16 de agosto y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Con esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

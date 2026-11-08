@@ -1,0 +1,20 @@
+{
+	"id": "db0b2e23-ab14-4f17-a4f9-b23955a0d3d9",
+	"type": "Alerta",
+	"titulo": "Otra mas",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-23T23:07:27.240Z",
+	"updatedAt": "2023-10-23T23:10:29.564Z",
+	"urlAccess": "demostracion-creacion-alerta",
+	"parentId": "a27e9108-b27f-4c95-95f3-561f7db5a498",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"ENOS - El Niño y La Niña\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>asd</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "f635a719-7faf-4b6c-903b-d21534530ffe"
+}

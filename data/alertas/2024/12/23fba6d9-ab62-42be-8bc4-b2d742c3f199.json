@@ -1,0 +1,20 @@
+{
+	"id": "23fba6d9-ab62-42be-8bc4-b2d742c3f199",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Castro por incendio forestal",
+	"fechaHora": "2024-12-15T15:47:00.000-03:00",
+	"createdAt": "2024-12-15T18:49:13.782Z",
+	"updatedAt": "2024-12-17T03:43:00.823Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-castro-por-incendio-forestal-2",
+	"parentId": "7df70fc0-e45c-4175-b690-2d4b039c59b9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong>&nbsp;De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Castro, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p style=\"text-align:justify\">El   Polvorín</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2.16   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observación</strong></p></td><td><p style=\"text-align:justify\">A   las 21:00 y 22:00 horas de ayer 14 de diciembre, se constituyó el COGRID Provincial   en terreno, con el fin de evaluar y determinar los cursos de acción. Por otro   lado, se indica que la persona lesionada corresponde a un voluntario de   Bomberos. Al momento no se reportan viviendas, redes de telecomunicaciones o   transporte afectadas. </p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de Castro</strong>, por incendio forestal, que se encuentra vigente desde el 14 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

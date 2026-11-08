@@ -1,0 +1,20 @@
+{
+	"id": "4e28b7c1-f400-4080-a254-fc9f0e9d414e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Puchuncaví por incendio forestal",
+	"fechaHora": "2026-02-11T19:46:32.3232-03:00",
+	"createdAt": "2026-02-11T22:53:01.078Z",
+	"updatedAt": "2026-02-13T00:16:05.556Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puchuncavi-por-incendio-forestal-2026-02-11-15-48-16",
+	"parentId": "3cfa2cb4-56f6-4ddd-bc1e-24c83f27e90c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED,</strong> se reporta un incendio forestal con el siguiente detalle:<br><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Estancilla</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">50 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">5 Cuerpos de Bomberos; 11 brigadas;   Director Regional CONAF; 1 Jefe de Incendio; 8 técnicos; 11 aeronaves; 2   skidder; 1 camión cisterna; 1 puesto de mando;1 GRD Municipal; 4 camiones aljibes   municipales; Carabineros; 1 SAMU; Seguridad Publica; 1 Alcalde de Puchuncaví;   2 aljibes de la I. Municipalidad de Quintero;1 VIR; 1 ambulancia de CESFAM.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">No se reportan afectaciones en   personas ni daños en viviendas en la comuna de Puchuncaví.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED O’Higgins mantiene la Alerta Roja para la comuna de Machalí, por incendio forestal, que se encuentra vigente desde el 11 de febrero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

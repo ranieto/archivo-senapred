@@ -1,0 +1,20 @@
+{
+	"id": "00a8f9e3-acba-4d23-9214-fd3298ba20a4",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la Región de Magallanes por viento",
+	"fechaHora": "2026-04-09T16:27:00.000-04:00",
+	"createdAt": "2026-04-09T20:29:51.594Z",
+	"updatedAt": "2026-04-09T20:31:30.716Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-y-la-comuna-de-torres-del-paine-por-viento-2026-04-07-15-13-02",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelada la Alerta Meteorológica AA63/2026 la cual pronosticaba viento moderado a fuerte en diversas zonas de la Región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones que la originaron.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla regional por viento </strong>que se mantuvo vigente desde el 08 de abril de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "2461cd63-6197-4a3c-9354-18994c2b175d"
+}

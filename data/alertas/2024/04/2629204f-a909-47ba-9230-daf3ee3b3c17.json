@@ -1,0 +1,20 @@
+{
+	"id": "2629204f-a909-47ba-9230-daf3ee3b3c17",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la Región de Maule por amenaza de incendios forestales",
+	"fechaHora": "2024-04-01T10:57:00.000-03:00",
+	"createdAt": "2024-04-01T14:01:25.919Z",
+	"updatedAt": "2024-04-01T14:02:38.238Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Departamento de Protección contra Incendios Forestalesde CONAF, y en consideración de los pronósticos meteorológicos proporcionados por la Dirección Meteorológicade Chile, para los próximos días existe una disminución en la probabilidad de generación y propagación deincendios forestales en la región, además de condiciones favorables para el control de éstos.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancelala Alerta Temprana Preventiva para la Región de Maule, por amenaza de incendios forestales, que se mantuvovigente desde el 18 de enero de 2024.<br></p><p><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

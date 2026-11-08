@@ -1,0 +1,20 @@
+{
+	"id": "0a8c7ab0-5173-4bc7-85d6-8009301cf98e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la provincia de Parinacota por evento meteorológico",
+	"fechaHora": "2023-11-09T14:20:00.000-03:00",
+	"createdAt": "2023-11-09T17:29:34.920Z",
+	"updatedAt": "2023-11-13T22:21:42.905Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-por-evento-meteorologico",
+	"parentId": "e619a387-1bba-49de-a1aa-a6412315f8ea",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Parinacota\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento técnico para la Región de Arica y Parinacota:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A434</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera.</p></td><td><p style=\"text-align:justify\">09-11</p></td><td><p style=\"text-align:justify\">10-11</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A435</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera.</p></td><td><p style=\"text-align:justify\">09-11</p></td><td><p style=\"text-align:justify\">10-11</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, la DMC en su Informe de Amenaza Meteorológica del día de hoy, prevé los siguientes montos de precipitaciones para los próximos días.</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">09 de noviembre</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">10 de noviembre</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Pampa</p></td><td><p style=\"text-align:center\">0,2 – 0,5 </p></td><td><p style=\"text-align:center\">-</p></td></tr><tr><td><p style=\"text-align:center\">Precordillera</p></td><td><p style=\"text-align:center\">5 – 10 </p></td><td><p style=\"text-align:center\">2 – 5 </p></td></tr><tr><td><p style=\"text-align:center\">Cordillera</p></td><td><p style=\"text-align:center\">2 – 5   &nbsp;</p></td><td><p style=\"text-align:center\">1 - 3</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>declara la Alerta Temprana Preventiva </strong>para la provincia de Parinacota, por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

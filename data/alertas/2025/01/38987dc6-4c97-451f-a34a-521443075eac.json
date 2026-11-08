@@ -1,0 +1,20 @@
+{
+	"id": "38987dc6-4c97-451f-a34a-521443075eac",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Valparaíso por evento masivo",
+	"fechaHora": "2025-01-01T17:05:00.000-03:00",
+	"createdAt": "2025-01-01T20:05:24.973Z",
+	"updatedAt": "2025-01-01T20:05:37.740Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-masivo-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso, respecto a la celebración del “Año Nuevo 2025”, se informa la disminución de magnitud de los factores de riesgo asociados al desarrollo de este evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo</strong>, que se manteníavigente desde el 30 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

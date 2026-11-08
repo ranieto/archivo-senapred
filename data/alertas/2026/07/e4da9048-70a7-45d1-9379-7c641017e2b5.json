@@ -1,0 +1,20 @@
+{
+	"id": "e4da9048-70a7-45d1-9379-7c641017e2b5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2026-07-11T09:18:24.2424-04:00",
+	"createdAt": "2026-07-11T13:19:32.881Z",
+	"updatedAt": "2026-07-11T13:20:36.435Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-2026-07-05-17-11-44",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelado los siguientes alertamientos para la Región del Biobío, debido al debilitamiento de las condiciones meteorológicas que los originaron.</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A302-5</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en litoral, cordillera de la costa, valle, precordillera   y cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A303-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera.</p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A308</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones normales a moderadas en corto período de tiempo,   en zonas de cordillera de la costa, valle, precordillera y cordillera</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A309</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas en zonas de la región.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva Regional por evento meteorológico,</strong> la que se mantuvo vigente desde el 05 de julio del 2026.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

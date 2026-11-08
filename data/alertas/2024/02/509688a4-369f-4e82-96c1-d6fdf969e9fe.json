@@ -1,0 +1,20 @@
+{
+	"id": "509688a4-369f-4e82-96c1-d6fdf969e9fe",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Temprana Preventiva para la Región de Antofagasta por evento meteorológico",
+	"fechaHora": "2024-02-04T14:48:36.3636-03:00",
+	"createdAt": "2024-02-04T17:49:24.052Z",
+	"updatedAt": "2024-02-09T04:07:28.656Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2",
+	"parentId": "69c7e321-b228-437e-bca3-03ebf3933b17",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A9-6</p></td><td><p style=\"text-align:justify\">Probable desarrollo de tormentas   eléctricas para las zonas de cordillera de la costa, precordillera,   precordillera salar y cordillera.</p></td><td><p style=\"text-align:justify\">04-02</p></td><td><p style=\"text-align:justify\">07-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A25</p></td><td><p style=\"text-align:justify\">Precipitaciones normales a moderadas   en corto periodo de tiempo en precordillera salar y cordillera de la región.</p></td><td><p style=\"text-align:justify\">06-02</p></td><td><p style=\"text-align:justify\">07-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, conforme a lo indicado por el Servicio Nacional de Geología y Minería (SERNAGEOMIN), la probabilidad de ocurrencia de aluviones (flujos de detritos) y derrumbes (deslizamientos y caídas de rocas) es <strong>baja</strong> en el litoral, cordillera de la costa, pampa, precordillera y precordillera salar, en tanto, es <strong>moderada </strong>en cordillera.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED, <strong>modifica la cobertura de la Alerta Temprana Preventiva a Regional, por evento meteorológico,</strong> la cual se mantiene vigente desde el 23 de diciembre de 2023 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de cobertura de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "1edeaa29-c22e-4b36-977b-5a51868ded72",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Tierra Amarilla por evento masivo",
+	"fechaHora": "2024-03-17T11:57:00.000-03:00",
+	"createdAt": "2024-03-17T15:06:30.684Z",
+	"updatedAt": "2024-03-17T15:07:13.761Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-tierra-amarilla-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Tierra Amarilla\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama</strong>, sin emergencias mayores ha finalizado el evento masivo denominado <strong>“Carnaval del Pullay 2024”,</strong> que se desarrolló en la comuna de Tierra Amarilla, entre los días16 y 17 de marzo, congregando alrededor de 4.000 personas, durante el evento.<br></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva para la comuna de Tierra Amarilla</strong>, por evento masivo, la que se mantuvo vigente desde el 15 de marzo de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

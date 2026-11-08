@@ -1,0 +1,20 @@
+{
+	"id": "36dc0fa3-1272-4880-ac04-0bd9e1115183",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2024-10-08T22:45:00.000-03:00",
+	"createdAt": "2024-10-09T01:47:30.751Z",
+	"updatedAt": "2024-10-09T01:49:39.364Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-8",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> mediante la actualización del Aviso Meteorológico A371-4/2024 por tormentas eléctricas con posibilidad de precipitaciones fuertes entre un corto período de tiempo, se indica que este ya no contempla a la Región del Maule en su actual cobertura.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dichas variables meteorológica y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se encontraba vigente desde el 07 de octubre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

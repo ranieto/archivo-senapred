@@ -1,0 +1,20 @@
+{
+	"id": "cc2ee3f7-78a8-4ba7-aa1a-012db590c811",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2026-01-06T16:17:30.3030-03:00",
+	"createdAt": "2026-01-06T19:21:59.582Z",
+	"updatedAt": "2026-01-07T18:11:44.429Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-2026-01-06-15-27-38",
+	"parentId": "524f6a08-1853-4675-877e-0895fbbcd206",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size: 15px;color: black\">respecto al incendio forestal en la&nbsp;<strong>comuna de Valparaíso,&nbsp;</strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Laguna Verde</span></p></td></tr><tr><td><p><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Estado</span></strong></p></td><td><p><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En Combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Superficie</span></strong></p></td><td><p><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">0.5 hectáreas</span></p></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\">13 compañías del Cuerpo de Bomberos de Valparaíso</span></div><div><span style=\"color: rgb(0, 0, 0)\">10 b</span><span style=\"color: rgb(0, 0, 0)\">rigadas, 3 técnicos, 8 aeronaves, 3 camiones aljibe y 2 puestos de comando de CONAF</span></div></td></tr><tr><td><p><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Observaciones</span></strong></p></td><td><p><span style=\"color:#000000\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">A raíz de este incendio forestal se han evacuado aproximadamente 100 personas.</span></span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED&nbsp;<strong>mantiene la Alerta Roja para la Comuna de Valparaíso</strong>, por incendio forestal, que se encuentra vigente desde&nbsp;el 06 de enero de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

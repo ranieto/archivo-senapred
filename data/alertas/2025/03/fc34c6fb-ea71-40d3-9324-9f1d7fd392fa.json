@@ -1,0 +1,20 @@
+{
+	"id": "fc34c6fb-ea71-40d3-9324-9f1d7fd392fa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Caldera por evento masivo",
+	"fechaHora": "2025-03-02T15:04:11.1111-03:00",
+	"createdAt": "2025-03-02T18:05:40.306Z",
+	"updatedAt": "2025-03-02T18:06:34.626Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-caldera-por-evento-masivo-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, sin emergencias mayores ha finalizado el evento masivo denominado “Despedida del verano y bienvenida al verano Calderino”, en cual se desarrolló el día 01 de marzo en el sector de Avenida Wheelwright, entre las calles Cousiño y Cifuentes, en la comuna de Caldera, congregando alrededor de 10.000 personas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Caldera, la que se mantuvo vigente desde el 28 de febrero de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

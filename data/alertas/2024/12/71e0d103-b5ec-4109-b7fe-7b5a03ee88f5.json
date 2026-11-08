@@ -1,0 +1,20 @@
+{
+	"id": "71e0d103-b5ec-4109-b7fe-7b5a03ee88f5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2024-12-03T21:44:32.3232-03:00",
+	"createdAt": "2024-12-04T00:45:20.828Z",
+	"updatedAt": "2024-12-04T00:49:05.225Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la</strong><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>respecto del incendio forestal que se registra en la comuna de Las Cabras, se reporta lo siguiente:</p><p style=\"text-align: justify\">Producto de este incendio se activó mensajería SAE para los sectores de Los Quillayes y Los Olivos de la comuna de Las Cabras.</p><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Las Cabras, por incendio forestal, que se encuentra vigente desde el 03 de diciembre de 2024.</p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Los Quillayes</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En Combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">100 hectáreas</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">Bomberos de Las Cabras, Peumo,&nbsp; San Vicente, San Pedro, Rengo y Requinoa. 7 brigadas de Conaf, 2 Técnicos CONAF, 1 helicóptero, 2 aviones, personal municipal.&nbsp;1 maquinaria pesada, 1 puesto de Comando y 1 camión aljibe.</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Observación</strong></p></td><td><p style=\"text-align: justify\">Incendio Forestal en la comuna de las cabras, en combate con una superficie de 100 ha de vegetación por confirmar. El sector 1 y 6 se<br>encuentra activo con alta intensidad El sector 2 y 5 se encuentra activo con alta intensidad El sector 3 y 4 contenido en un 70% con baja intensidad.<br></p></td></tr></tbody></table></div><div><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

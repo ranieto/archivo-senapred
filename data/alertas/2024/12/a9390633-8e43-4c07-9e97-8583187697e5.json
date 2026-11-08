@@ -1,0 +1,20 @@
+{
+	"id": "a9390633-8e43-4c07-9e97-8583187697e5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Lampa por incendio forestal",
+	"fechaHora": "2024-12-08T15:25:14.1414-03:00",
+	"createdAt": "2024-12-08T18:26:32.598Z",
+	"updatedAt": "2024-12-08T19:33:39.243Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-3",
+	"parentId": "11e8307b-b391-44fa-a803-de9c47aa06da",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Lampa, se reporta lo siguiente:</p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Lo Boza 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>El incendio   presenta vientos erráticos que cambian la dirección del frente de avance. Se   desarrolla cercano a sectores habitados e infraestructura crítica.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Trabajan en   el lugar 3 brigadas, 1 técnico, 2 aviones y 1 helicóptero de CONAF; junto a   Bomberos de Colina-Lampa y Quinta Normal.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana, la Dirección Regional de&nbsp;SENAPRED declara <strong>Alerta Roja para la comuna de Lampa</strong> por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

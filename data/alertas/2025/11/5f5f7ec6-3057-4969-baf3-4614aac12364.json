@@ -1,0 +1,20 @@
+{
+	"id": "5f5f7ec6-3057-4969-baf3-4614aac12364",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2025-11-26T17:17:48.4848-03:00",
+	"createdAt": "2025-11-26T20:25:21.973Z",
+	"updatedAt": "2025-12-12T14:20:47.567Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-12",
+	"parentId": "7abcec49-e497-4165-b9c8-265cd833fbe0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF,</strong> se reporta un incendio forestal con el siguiente detalle:</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>El Leocillo</div></td></tr><tr><td><div><strong>Comuna (sector)</strong></div></td><td><div>Valparaíso (Laguna Verde)</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate</div></td></tr><tr><td><div><strong>Superficie afectada</strong></div></td><td><div>0.5 hectáreas</div></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>Cuerpo de Bomberos de Valparaíso</div><div>9 Brigadas Conaf</div><div>3 aviones Conaf</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de <strong>SENAPRED declara Alerta Roja para la comuna de Valparaíso por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

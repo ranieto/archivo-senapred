@@ -1,0 +1,20 @@
+{
+	"id": "ed697075-165e-4f3a-99d2-ec11867e943e",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Limache por incendio forestal",
+	"fechaHora": "2023-12-09T15:14:27.2727-03:00",
+	"createdAt": "2023-12-09T18:15:35.558Z",
+	"updatedAt": "2023-12-15T00:36:23.254Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-limache-por-incendio-forestal",
+	"parentId": "83c41cec-a51b-48a9-a78b-dc10f4b0ab48",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Limache\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF</strong>), se registra un incendio forestal en la comuna de Limache, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Cajón de Lebu</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En combate.</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">10 hectáreas.</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">Incendio forestal cercano a sectores poblados</p></td></tr></tbody></table></div><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED<strong>declara Alerta Roja para la comuna de Limache por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con la&nbsp;<strong>declaración de la Alerta Roja,</strong>se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p><p>Al momento los recursos que trabajan en el lugar son:</p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">CONAF</span></strong></p></td><td><p style=\"text-align: justify\">1 técnico, 9 brigadas, 2 helicópteros, 4 aviones y 2 camiones aljibe.</p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">OTROS</span></strong></p></td><td><p style=\"text-align: justify\">Bomberos de Limache y personal municipal.</p></td></tr></tbody></table></div><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

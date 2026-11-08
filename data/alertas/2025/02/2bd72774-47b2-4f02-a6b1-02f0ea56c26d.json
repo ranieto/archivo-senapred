@@ -1,0 +1,20 @@
+{
+	"id": "2bd72774-47b2-4f02-a6b1-02f0ea56c26d",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Amarilla para la provincia de El Loa y las comunas de Antofagasta, Sierra Gorda, María Elena y Taltal por evento meteorológico",
+	"fechaHora": "2025-02-17T00:06:56.5656-03:00",
+	"createdAt": "2025-02-17T03:08:36.957Z",
+	"updatedAt": "2025-03-14T18:50:48.182Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico",
+	"parentId": "44599360-5dc3-437c-8fe1-4f0a943fe9c1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA16</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en corto periodo de tiempo en alta precordillera y   cordillera de la región. </p></td><td><p style=\"text-align:center\">16-02</p></td><td><p style=\"text-align:center\">17-02</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A20-11</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera, precordillera salar y cordillera de la   región.</p></td><td><p style=\"text-align:center\">14-02</p></td><td><p style=\"text-align:center\">19-02</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A47-4</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en precordillera salar y cordillera de la región.</p></td><td><p style=\"text-align:center\">15-02</p></td><td><p style=\"text-align:center\">18-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Por su parte, el Servicio Nacional de Geología y Minería (SERNAGEOMIN), mediante la actualización de suMinuta Técnica por Peligro de Remociones en Masa, indica que la posibilidad de ocurrencia de remociones en masa es alta en cordillera, moderada en precordillera salar y baja en litoral, cordillera de la costa, pampa y precordillera occidental de la región.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED actualiza la Alerta Amarilla para la provincia de El Loa y las comunas de Antofagasta, Sierra Gorda, María Elena y Taltal, por evento meteorológico, que se mantiene vigente desde el 15 de febrero y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la actualización de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

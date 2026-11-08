@@ -1,0 +1,20 @@
+{
+	"id": "a8094572-59b3-4fdb-9ee5-58b0a0576962",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Concepción y Arauco por viento",
+	"fechaHora": "2026-09-06T18:41:00.000-03:00",
+	"createdAt": "2026-09-06T21:51:03.793Z",
+	"updatedAt": "2026-09-06T21:51:47.448Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-viento-2026-09-03-12-00-06",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se han cancelado los siguientes alertamientos meteorológicos para la Región del Biobío, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA155</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   moderado a fuerte con viento de dirección Este (Raco, Puelche) en valle,   precordillera y cordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A465-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado con viento de dirección Este (Raco, Puelche) en Litoral y   Cordillera de la Costa.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>Cancela Alerta Temprana Preventiva para las provincias de Concepción y Arauco por viento</strong>, que se mantuvo vigente desde el 03 de septiembre del 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "1ab9b465-1cac-448a-9fff-7e61283d34ad",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de O’Higgins y Maule",
+	"fechaHora": "2023-11-11T04:16:19.1919-03:00",
+	"createdAt": "2023-11-11T07:18:32.791Z",
+	"updatedAt": "2023-11-11T07:24:58.417Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-maule",
+	"parentId": "86405dc7-cfae-4c09-9280-dd706047e049",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 04:04 horas en las regiones de O’Higgins y Maule. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Lolol:   </p></td><td><p>IV</p></td></tr><tr><td><p>Palmilla:   </p></td><td><p>IV</p></td></tr><tr><td><p>Paredones:   </p></td><td><p>III</p></td></tr><tr><td><p>Peralillo:   </p></td><td><p>III</p></td></tr><tr><td><p>Placilla:   </p></td><td><p>III</p></td></tr><tr><td><p>San   Fernando: </p></td><td><p>III</p></td></tr><tr><td><p>Santa   Cruz: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Curicó:   </p></td><td><p>IV</p></td></tr><tr><td><p>Talca:   </p></td><td><p>III</p></td></tr><tr><td><p>Iloca:   </p></td><td><p>III</p></td></tr><tr><td><p>Llico:   </p></td><td><p>III</p></td></tr><tr><td><p>Sagrada   Familia: </p></td><td><p>III</p></td></tr><tr><td><p>Teno:   </p></td><td><p>III</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. <br>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.2 localizado a 22 Kms al Este de Vichuquén<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "ad50522a-ffb7-4d47-8575-0fad358d0712",
+	"type": "Alerta",
+	"titulo": "Alerta Temprana Preventiva por evento masivo para la comuna de Andacollo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-02-11T12:17:50.149Z",
+	"updatedAt": "2025-02-11T12:21:15.302Z",
+	"urlAccess": "alerta-temprana-preventiva-por-evento-masivo-para-la-comuna-de-andacollo",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, entre el 14 y 16 de febrero de 2025, se desarrollará el evento denominado</span><strong> “La voz de la montaña”</strong><span style=\"color: black\">,el cual prevé una afluencia aproximada de 5.000 personas en la comuna de Andacollo.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva por evento masivo para la comuna de Andacollo</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

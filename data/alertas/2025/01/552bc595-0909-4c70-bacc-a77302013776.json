@@ -1,0 +1,20 @@
+{
+	"id": "552bc595-0909-4c70-bacc-a77302013776",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Provincia de Chacabuco por calor extremo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-27T12:58:05.680Z",
+	"updatedAt": "2025-01-27T12:58:36.329Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-chacabuco-por-calor-extremo",
+	"parentId": "3f0b7061-e932-4b07-ae0f-6f4a691975d8",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico asociado a la variable de altas temperaturas para la Región Metropolitana:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A29-2</p></td><td><p style=\"text-align:justify\">Altas temperaturas   en cordillera de la costa, valle y precordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la</strong><strong>Alerta Roja para la Provincia de Chacabuco por calor extremo</strong>, que se mantuvo vigente desde el 23 de enero de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

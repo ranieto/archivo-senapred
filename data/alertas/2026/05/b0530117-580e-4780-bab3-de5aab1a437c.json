@@ -1,0 +1,20 @@
+{
+	"id": "b0530117-580e-4780-bab3-de5aab1a437c",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla por alteración sanitaria para las provincias de Los Andes e Isla de Pascua",
+	"fechaHora": "2026-05-11T19:45:57.5757-04:00",
+	"createdAt": "2026-05-11T23:47:08.343Z",
+	"updatedAt": "2026-07-04T01:14:10.612Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria",
+	"parentId": "14b79db2-78ae-4c96-9ce6-64d5f906bd43",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso, respecto a la presencia de un brote de Dengue en Isla de Pascua, se informan 24 casos confirmados, sin personas hospitalizadas.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Asimismo, se reporta 2 casos sospechosos, a la espera de resultados de análisis.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Cabe mencionar, que se mantienen labores de desinsectación en un perifoco de 200 metros asociado a los casos positivos, específicamente en los sectores 14–22 Vakai (detrás de Rapel) y sector 27 de Av. Pont, a la altura del Hotel Hotu Matu’a, entre Tu’u Koihu y Vakai.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por alteración sanitaria para las provincias de Los Andes e Isla de Pascua</strong>, que permanece vigente desde el 16 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

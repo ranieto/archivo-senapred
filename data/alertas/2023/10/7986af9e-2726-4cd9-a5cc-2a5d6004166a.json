@@ -1,0 +1,20 @@
+{
+	"id": "7986af9e-2726-4cd9-a5cc-2a5d6004166a",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2023-10-29T21:05:00.000-03:00",
+	"createdAt": "2023-10-30T00:11:07.101Z",
+	"updatedAt": "2023-10-30T00:11:19.254Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), en atención al debilitamiento de las condiciones meteorológicas que los originaron, han sido cancelados los siguientes alertamientos técnicos para la Región de La Araucanía:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso A412-1</strong></p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en zonas del litoral, cordillera de la costa, valle,   precordillera y cordillera.</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso A413-1</strong></p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\">De acuerdo con a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional </strong>por evento meteorológico, que se mantenía vigente desde el 25 de octubre.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

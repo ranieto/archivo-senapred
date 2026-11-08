@@ -1,0 +1,20 @@
+{
+	"id": "73078973-33ba-47c3-8606-00372df32e4c",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de San Esteban por incendio forestal",
+	"fechaHora": "2025-01-20T00:41:44.4444-03:00",
+	"createdAt": "2025-01-20T03:49:26.804Z",
+	"updatedAt": "2025-01-20T20:34:53.602Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-esteban-por-incendio-forestal",
+	"parentId": "f88e0f9f-5486-4bee-9036-6b9217783064",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p style=\"text-align:justify\"></p><p style=\"text-align:justify\">De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que se desarrolla en la comuna de San Esteban, se informa lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Río Colorado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">19.85 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Activo y sin avance encuentra el incendio forestal. Al   memento se reportan 1 persona fallecida, 5 lesionadas y 38 damnificadas   producto del incendio. En cuanto a viviendas, se informan 7 destruidas y 5 en   evaluación.</p><p style=\"text-align:justify\">Las personas damnificadas fueron trasladas a casa de   familiares. Durante la jornada de mañana se realizará nueva evaluación en   terreno. Ruta E-763 Los Chacayes se encuentra habilitada.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de San Esteban</strong>, por incendio forestal, que se encuentra vigente desde el 19 de enero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c133981-7ed3-4452-a7da-5c0ae5fc2470"
+}

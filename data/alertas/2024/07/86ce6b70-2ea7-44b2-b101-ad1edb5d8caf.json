@@ -1,0 +1,20 @@
+{
+	"id": "86ce6b70-2ea7-44b2-b101-ad1edb5d8caf",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por viento",
+	"fechaHora": "2024-07-24T15:05:59.5959-04:00",
+	"createdAt": "2024-07-24T19:06:45.654Z",
+	"updatedAt": "2024-07-27T00:22:29.224Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-viento-3",
+	"parentId": "464ee63d-0b47-401f-ad88-06f0632f264c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Isla de Pascua en la Región de Valparaíso:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta AA61</p></td><td><p style=\"text-align:justify\">Viento moderado a fuerte en Isla de Pascua.</p></td><td><p style=\"text-align:center\">25-07</p></td><td><p style=\"text-align:center\">26-07</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Conforme a lo anterior, la velocidad del viento estimada (km/h) para cada día es la siguiente:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Jueves 25</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Viernes 26</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Isla de Pascua</p></td><td><p style=\"text-align:center\">50 – 70 </p></td><td><p style=\"text-align:center\">50 – 70 </p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por viento,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><strong><span style=\"color:black\">SENAPRED&nbsp;</span></strong><span style=\"color:black\">recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span><span style=\"color:black\">&nbsp;</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

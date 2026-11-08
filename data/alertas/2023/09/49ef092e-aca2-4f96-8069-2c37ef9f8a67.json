@@ -1,0 +1,20 @@
+{
+	"id": "49ef092e-aca2-4f96-8069-2c37ef9f8a67",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Arica y Parinacota por viento",
+	"fechaHora": "2023-09-11T15:01:00.000-03:00",
+	"createdAt": "2023-09-11T19:44:09.181Z",
+	"updatedAt": "2023-09-14T11:00:07.708Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-viento",
+	"parentId": "2bc68aa9-c679-4afb-96a3-0135b4dadb05",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se mantiene vigente el siguiente alertamiento técnico para la Región de Arica y Parinacota:</p><table><tbody><tr><td><div><strong>Aviso A356-2</strong></div></td><td><div>Viento normal a moderado con probabilidad de tormentas de arena en litoral y cordillera, entre la mañana del martes 12 y la noche del jueves 14 de septiembre.</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED<strong>actualiza la Alerta Temprana Preventiva regional</strong>por viento, que se mantiene vigente desde hoy lunes 11 de septiembre de 2023.</p><p style=\"text-align: justify\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p style=\"text-align: justify\"><em><strong>SENAPRED</strong>recomiendaa la poblacióninformarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

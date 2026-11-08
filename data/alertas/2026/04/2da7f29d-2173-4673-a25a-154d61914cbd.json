@@ -1,0 +1,20 @@
+{
+	"id": "2da7f29d-2173-4673-a25a-154d61914cbd",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Valparaíso por amenaza de incendios forestales",
+	"fechaHora": "2026-04-28T19:41:00.000-04:00",
+	"createdAt": "2026-04-28T23:51:13.296Z",
+	"updatedAt": "2026-04-28T23:51:20.620Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-04-25-20-58-43",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">De acuerdo con la&nbsp;</span><strong>información técnica proporcionada por la Dirección Meteorológica de Chile (DMC)</strong><span style=\"font-size: 14px\">, se informan los siguientes antecedentes:</span></p><div style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></div><div style=\"text-align: justify\"><span style=\"font-size: 14px\">Situación Meteorológica: Se ha dado por finalizado el Aviso Meteorológico A197-2/2026, el cual pronosticaba vientos normales a moderados para la zona litoral de la Región de Valparaíso.</span></div><div style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></div><div style=\"text-align: justify\"><span style=\"font-size: 14px\">Condición de Riesgo: La desactivación de las rachas de viento de hasta 50 km/h reduce significativamente el factor de propagación inmediata que dio origen a esta alerta.</span></div><div style=\"text-align: justify\"><span style=\"font-size: 14px\"><br></span></div><div style=\"text-align: justify\"><span style=\"font-size: 14px\">En consideración a estos antecedentes y la disminución de las condiciones de vulnerabilidad meteorológica, la Dirección Regional de SENAPRED Valparaíso, en coordinación con la Delegación Presidencial Regional,&nbsp;<strong>declara la CANCELACIÓN de la Alerta Temprana Preventiva para la Región de Valparaíso (o comunas afectadas), que se encontraba vigente desde desde el 25 de abril de 2026.</strong></span></div>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

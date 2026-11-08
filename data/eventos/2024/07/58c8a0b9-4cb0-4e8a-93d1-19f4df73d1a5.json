@@ -1,0 +1,19 @@
+{
+	"id": "58c8a0b9-4cb0-4e8a-93d1-19f4df73d1a5",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Coquimbo",
+	"fechaHora": "2024-07-18T10:05:00.000-04:00",
+	"createdAt": "2024-07-18T14:05:49.411Z",
+	"updatedAt": "2024-07-18T14:10:41.893Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-coquimbo-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 10:02 horas en la Región de Coquimbo.</p><p>Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>Monte   Patria: </p></td><td><p>V</p></td></tr></tbody></table><p style=\"text-align:justify\"><strong></strong></p><p style=\"text-align:justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "acc9811a-36e0-4e92-a3f4-8f27e5f24ff3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San Fernando por incendio forestal",
+	"fechaHora": "2026-01-20T11:11:00.000-03:00",
+	"createdAt": "2026-01-20T14:14:57.800Z",
+	"updatedAt": "2026-01-20T16:49:20.594Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-fernando-por-incendio-forestal-2026-01-18-19-19-34",
+	"parentId": "e1dee17f-d018-44ec-b2c2-79c9a0dd43ec",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:16px\">De acuerdo con la información técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size: 16px\">respecto a los incendios forestales en la comuna de San Fernando; se informa el siguiente detalle:</span></p><p><span style=\"font-size: 16px\"><br></span></p><table><tbody><tr><td><p><strong><span style=\"font-size:16px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:16px\">Fundo La Palma</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">Controlado</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">10 (ha)</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:16px\">No se reportan afectaciones en   personas ni daños en viviendas en la comuna de San Fernando.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Comuna de San Fernando</strong>, por incendio forestal, que se encuentra vigente desde el 18 de enero de 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

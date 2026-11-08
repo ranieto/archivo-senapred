@@ -1,0 +1,20 @@
+{
+	"id": "c6e5398c-c051-4a42-94e1-9298f534d3ce",
+	"type": "Alerta",
+	"titulo": "Monitoreo  Alerta Amarilla para las provincias de Los Andes e Isla de Pascua por alteración sanitaria",
+	"fechaHora": "2026-03-13T09:42:45.4545-03:00",
+	"createdAt": "2026-03-13T12:45:03.310Z",
+	"updatedAt": "2026-03-17T19:48:25.612Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria",
+	"parentId": "a734a3e9-ce76-40c7-92d6-647952e7d1ac",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la SEREMI de Salud de Valparaíso,</strong> se informa la presencia de un brote de Dengue en Isla de Pascua, registrándose 15 casos confirmados, de los cuales 2 se encuentran hospitalizados.</p><p style=\"text-align:justify\">Adicionalmente, se indica que se mantienen 11 casos sospechosos aún en espera de resultado de los análisis.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">Cabe destacar que, se mantiene el trabajo en diversos sectores en proceso de “Desinsectación” (periférico de 200 metros del caso positivo).</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla por alteración sanitaria para las provincias de Los Andes e Isla de Pascua, que permanece vigente desde el 16 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

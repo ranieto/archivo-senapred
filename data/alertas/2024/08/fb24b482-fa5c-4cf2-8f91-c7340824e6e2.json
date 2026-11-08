@@ -1,0 +1,20 @@
+{
+	"id": "fb24b482-fa5c-4cf2-8f91-c7340824e6e2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Torres del Paine por heladas",
+	"fechaHora": "2024-08-23T18:10:00.000-04:00",
+	"createdAt": "2024-08-23T22:15:32.550Z",
+	"updatedAt": "2024-08-23T22:16:41.680Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-torres-del-paine-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Torres del Paine\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A314</p></td><td><p style=\"text-align:justify\">Heladas   normales a moderadas con formación de hielo en Pampa Patagónica Norte.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, según lo indicado en el pronóstico público emitido por el Centro Meteorológico Regional Austral de la DMC, se espera un aumento de las temperaturas máximas y una disminución de la amenaza asociada a la condición meteorológica.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva por heladas para la comuna de Torres del Paine</strong>, que se mantenía vigente desde el 20 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

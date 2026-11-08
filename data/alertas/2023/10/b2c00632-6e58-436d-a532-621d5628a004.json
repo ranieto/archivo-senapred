@@ -1,0 +1,20 @@
+{
+	"id": "b2c00632-6e58-436d-a532-621d5628a004",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las provincias de Arauco y Biobío por evento zoosanitario",
+	"fechaHora": "2023-04-25T17:11:00.000-04:00",
+	"createdAt": "2023-10-26T01:47:13.751Z",
+	"updatedAt": "2023-10-26T01:49:10.869Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-zoosanitario",
+	"parentId": "fc3117e6-01fd-4ebe-b5f1-33175064b45f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco, Biobío\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), mediante la resolución exenta N°475/2023 del 21 de abril de 2023, se declaró la presencia de influenza aviar en un recinto identificado, registrando el tercer caso de detección de Influenza Aviar de Alta Patogenicidad en un plantel industrial de la región.<br><br>Conforme a este antecedente, ha sido declarada Alerta Amarilla para la Provincia de Concepción por evento zoosanitario, a fin de alistar escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución de este evento.<br><br>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED, modifica la cobertura de su Alerta Temprana Preventiva, para las provincias de Arauco y Biobío por evento zoosanitario, la cual se encuentra vigente desde el 24 de marzo y hasta que las condiciones del evento así lo ameriten.<br><br>La modificación de cobertura de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

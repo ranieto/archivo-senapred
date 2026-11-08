@@ -1,0 +1,20 @@
+{
+	"id": "02d83d0d-efb9-4779-bcfb-5f644409141b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Carahue por amenaza de desborde",
+	"fechaHora": "2024-08-02T10:45:00.000-04:00",
+	"createdAt": "2024-08-02T14:47:25.062Z",
+	"updatedAt": "2024-08-04T02:47:57.173Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-carahue-por-amenaza-de-desborde-3",
+	"parentId": "70ba75d0-780c-42c5-ad6d-7d2f46ba1aaa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación hidrométrica “Río Damas” en la comuna de Carahue, ha alcanzado el <strong>umbral de alerta roja</strong>, si continúa aumentando puede producir daños a sectores poblados e infraestructura, por lo que puede ser requeridas acciones como evacuaciones, disponibilidad de recursos humanos, maquinaria y equipos.&nbsp;&nbsp;<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial <span style=\"color:black\">Regional La Araucanía</span><span style=\"font-size: 12px\">, </span>la Dirección Regional del SENAPRED <strong>declara Alerta Roja por amenaza de desborde para la comuna de Carahue y cancela Alerta Amarilla por amenaza de desborde para la comuna Carahue</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

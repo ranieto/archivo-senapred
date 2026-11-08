@@ -1,0 +1,19 @@
+{
+	"id": "a1d3b1b0-5d9f-4f90-8191-80cb3a3b3694",
+	"type": "Evento",
+	"titulo": "Prueba de contenido",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-16T15:11:16.698Z",
+	"updatedAt": "2026-01-16T15:27:28.191Z",
+	"urlAccess": "prueba-de-contenido-2026-01-16-12-11-05",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p>hola.&nbsp;</p><p><button>Abrir modal</button></p><p>&nbsp;</p><p></p><dialog style=\"width: 60%; height: 60%;\" id=\"dlg\"><p></p><p>&nbsp; </p><p>Contenido del modal</p><p></p><p>&nbsp;</p><p>&nbsp; </p><p>&nbsp; &nbsp; src=\"<a id=\"menur1r5\" rel=\"noreferrer noopener\" href=\"https://www.openstreetmap.org/export/embed.html?bbox=-70.75,-33.52,-70.55,-33.38&amp;layer=mapnik%22\">https://www.openstreetmap.org/export/embed.html?bbox=-70.75,-33.52,-70.55,-33.38&amp;layer=mapnik\"</a></p><p>&nbsp; &nbsp; width=\"100%\"</p><p>&nbsp; &nbsp; height=\"80%\"</p><p>&nbsp; &nbsp; style=\"border:0\"</p><p>&nbsp; &nbsp; loading=\"lazy\"</p><p>&nbsp; &nbsp; referrerpolicy=\"no-referrer-when-downgrade\"&gt;</p><p>&nbsp; </p><p>&nbsp;</p><p>&nbsp; <button>Cerrar</button></p><p></p></dialog><p></p>",
+	"variableInformateEventosId": "f46479bd-762a-48e3-a236-388d311ded67"
+}

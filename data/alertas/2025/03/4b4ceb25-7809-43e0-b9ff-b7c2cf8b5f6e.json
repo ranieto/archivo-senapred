@@ -1,0 +1,20 @@
+{
+	"id": "4b4ceb25-7809-43e0-b9ff-b7c2cf8b5f6e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chillán por incendio forestal",
+	"fechaHora": "2025-03-12T16:38:43.4343-03:00",
+	"createdAt": "2025-03-12T19:46:58.545Z",
+	"updatedAt": "2025-03-12T21:10:41.329Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal-6",
+	"parentId": "54932bf0-cc40-4a48-8e6a-1bfca1c39621",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED ha declarado Alerta Roja para la comuna de Chillán debido a un incendio forestal en el sector Parque Lantaño, denominado \"Loteo Alto Lantaño\". Según el informe de alerta técnica emitido por la Dirección Regional de CONAF, el incendio ha afectado una superficie de 0.01 hectáreas y se encuentra cercano a sectores habitados. Esta alerta estará vigente desde la emisión del presente informe y se mantendrá hasta que las condiciones lo ameriten.</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Loteo alto lantaño</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate&nbsp;</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio de pastizal, matorrales y bosque<br></div></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>Cuerpo de Bomberos de Chillán. 4 brigadas de CONAF, 1 helicóptero y 1 UAD</div></td></tr></tbody></table><p><br></p><p>​<span style=\"font-size: 15px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span>​<br></p><table><tbody></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

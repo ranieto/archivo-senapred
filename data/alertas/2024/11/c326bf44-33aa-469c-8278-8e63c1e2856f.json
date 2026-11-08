@@ -1,0 +1,20 @@
+{
+	"id": "c326bf44-33aa-469c-8278-8e63c1e2856f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Mostazal (Región de O'Higgins) por incendio forestal",
+	"fechaHora": "2024-11-10T14:31:07.077-03:00",
+	"createdAt": "2024-11-10T17:37:02.898Z",
+	"updatedAt": "2024-11-10T23:40:26.447Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-mostazal-region-de-ohiggins-por-incendio-forestal",
+	"parentId": "dee9e681-fa4b-436c-b590-c37948b9f5a5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal “Fundo La Querencia”, por su proyección amenaza a una vivienda aislada en el sector delFundo La Querencia en la comuna de Mostazal, ubicada a 50 metros del perímetro del incendio.En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, laDirección Regional de SENAPRED declara Alerta Roja para la Comuna de Mostazal por incendio forestal,vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Fundo la Querencia</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Mostazal</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>4</div></td></tr><tr><td><div>Recursos de bomberos en el lugar</div></td><td><div>8 unidades</div></td></tr><tr><td><div>Recursos de CONAF en el lugar</div></td><td><div>5 brigadistas, 3 técnicos, 3 aeronaves y 1 camión cisterna</div></td></tr></tbody></table><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

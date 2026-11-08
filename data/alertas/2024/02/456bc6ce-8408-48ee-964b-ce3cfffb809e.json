@@ -1,0 +1,20 @@
+{
+	"id": "456bc6ce-8408-48ee-964b-ce3cfffb809e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para las comunas de Parral y Retiro por incendio forestal",
+	"fechaHora": "2024-02-05T13:09:00.000-03:00",
+	"createdAt": "2024-02-05T16:14:51.381Z",
+	"updatedAt": "2024-02-05T20:43:39.853Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-retiro-y-parral-por-incendio-forestal",
+	"parentId": "e16c5357-7f99-4699-8c95-a4637a079d17",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;con relación al incendio forestal registrado en las comunas de Parral y Retiro, se indica lo siguiente:<br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Oriente</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>64.5 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para las comunas de Parral y Retiro por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

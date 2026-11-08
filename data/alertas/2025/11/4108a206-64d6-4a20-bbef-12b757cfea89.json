@@ -1,0 +1,20 @@
+{
+	"id": "4108a206-64d6-4a20-bbef-12b757cfea89",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Arica por viento",
+	"fechaHora": "2025-11-17T17:34:29.2929-03:00",
+	"createdAt": "2025-11-17T20:36:00.975Z",
+	"updatedAt": "2025-11-19T21:01:13.645Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-arica-por-viento-3",
+	"parentId": "104c97ae-40c1-47d9-bd1a-bd8db9f2df81",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</p><table><tbody><tr><td><p><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p>Aviso A452</p></td><td><p>Viento normal a moderado con probabilidad de tormentas de   arena en el litoral de la región (entre 25 y 40 km/h).</p></td><td><p>18-11</p></td><td><p>19-11</p></td></tr></tbody></table><p>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva por viento para la Provincia de Arica</strong><strong>, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p>La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

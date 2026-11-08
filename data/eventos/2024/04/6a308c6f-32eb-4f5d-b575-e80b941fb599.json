@@ -1,0 +1,20 @@
+{
+	"id": "6a308c6f-32eb-4f5d-b575-e80b941fb599",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2024-04-28T16:27:18.1818-04:00",
+	"createdAt": "2024-04-28T20:28:24.258Z",
+	"updatedAt": "2024-04-28T20:36:25.722Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-tarapaca-y-antofagasta-5",
+	"parentId": "03176360-fd4d-4790-a0ce-96fffd09736f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 16:20 horas en las regiones de Tarapacá y Antofagasta.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapacá </strong></p></td></tr><tr><td><p>Huara   : </p></td><td><p>III</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>II</p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>II</p></td></tr><tr><td><p>Camiña   : </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Calama:   </p></td><td><p>IV</p></td></tr><tr><td><p>Sierra   Gorda: </p></td><td><p>IV</p></td></tr><tr><td><p>María   Elena: </p></td><td><p>III</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.7 y se localizó a 61 Kms al Norte de Calama. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

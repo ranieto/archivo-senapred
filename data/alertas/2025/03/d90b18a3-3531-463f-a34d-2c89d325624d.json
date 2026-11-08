@@ -1,0 +1,20 @@
+{
+	"id": "d90b18a3-3531-463f-a34d-2c89d325624d",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la comuna de Palena por incendio forestal",
+	"fechaHora": "2025-03-20T20:32:08.088-03:00",
+	"createdAt": "2025-03-20T23:32:58.457Z",
+	"updatedAt": "2025-03-20T23:33:53.089Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-palena-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;comuna de Palena&nbsp;se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cerro La Cruz</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>2 brigadas y 3 técnicos de Conaf, Carabineros.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Palena, por incendio forestal, que se mantuvo vigente durante hoy 20 de marzo de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

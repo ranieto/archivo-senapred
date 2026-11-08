@@ -1,0 +1,20 @@
+{
+	"id": "e80b9500-82e6-4e97-9856-3ba4ec25f303",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Copiapó por incendio forestal ",
+	"fechaHora": "2024-01-06T21:42:00.000-03:00",
+	"createdAt": "2024-01-07T00:45:40.676Z",
+	"updatedAt": "2024-01-07T21:16:45.295Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-copiapo-por-incendio-forestal-2",
+	"parentId": "9af3bf5d-5d8e-4daa-8723-74c545547b93",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Copiapó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Copiapó\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto al incendio forestal en la comuna de Copiapó, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Valle Fértil.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">14,7 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos que trabajaron hoy</strong></p></td><td><p style=\"text-align:justify\">1 técnico, 2 brigadas de CONAF; junto a Bomberos de   Copiapó, Caldera, Inca de Oro, Diego de Almagro y Tierra Amarilla, con apoyo   de 2 camiones aljibe; Delegado Presidencial, Gobernador de Atacama, SEREMI de   Agricultura y particulares con el apoyo de maquinarias y camiones aljibe. Del   mismo modo presto apoyo el Avión Tankero MD 87.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla por incendio forestal para la comuna de Copiapó</strong>, la cual se mantiene vigente desde el 06 de enero y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

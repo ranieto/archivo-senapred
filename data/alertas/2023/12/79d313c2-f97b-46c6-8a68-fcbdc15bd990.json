@@ -1,0 +1,20 @@
+{
+	"id": "79d313c2-f97b-46c6-8a68-fcbdc15bd990",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Marchigüe por incendio forestal",
+	"fechaHora": "2023-12-22T16:25:00.000-03:00",
+	"createdAt": "2023-12-22T19:38:45.391Z",
+	"updatedAt": "2023-12-22T19:39:00.300Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-marchige-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> con relación al incendio forestal que se desarrolla en la comuna de Marchigüe, se indica el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Mallermo 1.</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">Controlado</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">327 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align: justify\">En consideración a lo anterior y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Amarilla por incendio forestal para la comuna de Marchigüe</strong>, que se mantuvo vigente desde el 21 de diciembre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

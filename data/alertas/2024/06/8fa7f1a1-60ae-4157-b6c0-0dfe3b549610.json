@@ -1,0 +1,20 @@
+{
+	"id": "8fa7f1a1-60ae-4157-b6c0-0dfe3b549610",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna Curacautín por amenaza de desborde ",
+	"fechaHora": "2024-06-14T06:35:31.3131-04:00",
+	"createdAt": "2024-06-14T10:37:01.165Z",
+	"updatedAt": "2024-06-14T10:37:32.841Z",
+	"urlAccess": "se-declara-alerta-roja-en-la-comuna-de-curacautin-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curacautín\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Blanco”, en la comuna de Curacautín, se encuentra en umbral azul por tendencia leve a la baja en su caudal, esto debido al debilitamiento de las condiciones que la originaron.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED de La Araucanía en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Amarilla por amenaza de desborde para la comuna Curacautín</strong>, <span style=\"color:black\">que se mantuvo vigente desde el 13 de junio de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

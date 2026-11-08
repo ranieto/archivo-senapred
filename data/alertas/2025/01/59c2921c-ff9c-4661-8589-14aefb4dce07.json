@@ -1,0 +1,20 @@
+{
+	"id": "59c2921c-ff9c-4661-8589-14aefb4dce07",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región de Ñuble por calor intenso",
+	"fechaHora": "2025-01-08T14:23:00.000-03:00",
+	"createdAt": "2025-01-08T20:04:53.536Z",
+	"updatedAt": "2025-01-13T01:16:05.919Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-uble-por-calor-intenso-6",
+	"parentId": "01bb9b94-ddd4-4f95-8fab-a097825a2b17",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>&nbsp;indica que se prevén temperaturas máximas de 34°C o más, a contar del sábado 11 de enero de 2025 y por al menos 2 días seguidos, en sectores de valle y precordillera de la Región de Ñuble.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble,&nbsp;</span><span style=\"color: black\">la&nbsp;</span><span style=\"color: black\">Dirección Regional de SENAPRED&nbsp;</span><strong><span style=\"color: black\">declara Alerta Amarilla Regional por calor intenso,&nbsp;</span></strong><span style=\"color: black\">vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\">SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del&nbsp;<strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

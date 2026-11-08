@@ -1,0 +1,20 @@
+{
+	"id": "833e5f3b-bb77-4a3e-b0fa-992620c0891a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2025-01-20T00:59:00.000-03:00",
+	"createdAt": "2025-01-20T04:05:46.673Z",
+	"updatedAt": "2025-01-21T12:03:45.150Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal-2",
+	"parentId": "b5d28b95-c2b5-4242-8358-be1873c9eafb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que se desarrolla en la comuna de Cauquenes, se informa lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\">Nombre del incendio</p></td><td><p style=\"text-align:justify\">Cancha Alegre 3</p></td></tr><tr><td><p style=\"text-align:justify\">Estado</p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\">Superficie</p></td><td><p style=\"text-align:justify\">120 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\">Observaciones</p></td><td><p style=\"text-align:justify\">Incendio forestal contenido con actividad dentro de la línea   de control.</p></td></tr><tr><td><p style=\"text-align:justify\">Recursos</p></td><td><p style=\"text-align:justify\">2 brigada nocturna de Conaf; 2 Brigadas y 1 técnico de   Arauco y 2 skidder.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Amarilla para la Comuna de Cauquenes</strong>, por incendio forestal, que se encuentra vigente desde el 19 de enero de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

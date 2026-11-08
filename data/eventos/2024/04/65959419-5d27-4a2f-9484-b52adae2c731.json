@@ -1,0 +1,20 @@
+{
+	"id": "65959419-5d27-4a2f-9484-b52adae2c731",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Regiones de Ñuble y Biobío",
+	"fechaHora": "2024-04-03T10:54:15.1515-03:00",
+	"createdAt": "2024-04-03T13:55:11.708Z",
+	"updatedAt": "2024-04-03T14:00:33.262Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-regiones-de-uble-y-biobio",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p><span style=\"font-size:16px\">Un sismo de mediana intensidad se percibió a las 10:52horas en la Regiones de Ñuble y Biobío.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Concepción:   </p></td><td><p>VI</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Chillán:   </p></td><td><p>IV</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

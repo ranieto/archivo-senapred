@@ -1,0 +1,20 @@
+{
+	"id": "408f1600-5474-4ae2-8024-ed4723017cac",
+	"type": "Alerta",
+	"titulo": "Se modifica variable de Alerta Temprana Preventiva para la Provincia del Loa y las Comunas de Antofagasta y Taltal por evento meteorológico",
+	"fechaHora": "2025-12-03T15:59:54.5454-03:00",
+	"createdAt": "2025-12-03T19:01:17.296Z",
+	"updatedAt": "2025-12-06T14:32:56.139Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-las-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2025-11-30-16-01-48",
+	"parentId": "a38232d2-dcf5-45e0-bb3e-8f9879733d37",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa, Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta, Taltal\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de&nbsp;Antofagasta:</p><p><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Alertamiento</strong></p></td><td><p style=\"text-align:justify\"><strong>Pronóstico</strong></p></td><td><p style=\"text-align:justify\"><strong>Inicio</strong></p></td><td><p style=\"text-align:justify\"><strong>Fin</strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A462-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en cordillera.</p></td><td><p style=\"text-align:justify\">03-12</p></td><td><p style=\"text-align:justify\">05-12</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A466</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en cordillera.</p></td><td><p style=\"text-align:justify\">03-12</p></td><td><p style=\"text-align:justify\">05-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">En base a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED&nbsp;<strong>modifica la variable de Alerta Temprana Preventiva a evento meteorológico para la provincia de El Loa y las comunas de Antofagasta y Taltal</strong>, que se encuentra vigente desde el 30 de noviembre.</p><p style=\"text-align: justify\"><br></p><p><span style=\"font-size:14px\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7e8eae6a-5bea-4a62-aef3-dc35c5a7f3f6",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la Provincia de Isla de Pascua por incendio forestal",
+	"fechaHora": "2023-11-23T14:24:24.2424-03:00",
+	"createdAt": "2023-11-23T17:25:21.419Z",
+	"updatedAt": "2023-11-23T17:26:47.322Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-isla-de-pascua-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, respecto al incendio forestal en la comuna de Isla de Pascua, se reporta el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cerro de Ahu Akivi</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2,2 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla </strong>para la Provincia de Isla de Pascua por incendio forestal, que se mantuvo vigente desde el 22 de noviembre de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

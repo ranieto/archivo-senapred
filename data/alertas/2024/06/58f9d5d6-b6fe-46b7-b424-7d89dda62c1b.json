@@ -1,0 +1,20 @@
+{
+	"id": "58f9d5d6-b6fe-46b7-b424-7d89dda62c1b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de Los Lagos y Máfil por amenaza de desborde ",
+	"fechaHora": "2024-06-29T13:06:45.4545-04:00",
+	"createdAt": "2024-06-29T17:09:10.574Z",
+	"updatedAt": "2024-06-29T17:11:53.282Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-los-lagos-mafil-y-valdivia-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Los Lagos, Máfil\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong> se indica que la estación de la red hidrométrica “Río Calle-Calle en Pupunahue” ha disminuido sus valores de caudal, alcanzado el umbral azul, con una tendencia a la baja, situación que fue verificada por visitas en terreno realizadas por los encargados comunales de Gestión del Riesgo de Desastres en coordinación con el Director Regional del SENAPRED.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para las comunas de Los Lagos y Máfil, </strong>que se mantuvo vigente desde el 27 de junio de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

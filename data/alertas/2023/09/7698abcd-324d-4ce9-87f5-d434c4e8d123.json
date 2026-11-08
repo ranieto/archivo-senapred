@@ -1,0 +1,20 @@
+{
+	"id": "7698abcd-324d-4ce9-87f5-d434c4e8d123",
+	"type": "Alerta",
+	"titulo": "Alerta creada con otra cuenta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-08T22:18:41.854Z",
+	"updatedAt": "2023-09-20T14:07:30.582Z",
+	"urlAccess": "alerta-creada-con-otra-cuenta",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>asdf</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "0bfbb016-03e9-4858-9649-1fc4ac173190"
+}

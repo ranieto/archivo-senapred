@@ -1,0 +1,20 @@
+{
+	"id": "8526b1f7-7342-4fb7-b76d-3a33337ef7f8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Curicó por incendio forestal",
+	"fechaHora": "2024-02-02T17:54:00.000-03:00",
+	"createdAt": "2024-02-02T21:10:26.653Z",
+	"updatedAt": "2024-02-03T21:57:58.515Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curico-por-incendio-forestal",
+	"parentId": "30e7a23d-b358-4de1-ab0d-245000e935bf",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curicó\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Curicó, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Santa Laura</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate&nbsp;</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>5 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio presenta comportamiento extremo con emisión de pavesas y se encuentra cercano a sectores habitados</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>3 brigadas de CONAF, 4 aviones de CONAF y 2 helicópteros de CONAF&nbsp;</div></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:#212529\">Información adicional: Cabe destacar que a raíz de este incendio se envió 1 mensaje SAE para apoyar el proceso de evacuación de los sectores Sarmiento y Callejón Santa Julia.</span></p><p style=\"text-align:justify\"><span style=\"color:#212529\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para la comuna de Curicó por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:#212529\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

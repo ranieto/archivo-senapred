@@ -1,0 +1,20 @@
+{
+	"id": "9afd50cc-de9c-4915-a09a-e2f8230341aa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2023-11-19T07:52:01.011-03:00",
+	"createdAt": "2023-11-19T10:52:48.591Z",
+	"updatedAt": "2023-11-19T10:53:59.482Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-regional-para-la-region-del-biobio-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los Avisos Meteorológicos A442/2023 y A445-1/2023, que pronosticaron precipitaciones normales a moderadas en precordillera y viento normal a moderado en cordillera, respectivamente. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong> por evento meteorológico, que se mantuvo vigente desde el 15 de noviembre de 2023.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

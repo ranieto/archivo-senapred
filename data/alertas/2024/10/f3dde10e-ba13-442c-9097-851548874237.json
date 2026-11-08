@@ -1,0 +1,20 @@
+{
+	"id": "f3dde10e-ba13-442c-9097-851548874237",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Paine por incendio forestal",
+	"fechaHora": "2024-10-29T18:54:59.5959-03:00",
+	"createdAt": "2024-10-29T22:12:50.188Z",
+	"updatedAt": "2024-10-29T22:13:21.532Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-paine-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Paine\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de Paine, se informa el siguiente detalle:<br></p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Aguila   sur</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>30   hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Al   momento de este informe trabajan en el lugar bomberos de Paine, 5 brigadas y   9 técnicos de CONAF, 1 ambulancia de la Achs, además de 1 helicóptero de   CONAFY y 2 de SENPRED</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Paine, por incendio forestal, que se mantuvo vigente desde el 28 de octubre de 2024</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

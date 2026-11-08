@@ -1,0 +1,20 @@
+{
+	"id": "b822542b-c7dd-4eef-9ae2-dfbf9cb2c51f",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Temprana Preventiva para las comuna de Cabo de Hornos y Timaukel por bajas temperaturas",
+	"fechaHora": "2024-06-07T16:12:57.5757-04:00",
+	"createdAt": "2024-06-07T20:15:07.843Z",
+	"updatedAt": "2024-06-11T20:56:38.009Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-cabo-de-hornos-por-bajas-temperaturas",
+	"parentId": "0ea9c34b-688d-4a77-91f8-f58eda4b9a7c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Antártica Chilena, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Timaukel\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A191-1</p></td><td><p style=\"text-align:justify\">Evento   de bajas temperaturas con formación de hielo en las comunas de Cabo de Hornos   y Timaukel.</p></td><td><p style=\"text-align:justify\">08-06</p></td><td><p style=\"text-align:justify\">11-06</p></td></tr></tbody></table><p style=\"text-align:justify\">Por otra parte, de acuerdo con lo indicado por el Centro Meteorológico Regional Austral, las temperaturas mínimas esperadas entre los días 08 y 11 de junio en las comunas de Cabo de Hornos y Timaukel, alcanzarán los -5 y -9°C.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes meteorológicos y a la existencia de factores propicios para la ocurrencia de eventos como congelamiento interior de medidores, cañerías de agua y gas, presencia de escarcha en vías de circulación, tanto como rural como urbana, afectación a predios agrícolas y ganaderos, entre otros la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial Regional, <strong>modifica la cobertura de la Alerta Temprana Preventiva por bajas temperaturas, para las comuna de Cabo de Hornos y Timaukel </strong>que se mantiene vigente desde el 05 de junio de 2024 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

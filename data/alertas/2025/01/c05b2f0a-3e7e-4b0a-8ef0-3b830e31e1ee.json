@@ -1,0 +1,20 @@
+{
+	"id": "c05b2f0a-3e7e-4b0a-8ef0-3b830e31e1ee",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la provincia de El Loa y comunas de Antofagasta y Taltal por evento meteorológico",
+	"fechaHora": "2025-01-23T13:46:00.000-03:00",
+	"createdAt": "2025-01-23T16:48:06.984Z",
+	"updatedAt": "2025-02-12T01:28:56.867Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-evento-meteorologico",
+	"parentId": "8db24ba4-c92a-49ec-a740-4ee8e61d4e2f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"El Loa, Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Taltal, Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) </strong>se encuentra actualizado el siguiente alertamiento meteorológico para la Región de Antofagasta:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">A20-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas asociadas con chubascos aislados en cordillera.</p></td><td><p style=\"text-align:center\">23-01</p></td><td><p style=\"text-align:center\">28-01</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva</strong><strong>para la p</strong></span><strong><span style=\"color:black\">rovincia de El Loa y comunas de Antofagasta y Taltal, </span><span style=\"color:black\">por evento meteorológico</span></strong><span style=\"color:black\">, que se mantiene vigente desde el 15 de enero y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

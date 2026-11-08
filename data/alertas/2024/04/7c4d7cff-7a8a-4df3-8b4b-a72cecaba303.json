@@ -1,0 +1,20 @@
+{
+	"id": "7c4d7cff-7a8a-4df3-8b4b-a72cecaba303",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de San Pedro por incendio forestal",
+	"fechaHora": "2024-04-16T17:41:49.4949-04:00",
+	"createdAt": "2024-04-16T21:42:55.043Z",
+	"updatedAt": "2024-04-17T22:21:19.342Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal-4",
+	"parentId": "39f9e939-5cfb-4ecf-8beb-111028b611ef",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Pedro\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de San Pedro, se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Los Quillayes</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>30 hectáreas </p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Al momento, el   incendio se encuentra cercano a sectores habitados.</p></td></tr><tr><td><p><strong>Recursos </strong></p></td><td><p>2 brigadas, 2   técnicos, 2 aviones cisterna y 1 camión cisterna de Conaf.</p><p>En trayecto: 6   brigadas, 1 helicóptero y 1 skidder de Conaf; 1 camión cisterna y 3 aviones   cisterna.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de San Pedro por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span><span style=\"font-size:12px;color:#212529\"><br><br></span><span style=\"font-size:14px;color:#2E2E2E\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

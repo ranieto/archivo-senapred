@@ -1,0 +1,19 @@
+{
+	"id": "aa517c03-dc19-488b-b0b4-ee93a46a833a",
+	"type": "Evento",
+	"titulo": "Incendio Forestal, Comuna de Valparaíso",
+	"fechaHora": "2025-01-15T18:18:00.000-03:00",
+	"createdAt": "2025-01-15T22:06:18.779Z",
+	"updatedAt": "2025-01-17T15:42:33.394Z",
+	"urlAccess": "incendio-forestal-comuna-de-valparaiso",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF) y la Dirección Regional del SENAPRED Valparaíso, se reporta la ocurrencia de un incendio forestal al interior de la Reserva Nacional Lago Peñuelas, comuna de Valparaíso. El incendio forestal denominado “Guardería La Ballica” se encuentra en combate, con una superficie aproximada de 7 hectáreas de vegetación consumida por el fuego.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar 3 técnicos, 13 brigadas, 4 helicópteros, 8 aviones, 3 vehículos PC-CODE, 5 camiones cisterna, 2 maquinarias pesadas y 1 puesto de mando de CONAF; junto a Bomberos de Valparaíso y 2 camiones aljibe municipales.</p>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "47c0ffc4-5c32-4683-ac09-06fd5e507bd8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por amenaza de incendios forestales",
+	"fechaHora": "2026-03-01T20:15:00.000-03:00",
+	"createdAt": "2026-03-02T00:00:03.565Z",
+	"updatedAt": "2026-03-02T00:01:30.290Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-amenaza-de-incendios-forestales-2026-02-18-19-41-15",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED cancela Alerta Temprana Preventiva regional por amenaza deincendios forestales, con base a la información técnica proporcionada por CONAF, que señala lo siguiente:Término de las condiciones de riesgo que dieron origen a su declaración, conforme al análisis realizado pordicho organismo técnico.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "3ea55574-62dc-4f16-8612-5a621cd0c7a5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Collipulli por crecida",
+	"fechaHora": "2025-07-31T09:15:00.000-04:00",
+	"createdAt": "2025-07-31T13:25:55.113Z",
+	"updatedAt": "2025-08-01T02:47:46.488Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-collipulli-por-crecida",
+	"parentId": "bc2a2944-0dbe-434b-a6b4-9cc672250ba0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con lo informado por la Dirección General de Aguas (DGA)</strong>, mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación del “Río Mininco en Longitudinal”, se encuentra en el umbral de alerta amarilla, el cual, si continúa aumentando el caudal, podría ocasionar afectación a personas y daños en infraestructuras de la comuna.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED La Araucanía en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Amarilla para la comuna de Collipulli por crecida, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la alerta amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

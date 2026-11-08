@@ -1,0 +1,20 @@
+{
+	"id": "46065035-9075-432e-b283-73923817de7c",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de Los Lagos y Máfil por amenaza de desborde ",
+	"fechaHora": "2024-06-27T12:03:49.4949-04:00",
+	"createdAt": "2024-06-27T16:05:07.759Z",
+	"updatedAt": "2024-06-29T17:09:11.810Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-los-lagos-mafil-y-valdivia-por-amenaza-de-desborde",
+	"parentId": "58f9d5d6-b6fe-46b7-b424-7d89dda62c1b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Los Lagos, Máfil\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) se indica que la estación de red hidrométrica “Río Leufucade en Purulón” ha alcanzado valores del umbral de Alerta Roja, por lo cual fue declarada Alerta Roja para la comuna de Valdivia por desborde (Reporte N° 463-B).<br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional de SENAPRED <strong>modifica la cobertura de la Alerta Amarilla por amenaza de desborde para las comunas de Los Lagos y Máfil, </strong>la cual se encuentra vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la modificación de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

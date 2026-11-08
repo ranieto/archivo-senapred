@@ -1,0 +1,20 @@
+{
+	"id": "e4bce6f2-d0e7-4f2e-add4-0577822bb090",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Lautaro por incendio forestal",
+	"fechaHora": "2024-01-24T20:41:00.000-03:00",
+	"createdAt": "2024-01-24T23:44:28.877Z",
+	"updatedAt": "2024-01-25T23:31:56.327Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lautaro-por-incendio-forestal",
+	"parentId": "9ab8da7f-a688-49f9-abdd-55a01792a7c4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"</span><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Camino La Colonia\"</span>, en la comuna de Lautaro, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Camino La Colonia</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>30 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Incendio activo en el frente de avance y flanco   izquierdo del incendio con intensidad y propagación media, restantes sectores   sin avance.</span></p><p><span style=\"color:black\">Incendio se desarrolla cercano a sectores   habitados.</span></p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la Comuna de Lautaro por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color:#2E2E2E\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

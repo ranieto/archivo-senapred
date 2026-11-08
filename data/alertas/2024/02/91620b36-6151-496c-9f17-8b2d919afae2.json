@@ -1,0 +1,20 @@
+{
+	"id": "91620b36-6151-496c-9f17-8b2d919afae2",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región del Biobío por incendios forestales",
+	"fechaHora": "2024-02-10T12:51:16.1616-03:00",
+	"createdAt": "2024-02-10T15:51:59.629Z",
+	"updatedAt": "2024-02-22T16:16:55.524Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-incendios-forestales",
+	"parentId": "7576b208-e036-4da8-a175-05f5c8d28c1c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, mediante la actualización de su Aviso Meteorológico A30-1/2024, se pronostica un evento de altas temperaturas hasta la tarde del martes 13 de febrero, en la Región del Biobío. De la misma forma, se prevé la ocurrencia de vientos en sectores de valle y precordillera de la región, situación que supone un aumento de la probabilidad de ocurrencia de incendios forestales.</span><br></p><p><span style=\"color:black\">Respecto al incendio forestal en la comuna de Mulchén se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Mininco VIII   (Huelehueico)</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>102,96   hectáreas</p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional del SENAPRED mantiene la Alerta Amarilla para la Región de Biobío, por incendios forestales, que se encuentra vigente desde el 03 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c0be579e-1317-4cdf-a91b-ba8b294c3ace",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2023-10-24T16:42:00.000-03:00",
+	"createdAt": "2023-10-25T22:41:25.410Z",
+	"updatedAt": "2023-11-03T04:13:07.312Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento",
+	"parentId": "036f9f52-2ddc-4d94-92b3-8e58c66574f9",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento técnico para la Región de Antofagasta:</p><table><tbody><tr><td><div><strong>Aviso A404-1</strong></div></td><td><div><strong>Viento normal a moderado</strong>en los sectores de cordillera costa, pampa, precordillera, precordillera salar y cordillera, durante los viernes 27 y sábado 28 de octubre.</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente, que supone un aumento del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED&nbsp;<strong>declara Alerta Temprana Preventiva regional</strong>, por viento, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p style=\"text-align: justify\"><em><strong>SENAPRED</strong>recomiendaa la poblacióninformarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

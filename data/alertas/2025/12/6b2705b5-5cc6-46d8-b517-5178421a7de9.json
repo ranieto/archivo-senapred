@@ -1,0 +1,20 @@
+{
+	"id": "6b2705b5-5cc6-46d8-b517-5178421a7de9",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para las provincias de San Antonio, Valparaíso, Quillota, Petorca y Marga Marga por calor intenso",
+	"fechaHora": "2025-12-26T11:29:00.000-03:00",
+	"createdAt": "2025-12-26T14:38:30.079Z",
+	"updatedAt": "2025-12-26T14:38:40.244Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-san-antonio-valparaiso-quillota-petorca-y-marga-marga-por-calor-intenso-2025-12-22-16-14-17",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> ha sido cancelado el Aviso A492-1/2025, el cual pronosticaba altas temperaturas en litoral, cordillera de la costa, precordillera y valles precordilleranos de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por calor intenso para las provincias de San Antonio, Valparaíso, Quillota, Petorca y Marga Marga, </strong>que se mantuvo vigente desde el 22 de diciembre de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "03174da9-f489-4e79-97f8-f3082f824c04",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Arauco por desborde",
+	"fechaHora": "2026-07-27T14:10:50.5050-04:00",
+	"createdAt": "2026-07-27T18:12:11.541Z",
+	"updatedAt": "2026-07-27T18:13:13.446Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-07-26-14-51-05",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Pichilo en Pichilo” ubicada en la comuna de Arauco, ha disminuido su caudal, encontrándose en umbral de alerta azul, lo que supone una disminución del riesgo para la población cercana a este curso de agua.</p><p><br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja para la comuna de Arauco por desborde</strong>, que se mantuvo vigente desde el 26 de julio del 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b8a8ca4a-88aa-4890-9e21-235094849beb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por bajas temperaturas",
+	"fechaHora": "2024-08-08T10:12:00.000-04:00",
+	"createdAt": "2024-08-08T14:23:20.932Z",
+	"updatedAt": "2024-08-08T14:24:04.571Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-bajas-temperaturas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A299</p></td><td><p style=\"text-align:justify\">Evento   de bajas temperaturas con probabilidad de formación de escarcha en las zonas   Insular Sur, Pampa Patagónica Norte y Pampa Patagónica Sur</p></td></tr></tbody></table><p style=\"text-align:justify\">Asimismo, en consideración a lo indicado por el Centro Meteorológico Regional Austral, se espera un aumento de las temperaturas máximas, lo que supone una disminución de la amenaza asociada a la condición meteorológica y la reducción del factor de riesgo para los habitantes y sus bienes.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED,<strong> cancela la Alerta Temprana Preventiva Regional por bajas temperaturas, </strong>que se encontraba vigente desde el 04 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "f3b50163-69ad-46d0-8247-2f79ccf7b700",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por desborde y cancela Alerta Amarilla por amenaza de desborde para la comuna de Arauco",
+	"fechaHora": "2024-06-20T09:00:00.000-04:00",
+	"createdAt": "2024-06-20T13:03:14.907Z",
+	"updatedAt": "2024-06-22T23:18:46.758Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-2",
+	"parentId": "eafebe43-44e7-4232-83b7-fb939ca409c2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación “Río Pichilo” en el sector de Pichilo, de la comuna de Arauco, se encuentra en Alerta Roja, la estación “Río Lía” en umbral de Alerta Amarilla y la estación “Río Biobío” en su desembocadura se encuentra en umbral azul.<br></p><p style=\"text-align:justify\">Adicionalmente, la Dirección Meteorológica de Chile (DMC), pronostica precipitaciones para la región durante los próximos días. &nbsp;</p><p style=\"text-align:justify\">En consideración a estos antecedentes la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>declara Alerta Roja <span style=\"color:black\">por desborde y cancela Alerta Amarilla por amenaza de desborde, para la comuna de Arauco</span></strong>, vigente a partir de hoy y hasta que las condiciones meteorológicas así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

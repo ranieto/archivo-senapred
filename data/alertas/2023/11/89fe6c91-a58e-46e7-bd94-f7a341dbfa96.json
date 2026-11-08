@@ -1,0 +1,20 @@
+{
+	"id": "89fe6c91-a58e-46e7-bd94-f7a341dbfa96",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Antofagasta por evento zoosanitario",
+	"fechaHora": "2023-02-24T19:50:00.000-03:00",
+	"createdAt": "2023-11-15T20:48:08.561Z",
+	"updatedAt": "2023-12-02T14:38:01.241Z",
+	"urlAccess": "se-cancela-alerta-amarilla-y-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-evento-zoosanitario",
+	"parentId": "a05e9b8a-15c7-4b45-be4d-f629ebbb4a7e",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), en relación con el avance de la emergencia zoosanitaria por Influenza Aviar H5N1 en la Región de Antofagasta, se informa lo siguiente:</p><table><tbody><tr><td><div>Control sanitario</div></td><td><div>10 zonas</div></td></tr><tr><td><div>Comunas afectadas</div></td><td><div>Tocopilla, Mejillones, Hornitos, Antofagasta y Taltal</div></td></tr><tr><td><div>Cantidad de aves muertas</div></td><td><div>4.099</div></td></tr><tr><td><div>Especies afectadas</div></td><td><div>Pelicano, Pelicano Piqueros, Gaviota Peruana, Gaviota Garuma, Jote cabeza colorada y Huairavo.</div></td></tr><tr><td><div>Información adicional</div></td><td><div>El 15 de febrero se confirmó el primer caso positivo de gripe aviar en una especie de lobo marino, el cual fue encontrado en la Playa El Huáscar, ciudad de Antofagasta.</div></td></tr></tbody></table><p>En consideración a estos antecedentes, la Dirección Regional de SENAPRED en coordinación con la Delegación Provincial Regional de Antofagasta, actualiza la Alerta Temprana Preventiva regional, por evento zoosanitario, que se encuentra vigente desde el 10 de diciembre de 2022.<br></p><p><br>La Dirección Regional del SENAPRED en coordinación con el SAG establece un polígono de seguridad para el sector establecido para la disposición final de las aves muertas, por lo cual, se está gestionando su ampliación para cumplir con la capacidad, siendo coordinado con maquinaria pesada y personal de la municipalidad de Antofagasta.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

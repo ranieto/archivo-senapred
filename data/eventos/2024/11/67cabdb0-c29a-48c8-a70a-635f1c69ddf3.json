@@ -1,0 +1,19 @@
+{
+	"id": "67cabdb0-c29a-48c8-a70a-635f1c69ddf3",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Antofagasta",
+	"fechaHora": "2024-11-24T10:16:31.3131-03:00",
+	"createdAt": "2024-11-24T13:18:22.749Z",
+	"updatedAt": "2024-11-24T13:18:22.749Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-33",
+	"parentId": "fa583aa0-a5a4-4261-8480-5df25d771418",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad fue percibido a las 09:57 horas en la Región de Antofagasta.</p><p>Las intensidades en Escala de Mercalli son:</p><p><br></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Antofagasta</strong></div></td></tr><tr><td><div>María Elena:</div></td><td><div>III</div></td></tr><tr><td><div>Tocopilla:</div></td><td><div>II</div></td></tr></tbody></table><p><br><span style=\"color: rgb(36, 36, 36);font-size: 15px\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.</span></p><p><span style=\"color: rgb(36, 36, 36);font-size: 15px\">No se reportan daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br></span></p><p><span style=\"color: rgb(36, 36, 36);font-size: 15px\">Centro Sismológico Nacional indica que la magnitud del sismo fue 4.9, localizado 46 Km al Este de Calama.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

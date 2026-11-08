@@ -1,0 +1,20 @@
+{
+	"id": "56d75bd1-dbcb-4734-8484-1782ff37e900",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por Calor intenso",
+	"fechaHora": "2025-02-09T22:06:00.000-03:00",
+	"createdAt": "2025-02-10T01:10:34.175Z",
+	"updatedAt": "2025-02-10T01:11:38.457Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui, Choapa, Limarí\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"La Higuera, Río Hurtado, Monte Patria, Combarbalá, Illapel, Salamanca, Vicuña, Paihuano\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"font-size:12px;color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"font-size:12px;color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size:12px\">Aviso   A40-4</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:12px\">Altas temperaturas   en cordillera de la costa, precordillera y valles precordilleranos. </span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por Calor intenso para las </strong></span><strong><span style=\"color:black\">comunas de La Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca</span><span style=\"color:black\">,</span></strong><span style=\"color:black\"> que se mantuvo vigente desde el 04 de febrero de 2025. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

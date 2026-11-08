@@ -1,0 +1,20 @@
+{
+	"id": "d4f5ffcb-dc0e-41fd-896e-a78ae12a50e6",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la Región de Atacama por altas temperaturas",
+	"fechaHora": "2023-11-03T22:58:00.000-03:00",
+	"createdAt": "2023-11-04T02:00:38.649Z",
+	"updatedAt": "2023-11-04T02:02:26.995Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-altas-temperaturas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A425/2023, que pronosticó un evento de altas temperaturas en los sectores de cordillera de la costa, valle y pampa, durante la jornada de hoy.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por altas temperaturas</strong>, que se mantuvo vigente durante el día de hoy.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

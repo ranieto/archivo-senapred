@@ -1,0 +1,20 @@
+{
+	"id": "f8179afb-c400-4f9a-aa22-3eab1718531b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Colina por incendio forestal",
+	"fechaHora": "2024-11-26T21:39:43.4343-03:00",
+	"createdAt": "2024-11-27T00:42:49.235Z",
+	"updatedAt": "2024-11-27T00:58:32.894Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-colina-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal \"Rukan\" se encuentra \"en combate\", con una superficie aproximada de 2 hectáreas de vegetación en la comuna de Colina. Cabe señalar que este incendio ya no presenta amenaza a viviendas cercanas.</p><div><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Rukán</div></td></tr><tr><td><div>Comuna&nbsp;</div></td><td><div>Colina</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>2</div></td></tr><tr><td><div>Recursos</div></td><td><div>1 brigada de Bomberos, 4 brigadas CONAF, 4 técnicos CONAF y 1 camión cisterna CONAF</div></td></tr></tbody></table></div><hr><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Colina, por incendio forestal, que se mantuvo vigente desde el 26 de noviembre de 2024.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

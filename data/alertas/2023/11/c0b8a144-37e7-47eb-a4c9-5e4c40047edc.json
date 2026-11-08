@@ -1,0 +1,20 @@
+{
+	"id": "c0b8a144-37e7-47eb-a4c9-5e4c40047edc",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Porvenir por incendio forestal",
+	"fechaHora": "2023-11-09T16:46:00.000-03:00",
+	"createdAt": "2023-11-09T19:58:02.534Z",
+	"updatedAt": "2023-11-16T22:56:59.913Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-porvenir-por-incendio-forestal-2",
+	"parentId": "5e0e1f7c-7245-4994-8f0f-fb7ef1cfe43e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Porvenir\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: black\">, se reporta un incendio forestal en la comuna de Porvenir conforme al siguiente detalle:</span><br></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Las Mercedes - Caupolicán</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">0,01 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Fundamentación   técnica</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio con   comportamiento extremo, debido a las condiciones meteorológicas del sector. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, se informa   que existe dificultad para el traslado de los combatientes, ya que es por vía   marítima y puede verse afectado por las condiciones climáticas.</span></p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla </strong>para la comuna de Porvenir por incendio forestal, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente. </span></a></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

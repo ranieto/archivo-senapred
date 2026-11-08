@@ -1,0 +1,20 @@
+{
+	"id": "dd2f7512-a725-4518-872a-74285b15c8d8",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Antofagasta y Atacama ",
+	"fechaHora": "2024-06-26T09:37:21.2121-04:00",
+	"createdAt": "2024-06-26T13:39:50.068Z",
+	"updatedAt": "2024-06-26T13:39:50.068Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-antofagasta-y-atacama",
+	"parentId": "3b37d499-ce4b-4784-ba0f-889bc3c51619",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta, Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><u>Información del Sismo</u><br></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>26/06/2024   - 09:19</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>26/06/2024   - 09:37</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>V   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>124-D</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Taltal:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>V</p></td></tr><tr><td><p>Caldera:   </p></td><td><p>IV</p></td></tr><tr><td><p>Chañaral:   </p></td><td><p>IV</p></td></tr><tr><td><p>Diego   de Almagro: </p></td><td><p>IV</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>II</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. <br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Modificación de los datos técnicos del sismo, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>5.1</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -26.1<br>   Longitud: -70.97</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>44   Kms al Noroeste de Chañaral</p></td></tr><tr><td><p>Región:   </p></td><td><p>Atacama</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>43</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4b51a01e-58d0-4854-9bc1-86bc88119c39",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por tormentas eléctricas",
+	"fechaHora": "2025-05-29T21:01:00.000-04:00",
+	"createdAt": "2025-05-30T01:01:52.543Z",
+	"updatedAt": "2025-05-30T11:51:14.637Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelado el siguiente alertamiento meteorológico para Isla de Pascua en la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que la originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA41</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas en Isla de Pascua.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la</strong><strong>Alerta Temprana Preventiva </strong><strong>para la Provincia de Isla de Pascua </strong><strong>por </strong><strong>tormentas eléctricas</strong>, que se encontraba vigente desde hoy 29 de mayo del 2025.</p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

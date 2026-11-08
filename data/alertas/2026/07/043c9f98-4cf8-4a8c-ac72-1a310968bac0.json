@@ -1,0 +1,20 @@
+{
+	"id": "043c9f98-4cf8-4a8c-ac72-1a310968bac0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de San Fabián y Ñiquén por crecida ",
+	"fechaHora": "2026-07-29T12:01:00.000-04:00",
+	"createdAt": "2026-07-29T16:23:38.168Z",
+	"updatedAt": "2026-07-29T16:24:19.265Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-fabian-y-iquen-por-crecida-2026-07-26-19-21-53",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, las estaciones hidrométricas de la región registran un descenso en sus caudales, alcanzando valores por debajo de los umbrales de alerta.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por crecida para las comunas de San Fabián y Ñiquén,</strong> que se mantuvo vigente desde el 26 de julio de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

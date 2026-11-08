@@ -1,0 +1,20 @@
+{
+	"id": "9c4ea471-8d6f-4d5e-87f1-e977534b62e1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Provincia de Los Andes por alteración sanitaria ",
+	"fechaHora": "2025-08-19T14:00:00.000-04:00",
+	"createdAt": "2025-08-19T18:08:57.402Z",
+	"updatedAt": "2026-03-07T21:50:24.155Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria",
+	"parentId": "f03fe476-ed37-4d0d-9cfe-58c84417e6cd",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la SEREMI de Salud de Valparaíso, entre los años 2023 y 2025 se ha confirmado la presencia del vector <em>Aedes aegypti </em>en la Provincia de Los Andes, decretándose Alerta Sanitaria (Decreto MINSAL N°28/2023 y sus modificaciones). En 2025 (hasta semana 19) se han registrado <strong>155 casos</strong>, confirmándose <strong>4 de dengue</strong> y <strong>1 de chikungunya</strong>, todos importados.</p><p style=\"text-align:justify\"></p><table><tbody><tr><td colspan=\"3\"><p style=\"text-align:center\"><strong><span style=\"color:black\">SEGUIMIENTO ALERTA SANITARIA   2023 - 2025</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Año</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Total de hallazgos foco vector</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Casos confirmados de   Arbovirosis importados</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">2023</p></td><td><p style=\"text-align:center\">13 </p></td><td><p style=\"text-align:center\">1</p></td></tr><tr><td><p style=\"text-align:center\">2024</p></td><td><p style=\"text-align:center\">18</p></td><td><p style=\"text-align:center\">7</p></td></tr><tr><td><p style=\"text-align:center\">2025</p></td><td><p style=\"text-align:center\">11</p></td><td><p style=\"text-align:center\">5</p></td></tr></tbody></table><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">Desde la SEREMI de Salud indican que si bien los hallazgos detectados en el transcurso de 2025 se encuentran aún bajos, de acuerdo con la notificación de los años 2023-2024, se debe tener en consideración que existe una tendencia estacional al alza, ya que se concentran predominantemente en los meses de verano (entre las semanas epidemiológicas 9 a 18), lo que es coherente con la biología del <em>Aedes aegypti</em>, cuya actividad se intensifica en climas cálidos y húmedos. </p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por alteración sanitaria para la Provincia de Los Andes</strong>, que permanece vigente desde el 16 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">Producto de lo anterior, la concentración de muestras en este periodo sugiere la necesidad de intensificar las medidas de control durante la temporada estival para evitar la proliferación de nuevas poblaciones.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">De este modo, las principales acciones frente a la amenaza se dirigen al control del vector evitando su diseminación a otros territorios y la detección temprana de casos de Arbovirosis importados para evitar posibilidad de traspaso vectorial de estas enfermedades y el origen de casos autóctonos (brote).</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

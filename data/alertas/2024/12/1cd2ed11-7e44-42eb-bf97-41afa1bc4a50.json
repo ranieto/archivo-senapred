@@ -1,0 +1,20 @@
+{
+	"id": "1cd2ed11-7e44-42eb-bf97-41afa1bc4a50",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Marchihue por incendio Forestal",
+	"fechaHora": "2024-12-18T22:09:00.000-03:00",
+	"createdAt": "2024-12-19T01:13:09.893Z",
+	"updatedAt": "2024-12-19T01:13:28.037Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchihue-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con </span><strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"color: black\"> respecto del incendio forestal que se encuentra en la comuna de Marchihue, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Nombre del incendio</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">El Chequen </span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Estado</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En Combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Superficie</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">112 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:black\">Observaciones</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Incendio forestal se encuentra en combate y contenido en todos   sus sectores. Asimismo, a la hora del presente informe, las condiciones   climáticas presentes en la zona son desfavorables</span></p><p style=\"text-align:justify\"><span style=\"color:black\">para su propagación y no posee riesgos.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la comuna de Marchihue</strong>, por incendio forestal, que se mantuvo vigente desde el 18 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

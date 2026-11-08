@@ -1,0 +1,20 @@
+{
+	"id": "3adb4bef-c31f-4e7b-afc2-ebdcccbe8d0c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Viña del Mar, Quilpué, Villa Alemana,Los Andes, San Esteban y Putaendo por evento meteorológico",
+	"fechaHora": "2024-05-27T11:31:00.000-04:00",
+	"createdAt": "2024-05-27T15:39:54.525Z",
+	"updatedAt": "2024-05-27T15:40:10.518Z",
+	"urlAccess": "se--declara-alerta-temprana-preventiva-para-las-comunas-de-vina-del-mar-quilpue-y-villa-alemana-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Los Andes, Marga Marga, Valparaíso\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Viña del Mar, Quilpué, Villa Alemana, Los Andes, San Esteban\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso A172-1 que pronosticaba probables tormentas eléctricas en litoral y cordillera de la costa de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED en coordinación con la Delegación Presidencial Regional de Valparaíso, <strong>cancela Alerta Temprana Preventiva por evento meteorológico, </strong>para las comunas de Viña del Mar, Quilpué, Villa Alemana,</span><span style=\"color:black\">Los Andes, San Esteban y Putaendo, la cual se mantuvo vigente desde el 17 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

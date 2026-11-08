@@ -1,0 +1,20 @@
+{
+	"id": "09fc5482-f861-4525-b8de-c6c7d98f74fc",
+	"type": "Alerta",
+	"titulo": " Se actualiza Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2025-06-10T16:31:00.000-04:00",
+	"createdAt": "2025-06-10T20:52:15.730Z",
+	"updatedAt": "2025-06-18T16:14:11.234Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-10",
+	"parentId": "b871c815-fcbe-417a-9d4c-f62d0bc00485",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región Metropolitana:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA42</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte en cordillera de la costa, valle y precordillera.</p></td><td><p style=\"text-align:center\">11-06</p></td><td><p style=\"text-align:center\">12-06</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A204-2 </p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en cordillera de la costa, valle y precordillera.</p></td><td><p style=\"text-align:center\">12-06</p></td><td><p style=\"text-align:center\">12-06</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A205-4</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera de la costa, valle, precordillera y   cordillera.</p></td><td><p style=\"text-align:center\">11-06</p></td><td><p style=\"text-align:center\">12-06</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A210</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas en precordillera y cordillera.</p></td><td><p style=\"text-align:center\">11-06</p></td><td><p style=\"text-align:center\">12-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva regional por evento meteorológico, </strong>que se mantienevigente desde hoy 10 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

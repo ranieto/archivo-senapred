@@ -1,0 +1,20 @@
+{
+	"id": "6c01b78f-5ce0-4c80-b482-3095be6dbf0d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Hijuelas por incendio forestal",
+	"fechaHora": "2024-11-13T20:00:00.000-03:00",
+	"createdAt": "2024-11-13T23:38:56.311Z",
+	"updatedAt": "2024-11-13T23:40:11.290Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hijuelas-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de <strong>Hijuelas</strong> se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Oasis La Campana</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5 hectáreas </p></td></tr><tr><td><p><strong>Comentarios</strong></p></td><td><p><span style=\"color:black\">Trabajaron en el combate 3   brigadas, 1 técnicos y 2 helicópteros de Conaf; además de 2 camiones aljibe   de Conaf</span></p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Cabe señalar que la comuna de Hijuelas, se mantiene con Alerta Amarilla, en atención a la Alerta Amarilla Regional por incendios forestales, vigente desde el 12 de noviembre. </span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Hijuelas, por incendio forestal, que se mantuvo vigente desde el 12 de noviembre de 2024</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

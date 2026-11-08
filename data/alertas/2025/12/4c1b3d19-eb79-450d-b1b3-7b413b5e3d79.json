@@ -1,0 +1,20 @@
+{
+	"id": "4c1b3d19-eb79-450d-b1b3-7b413b5e3d79",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Olmué por incendio forestal",
+	"fechaHora": "2025-12-03T14:54:56.5656-03:00",
+	"createdAt": "2025-12-03T18:00:14.705Z",
+	"updatedAt": "2025-12-03T21:26:18.289Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-olmue-por-incendio-forestal-2025-12-03-14-59-59",
+	"parentId": "2e7ee78d-1a40-4e13-b35a-d65d6e5c2187",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Olmué\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información técnica proporcionada por Conaf, </span><span style=\"color: black\">respecto al incendio forestal en la comuna de Olmué, Región de Valparaíso, se informa el siguiente detalle:</span></p><table><tbody><tr><td><p>Nombre del incendio</p></td><td><p>Alto Olmué</p></td></tr><tr><td><p>Estado </p></td><td><p>En combate</p></td></tr><tr><td><p>Superficie</p></td><td><p>1 [ha]</p></td></tr><tr><td><p>Recursos</p></td><td><p>Trabaja en   el lugar Cuerpo de Bomberos de Olmué, 6 brigadas, 6 técnicos, 3 aviones, 3   helicópteros y 1 camión aljibe de la Municipalidad de Limache.</p></td></tr><tr><td><p>Observaciones</p></td><td><p>No se   reportan afectaciones en personas ni daños en viviendas</p></td></tr></tbody></table><p><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Olmué por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

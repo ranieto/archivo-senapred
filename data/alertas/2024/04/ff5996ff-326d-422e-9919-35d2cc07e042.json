@@ -1,0 +1,20 @@
+{
+	"id": "ff5996ff-326d-422e-9919-35d2cc07e042",
+	"type": "Alerta",
+	"titulo": "Se modifica Alerta Temprana Preventiva para las comunas de Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca por evento meteorológico",
+	"fechaHora": "2024-04-10T14:18:00.000-04:00",
+	"createdAt": "2024-04-10T18:43:51.118Z",
+	"updatedAt": "2024-04-14T16:49:57.528Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca--por-viento",
+	"parentId": "b4af7662-7e29-42d6-9c63-850e25b703d7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui, Choapa, Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Río Hurtado, Monte Patria, Combarbalá, Illapel, Vicuña, Paihuano, La Higuera, Salamanca\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A86</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera de la Región de Coquimbo.</p></td><td><p style=\"text-align:center\">13/04</p></td><td><p style=\"text-align:center\">14/04</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A89</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en cordillera de la región.</p></td><td><p style=\"text-align:center\">13/04</p></td><td><p style=\"text-align:center\">14/04</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>modifica Alerta Temprana Preventiva a evento meteorológico,</strong> para las comunas de Higuera, Vicuña, Paihuano, Río Hurtado, Monte Patria, Combarbalá, Illapel y Salamanca, la que se mantiene vigente desde el 09 de abril y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

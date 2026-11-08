@@ -1,0 +1,20 @@
+{
+	"id": "f7029e36-745e-47d5-ba0c-9f6b4f91fae2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja en la Región del Biobío por desorde",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-06-15T15:31:26.372Z",
+	"updatedAt": "2025-06-15T15:32:20.800Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida",
+	"parentId": "1a638894-9d3f-4501-af9f-d6173e304f3b",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con lo informado por la Dirección General de Aguas (DGA), mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación del Río Pichilo, en el sector Pichilo y la estación del Río Lía, en el sector Las Corrientes, en la comuna de Arauco; y la estación del Río Curanilahue en la comuna del mismo nombre, se encuentran fuera del nivel de umbral de alerta de desborde y con tendencia de niveles a la baja.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, con la actualización de la Alarma Meteorológica AAA4-3/2025 emitida por la Dirección Meteorológica de Chile (DMC), se da por finalizado el pronóstico de precipitaciones intensas en corto período de tiempo para la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que un total de 5 mensajes SAE fueron enviados para la comuna de Arauco por desborde del Río Pichilo.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por desborde</strong>, que se mantuvo vigente durante hoy 15 de junio de 2025. </span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

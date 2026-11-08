@@ -1,0 +1,20 @@
+{
+	"id": "4987b035-a9bc-4602-a5b3-465d451b7264",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2025-01-03T13:22:17.1717-03:00",
+	"createdAt": "2025-01-03T16:27:00.977Z",
+	"updatedAt": "2025-01-03T19:34:29.400Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-antonio-por-incendio-forestal-2",
+	"parentId": "7c96bb79-8ab2-4824-acb1-de6ecb2edc21",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal con comportamiento extremo, que presenta una velocidad de propagación alta , intensidad en el frente del avance alta, longitud de llama alta y de proyección de pavesas en el frente de avance.<br></p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Leyda</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>San Antonio (Leyda)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>3 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 compañías de Bomberos (San Antonio y Cartagena), 7 brigadas, 3 aeronaves y 1 técnico CONAF.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de San Antonio por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

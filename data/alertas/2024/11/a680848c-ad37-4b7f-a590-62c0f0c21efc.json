@@ -1,0 +1,20 @@
+{
+	"id": "a680848c-ad37-4b7f-a590-62c0f0c21efc",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la comuna de Cholchol por incendio forestal",
+	"fechaHora": "2024-11-20T23:33:40.4040-03:00",
+	"createdAt": "2024-11-21T02:34:48.607Z",
+	"updatedAt": "2024-11-21T13:45:59.491Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cholchol-por-incendio-forestal",
+	"parentId": "7027ff3e-0700-494a-b9be-98ce73d42e56",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de <strong>Cholchol </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Launache</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Cholchol, Nueva Imperial   y Galvarino; 4 brigadas y 3 técnicos de Conaf; 3 aviones cisternas, 1 camión   aljibe municipal, Carabineros, Delegado Presidencial y Senapred regional.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Cabe mencionar, que el incendio presenta comportamiento extremo, velocidad de propagación alta e&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">intensidad en el frente de avance.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">mantiene la Alerta Amarilla para la comuna de Cholchol, por incendio forestal, que se encuentra vigente&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">desde el 20 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

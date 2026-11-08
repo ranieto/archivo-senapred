@@ -1,0 +1,19 @@
+{
+	"id": "22eb2bb1-6194-441b-be2a-08907b96029e",
+	"type": "Evento",
+	"titulo": "Accidente terrestre en comuna de estación central (prelimiar)",
+	"fechaHora": "2023-12-20T15:22:23.2323-03:00",
+	"createdAt": "2023-12-20T18:23:16.541Z",
+	"updatedAt": "2023-12-21T02:05:58.293Z",
+	"urlAccess": "accidente-terrestre-en-comuna-de-estacion-central-prelimiar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Estación Central\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Metropolitano, a la hora del presente informe, se registra una alteración de conectividad vial en la Autopista General Velásquez, a la altura del kilómetro 3, dirección sur, de la comuna de Estación Central, producto de la colisión de 3 vehículos mayores.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar, que a raíz de este evento 3 personas resultaron lesionadas, siendo trasladada una de ellas a la Mutual de Seguridad para su atención médica, en tanto los dos restantes fueron evaluados en el lugar por personal de Emergencias Médicas de Autopista Central.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, el tránsito vehicular se mantiene desviado por vía local para realizar el despeje de la ruta y facilitar el trabajo de los equipos de emergencia.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, Carabineros, SAMU, personal de Autopista Central y particulares.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

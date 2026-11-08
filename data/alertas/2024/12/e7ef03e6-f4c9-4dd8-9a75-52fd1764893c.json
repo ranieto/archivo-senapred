@@ -1,0 +1,20 @@
+{
+	"id": "e7ef03e6-f4c9-4dd8-9a75-52fd1764893c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Los Álamos por incendio forestal",
+	"fechaHora": "2024-12-22T00:02:50.5050-03:00",
+	"createdAt": "2024-12-22T03:03:38.789Z",
+	"updatedAt": "2024-12-24T14:56:10.555Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-los-alamos-por-incendio-forestal",
+	"parentId": "4b542151-5a19-4c85-95e5-a7185356dd47",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;i<strong>nformación proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;se informa el siguiente detalle respecto del incendio forestal que se desarrolla en la comuna de Los Álamos:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Pelahuenco V</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 brigadas y 1 técnico de Conaf; 7 brigadas y 3 técnico empresa   forestal; 7 aviones de combate, 3 helicópteros, 1 avión de coordinación y 1   skidder</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Los Álamos por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

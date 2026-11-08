@@ -1,0 +1,20 @@
+{
+	"id": "69c7e321-b228-437e-bca3-03ebf3933b17",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva por tormentas eléctricas para la Provincia de El Loa y comunas de Antofagasta, Taltal, Sierra Gorda y María Elena por tormentas eléctricas",
+	"fechaHora": "2024-02-09T01:06:01.011-03:00",
+	"createdAt": "2024-02-09T04:07:26.918Z",
+	"updatedAt": "2024-02-09T04:07:39.236Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A9-10/2024, el cual pronosticaba la ocurrencia de probables tormentas eléctricas en la precordillera salar y cordillera de la Región de Antofagasta. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED, cancela la Alerta Temprana Preventiva por tormentas eléctricas para la Provincia de El Loa y comunas de Antofagasta, Taltal, Sierra Gorda y María Elena<strong>,</strong> la cual se mantuvo vigente desde el 23 de diciembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

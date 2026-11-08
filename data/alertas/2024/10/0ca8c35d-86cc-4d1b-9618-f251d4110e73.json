@@ -1,0 +1,20 @@
+{
+	"id": "0ca8c35d-86cc-4d1b-9618-f251d4110e73",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Provincia de Isla de Pascua por incendio forestal",
+	"fechaHora": "2024-10-09T16:15:24.2424-03:00",
+	"createdAt": "2024-10-09T19:16:15.263Z",
+	"updatedAt": "2024-10-09T19:17:41.324Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-isla-de-pascua-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Isla de Pascua, se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Frente a Papa Vaka</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>95 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color:black\">1   técnico CONAF, 1 brigada CONAF, Bomberos, Carabineros, 1 camión aljibe   municipal y lugareños.</span></p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Provincia de Isla de Pascua, por incendio forestal, que se mantuvo vigente desde el 08 de octubre de 2024</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c54cac5b-7d0a-4be5-8ed8-8c8fd99093a0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Collipulli por incendio forestal",
+	"fechaHora": "2026-01-17T21:28:20.2020-03:00",
+	"createdAt": "2026-01-18T00:32:51.777Z",
+	"updatedAt": "2026-01-19T05:28:06.919Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-collipulli-por-incendio-forestal-2026-01-17-21-32-38",
+	"parentId": "436d9343-eeba-476a-9f6e-cb9bd1ef8fb9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\"><strong>De acuerdo con la información técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de<strong>&nbsp;Collipulli</strong>; se informa el siguiente detalle:</span></span></p><div><table><tbody><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">San Cruz</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">230 hectáreas</span></p></td></tr><tr><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cuerpo de Bomberos de Collipulli</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">5 brigadas, 3 técnicos, 12 aeronaves, 1 puesto de mando y 1 maquinaria pesada CONAF</span></p></td></tr></tbody></table></div><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de Collipulli por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

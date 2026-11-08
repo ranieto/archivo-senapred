@@ -1,0 +1,19 @@
+{
+	"id": "746b13c1-e9e9-4e72-8165-15d2a7204726",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2023-09-10T23:32:00.000-03:00",
+	"createdAt": "2023-09-11T03:11:07.110Z",
+	"updatedAt": "2023-09-11T03:11:07.110Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 22:27 horas en la Región de Valparaíso.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Valparaíso</strong></div></td></tr><tr><td><div>La Ligua:</div></td><td><div>III</div></td></tr></tbody></table><p style=\"text-align: justify\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"text-align: justify\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue de 3.8 y se localizó a 32 Kms al Suroeste de Los Vilos.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

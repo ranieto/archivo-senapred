@@ -1,0 +1,20 @@
+{
+	"id": "563bf3ea-b802-419c-8142-b3b0dbc657a4",
+	"type": "Alerta",
+	"titulo": "Actualizacion Prueba Alerta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-22T18:32:24.756Z",
+	"updatedAt": "2023-09-23T10:07:39.415Z",
+	"urlAccess": "prueba-alerta",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>Actualización Prueba de Concepto</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

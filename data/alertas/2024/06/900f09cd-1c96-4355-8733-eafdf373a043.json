@@ -1,0 +1,20 @@
+{
+	"id": "900f09cd-1c96-4355-8733-eafdf373a043",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por desborde y cancela Alerta Amarilla por crecida, para las comunas de Rauco, Sagrada Familia, Hualañé, Licantén y Curepto",
+	"fechaHora": "2024-06-21T16:32:00.000-04:00",
+	"createdAt": "2024-06-21T21:02:36.747Z",
+	"updatedAt": "2024-06-26T13:46:22.027Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-rauco-sagrada-familia-hualane-licanten-y-curepto-por-crecida-2",
+	"parentId": "f6a605cd-4017-410a-95e3-39fd90b64a2d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca, Curicó\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Rauco, Sagrada Familia, Hualañé, Licantén, Curepto\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Mataquito en Licantén”, en la comuna de Licantén, ha sobrepasado los valores del umbral de alerta roja.<br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde y cancela Alerta Amarilla por crecida, para las comunas de Rauco, Sagrada Familia, Hualañé, Licantén y Curepto</strong>, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

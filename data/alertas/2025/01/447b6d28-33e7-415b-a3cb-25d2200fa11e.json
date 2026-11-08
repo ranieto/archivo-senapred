@@ -1,0 +1,20 @@
+{
+	"id": "447b6d28-33e7-415b-a3cb-25d2200fa11e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Lautaro por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-22T23:26:00.879Z",
+	"updatedAt": "2025-01-22T23:30:52.666Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lautaro-por-incendio-forestal",
+	"parentId": "6b4f338f-2f17-476d-9d2e-7d0551655ddc",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de <strong>Lautaro </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Palmas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>30 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Lautaro, 7 brigadas y 2   técnicos de Conaf y 6 aeronaves de Conaf.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Cabe destacar que, este incendio forestal debido a su proyección presenta cercanía a planta de celulosa.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">declara Alerta Amarilla para la comuna de Lautaro por incendio forestal, vigente desde hoy y hasta que las&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

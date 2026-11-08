@@ -1,0 +1,20 @@
+{
+	"id": "90dde47a-c912-442d-99a0-ce8abea8c426",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Curepto por incendio forestal",
+	"fechaHora": "2025-01-20T08:18:45.4545-03:00",
+	"createdAt": "2025-01-20T16:54:56.186Z",
+	"updatedAt": "2025-01-20T23:40:48.479Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-curepto-por-incendio-forestal",
+	"parentId": "afed5614-f94f-4662-970a-3deca5427397",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF, el incendio forestal denominado Paula se encuentra actualmente Controlado afectando una superficieaproximada de 43.2 ha.</p><p><br></p><table><tbody><tr><td><p>Nombre del incendio</p></td><td><p>Paula</p></td></tr><tr><td><p>Estado</p></td><td><p>En combate</p></td></tr><tr><td><p>Superficie</p></td><td><p>43,2 hectáreas</p></td></tr><tr><td><p>Observaciones</p></td><td><p>incendio forestal   \"Paula\" , el cual se encuentra actualmente Controlado afectando una   superficie aproximada de 43.2 ha</p></td></tr><tr><td><p>Recursos</p></td><td><p>1 brigada de CONAF y 1   brigada de la empresa particular Forestal S.A., así como 1 técnico de CONAF.   Además, se cuenta con 2 maquinarias Skidder y 1 camión cisterna, ambos de   CONAF, para apoyar las labores necesarias.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPREDmantiene la Alerta Amarilla para la Comuna de Curepto, por incendio forestal, que se encuentra vigentedesde el 19 de enero de 2025.<br></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

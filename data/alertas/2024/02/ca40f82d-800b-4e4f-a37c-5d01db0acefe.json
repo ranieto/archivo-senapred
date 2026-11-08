@@ -1,0 +1,20 @@
+{
+	"id": "ca40f82d-800b-4e4f-a37c-5d01db0acefe",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-02-09T16:16:12.1212-03:00",
+	"createdAt": "2024-02-09T19:17:07.530Z",
+	"updatedAt": "2024-03-08T18:28:35.143Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas-2",
+	"parentId": "597ac2a7-5c64-4fb5-8e28-780a0689da35",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, mediante su Aviso Meteorológico A31/2024, se indica el probable desarrollo de tormentas eléctricas en el sector cordillerano de la Región de Tarapacá, entre la tarde del domingo 11 la noche del miércoles 14 de febrero. Dicha condición, se desarrollará preferentemente en el periodo de tarde y noche, con precipitaciones aisladas.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial de Tarapacá, la Dirección Regional de SENAPRED <strong>declara Alerta Temprana Preventiva para la Provincia del Tamarugal</strong>, por tormentas eléctricas, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

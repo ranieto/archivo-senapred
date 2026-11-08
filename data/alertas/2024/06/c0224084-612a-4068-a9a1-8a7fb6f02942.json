@@ -1,0 +1,20 @@
+{
+	"id": "c0224084-612a-4068-a9a1-8a7fb6f02942",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+	"fechaHora": "2024-06-14T21:16:39.3939-04:00",
+	"createdAt": "2024-06-15T01:17:55.176Z",
+	"updatedAt": "2024-06-15T17:32:23.662Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-viento-2",
+	"parentId": "66e94b9c-a2eb-4ef2-90d2-5670d2c177e1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fueron canceladas las Alertas Meteorológicas AA38-5 y AA44 que pronosticaron precipitaciones y nevadas moderadas a fuertes en zonas de la región Coquimbo y el Aviso Meteorológico A201-2 por precipitaciones normales a moderadas. Sin embargo, se mantienen vigentes los siguientes alertamientos meteorológicos para la región:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   203-2</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral, cordillera de la costa, precordillera y valles   precordilleranos y cordillera de la región.</p></td><td><p style=\"text-align:center\">13-06</p></td><td><p style=\"text-align:center\">14-06</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   208</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas en cordillera de la región.</p></td><td><p style=\"text-align:center\">12-06</p></td><td><p style=\"text-align:center\">15-06</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes la Delegación Presidencial Regional de Coquimbo, en coordinación con la Dirección Regional del SENAPRED, <strong>cancela la Alerta Amarilla y declara Alerta Temprana Preventiva Regional por evento meteorológico</strong>, vigente desde hoy <span style=\"color:black\">y hasta que las condiciones meteorológicas así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

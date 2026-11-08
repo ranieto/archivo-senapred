@@ -1,0 +1,20 @@
+{
+	"id": "2b51c4fc-4264-4456-99c3-bd50a6eb698b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de O'Higgins por evento meteorológico",
+	"fechaHora": "2024-06-24T10:46:02.022-04:00",
+	"createdAt": "2024-06-24T14:47:00.661Z",
+	"updatedAt": "2024-06-24T14:47:11.740Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-higgins-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) han sido cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alarma   AAA5</p></td><td><p style=\"text-align:justify\">Precipitaciones   intensas en corto periodo de tiempo en litoral, cordillera de la costa, valle   y precordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA50</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en litoral, cordillera de la costa, valle, precordillera   y cordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A228</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en litoral, cordillera de la costa, valle y   precordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A229-1</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas con probabilidad de ventisca en cordillera.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A230</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de viento blanco en cordillera.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes <span style=\"color:black\">que suponen una disminución del riesgo asociado a dichas variables meteorológicas </span>y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED<strong> cancela la Alerta Amarilla Regional por evento meteorológico, </strong>que se mantuvo vigente desde el 18 de junio de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

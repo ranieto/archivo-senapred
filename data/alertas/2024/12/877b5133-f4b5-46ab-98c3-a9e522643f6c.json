@@ -1,0 +1,20 @@
+{
+	"id": "877b5133-f4b5-46ab-98c3-a9e522643f6c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Puerto Varas por incendio forestal",
+	"fechaHora": "2024-12-16T22:04:00.000-03:00",
+	"createdAt": "2024-12-17T01:16:11.898Z",
+	"updatedAt": "2024-12-17T20:01:06.008Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-varas-por-incendio-forestal",
+	"parentId": "1457911c-b8e9-4b9e-bc4a-455096ad1431",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Puerto Varas\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"font-size: 16px\"> se informa el siguiente detalle respecto del incendio forestal “Ensenada”, en la comuna de Puerto Varas:</span></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Ensenada</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1   hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   Puerto Varas y Puerto Montt, 2 Brigadas CONAF, 4 Técnicos CONAF, 1 Avión   cisterna de CONAF y 1 Helicóptero de CONAF</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Puerto Varas, por incendio forestal, que se encuentra vigente desde el 16 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

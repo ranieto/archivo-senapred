@@ -1,0 +1,20 @@
+{
+	"id": "e0eae75f-d8b0-451b-a9c3-42c4a520e569",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Puerto Montt por crecida",
+	"fechaHora": "2025-07-30T19:47:48.4848-04:00",
+	"createdAt": "2025-07-30T23:49:17.414Z",
+	"updatedAt": "2025-07-30T23:50:03.203Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la <strong>Dirección General de Aguas</strong> (DGA), se indica que la estación de red hidrométrica <strong>“Río Chico Ante Río Chamiza” </strong>se encuentra en por debajo del <strong>umbral de alerta amarilla</strong>, con tendencia a la baja en su caudal.</p><p style=\"text-align:justify\">En consideración a este antecedente<span style=\"color:black\"> y en coordinación con </span>la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por crecida para la comuna de Puerto Montt</strong>, que se mantenía <span style=\"color:black\">vigente desde el 29 de julio. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

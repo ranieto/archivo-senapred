@@ -1,0 +1,20 @@
+{
+	"id": "7f571271-6037-4a71-84bb-579b6e378480",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Chonchi por incendio forestal",
+	"fechaHora": "2024-01-25T01:15:00.000-03:00",
+	"createdAt": "2024-01-25T04:55:39.377Z",
+	"updatedAt": "2024-01-26T01:17:25.366Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chonchi-por-incendio-forestal",
+	"parentId": "e9941ba5-4e74-458b-8151-6b6eedfb162e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong>&nbsp;respecto al incendio forestal&nbsp;\"Nahuiltad Escuela\", en la comuna de Chonchi, se informa los siguiente:<br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Nahuiltad   Escuela</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6,7 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"color:black\">Durante   la pasada jornada, Bomberos de Chonchi trabajó en la protección de 10   viviendas aledañas y llenado de piscinas de CONAF. En tanto, brigadistas de   CONAF continúan en la construcción de líneas cortafuegos y humectación con   líneas de agua.</span></p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">Cabe destacar que esta noche, se mantendrá trabajando 1 brigada nocturna de CONAF.</span></p><p><span style=\"color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de Chonchi, por incendio forestal</strong>, que se encuentra vigente desde el 23 de enero de 2024.</span></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

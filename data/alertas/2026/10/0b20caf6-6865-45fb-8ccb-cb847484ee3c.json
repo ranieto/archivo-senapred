@@ -1,0 +1,20 @@
+{
+	"id": "0b20caf6-6865-45fb-8ccb-cb847484ee3c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2026-10-16T01:00:10.1010-03:00",
+	"createdAt": "2026-10-16T04:01:09.884Z",
+	"updatedAt": "2026-10-16T06:24:04.411Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-10-11-11-02-05",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológico para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Alertamiento</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Alerta AA178</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Tormentas eléctricas con probabilidad de   precipitaciones fuertes en un corto periodo de tiempo en litoral, cordillera   de la costa, valle y precordillera.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Aviso A544-5</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Probables tormentas eléctricas con probabilidad de   granizos y fuertes rachas de viento locales en precordillera y cordillera.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico,</strong> que se mantuvo vigente desde el 11 de octubre del 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

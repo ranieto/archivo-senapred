@@ -1,0 +1,20 @@
+{
+	"id": "ac86e662-bd8b-4876-9a2b-e58acbb1f118",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Paine por incendio forestal",
+	"fechaHora": "2024-12-31T17:25:00.000-03:00",
+	"createdAt": "2024-12-31T20:36:30.981Z",
+	"updatedAt": "2024-12-31T20:59:41.820Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-11",
+	"parentId": "c174d46d-ae34-4e9c-a357-66f7dd4f27eb",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Paine, se reporta lo siguiente:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Rangue 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2,5 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Incendio sin peligro a viviendas.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la comuna de Paine, por incendio forestal,</strong> que se mantuvo vigente desde el 31 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "3a0bbafd-4b5f-46ef-bfb9-0e2716e3b937",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Antofagasta por evento masivo",
+	"fechaHora": "2024-02-14T02:24:13.1313-03:00",
+	"createdAt": "2024-02-14T05:25:07.911Z",
+	"updatedAt": "2024-02-14T05:26:19.702Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-antofagasta-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta, finalizó el evento “Show de Drones” que se desarrolló en sector Paseo del Mar, comuna de Antofagasta, sin reportarse situaciones de emergencia derivadas de esta actividad.<br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de Antofagasta por evento masivo</strong>, que se mantuvo vigente desde el 13 de febrero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

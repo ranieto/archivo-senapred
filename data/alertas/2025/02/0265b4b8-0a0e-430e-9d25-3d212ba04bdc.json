@@ -1,0 +1,20 @@
+{
+	"id": "0265b4b8-0a0e-430e-9d25-3d212ba04bdc",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Arica por evento masivo",
+	"fechaHora": "2025-02-17T13:39:00.000-03:00",
+	"createdAt": "2025-02-17T16:43:44.747Z",
+	"updatedAt": "2025-02-17T16:43:53.543Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-arica-por-evento-masivo-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Arica\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, sin emergencias mayores finalizó el evento masivo denominado “Carnaval Andino Con la Fuerza del Sol 2025” el cual se realizó entre los días 13, 14, 15, 16 y 17 de febrero en la comuna de Arica, concentrando alrededor de 150.000.</p><p style=\"text-align: justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED cancela Alerta Temprana Preventiva para la comuna de Arica, que se mantuvo vigente desde el 12 de febrero.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

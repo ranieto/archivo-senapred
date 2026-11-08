@@ -1,0 +1,19 @@
+{
+	"id": "f413d7d8-e02e-43ab-8833-12d32d965620",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de  Antofagasta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-10T03:23:07.445Z",
+	"updatedAt": "2023-10-10T03:29:56.333Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-2",
+	"parentId": "efebe675-4404-4f16-bb46-6196ac1c0aca",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 00:18 horas en la Región de Antofagasta. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Antofagasta </strong></div></td></tr><tr><td><div>Antofagasta:</div></td><td><div>III</div></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "419b236f-fddb-4d92-8b95-3f0a35bb50ae",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por evento zoosanitario",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-26T01:19:15.496Z",
+	"updatedAt": "2023-10-26T01:20:55.349Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>​De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), mediante la resolución exenta N°614/2023, se ha detectado la presencia de la enfermedad de Influenza Aviar en la Región Metropolitana, por lo que mediante el protocolo N° 242332 del 16 de marzo, se determina el resultado positivo a influenza aviar tipo A H5N1 de alta patogenicidad en ave traspatio en la comuna de Melipilla.<br><br>En consideración a estos antecedentes, los factores de vulnerabilidad en relación con las variables epidemiológicas que pueden afectar a la población a lo largo de la región y en coordinación con la Delegación Presidencial Metropolitana, la Dirección Regional del SENAPRED, declara Alerta Temprana Preventiva Regional, por evento zoosanitario, vigente desde hoy y hasta que las condiciones así lo ameriten.<br><br>La declaración de esta alerta, se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

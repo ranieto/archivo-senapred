@@ -1,0 +1,20 @@
+{
+	"id": "a53a7491-a611-4d37-8667-54d0e8a82ac2",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2026-04-25T14:19:00.000-04:00",
+	"createdAt": "2026-04-25T18:21:19.152Z",
+	"updatedAt": "2026-04-28T19:46:16.282Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-2026-04-24-17-37-29",
+	"parentId": "9d0dae2c-8064-4282-8e0c-ad2d5b88a131",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Antofagasta:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA67-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento moderado a fuerte en cordillera, sector Puna (entre 80 y 100   km/h) de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">27-04</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-04</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A199</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado (entre 60 y 80 km/h) en cordillera de la costa   y cordillera de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">27-04</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">28-04</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva regional por viento</strong>, que se encuentra vigente desde el 24 de abril de 2026 y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

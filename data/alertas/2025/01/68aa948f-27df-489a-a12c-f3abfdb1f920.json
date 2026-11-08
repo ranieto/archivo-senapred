@@ -1,0 +1,20 @@
+{
+	"id": "68aa948f-27df-489a-a12c-f3abfdb1f920",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia Tamarugal por evento meteorológico",
+	"fechaHora": "2025-01-23T12:36:00.000-03:00",
+	"createdAt": "2025-01-23T15:58:56.948Z",
+	"updatedAt": "2025-02-12T02:39:42.815Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-tamarugal-por-evento-meteorologico",
+	"parentId": "301c147b-28fe-4f4a-8cc8-6e68bb108a6c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Tarapacá:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A20-1</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en precordillera y cordillera.</p></td><td><p style=\"text-align:justify\">19-01</p></td><td><p style=\"text-align:justify\">24-01</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso A31</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en cordillera.</p></td><td><p style=\"text-align:justify\">24-01</p></td><td><p style=\"text-align:justify\">26-01</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva</strong><strong>por evento meteorológico</strong><strong>para la </strong></span><strong><span style=\"color:black\">Provincia Tamarugal, </span></strong><span style=\"color:black\">que se mantenía</span><span style=\"color:black\">vigente desde el 23 de enero de 2025.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

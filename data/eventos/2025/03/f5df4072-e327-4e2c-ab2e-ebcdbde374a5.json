@@ -1,0 +1,21 @@
+{
+	"id": "f5df4072-e327-4e2c-ab2e-ebcdbde374a5",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad entre las regiones de Tarapacá y Atacama",
+	"fechaHora": "2025-03-06T13:30:00.000-03:00",
+	"createdAt": "2025-03-06T16:36:23.169Z",
+	"updatedAt": "2025-03-06T16:44:34.789Z",
+	"urlAccess": "sismo-de-mediana-intensidad-entre-las-regiones-de-tarapaca-y-atacama",
+	"parentId": "7701e97f-b7f4-40d4-bb6e-23919b2d6f84",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p style=\"margin-left: 36pt\"><span style=\"font-size: 14px\">​<span style=\"color: rgb(33, 37, 41)\">Un sismo de mediana intensidad se percibió entre las regiones de Tarapacá y Atacama. Las intensidades en escala de Mercalli son:</span>​</span></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Tarapacá</strong></div></td></tr><tr><td><div>Ujina:</div></td><td><div>IV</div></td></tr><tr><td><div>Iquique:</div></td><td><div>III</div></td></tr><tr><td><div>Alto Hospicio :</div></td><td><div>III</div></td></tr><tr><td><div>El Loa:</div></td><td><div>III</div></td></tr><tr><td><div>Pica :</div></td><td><div>III</div></td></tr><tr><td><div>Pozo Almonte :</div></td><td><div>III</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: Antofagasta</strong></div></td></tr><tr><td><div>Antofagasta:</div></td><td><div>VI</div></td></tr><tr><td><div>Calama:</div></td><td><div>VI</div></td></tr><tr><td><div>Sierra Gorda:</div></td><td><div>VI</div></td></tr><tr><td><div>Baquedano:</div></td><td><div>VI</div></td></tr><tr><td><div>Mejillones:</div></td><td><div>V</div></td></tr><tr><td><div>Tocopilla:</div></td><td><div>V</div></td></tr><tr><td><div>Taltal:</div></td><td><div>IV</div></td></tr><tr><td><div>San Pedro de Atacama:</div></td><td><div>IV</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: Atacama</strong></div></td></tr><tr><td><div>El Salvador:</div></td><td><div>IV</div></td></tr><tr><td><div>Copiapó:</div></td><td><div>III</div></td></tr><tr><td><div>Tierra Amarilla:</div></td><td><div>III</div></td></tr><tr><td><div>Chañaral:</div></td><td><div>III</div></td></tr></tbody></table><p style=\"margin-left: 36pt\"><span style=\"font-size: 14px\"><br></span></p><div><span style=\"font-size: 14px\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></div><div><span style=\"font-size: 14px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 6.1 y se localizó a 44 Kms al Este de Baquedano.</span></div><div><span style=\"font-size: 14px\"><span style=\"color: rgb(36, 36, 36);font-size: 15px\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.</span></span>​</div>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

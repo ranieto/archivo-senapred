@@ -1,0 +1,20 @@
+{
+	"id": "bd9f9974-9cd3-4c04-8e9c-1c9a91e1ae59",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Comuna de Cabrero por incendio forestal",
+	"fechaHora": "2026-01-10T17:36:52.5252-03:00",
+	"createdAt": "2026-01-10T20:39:20.706Z",
+	"updatedAt": "2026-01-10T20:43:00.509Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-cabrero-por-incendio-forestal-2026-01-10-16-41-52",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><p><strong>Nombre del incendio </strong>333 CABRERO</p><p><strong>Comuna (Sector) </strong>Cabrero (Villa Los Boldos)</p><p><strong>Estado </strong>Controlado</p><p><strong>Superficie afectada [ha] </strong>1.1</p><p><br></p><p>Por información técnica proporcionada por CONAF incendio controlado a las 17:09 hrs. Sin riesgo a viviendas.</p><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Cabrero, por incendio forestal, que se mantuvo vigente desde el 10 de enero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

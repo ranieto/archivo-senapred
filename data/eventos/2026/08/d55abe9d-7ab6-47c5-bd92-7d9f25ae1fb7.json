@@ -1,0 +1,21 @@
+{
+	"id": "d55abe9d-7ab6-47c5-bd92-7d9f25ae1fb7",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Arica y Parinacota, Tarapacá y Antofagasta",
+	"fechaHora": "2026-08-30T01:29:59.5959-04:00",
+	"createdAt": "2026-08-30T05:30:34.136Z",
+	"updatedAt": "2026-08-30T05:38:56.669Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-tarapaca-y-antofagasta-2026-08-30-01-24-23",
+	"parentId": "d41d86e3-ae49-4383-80a1-76cf83a86d0b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 01:20 horas en las regiones de Arica y Parinacota, Tarapacá y Antofagasta . Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Arica y Parinacota </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Cuya: </span></p></td><td><p><span style=\"font-size:16px\">II</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Tarapaca </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Alto Hospicio : </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Iquique: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Antofagasta </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Calama: </span></p></td><td><p><span style=\"font-size:16px\">V</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Mejillones: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Tocopilla: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Antofagasta: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Sierra Gorda: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">María Elena: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br></span></p><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>(Preliminar) El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.3 localizado a 28 Kms al Suroeste de Tocopilla.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

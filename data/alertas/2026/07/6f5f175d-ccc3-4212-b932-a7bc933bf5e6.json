@@ -1,0 +1,20 @@
+{
+	"id": "6f5f175d-ccc3-4212-b932-a7bc933bf5e6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por para la comuna de Los Ángeles desborde",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-07-31T09:01:07.833Z",
+	"updatedAt": "2026-07-31T09:01:23.126Z",
+	"urlAccess": "se-declara-alerta-roja-por-para-la-comuna-de-los-angeles-desborde-2026-07-31-05-00-47",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica <strong>del Estero Pallihue en Ex. Longitudinal Sur</strong>, ubicada en la comuna de Los Angeles, indica un <strong>incremento en su caudal</strong>, alcanzando valores de <strong>umbral rojo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde para la comuna de Los Ángeles</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</p><p style=\"text-align:justify\">Cabe señalar que, la región del Biobío mantiene Alerta Amarilla Regional por crecida, vigente desde el 27 de julio y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

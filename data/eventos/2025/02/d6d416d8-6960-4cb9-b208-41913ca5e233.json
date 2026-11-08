@@ -1,0 +1,19 @@
+{
+	"id": "d6d416d8-6960-4cb9-b208-41913ca5e233",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región del Biobío",
+	"fechaHora": "2025-02-10T23:30:52.5252-03:00",
+	"createdAt": "2025-02-11T02:32:57.577Z",
+	"updatedAt": "2025-02-11T02:35:54.617Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-biobio-7",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Concepción, Talcahuano\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor intensidad se percibió a las 23:25 horas en la Región del Biobío. Las intensidades en escala de Mercalli son:&nbsp;</span></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Talcahuano:   </p></td><td><p>IV</p></td></tr><tr><td><p>Concepción:   </p></td><td><p>III</p></td></tr></tbody></table><p><br></p><p><span style=\"font-size:16px\"> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p><span style=\"font-size:16px\"><span style=\"font-size: 15px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.9 y se localizó a 133 Kms al Oeste de Lebu.</span><br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

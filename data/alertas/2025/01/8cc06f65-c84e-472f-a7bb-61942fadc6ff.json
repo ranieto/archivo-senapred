@@ -1,0 +1,20 @@
+{
+	"id": "8cc06f65-c84e-472f-a7bb-61942fadc6ff",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la para la Región de O'Higgins por amenaza de incendios forestales",
+	"fechaHora": "2025-01-02T13:36:02.022-03:00",
+	"createdAt": "2025-01-02T16:38:58.297Z",
+	"updatedAt": "2025-01-02T16:38:58.297Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-para-la-region-de-ohiggins-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), en la actualización de su Aviso Meteorológico A473-3/2024, se informa que las zonas de cordillera, costa, valle y precordillera de la región de O’Higgins estarán afectadas por un evento de altas temperaturas debido a la presencia de una dorsal en altura. Este fenómeno se extenderá desde la tarde de hoy jueves 2 de enero, hasta la tarde del domingo 5 de enero de 2025. </p><p>Por otro lado, según el pronóstico de riesgo de incendios forestales elaborado por CONAF, se proyecta lo siguiente para la región:</p><p>-Probabilidad de ignición: Superior al 70% en gran parte de la región, alcanzando niveles sobre el 91% en el&nbsp;valle central sur.</p><p>-Humedad del combustible fino muerto: Entre un 2% y 4% en valle, precordillera y zonas del secano.</p><p>-Velocidad del viento: Supera los 10 km/h en toda la región.</p><p>-Temperaturas: Por sobre los 30°C en valle, precordillera y zonas del secano.</p><p>-Humedad relativa: Inferior al 20% en la mayor parte de la región, exceptuando la zona costera.</p><p>Además, se ha establecido la condición de Botón Rojo para 22 de las 33 comunas de la región, algunas de ellas por un periodo de hasta 5 horas. En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

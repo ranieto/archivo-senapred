@@ -1,0 +1,20 @@
+{
+	"id": "10ccb08f-cef0-43f5-9117-f61f1bb282a8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2026-07-03T12:50:00.000-04:00",
+	"createdAt": "2026-07-03T19:22:00.169Z",
+	"updatedAt": "2026-07-03T19:22:53.463Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-bajas-temperaturas-2026-06-27-11-27-09",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> a través de sus avisos meteorológicos A287-3 que pronosticó Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera y el aviso A290-1 que pronostico Heladas normales a moderadas en cordillera de la costa, valle y precordillera de la región, quedando fuera del área de cobertura de los eventos, debido al debilitamiento de las condiciones meteorológicas en la región.</p><p><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, la Dirección Regional del SENAPRED del Biobío <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 27 de junio de 2026.</span></p><p style=\"text-align:justify\"></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

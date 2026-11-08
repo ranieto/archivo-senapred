@@ -1,0 +1,20 @@
+{
+	"id": "f4d66497-e9c7-4684-9e5e-769adb21d8b8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Salamanca por incendio forestal",
+	"fechaHora": "2023-12-18T19:12:31.3131-03:00",
+	"createdAt": "2023-12-18T22:13:22.355Z",
+	"updatedAt": "2023-12-19T19:27:25.956Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-salamanca-por-incendio-forestal",
+	"parentId": "132bb368-6234-4d17-a7ea-b9fce2fd8288",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Choapa\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Salamanca\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se registra un incendio forestal en la comuna de Salamanca, con el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Bypass Salamanca</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0,01 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">El incendio se encuentra cercano a sectores   poblados</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por incendio forestal para la comuna de Salamanca</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el combate del incendio, 1 técnico, 2 brigadas, 1 camión cisterna y 1 helicóptero de CONAF, junto a Bomberos de Salamanca, Chillepín, Illapel y Caimanes.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

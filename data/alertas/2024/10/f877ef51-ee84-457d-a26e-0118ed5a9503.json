@@ -1,0 +1,20 @@
+{
+	"id": "f877ef51-ee84-457d-a26e-0118ed5a9503",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Freirina por incendio forestal",
+	"fechaHora": "2024-10-21T18:45:00.000-03:00",
+	"createdAt": "2024-10-21T21:49:20.599Z",
+	"updatedAt": "2024-10-24T21:31:21.429Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-freirina-por-incendio-forestal-2",
+	"parentId": "4c3f30b6-2c41-418a-99ce-a3c347399542",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong><span style=\"font-size: 16px\">respecto del incendio forestal que se encuentra en la comuna de Freirina, se reporta lo siguiente:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p style=\"text-align:justify\">Bodeguilla</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">29.4 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal presente comportamiento   extremo y se desarrolla cercano a infraestructura crítica.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">-1 técnico. Brigada de CONAF en trayecto.</p><p style=\"text-align:justify\">-Cuerpo de bomberos de Freirina, Huasco y Vallenar.</p><p style=\"text-align:justify\">-2 Camiones aljibe Municipales</p><p style=\"text-align:justify\">- Carabineros</p><p style=\"text-align:justify\">- Maquinaria de la Municipalidad</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Freirina, por incendio forestal, que se encuentra vigente desde el 21 de octubre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

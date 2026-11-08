@@ -1,0 +1,20 @@
+{
+	"id": "f82f23cb-0cee-4028-beb1-ef9f727c5a76",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Alto del Carmen por evento meteorológico",
+	"fechaHora": "2024-08-19T18:20:16.1616-04:00",
+	"createdAt": "2024-08-19T22:21:48.425Z",
+	"updatedAt": "2024-08-19T22:22:13.456Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-alto-del-carmen-por-evento-meteorologico-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Alto del Carmen\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Atacama, debido al debilitamiento de las condiciones que lo originaron:<br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A311</p></td><td><p style=\"text-align: justify\">Precipitaciones normales a moderadas con isoterma cero alta en Precordillera y Cordillera.</p></td></tr></tbody></table></div><p style=\"text-align: justify\">Adicionalmente, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED, ha sido restablecido el tránsito vehicular en la Ruta C-495, el que se mantuvo alterado en distintos sectores debido a la activación de quebradas. Por otro lado, se encuentran en marcha los trabajos de habilitación de la Ruta C-489, a la altura del kilómetro 72, la cual también resultó afectada por el desarrollo del evento meteorológico en la comuna.</p><p style=\"text-align: justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED&nbsp;<strong>cancela la Alerta Amarilla comunal por evento meteorológico</strong>, que se mantuvo vigente desde el 18 de agosto del 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

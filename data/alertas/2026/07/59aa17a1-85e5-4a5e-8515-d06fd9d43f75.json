@@ -1,0 +1,20 @@
+{
+	"id": "59aa17a1-85e5-4a5e-8515-d06fd9d43f75",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para las comunas de Molina y Curicó por desborde",
+	"fechaHora": "2026-07-25T11:36:12.1212-04:00",
+	"createdAt": "2026-07-25T15:37:40.636Z",
+	"updatedAt": "2026-07-29T15:36:56.115Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-molina-y-curico-por-crecida-2026-07-25-05-11-57",
+	"parentId": "306701d5-7e8c-404e-a536-2a2d3f5d138f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica <strong>Río Palos en junta con Colorado</strong>, ubicada en precordillera de las comunas de Molina y Curicó, indica un <strong>incremento en su caudal</strong>, alcanzando valores de <strong>umbral rojo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">Cabe señalar, que el resto de las estaciones aguas abajo se encuentran al momento en umbrales normales.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla&nbsp;por crecida para las comunas de Molina y Curicó</strong>, que se mantuvo vigente desde hoy sábado 25 de julio y <strong>declara Alerta Roja por desborde para las comunas de Molina y Curicó,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

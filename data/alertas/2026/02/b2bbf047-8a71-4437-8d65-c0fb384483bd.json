@@ -1,0 +1,20 @@
+{
+	"id": "b2bbf047-8a71-4437-8d65-c0fb384483bd",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Ñuble por calor intenso",
+	"fechaHora": "2026-02-23T11:47:02.022-03:00",
+	"createdAt": "2026-02-23T14:49:14.106Z",
+	"updatedAt": "2026-02-23T14:49:23.684Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-uble-por-calor-intenso-2026-02-19-18-26-00",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la</span><strong><span style=\"color: black\"> información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido actualizado el siguiente alertamiento meteorológico para la Región de Ñuble, donde ya no considera temperaturas 34°C, para los próximos días:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A77-4</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en cordillera de la costa, valle y precordillera (hasta 33° C).</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por calor intenso, </strong>la cual se mantuvo vigente desde el 19 de febrero 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

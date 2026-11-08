@@ -1,0 +1,20 @@
+{
+	"id": "b2c02e40-5ff7-4360-9615-8e5eff1690a9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
+	"fechaHora": "2024-12-18T12:32:00.000-03:00",
+	"createdAt": "2024-12-18T15:36:32.373Z",
+	"updatedAt": "2024-12-24T20:18:55.839Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales",
+	"parentId": "7e1d6ff1-47e4-4a70-b9a2-00b079aec604",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Según lo informado por la Corporación Nacional Forestal (CONAF), indica lo siguiente, comunas con riesgo de Botón Rojo: San Esteban: 20,3% Quilpué: 20,0% Villa Alemana: 16,1% Limache: 6,3% Cabildo: 19,1% Petorca: 14,0% Putaendo: 53,0% de Santa María: 31,1% Casablanca: 10,3%. Condiciones Meteorológicas Relevantes:De acuerdo con los modelos GFS y ECMWF, se pronostican las siguientes condiciones para las comunas y áreas mencionadas: Viento: Se esperan velocidades promedio entre 20 y 30 km/h, con ráfagas que podrían alcanzar hasta 40 km/h en zonas expuestas, lo cual puede favorecer la propagación rápida de incendios en las áreas vulnerables.</p><p>Humedad Relativa: Los valores de humedad relativa mínima se proyectan entre 15% y 25% durante las horas de mayor temperatura, incrementando el riesgo de propagación de incendios en estas zona.</p><p>Adicionalmente la DMC ha emitido un aviso por altas temperaturas para la región A458-2/2024.</p><p>Esta Alerta Temprana Preventiva no contempla la provincia de Isla de Pascua ni la comuna de Juan&nbsp;Fernández.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

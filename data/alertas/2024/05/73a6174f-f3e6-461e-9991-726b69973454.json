@@ -1,0 +1,20 @@
+{
+	"id": "73a6174f-f3e6-461e-9991-726b69973454",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2024-05-07T06:39:28.2828-04:00",
+	"createdAt": "2024-05-07T10:41:20.792Z",
+	"updatedAt": "2024-05-07T10:42:22.604Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-7",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los Avisos Meteorológicos A133/2024 que pronosticaban probables nevadas en cordillera de la costa, valle, Chiloé y litoral interior y A139/2024 que preveía probables tormentas eléctricas en litoral, Chiloé y litoral interior. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dichas variables meteorológicas, la Delegación Presidencial Regional de Los Lagos, en coordinación con la Dirección Regional del SENAPRED, <strong>cancela Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 03 de mayo de2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

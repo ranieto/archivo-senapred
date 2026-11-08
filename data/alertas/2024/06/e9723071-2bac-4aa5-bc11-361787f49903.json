@@ -1,0 +1,20 @@
+{
+	"id": "e9723071-2bac-4aa5-bc11-361787f49903",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de Valdivia, Mariquina y Lanco por amenaza de desborde",
+	"fechaHora": "2024-06-24T08:55:53.5353-04:00",
+	"createdAt": "2024-06-24T12:56:52.827Z",
+	"updatedAt": "2024-06-24T12:57:02.068Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-valdivia-y-los-lagos-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"Valdivia\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Valdivia, Mariquina, Lanco\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que las estaciones de red hidrométrica “Río Calle-Calle en Pupunahue” en la comuna de Máfil y “Río Cruces en Rucaco” en la comuna de Mariquina, se encuentran en valores de umbral Azul con tendencia a la baja de sus caudales.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para las comunas de Valdivia, Mariquina y Lanco,</strong> que se mantuvo vigente desde el 21 de junio del 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "78df3bdb-d9aa-4f2f-9fc0-06ac26bfd250",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Temuco por incendio forestal",
+	"fechaHora": "2026-02-14T18:41:38.3838-03:00",
+	"createdAt": "2026-02-14T21:44:53.924Z",
+	"updatedAt": "2026-02-15T01:47:17.403Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-temuco-por-incendio-forestal-2026-02-14-18-44-36",
+	"parentId": "2a75503d-0b49-4983-8f1f-0343c6120811",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo a la información proporcionada por CONAF,&nbsp;en atención al incendio forestal en la comuna de Temuco, se reporta el siguiente detalle:</span></strong></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">El Carmen 3 (2)</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">4 hectáreas</span></p></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Incendio presenta cercanía a sectores habitados.</span></div></td></tr><tr><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></div></td><td><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cuerpo de Bomberos de Temuco</span></div><div><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">2 brigadas, 1 técnico, 1 aviones cisterna y 1 camión cisterna CONAF</span></div></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></div><div style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En&nbsp;consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED<strong>&nbsp;declara Alerta Amarilla para la comuna de Temuco por incendio forestal</strong>, vigente desde hoy y hasta que las&nbsp;condiciones del incendio así lo ameriten.</span></div><div style=\"text-align: justify\"><span style=\"font-size: 11px\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo&nbsp;adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en&nbsp;extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></span></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

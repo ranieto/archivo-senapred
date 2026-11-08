@@ -1,0 +1,20 @@
+{
+	"id": "60da4859-7e97-466d-a2d0-6525f4b6daee",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Valparaíso por evento masivo",
+	"fechaHora": "2024-06-01T21:59:13.1313-04:00",
+	"createdAt": "2024-06-02T01:59:56.121Z",
+	"updatedAt": "2024-06-02T02:00:07.120Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-valparaiso-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso, sin emergencias mayores ha finalizado el evento masivo denominado “Cuenta Pública Presidencial 2024” realizada el sábado 01 de junio en el Congreso Nacional, comuna de Valparaíso, congregando aproximadamente a 2.000 personas en el recinto y alrededores.&nbsp;&nbsp;<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que supone una disminución del riesgo asociado a dicha variable en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva para la comuna de Valparaíso, por evento masivo</strong>, la cual se mantuvo vigente desde el 31 de mayo de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

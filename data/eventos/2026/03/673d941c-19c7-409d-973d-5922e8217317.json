@@ -1,0 +1,21 @@
+{
+	"id": "673d941c-19c7-409d-973d-5922e8217317",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Ñuble, Maule y Biobío",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-03-23T05:36:37.689Z",
+	"updatedAt": "2026-03-23T05:49:42.590Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-uble-maule-y-biobio-2026-03-23-02-33-07",
+	"parentId": "62dd4cef-d2b3-4c54-803e-55e00eccf933",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule, Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 02:29 horas en las regiones de Ñuble, Maule y Biobío. Las intensidades en escala de Mercalli son:</p><p><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Talca:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Biobío </strong></p></td></tr><tr><td><p>Concepción:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>San   Fabián: </p></td><td><p>IV</p></td></tr><tr><td><p>Chillán:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br></span></p><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.3 localizado a 25 Kms al Este de Cauquenes.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

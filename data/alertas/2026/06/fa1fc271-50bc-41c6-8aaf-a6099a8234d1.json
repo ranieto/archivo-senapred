@@ -1,0 +1,20 @@
+{
+	"id": "fa1fc271-50bc-41c6-8aaf-a6099a8234d1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Maule por evento meteorológico",
+	"fechaHora": "2026-06-23T18:56:22.2222-04:00",
+	"createdAt": "2026-06-23T22:57:20.510Z",
+	"updatedAt": "2026-06-23T22:58:37.359Z",
+	"urlAccess": "monitoreo-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-2026-06-20-13-00-43",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos para la Región del Maule, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align: center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p style=\"text-align: center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A269</span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Viento normal a moderado con probabilidad de viento blanco en cordillera.</span></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A277</span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Probables tormentas eléctricas en valle, precordillera y cordillera.</span></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A279</span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Heladas normales a moderadas con probabilidad de formación de escarcha en cordillera de la costa, valle y precordillera.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico,&nbsp;</strong>que se mantuvo vigente desde el 18 de junio de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

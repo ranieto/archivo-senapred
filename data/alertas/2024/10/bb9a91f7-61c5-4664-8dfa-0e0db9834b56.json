@@ -1,0 +1,20 @@
+{
+	"id": "bb9a91f7-61c5-4664-8dfa-0e0db9834b56",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Provincia de Isla de Pascua por incendio forestal",
+	"fechaHora": "2024-10-09T00:27:21.2121-03:00",
+	"createdAt": "2024-10-09T03:28:26.903Z",
+	"updatedAt": "2024-10-09T19:16:16.306Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-isla-de-pascua-por-incendio-forestal-2",
+	"parentId": "0ca8c35d-86cc-4d1b-9618-f251d4110e73",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <span style=\"color: rgb(0, 0, 0)\"><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se informa el siguiente detalle respecto del incendio forestal “Frente a Papa Vaka”, en la comuna de Isla de Pascua:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Frente a Papa Vaka</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">80 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal se encuentra con   flanco derecho controlado y flanco izquierdo activo con avance medio.</p><p style=\"text-align:justify\">Se ha dispuesto una guardia nocturna   por parte de la comunidad indígena Mau Henua y camión aljibe municipal.</p><p style=\"text-align:justify\">De acuerdo a la planificación,   durante la jornada de mañana 09 de octubre se dispondrá de los siguiente   recursos:</p><p style=\"text-align:justify\">- 2 brigadas de CONAF.</p><p style=\"text-align:justify\">- 1 técnico de CONAF.</p><p style=\"text-align:justify\">- 1 puesto de mando de CONAF.</p><p style=\"text-align:justify\">- 1 camión aljibe municipal.</p><p style=\"text-align:justify\">- Bomberos.</p></td></tr></tbody></table><p style=\"text-align:justify\">Según lo informado por la Corporación Nacional Forestal (CONAF), se señala que al momento este incidente no amenaza a la vegetación del Volcán Ranu Raraku. </p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Provincia de Isla de Pascua</strong>, por incendio forestal, que se encuentra vigente desde el 08 de octubre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "fa3b5da3-0c8b-4c98-947f-869fa873e3fc",
+	"type": "Alerta",
+	"titulo": "prueba link 2",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-12T21:37:34.722Z",
+	"updatedAt": "2023-09-20T14:06:53.842Z",
+	"urlAccess": "prueba-link-1",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo, Región de Atacama\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>xxxxxxxxxxxxxxxxxxxx mmmmmmmmmmmm nnnnnnnnnnnnnnnn</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "d963dcb2-eb30-492a-87d5-ae459c7b0d9e"
+}

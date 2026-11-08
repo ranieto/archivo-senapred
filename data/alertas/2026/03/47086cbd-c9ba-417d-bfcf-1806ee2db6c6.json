@@ -1,0 +1,20 @@
+{
+	"id": "47086cbd-c9ba-417d-bfcf-1806ee2db6c6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Provincia de Isla de Pascua por incendio forestal",
+	"fechaHora": "2026-03-16T21:28:43.4343-03:00",
+	"createdAt": "2026-03-17T00:31:02.557Z",
+	"updatedAt": "2026-03-17T17:32:39.775Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-isla-de-pascua-por-incendio-forestal-2026-03-16-21-30-44",
+	"parentId": "5e2196b1-03e5-4008-88e9-2f46c5676402",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:16px;color:black\">De acuerdo con la información&nbsp;</span></strong><span style=\"font-size: 16px\"><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color:black\">respecto al incendio forestal en la para la Provincia de Isla de Pascua se informa el siguiente detalle:</span></span></p><p><span style=\"font-size: 16px\"><span style=\"color:black\"><br></span></span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong><span style=\"font-size:16px\">Nombre   del incendio</span></strong></a></p></td><td><p><span style=\"font-size:16px\">31   D</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">En   combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">8 (ha)</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Recursos</span></strong></p></td><td><p><span style=\"font-size:16px\">Bomberos de Isla de Pascua; 1 brigada de CONAF,   1 BRIFAR, 1 técnico de Conaf, 1 camión aljibe y carabineros</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:16px\">Incendio cercano a sectores poblados</span></p></td></tr></tbody></table><p></p><p><span style=\"font-size:16px\"><br></span></p><p><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Roja para la Provincia de Isla de Pascua por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:16px\"><br></span></p><p><span style=\"font-size:16px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

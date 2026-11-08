@@ -1,0 +1,20 @@
+{
+	"id": "71372973-b7e2-47a2-a652-54c9634f0579",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Los Álamos por incendio forestal",
+	"fechaHora": "2025-02-14T15:42:00.000-03:00",
+	"createdAt": "2025-02-14T18:54:02.948Z",
+	"updatedAt": "2025-02-16T00:15:52.236Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-alamos-por-incendio-forestal-2",
+	"parentId": "6401458f-fad0-4bc2-a1cc-57e1ae29f832",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Los Álamos,se informa el siguiente detalle:</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED&nbsp;mantiene la Alerta Roja para la comuna de Los Álamos, por incendio forestal, que se encuentra vigente&nbsp;desde el 13 de febrero de 2025.<br></p><div><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>ARAUCANA TRES PINOS</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 brigadas y 1 camión cisterna de Conaf, Además de Bomberos de Los Álamos.</p></td></tr></tbody></table></div><div><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

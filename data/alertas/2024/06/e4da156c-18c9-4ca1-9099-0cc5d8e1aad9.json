@@ -1,0 +1,20 @@
+{
+	"id": "e4da156c-18c9-4ca1-9099-0cc5d8e1aad9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Natales por alteración del suministro de agua potable",
+	"fechaHora": "2024-06-21T00:36:12.1212-04:00",
+	"createdAt": "2024-06-21T04:37:46.274Z",
+	"updatedAt": "2024-06-27T23:06:55.731Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-natales-por-alteracion-del-suministro-de-agua-potable",
+	"parentId": "b651ddbc-3550-4c29-9b5d-5171cf955162",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Última Esperanza\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Natales\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED de Magallanes, en consideración a lo reportado por la Ilustre municipalidad de Natales, se indica que un número indeterminado de clientes se ven afectados por el congelamiento del sistema de distribución de agua potable.<br></p><p style=\"text-align:justify\">Asimismo, según indica el pronóstico público emitido por el Centro Meteorológico Regional Austral, el cual indica las temperaturas (°C) mínimas esperadas según el siguiente detalle:</p><div><table><tbody><tr><td colspan=\"6\"><p style=\"text-align:center\"><strong><span style=\"color:black\">Puerto Natales</span></strong></p></td></tr><tr><td colspan=\"2\"><p style=\"text-align:center\"><strong><span style=\"color:black\">Viernes 21 de junio</span></strong></p></td><td colspan=\"2\"><p style=\"text-align:center\"><strong><span style=\"color:black\">Sábado 22 de junio</span></strong></p></td><td colspan=\"2\"><p style=\"text-align:center\"><strong><span style=\"color:black\">Domingo 23 de junio</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Mínima</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">Máxima</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">Mínima</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">Máxima</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">Mínima</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">Máxima</span></p></td></tr><tr><td><p style=\"text-align:center\">-12</p></td><td><p style=\"text-align:center\">-4</p></td><td><p style=\"text-align:center\">-5</p></td><td><p style=\"text-align:center\">1</p></td><td><p style=\"text-align:center\">-5</p></td><td><p style=\"text-align:center\">2</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento en la ocurrencia de situaciones de emergencia, como el congelamientos del sistema de suministro de gas (GPL), aumento de la presencia de escarcha en vías de circulación y afectación a previos agrícolas y ganaderos, y en coordinación con la Delegación Presidencial Regional de Magallanes y La Antártica Chilena, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por alteración del suministro de agua potable para la comuna de Natales,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9a4eebe7-b7fc-43e9-8844-a8eb762eee7d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de Valparaíso por calor extremo",
+	"fechaHora": "2026-01-01T12:22:00.000-03:00",
+	"createdAt": "2026-01-01T15:35:22.443Z",
+	"updatedAt": "2026-01-01T15:36:57.979Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-valparaiso-por-calor-intenso-2025-12-28-12-14-46",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), a través de su Alerta AA109-1, Aviso A498-6 y pronósticos meteorológicos vigentes, </span><strong>se informa la disminución de las temperaturas en la región</strong><span style=\"color: black\">, por lo que ya no se presentan ni se pronostican las condiciones que dieron origen a esta alerta.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja para la Región de Valparaíso (a excepción del territorio insular) por calor extremo, </strong>que se mantuvovigente desde el 28 de diciembre de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

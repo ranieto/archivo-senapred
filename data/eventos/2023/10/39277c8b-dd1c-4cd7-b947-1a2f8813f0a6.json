@@ -1,0 +1,19 @@
+{
+	"id": "39277c8b-dd1c-4cd7-b947-1a2f8813f0a6",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Atacama",
+	"fechaHora": "2023-10-08T06:32:00.000-03:00",
+	"createdAt": "2023-10-08T09:50:09.333Z",
+	"updatedAt": "2023-10-08T09:50:09.333Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-7",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad fue percibido a las 06:29 horas en la Región de Atacama.<br><br>Las intensidades en Escala de Mercalli son:<br><br>Región: Atacama<br>Freirina:\tIV<br>Huasco:\tIV<br>Vallenar:\tIII<br>Alto del Carmen:\tIII<br><br>No se reportan daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br><br>Centro Sismológico Nacional indica que la magnitud del sismo fue 4.1, localizado 18 Km al Sur de Huasco<br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

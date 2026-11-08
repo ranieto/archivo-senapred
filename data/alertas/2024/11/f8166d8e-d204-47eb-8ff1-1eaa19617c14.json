@@ -1,0 +1,20 @@
+{
+	"id": "f8166d8e-d204-47eb-8ff1-1eaa19617c14",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2024-11-28T20:58:09.099-03:00",
+	"createdAt": "2024-11-28T23:59:09.905Z",
+	"updatedAt": "2024-11-29T00:00:18.991Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ovalle-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Ovalle se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Sonora Ruta D-635</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>19.5 hectárea</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Trabajaron durante la presente   jornada 2 brigadas y 2 camiones aljibe de CONAF y Bomberos de Ovalle.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Ovalle, por incendio forestal, que se mantuvo vigente durante hoy 28 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

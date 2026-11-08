@@ -1,0 +1,20 @@
+{
+	"id": "cdc1de0a-fa1b-413b-86cd-3ff2c81191be",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región Coquimbo por evento zoosanitario",
+	"fechaHora": "2023-02-24T21:35:00.000-03:00",
+	"createdAt": "2023-10-25T22:46:46.601Z",
+	"updatedAt": "2023-10-25T22:46:46.601Z",
+	"urlAccess": "monitoreo-alerta-temprana-preventiva-para-la-region-coquimbo-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><strong>De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG)</strong>, en función de la Emergencia Zoosanitaria y de la Alerta Temprana Preventiva Regional por “Influenza Aviar” H5N1, se informa lo siguiente:</p><table><tbody><tr><td><div>Cantidad de brotes a la fecha</div></td><td><div>10 (agrupados en 6 zonas)</div></td></tr><tr><td><div>Comunas afectadas</div></td><td><div>Los Vilos, La Higuera, La Serena y Coquimbo</div></td></tr><tr><td><div>Cantidad de aves muestreadas</div></td><td><div>112</div></td></tr><tr><td><div>Cantidad de casos positivos</div></td><td><div>10 (Agrupados en 6 zonas)</div></td></tr><tr><td><div>Cantidad de aves muertas</div></td><td><div>980</div></td></tr><tr><td><div>Especies afectadas</div></td><td><div>Pelicano y Gaviota Dominicana</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes, la Dirección Regional de SENAPRED Coquimbo,<strong>mantiene la Alerta Temprana Preventiva</strong>para la Región Coquimbo, por evento zoosanitario, la que se mantiene vigente desde el 29 de diciembre de 2022.</p><p style=\"text-align: justify\">Se mantiene el despliegue de equipos profesionales del SAG, realizando acciones de monitoreo, vigilancia y gestión de material de riesgo (cadáveres y aves enfermas) y la vigilancia para influenza aviar en toda la región.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

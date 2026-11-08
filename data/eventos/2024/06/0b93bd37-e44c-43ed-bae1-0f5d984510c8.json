@@ -1,0 +1,19 @@
+{
+	"id": "0b93bd37-e44c-43ed-bae1-0f5d984510c8",
+	"type": "Evento",
+	"titulo": "Accidente terrestre, Comuna de San Bernardo (Información preliminar)",
+	"fechaHora": "2024-06-20T01:04:08.088-04:00",
+	"createdAt": "2024-06-20T05:05:45.245Z",
+	"updatedAt": "2024-06-20T06:04:11.302Z",
+	"urlAccess": "accidente-terrestre-comuna-de-san-bernardo-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"San Bernardo\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información preliminar proporcionada por la Dirección Regional Metropolitana de SENAPRED</span></strong><span style=\"color: black\">, se reporta una colisión entre un tren de carga y un tren de pasajeros, ocurrida en el kilómetro 25 de la Autopista Central (dirección Sur a Norte).</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento, se reportan 2 personas fallecidas y se mantiene en evaluación la cantidad de personas lesionadas. </span></p><p style=\"text-align:justify\">En el lugar trabajan Bomberos de San Bernardo, Carabineros, SAMU, Autopista Central y personal municipal.<br></p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

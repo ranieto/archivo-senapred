@@ -1,0 +1,20 @@
+{
+	"id": "d5117198-24c4-433d-a629-c729ab2cd4cd",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Parral por incendio forestal",
+	"fechaHora": "2026-02-28T19:49:30.3030-03:00",
+	"createdAt": "2026-02-28T22:52:56.170Z",
+	"updatedAt": "2026-03-10T23:42:43.702Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-parral-por-incendio-forestal-2026-02-24-18-33-33",
+	"parentId": "af2658f7-c85a-469b-b13a-ad0c39552b4f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Parral\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Parral,&nbsp;</strong>se informa el siguiente detalle:</p><p style=\"text-align: justify\"><br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">EL BOSQUE</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">3.516 (ha)</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">6 brigadas CONAF, 4 Técnicos CONAF, 2 helicópteros gestión SENAPRED, 1 avión de observación Conaf, 1 cambión pluma, 1 skidder Conaf, 1 puesto de comando Conaf, 1 ambulancia, 2 camiones Cisterna Conaf.</p></td></tr></tbody></table></div><div><br></div><div>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Parral, por incendio forestal, que se encuentra vigente desde el 24 de febrero de 2026.<br></div><div><br></div><div><br></div><div>​<span style=\"color: rgb(0, 0, 0);font-size: 15px\">SENAPRED&nbsp;</span><span style=\"color: rgb(0, 0, 0);font-size: 15px\">recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder; no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (</span><a rel=\"noreferrer noopener\" href=\"https://web.senapred.cl/visor-chile-preparado/\"><span style=\"color: rgb(5, 99, 193);font-size: 15px\">https://web.senapred.cl/visor-chile-preparado/</span></a><span style=\"color: rgb(0, 0, 0);font-size: 15px\">). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).</span>​<br></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

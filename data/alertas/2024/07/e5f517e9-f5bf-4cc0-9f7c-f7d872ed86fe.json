@@ -1,0 +1,21 @@
+{
+	"id": "e5f517e9-f5bf-4cc0-9f7c-f7d872ed86fe",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva, para las comunas de Lago Ranco, Río Bueno y Futrono en la Región de Los Ríos y Puyehue en la Región de Los Lagos, por actividad del complejo volcánico Puyehue- Cordón Caulle",
+	"fechaHora": "2024-07-08T16:51:00.000-04:00",
+	"createdAt": "2024-07-08T21:02:18.507Z",
+	"updatedAt": "2024-08-08T22:51:05.790Z",
+	"urlAccess": "monitoreo-alerta-temprana-preventiva-para-las-comunas-de-lago-ranco-rio-bueno-y-futrono-en-la-region-de-los-rios-y-puyehue-en-la-region-de-los-lagos-por-actividad-del-complejo-volcanico-puyehue--cordon-caulle",
+	"parentId": "efd26c73-2ef7-4cc4-9e5d-f0566fac8f64",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef",
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos, Región de los Ríos\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN),</strong> el <strong>Complejo volcánico Puyehue-Cordón Caulle mantiene la alerta técnica en nivel Amarilla<a name=\"_ftnref1\" href=\"#_ftn1\"><sup>[1]</sup></a>.</strong><br></p><p style=\"text-align:justify\">En relación con el último Reporte de Actividad Volcánica (RAV), que evaluó el periodo comprendido entre el 16 al 30 de junio de 2024, se informa que se ha observado sismicidad volcánica de menor energía y baja recurrencia, localizada preferencialmente en cercanías al centro de emisión del año 2011 y al sur de este.</p><p style=\"text-align:justify\">El proceso de deformación volcánica permanece activo, aunque con tasas menores a lo observado durante quincenas anteriores. Estas condiciones permiten sugerir que, aunque existe una baja en los parámetros de monitoreo, aún se encuentran por encima de lo que se considera su umbral base.</p><p style=\"text-align:justify\">Para más información del organismo técnico, consultar en <a href=\"https://rnvv.sernageomin.cl/complejo-volcanico-puyehue-cordon-caulle/\"><span style=\"color:blue\">https://rnvv.sernageomin.cl/complejo-volcanico-puyehue-cordon-caulle/</span></a></p><p style=\"text-align:justify\">En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN y en coordinación con las Delegaciones Presidenciales Regionales, las Direcciones Regionales del SENAPRED Los Ríos y Los Lagos<strong> mantienen la Alerta Temprana Preventiva, para las comunas de Lago Ranco, Río Bueno y Futrono en la Región de Los Ríos y Puyehue en la Región de Los Lagos, por actividad del complejo volcánico Puyehue- Cordón Caulle</strong>, que permanece vigente desde el 26 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\">Por su parte, SERNAGEOMIN continúa con la vigilancia permanente del complejo volcánico y las Direcciones Regionales de SENAPRED Los Ríos y Los Lagos, mantendrán las coordinaciones con los integrantes del SINAPRED para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia.</p><p style=\"text-align:justify\"><a name=\"_ftn1\" href=\"#_ftnref1\"><span style=\"font-size:12px\">[1]</span></a><span style=\"font-size:12px\"><strong>Alerta técnica en Nivel Amarilla</strong>:comprende variaciones en los niveles de parámetros derivados de la vigilancia que indican que el volcán está por encima de su umbral base y que el proceso es inestable, pudiendo evolucionar aun aumentando o disminuyendo esos niveles, por ende, una erupción probable, se podría desarrollar en un periodo de semanas o meses. </span><strong></strong></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

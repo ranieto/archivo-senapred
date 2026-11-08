@@ -1,0 +1,20 @@
+{
+	"id": "1e8eac02-a079-4b12-bd36-98d038f1f254",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento",
+	"fechaHora": "2023-10-07T18:55:00.000-03:00",
+	"createdAt": "2023-10-07T22:00:45.251Z",
+	"updatedAt": "2023-10-26T02:54:20.072Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos para la Región de Magallanes:<br></p><table><tbody><tr><td><div><strong>Aviso A393-2</strong></div></td><td><div><strong>Viento normal a moderado</strong> (entre 50 y 100 km/h) en las zonas de cordillera austral sur, insular norte, insular central, pampa patagónica norte y pampa patagónica sur, entre la tarde del viernes 06 y la noche del sábado 07 de octubre.</div></td></tr><tr><td><div><strong>Aviso A397</strong></div></td><td><div><strong>Viento normal a moderado </strong>(entre 70 y 90 km/h) en las zonas insular central, pampa patagónica norte y pampa patagónica sur, entre la tarde y noche del domingo 08 de octubre.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva </strong>para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento, que se mantiene vigente desde el 01 de octubre y hasta que las condiciones así lo ameriten.</p><p>La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p><em><strong>SENAPRED</strong> recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.&nbsp;</em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

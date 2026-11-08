@@ -1,0 +1,20 @@
+{
+	"id": "f0a34046-f252-43cb-83c4-e4fe91e19538",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la comuna de Natales por precipitaciones",
+	"fechaHora": "2025-01-27T17:06:00.000-03:00",
+	"createdAt": "2025-01-27T20:13:02.875Z",
+	"updatedAt": "2025-01-30T13:17:52.019Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-natales-por-precipitaciones",
+	"parentId": "ae6bc7a1-cf47-45d2-b32e-8712da7077fb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentra vigente el siguiente alertamiento meteorológico para la Región de Magallanes:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A37</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en Insular Norte de la región.</p></td><td><p style=\"text-align:center\">28-01</p></td><td><p style=\"text-align:center\">29-01</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Además, considerando el Pronóstico Meteorológico Especial emitido durante la presente jornada por el Centro Meteorológico Regional Austral, indica que los montos estimados de precipitación (mm) serán los siguientes:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Sector</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Comuna</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Martes 25</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Miércoles 26</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Isoterma 0°C (m.s.n.m.)</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Insular Norte</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">Natales </span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">40 - 59</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">40 - 59</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">1.500 – 2.600</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva por precipitaciones para la comuna de Natales, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

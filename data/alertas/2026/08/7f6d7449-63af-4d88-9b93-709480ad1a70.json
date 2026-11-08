@@ -1,0 +1,20 @@
+{
+	"id": "7f6d7449-63af-4d88-9b93-709480ad1a70",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Provincia de Osorno por crecida",
+	"fechaHora": "2026-08-05T17:03:00.000-04:00",
+	"createdAt": "2026-08-05T22:09:23.082Z",
+	"updatedAt": "2026-08-05T22:12:58.924Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-osorno-por-crecida-2026-07-31-16-48-56",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas en la Provincia de Osorno se encuentran en umbral verde, con una tendencia sostenida a la disminución de sus caudales.</p><p style=\"text-align:justify\">De igual forma mediante observación de campo, las autoridades provinciales e integrantes del SINAPRED indican un descenso en los niveles de caudal en aquellos sectores donde no existen estaciones hidrométricas de la DGA.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por crecida para la Provincia de Osorno,</strong> que se mantuvo vigente desde el 31 de julio de 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

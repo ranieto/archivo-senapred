@@ -1,0 +1,19 @@
+{
+	"id": "82d664a1-6e4e-47e8-834a-3262d43b6e77",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Coquimbo",
+	"fechaHora": "2023-09-10T04:40:00.000-03:00",
+	"createdAt": "2023-09-10T07:46:26.752Z",
+	"updatedAt": "2023-09-10T07:46:26.752Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-coquimbo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui, Choapa\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"La Serena, La Higuera, Vicuña\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p>Un sismo de menor&nbsp; intensidad se percibió a las 04:39 horas en la Región de Coquimbo. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td><div>La Serena:</div></td><td><div>IV</div></td></tr><tr><td><div>La Higuera:</div></td><td><div>III</div></td></tr><tr><td><div>Tongoy:</div></td><td><div>III</div></td></tr><tr><td><div>Ovalle:</div></td><td><div>III</div></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.5 y se localizó a 20 Kms al Suroeste de La Serena.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

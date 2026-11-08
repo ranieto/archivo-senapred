@@ -1,0 +1,20 @@
+{
+	"id": "f0c163f7-fa0c-4f1b-add8-be2e3ea680e3",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Hualqui por amenaza de desborde",
+	"fechaHora": "2024-08-01T20:34:00.000-04:00",
+	"createdAt": "2024-08-02T02:03:56.559Z",
+	"updatedAt": "2024-08-02T02:04:08.465Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-hualqui-por-amenaza-de-desborde-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Hualqui\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), mediante su Informe de Cauces, indica que las estaciones de red hidrométrica de las provincias de Concepción y Arauco proyectan una subida de nivel de agua en las próximas horas.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, se debe considerar que se mantienen fuertes precipitaciones en ambas provincias y, en base al pronóstico emitido por la Dirección Meteorológica de Chile, el cual indica que continuará precipitando, se presume que en las próximas horas se podrían alcanzar los umbrales de alerta críticos en los ríos Andalién, Butamalal, Estero Hualqui, Bellavista y Estero Plegarias.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe mencionar que, se está realizando <strong>la evacuación de los sectores Puente 1 y Santa Rita de la comuna de Concepción</strong> producto del desborde del río Andalién, lo cual fue reforzado mediante mensajería SAE a las 20:26 horas de hoy. </span></p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Roja por desborde para las provincias de Arauco y Concepción</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la modificación de esta <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

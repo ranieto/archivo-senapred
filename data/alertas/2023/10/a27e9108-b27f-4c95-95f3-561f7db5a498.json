@@ -1,0 +1,20 @@
+{
+	"id": "a27e9108-b27f-4c95-95f3-561f7db5a498",
+	"type": "Alerta",
+	"titulo": "Actualización demostración creación alerta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-23T23:00:53.460Z",
+	"updatedAt": "2023-10-23T23:11:10.660Z",
+	"urlAccess": "demostracion-creacion-alerta",
+	"parentId": "34cabc1c-b377-48dc-8769-76ab0cae8245",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">Se actualiza los siguientes alertamientos para la Región de Magallanes:</span><br><br></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">Aviso A393-2</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">Viento normal a moderado</span></strong><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">&nbsp;(entre 50 y 100 km/h) en las zonas de cordillera austral sur, insular norte, insular central, pampa patagónica norte y pampa patagónica sur, entre la tarde del viernes 06 y la noche del sábado 07 de octubre.</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">Aviso A397</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">Viento normal a moderado&nbsp;</span></strong><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">(entre 70 y 90 km/h) en las zonas insular central, pampa patagónica norte y pampa patagónica sur, entre la tarde y noche del domingo 08 de octubre.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED&nbsp;<strong>actualiza la Alerta Temprana Preventiva&nbsp;</strong>para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento, que se mantiene vigente desde el 01 de octubre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><strong><em><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">SENAPRED</span></em></strong><em><span style=\"font-size: 18px;font-family: Roboto;color: rgb(33, 37, 41)\">&nbsp;recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.&nbsp;</span></em></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

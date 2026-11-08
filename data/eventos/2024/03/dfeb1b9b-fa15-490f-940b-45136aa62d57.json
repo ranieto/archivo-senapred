@@ -1,0 +1,19 @@
+{
+	"id": "dfeb1b9b-fa15-490f-940b-45136aa62d57",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Maule",
+	"fechaHora": "2024-03-23T20:08:00.000-03:00",
+	"createdAt": "2024-03-23T23:09:06.497Z",
+	"updatedAt": "2024-03-23T23:12:05.337Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-maule-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 20:05 horas en la Región de Maule.<br></p><p style=\"text-align:justify\">Las intensidades en escala de Mercalli son las siguientes:</p><p style=\"text-align:justify\"></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Hualañé:   </p></td><td><p>III</p></td></tr><tr><td><p>Talca:   </p></td><td><p>II</p></td></tr></tbody></table><p style=\"text-align:justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

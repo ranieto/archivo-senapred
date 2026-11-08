@@ -1,0 +1,20 @@
+{
+	"id": "ea77a4ef-8dcf-4879-87f4-ba02ec5f83ef",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Queilén por incendio forestal",
+	"fechaHora": "2024-01-22T14:59:00.000-03:00",
+	"createdAt": "2024-01-22T18:10:32.301Z",
+	"updatedAt": "2024-01-23T01:22:07.374Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-queilen-por-incendio-forestal",
+	"parentId": "64c921ab-77a9-4282-b404-e78058518e9b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"color: rgb(46, 46, 46)\">\"Faro Chomio\"</span>, en la comuna de Queilén, se informa los siguiente:<br></span></p><table><tbody><tr><td><p><span style=\"font-size: 14px\"><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></span></p></td><td><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Faro Chomio</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Estado</strong></span></p></td><td><p><span style=\"font-size: 14px\">En combate</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Superficie</strong></span></p></td><td><p><span style=\"font-size: 14px\">1 hectárea</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\"><strong>Observaciones</strong></span></p></td><td><p><span style=\"color: black;font-size: 14px\">Incendio se desarrolla cercano a sectores   habitados.</span></p></td></tr></tbody></table><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED declara <strong>Alerta Roja para la Comuna de Queilén por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

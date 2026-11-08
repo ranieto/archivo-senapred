@@ -1,0 +1,20 @@
+{
+	"id": "33e9fb0b-a13e-4602-9221-283cf9b585c9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2026-03-09T18:04:28.2828-03:00",
+	"createdAt": "2026-03-09T21:06:47.108Z",
+	"updatedAt": "2026-03-09T21:07:17.075Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-2026-03-09-17-06-58",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Miguel   Ángel Alto</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,2   (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo   de Bomberos de Valparaíso, 6 brigadas, 4 técnicos, 3 aviones y 3   helicópteros.</p></td></tr></tbody></table><p><br><br></p><p style=\"text-align:justify\">Término de las condiciones que dieron origen a la declaración de la Alerta.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Valparaíso, por incendio forestal, que se mantuvo vigente desde el 09 de marzo de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

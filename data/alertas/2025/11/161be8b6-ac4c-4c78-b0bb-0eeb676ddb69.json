@@ -1,0 +1,20 @@
+{
+	"id": "161be8b6-ac4c-4c78-b0bb-0eeb676ddb69",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-11-27T03:23:13.636Z",
+	"updatedAt": "2025-12-02T11:26:16.459Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-12",
+	"parentId": "5f5f7ec6-3057-4969-baf3-4614aac12364",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Valparaíso </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Leoncillo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2.5</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos Combarbalá, 1 Brigada CONAF, 2 Técnicos   de CONAF, 1 Carabineros de Chile, 6 Maquinaria Municipal y 3 Camiones aljibe.</p></td></tr></tbody></table><p style=\"text-align:justify\">CONAF, informa que el incendio se encuentra contenido y una disminución de las condiciones que dieron origen a la declaración de la Alerta.</p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED, en coordinación con la Delegación Presidencial Regional de Valparaíso, cancela la Alerta Roja para la Comuna de Valparaíso, por incendio forestal, que se encuentra vigente desde el 26 de noviembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "d4c8bcdb-72a1-4555-8f4d-2534bc1e1e59",
+	"type": "Alerta",
+	"titulo": "prueba publicación historia",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-12T18:16:34.682Z",
+	"updatedAt": "2023-09-20T14:07:23.147Z",
+	"urlAccess": "prueba-declara-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento técnico para la Región de Atacama:<br></p><table><tbody><tr><td><div><strong>Alerta AA63</strong></div></td><td><div>Viento moderado a fuerte en cordillera, con desarrollo de viento blanco, durante el martes 12 de septiembre. Con montos esperados entre 90 y 110 km/h.</div></td></tr><tr><td><div><strong>Aviso A356-2</strong></div></td><td><div>Viento normal a moderado con probabilidad de tormentas de arena, en litoral entre la mañana del martes 12 y la noche del jueves 14 de septiembre; y en precordillera y cordillera durante el martes 12 de septiembre.</div></td></tr><tr><td><div><strong>Aviso A361</strong></div></td><td><div>Probables tormentas eléctricas asociadas con chubascos aislados en cordillera, entre la tarde y la noche del martes 12 de septiembre.</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED<strong>actualiza la Alerta Temprana Preventiva regional</strong>, por evento meteorológico, que se encuentra vigente desde el 08 de septiembre y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align: justify\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p style=\"text-align: justify\"><strong><em>SENAPRED</em></strong><em>recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</em></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "b82ea35e-0f98-4bfd-904f-f6ca5a5221ea"
+}

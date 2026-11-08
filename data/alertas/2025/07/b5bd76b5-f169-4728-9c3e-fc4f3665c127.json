@@ -1,0 +1,20 @@
+{
+	"id": "b5bd76b5-f169-4728-9c3e-fc4f3665c127",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla y Alto del Carmen por viento",
+	"fechaHora": "2025-07-15T05:59:29.2929-04:00",
+	"createdAt": "2025-07-15T10:00:09.219Z",
+	"updatedAt": "2025-07-15T10:00:18.643Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-diego-de-almagro-copiapo-tierra-amarilla-y-alto-del-carmen-por-viento-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se ha cancelado el siguiente alertamiento meteorológico para la </span><span style=\"font-size:15px;color:black\">Región de Atacama, </span><span style=\"font-size:15px;color:black\">debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A266</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado (entre 70 y 90 km/h) en cordillera.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla y Alto del Carmen, </strong>que se mantuvo vigente desde el 13 de julio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

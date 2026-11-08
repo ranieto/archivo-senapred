@@ -1,0 +1,20 @@
+{
+	"id": "815bde66-5a66-4710-9637-6408f152d156",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2025-09-26T19:53:00.000-03:00",
+	"createdAt": "2025-09-26T22:54:57.981Z",
+	"updatedAt": "2025-09-26T22:55:45.812Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-25",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, han sido cancelados los siguientes alertamientos meteorológicos para la Región del Biobío, debido al término de las condiciones meteorológicas que lo originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A372-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas con probabilidad de fuertes rachas de vientos locales en   litoral y cordillera de la costa.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-09</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-09</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A379</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probable   desarrollo de nubes convectivas con características tornádicas en las   Provincias de Arauco y Biobío, con probabilidad de intensos vientos locales   arrachados y tornádicos.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-09</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-09</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, finalizó la vigencia del Aviso Especial emitido por el Centro Meteorológico Marítimo de Talcahuano de la Armada de Chile, que indicaba el posible desarrollo de nubes convectivas, lo que genera condiciones propicias para la formación de trombas marinas en el sector costero entre el Golfo de Arauco y la Región de Los Ríos.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>,la cual se mantuvo vigente desde el 25 de septiembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

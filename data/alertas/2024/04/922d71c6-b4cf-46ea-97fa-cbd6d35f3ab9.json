@@ -1,0 +1,20 @@
+{
+	"id": "922d71c6-b4cf-46ea-97fa-cbd6d35f3ab9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las Provincias de Magallanes y Tierra del Fuego  por viento",
+	"fechaHora": "2024-04-07T17:50:03.033-04:00",
+	"createdAt": "2024-04-07T21:51:24.344Z",
+	"updatedAt": "2024-04-07T21:52:49.992Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-10",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, debido al debilitamiento de las condiciones meteorológicas que lo originaron, se ha cancelado el siguiente alertamiento técnico para la Región de Magallanes:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A85-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en Pampa Patagónica Sur de la región.</p></td><td><p style=\"text-align:center\">06-04</p></td><td><p style=\"text-align:center\">07-04</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, que supone disminución de la amenaza asociada a la condición meteorológica y reduce el factor de riesgo para los habitantes y sus bienes, en coordinación con la Delegación Presidencial de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento</strong>, para las </span><strong><span style=\"color:black\">Provincias de Magallanes y Tierra del Fuego</span></strong><span style=\"color:black\">,</span><span style=\"color:black\">que se mantuvo vigente desde el 06 de abril de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

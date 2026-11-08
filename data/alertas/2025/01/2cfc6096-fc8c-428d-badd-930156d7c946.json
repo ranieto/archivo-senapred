@@ -1,0 +1,20 @@
+{
+	"id": "2cfc6096-fc8c-428d-badd-930156d7c946",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-10T19:59:15.081Z",
+	"updatedAt": "2025-01-10T20:02:38.064Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal ubicado en el sector de Llancanao y Loteo Ribera Achibueno. Incendio forestal conflictivo, con gran emanación de pavesas hasta 200 mts recursos, lo que hace difícil el control, además se encuentra con amenazas inminente a viviendas del lugar.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>San Antonio de Ancoa</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Linares (Llancanao)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>2 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio se desarrolla cercano a sectores poblados</div></td></tr><tr><td><div>Recursos</div></td><td><div>5 brigadas CONAF, 2 técnicos CONAF, 3 helicópteros CONAF, 3 aviones CONAF, 1 puesto de mando y 1 skidder CONAF.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Linares por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

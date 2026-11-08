@@ -1,0 +1,20 @@
+{
+	"id": "70e0e557-dc23-44f5-aec8-db8e40c2df92",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las Provincias de San Felipe y Los Andes por calor extremo",
+	"fechaHora": "2024-02-22T14:52:00.000-03:00",
+	"createdAt": "2024-02-22T18:16:36.553Z",
+	"updatedAt": "2024-02-22T18:24:43.559Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Felipe de Aconcagua, Los Andes\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC</strong>), ha sido cancelada la Alerta Meteorológica AA13/2024 que pronosticaba un evento de altas temperaturas extremas en cordillera de la costa, precordillera y valles precordilleranos de la Región de Valparaíso, así como el Aviso Meteorológico A36-1/2024 por evento de altas temperaturas en cordillera de la costa, precordillera y valles precordilleranos de la región. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\">Por otra parte, de acuerdo con la información señalada en el Pronóstico Público elaborado por DMC, las temperaturas no sobrepasarán los 32°C en los próximos 5 días.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Roja por calor extremo </strong>para las Provincias de San Felipe y Los Andes, la cual se mantuvo vigente desde el 29 de enero de 2024.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene vigente la Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

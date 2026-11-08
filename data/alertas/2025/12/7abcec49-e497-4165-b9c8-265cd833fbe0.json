@@ -1,0 +1,20 @@
+{
+	"id": "7abcec49-e497-4165-b9c8-265cd833fbe0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2025-11-26T22:48:00.000-03:00",
+	"createdAt": "2025-12-12T14:20:46.517Z",
+	"updatedAt": "2025-12-12T14:21:32.943Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-12",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF,&nbsp;</strong>se reporta un incendio forestal con el siguiente detalle:</p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>El Leoncillo</div></td></tr><tr><td><div><strong>Comuna (sector)</strong></div></td><td><div>Valparaíso (Laguna Verde)</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>Contenido</div></td></tr><tr><td><div><strong>Superficie afectada</strong></div></td><td><div>2.5 hectáreas</div></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>Cuerpo de Bomberos de Valparaíso</div><div>14 Brigadas, 4 técnicos, 7 aeronaves, 1 puesto de mando y 1 maquinaria pesada CONAF</div><div>1 camión aljibe municipal</div><div>11 bomberos de Valparaíso</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED, en coordinación con la Delegación Presidencial Regional de Valparaíso, <strong>cancela la Alerta Roja para la Comuna de Valparaíso por incendio forestal,</strong> que se encuentra vigente desde el 26 de noviembre de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

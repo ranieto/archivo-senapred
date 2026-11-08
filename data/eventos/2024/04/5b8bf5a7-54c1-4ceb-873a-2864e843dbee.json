@@ -1,0 +1,20 @@
+{
+	"id": "5b8bf5a7-54c1-4ceb-873a-2864e843dbee",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de La Araucanía y Los Ríos",
+	"fechaHora": "2024-04-24T11:17:40.4040-04:00",
+	"createdAt": "2024-04-24T15:19:26.121Z",
+	"updatedAt": "2024-04-24T15:34:45.415Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-los-rios-2",
+	"parentId": "ece17ec7-4f0f-457f-a4b4-6ed8dca61c0a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b",
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía, Región de los Ríos\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 11:11 horas en las regiones de La Araucanía y Los Ríos. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Queule:   </p></td><td><p>III</p></td></tr><tr><td><p>Toltén:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Los Ríos </strong></p></td></tr><tr><td><p>Panguipulli   : </p></td><td><p>IV</p></td></tr><tr><td><p>Valdivia   : </p></td><td><p>III</p></td></tr><tr><td><p>Lanco   : </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.1 localizado a37 Kms al Oeste de Panguipulli</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

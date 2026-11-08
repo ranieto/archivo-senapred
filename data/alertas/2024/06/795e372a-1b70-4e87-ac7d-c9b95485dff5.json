@@ -1,0 +1,20 @@
+{
+	"id": "795e372a-1b70-4e87-ac7d-c9b95485dff5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por evento meteorológico",
+	"fechaHora": "2024-06-27T13:50:47.4747-04:00",
+	"createdAt": "2024-06-27T17:51:40.753Z",
+	"updatedAt": "2024-06-27T17:52:03.073Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-excepto-la-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los alertamientos meteorológicos que afectaban a la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron, lo que ha supuesto una disminución de las variables de riesgos asociados al paso del sistema frontal.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta temprana Preventiva regional por evento meteorológico,</strong></span><span style=\"color:black\">excepto la provincia de Isla de Pascua y comuna de Juan Fernández que se mantuvo vigente desde el 23 de junio de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

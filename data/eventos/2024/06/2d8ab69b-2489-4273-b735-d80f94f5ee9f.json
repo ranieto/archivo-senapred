@@ -1,0 +1,19 @@
+{
+	"id": "2d8ab69b-2489-4273-b735-d80f94f5ee9f",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2024-06-07T22:26:00.000-04:00",
+	"createdAt": "2024-06-08T02:29:06.181Z",
+	"updatedAt": "2024-06-08T02:32:41.618Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-5",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Puchuncaví, Viña del Mar, Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor&nbsp; intensidad se percibió a las 22:23 horas en la Región de Valparaíso. Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>La   Ligua: </p></td><td><p>IV</p></td></tr><tr><td><p>Puchuncaví­:   </p></td><td><p>IV</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>IV</p></td></tr><tr><td><p>Viña   del Mar: </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

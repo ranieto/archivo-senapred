@@ -1,0 +1,20 @@
+{
+	"id": "ddec40ae-d50e-4e8e-93cd-8e89410d8c12",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Chaitén por incendio forestal",
+	"fechaHora": "2024-02-03T17:22:22.2222-03:00",
+	"createdAt": "2024-02-03T20:23:41.614Z",
+	"updatedAt": "2024-02-03T20:25:45.001Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-chaiten-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Palena\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Chaitén\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157376193\"><strong><span style=\"color:black\">De acuerdo c</span></strong></a><span style=\"color: black\">on <strong>la información proporcionada por CONAF</strong>, </span><span style=\"color: black\">se reporta el siguiente detalle respecto del incendio forestal</span> “<span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Aquellas</span>,<span style=\"color: black\">”, en la comuna </span><span style=\"color: black\">de Chaitén:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Aquellas</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.5 hectáreas</p></td></tr></tbody></table><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Chaitén, por incendio forestal, que se mantuvo vigente desde el 31 de enero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

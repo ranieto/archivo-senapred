@@ -1,0 +1,20 @@
+{
+	"id": "f8e34a6b-4781-4c77-ad33-966d7ccbe5ff",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Puerto Montt por remoción en masa",
+	"fechaHora": "2025-06-19T12:00:00.000-04:00",
+	"createdAt": "2025-06-19T16:23:19.789Z",
+	"updatedAt": "2025-07-17T23:46:51.312Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-puerto-montt-por-remocion-en-masa",
+	"parentId": "9cf3f7a9-50a8-4725-b5ae-3dc76ef8aeb8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos, respecto a la remoción en masa ocurrida en el kilómetro 10 de la Ruta V-805, comuna de Puerto Montt, se informa que el tránsito vehicular permanece interrumpido para todo tipo de vehículos, sin embargo se trabaja en la implementación de medidas que permitan recuperar el funcionamiento de la vía y la minimización de riesgos adicionales frente a este evento.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene la</strong></span><strong><span style=\"color:black\"> Alerta Amarilla por remoción en masa </span><span style=\"color:black\">para la comuna de Puerto Montt</span></strong><span style=\"color:black\">, que se encuentra vigente desde el 13 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en los cursos de acción y superación de la emergencia, Delegación Presidencial Regional, Alcalde y personal municipal de la comuna de Puerto Montt, Bomberos de Puerto Montt, Carabineros, Dirección Regional de SENAPRED Los Lagos, SEREMI de Transportes y Telecomunicaciones, SERNAGEOMIN, Ministerio de Obras Públicas y Cuerpo Militar del Trabajo.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de la evaluación técnica y el desarrollo de mesas técnicas, se han dispuesto las siguientes medidas:</span></p><ul type=\"disc\"><li><span style=\"font-size:15px;color:black\">Habilitación de una barrera tipo      New Jersey como medida de contención preventiva.</span></li><li><span style=\"font-size:15px;color:black\">Implementación de señalética de      seguridad, para el ordenamiento vial y el resguardo del perímetro de      riesgo.</span></li><li><span style=\"font-size:15px;color:black\">Actualmente el tránsito vehicular      permanece interrumpido para todo tipo de vehículos, no obstante, a contar      del viernes 20 de junio se habilitará una vía para ambos sentidos (entre      06:00 y 21:00 horas) como medida transitoria, controlada por Carabineros.</span></li></ul>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

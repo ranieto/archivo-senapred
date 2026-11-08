@@ -1,0 +1,20 @@
+{
+	"id": "b636f3e9-4339-49ae-ab9d-c0a23757e4b8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por viento",
+	"fechaHora": "2024-02-06T10:33:00.000-03:00",
+	"createdAt": "2024-02-06T13:46:28.110Z",
+	"updatedAt": "2024-02-06T13:46:41.169Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-de-la-antartica-chilena-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A24-1/2024</span><strong>, </strong><span style=\"font-size: 15px\">el cual pronosticabaviento normal a moderado en la Región de Magallanes. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED Magallanes en coordinación con la Delegación Presidencial <strong>cancela la Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por viento</strong>, la cual se mantuvo vigente desde el 02 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

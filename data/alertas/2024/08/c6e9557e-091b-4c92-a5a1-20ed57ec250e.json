@@ -1,0 +1,20 @@
+{
+	"id": "c6e9557e-091b-4c92-a5a1-20ed57ec250e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Carahue por amenaza de desborde",
+	"fechaHora": "2024-08-01T22:05:00.000-04:00",
+	"createdAt": "2024-08-02T03:04:43.699Z",
+	"updatedAt": "2024-08-04T02:47:57.036Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-carahue-por-amenaza-de-desborde-3",
+	"parentId": "70ba75d0-780c-42c5-ad6d-7d2f46ba1aaa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Carahue\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que las estaciones de red pluviométrica del<strong> “Río Damas” en la comuna de Carahue</strong>, se encuentra <strong>en umbral de Alerta Amarilla </strong>con tendencia a subida.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, <span style=\"color:black\">que supone un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por amenaza de desborde para la comuna de Carahue</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

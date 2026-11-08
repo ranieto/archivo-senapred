@@ -1,0 +1,20 @@
+{
+	"id": "97fed0a4-ac07-4f31-b739-cffbc590b795",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de San José de Maipo por incendio forestal",
+	"fechaHora": "2025-01-19T18:33:00.000-03:00",
+	"createdAt": "2025-01-19T21:36:14.447Z",
+	"updatedAt": "2025-01-21T23:47:17.328Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-jose-de-maipo-por-incendio-forestal-2",
+	"parentId": "26ff36d4-0c0a-4e3c-b7f3-5638fcc3baa2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal que se desarrolla en la comuna de San José de Maipo, se informa lo siguiente:</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>El Canelo<br></div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>San José de Maipo (Comunidad Ecologica El Canelo)<br></div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>10 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Según lo indicado por CONAF, el incendio forestal se desarrolla cercano a sectores poblados.</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 brigadas y 2 técnicos CONAF</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de <strong>SENAPRED </strong>declara Alerta Roja para la comuna de San José de Maipo por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br></p><p style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

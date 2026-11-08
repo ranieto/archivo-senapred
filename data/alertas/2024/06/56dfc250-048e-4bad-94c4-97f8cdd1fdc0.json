@@ -1,0 +1,20 @@
+{
+	"id": "56dfc250-048e-4bad-94c4-97f8cdd1fdc0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Arauco por desborde",
+	"fechaHora": "2024-06-09T11:35:00.000-04:00",
+	"createdAt": "2024-06-09T15:40:45.901Z",
+	"updatedAt": "2024-06-11T04:00:45.181Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red pluviométrica del Río Pichilo en la comuna de Arauco, se <span style=\"color: black\">encuentra fuera de nivel de umbral amarillo con tendencia de niveles a la baja.</span><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Roja por desborde<span style=\"color:black\"> y declara Alerta Amarilla por Amenaza de desborde para la comuna de Arauco, </span></strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten. </p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b53ba267-7999-4b55-ae98-1e362c520d85",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por para la comuna de Chillan Viejo incendio forestal ",
+	"fechaHora": "2025-02-24T15:04:00.000-03:00",
+	"createdAt": "2025-02-24T18:14:12.753Z",
+	"updatedAt": "2025-02-24T20:03:13.056Z",
+	"urlAccess": "se-declara-alerta-roja-por-para-la-comuna-de-chillan-viejo-incendio-forestal",
+	"parentId": "167d5c2a-01a4-4e68-85b9-553ff71118af",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chillán Viejo\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Chillán Viejo </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Los Fundadores</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de chillan, 3 Brigadas CONAF, 3 Avión cisterna</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de Chillan Viejo con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

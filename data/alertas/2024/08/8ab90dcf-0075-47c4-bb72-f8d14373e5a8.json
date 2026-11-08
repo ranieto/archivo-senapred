@@ -1,0 +1,20 @@
+{
+	"id": "8ab90dcf-0075-47c4-bb72-f8d14373e5a8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2024-08-24T00:04:39.3939-04:00",
+	"createdAt": "2024-08-24T04:06:24.915Z",
+	"updatedAt": "2024-08-24T04:07:11.415Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-lo-barnechea-vitacura-las-condes-la-reina-penalolen-la-florida-puente-alto-y-san-jose-de-maipo-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 310-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado en cordillera con probabilidad de   viento blanco.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">19-08</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">23-08</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A313</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas con probabilidad de granizos en   la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">21-08</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">21-08</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantenía vigente desde el 17 de agosto del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6313ea91-e2de-4ebe-9fa5-f59f94241c78",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la región de Los Lagos por evento meteorológico ",
+	"fechaHora": "2025-05-18T13:58:43.4343-04:00",
+	"createdAt": "2025-05-18T17:59:22.796Z",
+	"updatedAt": "2025-05-18T18:00:17.964Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-13",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black;font-size: 12px\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black;font-size: 12px\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\"><span style=\"font-size: 12px\">Aviso 176</span></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 12px\">Probables tormentas eléctricas en los sectores de Valle, Chiloé y Litoral interior.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">Asimismo, conforme a lo indicado en el Informe de Amenaza Meteorológica de la DMC, se prevén precipitaciones dentro de rangos normales para la región.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional Los Lagos, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por evento meteorológico</strong>, que se mantenía vigente desde el 14 de mayo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

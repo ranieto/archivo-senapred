@@ -1,0 +1,20 @@
+{
+	"id": "53eb2414-15b8-4b5c-9de9-44db367e8888",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento meteorológico",
+	"fechaHora": "2024-02-09T01:17:23.2323-03:00",
+	"createdAt": "2024-02-09T04:19:04.909Z",
+	"updatedAt": "2024-02-09T04:19:29.206Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-tormentas-electricas-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelada la Alerta Meteorológica AA11-2/2024 la cual pronosticaba tormentas eléctricas en precordillera y cordillera de la región, así como los Avisos A9-10/2024 y A25-1/2024, por Probables tormentas eléctricas, y precipitaciones normales a moderada en corto periodo de tiempo, respectivamente. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br></p><p style=\"text-align:justify\">En consideración a los antecedentes, que suponen una disminución del riesgo asociado a dicha variable Dirección Regional del SENAPRED Arica y Parinacota en coordinación con la Delegación Presidencial cancela la Alerta Temprana Preventiva regional por evento meteorológico, que se mantuvo vigente desde el 18 de enero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

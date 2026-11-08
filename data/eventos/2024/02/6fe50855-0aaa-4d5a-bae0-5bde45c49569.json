@@ -1,0 +1,19 @@
+{
+	"id": "6fe50855-0aaa-4d5a-bae0-5bde45c49569",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Maule",
+	"fechaHora": "2024-02-27T01:48:00.000-03:00",
+	"createdAt": "2024-02-27T05:04:38.838Z",
+	"updatedAt": "2024-02-27T05:05:33.254Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-maule-2",
+	"parentId": "2e066a7f-bc5e-4de7-bf71-31c21e014b92",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 01:43 horas en la Región de Maule.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Maule</strong></p></td></tr><tr><td><p>Talca:</p></td><td><p>IV</p></td></tr></tbody></table><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p style=\"text-align: justify\">El Centro Sismológico Nacional indica que la magnitud fue 3.8, localizada a 22 Kms al Este de Curicó.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "dbe45dd7-be12-4d4c-aa71-f16417ac317c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Lautaro por amenaza de desborde",
+	"fechaHora": "2024-06-27T17:41:54.5454-04:00",
+	"createdAt": "2024-06-27T21:42:53.152Z",
+	"updatedAt": "2024-06-29T18:19:49.580Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lautaro-por-amenaza-de-desborde",
+	"parentId": "2e57020e-a9cd-4847-83d0-f13d31b2ab2a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Lautaro\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Muco en Puente Muco” en la comuna de Lautaro, ha alcanzado los valores del umbral de Alerta Amarilla.<br></p><p style=\"text-align:justify\">Cabe mencionar que, si el caudal sigue aumentando puede producir daños en sectores poblados e infraestructura, requiriendo acciones de mitigación y prevención tales como evacuaciones y disponibilidad de recursos humanos y materiales.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por amenaza de desborde para la comuna de Lautaro,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

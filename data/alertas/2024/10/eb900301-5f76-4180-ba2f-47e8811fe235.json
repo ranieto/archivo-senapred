@@ -1,0 +1,20 @@
+{
+	"id": "eb900301-5f76-4180-ba2f-47e8811fe235",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso, excepto la comuna de Juan Fernández y la Provincia de Isla de Pascua por evento meteorológico",
+	"fechaHora": "2024-10-10T08:43:00.000-03:00",
+	"createdAt": "2024-10-10T11:55:20.906Z",
+	"updatedAt": "2024-10-10T12:04:34.260Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-los-andes-san-felipe-y-petorca-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Los Andes, Petorca, Quillota, San Antonio, San Felipe de Aconcagua, Marga Marga\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A371-7/2024, el cual pronosticaba probables tormentas eléctricas con posibilidad de precipitaciones fuertes en un corto período de tiempo en cordillera de la Región de Valparaíso. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional, excepto la comuna de Juan Fernández y la Provincia de Isla de Pascua, por evento meteorológico</strong>, que se mantuvo vigente desde el 05 de octubre de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

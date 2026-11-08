@@ -1,0 +1,20 @@
+{
+	"id": "cfa46771-bde1-479e-9f18-311b84680b26",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Vallenar por incendio forestal",
+	"fechaHora": "2025-07-01T18:43:00.000-04:00",
+	"createdAt": "2025-07-01T22:59:56.989Z",
+	"updatedAt": "2025-07-01T23:00:36.462Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-vallenar-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Vallenar </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>La Verbena</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.5 hectárea</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Vallenar, Freirina y Huasco, 1 Técnicos   CONAF.</p><p>Otros recursos: Carabineros SAMU Personal municipal</p></td></tr><tr><td><p><strong>Afectación</strong></p></td><td><p>2 personas damnificadas y 2 viviendas con daño mayor </p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Vallenar, por incendio forestal, que se mantuvo vigente desde Cabe señalar, que se mantiene vigente la Alerta Temprana Preventiva por amenaza de incendios forestales para las comunas de Caldera, Copiapó, Tierra Amarilla, Huasco, Freirina, Vallenar y Alto del Carmen.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "1dbe6bc7-c393-4a96-b6d7-1ca1c08e6bed",
+	"type": "Evento",
+	"titulo": "Accidente terrestre, Comuna de Estación Central (Cierre de evento)",
+	"fechaHora": "2023-11-08T01:30:00.000-03:00",
+	"createdAt": "2023-11-08T04:32:06.883Z",
+	"updatedAt": "2023-11-08T04:32:06.883Z",
+	"urlAccess": "accidente-terrestre-comuna-de-estacion-central-informacion-preliminar",
+	"parentId": "179e1e85-6fdf-498f-93ed-31f17b4f8cfc",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Estación Central\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Metropolitan</span></strong><span style=\"color: black\">a, respecto del accidente terrestre, ocasionado por la colisión entre 2 camiones y 1 vehículo menor, con posterior incendio de 1 de los camiones involucrados, en el túnel de la Autopista General Velásquez, dirección norte a sur, intersección con la Avenida 5 de Abril, comuna de Estación Central, 1 persona resultó fallecida.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otro lado, se informa que el tránsito vehicular en la ruta se encuentra habilitado en la dirección norte a sur.</span></p><p style=\"text-align:justify\">Trabajaron en el lugar Bomberos de Santiago, Carabineros, Servicio Médico Legal y personal de la Autopista General Velásquez.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

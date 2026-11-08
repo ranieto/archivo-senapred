@@ -1,0 +1,20 @@
+{
+	"id": "3bd6c00a-e767-4fe1-bb5b-c8c13f1dc3c0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las provincias de Llanquihue y Palena por precipitaciones",
+	"fechaHora": "2025-02-19T19:15:47.4747-03:00",
+	"createdAt": "2025-02-19T22:17:00.695Z",
+	"updatedAt": "2025-02-23T13:02:19.143Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-llanquihue-y-palena-por-precipitaciones-2",
+	"parentId": "f8f5ab39-324a-4eb4-bf8d-1efd6eb216c7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue, Palena\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:center\">AA18</p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Precipitaciones moderadas a fuertes   en corto periodo de tiempo en zonas de la Cordillera Austral (montos   estimados para los días viernes 21 y sábado 22 de febrero, entre 40 y 50 mm)</p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">21-02</p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">22-02</p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:center\">A54-1</p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Precipitaciones normales a moderadas   en zonas del Litoral interior y cordillera Austral.</p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">20-02</p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">23-02</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva para las provincias </strong></span><strong><span style=\"color:black\">de Llanquihue y Palena&nbsp;</span></strong><strong><span style=\"color:black\">por precipitaciones</span></strong><span style=\"color:black\">, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

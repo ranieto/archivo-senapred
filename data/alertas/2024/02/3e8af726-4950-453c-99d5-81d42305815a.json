@@ -1,0 +1,20 @@
+{
+	"id": "3e8af726-4950-453c-99d5-81d42305815a",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Roja por calor extremo para las Provincias de San Felipe y Los Andes por calor extremo",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-02-16T21:17:14.844Z",
+	"updatedAt": "2024-02-16T21:21:22.633Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-por-calor-intenso",
+	"parentId": "2cd88a45-e6dc-45bb-aef2-6e81f479294a",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Los Andes, San Felipe de Aconcagua\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Valparaíso:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA13</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas extremas en cordillera de la costa, precordillera y   valles precordilleranos.</p></td><td><p style=\"text-align:justify\">17-02</p></td><td><p style=\"text-align:justify\">18-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A36-1</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas en cordillera de la costa, precordillera y valles   precordilleranos.</p></td><td><p style=\"text-align:justify\">17-02</p></td><td><p style=\"text-align:justify\">19-02</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, modifica la cobertura de la Alerta Roja por calor extremo para las Provincias de San Felipe y Los Andes, la cual se mantiene vigente desde el 29 de enero y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Cabe señalar, que se mantiene una Alerta Temprana Preventiva Nacional por calor, desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la modificación de cobertura de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><em><strong><span style=\"color: black\">SENAPRED </span></strong><span style=\"color: black\">recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></em></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

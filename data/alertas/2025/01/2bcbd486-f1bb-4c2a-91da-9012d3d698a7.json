@@ -1,0 +1,20 @@
+{
+	"id": "2bcbd486-f1bb-4c2a-91da-9012d3d698a7",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Cauquenes por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-20T23:34:12.022Z",
+	"updatedAt": "2025-01-20T23:45:00.422Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cauquenes-por-incendio-forestal-2",
+	"parentId": "81e252b4-b494-4858-82fb-d0196f2e7ff4",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Departamento contra Incendios Forestales CONAF Región del Maule, respecto a los incendios forestales que se desarrollan en la comuna de Cauquenes, se informa lo siguiente:</p><table><tbody><tr><td><p>Nombre del incendio</p></td><td><p>Santo Toribio</p></td></tr><tr><td><p>Estado</p></td><td><p>En combate</p></td></tr><tr><td><p>Superficie</p></td><td><p>10 hectáreas</p></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio forestal denominado \"Santo Toribio\" se mantiene en combate con comportamiento extremo y velocidad de propagación alta.<br></div></td></tr><tr><td><p>Recursos</p></td><td><p>3 brigadas de CONAF, 2 técnicos CONAF, 2 camiones cisterna CONAF, 1 helicóptero CONAF y 2 skidder CONAF</p></td></tr></tbody></table><p><br></p><table><tbody><tr><td><p>Nombre del incendio</p></td><td><p>Cancha Alegre 3</p></td></tr><tr><td class=\"se-table-selected-cell\"><p>Estado</p></td><td><p>Extinguido</p></td></tr><tr><td><p>Superficie</p></td><td><p>71 hectáreas</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Cauquenes, por incendio forestal, que se encuentra vigentedesde el 19 de enero de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

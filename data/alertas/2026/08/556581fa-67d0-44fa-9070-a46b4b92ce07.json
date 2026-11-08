@@ -1,0 +1,20 @@
+{
+	"id": "556581fa-67d0-44fa-9070-a46b4b92ce07",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la región de Biobío por crecida",
+	"fechaHora": "2026-08-01T14:30:10.1010-04:00",
+	"createdAt": "2026-08-01T18:32:47.025Z",
+	"updatedAt": "2026-08-08T15:20:11.152Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
+	"parentId": "5ebb03fa-3c3c-48e9-9777-6db26662edae",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA) de la región del Biobío, las estaciones de la red hidrométrica ubicadas en la región indican un incremento gradual y sostenido en sus caudales, lo que supone un aumento del riesgo para la población cercana a estos cursos de agua. A su vez, de acuerdo con las intensas precipitaciones registradas y pronóstico para las próximas horas, por lo cual se prevé la superación de umbrales de alerta roja en los distintos cursos de agua de ríos y esteros de la región.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En este contexto, la Dirección General de Aguas (DGA), mantiene un monitoreo permanente de la red hidrométrica regional, efectuando un seguimiento continuo de la evolución de los caudales y niveles de los principales cursos de agua, considerando tanto el comportamiento observado como la evolución prevista de las condiciones meteorológicas.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por crecida </strong>que se mantenía vigente desde el 27 de julio y <strong>declara Alerta Roja Regional por desborde</strong>,vigente desde hoy yhasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Cabe señalar que, con la declaración de esta Alerta Roja Regional, las alertas rojas por desborde de las comunas de Los Ángeles y Concepción quedan cubiertas por la presente alerta.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

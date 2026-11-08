@@ -1,0 +1,20 @@
+{
+	"id": "da21248b-eec7-4a2e-a6d2-daa640086bb4",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Pitrufquén por incendio forestal",
+	"fechaHora": "2025-02-19T05:22:00.000-03:00",
+	"createdAt": "2025-02-19T08:30:08.920Z",
+	"updatedAt": "2025-02-26T02:30:25.564Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pitrufquen-por-incendio-forestal-2",
+	"parentId": "848b0f29-a76c-4971-8763-d64f432eba6b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pitrufquén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Pitrufquén </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Loica</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>236 hectáreas</p></td></tr><tr><td><p><strong>Afectación</strong></p></td><td><p>2 personas lesionadas, 2 albergadas y 1 vivienda destruida</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Pitrufquén, Quitratue, Freire, Lastarria, Loncoche,   Pucón, Toltén, Gorbea y Villarrica, 9 Brigadas   de CONAF, 8 Técnicos de CONAF, 7 Aviones cisterna de CONAF, 2 Helicópteros de   CONAF, 1 Avión Tanquero de CONAF, 1 Puesto de mando, Director comunal GRD y   personal municipal, Carabineros, Director regional y equipo SENAPRED   Araucanía.</p></td></tr></tbody></table><p style=\"text-align:justify\">De acuerdo con los antecedentes técnicos de CONAF, el incendio forestal Loica, que afecta una superficie aproximada de 236 hectáreas, se mantiene activo con amenaza inminente a personas o infraestructura del sector del mismo nombre. Producto de este incendio se reportan 2 Bomberos lesionados, quienes fueron trasladados al Hospital de Pitrufquén.</p><p style=\"text-align:justify\">Adicionalmente, se registra 1 vivienda destruida y 2 personas albergadas en Escuela Ammillan.</p><p style=\"text-align:justify\">Durante la pasada jornada se emitieron 4 mensajes SAE para reforzar los procesos de evacuación de los sectores 4 Esquinas, Loica, Inoco, Polún y Quilquilco.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Pitrufquén, por incendio forestal, que se encuentra vigente desde el 18 de febrero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

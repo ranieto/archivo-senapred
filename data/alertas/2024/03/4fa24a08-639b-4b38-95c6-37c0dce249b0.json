@@ -1,0 +1,20 @@
+{
+	"id": "4fa24a08-639b-4b38-95c6-37c0dce249b0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Tirúa por incendio forestal",
+	"fechaHora": "2024-03-07T15:38:57.5757-03:00",
+	"createdAt": "2024-03-07T18:39:57.023Z",
+	"updatedAt": "2024-03-07T20:13:25.821Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tirua-por-incendio-forestal",
+	"parentId": "087da5bd-acf2-4dc9-a2bc-6669c5b11ffa",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por CONAF, los incendios forestales \"Tranaquepe Alto\", \"El Malo\" y \"Las Huellas\" que afectan una superficie de 228, 75 y 38 hectáreas respectivamente, se encuentran controlados.</span><br></p><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Tirúa, por incendio forestal, que se mantuvo vigente desde el 06 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "773e50fe-4ec8-437b-b2ae-91a14fd08a97",
+	"type": "Alerta",
+	"titulo": "Declaración de Alerta Temprana Preventiva en la Región de Magallanes por Evento Meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-11-08T21:41:56.660Z",
+	"updatedAt": "2024-11-08T21:54:07.948Z",
+	"urlAccess": "declaracion-de-alerta-temprana-preventiva-en-la-region-de-magallanes-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>Según información proporcionada por el Centro Meteorológico Regional Austral en relación al aviso meteorológico CNA A428/2024, se establece Alerta Verde Preventiva por evento de precipitaciones normales en un corto periodo de tiempo, durante la madrugada y hasta la mañana del día sábado 09 de noviembre del 2024.</p><p>Se pronostican fenómenos meteorológicos con un grado de severidad moderada,potencialmente riesgosos. Manténgase informado si realiza actividades expuestasa riesgos meteorológicos.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

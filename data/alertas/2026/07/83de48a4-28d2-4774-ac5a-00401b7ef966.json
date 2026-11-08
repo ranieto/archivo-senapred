@@ -1,0 +1,20 @@
+{
+	"id": "83de48a4-28d2-4774-ac5a-00401b7ef966",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de El Carmen, San Ignacio, San Carlos y San Nicolás por crecida",
+	"fechaHora": "2026-07-29T12:05:00.000-04:00",
+	"createdAt": "2026-07-29T16:26:33.010Z",
+	"updatedAt": "2026-07-29T16:29:29.955Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-el-carmen-san-ignacio-pemuco-y-bulnes-por-crecida-2026-07-26-22-20-48",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, las estaciones hidrométricas de la región registran un descenso en los caudales, alcanzando valores por debajo de los umbrales de alerta.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para las comunas de El Carmen, San Ignacio, San Carlos y San Nicolás por crecida, </strong>que se mantuvo vigente desde el 26 de julio de 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

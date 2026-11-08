@@ -1,0 +1,19 @@
+{
+	"id": "59ce380c-b6ed-437e-a4f8-702f847594b3",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Tarapacá",
+	"fechaHora": "2024-12-17T13:05:16.1616-03:00",
+	"createdAt": "2024-12-17T16:09:55.994Z",
+	"updatedAt": "2024-12-17T16:11:10.871Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-40",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>La <em>Unidad Nacional de Alerta Temprana</em> reporta información del siguiente evento sísmico</p><p><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>17/12/2024   - 13:00</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>17/12/2024   - 13:03</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>III   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>260</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:16px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

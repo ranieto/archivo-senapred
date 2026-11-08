@@ -1,0 +1,20 @@
+{
+	"id": "8ebb58ca-73b0-4202-b8f8-e8f895167c66",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Río Hurtado por incendio forestal",
+	"fechaHora": "2024-08-01T21:06:00.000-04:00",
+	"createdAt": "2024-08-02T02:28:16.812Z",
+	"updatedAt": "2024-08-06T18:36:09.020Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-incendio-forestal",
+	"parentId": "3b1aff59-1024-444a-b7c4-09f706c04abd",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Río Hurtado\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinacióncon la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED mantiene la AlertaRoja para la Comuna de Río Hurtado, por incendio forestal, que se encuentra vigente desde el 01 de agosto de2024<br></p><p><br></p><p><strong><span style=\"color:black\">De acuerdo con la información</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de Río Hurtado se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Los Huapis</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20 hectárea </p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Se realizó   evacuación preventiva de los sectores Vado de Morrillos y Morrillos apoyados   con mensajería SAE a las 19:17 horas, se estiman aproximadamente 240 personas   evacuadas desde 80 viviendas del sector. Asimismo, activo en el frente de   avance con intensidad media a alta. Los sectores restantes presentan   actividad a perímetro, sin peligro de propagación. Finalmente se habilito   como albergue la Escuela Básica de Serón.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>4 Técnicos de   CONAF, Cuerpos de Bomberos de Andacollo, Coquimbo, La Serena, Ovalle, Punitaqui,   Río Hurtado y Vicuña.</p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

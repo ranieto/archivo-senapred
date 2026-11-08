@@ -1,0 +1,19 @@
+{
+	"id": "8080b8be-6a47-45a6-a7b4-c10a9a24fb50",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de La Araucanía",
+	"fechaHora": "2024-06-05T02:07:41.4141-04:00",
+	"createdAt": "2024-06-05T06:08:17.342Z",
+	"updatedAt": "2024-06-05T06:19:01.923Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-la-araucania-4",
+	"parentId": "9f9b066b-4d6c-4625-bb12-f6011797c4ae",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 02:01 horas en la Región de La Araucanía. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Temuco:   </p></td><td><p>IV</p></td></tr></tbody></table><p><br></p><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. </p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.5 localizado a37 Kms al Noreste de Villarrica</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

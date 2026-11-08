@@ -1,0 +1,20 @@
+{
+	"id": "565dd30c-2061-4da6-992f-78295875d09c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la provincia de Isla de Pascua por viento",
+	"fechaHora": "2026-07-10T14:31:31.3131-04:00",
+	"createdAt": "2026-07-10T18:32:50.715Z",
+	"updatedAt": "2026-07-11T13:09:48.303Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-viento-2026-07-09-14-20-35",
+	"parentId": "336dd4ca-115c-40b8-b764-ef96e78eb5df",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso</strong>, producto del viento que se registra en Isla de Pascua, se reporta la interrupción en el servicio de suministro de electricidad en la totalidad de la comuna de Isla de Pascua.</p><p><br></p><p style=\"text-align:justify\">Adicionalmente, se reportan caídas de árboles en diversos puntos de la comuna, encontrándose en evaluación la afectación a viviendas, los equipos comunales mantienen el monitoreo y la evaluación en terreno.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Finalmente, se indica que al momento no se han registrado personas lesionadas.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva por viento para la provincia de Isla de Pascua</strong>, vigente desde el 09 de julio y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">Trabajan en el lugar personal municipal, Delegación Presidencial Provincial de Isla de Pascua, Carabineros, Bomberos y empresa SASIPA.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Durante la jornada de ayer, fue realizado un COGRID Provincial, donde se determinó la suspensión preventiva de las clases en los 4 establecimientos educacionales y 5 jardines infantiles para hoy viernes 10 de julio.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

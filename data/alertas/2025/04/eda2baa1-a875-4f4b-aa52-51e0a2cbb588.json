@@ -1,0 +1,20 @@
+{
+	"id": "eda2baa1-a875-4f4b-aa52-51e0a2cbb588",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la provincia de Los Andes por alteración sanitaria",
+	"fechaHora": "2025-04-02T21:00:00.000-03:00",
+	"createdAt": "2025-04-03T00:19:25.928Z",
+	"updatedAt": "2025-08-19T18:09:00.723Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria",
+	"parentId": "9c4ea471-8d6f-4d5e-87f1-e977534b62e1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la SEREMI de Salud de Valparaíso, se reporta el <strong>hallazgo de tres (03) nuevos focos del vector “<em>Aedes Aegypti</em>” y la denuncia de 1 cuarto foco en proceso de análisis en la comuna de Los Andes</strong>, según el siguiente detalle:</p><p style=\"text-align:justify\"></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Foco</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fecha</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Lugar</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">1</p></td><td><p style=\"text-align:justify\">27-03-25   toma de muestra</p><p style=\"text-align:justify\">01-04-2025   Notificación ISP</p></td><td><p style=\"text-align:justify\">Extraportuario   (parqueadero), El Sauce.</p></td><td><p style=\"text-align:justify\">5   huevos en paleta.</p></td></tr><tr><td><p style=\"text-align:center\">2</p></td><td><p style=\"text-align:justify\">27-03-25   toma de muestra</p><p style=\"text-align:justify\">01-04-2025   Notificación ISP</p></td><td><p style=\"text-align:justify\">Parqueadero,   El Sauce.</p></td><td><p style=\"text-align:justify\">77   y 58 huevos en 2 paletas.</p></td></tr><tr><td><p style=\"text-align:center\">3</p></td><td><p style=\"text-align:justify\">27-03-25   toma de muestra</p><p style=\"text-align:justify\">01-04-2025   Notificación ISP</p></td><td><p style=\"text-align:justify\">Centro   de Los Andes, Instalaciones IST.</p></td><td><p style=\"text-align:justify\">Paleta   con 23 huevos.</p></td></tr><tr><td><p style=\"text-align:center\">4</p></td><td><p style=\"text-align:justify\">01-04-2025   Hallazgo en terreno</p></td><td><p style=\"text-align:justify\">Terrapuerto   PTLA, El Sauce.</p></td><td><p style=\"text-align:justify\">Hembra   adulta (a confirmar especie ISP)</p></td></tr></tbody></table><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">Desde la SEREMI de Salud indican que hasta ahora la presencia del vector en el territorio continúa siendo baja. A la fecha, el equipo de control vectorial ha realizado un total de 1.905 inspecciones en el año 2025, identificando solamente 2 (focos 1 y 4) de los 8 por búsqueda activa.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por alteración sanitaria para la provincia de Los Andes</strong>, que permanece vigente desde el 16 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9c36a5ab-1f36-4eb5-b198-a2348d8b0a88",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Parral por incendio forestal",
+	"fechaHora": "2025-02-11T14:52:00.000-03:00",
+	"createdAt": "2025-02-11T18:11:43.725Z",
+	"updatedAt": "2025-02-12T16:43:20.133Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-parral-por-incendio-forestal",
+	"parentId": "ff9a3e30-d104-4851-a6b8-4eecd1903c6a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Parral,&nbsp;</strong>se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Junquillo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><div><strong>Sector</strong></div></td><td><div>Villa Baviera</div></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>50 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><strong>Bomberos:</strong></p><p>Cuerpo de bomberos de Parral</p><p><strong>Brigadas:</strong></p><p>4 CONAF</p><p>3 ARAUCO</p><p>1 CAMBIUM</p><p><strong>Técnicos:</strong></p><p>5 CONAF</p><p><strong>Aeronaves:</strong></p><p>1 HELICÓPTERO CONAF</p><p><strong>Otros recursos:</strong></p><p>1 SKIDDER CONAf</p><p>2 CAMIÓN ALJIBE CONAF</p><p>1 CAMION CISTERNA ARAUCO</p><p>1 MOTONIVELADORA (COMUNIDAD VILLA BAVIERA)</p><p>1 SKIDDER (COMUNIDAD VILLA BAVIERA)</p><p>1 CAMION CISTERNA (COMUNIDAD VILLA BAVIERA)</p><p>2 CARABINEROS RETEN CASTILLO<br></p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Parral por incendio forestal, que se encuentra vigente desde el 10 de febrero de 2025.</div><div style=\"text-align: justify\"><br></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

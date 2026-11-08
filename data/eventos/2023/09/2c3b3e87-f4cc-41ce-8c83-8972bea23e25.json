@@ -1,0 +1,19 @@
+{
+	"id": "2c3b3e87-f4cc-41ce-8c83-8972bea23e25",
+	"type": "Evento",
+	"titulo": "prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-22T14:16:05.379Z",
+	"updatedAt": "2023-10-23T17:33:38.095Z",
+	"urlAccess": "prueba",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>contenido prueba</p>",
+	"variableInformateEventosId": "30e6531a-0eaa-455c-a450-73188f31712d"
+}

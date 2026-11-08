@@ -1,0 +1,20 @@
+{
+	"id": "75a3642e-7d26-4b7d-a01d-84dd010c2630",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por Altas Temperaturas",
+	"fechaHora": "2026-07-24T18:50:30.3030-04:00",
+	"createdAt": "2026-07-24T22:51:24.530Z",
+	"updatedAt": "2026-07-24T22:52:37.284Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas-2026-07-22-19-18-07",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido actualizado el Aviso Meteorológico A346-2, dejando fuera de cobertura a la Región de Antofagasta, y manteniendo su vigencia solo para la Región de Atacama:</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por Altas Temperaturas</strong>, que se mantenía vigente desde el 22 de julio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

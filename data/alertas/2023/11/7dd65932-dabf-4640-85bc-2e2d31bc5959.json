@@ -1,0 +1,20 @@
+{
+	"id": "7dd65932-dabf-4640-85bc-2e2d31bc5959",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento masivo",
+	"fechaHora": "2023-11-27T10:05:00.000-03:00",
+	"createdAt": "2023-11-27T13:42:11.968Z",
+	"updatedAt": "2023-11-27T13:45:02.704Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Metropolitana, con relación al desarrollo de los <strong>XIX Juegos Panamericanos </strong>y <strong>Juegos Parapanamericanos</strong>, se informa que ambos eventos deportivos se encuentran finalizados, con la consecuente normalización de tránsito vehicular y de desplazamiento de personas en la región.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva</strong><strong>Regional</strong>, por evento masivo, que se encontraba vigente desde el 19 de octubre. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

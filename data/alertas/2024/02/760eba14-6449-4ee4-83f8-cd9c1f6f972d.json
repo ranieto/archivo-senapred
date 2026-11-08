@@ -1,0 +1,20 @@
+{
+	"id": "760eba14-6449-4ee4-83f8-cd9c1f6f972d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de Ñuble por calor extremo",
+	"fechaHora": "2024-02-03T21:07:52.5252-03:00",
+	"createdAt": "2024-02-04T00:09:42.405Z",
+	"updatedAt": "2024-02-04T02:36:01.953Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-uble-por-calor-intenso-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se prevén temperaturas máximas bajo los 34°C durante los próximos días en la Región de Ñuble.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Ñuble, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Roja Regional por Calor Extremo,</strong> que se mantenía vigente desde el 29 de enero.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><strong><em><span style=\"color: black\">SENAPRED </span></em></strong><em><span style=\"color: black\">recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></em></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

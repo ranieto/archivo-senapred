@@ -1,0 +1,20 @@
+{
+	"id": "4aaf3d8d-d9f3-412b-b7b3-fdb7bd9db60d",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Ñuble y Biobío",
+	"fechaHora": "2025-12-18T07:03:57.5757-03:00",
+	"createdAt": "2025-12-18T10:06:42.680Z",
+	"updatedAt": "2025-12-18T10:10:07.640Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-uble-y-biobio-2025-12-18-07-06-32",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 07:02 horas en las regiones de Ñuble y Biobío. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:   16px\">Región: Biobío </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Concepción: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size:   16px\">Región: Ñuble </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Trehuaco: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br></span></p><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

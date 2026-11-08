@@ -1,0 +1,20 @@
+{
+	"id": "4ce09d9e-5daa-41ba-a9d3-501388eb471c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Punta Arenas, Río Verde, Natales, Timaukel y Cabo de Hornos",
+	"fechaHora": "2023-10-01T22:41:50.5050-03:00",
+	"createdAt": "2023-10-02T01:44:41.111Z",
+	"updatedAt": "2023-10-02T01:44:57.773Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comunas-de-punta-arenas-rio-verde-natales-timaukel-y-cabo-de-hornos-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego, Última Esperanza, Antártica Chilena\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Punta Arenas, Río Verde, Timaukel, Natales, Cabo de Hornos\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A390/2023 que pronosticó la ocurrencia de probables tormentas eléctricas en algunos sectores de la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br><br>En consideración a este antecedente, la Dirección Regional del SENAPRED Magallanes, en coordinación con la Delegación Presidencial Regional, cancela la Alerta Temprana Preventiva para las comunas de Punta Arenas, Río Verde, Natales, Timaukel y Cabo de Hornos, por tormentas eléctricas, que se mantuvo vigente desde el 30 de septiembre de 2023.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

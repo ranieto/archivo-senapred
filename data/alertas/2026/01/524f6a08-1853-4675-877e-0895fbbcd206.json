@@ -1,0 +1,20 @@
+{
+	"id": "524f6a08-1853-4675-877e-0895fbbcd206",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2026-01-07T15:10:41.4141-03:00",
+	"createdAt": "2026-01-07T18:11:42.761Z",
+	"updatedAt": "2026-01-07T18:12:42.808Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-2026-01-06-15-27-38",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Valparaíso,<strong>&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Laguna Verde</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10.58 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Valparaíso, 10 brigadas y 3 técnicos de Conaf;   9 aeronaves, 5 aljibe y 2 PC CODE</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Valparaíso, por incendio forestal, que se mantuvo vigente desde el 06 de enero de 2026.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

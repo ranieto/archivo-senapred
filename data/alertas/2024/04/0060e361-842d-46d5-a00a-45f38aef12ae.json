@@ -1,0 +1,20 @@
+{
+	"id": "0060e361-842d-46d5-a00a-45f38aef12ae",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de La Araucanía por viento",
+	"fechaHora": "2024-04-01T20:47:36.3636-03:00",
+	"createdAt": "2024-04-01T23:49:31.541Z",
+	"updatedAt": "2024-04-02T22:54:57.213Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-teodoro-schmidt-saavedra-y-tolten-por-viento-2",
+	"parentId": "4146fa74-0c5d-4274-90a5-82dd39fa2005",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de La Araucanía:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA20-1</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte en litoral de la región. </p></td><td><p style=\"text-align:center\">02-04</p></td><td><p style=\"text-align:center\">02-04</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A79-4</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral, cordillera de la costa, valle, precordillera y   cordillera de la región.</p></td><td><p style=\"text-align:center\">02-04</p></td><td><p style=\"text-align:center\">02-04</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes meteorológicos, la Dirección Regional del SENAPRED La Araucanía en coordinación con la Delegación Presidencial <strong>actualiza la Alerta Temprana Preventiva Regional por viento</strong>, que se mantiene vigente desde el 29 de marzo de 2024 y hasta que las condiciones así lo ameriten. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

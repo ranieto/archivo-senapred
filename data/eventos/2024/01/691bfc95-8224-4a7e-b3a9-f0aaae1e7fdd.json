@@ -1,0 +1,19 @@
+{
+	"id": "691bfc95-8224-4a7e-b3a9-f0aaae1e7fdd",
+	"type": "Evento",
+	"titulo": "Incendio forestal, Comuna de Colina (Amplía información)",
+	"fechaHora": "2024-01-13T21:38:00.000-03:00",
+	"createdAt": "2024-01-14T00:43:02.716Z",
+	"updatedAt": "2024-01-14T17:38:17.278Z",
+	"urlAccess": "incendio-forestal-comuna-de-colina-3",
+	"parentId": "cb9369ce-8e21-4754-8a7c-6c19f3717d0a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Colina\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>Según información técnica proporcionada por CONAF</strong>, controlado se encuentra el incendio forestal \"Pie Andino\", que ha consumido 700 hectáreas.</p><p>Trabajan en el lugar 6 brigadas de CONAF, 1 técnico de CONAF, 3 helicópteros de CONAF y 1 avión de CONAF.</p><p>Durante la noche, trabajará 1 brigada de CONAF, mientras que el día de mañana trabajarán 3 brigadas de CONAF.</p>",
+	"variableInformateEventosId": "494299cf-12b8-49ee-b331-1a6134f7f231"
+}

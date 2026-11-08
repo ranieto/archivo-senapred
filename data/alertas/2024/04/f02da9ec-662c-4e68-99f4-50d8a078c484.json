@@ -1,0 +1,20 @@
+{
+	"id": "f02da9ec-662c-4e68-99f4-50d8a078c484",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2024-04-22T18:05:13.1313-04:00",
+	"createdAt": "2024-04-22T22:06:35.278Z",
+	"updatedAt": "2024-04-22T22:07:29.188Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido actualizado el Aviso Meteorológico A103-1/2024 el cual ya no contempla a la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que lo originaron en la región.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente la Delegación Presidencial Regional de Ñuble, en coordinación con la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 21 de abril de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

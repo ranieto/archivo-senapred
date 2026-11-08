@@ -1,0 +1,20 @@
+{
+	"id": "36061135-6d5f-406e-b05b-583e123875e5",
+	"type": "Alerta",
+	"titulo": "ahora si",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-23T23:13:45.442Z",
+	"updatedAt": "2023-10-24T12:59:02.280Z",
+	"urlAccess": "demostracion-insercion-anterior-2",
+	"parentId": "a35c2ee3-7d36-43a7-a3a0-43297c8403cc",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Corte de suministro - Telefonía\",\"nombreImg\":\"cortetelefonia.png\"}",
+	"contenido": "<p>asdf</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "376fd6a0-be92-4b35-bcdd-9925aea25dcf"
+}

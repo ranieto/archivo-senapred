@@ -1,0 +1,20 @@
+{
+	"id": "2d2b2338-c140-4d64-b2dc-fc77e179f925",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de San Gregorio por amenaza de incendios forestales",
+	"fechaHora": "2024-11-24T11:54:51.5151-03:00",
+	"createdAt": "2024-11-24T14:57:39.622Z",
+	"updatedAt": "2024-11-24T14:58:00.300Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-san-gregorio-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Corporación Nacional Forestal (CONAF)</strong> indica que las condicionesmeteorológicas que pronosticaban un aumento de la probabilidad de ignición y propagación de incendiosforestales en la comuna de San Gregorio han disminuido, reduciéndose el factor de riesgo asociado a lavariable forestal.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Magallanes y de la Antártica Chilena, la DirecciónRegional de SENAPRED <strong>cancela Alerta Temprana Preventiva para la comuna de San Gregorio poramenaza de incendios forestales</strong>, vigente desde el 18 de noviembre de 2024.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

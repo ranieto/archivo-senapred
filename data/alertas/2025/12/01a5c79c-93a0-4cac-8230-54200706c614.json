@@ -1,0 +1,20 @@
+{
+	"id": "01a5c79c-93a0-4cac-8230-54200706c614",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Limache por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-12-02T18:49:31.238Z",
+	"updatedAt": "2025-12-02T19:50:01.507Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-limache-por-incendio-forestal-2025-12-02-15-44-11",
+	"parentId": "515db93a-e2e2-4160-9d50-6c5199859d0a",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Limache\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf y el SINAPRED,&nbsp;</span></strong><span style=\"color: black\">se reporta un incendio forestal con el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Los Laureles 4</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3 [ha]</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Trabajan en el lugar Cuerpo de Bomberos de Limache, Cuerpo de Bomberos de Villa Alemana, 6 Brigadas, 1 Técnico, 1 aeronave cisterna, 1 helicóptero, 2 camiones aljibes de Municipalidad de Limache y 1 Equipo GRD Municipal.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal se encuentra cercano a viviendas de sector Los Laureles.</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(46, 46, 46)\"><br></span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Paiguano por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(46, 46, 46)\"><br></span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

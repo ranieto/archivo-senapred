@@ -1,0 +1,20 @@
+{
+	"id": "cce43e13-ff37-4bc7-b2a1-b22f9a3059b4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla  para la comuna de Victoria por amenaza de desborde",
+	"fechaHora": "2024-06-21T14:11:00.000-04:00",
+	"createdAt": "2024-06-21T18:19:31.275Z",
+	"updatedAt": "2024-06-21T18:21:24.037Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-victoria-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Victoria\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red fluviométrica “Río Quino en Longitudinal”, en la comuna de Victoria, ha alcanzado los valores del umbral Azul. Lo anterior, por tendencia a la baja de su caudal, indicando una disminución del riesgo asociado a esta variable.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para la comuna de Victoria,</strong> que se mantuvo vigente desde el 20 de junio de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

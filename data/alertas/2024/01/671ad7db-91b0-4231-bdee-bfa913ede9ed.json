@@ -1,0 +1,20 @@
+{
+	"id": "671ad7db-91b0-4231-bdee-bfa913ede9ed",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2024-01-28T18:14:00.000-03:00",
+	"createdAt": "2024-01-28T21:20:18.523Z",
+	"updatedAt": "2024-03-18T23:33:59.745Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal",
+	"parentId": "0b914c73-4dd3-4c88-865f-2f2b89ab8f05",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Puerto Montt\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta&nbsp; Roja para la Comuna de Puerto Montt, por incendio forestal, que se encuentra vigente desde el 26 de enero de2024.<br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Camino San Antonio</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>804 hectáreas</p></td></tr><tr><td><p><strong>Fundamentación técnica</strong></p></td><td><p><span style=\"color: black\">Incendio activo en el flanco derecho con intensidad media y avance medio</span></p></td></tr></tbody></table><p style=\"text-align: justify\">Escuela del sector Trapen, se encuentra habilitada como albergue provisorio.<br></p><p style=\"text-align: justify\">Con relacion a las 74 personas que fueron evacuadas desde 19 viviendas en los sectores de: Cementerio, ˊlas Canchas y Las Cahuellas, se indica que todas retornaron a sus domicilios.<br></p><p style=\"text-align: justify\">​<span style=\"color: rgb(33, 37, 41);font-size: 16px\">Al momento trabajan en el lugar:&nbsp; cuerpo de Bomberos de Puerto Montt, Llanquihue, Calbuco y Puerto Varas, 2 brigadas de CONAF, 7 técnicos de CONAF, 4 Helicóptero de CONAF, 1 Helicóptero gestionado por SENAPRED, 1 Aeronave Hércules C-130, 1 puesto de mando de CONAF, 6 Excavadoras de Vialidad,1 Excavadora de CONAF,&nbsp; Carabineros, Delegada Presidencial y equipo de SENAPRED Regional.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "1bcee442-0b66-463b-9ca7-df28c662e197",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Tirúa por incendio forestal",
+	"fechaHora": "2024-03-04T17:36:00.000-03:00",
+	"createdAt": "2024-03-04T20:44:10.768Z",
+	"updatedAt": "2024-03-07T20:13:25.824Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tirua-por-incendio-forestal",
+	"parentId": "087da5bd-acf2-4dc9-a2bc-6669c5b11ffa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Tirúa\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:#212529\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</span></strong><span style=\"color: rgb(33, 37, 41)\">,&nbsp;respecto al incendio forestal en la comuna de Tirúa, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>\t Tranaquepe Alto<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>228 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio con baja actividad por el momento</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>5 brigadas de CONAF, 8 técnicos de CONAF, 5 aviones de CONAF, 2 brigadas de CMPC y 1 técnico de CMPC</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>mantiene </strong></span><strong>Alerta Roja para la comuna de Tirúa por incendio forestal</strong><span style=\"color: rgb(33, 37, 41)\">, que se encuentra vigente desde el 02 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

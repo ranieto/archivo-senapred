@@ -1,0 +1,20 @@
+{
+	"id": "3b6b9119-971d-4a13-9e28-de52d794292b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2024-12-20T04:53:01.011-03:00",
+	"createdAt": "2024-12-20T07:55:02.883Z",
+	"updatedAt": "2024-12-20T07:56:12.520Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), extinguido se encuentra el incendio forestal “La Torre”, que se desarrolló en la comuna de Ovalle, Región de Coquimbo.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>La Torre</div></td></tr><tr><td><div>Comuna</div></td><td><div>Ovalle</div></td></tr><tr><td><div>Estado</div></td><td><div>Extinguido</div></td></tr><tr><td><div>Superficie</div></td><td><div>0,5 hectáreas</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Ovalle, por incendio forestal, que se mantuvo vigente desde el 20 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

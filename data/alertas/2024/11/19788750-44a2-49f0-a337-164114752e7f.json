@@ -1,0 +1,20 @@
+{
+	"id": "19788750-44a2-49f0-a337-164114752e7f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Cholchol por incendio forestal",
+	"fechaHora": "2024-11-20T18:11:14.1414-03:00",
+	"createdAt": "2024-11-20T21:16:12.920Z",
+	"updatedAt": "2024-11-21T13:45:59.573Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-cholchol-por-incendio-forestal",
+	"parentId": "7027ff3e-0700-494a-b9be-98ce73d42e56",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">La información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf&nbsp;</span></strong><span style=\"color: black\">respecto al incendio en la comuna de Cholchol indica:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Launache</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>en combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3,5 hectáreas</p></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>4 brigadas, 2 técnicos y aeronaves de CONAF</div></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio presenta cercanía a sectores habitados</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED&nbsp;<strong>declara Alerta Amarilla para la comuna de Cholchol por incendio forestal</strong>, vigente a contar de hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

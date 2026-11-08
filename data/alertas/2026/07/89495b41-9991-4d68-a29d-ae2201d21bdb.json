@@ -1,0 +1,20 @@
+{
+	"id": "89495b41-9991-4d68-a29d-ae2201d21bdb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Molina por desborde ",
+	"fechaHora": "2026-07-12T19:57:00.000-04:00",
+	"createdAt": "2026-07-12T23:57:59.914Z",
+	"updatedAt": "2026-07-12T23:58:58.218Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-molina-por-crecida-2026-07-09-18-21-50",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA)</strong>, la estación hidrométrica “Río Palos en Junta con Colorado” ha disminuido su caudal y sus valores se encuentran en <strong>umbral verde</strong>.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por desborde para la comuna de Molina,</strong> que se mantuvo vigente desde el 09 de julio de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7fb40809-ea4e-45f9-88b1-389cf18a8bd1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2026-02-19T12:23:00.000-03:00",
+	"createdAt": "2026-02-19T15:31:33.193Z",
+	"updatedAt": "2026-03-06T14:15:51.991Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2026-02-12-20-51-19",
+	"parentId": "84782f36-ddd2-49c2-b5a1-6a1deffb384f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Cajón de Pejerrey</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>650 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>8 Brigadas y 8 técnicos de Conaf; 4 helicópteros, 1 puesto   de mando y 1 ambulancia.</p></td></tr></tbody></table><p><br></p><p>De acuerdo con la información proporcionada por CONAF Maule referente al incendio forestal denominado Cajón de Pejerrey se mantiene en combate con una superficie afectada de 650 hectáreas.</p><p><br></p><p><br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Linares, por incendio forestal, que se encuentra vigente desde el 12 de febrero de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7e1d6ff1-47e4-4a70-b9a2-00b079aec604",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
+	"fechaHora": "2024-12-24T17:15:00.000-03:00",
+	"createdAt": "2024-12-24T20:18:54.557Z",
+	"updatedAt": "2024-12-24T20:19:10.809Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La información y análisis <strong>realizado por la Corporación Nacional Forestal (CONAF),</strong> indica el término de las variables de riesgo que condicionaron la declaración de la Alerta Temprana Preventiva para la Región de Valparaíso por Amenaza de Incendio Forestal.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva para la Región de Valparaíso por Amenaza de Incendios Forestales</strong>, que se mantuvo vigente desde el 18 de diciembre de 2024, manteniendo con Alerta Amarilla las comunas de Cartagena y San Antonio por el incendio forestal denominado “Las Palmas”.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

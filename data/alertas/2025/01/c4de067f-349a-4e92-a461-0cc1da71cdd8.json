@@ -1,0 +1,29 @@
+{
+	"id": "c4de067f-349a-4e92-a461-0cc1da71cdd8",
+	"type": "Alerta",
+	"titulo": "Se modifica variable de Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Biobío y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
+	"fechaHora": "2025-01-02T23:09:15.1515-03:00",
+	"createdAt": "2025-01-03T02:11:11.935Z",
+	"updatedAt": "2025-01-07T03:09:20.224Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-biobio-y-para-la-comuna-de-juan-fernandez-por-marejadas-anniormales",
+	"parentId": "141474d8-3f48-4acf-81d3-c6dff80f890a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Atacama, Región de Coquimbo, Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región del Maule, Región del Biobío, Región de Arica y Parinacota, Región de Ñuble\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p>El <strong>Centro Meteorológico Marítimo Regional de Valparaíso, dependiente de la Gobernación Marítima de Valparaíso</strong>, informa que producto del paso de un sistema frontal en el hemisferio norte, se proyectan condiciones de mar como <strong>marejadas anormales </strong>del <strong>Noroeste</strong> que afectará entre Arica y Golfo de Arauco incluyendo al Archipiélago Juan Fernández, según el siguiente detalle:</p><p><strong>Archipiélago de Juan Fernández&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</strong> viernes 03 de enero (AM).</p><p><strong>Arica hasta Coquimbo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</strong> viernes 03 de enero (AM).</p><p><strong>Coquimbo hasta Golfo de Arauco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</strong> viernes 03 de enero (PM).</p><p></p><p>Esta condición se mantendrá hasta el lunes 06 de enero entre Arica y el Golfo de Arauco incluyendo al Archipiélago Juan Fernández.</p><p>Cabe señalar, que este nuevo tren de olas proviene del hemisferio norte, se manifieste produciendo fuerte rompiente, sobrepasos y potenciales daños a la infraestructura costera, principalmente en bahías del norte del país abiertas a esa dirección. Se espera, que la condición más intensa se presente entre el viernes 3 y sábado 4 de enero, sobre todo en los horarios de pleamar o de más alta marea en especial entre las 00:00 y 02:00 hora local.</p><p>En consideración a estos antecedentes, SENAPRED <strong>modifica la variable de la Alerta Temprana Preventiva</strong><strong>a marejadas anormales</strong> para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Biobío y para la comuna de Juan Fernández, Región de Valparaíso, que se mantiene vigente desde el 25 de diciembre de 2024 y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

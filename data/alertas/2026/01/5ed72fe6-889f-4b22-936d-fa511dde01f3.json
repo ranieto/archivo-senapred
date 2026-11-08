@@ -1,0 +1,20 @@
+{
+	"id": "5ed72fe6-889f-4b22-936d-fa511dde01f3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Las Condes por incendio forestal",
+	"fechaHora": "2026-01-01T12:52:00.000-03:00",
+	"createdAt": "2026-01-01T16:16:28.136Z",
+	"updatedAt": "2026-01-01T23:15:47.015Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-las-condes-por-incendio-forestal-2025-12-29-18-42-44",
+	"parentId": "7d22b8a8-43c2-4ddd-8929-abf62222ae21",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Las Condes </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Plaza Sur</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">1012</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos, 6 brigadas, 8   técnicos, 1 helicóptero liviano, 1 helicóptero mediano y 1 helicóptero semipesado,   Seguridad Ciudadana de Las Condes, 2 Brifes Santiago y Tacna, 1 camión Aljibe   y 1 Camión Cisterna.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">1 persona evacuada. </p></td></tr></tbody></table><p style=\"text-align:justify\">El incendio al momento solo presenta puntos calientes y fumarolas en la parte alta de la Quebrada de Ramón, el objetivo de la jornada será consolidar las líneas de cortafuego del flanco derecho, para cortar la propagación hacia el sur.</p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Las Condes, por incendio forestal, que se encuentra vigente desde el 29 de diciembre de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

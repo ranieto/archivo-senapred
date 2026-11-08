@@ -1,0 +1,20 @@
+{
+	"id": "d12bcd4e-d854-4832-bcc8-94d6e0d0fe4d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O’Higgins por evento meteorológico",
+	"fechaHora": "2024-05-03T11:59:00.000-04:00",
+	"createdAt": "2024-05-03T16:14:39.027Z",
+	"updatedAt": "2024-05-03T16:15:04.990Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><span style=\"color: black\"> han sido cancelados los Aviso Meteorológicos A106-3/2024 que pronosticaba viento normal a moderado en litoral, con probabilidad de viento blanco en cordillera; Aviso A115-1 por viento normal a moderado en litoral, cordillera de la costa y valle; Aviso A120 por nevadas normales a moderadas, con probabilidad de ventisca en cordillera; Aviso A121 por precipitaciones normales a moderadas en precordillera; y Aviso A122-2 por probables tormentas eléctricas, con probabilidad de precipitaciones fuertes en corto período de tiempo en precordillera y cordillera de la Región de O’Higgins. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de O´Higgins, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva Regional por evento meteorológico, </strong>la que se mantuvovigente desde el 27 de abril.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

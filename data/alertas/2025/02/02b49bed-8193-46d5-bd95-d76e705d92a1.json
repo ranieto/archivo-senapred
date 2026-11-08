@@ -1,0 +1,20 @@
+{
+	"id": "02b49bed-8193-46d5-bd95-d76e705d92a1",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Alto Biobío por incendio forestal",
+	"fechaHora": "2025-02-27T16:45:11.1111-03:00",
+	"createdAt": "2025-02-27T19:48:25.636Z",
+	"updatedAt": "2025-03-01T20:41:41.541Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-alto-biobio-por-incendio-forestal",
+	"parentId": "54f1b857-1277-4f06-b0ba-f4b77af1e1d2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Alto Biobío\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Alto Biobío,&nbsp;</strong>se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>720 - Cauñicu</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio forestal se desarrolla cercano a sectores poblados</div></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 Brigadas de CONAF, 3 aviones cisternas de CONAF y 1 helicóptero de combate CONAF.</p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Alto Biobío por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div style=\"text-align: justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

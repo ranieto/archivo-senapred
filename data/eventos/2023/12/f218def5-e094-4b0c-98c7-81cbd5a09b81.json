@@ -1,0 +1,20 @@
+{
+	"id": "f218def5-e094-4b0c-98c7-81cbd5a09b81",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Arica y Parinacota y Tarapacá",
+	"fechaHora": "2023-12-02T04:59:00.000-03:00",
+	"createdAt": "2023-12-02T08:02:53.040Z",
+	"updatedAt": "2023-12-02T08:07:56.679Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-las-regiones-de-arica-y-parinacota-y-tarapaca",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e",
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota, Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p style=\"text-align:justify\">Un sismo de mediana intensidad se percibió a las 04:56 horas en las regiones de Arica y Parinacota y Tarapacá<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Arica y Parinacota</strong></p></td></tr><tr><td><p>Arica :</p></td><td><p>V</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Tarapaca</strong></p></td></tr><tr><td><p>Iquique:</p></td><td><p>IV</p></td></tr></tbody></table><p style=\"text-align:justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p><br></p><p><br><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

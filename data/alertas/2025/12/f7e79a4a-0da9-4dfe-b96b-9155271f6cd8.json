@@ -1,0 +1,20 @@
+{
+	"id": "f7e79a4a-0da9-4dfe-b96b-9155271f6cd8",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura y variable de Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento meteorológico",
+	"fechaHora": "2025-12-03T14:50:57.5757-03:00",
+	"createdAt": "2025-12-03T17:52:41.565Z",
+	"updatedAt": "2025-12-06T23:13:31.974Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-parinacota-y-la-comuna-de-camarones-por-tormentas-electricas-2025-11-30-16-08-52",
+	"parentId": "19e5dc50-f34e-4f6f-9a38-69e247b33e10",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de </span><span style=\"color: black\">Arica y Parinacota</span><span style=\"color: black\">:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A462-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables   tormentas eléctricas en Cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">02-12</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">05-12</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A466</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones   normales a moderadas en Pampa y Precordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">04-12</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">05-12</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En base a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>modifica la cobertura y variable de la Alerta Temprana Preventiva a regional por evento meteorológico, </strong>que se encuentra vigente desde el 30 de noviembre.</span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

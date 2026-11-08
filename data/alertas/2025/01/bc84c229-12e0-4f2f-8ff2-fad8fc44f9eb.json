@@ -1,0 +1,20 @@
+{
+	"id": "bc84c229-12e0-4f2f-8ff2-fad8fc44f9eb",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Biobío por amenaza de incendios forestales",
+	"fechaHora": "2025-01-08T19:39:00.000-03:00",
+	"createdAt": "2025-01-08T22:43:45.336Z",
+	"updatedAt": "2025-01-15T13:40:03.685Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-amenaza-de-incendios-forestales",
+	"parentId": "af8ead79-2ea8-4bc8-b247-544ef28ac72b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Debido a las condiciones meteorológicas adversas pronosticadas para la Región del Biobío, se espera un escenario altamente favorable para la ocurrencia y propagación de incendios forestales. Según las proyecciones, se prevén vientos máximos superiores a 30 km/h en gran parte de la región, acompañados de un descenso significativo en la humedad relativa, que se ubicará por debajo del 25%, y una humedad del combustible fino muerto inferior al 6%. Estas condiciones persistirán desde el jueves 9 de enero y hasta nuevo aviso.</p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a estos antecedentes técnicos proporcionados por CONAF a las 19:06 hrs y en</p><p style=\"text-align:justify\">coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>actualiza la Alerta Temprana Preventiva para la Región de Biobío, por amenaza de incendios forestales</strong>, que se mantiene vigente desde el 23 de diciembre de 2024.</p><p style=\"text-align:justify\">La actualización de esta alerta, se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

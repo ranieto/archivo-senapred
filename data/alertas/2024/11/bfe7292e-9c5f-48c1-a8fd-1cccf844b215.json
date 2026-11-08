@@ -1,0 +1,20 @@
+{
+	"id": "bfe7292e-9c5f-48c1-a8fd-1cccf844b215",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Viña del Mar por evento masivo",
+	"fechaHora": "2024-11-18T09:10:13.1313-03:00",
+	"createdAt": "2024-11-18T12:11:51.531Z",
+	"updatedAt": "2024-11-18T12:13:07.445Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-vina-del-mar-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso, el evento “<strong>Viña Rock 2024</strong>”, realizado en la comuna de Viña del Mar finalizó de manera exitosa y sin registrar situaciones de emergencia.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de Viña del Mar por evento masivo,</strong> que se mantuvo vigente desde el 16 de noviembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

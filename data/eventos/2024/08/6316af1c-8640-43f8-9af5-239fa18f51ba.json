@@ -1,0 +1,19 @@
+{
+	"id": "6316af1c-8640-43f8-9af5-239fa18f51ba",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Ñuble",
+	"fechaHora": "2024-08-10T05:51:00.000-04:00",
+	"createdAt": "2024-08-10T09:53:16.388Z",
+	"updatedAt": "2024-08-10T10:00:18.970Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-uble-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Itata\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Quirihue, Ninhue\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor  intensidad se percibió a las 05:49 horas en la Región de Ñuble. Las intensidades en escala de Mercalli son:&nbsp;</span><br></p><p><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Ñuble </strong></p></td></tr><tr><td><p>Quirihue:   </p></td><td><p>III</p></td></tr><tr><td><p>Ninhue:   </p></td><td><p>II</p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

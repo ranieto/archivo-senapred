@@ -1,0 +1,20 @@
+{
+	"id": "04dc8314-e41d-41f2-afca-8e8df6fe5478",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Última Esperanza por nevadas",
+	"fechaHora": "2024-06-19T16:29:12.1212-04:00",
+	"createdAt": "2024-06-19T20:30:05.922Z",
+	"updatedAt": "2024-06-19T20:30:48.076Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-ultima-esperanza-por-nevadas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Nevadas\",\"nombreImg\":\"nevadas.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes y de La Antártica Chilena, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamientos</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A213</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas en la zona de Pampa Patagónica Norte en la región.</p></td><td><p style=\"text-align:justify\">14-06</p></td><td><p style=\"text-align:justify\">16-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente la Dirección Regional del SENAPRED Magallanes, <strong>cancela Alerta Temprana Preventiva para la provincia de Última Esperanza por nevadas, </strong>que se mantuvo vigente a contar del 13 de junio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "10cc82c8-9c32-4296-9667-ad2b1a10f5a4"
+}

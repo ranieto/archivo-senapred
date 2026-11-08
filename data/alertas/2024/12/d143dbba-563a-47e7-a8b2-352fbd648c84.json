@@ -1,0 +1,20 @@
+{
+	"id": "d143dbba-563a-47e7-a8b2-352fbd648c84",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2024-12-04T22:37:36.3636-03:00",
+	"createdAt": "2024-12-05T01:41:56.062Z",
+	"updatedAt": "2024-12-05T23:29:35.354Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-antonio-por-incendio-forestal",
+	"parentId": "7d867485-f722-47a8-a183-5c05bd457602",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por la Corporación Nacional Forestal (CONAF), activo se encuentra el incendio forestal denominado Fundo El Guanaco, el cual consume al momento 90 hectáreas de vegetación en la comuna de San Antonio. Cabe destacar que, para mañana la planificación de CONAF contempla 1 técnico, 8 brigadas, 1 helicóptero y 1 skidder.<br></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Fundo El Guanaco</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>90 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Trabajan en las labores de combate: Bomberos de Santo Domingo, San Antonio, Cartagena y El Tabo; 9 brigadas y 2 técnicos de CONAF; 3 aviones cisterna, 3 helicópteros, 1 avión tankero y 1 avión de coordinación (todos recursos de CONAF).</p></td></tr></tbody></table></div><div style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de San Antonio, por incendio forestal, que se encuentra vigente desde el 04 de diciembre de 2024.<br></div><div style=\"text-align: justify\"><br></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "a1f5a8f7-af3d-4f51-aa96-83f7056f9e6f"
+}

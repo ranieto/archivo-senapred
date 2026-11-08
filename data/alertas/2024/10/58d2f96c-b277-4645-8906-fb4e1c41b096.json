@@ -1,0 +1,20 @@
+{
+	"id": "58d2f96c-b277-4645-8906-fb4e1c41b096",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la comuna de Rinconada por evento masivo",
+	"fechaHora": "2024-10-11T15:24:00.000-03:00",
+	"createdAt": "2024-10-11T18:38:06.960Z",
+	"updatedAt": "2024-10-13T01:41:39.810Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-rinconada-por-evento-masivo",
+	"parentId": "43df74c4-d9ce-4944-ac64-9d84446613e4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Los Andes\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Rinconada\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Valparaíso</strong>, el próximo sábado 12 de octubre se realizará el evento masivo denominado “Peregrinación Juvenil al Santuario Santa Teresa de Los Andes”, el que se estima convocará sobre 35.000 personas a dicho santuario, ubicado en la comuna de Rinconada, previéndose un desplazamiento por las rutas Cuesta Chacabuco (Ruta G-115-E), desde el kilómetro 0 y ruta Los Libertadores de la Provincia de Chacabuco, Región Metropolitana, hasta la Avenida San Martín de la comuna de Rinconada, lo que conlleva un aumento de la vulnerabilidad y exposición frente a distintas variables de riesgo.<br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Con el objetivo de responder y atender los incidentes y emergencias que puedan desarrollarse, los organismos de primera respuesta desplegarán sus recursos en el interior e inmediaciones del Santuario, lo que implica una eventual disminución de sus capacidades habituales de respuesta disponibles frente a las variables de riesgo propias de la comuna.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva para la comuna de Rinconada por evento masivo</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

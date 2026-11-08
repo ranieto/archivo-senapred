@@ -1,0 +1,19 @@
+{
+	"id": "533b068a-0717-439d-924e-df90f8c63d8d",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2023-11-02T03:47:00.000-03:00",
+	"createdAt": "2023-11-02T06:47:46.873Z",
+	"updatedAt": "2023-11-02T06:47:46.873Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-2",
+	"parentId": "1b6e70dc-6f3b-4c7f-81f5-a9f840c459df",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad fue percibido a las 03:31 horas en la Región de Valparaíso.<br></p><p>Las intensidades en Escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quillota:   </p></td><td><p>III</p></td></tr><tr><td><p>Villa   Alemana : </p></td><td><p>III</p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>III</p></td></tr></tbody></table><p>No se reportan daños a personas, infraestructura ni servicios básicos producto de este sismo.</p><p>Centro Sismológico Nacional indica que la magnitud del sismo fue 3.8, localizado 40 km al Suroeste de La Ligua</p><p><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

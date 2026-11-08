@@ -1,0 +1,20 @@
+{
+	"id": "354df341-5cb7-42cc-9c99-b30e01c3892a",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-01-19T09:12:39.3939-03:00",
+	"createdAt": "2024-01-19T12:13:47.442Z",
+	"updatedAt": "2024-01-20T00:02:25.743Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-valparaiso-por-incendio-forestal-2",
+	"parentId": "af5d850f-ad62-4220-a643-eff6e9be59a4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"Cuesta Balmaceda II\"</span>, en la comuna de Valparaíso, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cuesta Balmaceda   II</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3 hectáreas</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Valparaíso, por incendio forestal, que se encuentra vigente desde el 18 de enero de 2024.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

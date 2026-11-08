@@ -1,0 +1,20 @@
+{
+	"id": "f665994a-9d74-448b-9fd9-f4764b6ef85f",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en las regiones de Atacama y Coquimbo   ",
+	"fechaHora": "2024-09-06T06:35:47.4747-04:00",
+	"createdAt": "2024-09-06T10:36:53.098Z",
+	"updatedAt": "2024-09-06T10:36:53.098Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-atacama-3",
+	"parentId": "1acb85e6-fa86-4053-9686-ac67aef68a7e",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de mediana intensidad se percibió a las 06:14 horas en las regiones de Atacama y Coquimbo.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Atacama </strong></p></td></tr><tr><td><p>Copiapó:   </p></td><td><p>V</p></td></tr><tr><td><p>Tierra   Amarilla: </p></td><td><p>V</p></td></tr><tr><td><p>Huasco:   </p></td><td><p>IV</p></td></tr><tr><td><p>Caldera:   </p></td><td><p>IV</p></td></tr><tr><td><p>Freirina:   </p></td><td><p>IV</p></td></tr><tr><td><p>Vallenar:   </p></td><td><p>IV</p></td></tr><tr><td><p>Chañaral:   </p></td><td><p>III</p></td></tr><tr><td><p>Diego   de Almagro: </p></td><td><p>III</p></td></tr><tr><td><p>Alto   del Carmen: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>Coquimbo:   </p></td><td><p>V</p></td></tr><tr><td><p>La   Serena: </p></td><td><p>IV</p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>IV</p></td></tr><tr><td><p>Andacollo:   </p></td><td><p>IV</p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>IV</p></td></tr><tr><td><p>Paiguano:   </p></td><td><p>IV</p></td></tr><tr><td><p>Rí­o   Hurtado: </p></td><td><p>IV</p></td></tr><tr><td><p>Monte   Patria: </p></td><td><p>IV</p></td></tr><tr><td><p>Ovalle:   </p></td><td><p>IV</p></td></tr><tr><td><p>Punitaqui:   </p></td><td><p>IV</p></td></tr><tr><td><p>Illapel:   </p></td><td><p>II</p></td></tr><tr><td><p>Salamanca:   </p></td><td><p>II</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue de 5.7 y se localizó a 89 Kms al Este de Alto del Carmen. </span></p><p><span style=\"font-size:15px\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

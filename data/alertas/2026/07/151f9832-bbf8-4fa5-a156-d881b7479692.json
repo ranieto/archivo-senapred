@@ -1,0 +1,20 @@
+{
+	"id": "151f9832-bbf8-4fa5-a156-d881b7479692",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Arauco por crecida ",
+	"fechaHora": "2026-07-14T23:38:00.000-04:00",
+	"createdAt": "2026-07-15T03:44:39.224Z",
+	"updatedAt": "2026-07-17T17:45:27.413Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida-2026-07-14-23-44-21",
+	"parentId": "427c843a-d0db-450a-a450-ed400b8da17d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “Río Pichilo” ubicada en la comuna de Arauco, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</p><p style=\"text-align:justify\">Por otra parte, a las 23:30 horas de hoy se activó mensajería SAE preventiva por crecida para la comuna de Arauco.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por crecida para la comuna de Arauco,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

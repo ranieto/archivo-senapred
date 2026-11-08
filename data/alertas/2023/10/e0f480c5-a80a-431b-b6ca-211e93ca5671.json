@@ -1,0 +1,20 @@
+{
+	"id": "e0f480c5-a80a-431b-b6ca-211e93ca5671",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de San Clemente y Colbún por crecida",
+	"fechaHora": "2023-10-26T18:36:00.000-03:00",
+	"createdAt": "2023-10-26T21:42:27.301Z",
+	"updatedAt": "2023-11-02T15:18:10.056Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-colbun-por-crecida",
+	"parentId": "76b36d23-3b5d-4110-a9a9-28a88fb0354c",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares, Talca\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"San Clemente, Colbún\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>En consideración al boletín de recomendación de Alerta de Crecida por parte de la Dirección General de Aguas</strong>, el cual establece el actual nivel del embalse Colbún correspondiente a 436 m.s.n.m, sobre la base de proyecciones meteorológicas de precipitaciones de carácter moderado a fuerte para los próximos días en la Región del Maule, y proyecciones de caudal afluente importante desde el día 28 de octubre, se podrán realizar vertimientos controlados a través de las compuertas del embalse.<br></p><p><strong>De </strong><strong>acuerdo con la información proporcionada y en consideración con los organismos técnicos involucrados y, según lo establecido en la Ley N° 20.304, SENAPRED declara Alerta de crecida en Embalse Colbún</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p>Además, por lo indicado en el Anexo 3 del protocolo y según los antecedentes expuestos, <strong>SENAPRED declara Alerta Amarilla </strong>para las comunas de San Clemente y Colbún, por crecida, vigente desde hoy 26 de octubre de 2023 y hasta que las condiciones así lo ameriten.</p><p>Por otra parte, se mantiene la <strong>Alerta Temprana Preventiva regional por evento meteorológico</strong>, vigente desde el 26 de octubre de 2023 hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

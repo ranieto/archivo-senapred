@@ -1,0 +1,20 @@
+{
+	"id": "0a96fa8c-2e28-47d4-9cd6-a873115c3d8d",
+	"type": "Alerta",
+	"titulo": " declara Alerta Roja y cancela Alerta Amarilla para la comuna de Renaico por amenaza de desborde",
+	"fechaHora": "2024-06-22T00:50:44.4444-04:00",
+	"createdAt": "2024-06-22T04:51:34.544Z",
+	"updatedAt": "2024-06-23T17:44:51.752Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-renaico-por-amenaza-de-desborde-2",
+	"parentId": "86500c56-7462-4059-91fa-86fdd83ea838",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Renaico\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Vergara en Tijeral” en la comuna de Renaico, ha sobrepasado los valores del umbral Roja.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Roja y cancela Alerta Amarilla por amenaza de desborde para la comuna de Renaico,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

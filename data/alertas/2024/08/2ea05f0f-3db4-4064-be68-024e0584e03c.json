@@ -1,0 +1,20 @@
+{
+	"id": "2ea05f0f-3db4-4064-be68-024e0584e03c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Curanilahue por desborde",
+	"fechaHora": "2024-08-01T12:15:00.000-04:00",
+	"createdAt": "2024-08-01T16:23:25.951Z",
+	"updatedAt": "2024-08-02T02:05:35.051Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curanilahue-por-amenaza-de-desborde-3",
+	"parentId": "f284150f-e97f-40c6-b083-abd08955b409",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la</strong><strong>Dirección General de Aguas</strong> (DGA), se indica que la estación de <strong>red pluviométrica del Río Curanilahue en la comuna del mismo nombre</strong> se encuentra <strong>en umbral de alerta roja con tendencia a subida</strong>.<br></p><p style=\"text-align:justify\">Por otro lado, la <strong>Dirección Meteorológica de Chile</strong> (DMC) en su <strong>Informe de Amenaza Meteorológica</strong>, pronostica <strong>precipitaciones en corto periodo de tiempo para las próximas horas</strong>, sumado al registro histórico que ha presentado el Río Curanilahue en los eventos meteorológicos anteriores.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde y cancela la Alerta Amarilla por amenaza de desborde para la comuna de Curanilahue</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

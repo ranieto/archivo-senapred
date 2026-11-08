@@ -1,0 +1,20 @@
+{
+	"id": "6d6b6706-8373-46eb-a388-27c0d53f58a9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
+	"fechaHora": "2023-12-14T10:59:00.000-03:00",
+	"createdAt": "2023-12-14T14:18:47.656Z",
+	"updatedAt": "2023-12-14T14:19:14.902Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-regional-exceptuando-la-provincia-de-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong><strong>ha sido cancelado el Aviso Meteorológico A463-2/2023</strong> que pronosticó un evento <strong>altas temperaturas en cordillera de la costa de la región</strong>, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por amenaza de incendios forestales, exceptuando la Provincia de Isla de Pascua y la comuna de Juan Fernandez,</strong> que se mantenía vigente desde el 12 de diciembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

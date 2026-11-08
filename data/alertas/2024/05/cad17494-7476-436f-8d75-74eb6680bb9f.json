@@ -1,0 +1,20 @@
+{
+	"id": "cad17494-7476-436f-8d75-74eb6680bb9f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por heladas",
+	"fechaHora": "2024-05-17T16:58:06.066-04:00",
+	"createdAt": "2024-05-17T20:59:12.162Z",
+	"updatedAt": "2024-05-17T21:00:20.656Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-heladas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), a través de su Pronóstico Público emitido durante la presente jornada, se indica un aumento de las temperaturas mínimas matinales para la Región de Los Lagos.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED, cancela la Alerta Temprana Preventiva Regional por heladas, que se mantenía vigente desde el 13 de mayo del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

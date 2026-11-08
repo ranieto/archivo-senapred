@@ -1,0 +1,20 @@
+{
+	"id": "fa3e2076-fe1d-4c44-8868-c208b9e179dc",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Comuna de Castro por incendio forestal",
+	"fechaHora": "2024-12-16T15:21:00.000-03:00",
+	"createdAt": "2024-12-16T18:23:53.540Z",
+	"updatedAt": "2024-12-17T03:43:00.810Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-castro-por-incendio-forestal-2",
+	"parentId": "7df70fc0-e45c-4175-b690-2d4b039c59b9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong><span style=\"color: rgb(0, 0, 0)\">respecto del incendio forestal que se encuentra en la comuna de Castro, se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">El   Polvorín</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2.16   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Trabajan   en el incendio brigada y técnico de Conaf; Bomberos de Castro</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Amarilla para la Comuna de Castro</strong>, por incendio forestal, que se encuentra vigente desde el 15 de diciembre de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

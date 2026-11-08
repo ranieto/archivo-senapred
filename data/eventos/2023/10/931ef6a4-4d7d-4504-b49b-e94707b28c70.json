@@ -1,0 +1,21 @@
+{
+	"id": "931ef6a4-4d7d-4504-b49b-e94707b28c70",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Arica y Parinacota, Tarapacá y Antofagasta",
+	"fechaHora": "2023-10-10T07:05:00.000-03:00",
+	"createdAt": "2023-10-10T10:23:03.604Z",
+	"updatedAt": "2023-10-10T10:23:03.604Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-arica-y-parinacota-tarapaca-y-antofagasta-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 07:02 horas en las regiones de Arica y Parinacota, Tarapacá y Antofagasta. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Arica y Parinacota </strong></div></td></tr><tr><td><div>Cuya:</div></td><td><div>IV</div></td></tr><tr><td><div>Arica :</div></td><td><div>III</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: Tarapaca </strong></div></td></tr><tr><td><div>Alto Hospicio :</div></td><td><div>IV</div></td></tr><tr><td><div>Iquique:</div></td><td><div>IV</div></td></tr><tr><td><div>Camiña :</div></td><td><div>III</div></td></tr><tr><td><div>Huara :</div></td><td><div>III</div></td></tr><tr><td><div>Pisagua:</div></td><td><div>III</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: Antofagasta </strong></div></td></tr><tr><td><div>Antofagasta:</div></td><td><div>IV</div></td></tr><tr><td><div>Calama:</div></td><td><div>IV</div></td></tr><tr><td><div>Sierra Gorda:</div></td><td><div>III</div></td></tr><tr><td><div>Taltal:</div></td><td><div>III</div></td></tr><tr><td><div>María Elena:</div></td><td><div>II</div></td></tr><tr><td><div>Tocopilla:</div></td><td><div>II</div></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.9 localizado a 174 Kms al Noreste de Socaire.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

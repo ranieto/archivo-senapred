@@ -1,0 +1,20 @@
+{
+	"id": "5c98d985-756b-40ab-899d-8539974b2a18",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chiguayante por incendio forestal",
+	"fechaHora": "2024-12-04T03:12:00.000-03:00",
+	"createdAt": "2024-12-04T08:00:44.652Z",
+	"updatedAt": "2024-12-04T14:39:42.416Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chiguayante-por-incendio-forestal",
+	"parentId": "e7d003b9-b1a6-44c6-9d15-54ce7262b997",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal con amenaza inminente a Parque Nacional Nonguén, a una distancia de 300 m.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Mirador Santa Justina</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Chiguayante</div></td></tr><tr><td><div>Estado</div></td><td><div>Bajo observación</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>0,5 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>2 brigadas de Bomberos (Chiguayante y Concepción)</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Chiguayante por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

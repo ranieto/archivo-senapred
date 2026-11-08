@@ -1,0 +1,20 @@
+{
+	"id": "9dabcebe-8f44-4690-8400-48e5e7de95ab",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para las comunas de Ercilla y Victoria por incendio forestal",
+	"fechaHora": "2025-03-06T22:57:05.055-03:00",
+	"createdAt": "2025-03-07T01:57:36.235Z",
+	"updatedAt": "2025-03-07T12:32:33.822Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-comunas-de-ercilla-y-victoria-por-incendio-forestal",
+	"parentId": "d04be33b-7970-433f-b881-29899aee2b1b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en las comunas de comunas de Ercilla y Victoria,&nbsp;se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Comunidad San Ramón</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>40 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Producto del incendio forestal, se registra un Brigadista   de CMPC fallecido, luego de ser trasladado al Hospital de Victoria. Adicionalmente,   6 personas fueron atendidas en el lugar y luego trasladadas al Hospital de   Victoria para su evaluación médica.</p><p>En cuanto al tránsito vehicular, se habilitó una pista en   dirección Norte a Sur de la Ruta 5 Sur, por suspensión en el sector Inspector   Fernández, comuna de Victoria.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>mantiene Alerta Roja para las comunas de Victoria y Ercilla</strong> por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

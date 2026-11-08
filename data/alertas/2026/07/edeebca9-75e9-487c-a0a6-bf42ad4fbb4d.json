@@ -1,0 +1,20 @@
+{
+	"id": "edeebca9-75e9-487c-a0a6-bf42ad4fbb4d",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Temprana Preventiva para la provincia de Arauco y las comunas de Florida, Lota, Penco, Talcahuano y Tomé por crecida",
+	"fechaHora": "2026-07-27T02:55:00.000-04:00",
+	"createdAt": "2026-07-28T09:36:34.513Z",
+	"updatedAt": "2026-11-03T03:10:53.679Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-crecida-2026-07-14-17-48-08",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En virtud de la declaración de ALERTA AMARILLA POR CRECIDA para la provincia del Biobío y las comunas de Santa Juana, Hualqui, Coronel, Chiguayante, San Pedro de la Paz, Concepción y Hualpén, Región del Biobío, se modifica la cobertura de la Alerta Temprana preventiva por crecida para la provincia de Arauco y las comunas de Florida, Lota, Penco, Talcahuano y Tomé, Región del Biobío, vigente desde del 14 de julio y hasta que las condiciones así lo ameriten.<br><br>Con esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "40065066-c9d0-4383-99f1-20d8bb36fccf"
+}

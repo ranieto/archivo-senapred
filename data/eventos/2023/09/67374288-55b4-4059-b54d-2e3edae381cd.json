@@ -1,0 +1,19 @@
+{
+	"id": "67374288-55b4-4059-b54d-2e3edae381cd",
+	"type": "Evento",
+	"titulo": "Evento prueba",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-15T14:18:43.725Z",
+	"updatedAt": "2023-09-15T14:53:28.165Z",
+	"urlAccess": "evento-prueba",
+	"parentId": "55344612-93b2-47f2-bec6-8776e3e4975f",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Iquique\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Iquique\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>magnitud 5.3&nbsp;</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

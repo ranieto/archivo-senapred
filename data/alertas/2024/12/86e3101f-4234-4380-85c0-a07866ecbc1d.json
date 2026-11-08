@@ -1,0 +1,20 @@
+{
+	"id": "86e3101f-4234-4380-85c0-a07866ecbc1d",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Amarilla para la Región de Valparaíso, excepto provincia de Isla de Pascua y comuna de Juan Fernández, por incendios forestales",
+	"fechaHora": "2024-12-22T00:45:53.5353-03:00",
+	"createdAt": "2024-12-22T03:47:52.622Z",
+	"updatedAt": "2024-12-23T22:54:10.318Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-valparaiso-excepto-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-incendios-forestales",
+	"parentId": "f8d87936-5205-4476-ac98-e0dbc3ab6293",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En la Región de Valparaíso se ha presentado una alta ocurrencia de incendios forestales de manera simultánea lo que deriva en un reforzamiento del SINAPRED ante nuevos eventos de este tipo de variable.</p><p>A continuación, el detalle de los incendios en la región: </p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Valle las Mellizas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Para hoy en la mañana se contemplan los siguientes   recursos: 2 brigadas y 2 aeronaves</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Producto de este incendio se reportan además 3 personas   damnificadas y 1 vivienda destruida.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Las Palmas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>260 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Para hoy se contempla el trabajo de 2 Técnicos, 10 Brigadas, 4 camiones   cisternas, 3 aviones, 1 helicóptero, 1 puesto de mando, 1 skidder: SENAPRED   gestiona 2 helicópteros.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>La Patagua</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>154 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Para hoy se contempla el trabajo de 7 brigadas CONAF,</p><p>2 helicópteros.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Región de Valparaíso por incendio forestal, exceptuando la provincia de Isla de Pascua y la comuna de Juan Fernández, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

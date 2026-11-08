@@ -1,0 +1,20 @@
+{
+	"id": "40be4571-8d15-4b78-93c2-f6d0bbf1376b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de Ancud por incendio forestal",
+	"fechaHora": "2025-01-13T23:54:00.000-03:00",
+	"createdAt": "2025-01-14T02:58:17.719Z",
+	"updatedAt": "2025-01-16T18:25:21.737Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ancud-por-incendio-forestal",
+	"parentId": "7c813f56-e854-429a-a79e-64aaff17f75e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se informa que el incendio forestal denominado “Taiquemo”, se encuentra en combate afectando al momento a 10 hectáreas de vegetación en la comuna de Ancud.&nbsp;</p><table><tbody><tr><td><p style=\"text-align: justify\"><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p style=\"text-align: justify\">Taiquemo</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">1 brigada, 1 técnico y 1 aeronave CONAF.</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Los sectores 4-5-6 (correspondientes al flanco izquierdo) se encuentran contenidos, sin amenaza inminente a viviendas.<br></div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPREDcancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Ancud por incendio forestal, vigentedesde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

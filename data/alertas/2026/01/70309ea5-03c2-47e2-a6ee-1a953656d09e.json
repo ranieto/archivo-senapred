@@ -1,0 +1,20 @@
+{
+	"id": "70309ea5-03c2-47e2-a6ee-1a953656d09e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2026-01-28T20:45:00.000-03:00",
+	"createdAt": "2026-01-29T00:03:23.997Z",
+	"updatedAt": "2026-01-29T15:55:45.756Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-antonio-por-incendio-forestal-2026-01-28-16-50-48",
+	"parentId": "22358a58-838f-4549-82b0-a6f85e909203",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 15px;color: black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size: 15px;color: black\">respecto al incendio forestal en la comuna de San Antonio<strong>,</strong>se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\"><br></span></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 15px;color: black\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\">Camino Huinca</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 15px;color: black\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 15px;color: black\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\">25 (ha)</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"font-size: 15px;color: black\">Observación</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\">El incendio forestal presenta un comportamiento extremo, caracterizado por una alta velocidad de propagación, elevada intensidad en el frente de avance y una gran longitud de llama.</span></p></td></tr></tbody></table><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED&nbsp;<strong>declara Alerta Amarilla para la Comuna de San Antonio por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\"><br></span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

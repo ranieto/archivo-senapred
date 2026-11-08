@@ -1,0 +1,20 @@
+{
+	"id": "7ade45b7-7a92-4cc2-9eea-905e49a1fad8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por desborde y cancela Alerta Amarilla por amenaza de desborde para la comuna de Concepción",
+	"fechaHora": "2024-06-21T09:22:00.000-04:00",
+	"createdAt": "2024-06-21T13:41:53.207Z",
+	"updatedAt": "2024-06-22T23:15:05.972Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-concepcion-por-amenaza-de-desborde-2",
+	"parentId": "27f886c2-7405-4695-b1d4-6645c0e5fc56",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Concepción\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red fluviométrica “Río Andalien antes Ex Peaje Chaimavida” en la comuna de Concepción, ha alcanzado los valores del umbral Rojo, con tendencia al alza. Adicionalmente, personal municipal confirma en terreno el aumento del cauce en la comuna.<br><br>Por su parte, de acuerdo con los antecedentes proporcionados por la Dirección Meteorológica de Chile (DMC), se prevé que continúen las precipitaciones en la comuna.<br><br>Cabe señalar, que a las 09:20 horas de hoy, se emitió mensajería SAE para apoyar la evacuación del sector Santa Rita, por desborde del Río Andalien, en la comuna de Concepción.<br><br>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED declara Alerta Roja por desborde y cancela Alerta Amarilla por amenaza de desborde para la comuna de Concepción, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.<br><br><br>Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.<br><br>&nbsp;<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "fa064bd2-f118-440c-85de-8d2a8ded0625",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Tomé por incendio forestal",
+	"fechaHora": "2024-03-06T14:03:00.000-03:00",
+	"createdAt": "2024-03-06T17:07:10.330Z",
+	"updatedAt": "2024-03-07T17:29:57.229Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-tome-por-incendio-forestal",
+	"parentId": "6556665c-615b-4de0-b099-12d940db6b42",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Tomé\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Tomé se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Quebrada Honda</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.35 hectáreas </p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Al momento, el   incendio se encuentra cercano a sectores habitados.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>8 brigadas de   Conaf, 3 técnicos de Conaf, 2 helicópteros y 3 aviones de Conaf.</p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Tomé por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:15px;color:#2E2E2E\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

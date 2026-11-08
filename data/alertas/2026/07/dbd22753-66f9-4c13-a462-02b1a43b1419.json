@@ -1,0 +1,20 @@
+{
+	"id": "dbd22753-66f9-4c13-a462-02b1a43b1419",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para las comunas de Limache, Quintero, Concón y Quillota por desborde y cancela Alerta Amarilla por crecida ",
+	"fechaHora": "2026-07-20T23:00:49.4949-04:00",
+	"createdAt": "2026-07-21T03:02:33.028Z",
+	"updatedAt": "2026-07-22T17:40:37.190Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-limache-quintero-concon-y-quillota-por-crecida-2026-07-20-19-53-12",
+	"parentId": "74cb2c9e-a866-4689-abdc-a1bf3ef1cc4b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA)</strong>, la estación hidrométrica <strong>“Puente Colmo”</strong>, indica un <strong>incremento sostenido en su caudal</strong>, alcanzando valores de <strong>umbral Rojo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</p><p><br></p><p>En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde y cancela Alerta Amarilla por crecida para las comunas de Limache, Quintero, Concón y Quillota,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p><br></p><p style=\"text-align:justify\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

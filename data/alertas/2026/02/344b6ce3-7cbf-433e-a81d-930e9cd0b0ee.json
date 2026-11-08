@@ -1,0 +1,20 @@
+{
+	"id": "344b6ce3-7cbf-433e-a81d-930e9cd0b0ee",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Quillón por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-02-15T21:55:25.762Z",
+	"updatedAt": "2026-02-15T22:03:53.693Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quillon-por-incendio-forestal-2026-02-15-18-55-08",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\"><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:<br><br></strong></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">332-Monte negro IV</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.68 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Compañías del cuerpo de   bomberos de Quillón; 6 Brigadas CONAF; 2 Brigadas ARAUCO; 2 técnicos CONAF; 1   avión cisterna CONAF; 3 aviones cisterna ARAUCO; 2 helicópteros ARAUCO.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">No se reportan afectaciones en   personas ni daños en viviendas en la comuna de Quillón.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Quillón por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br><br></p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

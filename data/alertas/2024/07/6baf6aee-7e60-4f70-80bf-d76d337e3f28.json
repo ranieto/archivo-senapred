@@ -1,0 +1,20 @@
+{
+	"id": "6baf6aee-7e60-4f70-80bf-d76d337e3f28",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Loncoche por desborde",
+	"fechaHora": "2024-07-05T14:16:22.2222-04:00",
+	"createdAt": "2024-07-05T18:18:34.713Z",
+	"updatedAt": "2024-07-05T18:19:05.551Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-loncoche-por-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Loncoche\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía, el río Cruces en el sector urbano de la ciudad de Loncoche se encuentra con umbrales dentro de los parámetros normales, de acuerdo con la observación realizada en terreno por personal municipal.<br></p><p style=\"text-align:justify\">Cabe señalar que, las personas damnificadas de la Villa Ribera Sur producto del desborde del río, regresaron a sus viviendas.</p><p style=\"text-align:justify\">Además, se indica que la Dirección General de Aguas (DGA), mediante sus estaciones hidrométricas en línea, indican que los niveles de los cauces en la región se encuentran en su mayoría estables en sus niveles y con tendencia a la baja.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja por desborde para la comuna de Loncoche</strong>, la cual se mantuvo vigente desde el 27 de junio de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

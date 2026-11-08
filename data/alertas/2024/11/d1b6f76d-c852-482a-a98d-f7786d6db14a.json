@@ -1,0 +1,20 @@
+{
+	"id": "d1b6f76d-c852-482a-a98d-f7786d6db14a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Quilpué por incendio forestal",
+	"fechaHora": "2024-11-12T14:05:00.000-03:00",
+	"createdAt": "2024-11-12T17:12:56.325Z",
+	"updatedAt": "2024-11-14T03:14:38.933Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quilpue-por-incendio-forestal-2",
+	"parentId": "c230a85c-fcc9-498a-aab1-5d803eff7544",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Quilpué\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En combate se encuentra el incendio forestal denominado Los Molles, el cual consume al momento 3hectáreas de vegetación en la comuna de Quilpué.Cabe mencionar que el incendio se desarrolla cercano a sectores habitados.</p><p>Además, se activa mensajería SAE con dos mensajes a las 13:25 y 13:28 hrs. para evacuar sectores FundoLos Molles, Los Perales, Tranque Los Molles y La Retuca, comuna de Quilpué.</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Los Molles</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>7 brigadas de Conaf, 4 técnicos, 3 aviones cisternas y 2   helicópteros de Conaf y 1 puesto de mando.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPREDdeclara Alerta Roja para la Comuna de Quilpué por incendio forestal, vigente desde hoy y hasta que lascondiciones del incendio así lo ameriten.Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo&nbsp;adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

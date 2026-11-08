@@ -1,0 +1,20 @@
+{
+	"id": "435e8aef-a99c-4517-a400-637bf821e803",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Hualañé por incendio forestal",
+	"fechaHora": "2024-02-02T22:49:00.000-03:00",
+	"createdAt": "2024-02-03T01:55:08.376Z",
+	"updatedAt": "2024-02-05T23:56:12.772Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hualane-por-incendio-forestal",
+	"parentId": "6a58074c-aa27-4430-92b1-31d093973479",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</a>&nbsp;se informa el siguiente detalle respecto del incendio forestal&nbsp;“Orilla de Navarro”, en la comuna de Hualañé:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\">Nombre del incendio</a></p></td><td><p>Orilla de Navarro</p></td></tr><tr><td><p>Estado</p></td><td><p>En Combate</p></td></tr><tr><td><p>Superficie</p></td><td><p>120 hectáreas</p></td></tr><tr><td><p>Observaciones</p></td><td><p>Incendio forestal presenta un comportamiento conflictivo,   explosivo y con avance rápido dado por las altas temperaturas y alta   intensidad calórica; fuertes vientos que generan nuevos focos que dificulta   su control, con desprendimiento de pavesas.</p><p>El incendio se desarrolla cercano a sectores habitados.</p></td></tr><tr><td><p>Recursos</p></td><td><p>Trabajan en el lugar 2 brigada de CONAF.</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la Comuna de Hualañé por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "fca717d1-e852-4544-be6b-68eb2901ff63",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Pitrufquén y Carahue por desborde",
+	"fechaHora": "2024-06-16T18:24:00.000-04:00",
+	"createdAt": "2024-06-16T22:29:12.951Z",
+	"updatedAt": "2024-06-16T22:30:20.070Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-pitrufquen-y-carahue-por-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Carahue, Pitrufquén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que las estaciones hidrométricas “Río Imperial” y “Río Toltén” de las comunas de Carahue y Pitrufquén, han vuelto al umbral de Alerta Azul, por tendencia a baja en sus caudales.<br></p><p style=\"text-align:justify\">Por otra parte, de acuerdo con lo informado por los Municipios de Carahue y Pitrufquén, se mantienen 57 personas aisladas en los sectores de Isla Lican, Isla Chica, Pelehue y Villa Comuy.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja para las comunas de Pitrufquén y Carahue por Desborde, que se mantuvo </strong>vigente desde el 14 de junio de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

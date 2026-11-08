@@ -1,0 +1,20 @@
+{
+	"id": "c36a4064-6370-48c5-9d49-5136234f5dea",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas Chañaral, Caldera, Copiapó, Huasco y Freirina por viento",
+	"fechaHora": "2024-11-27T09:34:00.000-03:00",
+	"createdAt": "2024-11-27T12:37:25.688Z",
+	"updatedAt": "2024-11-27T12:37:51.824Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-chanaral-caldera-copiapo-huasco-y-freirina-por-viento-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco, Chañaral, Copiapó\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Huasco, Chañaral, Copiapó, Caldera, Freirina\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológica A440/2024, el cual pronosticaba viento normal a moderado con probabilidad de tormentas de arena en el litoral de la Región de Atacama. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva&nbsp;</strong><strong>para las comunas </strong><strong>Chañaral, Caldera, Copiapó, Huasco y Freirina, por viento</strong>, la cual se mantuvo vigente desde el 21 de noviembre de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

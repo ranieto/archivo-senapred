@@ -1,0 +1,20 @@
+{
+	"id": "d8632bd9-591b-410f-b4cb-d16eaa5a35a8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la provincia de Malleco por calor intenso",
+	"fechaHora": "2025-01-27T13:32:18.1818-03:00",
+	"createdAt": "2025-01-27T16:33:29.528Z",
+	"updatedAt": "2025-01-31T04:08:19.986Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco-por-calor-intenso-5",
+	"parentId": "91973731-9735-40bd-802f-e3d672c9b03f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentran vigentes los siguientes alertamientos meteorológicos asociados a la variable de altas temperaturas en la Región de La Araucanía:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA8</p></td><td><p style=\"text-align:justify\">Altas temperaturas   extremas en la Provincia de Malleco.</p></td><td><p style=\"text-align:center\">29-01</p></td><td><p style=\"text-align:center\">30-01</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A34-1</p></td><td><p style=\"text-align:justify\">Altas temperaturas   en cordillera de la costa, valle y precordillera.</p></td><td><p style=\"text-align:center\">29-01</p></td><td><p style=\"text-align:center\">30-01</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con lo informado por la DMC, los montos máximos de temperatura (°C) será los siguientes: </span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Área</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Miércoles 29 de enero</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Jueves 30 de enero</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Provincia de Malleco</p></td><td><p style=\"text-align:center\">Entre 34 y 36</p></td><td><p style=\"text-align:center\">Entre 33 y 35</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por calor intenso para la provincia de Malleco, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><p style=\"text-align:justify\">El SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "326283a3-29eb-4dae-ada3-7b14cc37149c",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por evento meteorológico",
+	"fechaHora": "2026-06-06T20:49:00.000-04:00",
+	"createdAt": "2026-06-07T00:52:14.007Z",
+	"updatedAt": "2026-06-07T00:55:11.325Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico-2026-06-05-18-17-06",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De acuerdo <strong>con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> han sido cancelados los siguientes alertamientos para Isla de Pascua en la Región de Valparaíso, debido al debilitamiento de las condiciones que lo originaron.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><strong><span style=\"font-size: 15px\">Alertamiento</span></strong></span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><strong><span style=\"font-size: 15px\">Pronóstico</span></strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Aviso A242</span></p></td><td><p><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Viento   normal a moderado (entre 25 y 40 con rachas de 60 km/h).</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Aviso A244</span></p></td><td><p><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Precipitaciones   normales a moderadas en corto periodo de tiempo (entre 15 y 20 mm).</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento meteorológico para la Provincia de Isla de Pascua,</strong> que se mantuvo vigente desde el 05 de junio de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "52703ef9-77ac-4b8c-b222-cccbf1c90722",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Castro por incendio forestal",
+	"fechaHora": "2024-12-14T20:57:53.5353-03:00",
+	"createdAt": "2024-12-14T23:59:56.325Z",
+	"updatedAt": "2024-12-17T03:43:00.834Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-castro-por-incendio-forestal-2",
+	"parentId": "7df70fc0-e45c-4175-b690-2d4b039c59b9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Castro, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">El Polvorín</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.02 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">2   brigadas y 3 técnicos de Conaf; 1 helicóptero y 1 avión de Conaf</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio   se encuentra cercano a sectores poblados</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">Producto de este incendio, a las 20:16 horas de hoy fue enviada mensajería SAE para el sector Villa Mirador 5, comuna de Castro.</span></p><p><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED&nbsp;declara Alerta Roja para la comuna de Castro por incendio forestal, vigente desde hoy y hasta que las&nbsp;condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:16px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo&nbsp;adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad&nbsp;del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9d5c6839-89ef-4268-8107-f4181398cc02",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego y la comuna de Cabo de Hornos por viento",
+	"fechaHora": "2025-03-24T10:32:37.3737-03:00",
+	"createdAt": "2025-03-24T13:34:02.468Z",
+	"updatedAt": "2025-03-24T17:44:56.659Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-viento-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes:</p><table><tbody><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:center\"><strong><span style=\"color:black\">Alertamiento   cancelado</span></strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:center\">Aviso A99-1</p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Viento normal a   moderado en Insular Central, Insular Sur y Pampa Patagónica Sur.</p></td></tr></tbody></table><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes, la Dirección Regional del SENAPRED Magallanes, en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Temprana Preventiva para las provincias </strong><strong>de Magallanes y Tierra del Fuego y la comuna de Cabo de Hornos </strong><strong>por viento, </strong>que se mantuvo vigente desde el 22 de marzo de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6cc0629c-e5af-432d-b80f-c84df4d31437",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Ñuble por calor intenso",
+	"fechaHora": "2024-02-14T10:40:00.000-03:00",
+	"createdAt": "2024-02-14T13:58:42.679Z",
+	"updatedAt": "2024-02-14T13:59:25.232Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-uble-por-calor-intenso-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelada la Alerta Meteorológica AA12-1/2024, la cual pronosticaba un evento de altas temperaturas extremas entre las regiones de Maule y Los Ríos, debido al debilitamiento de las condiciones que la originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Del mismo modo, de acuerdo con el Pronóstico Público, no se esperan temperaturas iguales o superiores a 34°C en la región durante al menos los próximos dos días.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes que suponen una disminución del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED, <strong>cancela Alerta Amarilla Regional por calor intenso,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "60efafa7-800b-47a9-843a-dc41000130f0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Talca por evento masivo",
+	"fechaHora": "2024-02-12T16:32:34.3434-03:00",
+	"createdAt": "2024-02-12T19:33:41.151Z",
+	"updatedAt": "2024-02-12T19:34:32.394Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-talca-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Talca\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule, finalizó el evento “Fiesta de la Independencia 2024”, en el Parque Río Claro, comuna de Talca, sin reportarse situaciones de emergencia durante el desarrollo de esta actividad.<br><br>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Talca por evento masivo, que se mantuvo vigente desde el 05 de febrero de 2024.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

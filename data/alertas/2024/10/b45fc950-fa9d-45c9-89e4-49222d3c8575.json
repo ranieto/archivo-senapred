@@ -1,0 +1,20 @@
+{
+	"id": "b45fc950-fa9d-45c9-89e4-49222d3c8575",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento masivo",
+	"fechaHora": "2024-10-28T07:37:57.5757-03:00",
+	"createdAt": "2024-10-28T10:38:31.644Z",
+	"updatedAt": "2024-10-28T10:39:27.060Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Metropolitana, han finalizado las “Elecciones Generales de Gobernador Regional, Consejeros Regionales, Alcaldes y Concejales 2024”, desarrolladas entre los días 26 y 27 de octubre, sin reportarse situaciones relevantes de emergencia. Lo anterior, supone una disminución de la vulnerabilidad a distintas variables de riesgo ante eventuales emergencias.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo,</strong> que se mantuvo vigente desde el 23 de octubre de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

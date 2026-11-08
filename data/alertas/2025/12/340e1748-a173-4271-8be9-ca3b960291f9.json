@@ -1,0 +1,20 @@
+{
+	"id": "340e1748-a173-4271-8be9-ca3b960291f9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2025-12-03T15:24:21.2121-03:00",
+	"createdAt": "2025-12-03T18:42:49.384Z",
+	"updatedAt": "2025-12-03T23:03:36.388Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-2025-12-03-15-42-34",
+	"parentId": "9bfdb6a3-7e55-4309-b869-dcd18d0b9863",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por CONAF y el SINAPRED, se reportan incendios forestales con el siguiente detalle:</span></p><table><tbody><tr><td><p>Nombre del incendio</p></td><td><p>El Manzano</p></td></tr><tr><td><p>Comuna (sector)</p></td><td><p>Las Cabras El Manzano)</p></td></tr><tr><td><div>Estado</div></td><td><div>En Combate</div></td></tr><tr><td><p>Superficie</p></td><td><p>0.01 [ha]</p></td></tr><tr><td><p>Recursos</p></td><td><p>6 Brigadas de   Conaf, 2 técnicos, 1 camiones cisterna, 2 helicópteros, 2 aviones cisterna, 1   puesto de mando, 1 camión cisterna municipal y Carabineros.</p></td></tr><tr><td><p>Observaciones</p></td><td><p>No se   reportan afectaciones en personas ni daños en viviendas en la comuna de Las   Cabras</p></td></tr></tbody></table><p><br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Las Cabras por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p><br></p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "348ea1eb-5d46-427f-a68a-2de3d43ec41d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2024-08-23T23:11:36.3636-04:00",
+	"createdAt": "2024-08-24T03:13:03.006Z",
+	"updatedAt": "2024-08-24T03:14:06.019Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelado los siguientes alertamientos meteorológicos para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que los originaron:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">AA75</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte con desarrollo de tormentas de arena en las comunas de   Mejillones y Antofagasta</p></td><td><p style=\"text-align:center\">23-08</p></td><td><p style=\"text-align:center\">23-08</p></td></tr><tr><td><p style=\"text-align:center\">A312-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de tormentas de arena en el sector   litoral.</p></td><td><p style=\"text-align:center\">21-08</p></td><td><p style=\"text-align:center\">23-08</p></td></tr><tr><td><p style=\"text-align:center\">A306-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera de la costa, precordillera, precordillera   salar y cordillera.</p></td><td><p style=\"text-align:center\">20-08</p></td><td><p style=\"text-align:center\">23-08</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Temprana Preventiva Regional por viento, </strong>que se mantenía vigente desde el 14 de agosto.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

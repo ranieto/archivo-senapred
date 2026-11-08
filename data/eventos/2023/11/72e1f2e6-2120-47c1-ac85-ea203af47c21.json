@@ -1,0 +1,19 @@
+{
+	"id": "72e1f2e6-2120-47c1-ac85-ea203af47c21",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Antofagasta",
+	"fechaHora": "2023-11-27T07:11:00.000-03:00",
+	"createdAt": "2023-11-27T10:12:53.682Z",
+	"updatedAt": "2023-11-27T10:18:23.134Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-8",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">07:10 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la Región de Antofagasta.&nbsp;</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Taltal:   </p></td><td><p>III</p></td></tr><tr><td><p>Antofagasta:   </p></td><td><p>II</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br></p><p><br></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

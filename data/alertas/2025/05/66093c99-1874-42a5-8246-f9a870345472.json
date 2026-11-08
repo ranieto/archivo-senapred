@@ -1,0 +1,20 @@
+{
+	"id": "66093c99-1874-42a5-8246-f9a870345472",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por evento meteorológico",
+	"fechaHora": "2025-05-19T11:46:14.1414-04:00",
+	"createdAt": "2025-05-19T15:48:35.767Z",
+	"updatedAt": "2025-05-19T15:48:47.173Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-12",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de O’Higgins:</p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamientos cancelados</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A167-7</p></td><td><p>Viento normal a moderado en Cordillera.</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A178-1</p></td><td><p>Precipitaciones normales a moderadas en corto periodo de tiempo en Precordillera.</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A179</p></td><td><p>Nevadas normales a moderadas en Cordillera.</p></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva Regional, por evento meteorológico</strong>, que se encontraba vigente desde el 14 de mayo.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

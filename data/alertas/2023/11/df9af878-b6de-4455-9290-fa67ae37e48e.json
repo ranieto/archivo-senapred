@@ -1,0 +1,20 @@
+{
+	"id": "df9af878-b6de-4455-9290-fa67ae37e48e",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Amrilla para las comunas de San Clemente y Colbún por crecida",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-11-02T15:11:44.551Z",
+	"updatedAt": "2023-11-02T15:14:58.481Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-colbun-por-crecida",
+	"parentId": "e0f480c5-a80a-431b-b6ca-211e93ca5671",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Talca, Linares\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Colbún\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"margin-right:-4.55pt;margin-left:21.3pt;text-align:justify\"><span style=\"font-size:15px\"><strong>Conforme a lo señalado en el boletín de Declaración de Término de Alerta de Crecida por parte de la Dirección General de Agua</strong>s emitido durante la presente jornada, se establece que la alerta de crecida para el embalse Colbún finalizó hoy 02 de noviembre de 2023, con un nivel actual de 436 m.s.n.m. y una proyección en la que permanece estable por al menos 3 días.</span></p><p style=\"margin-right:-4.55pt;margin-left:21.3pt;text-align:justify\"><strong><span style=\"font-size:15px\">De </span></strong><strong><span style=\"font-size:15px\">acuerdo con la información proporcionada y en consideración con los organismos técnicos involucrados y, según lo establecido en la Ley N° 20.304, SENAPRED cancela la Alerta de crecida en Embalse Colbún</span></strong><span style=\"font-size:15px\">, que se encontraba vigente desde el 26 de noviembre.</span></p><p style=\"margin-right:-4.55pt;margin-left:21.3pt;text-align:justify\"><span style=\"font-size:15px\">Además, por lo indicado en el Anexo 3 del protocolo y según los antecedentes expuestos, <strong>SENAPRED cancela la Alerta Amarilla </strong>para las comunas de San Clemente y Colbún, por crecida, que permanecía vigente desde el 26 de octubre de 2023.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "81047ac3-39a4-4fe4-a2ed-91549e7d85cc",
+	"type": "Alerta",
+	"titulo": "Se modifica variable de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Vallenar, Copiapó, Tierra Amarilla y Alto del Carmen por viento",
+	"fechaHora": "2024-06-09T23:21:11.1111-04:00",
+	"createdAt": "2024-06-10T03:23:18.337Z",
+	"updatedAt": "2024-06-19T04:37:18.306Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comuna-de-diego-de-almagro-copiapo-tierra-amarilla-y-alto-del-carmen-por-viento",
+	"parentId": "47fa8517-565c-4d03-af57-c78d7d0ea0e9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A189-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en precordillera y cordillera de la región. </p></td><td><p style=\"text-align:center\">09-06</p></td><td><p style=\"text-align:center\">14-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, ha sido cancelada la Alerta Meteorológica AA36/2024, que pronosticó la ocurrencia de viento moderado a fuerte, con desarrollo de viento blanco en cordillera de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED, <strong>modifica variable de la Alerta Temprana Preventiva a viento, para las comunas de Diego de Almagro, Vallenar, Copiapó, Tierra Amarilla y Alto del Carmen</strong>, que se encuentra vigente desde el 04 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

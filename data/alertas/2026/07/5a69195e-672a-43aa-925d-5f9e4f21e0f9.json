@@ -1,0 +1,20 @@
+{
+	"id": "5a69195e-672a-43aa-925d-5f9e4f21e0f9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Licantén y Curepto por crecida",
+	"fechaHora": "2026-07-26T15:20:00.000-04:00",
+	"createdAt": "2026-07-26T19:28:45.580Z",
+	"updatedAt": "2026-07-27T03:35:10.424Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-licanten-y-curepto-por-crecida-2026-07-26-15-28-24",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA),</strong> la estación hidrométrica “Río Mataquito en Licantén” ubicada en pasarela peatonal, ex puente Escalones de la comuna de Licantén, indica un incremento en su caudal, alcanzando valores de umbral amarillo, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</p><p><br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla por crecida para las comunas de Licantén y Curepto,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

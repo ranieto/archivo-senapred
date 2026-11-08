@@ -1,0 +1,20 @@
+{
+	"id": "fc7b8e26-eb9f-449a-9717-984a363c261f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Coyhaique por incendio forestal",
+	"fechaHora": "2025-01-18T21:23:37.3737-03:00",
+	"createdAt": "2025-01-19T00:24:10.336Z",
+	"updatedAt": "2025-01-20T19:45:49.329Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-coyhaique-por-incendio-forestal",
+	"parentId": "4f6e04cb-6a56-4405-84c3-77ee0a419fb2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Coyhaique se reporta lo siguiente:</p><table><tbody><tr><td><p><strong>Nombre   del incendio</strong></p></td><td><p>Sector Los   Chochos</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2.2   hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal   contenido en su perímetro, solo actividad con puntos calientes dentro de área   quemada, en la que se encuentran trabajando brigadas en conjunto con bomberos   de Coyhaique. Debido al debilitamiento de las condiciones del incendio,   actualmente no existe riesgo de propagación a viviendas.</p><p>Respecto a   los lesionados se informa que fueron atendidos por SAMU. En cuanto a las 8 personas   damnificadas, se trasladaron a casa de   familiares. Durante la jornada del viernes 17 de enero, se realizó un COGRID   comunal, presidido por el Delegado Presidencial junto al Director Regional Subrogante   de SENARED, dónde se realizaron las coordinaciones de la emergencia.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Amarilla para la Comuna de Coyhaique</strong>, por incendio forestal, que se encuentra vigente desde el 18 de enero de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

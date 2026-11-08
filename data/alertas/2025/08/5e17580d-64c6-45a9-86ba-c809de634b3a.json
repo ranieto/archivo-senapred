@@ -1,0 +1,20 @@
+{
+	"id": "5e17580d-64c6-45a9-86ba-c809de634b3a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Cabo de Hornos por tsunami ",
+	"fechaHora": "2025-08-22T00:41:00.000-04:00",
+	"createdAt": "2025-08-22T05:04:03.785Z",
+	"updatedAt": "2025-08-22T06:18:51.566Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-cabo-de-hornos-por-tsunami",
+	"parentId": "d4c76ee0-2edf-461e-8d50-89eed7bcd444",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Antártica Chilena\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Cabo de Hornos\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Tsunami\",\"nombreImg\":\"tsunami.png\"}",
+	"contenido": "<p><span style=\"color: black\">Un sismo de mediana intensidad ser percibió a las 22:16 horas del 21 de agosto (hora local chile continental), alcanzando una máxima intensidad percibida de V Mercalli en el sector del Paso Drake,</span></p><p style=\"text-align:justify\"><span style=\"color:black\">cercano al Territorio Chileno Antártico.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El Centro Sismológico Nacional indicó que la magnitud del sismo fue 7,6 Mww, con epicentro 258 kilómetros al Noroeste de Base Frei.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por su parte, el Servicio Hidrográfico y Oceanográfico de la ARMADA (SHOA), estableció <strong>Estado de Precaución</strong> para el Territorio Chileno Antártico y <strong>Estado Informativo</strong> para el resto de la Región de Magallanes. Cabe destacar, que las Bases Arturo Prat, Base Bernardo O´Higgins, Base Eduardo Frei, Bahía Fildes, Base Escudero, su personal se mantendrá alejados de zonas de playa. Este proceso fue reforzado con la emisión de Mensajería SAE a las 22:45 horas (hora local chile continental).</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por tsunami para la comuna de Cabo de Hornos</strong>,vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "226b2ce0-5c85-4cb7-9774-a19c412331e4"
+}

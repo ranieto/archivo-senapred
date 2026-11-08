@@ -1,0 +1,20 @@
+{
+	"id": "a2c1afa1-6a88-42fb-bfe4-d338c5044efa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Paredones incendio forestal",
+	"fechaHora": "2025-03-20T19:58:00.000-03:00",
+	"createdAt": "2025-03-20T23:02:51.756Z",
+	"updatedAt": "2025-03-20T23:03:48.178Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-paredones-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Paredones\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Paredones </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>El Peral 3</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3.4 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos Paredones, 5 Brigadas, 1 Técnicos , 2 helicópteros,   1 skidder y 3 camiones aljibe</p></td></tr></tbody></table><p style=\"text-align:justify\">De acuerdo con la información técnica proporcionada por la Corporación Nacional Forestal CONAF, activo se mantiene el incendio forestal \"El Peral 3\", comuna de Paredones, afectando una superficie de 3.4 hectáreas de eucalipto, matorral y desechos.</p><p style=\"text-align:justify\">Cabe destacar que a la hora del presente informe, este incendio se encuentra contenido en todos sus sectores sin presentar amenaza a viviendas o infraestructura crítica del sector.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Paredones (ATR 75) por incendio forestal, que se mantuvo vigente desde el 20 de marzo de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

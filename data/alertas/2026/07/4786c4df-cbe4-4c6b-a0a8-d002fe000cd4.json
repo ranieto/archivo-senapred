@@ -1,0 +1,20 @@
+{
+	"id": "4786c4df-cbe4-4c6b-a0a8-d002fe000cd4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2026-07-11T10:05:57.5757-04:00",
+	"createdAt": "2026-07-11T14:07:06.018Z",
+	"updatedAt": "2026-07-11T14:08:07.470Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-evento-meteorologico-2026-07-09-17-13-35",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que los originaron.</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A310</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctrica en sectores de precordillera y cordillera.</p></td></tr></tbody></table><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Adicionalmente, el Servicio Meteorológico de la Armada de Chile a través del Centro Zonal de Meteorología Marina de Talcahuano ha cancelado el Aviso por probabilidad de ocurrencia de nubes convectivas asociadas a trombas marinas en el sector costero entre las regiones de Maule y La Araucanía para la jornada del viernes 10 de julio.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva regional por evento meteorológico,</strong> que se mantuvo vigente desde el 09 de julio del 2026.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

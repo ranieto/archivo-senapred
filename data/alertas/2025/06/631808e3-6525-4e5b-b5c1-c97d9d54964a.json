@@ -1,0 +1,20 @@
+{
+	"id": "631808e3-6525-4e5b-b5c1-c97d9d54964a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja en la Región del Biobío por desborde",
+	"fechaHora": "2025-06-15T11:32:25.2525-04:00",
+	"createdAt": "2025-06-15T15:33:07.859Z",
+	"updatedAt": "2025-06-15T15:33:35.124Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con lo informado por la Dirección General de Aguas (DGA), mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación del Río Pichilo, en el sector Pichilo y la estación del Río Lía, en el sector Las Corrientes, en la comuna de Arauco; y la estación del Río Curanilahue en la comuna del mismo nombre, se encuentran fuera del nivel de umbral de alerta de desborde y con tendencia de niveles a la baja.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, con la actualización de la Alarma Meteorológica AAA4-3/2025 emitida por la Dirección Meteorológica de Chile (DMC), se da por finalizado el pronóstico de precipitaciones intensas en corto período de tiempo para la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que un total de 5 mensajes SAE fueron enviados para la comuna de Arauco por desborde del Río Pichilo.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por desborde</strong>, que se mantuvo vigente durante hoy 15 de junio de 2025. </span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

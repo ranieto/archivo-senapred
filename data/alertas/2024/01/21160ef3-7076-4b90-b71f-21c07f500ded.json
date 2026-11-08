@@ -1,0 +1,20 @@
+{
+	"id": "21160ef3-7076-4b90-b71f-21c07f500ded",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Villa Alemana por incendio forestal",
+	"fechaHora": "2024-01-02T09:12:00.000-03:00",
+	"createdAt": "2024-01-02T12:22:54.048Z",
+	"updatedAt": "2024-01-02T18:04:22.833Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-villa-alemana-por-incendio-forestal",
+	"parentId": "ed397d8c-068c-4670-a923-a4d92e52ebe6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Villa Alemana\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se reporta un incendio forestal en la comuna de Villa Alemana, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Fundo Los Almendros</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">5.8 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Antecedentes técnicos</strong></p></td><td><p style=\"text-align:justify\">Incendio   se mantiene con baja actividad. Durante la madrugada, personal de CONAF   trabajó en la confección de línea de contención con material de raspaje,   apoyados por líneas húmedas de Bomberos.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">Durante   la presente jornada trabajarán 2 brigadas de CONAF.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por incendio forestal para la comuna de Villa Alemana</strong>, que se mantiene vigente desde 01 de enero de 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

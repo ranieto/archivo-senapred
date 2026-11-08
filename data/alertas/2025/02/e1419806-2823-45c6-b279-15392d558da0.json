@@ -1,0 +1,20 @@
+{
+	"id": "e1419806-2823-45c6-b279-15392d558da0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Coihueco por incendio forestal",
+	"fechaHora": "2025-02-09T14:11:58.5858-03:00",
+	"createdAt": "2025-02-09T17:14:18.772Z",
+	"updatedAt": "2025-02-09T22:51:32.182Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-coihueco-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Coihueco se informa el siguiente detalle:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Taguitas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>149.55 hectáreas</p></td></tr></tbody></table></div><p>La Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para la comuna de Chillán con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p><div><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c133981-7ed3-4452-a7da-5c0ae5fc2470"
+}

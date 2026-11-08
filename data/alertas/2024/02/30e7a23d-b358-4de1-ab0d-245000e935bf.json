@@ -1,0 +1,20 @@
+{
+	"id": "30e7a23d-b358-4de1-ab0d-245000e935bf",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Curicó por incendio forestal",
+	"fechaHora": "2024-02-03T18:57:05.055-03:00",
+	"createdAt": "2024-02-03T21:57:57.137Z",
+	"updatedAt": "2024-02-03T22:10:21.896Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curico-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Curicó\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo c</span></strong><span style=\"color: black\">on <strong>la información proporcionada por CONAF</strong>, </span><span style=\"color: black\">se reporta el siguiente detalle respecto al incendio forestal </span>Santa Laura<span style=\"color: black\">, en la comuna </span><span style=\"color: black\">de Curicó:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Santa Laura</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>31 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Curicó, por incendio forestal, que se mantuvo vigente desde el 02 de febrero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

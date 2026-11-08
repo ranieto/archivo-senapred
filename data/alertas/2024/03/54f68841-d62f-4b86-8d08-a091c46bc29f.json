@@ -1,0 +1,20 @@
+{
+	"id": "54f68841-d62f-4b86-8d08-a091c46bc29f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por evento meteorológico",
+	"fechaHora": "2024-03-23T21:16:00.000-03:00",
+	"createdAt": "2024-03-24T00:18:00.665Z",
+	"updatedAt": "2024-03-24T00:19:06.976Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de Valparaíso:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA18</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas en Isla de Pascua. </p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A71</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en Isla de Pascua.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A72</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en Isla de Pascua.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva </strong>para la Provincia de Isla de Pascua, por <strong>evento meteorológico, </strong>que se encontraba vigente desde el 22 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

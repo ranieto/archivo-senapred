@@ -1,0 +1,20 @@
+{
+	"id": "711e0fb2-7526-4524-86e8-61ebfc35355f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Camarones por remoción en masa ",
+	"fechaHora": "2024-10-05T19:58:00.000-03:00",
+	"createdAt": "2024-10-05T23:12:55.173Z",
+	"updatedAt": "2024-11-14T12:17:54.771Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "100ecc21-1072-486b-ac0d-faaf87704d61",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Camarones\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacot</strong>a, respecto a los continuos deslizamientos de rocas en la Ruta 5 Norte, sector Cuesta Cultura Chinchorro, se informa que la ruta se encuentra habilitada en ambos sentidos.<br></p><p style=\"text-align:justify\">Cabe señalar, que entre las 20:00 horas de ayer y las 06:00 horas de hoy, se mantuvo un corte preventivo en la Ruta 5, a fin de facilitar el trabajo de los equipos de emergencia.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla por remoción en masa para la comuna de Camarones,</strong> la que se mantiene vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Producto de este evento, al momento se han realizado 3 COGRID del nivel Regional y 2 del nivel comunal, de los cuales 1 fue durante el día de hoy.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">A fin de asistir a los afectados, por medio de la Gobernación Marítima, se realizó el envío de cajas de alimentos por vía marítima hacia Caleta Camarones. Asimismo, se dispuso mantener hasta el domingo 06 de octubre la contratación de baños químicos y finalizó la entrega de agua embotellada para la población.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Respecto a la habilitación del albergue en la ciudad de Arica, no se han presentado personas a tales dependencias para hacer uso de el.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, se encuentra gestionado y financiado por el municipio de Camarones, el abastecimiento de agua potable a través de un camión aljibe de la localidad de Huara.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

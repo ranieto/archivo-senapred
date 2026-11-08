@@ -1,0 +1,19 @@
+{
+	"id": "a8b5f381-9bdf-4277-a907-0d7fc21dcbbe",
+	"type": "Evento",
+	"titulo": "Accidente terrestre, Comuna de Ñiquén (información preliminar)",
+	"fechaHora": "2024-09-28T20:45:00.000-03:00",
+	"createdAt": "2024-09-29T00:17:32.771Z",
+	"updatedAt": "2024-09-29T01:42:21.595Z",
+	"urlAccess": "accidente-terrestre-comuna-de-iquen-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED </span><span style=\"color: black\">Ñuble, se reporta el volcamiento de un bus interprovincial en el kilómetro 357 de la Ruta 5 Sur (sentido norte – sur), comuna de Ñiquén.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento, se reportan 15 personas lesionadas, atendidas por personal de SAMU. Por otra parte, la ruta se encuentra regulada por Carabineros a fin de facilitar el trabajo de los equipos de emergencia.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos de San Carlos, Ñiquén, Chillán, Carabineros y SAMU.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

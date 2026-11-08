@@ -1,0 +1,20 @@
+{
+	"id": "18d6d882-dc0c-40a4-a17e-ab9e4ae6e6fe",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chillán Viejo por incendio forestal ",
+	"fechaHora": "2025-01-15T18:22:00.000-03:00",
+	"createdAt": "2025-01-15T21:52:57.936Z",
+	"updatedAt": "2025-01-15T21:53:48.228Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-viejo-por-incendio-forestal-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chillán Viejo\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Chillán Viejo se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">El Retamo</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">0.89   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Chillan, 5 Brigadas CONAF, 2 Técnicos CONAF, 1 Avión Cisterna, 1   helicóptero, 1 HC y 1 unidad de análisis de diagnostico.</p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

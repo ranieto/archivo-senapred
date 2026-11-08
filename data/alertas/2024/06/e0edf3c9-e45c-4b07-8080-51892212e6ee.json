@@ -1,0 +1,20 @@
+{
+	"id": "e0edf3c9-e45c-4b07-8080-51892212e6ee",
+	"type": "Alerta",
+	"titulo": "Se cancela la Alerta Temprana Preventiva para la comuna de Sierra Gorda, por evento masivo",
+	"fechaHora": "2024-06-15T10:44:00.000-04:00",
+	"createdAt": "2024-06-16T07:11:32.681Z",
+	"updatedAt": "2024-06-16T07:12:03.451Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-sierra-gorda-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Sierra Gorda\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Antofagasta, respecto al evento masivo denominado “Festival desde el corazón del Desierto”, se informa que este se desarrolló con normalidad y finalizó sin reportar emergencias mayores.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para la comuna de Sierra Gorda, por evento masivo</strong>, la cual se mantuvo vigente desde el 13 de junio de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

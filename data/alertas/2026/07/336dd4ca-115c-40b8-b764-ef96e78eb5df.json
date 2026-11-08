@@ -1,0 +1,20 @@
+{
+	"id": "336dd4ca-115c-40b8-b764-ef96e78eb5df",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia de Isla de Pascua por viento ",
+	"fechaHora": "2026-07-11T09:08:47.4747-04:00",
+	"createdAt": "2026-07-11T13:09:47.084Z",
+	"updatedAt": "2026-07-11T13:10:54.411Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-viento-2026-07-09-14-20-35",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelado los siguientes alertamientos para Isla de Pascua, Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que los originaron.</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA89</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte en Isla de Pascua (entre 60 y 70 km/h, con rachas de 90   km/h).</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A307</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en Isla de Pascua (entre 25 y 40 km/h, con rachas de 60   km/h).</p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para la provincia de Isla de Pascua</strong>, que se mantuvo vigente desde el 09 de julio del 2026.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

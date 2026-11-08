@@ -1,0 +1,20 @@
+{
+	"id": "98639261-a48f-43fa-84d2-dd26238ec9ad",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2024-06-25T21:51:00.000-04:00",
+	"createdAt": "2024-06-26T02:03:33.826Z",
+	"updatedAt": "2024-06-26T02:03:44.738Z",
+	"urlAccess": "se-cancela-alerta-amarilla-para-la-region-de-uble-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>han sido cancelados todos los alertamientos meteorológicos pronosticados para la Región de Ñuble.<br></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por evento meteorológico</strong>, que se mantenía vigente desde el 11 de junio.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

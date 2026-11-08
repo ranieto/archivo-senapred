@@ -1,0 +1,20 @@
+{
+	"id": "46eb99e4-63f4-407d-9ddd-9aa5c4492a9b",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Atacama por Alteración Sanitaria",
+	"fechaHora": "2023-05-06T00:09:00.000-04:00",
+	"createdAt": "2023-10-25T22:45:17.129Z",
+	"updatedAt": "2024-12-30T20:55:36.159Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-atacama-por-alteracion-sanitaria",
+	"parentId": "83d39be2-207c-4da4-8c61-b66c4ef6617f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\">De acuerdo con la<strong>información proporcionada por el Ministerio de Salud</strong>, a través de su Decreto Supremo N°12 del 26 de abril de 2023, se informa la presencia o riesgo de introducción y dispersión del mosquito<em>Aedes Aegypti</em>(comúnmente llamado mosquito del dengue), en todo el territorio de las regiones del norte de Chile, incluyendo la Región de Atacama.</p><p style=\"text-align: justify\">Cabe señalar, que dicho mosquito representa un vector altamente eficiente para transmitir enfermedades como la Fiebre Amarilla, Dengue, Chikungunya y Zika, conocidas en su conjunto con arbovirosis, cuando se encuentra infectado por cualquiera de los virus antes mencionados, y está en condiciones de transmitirlo. Asimismo, estas enfermedades transmitidas, tienen una alta capacidad de producir epidemias, pudiendo afectar un alto porcentaje de la población, dependiendo de su nivel de inmunidad, de la densidad de población de mosquitos y de los programas de intervenciones de salud pública y control ambiental que se realicen.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y los factores de vulnerabilidad asociados a esta variable de riesgo, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED,<strong>declara Alerta Temprana Preventiva Regional</strong>por Alteración Sanitaria, vigente a partir de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

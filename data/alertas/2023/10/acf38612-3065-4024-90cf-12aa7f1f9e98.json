@@ -1,0 +1,20 @@
+{
+	"id": "acf38612-3065-4024-90cf-12aa7f1f9e98",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Freirina por incendio forestal",
+	"fechaHora": "2023-10-09T23:41:00.000-03:00",
+	"createdAt": "2023-10-10T02:46:00.132Z",
+	"updatedAt": "2023-10-12T14:51:32.690Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-freirina-por-incendio-forestal",
+	"parentId": "0814d056-c363-488c-af90-55ca990bbee9",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Freirina\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se reporta un incendio forestal en la comuna de Freirina, según el siguiente detalle:<br></p><table><tbody><tr><td><div><strong>Nombre del incendio</strong></div></td><td><div>Loncomilla</div></td></tr><tr><td><div><strong>Estado</strong></div></td><td><div>En combate</div></td></tr><tr><td><div><strong>Superficie</strong></div></td><td><div>12,9 hectáreas</div></td></tr><tr><td><div><strong>Fundamentación técnica</strong></div></td><td><div>Este incendio se encuentra cercano a sectores poblados.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla </strong>para la comuna de Freirina por incendio forestal, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p>Con la declaración de esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

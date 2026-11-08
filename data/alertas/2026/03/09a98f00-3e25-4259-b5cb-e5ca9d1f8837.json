@@ -1,0 +1,20 @@
+{
+	"id": "09a98f00-3e25-4259-b5cb-e5ca9d1f8837",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por amenaza de incendios forestales",
+	"fechaHora": "2026-03-08T20:45:46.4646-03:00",
+	"createdAt": "2026-03-08T23:47:23.797Z",
+	"updatedAt": "2026-03-08T23:48:11.609Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-amenaza-de-incendios-forestales-2026-03-05-19-14-22",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con los antecedentes proporcionados por la Corporación Nacional Forestal y la Dirección Meteorológica de Chile mediante la cancelación del Aviso Meteorológico por altas temperaturas para la región, se indica el término de las condiciones que dieron origen a la Alerta Temprana Preventiva.</span></p><p><span style=\"font-size:15px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de La Araucanía, por amenaza de incendios forestales, que se mantuvo vigente desde el 05 de marzo de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

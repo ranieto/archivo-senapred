@@ -1,0 +1,20 @@
+{
+	"id": "d8e52cca-fb5f-4320-badc-7d7515a2c59c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Antofagasta por alteración del suministro de agua potable",
+	"fechaHora": "2023-12-05T00:26:02.022-03:00",
+	"createdAt": "2023-12-05T03:27:35.506Z",
+	"updatedAt": "2023-12-27T17:46:15.407Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-antofagasta-por-alteracion-del-suministro-de-agua-potable",
+	"parentId": "c9c636c3-3168-49e4-86aa-4b4b60ae6d7c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">Según la información proporcionada por la Dirección Regional del SENAPRED Antofagasta</span></strong><span style=\"color: black\">, desde la mañana del día 3 de diciembre, la planta desaladora Norte registró una falla eléctrica externa que provocó problemas de producción e impulsión del suministro de agua potable, afectando hasta la presente fecha, un total de 66.000 clientes en diversos sectores de la comuna de Antofagasta.</span><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la comuna de Antofagasta por alteración del suministro de agua potable</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante la jornada de ayer lunes 4 de diciembre, se realizó una mesa técnica extraordinaria, convocada por la Presidenta del Comité Regional, para la evaluación de las acciones de reposición del suministro.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La empresa Aguas Antofagasta ha instalado 47 estanques y camiones, 11 se encuentran en proceso de instalación y se proyecta la instalación de 30 estanques adicionales durante la jornada de hoy para abastecer a la población, mientras se realizan las labores de reposición.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "ce70d6fb-262a-4ad5-92e9-0f5736424d6f"
+}

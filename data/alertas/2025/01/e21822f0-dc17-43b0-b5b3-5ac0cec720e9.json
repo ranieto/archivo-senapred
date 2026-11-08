@@ -1,0 +1,20 @@
+{
+	"id": "e21822f0-dc17-43b0-b5b3-5ac0cec720e9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Provincia del Biobío por calor extremo",
+	"fechaHora": "2025-01-13T11:47:57.5757-03:00",
+	"createdAt": "2025-01-13T14:49:15.355Z",
+	"updatedAt": "2025-01-13T14:49:25.438Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-biobio-por-calor-extremo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos asociados a la variable de altas temperaturas para la Región del Biobío:</p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Alerta AA3</p></td><td><p style=\"text-align: justify\">Evento de altas temperaturas extremas en cordillera de la costa, valle y precordillera.</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A9-2</p></td><td><p style=\"text-align: justify\">Altas temperaturas en litoral, cordillera de la costa, valle y precordillera.</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable meteorológica, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la&nbsp;</strong></span><strong><span style=\"color: black\">Alerta Roja por calor extremo para la Provincia del Biobío,&nbsp;</span></strong><span style=\"color: black\">que se mantuvo vigente desde el 10 de enero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "7b2d32ed-9a2f-4861-b321-c3480898abaf",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la provincia de Malleco por evento meteorológico",
+	"fechaHora": "2024-06-24T19:46:31.3131-04:00",
+	"createdAt": "2024-06-24T23:47:25.284Z",
+	"updatedAt": "2024-06-24T23:48:04.553Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-provincia-de-malleco-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que los ríos de la comuna de Malleco se mantienen con caudales con tendencia a la baja.<br></p><p style=\"text-align:justify\">Por otro lado, la información proporcionada por la Dirección Regional de SENAPRED La Araucanía, señala que se han realizado diversos trabajos con recursos municipales y de Vialidad, donde se han logrado habilitar las rutas y caminos que se mantuvieron interrumpidos, dando conectividad a las personas que permanecían aisladas.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a la emergencia meteorológica y en coordinación con la Delegación Presidencial Regional del La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja para la provincia de Malleco por evento meteorológico</strong>, que se mantuvo vigente desde el 13 de junio de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

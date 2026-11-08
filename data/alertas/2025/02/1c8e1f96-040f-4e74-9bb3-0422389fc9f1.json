@@ -1,0 +1,20 @@
+{
+	"id": "1c8e1f96-040f-4e74-9bb3-0422389fc9f1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chépica por incendio forestal",
+	"fechaHora": "2025-02-03T18:19:00.000-03:00",
+	"createdAt": "2025-02-03T21:24:36.384Z",
+	"updatedAt": "2025-02-03T21:56:45.158Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chepica-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Chépica, se reporta lo siguiente:</p><div style=\"text-align: justify\"><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">El Zapal</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">Controlado</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie afectada</strong></p></td><td><p style=\"text-align: justify\">9 hectáreas</p></td></tr><tr><td><div><strong>Recursos</strong>​</div></td><td><div><strong>Bomberos:</strong></div><div>Cuerpo de bomberos de Chépica</div><div><br></div><div><strong>CONAF:</strong></div><div>4 brigadas</div><div>1 técnico</div><div>2 aviones</div><div>2 helicópteros</div><div><strong>​<br></strong></div><div><strong>Otros:</strong></div><div>1 camión aljibe</div></td></tr><tr><td><div>O<strong>bservaciones</strong></div></td><td><div>Incendio controlado desde las 17:15 horas.</div><div>A la hora del presente informe, no se registra amenaza a viviendas ni infraestructura&nbsp;crítica.</div></td></tr></tbody></table>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Chépica, por incendio forestal (ATR N°43), que se mantuvo vigente desde el 03 de febrero de 2025.</div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

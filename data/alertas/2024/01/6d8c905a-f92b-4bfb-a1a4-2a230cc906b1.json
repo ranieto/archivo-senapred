@@ -1,0 +1,20 @@
+{
+	"id": "6d8c905a-f92b-4bfb-a1a4-2a230cc906b1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Litueche por incendio forestal",
+	"fechaHora": "2024-01-18T21:05:00.000-03:00",
+	"createdAt": "2024-01-19T00:13:06.159Z",
+	"updatedAt": "2024-01-19T00:59:20.956Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-litueche-por-incendio-forestal-2",
+	"parentId": "186c43bc-5b22-4f4c-9522-8252406661f0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Litueche\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(33, 37, 41)\"><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>,&nbsp;respecto al incendio forestal en la comuna de Litueche, se informa el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Los Lingues</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>40 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">El incendio forestal se encuentra activo con intensidad media a alta en la parte media del flanco derecho y frente de avance del flanco izquierdo. Por otro lado, los sectores restantes se encuentran contenidos.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>Bomberos de&nbsp;Litueche, Navidad, Marchigue, La Estrella, Pumanque, Peralillo, San Pedro, Las Cabras, Malloa, Nancagua, Palmilla, Paredones, Pichidegua, Peumo, Pichilemu, Quinta de Tilcoco, Rengo, San Fernando, San Vicente de Tagua Tagua y Santa Cruz, además de&nbsp;7 Brigadas de CONAF, 1 Skidder, 1 técnico de CONAF,&nbsp;1 avión de reconocimiento de CONAF, 2 helicópteros,&nbsp;2 camiones aljibe municipales, 1 motoniveladora municipal, 2 camiones aljibe de CGE, Carabineros de Chile y personal de emergencia municipal</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de O'Higgins, la Dirección Regional de SENAPRED <strong>mantiene </strong></span><strong>Alerta Roja para la comuna de Litueche por incendio forestal</strong><span style=\"color: rgb(33, 37, 41)\">, que se encuentra vigente desde el 18 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

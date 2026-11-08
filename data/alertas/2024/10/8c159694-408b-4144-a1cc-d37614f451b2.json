@@ -1,0 +1,20 @@
+{
+	"id": "8c159694-408b-4144-a1cc-d37614f451b2",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura a Alerta Amarilla para la Región de Arica y Parinacota por remoción en masa",
+	"fechaHora": "2024-10-07T17:26:38.3838-03:00",
+	"createdAt": "2024-10-07T20:32:55.658Z",
+	"updatedAt": "2024-11-21T10:44:59.604Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "1e8d86c7-9008-4b9a-a296-181df11d744f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>En atención a los continuos deslizamientos en la Cuesta Chinchorro, <strong>SERNAGEOMIN</strong>&nbsp;emitió su minuta técnica indicando que en el sector existen zonas en el talud con una alta susceptibilidad de remoción en masa, principalmente en la cicatriz del desprendimiento, por lo que la remoción se encuentra activa, identificándose diversos eventos.<br></p><p style=\"text-align: justify\">Lo anteriormente mencionado, ha generado interrupciones de conectividad en la Ruta 5 Norte, con eventuales aislamientos de personas en diversos sectores generando la necesidad de coordinar y gestionar recursos que sean necesarios.</p><p style=\"text-align: justify\">Cabe señalar que, el al momento el tránsito vehicular se encuentra habilitado en ambos sentidos, siendo regulado por Carabineros.</p><p style=\"text-align: justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED&nbsp;<strong>modifica cobertura a Alerta Amarilla Regional por remoción en masa,&nbsp;</strong>vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\"><span style=\"color: black\">Con la modificación de esta alerta, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "abd65efa-bdfc-469f-ae57-59cc0436c295",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2023-11-08T19:41:05.055-03:00",
+	"createdAt": "2023-11-08T22:42:30.835Z",
+	"updatedAt": "2023-11-08T22:43:50.473Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-tormentas-electricas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelada la Alerta Meteorológica AA77/2023 que pronosticó la ocurrencia de tormentas eléctricas en el sector cordillerano de la Región de Tarapacá, debido al debilitamiento de las condiciones meteorológicas que la originaron.<br><br>En consideración a este antecedente, que supone una disminución del riesgo asociado a esta variable meteorológica, la Dirección Regional del SENAPRED Tarapacá, en coordinación con la Delegación Presidencial Regional, cancela la Alerta Temprana Preventiva para la Provincia de Tamarugal, por tormentas eléctricas, que se mantuvo vigente durante hoy 8 de noviembre de 2023.<br><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

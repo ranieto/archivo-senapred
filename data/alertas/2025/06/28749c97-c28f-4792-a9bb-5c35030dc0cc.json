@@ -1,0 +1,20 @@
+{
+	"id": "28749c97-c28f-4792-a9bb-5c35030dc0cc",
+	"type": "Alerta",
+	"titulo": " Se modifica variable de Alerta Temprana Preventiva para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla y Alto del Carmen evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-06-25T22:26:32.377Z",
+	"updatedAt": "2025-06-25T22:45:31.202Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-la-serena-coquimbo-la-higuera-andacollo-vicuna-ovalle-punitaqui-canela-combarbala-illapel-salamanca-y-los-vilos-por-tormentas-electricas",
+	"parentId": "e2b9067b-71bc-443f-b0d2-4a77a09f6dfd",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Atacama:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A235-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado (entre 60 y 80 km/h) con probabilidad de   tormentas de arena en cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-06</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-06</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A241-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas en pampa, precordillera y cordillera de   la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-06</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-06</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>modifica la variable de la Alerta Temprana Preventiva a </strong></span><strong><span style=\"font-size:15px;color:black\">evento meteorológico </span></strong><strong><span style=\"font-size:15px;color:black\">para las comunas de Diego de Almagro, Copiapó, Tierra Amarilla y Alto del Carmen, </span></strong><span style=\"font-size: 15px;color:black\">que se encuentravigente desde el 21 de junio y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "70008099-c6b8-4004-9680-4a57cb9074d0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2024-12-20T02:14:42.4242-03:00",
+	"createdAt": "2024-12-20T05:18:18.584Z",
+	"updatedAt": "2024-12-20T07:55:04.136Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-4",
+	"parentId": "3b6b9119-971d-4a13-9e28-de52d794292b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), activo se encuentra el incendio forestal “La Torre”, que se desarrolla en la comuna de Ovalle, Región de Coquimbo. Cabe destacar, que producto de su dirección, proyección y distancia, se anticipa la amenaza a personas, viviendas, poblados y/o infraestructura crítica.<br></p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>La Torre</div></td></tr><tr><td><div>Comuna</div></td><td><div>Ovalle</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>0,01 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>1 Compañía de Bomberos (Ovalle), 1 brigada Conaf, 1 técnico Conaf y 1 camión aljibe Conaf.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Ovalle por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

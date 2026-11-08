@@ -1,0 +1,20 @@
+{
+	"id": "1c47164b-651d-4b78-af49-8dd4d05d089b",
+	"type": "Alerta",
+	"titulo": " Se actualiza Alerta Temprana Preventiva para las provincias de Aysén y Coyhaique por evento meteorológico",
+	"fechaHora": "2025-05-01T13:07:00.000-04:00",
+	"createdAt": "2025-05-01T17:09:29.581Z",
+	"updatedAt": "2025-05-01T23:18:05.644Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-aysen-y-coyhaique-por-evento-meteorologico",
+	"parentId": "edd06729-ee70-47f2-bfbb-8dcc5f6cd9e6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con la</span><strong><span style=\"color: black\"> información proporcionada por la Dirección Meteorológica de Chile (DMC), </span></strong><span style=\"color:black\">se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Aysén:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A145-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento normal a moderado en zonas insular norte y litoral interior   norte de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">30-04</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">01-05</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 146-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas para las zonas Insular Norte, Litoral   Interior Norte y Cordillera Austral</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">01-05</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">01-05</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, la Delegación Presidencial Regional de Aysén, en coordinación con la Dirección Regional del SENAPRED, <strong>actualiza la Alerta Temprana Preventiva para las provincias de Aysén y Coyhaique por evento meteorológico</strong>, que se vigente desde el 30 de abril de 2025 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><strong><span style=\"color:black\">SENAPRED</span></strong><span style=\"color:black\">recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </span><span style=\"color:black\">&nbsp;</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

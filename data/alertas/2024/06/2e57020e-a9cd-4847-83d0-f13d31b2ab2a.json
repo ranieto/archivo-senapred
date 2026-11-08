@@ -1,0 +1,20 @@
+{
+	"id": "2e57020e-a9cd-4847-83d0-f13d31b2ab2a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Lautaro por amenaza de desborde ",
+	"fechaHora": "2024-06-29T14:06:00.000-04:00",
+	"createdAt": "2024-06-29T18:19:48.340Z",
+	"updatedAt": "2024-06-29T18:21:26.456Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-lautaro-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Lautaro\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación hidrométrica “Río Muco en Puente Muco”, comuna de Lautaro, se encuentra en umbral de alerta verde, tras la tendencia a la baja en su caudal.<br></p><p style=\"text-align:justify\">En consideración a este antecedente, la Dirección Regional del SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional, <strong>cancela la Alerta Roja por amenaza de desborde para la comuna de Lautaro<span style=\"color:black\">, </span></strong>que se mantuvo vigente desde el 27 de junio de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

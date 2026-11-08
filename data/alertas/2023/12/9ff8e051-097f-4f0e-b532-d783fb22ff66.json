@@ -1,0 +1,20 @@
+{
+	"id": "9ff8e051-097f-4f0e-b532-d783fb22ff66",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Paine por incendio forestal",
+	"fechaHora": "2023-12-12T22:02:40.4040-03:00",
+	"createdAt": "2023-12-13T01:04:52.897Z",
+	"updatedAt": "2023-12-13T01:06:42.536Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-paine-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Paine\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal en la comuna de Paine, se detalla lo siguiente:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">La Ensenada.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">91 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos desplegados</strong></p></td><td><p style=\"text-align:justify\">5   técnicos y 4 brigadas de CONAF, Bomberos de Paine y 1 helicóptero gestionado   por SENAPRED. Para la jornada de mañana, se planifica el trabajo de 1 técnico   y 2 brigadas de CONAF.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja por incendio forestal para la comuna de Paine</strong>, que se mantuvo vigente desde el 10 de diciembre de 2023.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

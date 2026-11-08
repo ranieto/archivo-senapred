@@ -1,0 +1,20 @@
+{
+	"id": "b3d0060a-bd6b-4837-b443-0010d19dca7e",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amartilla para la comuna de Río Hurtado por incendio forestal",
+	"fechaHora": "2024-08-05T14:54:53.5353-04:00",
+	"createdAt": "2024-08-05T18:56:10.439Z",
+	"updatedAt": "2024-08-06T18:36:08.874Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-incendio-forestal",
+	"parentId": "3b1aff59-1024-444a-b7c4-09f706c04abd",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Río Hurtado\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por el Departamento de Protección contra Incendios Forestales de Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Río Hurtado, se informa el siguiente detalle:</span><br></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>Los Huapis</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Bajo   Observación</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>45 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"color:black\">1   técnico de Conaf</span></p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Cabe mencionar que, por seguridad en el combate, el incidente se mantiene bajo observación y en monitoreo satelital, principalmente por la alta carga de combustible y vientos erráticos en la zona.</span></p><p><span style=\"color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Río Hurtado, por incendio forestal, que se encuentra vigente desde el 02 de agosto de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

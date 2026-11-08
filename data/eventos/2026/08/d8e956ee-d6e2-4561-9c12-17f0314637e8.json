@@ -1,0 +1,19 @@
+{
+	"id": "d8e956ee-d6e2-4561-9c12-17f0314637e8",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2026-08-16T12:42:03.033-04:00",
+	"createdAt": "2026-08-16T16:44:27.248Z",
+	"updatedAt": "2026-08-16T16:47:12.005Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-2026-08-16-12-38-58",
+	"parentId": "1ea12464-bb3f-480c-af7f-2b1abb0bfb35",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p style=\"text-align: justify\"><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 12:34 horas en la Región de Valparaíso. Las intensidades en escala de Mercalli son:</span></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\"><br></span></p><p><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>16/08/2026   - 12:34</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>16/08/2026   - 12:38</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>III   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>197-A</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><p><u><br></u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quillota:   </p></td><td><p>III</p></td></tr><tr><td><p>Viña   del Mar: </p></td><td><p>II</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Información preliminar del Sistema Automático de Sismos, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud:   </p></td><td><p>4.9</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -32.71<br>   Longitud: -72.2</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>64   Kms al Oeste de Quintero</p></td></tr><tr><td><p>Región:   </p></td><td><p>Valparaíso</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>30</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

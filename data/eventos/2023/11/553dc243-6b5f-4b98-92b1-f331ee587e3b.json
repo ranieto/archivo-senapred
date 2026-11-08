@@ -1,0 +1,19 @@
+{
+	"id": "553dc243-6b5f-4b98-92b1-f331ee587e3b",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2023-11-28T02:45:02.022-03:00",
+	"createdAt": "2023-11-28T05:47:42.737Z",
+	"updatedAt": "2023-11-28T05:52:57.635Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-3",
+	"parentId": "e4884109-a9a7-4322-87eb-892e70f26834",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Petorca\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"La Ligua, Zapallar\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 16px\">Un sismo de menor intensidad se percibió a las 02:38 horas en la Región de Valparaíso. Las intensidades en escala de Mercalli son:&nbsp;</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>La   Ligua: </p></td><td><p>V</p></td></tr><tr><td><p>Zapallar:   </p></td><td><p>III</p></td></tr></tbody></table><p><span style=\"font-size:15px\"><br>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 5 y se localizó a <span style=\"font-size: 15px\">33 Kms al Sur de Los Vilos</span>.</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

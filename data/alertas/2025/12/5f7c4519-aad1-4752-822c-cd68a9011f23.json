@@ -1,0 +1,20 @@
+{
+	"id": "5f7c4519-aad1-4752-822c-cd68a9011f23",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por tormentas eléctricas",
+	"fechaHora": "2025-12-01T10:56:00.000-03:00",
+	"createdAt": "2025-12-01T13:57:17.385Z",
+	"updatedAt": "2025-12-01T13:59:11.713Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-24",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Los Lagos, debido al debilitamiento de las condiciones que los originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA103-2</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas con probabilidad de fuertes rachas de vientos locales en sectores   de valle, precordillera y cordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A458-2</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en los sectores de valle, precordillera, cordillera,   Chiloé, litoral Interior, cordillera austral y patagonia subandina de la   región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por tormentas eléctricas</strong>, la que se mantuvo vigente desde el 27 de noviembre de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

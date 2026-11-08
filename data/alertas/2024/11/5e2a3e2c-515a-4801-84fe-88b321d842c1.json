@@ -1,0 +1,20 @@
+{
+	"id": "5e2a3e2c-515a-4801-84fe-88b321d842c1",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las comunas Chañaral, Caldera, Copiapó, Huasco y Freirina por viento",
+	"fechaHora": "2024-11-21T14:01:00.000-03:00",
+	"createdAt": "2024-11-21T17:05:48.953Z",
+	"updatedAt": "2024-11-27T12:37:27.001Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-chanaral-caldera-copiapo-huasco-y-freirina-por-viento-2",
+	"parentId": "c36a4064-6370-48c5-9d49-5136234f5dea",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con <strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Atacama:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A440</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral con probabilidad de tormentas de arena.</p></td><td><p style=\"text-align:justify\">24-11</p></td><td><p style=\"text-align:justify\">26-11</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva</strong><strong>para las comunas </strong></span><strong><span style=\"color:black\">Chañaral, Caldera, Copiapó, Huasco y Freirina, </span></strong><strong><span style=\"color:black\">por viento</span></strong><span style=\"color:black\">, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><strong><span style=\"color:black\">SENAPRED</span></strong><span style=\"color:black\"> recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "92ab00e9-56cf-4f84-8344-354be664a858",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región Metropolitana por evento meteorológico",
+	"fechaHora": "2026-05-07T07:19:00.000-04:00",
+	"createdAt": "2026-05-07T11:47:45.306Z",
+	"updatedAt": "2026-05-07T11:47:54.861Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-05-05-09-49-50",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se han cancelado los siguientes alertamientos para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que originaron:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A209-2</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera de la costa y cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A210-3</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en valle y precordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A213-3</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en cordillera de la costa, valle, precordillera y   cordillera.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela laAlerta Temprana Preventiva Regional por evento meteorológico,</strong> que se mantuvo vigente desde el 05 de mayo 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

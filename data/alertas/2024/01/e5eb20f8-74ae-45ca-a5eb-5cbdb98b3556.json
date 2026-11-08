@@ -1,0 +1,20 @@
+{
+	"id": "e5eb20f8-74ae-45ca-a5eb-5cbdb98b3556",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla por Calor Intenso y declara Alerta Roja Regional por Calor Extremo",
+	"fechaHora": "2024-01-29T10:03:00.000-03:00",
+	"createdAt": "2024-01-29T14:08:34.789Z",
+	"updatedAt": "2024-02-04T00:09:43.761Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-uble-por-calor-intenso-3",
+	"parentId": "760eba14-6449-4ee4-83f8-cd9c1f6f972d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentran vigentes los siguientes alertamientos para la Región de Ñuble:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA7</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas extremas en cordillera de la costa, valle y   precordillera.</p></td><td><p style=\"text-align:justify\">30-01</p></td><td><p style=\"text-align:justify\">01-02</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A12-10</p></td><td><p style=\"text-align:justify\">Evento   de altas temperaturas en litoral, cordillera de la costa, valle y   precordillera.</p></td><td><p style=\"text-align:justify\">28-01</p></td><td><p style=\"text-align:justify\">02-02</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Cabe destacar, que según el Pronóstico Meteorológico emitido por DMC el día de hoy, las temperaturas máximas serán iguales o superiores a los 34°C durante al menos 3 días consecutivos, del mismo modo, las temperaturas nocturnas estimadas a las 22 horas podrían elevarse por sobre los 25°C durante estos días.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional Ñuble, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Amarilla por Calor Intenso y&nbsp;</strong><strong>declara Alerta Roja Regional por Calor Extremo,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p><span style=\"font-size:15px;color:black\">El SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del <strong>calor extremo</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

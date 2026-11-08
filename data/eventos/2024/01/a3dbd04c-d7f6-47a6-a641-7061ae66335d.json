@@ -1,0 +1,19 @@
+{
+	"id": "a3dbd04c-d7f6-47a6-a641-7061ae66335d",
+	"type": "Evento",
+	"titulo": "Incendio estructural, Comuna de Estación Central (Cierre de evento)",
+	"fechaHora": "2024-01-06T06:00:00.000-03:00",
+	"createdAt": "2024-01-06T09:17:24.285Z",
+	"updatedAt": "2024-01-06T09:17:24.285Z",
+	"urlAccess": "incendio-estructural-comuna-de-estacion-central-informacion-preliminar",
+	"parentId": "7875df3c-a9d1-48e3-9b4e-d4d406ec7c15",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Estación Central\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><strong>​</strong><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Metropolitana</span></strong><span style=\"color: black\">, respecto del incendio estructural que afectó un depósito de buses de la empresa TURBUS, se indica que el incendio se encuentra extinguido, finalizando con 10 buses siniestrados, las oficinas de la empresa con daño menor y 10 trabajadores como damnificados laborales.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, no se reportaron personas lesionadas producto de este evento. Mientras que, por su parte, Carabineros realizó cortes en el tránsito vehicular para facilitar el trabajo de los equipos de emergencia.</span></p><p style=\"text-align:justify\">Trabajaron en el lugar Bomberos de Santiago y Ñuñoa, Carabineros y personal municipal. Mientras se mantuvo informada a la Autoridad Sanitaria.<br></p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

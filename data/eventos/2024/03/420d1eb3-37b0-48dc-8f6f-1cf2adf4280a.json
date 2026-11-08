@@ -1,0 +1,19 @@
+{
+	"id": "420d1eb3-37b0-48dc-8f6f-1cf2adf4280a",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región del Maule",
+	"fechaHora": "2024-03-03T17:09:00.000-03:00",
+	"createdAt": "2024-03-03T20:09:52.634Z",
+	"updatedAt": "2024-03-03T20:09:52.634Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-maule-4",
+	"parentId": "3e8b5418-83b5-4c47-ae99-16e9a79c1a79",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 16:48 horas en la Región del Maule.</span><br></p><p><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><span style=\"font-size: 16px\"><strong>Región:   Maule </strong></span></p></td></tr><tr><td><p><span style=\"font-size: 16px\">Talca:   </span></p></td><td><p><span style=\"font-size: 16px\">III</span></p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size: 16px\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</span></p><p style=\"margin-left:0cm\"><span style=\"font-size: 16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue de 3.9 y se localizó a <span style=\"font-size: 15px\">19 Kms al Sureste de Curicó</span>. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

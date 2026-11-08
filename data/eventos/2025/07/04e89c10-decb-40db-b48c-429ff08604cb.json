@@ -1,0 +1,19 @@
+{
+	"id": "04e89c10-decb-40db-b48c-429ff08604cb",
+	"type": "Evento",
+	"titulo": "Incendio Ectructural, Comuna de Santiago (Información preliminar)",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-07-10T19:14:21.372Z",
+	"updatedAt": "2025-07-10T19:14:51.717Z",
+	"urlAccess": "incendio-ectructural-comuna-de-santiago-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Santiago\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Santiago\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional Metropolitana del SENAPRED, a la hora del presente informe se desarrolla un <strong>incendio estructural </strong>que afecta a las bodegas de un edificio, en el piso -3, ubicado en calle Monjitas, comuna de Santiago.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Cabe señalar, que al momento se realiza la evacuación en altura de personas que se encontraban al interior del edificio, siendo alrededor de 50 las que aún permanecen al interior del inmueble. No obstante, éstas no presentan riesgo vital.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Además, se registran 2 personas lesionadas (afectados por inhalación de humo), las cuales fueron evaluadas en el lugar por personal SAMU.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Por otro lado, se informa que la Estación de Metro Plaza de Armas se encuentra cerrada por la salida 21 de mayo. Asimismo, se mantiene suspendido el tránsito vehicular en calle San Antonio, entre 21 de mayo y Monjitas.</p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, Carabineros, SAMU, personal de Mutual de Seguridad y personal municipal.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "e2bb595c-1d66-4d70-a21b-896b6e2a8043",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Carahue, Teodoro Schmidt, Saavedra y Toltén por viento",
+	"fechaHora": "2024-03-12T12:31:51.5151-03:00",
+	"createdAt": "2024-03-12T15:34:10.992Z",
+	"updatedAt": "2024-03-12T15:36:03.950Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-teodoro-schmidt-saavedra-y-tolten-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Carahue, Teodoro Schmidt, Saavedra, Toltén\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de La Araucanía:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A56-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en el litoral.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva por evento meteorológico, para las comunas de Carahue, Teodoro Schmidt, Saavedra y Toltén la cual se mantuvo vigente desde el 09 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

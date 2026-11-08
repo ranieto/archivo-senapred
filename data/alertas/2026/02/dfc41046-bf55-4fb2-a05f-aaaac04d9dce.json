@@ -1,0 +1,20 @@
+{
+	"id": "dfc41046-bf55-4fb2-a05f-aaaac04d9dce",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2026-02-15T13:07:38.3838-03:00",
+	"createdAt": "2026-02-15T16:08:25.424Z",
+	"updatedAt": "2026-02-27T16:02:01.860Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2026-02-12-20-51-19",
+	"parentId": "aa375fda-90fa-4c31-aff1-49859b658351",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de <strong>Linares</strong> se informa el siguiente detalle:<br><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>CAJON DE PEJERREY</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>200 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"font-size:15px\">1 Brigada Terrestre CONAF;   3 técnicos CONAF; 1 helicóptero liviano CONAF; 1 Puesto de Comando (Puma 7)   CONAF; 2 Operadores de Motobomba CONAF.</span></p></td></tr><tr><td><p><strong>Afectación </strong></p></td><td><p><span style=\"font-size:15px\">Incendio al interior de   Área Protegida(ASP y Privada)</span></p></td></tr></tbody></table><p><br></p><p><span style=\"font-size:15px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Linares, por incendio forestal, que se encuentra vigente desde el 12 de febrero de 2026.<br><br></span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

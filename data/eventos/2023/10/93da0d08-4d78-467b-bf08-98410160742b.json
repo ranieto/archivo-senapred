@@ -1,0 +1,19 @@
+{
+	"id": "93da0d08-4d78-467b-bf08-98410160742b",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de  Tarapacá",
+	"fechaHora": "2023-10-14T08:32:00.000-03:00",
+	"createdAt": "2023-10-14T12:43:12.949Z",
+	"updatedAt": "2023-10-14T12:43:12.949Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de--tarapaca",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 08:30 horas en la Región de Tarapacá. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Tarapaca </strong></div></td></tr><tr><td><div>Iquique:</div></td><td><div>III</div></td></tr><tr><td><div>Alto Hospicio :</div></td><td><div>III</div></td></tr><tr><td><div>Pica :</div></td><td><div>III</div></td></tr><tr><td><div>La Tirana:</div></td><td><div>II</div></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br>El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.5 localizado a 56 Kms al Sur de Alto Hospicio.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

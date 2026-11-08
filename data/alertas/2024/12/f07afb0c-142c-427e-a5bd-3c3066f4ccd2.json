@@ -1,0 +1,20 @@
+{
+	"id": "f07afb0c-142c-427e-a5bd-3c3066f4ccd2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de San Antonio y Cartagena por incendio forestal",
+	"fechaHora": "2024-12-24T20:45:00.000-03:00",
+	"createdAt": "2024-12-24T23:52:01.407Z",
+	"updatedAt": "2024-12-24T23:52:43.624Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-antonio-y-cartagena-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"San Antonio, Cartagena\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"font-size: 16px\">En combate </span>se encuentra el incendio forestal denominado <span style=\"font-size: 16px\">\"Las Palmas” </span>el cual consume una superficie de <span style=\"font-size: 16px\">500 </span>hectáreas de vegetación en las comunas de San Antonio y Cartagena.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para las comunas de San Antonio y Cartagena, por incendio forestal, que se mantuvo vigente desde el 21 de diciembre de 2024.</p><p style=\"text-align:justify\">Respecto al incendio forestal en las comunas de San Antonio y Cartagena se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las   Palmas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En   combate</p></td></tr><tr><td><p><strong>Hectáreas</strong></p></td><td><p>500</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos   de Casablanca, Santo Domingo y Algarrobo, 7 Brigadas de herramientas, , 3 Técnicos   CONAF, , 1 helicóptero de CONAF, 1 helicópteros gestionado por SENAPRED</p><p>Otros   recursos: 2 Skidder de CONAF, 1 Puesto   de mando de CONAF, 2 Camión aljibe de CONAF y 1 ambulancia ACHS</p></td></tr></tbody></table>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

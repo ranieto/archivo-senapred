@@ -1,0 +1,20 @@
+{
+	"id": "b47bc731-e8d9-4cdf-9cb6-85f9325c6d52",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las comunas de San Ignacio y Pinto por incendio forestal",
+	"fechaHora": "2025-02-10T06:08:00.000-03:00",
+	"createdAt": "2025-02-10T09:49:25.327Z",
+	"updatedAt": "2025-02-13T23:27:42.884Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-ignacio-por-incendio-forestal-2",
+	"parentId": "8d000e11-402b-433b-a00e-dff0b69aef2c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Pinto, San Ignacio\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED Ñuble mantiene Alerta Roja por incendio forestal vigente desde el 6 de febrero para las comunas de San Ignacio y Pinto con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF. Se ha realizado evacuación de los sectores, Paso Perales, Paso el Soldado, Santa Eduviges en la comuna de Pinto, proceso que ha sido apoyado mediante mensajería SAE.</p><p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Pinto y San Ignacio </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Afectación</strong></p></td><td><p>13 personas damnificadas, 1 lesionada y 25 albergadas, 10   viviendas destruidas y 12 en evaluación.</p></td></tr></tbody></table><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Patagual</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>200 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Pinto, Viña del Mar, Concepción y Chillán.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Vega Honda</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>650 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de El Carmen, Chillán, Pemuco, Coihueco,   Bulnes, Yungay, Talca, Linares, Longaví, 2 Brigadas Nocturnas CONAF, 4   Empresa, 3 Técnicos Empresa y 3 Maquinaria empresa</p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

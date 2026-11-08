@@ -1,0 +1,20 @@
+{
+	"id": "4dc99c6d-3f06-4f14-962d-db30a4bd3a29",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de San Fernando por incendio forestal",
+	"fechaHora": "2024-08-02T12:49:00.000-04:00",
+	"createdAt": "2024-08-02T17:33:11.068Z",
+	"updatedAt": "2024-08-02T17:33:29.967Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-fernando-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que se registra en la comuna de San Fernando, se reporta lo siguiente:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Fundo Los Maitenes</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Bajo observación</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">208 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O’Higgins, la Dirección Regional de SENAPRED <strong>cancela la Alerta Amarilla para la Comuna de San Fernando</strong>, por incendio forestal, que se mantuvo vigente desde el 01 de agosto de 2024</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

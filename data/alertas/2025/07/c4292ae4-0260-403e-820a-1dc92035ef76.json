@@ -1,0 +1,20 @@
+{
+	"id": "c4292ae4-0260-403e-820a-1dc92035ef76",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Curarrehue, Región de La Araucanía, por amenaza de desborde",
+	"fechaHora": "2025-07-30T17:46:16.1616-04:00",
+	"createdAt": "2025-07-30T21:47:48.456Z",
+	"updatedAt": "2025-07-31T05:27:34.351Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-curarrehue-region-de-la-araucania-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Deslizamientos\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por la Dirección General de Aguas (DGA), mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación del “Río Trancura en Curarrehue”, se encuentra en el umbral de alerta amarilla, el cual si continúa aumentando el caudal, podría ocasionar afectación a personas y daños en infraestructuras de la comuna de Curarrehue.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED La Araucanía en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Amarilla para la comuna de Curarrehue por amenaza de desborde, </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la alerta amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "b82ea35e-0f98-4bfd-904f-f6ca5a5221ea"
+}

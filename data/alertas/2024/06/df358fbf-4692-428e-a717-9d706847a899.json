@@ -1,0 +1,20 @@
+{
+	"id": "df358fbf-4692-428e-a717-9d706847a899",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Curarrehue por desborde",
+	"fechaHora": "2024-06-14T11:05:00.000-04:00",
+	"createdAt": "2024-06-14T16:02:46.500Z",
+	"updatedAt": "2024-06-16T19:49:03.249Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-curarrehue-por-desborde",
+	"parentId": "07c0a7a9-f355-4573-a533-0346800a5213",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED La Araucanía y personal en terreno, se reporta el desborde del Río Trancura en el sector del puente El Piano en la comuna de Curarrehue, lo cual altera la conectividad de la Ruta CH-199. Al momento, se informa que se encuentra interrumpido el tránsito para vehículos menores y acorde a los antecedentes históricos se prevé un alza sostenida del umbral.<br></p><p style=\"text-align:justify\">Producto de lo anterior, se indica una situación de riesgo en caso de que el caudal continúe aumentando, debido a que puede generar daños a sectores poblados e infraestructura crítica, requiriendo acciones tales como: evacuaciones preventivas, movilizaciones de recursos humanos, maquinarias y equipos; entre otras acciones.&nbsp;</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>declara Alerta Roja por desborde</strong>, para la <strong>comuna de Curarrehue </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4b8bc2c6-0609-49b6-8dd0-3fbec5ad7821",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Limache por incendio forestal",
+	"fechaHora": "2024-01-30T21:16:00.000-03:00",
+	"createdAt": "2024-01-31T00:48:53.115Z",
+	"updatedAt": "2024-01-31T00:50:30.226Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-limache-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Limache\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Limache, por incendio forestal, que se mantuvo vigente desde el 30 de enerode 2024.<br></p><p><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Los Maitenes</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Extinguido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>4.3 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Extinguido se   encuentra el incendio forestal denominado Los Maitenes, el cual afecto una   superficie de 4,3 hectáreas de pastizal y matorral en la comuna de Limache</p></td></tr></tbody></table><p><br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "fd9cc357-fcaf-4ccd-ba67-11f64e9e4443",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura y variable de Alerta Temprana Preventiva para las comunas de San Francisco, Codegua, Machalí, Rengo, Requínoa, San Fernando y Chimbarongo a tormentas eléctricas",
+	"fechaHora": "2026-01-09T11:10:00.000-03:00",
+	"createdAt": "2026-01-09T15:54:07.870Z",
+	"updatedAt": "2026-01-10T12:53:59.370Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico-2026-01-06-13-25-32",
+	"parentId": "9fb87848-dee1-40a4-9597-116014556b10",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento meteorológico para la Región de O’Higgins:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A11</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas asociadas a chubascos aislados (entre 2 y 5 mm) en   cordillera (isoterma 0°C, 4100 - 4200).</p></td><td><p style=\"text-align:center\">09-01</p></td><td><p style=\"text-align:center\">09-01</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED<strong> modifica la cobertura y variable de la Alerta Temprana Preventiva a tormentas eléctricas,</strong> para las <strong>comunas de </strong></span><strong><span style=\"color:black\">San Francisco, Codegua, Machalí, Rengo, Requínoa, San Fernando y Chimbarongo,</span></strong><span style=\"color:black\">que se encuentra </span><span style=\"color:black\">vigente desde el 06 de enero de 2026 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

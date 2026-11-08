@@ -1,0 +1,20 @@
+{
+	"id": "4cbadce6-599f-4d08-9995-17ec7d72488a",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2024-09-25T21:47:16.1616-03:00",
+	"createdAt": "2024-09-26T00:47:50.782Z",
+	"updatedAt": "2024-09-26T00:58:03.058Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-48",
+	"parentId": "b915d764-9e44-4466-ad77-5dfed9f35d8e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 21:41 horas en las regiones de Atacama y Coquimbo. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Atacama </strong></p></td></tr><tr><td><p>Alto del Carmen: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Coquimbo </strong></p></td></tr><tr><td><p>La Higuera: </p></td><td><p>IV</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.9 localizado a10 Kms al Norte de Alto del Carmen</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

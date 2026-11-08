@@ -1,0 +1,20 @@
+{
+	"id": "57df6deb-4c98-4634-b0f0-bdb58049c07f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Camarones por emergencia minera",
+	"fechaHora": "2024-07-10T09:10:00.000-04:00",
+	"createdAt": "2024-07-10T13:13:53.854Z",
+	"updatedAt": "2024-07-11T02:44:47.312Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-camarones-por-emergencia-minera",
+	"parentId": "0e44b29b-3c4e-455f-b0c7-3f69ed44aa1c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Camarones\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota</strong>, respecto de la emergencia minera ocurrida el día 08 de julio en la Minera Pampa Camarones producto del desprendimiento de material en el sector entrada al caserón ubicado en el nivel 580 norte del pique central, en la comuna de Camarones, donde, se reporta un operador atrapado al interior de un equipo Scoop (de cabina cerrada), se informa que las operaciones de rescate se han desarrollado sin interrupciones durante toda la noche y madrugada.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por Emergencia Minera,</strong> que se encuentra vigente desde el 09 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante la presente jornada han continuado los trabajos de rescate, donde se ha coordinado la llegada de equipos y medios aéreos especializados en rescates mineros desde las comunas de Antofagasta, Iquique y Copiapó.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar personal de rescate de la empresa minera, Carabineros, SERNAGEOMIN, equipo regional de SENAPRED y Delegación Presidencial Regional.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

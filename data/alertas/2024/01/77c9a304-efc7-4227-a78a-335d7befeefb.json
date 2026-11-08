@@ -1,0 +1,20 @@
+{
+	"id": "77c9a304-efc7-4227-a78a-335d7befeefb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región del Maule por calor intenso",
+	"fechaHora": "2024-01-05T08:15:00.000-03:00",
+	"createdAt": "2024-01-05T11:19:02.137Z",
+	"updatedAt": "2024-01-05T11:22:22.217Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-calor-intenso-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, ha sido cancelada la Alerta Meteorológica AA1/2021, la cual pronosticaba un evento de altas temperaturas extremas en cordillera de la costa, valle y precordillera en la Región de Maule. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que la originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional de SENAPRED, <strong>cancela Alerta Amarilla Regional por calor intenso,</strong> vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se <strong>mantiene una Alerta Temprana Preventiva Nacional por calor, </strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

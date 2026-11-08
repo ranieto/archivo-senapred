@@ -1,0 +1,20 @@
+{
+	"id": "2590e4de-11a7-44dd-9509-433736a30e39",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Rengo por incendio forestal",
+	"fechaHora": "2025-03-12T19:32:57.5757-03:00",
+	"createdAt": "2025-03-12T22:35:57.047Z",
+	"updatedAt": "2025-03-12T22:36:50.656Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rengo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por CONAF, controlado desde las 18:53 horas de hoy se encuentra el incendio forestal \"Puente Las Pataguas 1\" en la comuna de Rengo, afectando 1 hectárea de arbolado, matorral y pastizal. A raíz de lo anterior, ya no presenta peligro para viviendas o infraestructura critica cercana.</p><p><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Puente Las Pataguas 1</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Incendio activo<br></div></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>Cuerpo de Bomberos de Rengo y Malloa, 2 brigadas de Conaf, 1 comandante de incidente y 2 aviones cisterna</div></td></tr></tbody></table><p><br></p><p> En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Rengo por incendio forestal, que se mantuvo vigente desde el 12 de marzo de 2025<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

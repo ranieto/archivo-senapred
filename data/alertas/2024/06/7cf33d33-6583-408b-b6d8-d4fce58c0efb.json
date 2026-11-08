@@ -1,0 +1,20 @@
+{
+	"id": "7cf33d33-6583-408b-b6d8-d4fce58c0efb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región del Maule por evento meteorológico ",
+	"fechaHora": "2024-06-24T13:45:50.5050-04:00",
+	"createdAt": "2024-06-24T17:47:41.738Z",
+	"updatedAt": "2024-06-24T17:48:05.324Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-meteorologico-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región del Maule:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA50</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en litoral, cordillera de la costa, valle, precordillera   y cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA51-1</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte en litoral, cordillera de la costa y valle.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A228</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en litoral, cordillera de la costa, valle y   precordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A229-1</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas con probabilidad de ventisca en cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A230</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de viento blanco en cordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A233-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral y cordillera de la costa.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A235-2</p></td><td><p style=\"text-align:justify\">Probabilidad   de tormentas eléctricas, con probabilidad de precipitaciones fuertes en un   corto periodo de tiempo en la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 20 de junio de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

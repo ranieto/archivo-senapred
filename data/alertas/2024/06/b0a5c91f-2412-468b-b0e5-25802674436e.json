@@ -1,0 +1,20 @@
+{
+	"id": "b0a5c91f-2412-468b-b0e5-25802674436e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región del Biobío por Amenaza de Desborde y Cancela Alerta Roja por desborde",
+	"fechaHora": "2024-06-15T20:45:00.000-04:00",
+	"createdAt": "2024-06-16T00:53:31.955Z",
+	"updatedAt": "2024-06-16T14:12:07.294Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-amenaza-de-desborde",
+	"parentId": "f60a19e5-3d9f-4c33-966b-9a17d2c18474",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA</strong>), se indica que la estación de red fluviométrica del Río Biobío en Desembocadura se encuentra en umbral de Alerta Amarilla.<br></p><p style=\"text-align:justify\">Por otra parte, las Estaciones Río Laja en Tucapel 2, Río Biobío en la Culebra, Estero Hualqui en Desembocadura, Río Mulchén en Mulchén, Río Pichilo en Pichilo se encuentran en Alerta Azul. El resto de las estaciones se encuentran por debajo del umbral de alerta azul y fuera de riesgo de desborde. Además, todos los cauces se encuentran en descenso de sus niveles, no existiendo recarga.</p><p style=\"text-align:justify\">Cabe destacar que, según la Dirección Meteorológica de Chile, se pronostican precipitaciones débiles para la jornada del lunes 17 de junio.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">considerando las actuales condiciones meteorológicas, que sugieren una estabilidad con tendencia a la baja en los caudales que afectaron viviendas y personas en las comunas de la región, </span>la Delegación Presidencial Regional del Biobío, en coordinación con la Dirección Regional del SENAPRED, <strong>Declara Alerta Amarilla Regional por Amenaza de Desborde y Cancela Alerta Roja Regional por desborde</strong>, vigente a contar de hoy<span style=\"color:black\"> y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

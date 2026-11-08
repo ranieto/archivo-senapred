@@ -1,0 +1,20 @@
+{
+	"id": "28d07935-d8fc-47ec-b095-3b4b590cdd58",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de Concón y Viña del Mar por incendio forestal",
+	"fechaHora": "2023-12-20T09:44:00.000-03:00",
+	"createdAt": "2023-12-20T12:48:38.298Z",
+	"updatedAt": "2023-12-20T12:48:55.474Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-concon-y-vina-del-mar-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Viña del Mar, Concón\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align:justify\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), respecto al incendio forestal en las comunas de Concón y Viña del Mar, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Predio Armada.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Extinguido</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">31,5 hectáreas.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para las comunas de Concón y Viña del Mar por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

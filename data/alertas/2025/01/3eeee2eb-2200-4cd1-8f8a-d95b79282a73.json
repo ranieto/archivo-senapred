@@ -1,0 +1,20 @@
+{
+	"id": "3eeee2eb-2200-4cd1-8f8a-d95b79282a73",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Región de Arica y Parinacota por remoción en masa",
+	"fechaHora": "2025-01-18T13:11:29.2929-03:00",
+	"createdAt": "2025-01-18T16:12:46.493Z",
+	"updatedAt": "2025-01-30T19:09:02.215Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-camarones-por-remocion-en-masa",
+	"parentId": "4b3b9d69-4907-4746-8674-90d597be9635",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota, respecto a los <strong>deslizamientos en la Cuesta Chinchorro</strong> y las zonas de talud con alta susceptibilidad de remoción en masa,se informa que la<strong> Ruta 5 Norte se mantiene habilitada </strong>y regulada por banderilleros,<strong> continuando con el corte preventivo nocturno entre las 22:00 horas y las 06:00 horas del día siguiente.</strong></p><p style=\"text-align:justify\">Cabe mencionar que, la empresa SOCOVIAL se encuentra realizando derrumbes programados en la Cuesta Chinchorro con el objetivo de limpieza de la ladera y poder posteriormente enmallar el talud.</p><p style=\"text-align:justify\">Por otro lado, se informa que desde el 10 de octubre de 2024 no se registran nuevos derrumbes de importancia en la zona. Sin embargo, en caso de presentarse nuevos deslizamientos, se despejará la ruta con maquinarias dispuestas en el lugar y se dará paso al tránsito vehicular una vez realizada la correspondiente evaluación del talud.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla Regional por remoción en masa,</strong> la que se encuentra vigente desde el 02 de octubre del 2024 y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "bfd8233a-af67-49b4-ba01-7d6d0c157bc7"
+}

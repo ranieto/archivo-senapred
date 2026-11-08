@@ -1,0 +1,20 @@
+{
+	"id": "f4de0370-7240-43a5-a0fd-36cdb46271fe",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región del Biobío por evento Meteorológico",
+	"fechaHora": "2024-09-27T07:51:00.000-03:00",
+	"createdAt": "2024-09-27T10:55:06.883Z",
+	"updatedAt": "2024-10-01T21:53:35.940Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-10",
+	"parentId": "599961df-cad1-449e-9be5-1001b7fac81c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Biobío:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A360</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en cordillera de la región, con probabilidad de viento   blanco.</p></td><td><p style=\"text-align:center\">29-09</p></td><td><p style=\"text-align:center\">30-09</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A361</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en los sectores de litoral, cordillera de la costa, valle y   precordillera de la región.</p></td><td><p style=\"text-align:center\">29-09</p></td><td><p style=\"text-align:center\">30-09</p></td></tr></tbody></table><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"><span style=\"color:black\">Por otra parte, según el Informe de Amenaza Meteorológica emitido por DMC el día de hoy, el día 29 de septiembre se esperan precipitaciones líquidas entre 15 y 25 mm en la región y precipitaciones sólidas de entre 30 y 35 cm en cordillera de ésta. Además, se presentarán vientos entre los 40 y 70 km/h el mismo día. &nbsp;</span></a></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables meteorológicas y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva regional por evento Meteorológico</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

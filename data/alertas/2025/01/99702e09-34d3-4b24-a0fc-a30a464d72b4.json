@@ -1,0 +1,20 @@
+{
+	"id": "99702e09-34d3-4b24-a0fc-a30a464d72b4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Chile Chico por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-16T01:39:17.810Z",
+	"updatedAt": "2025-01-16T01:42:27.279Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-chile-chico-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por CONAF, incendio forestal presenta proyección a una vivienda ubicada a una distancia promedio de 500 metros. Asimismo, en el sector se registra fuerte viento y topografía abrupta, anticipando igualmente amenaza al Área Silvestre Protegida Parque Nacional Patagonia, a una distancia de 1.800 metros.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Fachinal</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Chile Chico</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>1 hectárea</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Incendio forestal se desarrolla en Ruta CH-265, sector de San Sebastian.<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>Compañía de Bomberos de Chile Chico, 2 brigadas y 1 técnico CONAF.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Chile Chico por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

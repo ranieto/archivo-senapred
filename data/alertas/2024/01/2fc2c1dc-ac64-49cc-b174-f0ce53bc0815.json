@@ -1,0 +1,20 @@
+{
+	"id": "2fc2c1dc-ac64-49cc-b174-f0ce53bc0815",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de La Serena por Evento Masivo",
+	"fechaHora": "2024-01-31T13:37:00.000-03:00",
+	"createdAt": "2024-01-31T16:41:26.328Z",
+	"updatedAt": "2024-01-31T16:41:40.917Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-la-serena-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, se informa que la actividad denominada <strong>“Show Musical Verano Romántico en La Serena”</strong> finalizó sin reportar situaciones de emergencias relevantes.<br></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Coquimbo, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva para la comuna de La Serena por Evento Masivo</strong>, que se encontraba vigente desde el 30 de enero. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "852a1adb-5930-4184-834c-d456c34dc7bd",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2023-11-10T21:43:55.5555-03:00",
+	"createdAt": "2023-11-11T00:46:14.159Z",
+	"updatedAt": "2023-11-12T20:12:15.851Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-3",
+	"parentId": "e46bbe86-27ef-4016-bd09-6c45c5d055ee",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante su Aviso Meteorológico A438/2023 emitido, se prevé la ocurrencia de probables tormentas eléctricas asociadas a chubascos aislados, para la tarde del sábado 11 de noviembre en zonas de valle de la Región de Los Lagos.<br></p><p style=\"text-align:justify\">Además, se mantiene vigente el Aviso Meteorológico A432/2023 que pronostica viento normal a moderado desde la noche de hoy viernes 10 hasta la mañana del sábado 11 de noviembre, en litoral, cordillera de la costa, Chiloé y litoral interior de la región.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva regional</strong>, por evento meteorológico, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><em><strong><span style=\"color: black\">SENAPRED </span></strong><span style=\"color: black\">recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. En cuanto al viento,&nbsp;aléjate del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar </span></em><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

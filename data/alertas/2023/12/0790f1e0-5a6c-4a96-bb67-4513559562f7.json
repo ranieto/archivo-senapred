@@ -1,0 +1,20 @@
+{
+	"id": "0790f1e0-5a6c-4a96-bb67-4513559562f7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por altas temperaturas",
+	"fechaHora": "2023-12-11T12:21:00.000-03:00",
+	"createdAt": "2023-12-11T15:31:04.333Z",
+	"updatedAt": "2023-12-11T15:31:27.833Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitanapor-altas-temperaturas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los Avisos A459-2 por evento de altas temperaturas en cordillera de la costa, valle y precordillera de la Región Metropolitana, así como el Aviso A456-1 que pronosticaba un evento de altas temperaturas en zonas de cordillera de la costa, valle y precordillera en la Región Metropolitana. Lo anterior debido al debilitamiento de las condiciones que los originaron.</span><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva Regional</strong></span><span style=\"font-size:15px\">por altas temperaturas</span><span style=\"font-size:15px\">, que se mantuvo vigente desde el 07 de diciembre de 2023. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

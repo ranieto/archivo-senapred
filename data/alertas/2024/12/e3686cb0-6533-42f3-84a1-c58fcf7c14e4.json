@@ -1,0 +1,20 @@
+{
+	"id": "e3686cb0-6533-42f3-84a1-c58fcf7c14e4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Romeral por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-12-09T20:57:11.113Z",
+	"updatedAt": "2024-12-09T20:58:23.105Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-romeral-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendios en el interior de Área Protegida (ASP y Privada) o en una proximidad menor a 2.000 metros de distancia. </p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Las Leñas</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Romeral (Las Leñas)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>20 hectáreas</div></td></tr><tr><td><div>Observaciones</div></td><td><div>Afectando una superficie preliminar de 20 Ha. al momento. Topografía complicada, Bomberos no va a combatir. Se solicita alerta roja comunal<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>1 brigada CONAF, 2 técnico CONAF y 3 helicópteros CONAF</div></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Romeral, por incendio forestal, que se encuentra vigente desde el 09 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

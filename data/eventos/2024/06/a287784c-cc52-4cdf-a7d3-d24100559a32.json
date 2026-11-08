@@ -1,0 +1,20 @@
+{
+	"id": "a287784c-cc52-4cdf-a7d3-d24100559a32",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de O'Higgins y Valparaíso ",
+	"fechaHora": "2024-06-14T20:44:26.2626-04:00",
+	"createdAt": "2024-06-15T00:45:35.980Z",
+	"updatedAt": "2024-06-15T00:45:35.980Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-ohiggins-y-valparaiso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>La <em>Unidad Nacional de Alerta Temprana</em> reporta información del siguiente evento sísmico<br></p><p><br><u>Información del Sismo</u></p><table><tbody><tr><td><p>Fecha   y Hora del Evento: </p></td><td><p>14/06/2024   - 20:23</p></td></tr><tr><td><p>Fecha   y Hora del Reporte: </p></td><td><p>14/06/2024   - 20:43</p></td></tr><tr><td><p>Máxima   Intensidad Percibida: </p></td><td><p>IV   (Mercalli)</p></td></tr><tr><td><p>Número   de Sismo: </p></td><td><p>120-C</p></td></tr></tbody></table><p><br><u>Reportes de Intensidad (Mercalli) por Localidad</u></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Cartagena:   </p></td><td><p>III</p></td></tr><tr><td><p>El   Quisco: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Navidad:   </p></td><td><p>IV</p></td></tr><tr><td><p>Pichilemu:   </p></td><td><p>IV</p></td></tr></tbody></table><p><br><u>Observaciones</u><br><br> El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. La fecha y hora del presente reporte corresponde a la oficial de Chile Continental. <br><br> Modificación de los datos técnicos del sismo, CSN.<br><br><u>Magnitud y Epicentro</u></p><table><tbody><tr><td><p>Magnitud   (Richter): </p></td><td><p>4.4</p></td></tr><tr><td><p>Epicentro:   </p></td><td><p>Latitud:   -33.95<br>   Longitud: -72.16</p></td></tr><tr><td><p>Referencia   Geográfica: </p></td><td><p>30   Kms al Oeste de Navidad</p></td></tr><tr><td><p>Región:   </p></td><td><p>Libertador   Bernardo O'Higgins</p></td></tr><tr><td><p>Profundidad   Focal (Kms): </p></td><td><p>37.6</p></td></tr><tr><td><p>Fuente:   </p></td><td><p>Centro   Sismológico Nacional</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

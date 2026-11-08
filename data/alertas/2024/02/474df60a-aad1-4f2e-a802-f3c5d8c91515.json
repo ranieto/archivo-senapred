@@ -1,0 +1,20 @@
+{
+	"id": "474df60a-aad1-4f2e-a802-f3c5d8c91515",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de San Pedro por incendio forestal",
+	"fechaHora": "2024-02-01T00:44:00.000-03:00",
+	"createdAt": "2024-02-01T03:54:23.043Z",
+	"updatedAt": "2024-02-04T22:40:17.469Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pedro-por-incendio-forestal",
+	"parentId": "34a7ae4c-0216-4aa1-a8cc-1a38d415abb3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Pedro\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de San Pedro, por incendio forestal, que se encuentra vigente desdeel 31 de enero de 2024.</p><p>Trabajan en el lugar: Bomberos de San Pedro, Maipú, Santiago, Alhue y Las Cabras, 7 Brigadas de CONAF, 10 técnicos de CONAF, 6&nbsp;Helicópteros de CONAF, 1&nbsp;Skidder, 2&nbsp;Camiones Aljibe y 1&nbsp;Puesto de Mando de CONAF</p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San Vicente</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>100 hectáreas</p></td></tr></tbody></table></div><p>Trabajan en el lugar: 3 Brigadas de CONAF, 1 técnico de CONAF y Carabineros</p><p>Al momento a raíz del incendio se reporta una bodega en desuso con daños en evaluación. Por otra parte, 49 personas fueron evacuadas preventivamente, siendo derivadas a la Escuela Lo Prado.</p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Quilamuta 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>510 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Al momento las brigadas nocturnas concentran su trabajo en el frente de avance en resguardo de viviendas.Al momento no hay viviendas afectadas por causa del incendio.</p></td></tr></tbody></table></div><div><br></div><div><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

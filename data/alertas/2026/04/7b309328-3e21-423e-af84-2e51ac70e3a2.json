@@ -1,0 +1,20 @@
+{
+	"id": "7b309328-3e21-423e-af84-2e51ac70e3a2",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para las provincias de Los Andes e Isla de Pascua por alteración sanitaria ",
+	"fechaHora": "2026-04-30T17:26:35.3535-04:00",
+	"createdAt": "2026-04-30T21:28:17.941Z",
+	"updatedAt": "2026-07-04T01:14:10.648Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria",
+	"parentId": "14b79db2-78ae-4c96-9ce6-64d5f906bd43",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso, respecto a la presencia de un brote de Dengue en Isla de Pascua, se informan 20 casos confirmados, sin personas hospitalizadas.</p><p style=\"text-align:justify\">Asimismo, se reporta 1 caso sospechoso, a la espera de resultados de análisis.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por alteración sanitaria para las provincias de Los Andes e Isla de Pascua</strong>, que permanece vigente desde el 16 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

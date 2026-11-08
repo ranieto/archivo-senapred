@@ -1,0 +1,20 @@
+{
+	"id": "b3ad1672-710a-47c0-97a7-1c718bfddc53",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las provincias de San Felipe y Los Andes por calor intenso",
+	"fechaHora": "2025-03-18T21:10:53.5353-03:00",
+	"createdAt": "2025-03-19T00:12:10.820Z",
+	"updatedAt": "2025-03-19T10:43:42.184Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-provincias-de-san-felipe-y-los-andes-por-calor-intenso-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se prevé una disminución de las temperaturas en la región, lo que permite identificar que ya no se encuentran presentes las condiciones que dieron origen a la presente alerta.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por Calor intenso para las provincias de San Felipe y Los Andes</strong>, que se mantenía vigente desde el 16 de marzo del 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

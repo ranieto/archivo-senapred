@@ -1,0 +1,20 @@
+{
+	"id": "6286e6d4-aed6-4eff-ac09-704652abc907",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Ríos por evento zoosanitario",
+	"fechaHora": "2026-05-09T16:31:00.000-04:00",
+	"createdAt": "2026-05-09T21:11:33.682Z",
+	"updatedAt": "2026-06-26T22:57:03.249Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-evento-zoosanitario-2026-04-13-15-31-03",
+	"parentId": "854412bd-8662-4b3d-9674-048c5e60896e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con los antecedentes proporcionados por el </span><strong>Servicio Agrícola y Ganadero (SAG)</strong><span style=\"color: black\">, mediante la Resolución Exenta N°1833/2026 se declara Emergencia Sanitaria por la presencia del virus Aviar de Alta Patogenicidad H5N1 (IAAP) en el país. Asimismo, mediante la Resolución Exenta N°585/2026 se confirma la presencia de la enfermedad en la Región de Los Ríos, lo que activa los protocolos de vigilancia junto con la formación del Centro de Operación Regional.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con el avance de la emergencia, se han detectado los siguientes 4 focos de Influenza Aviar en el territorio:</span></p><ol type=\"a\"><li><span style=\"font-size:15px;color:black\">Santuario de La      Naturaleza Carlos Anwandter</span></li><li><span style=\"font-size:15px;color:black\">Sector Agua del      Obispo</span></li><li><span style=\"font-size:15px;color:black\">Sector Futa –      Las Minas</span></li><li><span style=\"font-size:15px;color:black\">Sector Niebla      Urbano</span></li></ol><p style=\"text-align:justify\"><span style=\"color:black\">Dentro de las labores realizadas, periódicamente, personal de CONAF y SAG realizan rondas de monitoreos en los sectores para evitar la diseminación de la enfermedad. Adicionalmente, se determinó una zona de vigilancia de 1 kilómetro alrededor del Santuario de La Naturaleza Carlos Anwandter.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Asimismo, se registran 15 casos positivos de Influencia Aviar H5N1 en aves silvestres (14 Cisnes de cuello negro y 1 pato real) detectados dentro de la zonas de vigilancia. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Considerando estos antecedentes, la Dirección Regional del SENAPRED Los Ríos, <strong>mantiene la Alerta Temprana Preventiva Regional por evento zoosanitario</strong>, que se mantiene vigente desde el 13 de abril y hasta que las condiciones así lo ameriten.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

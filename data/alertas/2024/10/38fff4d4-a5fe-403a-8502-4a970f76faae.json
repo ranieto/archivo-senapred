@@ -1,0 +1,20 @@
+{
+	"id": "38fff4d4-a5fe-403a-8502-4a970f76faae",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por evento masivo",
+	"fechaHora": "2024-10-28T10:05:01.011-03:00",
+	"createdAt": "2024-10-28T13:05:21.642Z",
+	"updatedAt": "2024-10-28T13:05:33.195Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, respecto a la “Elección General de Gobernador Regional, Consejeros Regionales, Alcaldes y Concejales 2024”, se informa que durante el evento se produjeron situaciones menores de emergencia, las que fueron atendidas por el nivel local de las comunas respectivas.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo,</strong> que se mantenía vigente desde el 22 de octubre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

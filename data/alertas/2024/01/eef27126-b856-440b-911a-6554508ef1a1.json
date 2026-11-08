@@ -1,0 +1,20 @@
+{
+	"id": "eef27126-b856-440b-911a-6554508ef1a1",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Portezuelo por incendio forestal",
+	"fechaHora": "2024-01-24T12:52:00.000-03:00",
+	"createdAt": "2024-01-24T15:56:21.051Z",
+	"updatedAt": "2024-01-24T18:33:10.350Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-portezuelo-por-incendio-forestal",
+	"parentId": "3d26c1f1-23d9-47ae-b34b-ab800f5f41a7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Itata\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Portezuelo\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>,&nbsp;respecto al incendio forestal en la comuna de Portezuelo, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Antequereo 2</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>34.9 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal se encuentra activo en la parte media del flanco izquierdo y frente de avance del flanco derecho. Cabe destacar que en los otros sectores no se observa actividad.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>1 brigada de CONAF y 1 técnico de CONAF.</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED <strong>mantiene </strong></span><strong>Alerta Amarilla para la comuna de Portezuelo por incendio forestal</strong><span style=\"color: rgb(33, 37, 41)\">, que se encuentra vigente desde el 23 de enero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

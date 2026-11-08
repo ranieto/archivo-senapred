@@ -1,0 +1,20 @@
+{
+	"id": "acaaf4dc-9bb6-4847-a2b7-8e979939eeaa",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Fresia por incendio forestal",
+	"fechaHora": "2024-01-25T22:09:18.1818-03:00",
+	"createdAt": "2024-01-26T01:10:47.066Z",
+	"updatedAt": "2024-01-29T01:12:53.997Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-fresia-por-incendio-forestal",
+	"parentId": "522f47d2-1353-45f2-8538-2e4ebb860584",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"Esperanza\"</span>, en la comuna de Fresia, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Esperanza</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Incendio forestal con comportamiento extremo   del fuego.</span></p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">3 técnicos y 1 helicóptero.</span></p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>declara Alerta Amarilla para la Comuna de Fresia por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

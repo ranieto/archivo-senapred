@@ -1,0 +1,20 @@
+{
+	"id": "e815c3f9-801a-4776-9eae-ec16c8697d1d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Marchihue por incendio forestal",
+	"fechaHora": "2024-12-02T19:19:13.1313-03:00",
+	"createdAt": "2024-12-02T22:24:39.700Z",
+	"updatedAt": "2024-12-03T00:48:52.005Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-marchihue-por-incendio-forestal-2",
+	"parentId": "7267ff10-db1c-4775-8bdf-3c6e8aa74b1e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF, en combate se mantiene el Incendio forestal \"Fundo El Escorial\" (Ex Carrizal) el cual afecta una superficie de 180 hectáreas de vegetación en la comuna&nbsp;de Marchihue.</p><table><tbody><tr><td><div>Nombre del incendio<br></div></td><td><div>Fundo El Escorial (Ex Carrizal)</div></td></tr><tr><td><div>Comuna</div></td><td><div>Marchihue (Carrrizal)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Hectáreas</div></td><td><div>180 hectáreas</div></td></tr><tr><td><div>Descripción</div></td><td><div>El incendio se encuentra en combate, afectando 180 ha de pino,<br>eucalipto, matorral y pastizal.<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>Bomberos Marchigue / Compañias N°1, N°2 y N°3 / H-2, B-2, BX-1, Z-1,B-3 y J-2<br></div><div>Bomberos Perailillo&nbsp;/ Compañias N°1 / BF-2</div><div>7 brigadas CONAF</div><div>1 técnico CONAF</div><div>1 prevencionista CONAF</div><div>1 helicóptero CONAF</div></td></tr></tbody></table><p><br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Marchihue, por incendio forestal, que se encuentra vigente desde el 02 de diciembre de 2024.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

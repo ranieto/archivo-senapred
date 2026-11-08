@@ -1,0 +1,20 @@
+{
+	"id": "16eebfcb-29ab-494f-858c-d53d77ab2cce",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Río Hurtado por incendio forestal",
+	"fechaHora": "2024-08-01T19:05:00.000-04:00",
+	"createdAt": "2024-08-01T23:35:32.459Z",
+	"updatedAt": "2024-08-06T18:36:08.873Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rio-hurtado-por-incendio-forestal",
+	"parentId": "3b1aff59-1024-444a-b7c4-09f706c04abd",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong><span style=\"color: black\">respecto del incendio forestal que se registra en la comuna de Río Hurtado, se reporta lo siguiente:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong><span style=\"color:black\">Nombre del incendio</span></strong></a></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Los Huapis</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">En combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">0.01 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Observación</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Este incendio se desarrolla   cercano a sectores habitados y/o instraestructura crítica del sector.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED declara <strong>Alerta Roja para la Comuna de Río Hurtado</strong> por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

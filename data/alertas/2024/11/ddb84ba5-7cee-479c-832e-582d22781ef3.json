@@ -1,0 +1,20 @@
+{
+	"id": "ddb84ba5-7cee-479c-832e-582d22781ef3",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-11-09T23:01:00.000-03:00",
+	"createdAt": "2024-11-10T02:03:47.217Z",
+	"updatedAt": "2024-11-10T17:26:36.821Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-10",
+	"parentId": "aa039bbd-d869-4eca-b372-b925c0f73a53",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo <strong>con la información proporcionada por CONAF</strong>, el estado de los incendios forestales que afectan a la comuna de Valparaíso es el siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Incendio </span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Fundo Curamilla</p></td><td><p style=\"text-align:justify\">Controlado</p></td><td><p style=\"text-align:justify\">10 ha.</p></td></tr><tr><td><p style=\"text-align:justify\">Puente Los Azules</p></td><td><p style=\"text-align:justify\">Controlado</p></td><td><p style=\"text-align:justify\">0,52 ha.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En relación al incendio Puentes Los Azules, para mañana domingo 10 de noviembre CONAF ha dispuesto de una brigada para continuar con los trabajos de extinción del incendio.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con respecto al incendio Fundo Currimilla, para la jornada de mañana se ha determinado el envío de una brigada.</span></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Amarilla para la Comuna de Valparaíso</strong>, por incendio forestal, que se mantiene vigente desde el 09 de noviembre de 2024. </p><p>Con la Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED); para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que este crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

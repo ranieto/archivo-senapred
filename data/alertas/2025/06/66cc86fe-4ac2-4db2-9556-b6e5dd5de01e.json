@@ -1,0 +1,20 @@
+{
+	"id": "66cc86fe-4ac2-4db2-9556-b6e5dd5de01e",
+	"type": "Alerta",
+	"titulo": " Se modifica variable y cobertura de Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-06-25T17:55:00.000-04:00",
+	"createdAt": "2025-06-25T22:02:42.594Z",
+	"updatedAt": "2025-07-01T16:45:29.133Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-palena-por-nevadas",
+	"parentId": "44ec1837-f10c-4862-b47c-af332572e427",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Los Lagos:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A237-1</p></td><td><p style=\"text-align:justify\">Nevadas   normales a moderadas en la Provincia de Palena (entre 10 y 20 cm).</p></td><td><p style=\"text-align:center\">25-06</p></td><td><p style=\"text-align:center\">25-06</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A240-1</p></td><td><p style=\"text-align:justify\">Heladas   normales a moderadas en Patagonia subandina (entre -6 y -4° C).</p></td><td><p style=\"text-align:center\">29-06</p></td><td><p style=\"text-align:center\">30-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px\">Del mismo modo, en el Pronóstico Público de la DMC, se indica que a contar del sábado 28 de junio se esperan bajas temperaturas durante la madrugada y mañana en la región.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>modifica variable y cobertura de Alerta Temprana Preventiva a Regional por evento meteorológico</strong>, que se mantiene vigente desde el 23 de junio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

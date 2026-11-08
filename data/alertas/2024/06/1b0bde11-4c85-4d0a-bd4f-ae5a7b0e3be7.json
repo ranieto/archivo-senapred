@@ -1,0 +1,20 @@
+{
+	"id": "1b0bde11-4c85-4d0a-bd4f-ae5a7b0e3be7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Región del Biobío por amenaza de desborde",
+	"fechaHora": "2024-06-11T23:48:00.000-04:00",
+	"createdAt": "2024-06-12T03:48:33.578Z",
+	"updatedAt": "2024-06-16T14:12:07.433Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-biobio-por-amenaza-de-desborde",
+	"parentId": "f60a19e5-3d9f-4c33-966b-9a17d2c18474",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"color:black\">De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), durante la jornada de hoy, debido a la cantidad de precipitaciones en la Región del Biobío, las estaciones “Río Pichilo” en Pichilo, “Río Andalién” en Río Lía y “Río Lía” en Las Corrientes se encuentran con caudales en umbral de Alerta Roja; mientras que las estaciones “Río Curanilahue” en Curanilahue, “Estero Bellavista” en Tomé y “Estero Hualqui” en Desembocadura se encuentran en umbral de Alerta Amarilla. Adicionalmente, las estaciones “Río Biobío” en La Culebra, “Río Vergara” en Tijeral, “Río Biobío” en Desembocadura y “Estero Plegarias” en Río Curanilahue se encuentran en Alerta Azul y con caudales al alza en sus niveles.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otro lado, de acuerdo con lo informado por la Dirección Meteorológica de Chile (DMC), mediante su alerta meteorológica AA42/2024, se prevén precipitaciones moderadas a fuertes en corto periodo de tiempo hasta la madrugada del miércoles 12 de junio.</span></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla Regional por amenaza de desborde</strong>, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">Producto de lo anterior, se cancelan las Alertas Amarillas por amenaza de desborde de las comunas de Los Ángeles, Hualqui y Curanilahue, las que fueron declaradas en el día de hoy 11 de junio.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

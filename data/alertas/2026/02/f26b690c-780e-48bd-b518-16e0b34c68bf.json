@@ -1,0 +1,20 @@
+{
+	"id": "f26b690c-780e-48bd-b518-16e0b34c68bf",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Melipilla por incendio forestal",
+	"fechaHora": "2026-02-14T18:05:07.077-03:00",
+	"createdAt": "2026-02-14T21:08:56.681Z",
+	"updatedAt": "2026-02-15T00:22:31.567Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipilla-por-incendio-forestal-2026-02-14-16-37-25",
+	"parentId": "f4d02ee8-d18e-477b-85b0-57ecfec451e9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">De acuerdo a la información proporcionada por CONAF, en atención al incendio forestal en la comuna de Melipilla, se reporta el siguiente detalle:</span></strong></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Las Tinajas</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Estado</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Superficie</span></strong></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">13 hectáreas</span></p></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Observaciones​</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">I<span style=\"font-size: 15px\">ncendio forestal cercano a sectores habitados.</span>​</span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Recursos</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Cuerpo de Bomberos de Melipilla, Maipú, Puente Alto, La Granja y Peñaflor</span></div><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">5 brigadas, 4 técnicos, 4 aeronaves, 1 maquinaria pesada y 1 camión aljibe CONAF</span></div></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional&nbsp;de SENAPRED <strong>mantiene la Alerta Roja para la comuna de Melipilla por incendio forestal</strong>, que se encuentra&nbsp;vigente desde el 14 de febrero de 2026.</span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

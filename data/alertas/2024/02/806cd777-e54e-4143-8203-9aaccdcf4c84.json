@@ -1,0 +1,20 @@
+{
+	"id": "806cd777-e54e-4143-8203-9aaccdcf4c84",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la Comuna de Puerto Montt por incendio forestal",
+	"fechaHora": "2024-02-13T18:48:00.000-03:00",
+	"createdAt": "2024-02-13T22:23:49.287Z",
+	"updatedAt": "2024-03-18T23:33:59.661Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-puerto-montt-por-incendio-forestal",
+	"parentId": "0b914c73-4dd3-4c88-865f-2f2b89ab8f05",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"Llanquihue\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Puerto Montt\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), activo se encuentrael incendio forestal denominado “Quintupeo”, el cual consume una superficie de 3,5 hectáreas de vegetación enla comuna de Puerto Montt.Cabe mencionar, que el incendio presenta comportamiento extremo, avance rápido y columna convectivainclinada con proyección de pavesas y cercanía a lugares habitados.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED cancelala Alerta Amarilla y declara Alerta Roja para la Comuna de Puerto Montt por incendio forestal, vigente desde hoyy hasta que las condiciones del incendio así lo ameriten.Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p><p><span style=\"color:black\">Respecto al incendio forestal en la comuna de </span>Puerto Montt <span style=\"color:black\">se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Quintupeo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3.5 hectáreas</p></td></tr></tbody></table><p><span style=\"color:black\">​</span></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Camino San   Antonio</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>710.59 hectáreas</p></td></tr></tbody></table><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

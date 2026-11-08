@@ -1,0 +1,20 @@
+{
+	"id": "27e7c937-0622-498c-8b3c-a9674efecd9f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla por crecida para la comunas de San Javier y Villa Alegre por desborde",
+	"fechaHora": "2024-06-22T04:50:23.2323-04:00",
+	"createdAt": "2024-06-22T08:51:46.744Z",
+	"updatedAt": "2024-06-24T13:13:25.648Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-javier-y-villa-alegre-por-crecida",
+	"parentId": "463514cb-50fc-459d-9916-45165d4b4d59",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó, Linares\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"San Javier, Villa Alegre\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Loncomilla en las Brisas”, en la comuna de San Javier, ha presentado una disminución en su caudal alcanzado los valores del umbral de Alerta Amarilla.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja por desborde y declara Alerta Amarilla por crecida para la comunas de San Javier y Villa Alegre,</strong> vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

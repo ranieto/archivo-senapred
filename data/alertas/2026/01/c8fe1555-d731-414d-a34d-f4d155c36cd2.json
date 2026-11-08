@@ -1,0 +1,20 @@
+{
+	"id": "c8fe1555-d731-414d-a34d-f4d155c36cd2",
+	"type": "Alerta",
+	"titulo": " Se actualiza Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-01-15T00:07:22.439Z",
+	"updatedAt": "2026-01-15T00:15:19.693Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico-2026-01-12-12-34-27",
+	"parentId": "f90e0603-117e-46d2-8298-8266ff123c12",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de </span><span style=\"font-size:15px;color:black\">Tarapacá</span><span style=\"font-size:15px;color:black\">:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A15-2</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Precipitaciones normales a moderadas en cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">14-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">15-01</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso 13-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Probables tormentas eléctricas en precordillera y cordillera.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">14-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva por evento meteorológico para la provincia del Tamarugal</strong>, que se encuentra vigente desde el 12 de enero y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

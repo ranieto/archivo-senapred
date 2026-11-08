@@ -1,0 +1,20 @@
+{
+	"id": "633a16ee-b86d-48e0-a3fe-13c75e97d073",
+	"type": "Alerta",
+	"titulo": " Se cancela la Alerta Temprana Preventiva para las comunas de Navidad, Litueche, Pichilemu y Paredones por viento ",
+	"fechaHora": "2024-09-04T00:10:00.000-04:00",
+	"createdAt": "2024-09-04T04:13:15.531Z",
+	"updatedAt": "2024-09-04T04:14:06.205Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-navidad-litueche-pichilemu-y-paredones-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Pichilemu, Navidad, Litueche, Paredones\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se ha cancelado el siguiente alertamiento meteorológico para la Región de O’Higgins, debido al debilitamiento de las condiciones meteorológicas que lo originaron:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A329</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en el sector litoral de la región.</p></td><td><p style=\"text-align:center\">03-09</p></td><td><p style=\"text-align:center\">03-09</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone la disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional de SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para las comunas de Navidad, Litueche, Pichilemu y Paredones</strong>, que se mantuvo vigente desde 02 de septiembre del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

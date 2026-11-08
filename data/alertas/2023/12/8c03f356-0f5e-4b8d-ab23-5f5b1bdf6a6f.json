@@ -1,0 +1,20 @@
+{
+	"id": "8c03f356-0f5e-4b8d-ab23-5f5b1bdf6a6f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva Regional por amenaza de incendios forestales",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-12-09T14:44:19.481Z",
+	"updatedAt": "2023-12-09T14:45:02.974Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-regional-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, se prevé un aumento de la probabilidad de generación y propagación de incendios forestales en la región de Ñuble, considerando velocidades del viento y contenido de humedad del combustible vegetal fino muerto.<br></p><p style=\"text-align:justify\">Producto de lo anterior y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional</strong> por amenaza de incendios forestales, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><em><strong><span style=\"color: black\">SENAPRED&nbsp;</span></strong>recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder;no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (<span style=\"color: rgb(5, 99, 193);font-size: 15px\">https://www.senapred.cl/visor-chile-preparado-2/</span>). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).</em></span><br></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p><p style=\"text-align: justify\"><span style=\"color:black\"><br></span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

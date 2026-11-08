@@ -1,0 +1,20 @@
+{
+	"id": "3263616a-2435-4a9f-84b9-a0b7d9fc3e9e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la comuna de Arauco por desborde",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-06-15T05:37:00.307Z",
+	"updatedAt": "2025-06-15T05:37:41.532Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-arauco-por-crecida",
+	"parentId": "6676727f-f1ac-45c3-8f17-fbe12dd08876",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con lo informado por la Dirección General de Aguas (DGA), mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación del Río Pichilo, en el sector Pichilo, se encuentra en nivel de alerta roja, mientras que la estación del Río Lía, en el sector Las Corrientes, mantiene nivel de alerta amarilla. Asimismo, el resto de las estaciones de la red fluviométrica de la región presentan una tendencia general a la subida.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">A lo anterior, se suma la Alarma Meteorológica AAA4-2/2025 emitida por la Dirección Meteorológica de Chile (DMC), que pronostica precipitaciones intensas en corto período de tiempo para las zonas de litoral, cordillera de la costa, valle y precordillera de la región, lo que hace suponer que, en base a estas condiciones meteorológicas, un aumento significativo de los caudales, lo que podría provocar afectación a personas y daños en infraestructuras en diversas comunas de la Región del Biobío</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, a las 00:07 y a las 00:57 horas de hoy, se han enviado 2 mensajes SAE para la comuna de Arauco por desborde del Río Pichilo.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED cancela la Alerta Amarilla para la comuna de Arauco por crecida, que se mantenía vigente desde hoy 15 de junio del 2025 y <strong>declara Alerta Roja Regional por desborde</strong>, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

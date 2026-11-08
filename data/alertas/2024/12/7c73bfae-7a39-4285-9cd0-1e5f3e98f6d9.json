@@ -1,0 +1,20 @@
+{
+	"id": "7c73bfae-7a39-4285-9cd0-1e5f3e98f6d9",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Provincia de Malleco por Calor intenso",
+	"fechaHora": "2024-12-14T13:24:00.000-03:00",
+	"createdAt": "2024-12-14T16:30:25.342Z",
+	"updatedAt": "2024-12-17T13:43:42.134Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco-por-calor-intenso-2",
+	"parentId": "88c36b21-698e-4b9c-a8f4-0a3c6845dd66",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) </strong>se encuentra vigente el siguiente alertamiento meteorológico para la Región de La Araucanía:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA85</p></td><td><p style=\"text-align:justify\">Evento de altas   temperaturas extremas, en la provincia de Malleco (principalmente en valle).</p></td><td><p style=\"text-align:center\">15-12</p></td><td><p style=\"text-align:center\">16-12</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, la DMC indica las temperaturas máximas en la región durante los próximos días serán las siguientes:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Domingo 15 de diciembre</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Lunes 16 de diciembre</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Provincia de Malleco,   principalmente en valle.</p></td><td><p style=\"text-align:center\">32 – 34 °C</p></td><td><p style=\"text-align:center\">32 – 34 °C</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para la Provincia de Malleco por Calor intenso, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\">Con la declaración de la <strong>Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><p style=\"text-align: justify\"><br></p><p style=\"margin-left:36.0pt\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>SENAPRED</strong> recomienda a la población evitar exponerse al sol durante las horas centrales del día (11:00 a 17:00 hrs. máxima radiación ultravioleta); y vigilar la temperatura corporal y condición de niños/as y adultos mayores, ya que dichos grupos suelen deshidratarse con facilidad.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "837fcc94-902b-4323-aa98-482df1684101",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-11-09T20:41:59.5959-03:00",
+	"createdAt": "2024-11-09T23:42:41.242Z",
+	"updatedAt": "2024-11-10T17:26:36.799Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-10",
+	"parentId": "aa039bbd-d869-4eca-b372-b925c0f73a53",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo <strong>con la información proporcionada por CONAF</strong>, el estado de los incendios forestales que afectan a la comuna de Valparaíso es el siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Incendio </span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Superficie</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Fundo Curamilla</p></td><td><p style=\"text-align:justify\">Controlado</p></td><td><p style=\"text-align:justify\">10 ha.</p></td></tr><tr><td><p style=\"text-align:justify\">Puente Los Azules</p></td><td><p style=\"text-align:justify\">Controlado</p></td><td><p style=\"text-align:justify\">0,52 ha.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Valparaíso por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br><br> Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

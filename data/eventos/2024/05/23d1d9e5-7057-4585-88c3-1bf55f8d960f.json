@@ -1,0 +1,19 @@
+{
+	"id": "23d1d9e5-7057-4585-88c3-1bf55f8d960f",
+	"type": "Evento",
+	"titulo": "Incendio estructural, comuna de Concepción (información preliminar)",
+	"fechaHora": "2024-05-01T01:53:00.000-04:00",
+	"createdAt": "2024-05-01T05:53:01.186Z",
+	"updatedAt": "2024-05-01T08:45:56.239Z",
+	"urlAccess": "incendio-estructural-comuna-de-concepcion-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Estructural\",\"nombreImg\":\"incendioestructural.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, se reporta un incendio estructural en bodegas del Regimiento Logístico de Concepción, ubicado en la intersección de Avenida General Novoa y General Toro, comuna de Concepción.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, al momento no se han reportado otras emergencias derivadas de este incendio.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, Carabineros y efectivos del mismo regimiento.</p>",
+	"variableInformateEventosId": "7322a131-ba37-4e12-892f-d7008aec4648"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9aafb6ec-ccc6-4e1d-9825-498efd1e7f00",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia del Tamarugal por viento",
+	"fechaHora": "2024-04-14T12:15:48.4848-04:00",
+	"createdAt": "2024-04-14T16:18:53.710Z",
+	"updatedAt": "2024-04-16T04:41:00.637Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-viento",
+	"parentId": "f5f0d579-ca3b-4c07-81da-8061afa770a0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Tarapacá:<br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA21-2</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con desarrollo de tormentas de arena, en cordillera de la   región.</p></td><td><p style=\"text-align:center\">14/04</p></td><td><p style=\"text-align:center\">15/04</p></td></tr></tbody></table><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">Además, de acuerdo con lo indicado en la Alerta Meteorológica mencionada anteriormente, se esperan las siguientes intensidades de viento (km/h) para la región:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Zona</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Domingo 14</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Lunes 15</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Cordillera</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">70 - 90</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">80 – 100</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva por viento, para la Provincia del Tamarugal</strong>, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><strong><em><span style=\"color: black\">SENAPRED </span></em></strong><em><span style=\"color: black\">recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span></em><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

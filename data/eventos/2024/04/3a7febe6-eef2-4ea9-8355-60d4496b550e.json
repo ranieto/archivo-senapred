@@ -1,0 +1,20 @@
+{
+	"id": "3a7febe6-eef2-4ea9-8355-60d4496b550e",
+	"type": "Evento",
+	"titulo": "Sismo de intensidad en las regiones de Valparaíso y Metropolitana",
+	"fechaHora": "2024-04-13T19:17:00.000-04:00",
+	"createdAt": "2024-04-13T23:18:48.818Z",
+	"updatedAt": "2024-04-13T23:18:48.818Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-4",
+	"parentId": "85becb5b-de9e-40e9-ab95-b150f346c990",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de intensidad se percibió a las 19:02 horas en las regiones de Valparaíso y Metropolitana.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:<br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quilpué   : </p></td><td><p>IV</p></td></tr><tr><td><p>Limache   : </p></td><td><p>III</p></td></tr><tr><td><p>Valparaí­so:   </p></td><td><p>III</p></td></tr><tr><td><p>La   Ligua: </p></td><td><p>III</p></td></tr><tr><td><p>San   Felipe: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Colina:   </p></td><td><p>III</p></td></tr><tr><td><p>Tiltil:   </p></td><td><p>III</p></td></tr><tr><td><p>Curacaví­:   </p></td><td><p>II</p></td></tr></tbody></table><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p style=\"text-align: justify\">El Centro Sismológico Nacional indica que la magnitud fue 4.3, localizada a 29 Kms al Suroeste de La Ligua.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

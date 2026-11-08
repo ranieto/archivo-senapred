@@ -1,0 +1,20 @@
+{
+	"id": "f7fa8c1c-4ad0-4c67-a34f-bceb07af9f28",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Lampa por incendio forestal",
+	"fechaHora": "2024-11-11T15:02:00.000-03:00",
+	"createdAt": "2024-11-11T18:16:29.472Z",
+	"updatedAt": "2024-11-12T17:23:53.193Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lampa-por-incendio-forestal-2",
+	"parentId": "eb12594e-75d4-47fb-a1e9-c4dedf6db7c3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Chacabuco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Lampa\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que afecta a la comuna de Lampa, es la siguiente:</p><p>​</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">Estero   Las Cruces </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">1 Bomberos,   4 brigadas de CONAF, 2 técnicos de CONAF, 1 avión Cisterna de CONAF, 2   Helicópteros de CONAF y 1 Maquinaria de CONAF. </p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regionalde SENAPRED declara Alerta Roja para la Comuna de Lampa por incendio forestal, vigente desde hoy yhasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyoadicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta anteDesastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidaddel evento<br></p><p>- Activación preventiva de Comité de Provincial y Comunal de Gestión de Riesgo y Desastre de Emergencia,puesta a punto de Enlaces de Coordinación y Planificación de Operaciones de Emergencia.</p><p>- Efectiva información a la comunidad.</p><p>-De existir maquinarias entregadas en Comodato por SENAPRED a los Municipios deberán estarpreparadas y con conductores de turno, ante la eventualidad de que deban desplazarse en la Región debidoa una situación de emergencia<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

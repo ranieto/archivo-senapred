@@ -1,0 +1,20 @@
+{
+	"id": "3b0aeb28-916a-47df-998b-4d372ed6e139",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento masivo",
+	"fechaHora": "2024-10-28T10:50:00.000-03:00",
+	"createdAt": "2024-10-28T14:18:04.331Z",
+	"updatedAt": "2024-10-28T14:18:14.734Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-masivo-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, respecto a las “Elecciones Generales de Gobernador Regional, Consejeros Regionales, Alcaldes y Concejales 2024”, se informa que estas finalizaron sin reportar situaciones relevantes de emergencia.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Biobío,&nbsp;</span><span style=\"color: black\">la&nbsp;</span><span style=\"color: black\">Dirección Regional del SENAPRED&nbsp;</span><strong><span style=\"color: black\">cancela la Alerta Temprana Preventiva Regional por evento masivo,&nbsp;</span></strong><span style=\"color: black\">que se mantenía vigente el 24 de octubre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "7d17f14d-dcc6-44bc-b4a0-4d45870ecfb6",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Valparaíso",
+	"fechaHora": "2023-11-02T03:33:44.4444-03:00",
+	"createdAt": "2023-11-02T06:35:23.454Z",
+	"updatedAt": "2023-11-02T06:39:08.138Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-valparaiso-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad fue percibido a las 03:33 horas en la Región de Valparaíso.<br></p><p>Las intensidades en Escala de Mercalli son:</p><p><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quillota:   </p></td><td><p>III</p></td></tr></tbody></table><p><br></p><p>E<span style=\"font-size:15px\">l Sistema Nacional de Prevención y Respuesta ante Desastres evalúa eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

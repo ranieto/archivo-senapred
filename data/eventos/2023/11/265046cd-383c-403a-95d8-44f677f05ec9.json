@@ -1,0 +1,20 @@
+{
+	"id": "265046cd-383c-403a-95d8-44f677f05ec9",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Tarapacá y Antofagasta",
+	"fechaHora": "2023-11-23T11:03:28.2828-03:00",
+	"createdAt": "2023-11-23T14:04:07.644Z",
+	"updatedAt": "2023-11-23T14:04:07.644Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-tarapaca-5",
+	"parentId": "29111645-60ec-47fc-83a8-8226e4411ce5",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">10:47 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en las regiones de Tarapacá y Antofagasta.&nbsp;</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Pica   : </p></td><td><p>IV</p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>III</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Antofagasta </strong></p></td></tr><tr><td><p>Tocopilla:   </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED</p><p><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.1 localizado a</span> 47 Kms al Noroeste de Quillagua.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

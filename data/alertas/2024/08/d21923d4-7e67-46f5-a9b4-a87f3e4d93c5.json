@@ -1,0 +1,20 @@
+{
+	"id": "d21923d4-7e67-46f5-a9b4-a87f3e4d93c5",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2024-08-31T00:44:00.000-04:00",
+	"createdAt": "2024-08-31T04:50:52.002Z",
+	"updatedAt": "2024-09-01T04:52:49.318Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-viento-7",
+	"parentId": "70673c09-9bc2-41c7-b5ba-8cf115c8383d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A323/2024, que pronosticó viento normal a moderado con probabilidad de tormentas de arena en litoral de la Región de Antofagasta. En tanto, se encuentra vigente el siguiente alertamiento meteorológico para la región:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A319-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado con probabilidad de tormentas   de arena en   cordillera de la costa, precordillera, precordillera salar y cordillera. </p></td><td><p style=\"text-align:center\">28-08</p></td><td><p style=\"text-align:center\">31-08</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional de SENAPRED, <strong>actualiza la Alerta Temprana Preventiva Regional por viento, </strong>que se mantienevigente desde el 26 de agosto y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong><em><span style=\"color: black\">recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span></em>​</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

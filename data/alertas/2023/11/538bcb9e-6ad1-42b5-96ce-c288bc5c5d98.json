@@ -1,0 +1,20 @@
+{
+	"id": "538bcb9e-6ad1-42b5-96ce-c288bc5c5d98",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la provincia del Tierra del Fuego por incendio forestal",
+	"fechaHora": "2023-11-15T00:09:00.000-03:00",
+	"createdAt": "2023-11-15T03:11:25.912Z",
+	"updatedAt": "2023-11-16T22:56:59.845Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-porvenir-por-incendio-forestal-2",
+	"parentId": "5e0e1f7c-7245-4994-8f0f-fb7ef1cfe43e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"color: black\"> respecto del incendio forestal en la comuna de Porvenir se indica el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p><strong><span style=\"color:black\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Las Mercedes – Caupolicán.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Controlado.</span></p></td></tr><tr><td><p><strong><span style=\"color:black\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">1.200 hectáreas.</span></p></td></tr></tbody></table></div><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED<strong> mantiene la Alerta Amarilla </strong>para la provincia del Tierra del Fuego por incendio forestal, que se encuentra vigente desde el 13 de noviembre de 2023 y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante la pasada jornada, las labores de combate se centraron en la extinción de puntos calientes y lanzamientos localizados al interior del incendio. Los helicópteros gestionados por SENAPRED se mantuvieron en tareas de traslado de personal y lanzamiento de agua en la zona afectada.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Carabineros mantiene vigilancia especial en el sector del incendio, hasta que sea superada la emergencia.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, el Servicio Agrícola y Ganadero (SAG), el lunes 20 de noviembre realizará una revisión del cercado en las estancias aledañas al incendio, </span></p><p style=\"text-align:justify\"><span style=\"color:black\">Para la jornada de hoy miércoles 14 de noviembre, la planificación de recursos indica el trabajo de 9 técnicos y 3 brigadas de CONAF; 2 Brigadas de Refuerzo de Incendios Forestales (BRIFE), 80 funcionarios, 2 camiones aljibe, 1 ambulancia, 2 buldócer y 1 camión oruga del Ejército de Chile; funcionarios y 1 dron de Carabineros; Bomberos de Porvenir con 1 generador facilitado a CONAF; 1 motoniveladora de la municipalidad de Porvenir; y 2 helicópteros gestionados por SENAPRED.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

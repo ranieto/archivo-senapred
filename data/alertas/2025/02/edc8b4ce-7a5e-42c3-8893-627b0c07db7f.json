@@ -1,0 +1,20 @@
+{
+	"id": "edc8b4ce-7a5e-42c3-8893-627b0c07db7f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Cañete por evento masivo",
+	"fechaHora": "2025-02-03T09:36:54.5454-03:00",
+	"createdAt": "2025-02-03T12:38:23.295Z",
+	"updatedAt": "2025-02-03T12:39:16.008Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-canete-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Cañete\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Biobío, respecto a la realización de la “</span><strong>Feria Agrícola Ganadera Forestal” (FAGAF)</strong><span style=\"color: black\">, en la comuna de Cañete, se informa que esta finalizó con normalidad, sin reportar situaciones de emergencia.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Cañete</strong>, que se mantenía vigente desde el 31 de enero.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

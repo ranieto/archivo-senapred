@@ -1,0 +1,20 @@
+{
+	"id": "93cf4d20-8dba-48bd-8377-f091d5e78db2",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Traiguén por incendio forestal",
+	"fechaHora": "2025-03-27T01:04:54.5454-03:00",
+	"createdAt": "2025-03-27T04:08:44.143Z",
+	"updatedAt": "2025-03-28T22:26:26.329Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-traiguen-por-incendio-forestal-2",
+	"parentId": "26e27731-cbe5-4929-ad97-bb1d315973fa",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,</strong>&nbsp;respecto a los incendios forestales en la&nbsp;comuna de&nbsp;<strong>Traiguén,</strong>&nbsp;se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Quichamahuida</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">Bajo observación</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">303 hectáreas</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">1 técnico Conaf</p></td></tr></tbody></table><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align: justify\">Providencia</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">3036 hectáreas</p></td></tr><tr><td><div><strong>Recursos</strong></div></td><td><div>6 técnicos Conaf</div><div>6 aeronaves</div></td></tr></tbody></table><p>Al momento, se registran 11 personas damnificadas y 19 viviendas destruidas, además se registran en el centro educacional Liceo Providencia daños en evaluación, en tanto, las clases en los establecimientos educacionales de la comuna se mantuvieron suspendidas durante el día de ayer 26 de marzo 2025.</p><p>Finalmente, se han enviado 10 mensajes del Sistema de Alerta de Emergencia (SAE), desde el 23 de marzo, para apoyar los procesos de evacuación en la comuna.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía,<strong> la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Traiguén por incendio forestal,</strong> que se encuentra vigente desde el 23 de marzo de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

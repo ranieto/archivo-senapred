@@ -1,0 +1,20 @@
+{
+	"id": "e93008e8-4862-42aa-a473-42a372794c61",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Temprana Preventiva para la Región del Biobío por heladas",
+	"fechaHora": "2025-06-26T18:05:15.1515-04:00",
+	"createdAt": "2025-06-26T22:06:01.683Z",
+	"updatedAt": "2025-06-30T15:00:56.911Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-heladas",
+	"parentId": "fa679549-6bb2-4eac-9f83-e581801380c2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Heladas - Bajas Temperaturas\",\"nombreImg\":\"heladas.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> se encuentra vigente el siguiente alertamiento meteorológico para la Región del </span><span style=\"font-size:15px\">Biobío</span><span style=\"font-size:15px\">:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A242-1</p></td><td><p style=\"text-align:justify\">Heladas   normales a moderadas con probabilidad de formación de escarcha en cordillera   de la costa, valle y precordillera (entre -4 y -2 C°).</p></td><td><p style=\"text-align:center\">29-06</p></td><td><p style=\"text-align:center\">30-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional del </span><span style=\"font-size:15px;color:black\">Biobío</span><span style=\"font-size:15px;color:black\">, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por heladas</strong>, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><strong><span style=\"font-size:15px;color:black\">SENAPRED&nbsp;</span></strong><span style=\"font-size:15px;color:black\">recomienda a la población vestir adecuadamente con ropa de abrigo, utilizando calzado cerrado y manteniendo manos, cuello y cabeza protegidos; evitar cambios bruscos de temperatura, recordando cubrir nariz y boca al momento de salir desde un lugar temperado; y no exponer al frío a niños, ancianos y enfermos crónicos.</span><span style=\"font-size:15px;color:black\">&nbsp;</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "f05fc46b-d8c8-431a-ada3-fb13e7e2f70c"
+}

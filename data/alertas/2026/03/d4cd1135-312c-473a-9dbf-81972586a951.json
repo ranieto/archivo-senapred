@@ -1,0 +1,20 @@
+{
+	"id": "d4cd1135-312c-473a-9dbf-81972586a951",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Roja para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2026-03-10T20:45:00.000-03:00",
+	"createdAt": "2026-03-10T23:50:52.479Z",
+	"updatedAt": "2026-03-11T15:37:57.164Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-antonio-por-incendio-forestal-2026-03-10-17-28-29",
+	"parentId": "3a0aa9ef-68dc-4709-be7c-f66889a89243",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\">De acuerdo <strong>con la información técnica proporcionada por Conaf</strong> respecto al&nbsp;incendio forestal en la comuna de San Antonio, se informa el siguiente detalle:</p><p style=\"text-align:justify\"><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Quebrada La Iglesia</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">65 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">La planificación para el día de   mañana por parte de CONAF es la siguiente:</p><p style=\"text-align:justify\">2 técnicos, 5 brigadas, camión   aljibe, helicóptero, Puesto comando y ambulancia ACHS</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal se desarrolla   cercano a sectores poblados. Hasta el momento se han enviado 5 mensajes SAE   para reforzar los procesos de evacuación.</p></td></tr></tbody></table><p style=\"text-align:justify\"><strong><br><br></strong></p><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de San Antonio, por incendio forestal, que se encuentra vigente desde el 10 de marzo de 2026.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

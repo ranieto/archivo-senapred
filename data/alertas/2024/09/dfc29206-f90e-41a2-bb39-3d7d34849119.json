@@ -1,0 +1,20 @@
+{
+	"id": "dfc29206-f90e-41a2-bb39-3d7d34849119",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Maule por evento masivo",
+	"fechaHora": "2024-09-18T19:46:00.000-03:00",
+	"createdAt": "2024-09-18T23:02:54.453Z",
+	"updatedAt": "2024-09-23T10:17:52.129Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-masivo",
+	"parentId": "f92d1a72-f603-4600-98a1-026b0c437f78",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule, se reportan <strong>2 personas lesionadas</strong> y un aproximado de <strong>5.000 evacuados</strong> desde el interior del Estadio Municipal de San Javier, donde se desarrollaba una <strong>fonda de celebración de fiestas patrias</strong>.<br></p><p style=\"text-align:justify\">Lo anterior, debido a viento que provocó la <strong>voladura de las carpas estructurales</strong> utilizadas en el evento.</p><p style=\"text-align:justify\">Cabe señalar que las personas lesionadas fueron trasladadas hacia el hospital comunal para su atención médica, mientras que las actividades en la fonda fueron suspendidas, mientras se evalúa la reinstalación de las estructuras y el mejoramiento de la situación meteorológica.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva regional, por evento masivo,</strong> que se encuentra vigente desde el 05 de septiembre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la población identificar las vías de evacuación y coordinar un punto de encuentro con los que te acompañan. En caso de una emergencia mantén la calma, coopera con encargados de seguridad, aléjate de lugares que representen un peligro evidente y, en caso de ser posible, presta tu ayuda a niños, ancianos y mujeres embarazadas.</span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

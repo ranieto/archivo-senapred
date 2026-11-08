@@ -1,0 +1,20 @@
+{
+	"id": "898b8412-d7ad-4910-b1b2-41e7af25f9f2",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por viento",
+	"fechaHora": "2023-10-07T21:51:00.000-03:00",
+	"createdAt": "2023-10-08T10:37:54.413Z",
+	"updatedAt": "2023-10-08T10:38:05.831Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>La información proporcionada por la Dirección Meteorológica de Chile (DMC) indica que ha sido cancelada la Alerta Meteorológica por viento moderado a fuerte en cordillera de la Región de Antofagasta. Asimismo, fue cancelado el Aviso Meteorológico por viento normal a moderado en los sectores de cordillera de la costa, precordillera, precordillera salar y cordillera de la región. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que los originaron.<br><br>En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional de SENAPRED cancela Alerta Temprana Preventiva Regional por viento, vigente desde el 01 de octubre de 2023.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "0626290b-5962-4415-a4fc-71854ca874e8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva por evento masivo para la comuna de Ovalle",
+	"fechaHora": "2024-09-02T12:20:00.000-04:00",
+	"createdAt": "2024-09-02T16:30:18.279Z",
+	"updatedAt": "2024-09-02T16:34:18.479Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-ovalle-por-evento-masivo-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Ovalle\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, finalizó el evento “Fiesta de Sotaquí 2024”, que se desarrolló en la comuna de Ovalle, sin presentar situaciones de emergencia producto de la actividad.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, la Dirección Regional del SENAPRED en coordinación con la Delegación Presidencial de Coquimbo <strong>cancela la Alerta Temprana Preventiva por evento masivo para la comuna de Ovalle,</strong> que se mantuvo vigente desde el 29 de agosto de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

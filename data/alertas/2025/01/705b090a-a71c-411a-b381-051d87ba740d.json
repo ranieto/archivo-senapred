@@ -1,0 +1,20 @@
+{
+	"id": "705b090a-a71c-411a-b381-051d87ba740d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Los Ríos por amenaza de incendios forestales",
+	"fechaHora": "2025-01-09T19:09:00.000-03:00",
+	"createdAt": "2025-01-09T22:17:38.131Z",
+	"updatedAt": "2025-01-13T01:00:39.708Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-rios-por-amenaza-de-incendios-forestales",
+	"parentId": "b41b8011-2706-4e78-92f8-e3e123a44034",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a <strong>la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> se espera una disminución del contenido de humedad en los combustibles, acompañado de vientos provenientes del oeste. Condiciones que favorecen un escenario propicio para la ocurrencia de incendios forestales en la región. Del mismo modo, la Dirección Meteorológica de Chile (DMC), a través de su Alerta Meteorológica AA4/2025, prevé el desarrollo de un evento de altas temperaturas extremas entre la mañana del sábado 11 y la tarde del domingo 12 de enero, afectando primicialmente a las zonas del litoral y cordillera de la costa de la región. Asimismo, conforme a lo indicado en el Aviso A8-1/2025, se advierte de un evento de altas temperaturas, desde la mañana de hoy jueves 09 hasta la tarde del domingo 12 de enero.</p><p style=\"text-align:justify\">Las temperaturas estimadas son las siguientes:</p><p style=\"text-align:justify\">- Sábado 11: litoral (30 - 32) y cordillera de la costa (29- 31).</p><p style=\"text-align:justify\">- Domingo 12: litoral (30 - 32) y cordillera de la costa (30- 32).</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional de SENAPRED <strong>declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales</strong>, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p style=\"text-align:justify\"><strong><span style=\"color:black\">SENAPRED&nbsp;</span></strong><span style=\"color:black\">recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder;no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (</span><a href=\"https://www.senapred.cl/visor-chile-preparado-2/\"><span style=\"color:#0563C1\">https://www.senapred.cl/visor-chile-preparado-2/</span></a><span style=\"color:black\">). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).</span><span style=\"color:black\">&nbsp;</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

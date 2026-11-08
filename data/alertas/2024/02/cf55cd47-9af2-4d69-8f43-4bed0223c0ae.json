@@ -1,0 +1,20 @@
+{
+	"id": "cf55cd47-9af2-4d69-8f43-4bed0223c0ae",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Coyhaique por incendio forestal",
+	"fechaHora": "2024-02-03T14:05:52.5252-03:00",
+	"createdAt": "2024-02-03T17:06:56.200Z",
+	"updatedAt": "2024-02-03T17:08:41.560Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-coyhaique-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"Coyhaique\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Coyhaique\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa </span><span style=\"color: black\">el siguiente detalle respecto del incendio forestal</span> “<span style=\"font-size: 14px;color: rgb(46, 46, 46)\">Recta Foitzick,</span><span style=\"color: black\">”, en la comuna </span><span style=\"color: black\">de Coyhaique:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">Recta Foitzick</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>contenido</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>88,6 hectáreas</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Coyhaique, por incendio forestal, que se mantuvo vigente desde el 25 de enero de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

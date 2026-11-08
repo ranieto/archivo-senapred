@@ -1,0 +1,20 @@
+{
+	"id": "d2350c1f-4d5a-42f7-8946-daada1ce59b4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Melipilla por incendios forestal",
+	"fechaHora": "2025-01-11T19:41:52.5252-03:00",
+	"createdAt": "2025-01-11T22:51:33.588Z",
+	"updatedAt": "2025-01-12T15:00:24.381Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-melipilla-por-incendios-forestal",
+	"parentId": "cb67b4af-8a26-4342-a5f8-6a463221a511",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal se desarrolla en la comuna de Melipilla (sector San Juan de Popeta) cercano a sectores poblados.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>San Juan de Popeta<br></div></td></tr><tr><td><div>Estado<br></div></td><td><div>En combate<br></div></td></tr><tr><td><div>Superficie</div></td><td><div>40 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>Bomberos: Brigadas de Melipilla, Peñaflor, Metropolitano Sur, San Pedro y El Monte.</div><div>CONAF: 4 Brigadas (Roble 8-6-19-11), 1 técnico, 2 aviones cisterna, 4 helicópteros, 1 maquinarias pesada y 1 camión.</div><div><br></div></td></tr><tr><td><div>Observaciones</div></td><td><div>El incendio presenta velocidad de propagacipon rápida producto de los vientos locales y proyección de pavesas.<br></div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en<br>coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional<br>de SENAPRED declara Alerta Roja para la comuna de Melipilla por incendio forestal, vigente desde hoy y<br>hasta que las condiciones del incendio así lo ameriten.<br>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo<br>adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante<br></p><p>Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad<br>del evento.<br></p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

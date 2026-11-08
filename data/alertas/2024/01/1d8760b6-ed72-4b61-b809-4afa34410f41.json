@@ -1,0 +1,20 @@
+{
+	"id": "1d8760b6-ed72-4b61-b809-4afa34410f41",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Temprana Preventiva para la Región de La Araucanía por amenaza de incendios forestales",
+	"fechaHora": "2024-01-19T18:17:54.5454-03:00",
+	"createdAt": "2024-01-19T21:19:04.570Z",
+	"updatedAt": "2024-01-30T21:11:10.337Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-amenaza-de-incendios-forestales",
+	"parentId": "bed9aec0-4c08-44ae-a867-83808741b820",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con los antecedentes proporcionados por la Corporación Nacional Forestal (CONAF)</strong>, mediante su informe Botón Rojo, se pronostican condiciones adversas en la región de La Araucanía, favorables para la generación y propagación de incendios forestales, los que podrían aumentar en número y superficie afectada.<br></p><p>Por su parte, la Dirección Meteorológica de Chile (DMC), mediante su Alerta Meteorológica AA4/2024, indica la ocurrencia de un evento de altas temperaturas desde la mañana hasta la tarde del lunes 22 de enero, en sectores de valle y precordillera de la región.</p><p>Asimismo, el Aviso Meteorológico A12/2024 prevé un evento de altas temperaturas desde la mañana del domingo 21 hasta la tarde del martes 23 de enero, en sectores de cordillera de la costa, valle y precordillera de la región.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

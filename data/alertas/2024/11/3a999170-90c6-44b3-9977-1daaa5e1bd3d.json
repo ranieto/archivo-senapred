@@ -1,0 +1,20 @@
+{
+	"id": "3a999170-90c6-44b3-9977-1daaa5e1bd3d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Valparaíso por amenazas de incendios forestales",
+	"fechaHora": "2024-11-08T14:24:51.5151-03:00",
+	"createdAt": "2024-11-08T17:28:21.639Z",
+	"updatedAt": "2024-11-14T22:59:33.869Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenazas-de-incendios-forestales",
+	"parentId": "08ea8eee-2fb2-4994-bf51-604e21eb94e4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Conforme al análisis de riesgo realizado por la Corporación Nacional de Incendios Forestales, asociado a lascondiciones de meteorológicas predominantes para los próximos días en la Región de Valparaíso, se prevéun aumento de la probabilidad de ignición y propagación de incendios forestales en la región.En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPREDdeclara Alerta Temprana Preventiva Regional, a excepción de la Provincia de Isla de Pascua y la comuna deJuan Fernández, por Amenaza de Incendios Forestales, vigente a contar de hoy y hasta que las condicionesasí lo ameriten.</p><p>La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante elmonitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a laamenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el finde actuar oportunamente frente a eventuales situaciones de emergencia.<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

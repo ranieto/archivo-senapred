@@ -1,0 +1,20 @@
+{
+	"id": "dab75812-6d5a-4764-b386-f30cf2f81afa",
+	"type": "Alerta",
+	"titulo": " Se declara Alerta Roja para la comuna de Copiapó por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-08-04T19:17:22.622Z",
+	"updatedAt": "2025-08-04T19:24:17.269Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-copiapo-por-incendio-forestal",
+	"parentId": "34cffd8d-1aa6-4267-858e-7b2d96c88ff4",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:15px\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"font-size:15px\">respecto al incendio forestal en la&nbsp;<strong>comuna de Copiapó </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong><span style=\"font-size:15px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:15px\">Rafael Zorraindo</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Estado</span></strong></p></td><td><p><span style=\"font-size:15px\">En combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:15px\">0,01</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:15px\">Incendio se desarrolla   cercano a sectores habitadfos, afectando matorrales y arbolado urbano</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la comuna de Copiapó por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

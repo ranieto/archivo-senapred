@@ -1,0 +1,20 @@
+{
+	"id": "1ad39f8b-1f9c-4992-a502-353dbb5e302e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por desborde para las comunas de Los Sauces y Angol y se cancela Alerta Amarilla por crecida",
+	"fechaHora": "2025-08-03T08:45:00.000-04:00",
+	"createdAt": "2025-08-03T14:24:22.863Z",
+	"updatedAt": "2025-08-06T16:02:34.124Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-los-sauces-y-angol-por-crecida",
+	"parentId": "4e2d96f2-0a24-43f0-917a-b88b9974cf1e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Angol, Los Sauces\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por la Dirección General de Aguas (DGA), mediante su sistema de reporte en línea de las estaciones de la Red Fluviométrica, se indica que la estación<strong>“Río Rahue en Quebrada Culén”</strong>ha aumentado su umbral de alerta a<strong>roja</strong>, el cual, si continúa aumentando el caudal, podría ocasionar afectación a personas y daños en infraestructuras de la comuna.</p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, la Dirección Regional del SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional,&nbsp;<strong>declara Alerta Roja para las comunas de Los Sauces y Angol por desborde y cancela la Alerta Amarilla por crecida,</strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align: justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align: justify\"><span style=\"color: black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

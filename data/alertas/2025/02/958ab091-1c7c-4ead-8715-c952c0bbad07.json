@@ -1,0 +1,20 @@
+{
+	"id": "958ab091-1c7c-4ead-8715-c952c0bbad07",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de Victoria por incendio forestal",
+	"fechaHora": "2025-02-27T18:20:13.1313-03:00",
+	"createdAt": "2025-02-27T21:27:37.017Z",
+	"updatedAt": "2025-02-28T02:04:43.506Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-victoria-por-incendio-forestal-2",
+	"parentId": "ddc97888-87e0-4f50-9ad6-a0b1d5239332",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Victoria\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información técnica proporcionada por Conaf, respecto a los incendios forestales en la comuna de Victoria, se informa el siguiente detalle:<br></p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Reducción Sánchez</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>57 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><strong>Bomberos:</strong></p><p>Cuerpo de Bomberos de Victoria</p><p><strong>Conaf:</strong></p><p>7 brigadas, 2 técnicos, 2 aviones cisterna y 2 helicópteros</p><p></p></td></tr></tbody></table></div><div><br></div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Huillinlebu 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>628 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p><strong>Conaf:</strong></p><p>3 técnicos</p><p>1 avión cisterna</p><p>1 puesto de comando</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Victoria, por incendio forestal, que se encuentra vigente desde el 25 de febrero de 2025.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9ab8da7f-a688-49f9-abdd-55a01792a7c4",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Lautaro por incendio forestal",
+	"fechaHora": "2024-01-25T20:31:09.099-03:00",
+	"createdAt": "2024-01-25T23:31:55.051Z",
+	"updatedAt": "2024-01-25T23:32:10.838Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lautaro-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\"Camino La Colonia \"</span>, en la comuna de Lautaro, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Camino La Colonia</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>390 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal   controlado, por lo que no presenta amenaza ni avance a centros poblados.</p></td></tr></tbody></table><p><span style=\"color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja para la Comuna de Lautaro, por incendio forestal,</strong> que se mantuvo vigente desde el 24 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

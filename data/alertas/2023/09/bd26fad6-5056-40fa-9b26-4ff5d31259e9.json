@@ -1,0 +1,20 @@
+{
+	"id": "bd26fad6-5056-40fa-9b26-4ff5d31259e9",
+	"type": "Alerta",
+	"titulo": "Actualización Alerta Temprana Preventiva para la región de ohiggins por evento meteorológico",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-21T19:06:49.823Z",
+	"updatedAt": "2023-09-21T19:07:45.920Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-evento-meteorologico",
+	"parentId": "4b9de811-0d0b-420b-9cdc-afa824ecdfa5",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Déficit Hídrico - Sequía\",\"nombreImg\":\"sequia.png\"}",
+	"contenido": "<p>Se actualiza informacion de orden</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "33c79bdb-3447-4f67-9a7f-eb7789efeec5"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b7252687-6edd-42f6-8414-b6c2ec58804f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de San Pablo por incendio forestal",
+	"fechaHora": "2024-01-31T15:21:00.000-03:00",
+	"createdAt": "2024-01-31T18:39:33.333Z",
+	"updatedAt": "2024-02-01T02:27:36.261Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-pablo-por-incendio-forestal",
+	"parentId": "48fb0b47-822d-4715-a1af-c0179e6acf7c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa el siguiente detalle respecto del incendio forestal</span> “<span style=\"color: black\">Quillipulli 2”, en la comuna de San Pablo:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quillipulli 2</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>18 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Al momento, el   incendio presenta actividad al interior del área quemada, sin propagación.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Trabajan en el   lugar Bomberos de San Pablo y Osorno; 2 Brigadas y 1 técnico de CONAF.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Roja para la Comuna de San Pablo, por incendio forestal</strong>, que se encuentra vigente desde el 30 de enero de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,23 @@
+{
+	"id": "aea9b7e0-0966-47f6-b103-df2c4306317e",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad entre las regiones de Valparaíso y Biobío   ",
+	"fechaHora": "2024-11-03T01:10:59.5959-03:00",
+	"createdAt": "2024-11-03T04:12:59.234Z",
+	"updatedAt": "2024-11-03T04:17:52.905Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-maule-6",
+	"parentId": "092aebce-9c72-474e-bc75-3e072266c1f4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369",
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región del Maule, Región de Ñuble, Región del Biobío\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 01:05 horas entre las regiones de Valparaíso y Biobío. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Valparaíso </strong></p></td></tr><tr><td><p>Zapallar: </p></td><td><p>II</p></td></tr><tr><td><p>San Antonio: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Cerro Navia: </p></td><td><p>III</p></td></tr><tr><td><p>Melipilla: </p></td><td><p>III</p></td></tr><tr><td><p>San José de Maipo: </p></td><td><p>II</p></td></tr><tr><td><p>La Florida: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Libertador Bernardo   O'Higgins </strong></p></td></tr><tr><td><p>Machalí­: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Maule </strong></p></td></tr><tr><td><p>Talca: </p></td><td><p>III</p></td></tr><tr><td><p>Cauquenes: </p></td><td><p>III</p></td></tr><tr><td><p>Iloca: </p></td><td><p>III</p></td></tr><tr><td><p>Villa Alegre: </p></td><td><p>III</p></td></tr><tr><td><p>Constitución: </p></td><td><p>III</p></td></tr><tr><td><p>Pelarco: </p></td><td><p>III</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Biobío </strong></p></td></tr><tr><td><p>Santa Juana: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región: Ñuble </strong></p></td></tr><tr><td><p>Trehuaco: </p></td><td><p>III</p></td></tr><tr><td><p>Quillón: </p></td><td><p>II</p></td></tr><tr><td><p>Coelemu: </p></td><td><p>II</p></td></tr></tbody></table>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

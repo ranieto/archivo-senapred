@@ -1,0 +1,20 @@
+{
+	"id": "521a3e10-66f1-4346-99c1-584820594757",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Temprana Preventiva para la Región de Arica y Parinacota por evento meteorológico",
+	"fechaHora": "2025-06-26T07:56:00.000-04:00",
+	"createdAt": "2025-06-26T11:58:14.601Z",
+	"updatedAt": "2025-06-30T12:54:25.265Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-arica-y-parinacota-por-evento-meteorologico-3",
+	"parentId": "e1290fd0-59b3-499e-bf8b-bd59ae3b9379",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Arica y Parinacota:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA53-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento moderado a fuerte   (entre 60 y 80, con rachas de 90 km/h) con desarrollo de viento blanco en   cordillera de la región.</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">25-06</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">26-06</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que se ha cancelado el Aviso A238-1/2025, que pronosticó la ocurrencia de Precipitaciones normales a moderadas en sectores de litoral, cordillera de la costa, pampa y precordillera de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dichas variables, y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva Regional por evento meteorológico</strong>,que se mantiene vigente desde el 23 de junio de 2025 y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

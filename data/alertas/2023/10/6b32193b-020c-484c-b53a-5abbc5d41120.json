@@ -1,0 +1,20 @@
+{
+	"id": "6b32193b-020c-484c-b53a-5abbc5d41120",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Coelemu por inundación",
+	"fechaHora": "2023-06-13T17:19:00.000-04:00",
+	"createdAt": "2023-10-26T01:56:55.732Z",
+	"updatedAt": "2023-10-26T01:56:55.732Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-comuna-de-coelemu-por-inundacion",
+	"parentId": "4948bb02-ec77-4338-8509-7d899e521a79",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Itata\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Coelemu\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Ñuble, en relación con la inundación reportada en el sector Perales, comuna de Coelemu, derivada de las pasadas marejadas y la obstrucción de las desembocaduras de los esteros Los Leones y Perales, se informa que no se han registrados nuevos daños a los ya reportados, por lo que se mantienen 3 viviendas y 1 local comercial con daños en evaluación.<br><br>Asimismo, se mantienen trabajos de maquinaria pesada y gestiones de prevención para evitar la exposición de personas y superar las situaciones de emergencias derivadas de este evento.<br><br>En consideración a estos antecedentes y en coordinación con la Delegación Presidencial de Ñuble, la Dirección Regional del SENAPRED mantiene la Alerta Roja, para la comuna de Coelemu, por inundación, que se encuentra vigente desde el 06 de junio y hasta que las condiciones así lo ameriten.<br><br>Personal municipal realizó una evacuación preventiva de 10 viviendas ubicadas en el sector Perales, correspondiente a la comunidad que mantenía mayor vulnerabilidad, y que, una vez finalizado el proceso, retornaron a sus hogares. Dicha evacuación fue apoyada por Carabineros, Bomberos y personal de salud, además, fue habilitado un albergue en la “Escuela Perales” del cual no fue necesaria su utilización durante la evacuación.<br><br>Respecto a la interrupción de tránsito en la Ruta N-14-O, para evitar el ingreso al sector Perales, este ya se encuentra restablecido, dando paso al normal tránsito de vehículos.<br><br>A partir del 7 de junio, se retomaron los trabajos de restitución de dunas y canalización del Estero Perales, los cuales se habían visto interrumpidos producto del desarrollo de marejadas anormales y la inexistencia de arena de playa por efecto de estas. A la fecha, las aguas del estero de encuentran evacuando de forma normal.<br><br>Los trabajos con maquinaria pesada continúan en el sector, con el fin de construir una barrera de material pétreo que permita mitigar los efectos de las marejadas, de acuerdo con las directrices entregadas por la Dirección de Obras Portuarias.<br><br>Carabineros se mantuvo desplegado con equipos locales en el sector, para reforzar las medidas preventivas y evitar la exposición de personas en la zona afectada.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

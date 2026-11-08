@@ -1,0 +1,20 @@
+{
+	"id": "e97201cd-5f0d-4f51-b75a-9ef9d90138b4",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Roja para la Región del Maule por calor extremo",
+	"fechaHora": "2026-01-16T13:41:33.3333-03:00",
+	"createdAt": "2026-01-16T16:42:50.157Z",
+	"updatedAt": "2026-01-20T11:49:50.926Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-del-maule-por-calor-extremo-2026-01-16-10-16-37",
+	"parentId": "0ca85764-a8c3-4f87-96f8-fde42a4195ba",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> se encuentran vigentes los siguientes alertamientos meteorológicos para la Región del Maule:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA10-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de   altas temperaturas extremas en cordillera de la costa, valle y precordillera   (entre 33 y 37 °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">19-01</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A16-5</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas   temperaturas en cordillera de la costa, valle y precordillera (entre 30 y 34   °C).</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">16-01</span></p></td><td><p style=\"text-align:center\"><span style=\"color:black\">18-01</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED actualiza la Alerta Roja Regional por calor extremo, que se encuentra vigente desde hoy 16 de enero y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Con la actualización de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p><p style=\"text-align:justify\"><em><strong><span style=\"color: black\">SENAPRED </span></strong><span style=\"color: black\">recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del calor extremo, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></em></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

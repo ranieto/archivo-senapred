@@ -1,0 +1,20 @@
+{
+	"id": "9906de1d-1e79-4ad2-aa90-53313f56ea9d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Ránquil por incendio forestal ",
+	"fechaHora": "2025-12-17T10:48:00.000-03:00",
+	"createdAt": "2025-12-17T13:54:32.219Z",
+	"updatedAt": "2025-12-17T13:54:57.520Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ranquil-por-incendio-forestal-2025-12-16-20-22-44",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Ránquil, </strong>se informa el siguiente detalle:</p><p style=\"text-align:justify\"><br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Conuco XVI</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6.46</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Ránquil, 2 Brigadas de CONAF y 1   CONAF</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para la comuna de Ránquil con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF, que señala lo siguiente:</p><p style=\"text-align:justify\">Nombre del incendio: Conuco XVI</p><p style=\"text-align:justify\">Sector: Rahuil</p><p style=\"text-align:justify\">Superficie: 6.45 hectáreas</p><p style=\"text-align:justify\">Justificación de la cancelación: Se ha producido la disminución de las condiciones que originaron la declaración. Además, el incendio forestal ya no representa cercanía a sectores habitados y se encuentra contenido.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

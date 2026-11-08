@@ -1,0 +1,19 @@
+{
+	"id": "d8d06f3c-d7f3-464a-97cb-229a299ce05b",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Valparaíso",
+	"fechaHora": "2024-01-26T03:24:57.5757-03:00",
+	"createdAt": "2024-01-26T06:25:32.983Z",
+	"updatedAt": "2024-01-26T06:29:19.105Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-valparaiso-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p><span style=\"font-size:16px\">Un sismo de mediana intensidad se percibió a las 03:22 horas en la Región de Valparaíso.</span></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Valparaíso </strong></p></td></tr><tr><td><p>Quillota:   </p></td><td><p>V</p></td></tr></tbody></table><p style=\"margin-left:0cm\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

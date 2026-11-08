@@ -1,0 +1,20 @@
+{
+	"id": "20f65cb5-1f43-4e58-abf0-dff0ed780b97",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Valparaíso por incendio forestal",
+	"fechaHora": "2024-02-02T15:10:00.000-03:00",
+	"createdAt": "2024-02-02T18:20:39.581Z",
+	"updatedAt": "2024-03-14T16:03:03.504Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-5",
+	"parentId": "ad403194-000e-4bda-9ab1-7402111643d9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Valparaíso\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(33, 37, 41)\"><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>,</span><span style=\"color: rgb(33, 37, 41)\">&nbsp;respecto al incendio forestal en la comuna de Valparaíso, se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Complejo Las Tablas - Reserva Lago Peñuelas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>30 hectáreas</div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación   técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio forestal se encuentra al interior de la Reserva Nacional Lago Peñuelas. Además, se informa de la interrupción de tránsito en la Ruta 68 y Ruta F-718, entre el Cruce Melosilla y el Cruce Las Tablas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos   involucrados</strong></p></td><td><div>Bomberos de Valparaíso, 7 brigadas de CONAF, 4 técnicos de CONAF, 4 aeronaves cisterna de CONAF, 3 helicópteros de CONAF, 1 avión de CONAF, 1 puesto de mando de CONAF,&nbsp;mientras que los siguientes recursos se encuentran en trayecto: 3 brigadas de CONAF, 3 camiones cisterna de CONAF y 1 avión de coordinación de CONAF</div></td></tr></tbody></table></div><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><div>Camino Las Docas<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><div>En combate<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>5 hectáreas<br></div></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><div>Bomberos de Valparaíso, 8 brigadas de CONAF, 1 técnico de CONAF, 3 aviones de CONAF, 3 helicópteros de CONAF y Carabineros&nbsp;</div></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color: rgb(33, 37, 41)\"><br></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(33, 37, 41)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene </span>Alerta Roja para la comuna de Valparaíso por incendio forestal<span style=\"color: rgb(33, 37, 41)\">, que se encuentra vigente desde el 02 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

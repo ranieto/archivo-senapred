@@ -1,0 +1,20 @@
+{
+	"id": "8f8d07ee-7709-4022-8c97-e0f5564cf8e7",
+	"type": "Alerta",
+	"titulo": "Ser cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2024-06-14T18:41:00.000-04:00",
+	"createdAt": "2024-06-14T22:48:41.813Z",
+	"updatedAt": "2024-06-14T22:48:56.250Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-12",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: rgb(36, 36, 36)\">De acuerdo con la </span><strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong><span style=\"color: rgb(36, 36, 36)\"> y debido al debilitamiento de las condiciones meteorológicas que lo originaron, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes:</span><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\"><span style=\"color:#242424\">Aviso A207-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:#242424\">Viento normal a moderado en cordillera austral sur, insular central y   pampa patagónica sur.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:#242424\">&nbsp;</span><span style=\"color: black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED,&nbsp;</span><strong>cancela la Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento,&nbsp;</strong><span style=\"color: black\">que se mantenía vigente desde el 10 de junio.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

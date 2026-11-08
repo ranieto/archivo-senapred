@@ -1,0 +1,19 @@
+{
+	"id": "62b93ccd-e2ef-425f-9e8f-72d1d1be7775",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Los Lagos",
+	"fechaHora": "2025-02-06T09:27:40.4040-03:00",
+	"createdAt": "2025-02-06T12:28:19.764Z",
+	"updatedAt": "2025-02-06T12:31:05.997Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-los-lagos-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 09:22 horas en la Región de Los Lagos. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Los Lagos </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Castro: </span></p></td><td><p><span style=\"font-size:16px\">V</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Puqueldón: </span></p></td><td><p><span style=\"font-size:16px\">V</span></p></td></tr><tr><td><p><span style=\"font-size:16px\">Quemchi: </span></p></td><td><p><span style=\"font-size:16px\">IV</span></p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

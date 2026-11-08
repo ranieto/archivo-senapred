@@ -1,0 +1,20 @@
+{
+	"id": "c04a8a97-5fd9-40b2-ba13-6a9e5028bece",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Aysén por viento",
+	"fechaHora": "2024-07-30T16:34:00.000-04:00",
+	"createdAt": "2024-07-30T21:00:46.108Z",
+	"updatedAt": "2024-08-04T16:29:38.580Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-aysen-por-viento",
+	"parentId": "97fb7278-ebfb-4e08-bddb-734978dfd05a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"5fb6896c-8ec7-4989-878c-06e2e84a26cd"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Aysén del Gral. Carlos Ibañez del Campo\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente el siguiente alertamiento meteorológico para la Región de Aysén:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA67 </p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte en la zona insular norte de la región.</p></td><td><p style=\"text-align:center\">01-08</p></td><td><p style=\"text-align:center\">01-08</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A285-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en la zona insular norte de la región.</p></td><td><p style=\"text-align:center\">31-07</p></td><td><p style=\"text-align:center\">01-08</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, según lo indicado en la Alerta Meteorológica, emitida durante la jornada de hoy, se esperan los siguientes montos de viento (km/h) en la región:</span></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Sector</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Jueves 01 de agosto</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Insular   norte</p></td><td><p style=\"text-align:center\">60   y 80 con rachas de 110</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Aysén, la Dirección Regional de SENAPRED <strong>declara Alerta Temprana Preventiva regional por viento</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la población informarse sobre las condiciones del tiempo; y alejarse del tendido eléctrico, grandes árboles y carteles publicitarios, ya que podrían colapsar debido al viento.</span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "d37b4368-2a0c-4cad-9248-9901104713a6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Vichuquén por incendio forestal",
+	"fechaHora": "2025-01-10T19:28:32.3232-03:00",
+	"createdAt": "2025-01-10T22:32:29.688Z",
+	"updatedAt": "2025-01-12T00:20:30.652Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-vichuquen-por-incendio-forestal",
+	"parentId": "7a0ef0c6-d6f1-4e9d-b4bc-81105b10efe9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal con comportamiento extremo: velocidad de propagación Alta y&nbsp;longitud de llama Alta.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Los Brujos Norte</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>Vichuquén</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>24 hectáreas</div></td></tr><tr><td><div>Recursos</div></td><td><div>Compañía de Bomberos de Llico, Hualañe y Vichuquén.</div><div>6 brigadas, 2 técnicos, 4 helicópteros y 3 aviones de CONAF.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Vichuquén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

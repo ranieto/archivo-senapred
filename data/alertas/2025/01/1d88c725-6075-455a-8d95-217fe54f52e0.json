@@ -1,0 +1,20 @@
+{
+	"id": "1d88c725-6075-455a-8d95-217fe54f52e0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la provincia de Malleco por calor intenso",
+	"fechaHora": "2025-01-13T10:32:31.3131-03:00",
+	"createdAt": "2025-01-13T13:34:04.041Z",
+	"updatedAt": "2025-01-13T13:34:12.403Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-malleco-por-calor-intenso-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo <strong>con la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>han sido cancelados los siguientes alertamientos meteorológicos asociados a la variable de altas temperaturas en la Región de La Araucanía:</p><div><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Alerta AA2</p></td><td><p style=\"text-align: justify\">Altas temperaturas extremas en la provincia de Malleco</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A10</p></td><td><p style=\"text-align: justify\">Altas temperaturas en la provincia de Malleco</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía,&nbsp;</span><span style=\"color: black\">la&nbsp;</span><span style=\"color: black\">Dirección Regional del SENAPRED&nbsp;</span><strong><span style=\"color: black\">cancela la Alerta Amarilla por calor intenso para la provincia de Malleco,&nbsp;</span></strong><span style=\"color: black\">que se mantuvo vigente desde el 10 de enero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "9d65279e-0a93-46e6-9b7c-27de00ec7e1f",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Coihueco, Pinto, Chillán y Chillán Viejo por crecida",
+	"fechaHora": "2023-09-10T20:49:00.000-03:00",
+	"createdAt": "2023-09-11T00:05:06.652Z",
+	"updatedAt": "2023-10-26T01:51:16.248Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-coihueco-pinto-chillan-y-chillan-viejo-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De </span><span style=\"font-size: 15px\">acuerdo con <strong>la información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación </span><span style=\"font-size: 15px\">hidrométrica “Río Chillán en Esperanza 2”, ha sobrepasado el umbral </span><span style=\"font-size: 15px\">de alertamiento técnico amarillo de la DGA.</span><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla</strong> para las comunas de Coihueco, Pinto, Chillán y Chillán Viejo por crecida, vigente desde hoy y hasta que las condiciones así lo ameriten. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

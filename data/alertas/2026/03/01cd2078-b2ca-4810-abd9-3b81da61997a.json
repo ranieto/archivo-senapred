@@ -1,0 +1,20 @@
+{
+	"id": "01cd2078-b2ca-4810-abd9-3b81da61997a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2026-03-25T14:53:50.5050-03:00",
+	"createdAt": "2026-03-25T17:55:05.136Z",
+	"updatedAt": "2026-03-25T17:55:40.300Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-evento-meteorologico-2026-03-11-16-02-01",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento para la Región de Los Lagos:<br><br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A150</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en litoral, cordillera de la costa, valle,   precordillera, Chiloé y litoral interior.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\"><br>Cabe señalar, que el informe de Amenaza Meteorológica de la DMC, emitido durante la presente jornada, pronostica montos de precipitaciones débiles para los próximos días.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico,</strong> que se mantenía vigente desde el 11 de marzo.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

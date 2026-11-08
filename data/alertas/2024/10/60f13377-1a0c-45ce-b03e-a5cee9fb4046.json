@@ -1,0 +1,20 @@
+{
+	"id": "60f13377-1a0c-45ce-b03e-a5cee9fb4046",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por evento masivo",
+	"fechaHora": "2024-10-28T00:16:59.5959-03:00",
+	"createdAt": "2024-10-28T03:17:24.730Z",
+	"updatedAt": "2024-10-28T03:18:35.766Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta</strong>, han finalizado las “Elecciones Generales de Gobernador Regional, Consejeros Regionales, Alcaldes y Concejales 2024”, desarrolladas entre los días 26 y 27 de octubre, sin reportarse situaciones relevantes de emergencia. Lo anterior, supone una disminución de la vulnerabilidad a distintas variables de riesgo ante eventuales emergencias.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo,</strong> que se mantuvo vigente desde el 24 de octubre de 2024. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

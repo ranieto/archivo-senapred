@@ -1,0 +1,20 @@
+{
+	"id": "89831604-3d58-486b-97d4-c2f8d6ead48e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las provincias de Valparaíso y Marga Marga por incendio forestal",
+	"fechaHora": "2024-03-15T21:05:00.000-03:00",
+	"createdAt": "2024-03-16T00:50:47.869Z",
+	"updatedAt": "2024-03-17T00:48:48.530Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-valparaiso-por-incendio-forestal-5",
+	"parentId": "76b77de1-050e-4c20-93a4-083b9855302d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Valparaíso, Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por CONAF,</strong> el incendio forestal \"Cerro Cordillera\" que sedesarrolló en la comuna de Valparaíso se encuentra extinguido con una superficie de 1.8 hectáreas.Cabe destacar, que a raíz este evento se registraron 32 personas damnificadas, 16 viviendas, 1 Junta deVecinos y 1 Club Deportivo destruidos, además 6 voluntarios de Bomberos resultaron lesionados, los que fuerontrasladados hasta el IST de Viña del Mar, para su atención médica.<br></p><p><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Nombre del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Cerro Cordillera</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Extinguido</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">1.8 hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Recursos</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">Trabajaron durante la presente jornada: 01   técnico, 03 brigadas y 01 camión aljibe de CONAF, equipo</span></p><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">SENAPRED Valparaíso en terreno, equipo comunal   social y de GRD de la I. Municipalidad de Valparaíso,</span></p><p style=\"text-align:justify\"><span style=\"font-size:18px;font-family:Roboto;color:#212529\">personal Armada de Chile, personal Ejército de   Chile y Carabineros.</span></p></td></tr></tbody></table><p><br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinacióncon la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la AlertaRoja para las Provincias de Valparaíso y Marga Marga, por incendio forestal, que se encuentra vigente desde el02 de febrero de 2024.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

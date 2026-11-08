@@ -1,0 +1,20 @@
+{
+	"id": "d5a57e89-d1ae-4868-867c-6bec8d1d25bb",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Lolol por incendio forestal",
+	"fechaHora": "2025-01-21T18:48:00.000-03:00",
+	"createdAt": "2025-01-21T22:11:04.222Z",
+	"updatedAt": "2025-01-21T22:11:58.458Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lolol-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Colchagua\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Lolol\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Lolol se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">La Huertilla</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">12   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Paredones, Lolol, Santa Cruz, Pumanque, 4 Brigada, 1 Helicóptero</p><p style=\"text-align:justify\">Recursos   en trayecto: 5 técnicos, 1 Skidder, 1 Puesto Mando y 2 Camion Aljibe</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Lolol (ATR 25), por incendio forestal, que se mantuvo vigente desde el 21 de enero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

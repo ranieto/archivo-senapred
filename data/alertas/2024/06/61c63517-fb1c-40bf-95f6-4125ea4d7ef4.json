@@ -1,0 +1,20 @@
+{
+	"id": "61c63517-fb1c-40bf-95f6-4125ea4d7ef4",
+	"type": "Alerta",
+	"titulo": "Se Actualiza Alerta Amarilla para la comuna de Collipulli por amenaza de desborde",
+	"fechaHora": "2024-06-13T19:20:00.000-04:00",
+	"createdAt": "2024-06-13T23:35:14.608Z",
+	"updatedAt": "2024-06-16T02:12:00.894Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-collipulli-por-amenaza-desborde",
+	"parentId": "a884c82d-0820-4507-95e4-d741f3b3f5a3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Collipulli\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Renaico en Longitudinal”, ha alcanzado los valores del umbral de Alerta Amarilla, en tanto la estación hidrométrica del “Río Mininco en Longitudinal”, se mantiene en el mismo umbral. Lo anterior, <span style=\"color: black\">supone un aumento del riesgo asociado a dicha variable, pues si el caudal aumenta puede llegar a producir daños en sectores poblados e infraestructura.</span><br></p><p style=\"text-align:justify\">En consideración a este antecedente la Dirección Regional del SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional, <strong>Actualiza Alerta Amarilla por amenaza de desborde para la comuna de Collipulli,</strong> la que se mantiene vigente desde el 12 de junio y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la actualización de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

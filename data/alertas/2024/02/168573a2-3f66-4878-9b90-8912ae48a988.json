@@ -1,0 +1,20 @@
+{
+	"id": "168573a2-3f66-4878-9b90-8912ae48a988",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Porvenir por evento masivo",
+	"fechaHora": "2024-02-05T20:44:07.077-03:00",
+	"createdAt": "2024-02-05T23:45:11.511Z",
+	"updatedAt": "2024-02-05T23:46:12.330Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-porvenir-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Tierra del Fuego\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Porvenir\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Magallanes, finalizó el evento “XXI Versión Asado Internacional Más Grande de Tierra del Fuego” en la comuna de Porvenir, sin reportarse situaciones de emergencia derivadas del desarrollo de esta actividad.<br></p><p>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de Porvenir por evento masivo, que se mantuvo vigente desde el 02 de febrero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

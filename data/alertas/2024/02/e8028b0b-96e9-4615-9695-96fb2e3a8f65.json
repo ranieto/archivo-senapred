@@ -1,0 +1,20 @@
+{
+	"id": "e8028b0b-96e9-4615-9695-96fb2e3a8f65",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la Provincia de Melipilla por incendio forestal ",
+	"fechaHora": "2024-02-03T15:05:57.5757-03:00",
+	"createdAt": "2024-02-03T18:06:43.292Z",
+	"updatedAt": "2024-02-05T23:40:37.254Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-melipilla-por-incendio-forestal-2",
+	"parentId": "f1b035ea-1509-4751-a2e6-7d39a85ac835",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo c</span></strong><span style=\"color: black\">on<strong>el análisis técnico realizado por CONAF</strong>, existe una simultaneidad de incendios forestales activos en la provincia de Melipilla.</span><br></p><p><span style=\"color: black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Provincia de Melipilla por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"color: black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

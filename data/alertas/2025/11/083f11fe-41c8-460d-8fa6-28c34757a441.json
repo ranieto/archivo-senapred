@@ -1,0 +1,20 @@
+{
+	"id": "083f11fe-41c8-460d-8fa6-28c34757a441",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Combarbalá por incendio forestal",
+	"fechaHora": "2025-11-17T18:23:50.5050-03:00",
+	"createdAt": "2025-11-17T21:25:34.981Z",
+	"updatedAt": "2025-11-18T01:24:30.776Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-combarbala-por-incendio-forestal-2",
+	"parentId": "a61131e5-e16e-4d65-aaa5-ba54edf7e7f4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED,</strong> se reporta un incendio forestal con el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Mal Paso</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01ha</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos Cuerpo de bomberos de Bomberos El Palqui</p><p>Cuerpo de bomberos de Bomberos Combarbalá</p><p>Brigadas 2 Brigadas CONAF</p><p>Técnicos 1 Técnico de CONAF</p><p>Otros recursos 2 Camión de Combate CONAF</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED<strong> declara Alerta Roja para la comuna de Combarbalá por incendio forestal,</strong> vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

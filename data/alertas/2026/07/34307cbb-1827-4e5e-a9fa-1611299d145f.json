@@ -1,0 +1,20 @@
+{
+	"id": "34307cbb-1827-4e5e-a9fa-1611299d145f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Villarrica por evento meteorológico ",
+	"fechaHora": "2026-07-03T13:40:00.000-04:00",
+	"createdAt": "2026-07-03T23:26:02.936Z",
+	"updatedAt": "2026-07-03T23:26:29.318Z",
+	"urlAccess": "se-cancela-alerta-amarilla-y-declara-alerta-roja-para-la-comuna-de-villarrica-por-evento-meteorologico-2026-07-01-18-54-28",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado los siguientes alertamientos meteorológicos para la Región de La Araucanía, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA81-2</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte para la zona de precordillera y cordillera de la región de   La Araucanía.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A285-3</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado (Raco, puelche, dirección Este) en litoral, cordillera de   la costa, precordillera y cordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A292</p></td><td><p style=\"text-align:justify\">Heladas   normales a moderadas en zona de valle de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial de la Región de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Amarilla por evento meteorológico para la comuna de Villarrica</strong>, que se mantuvo vigente desde el 02 de julio del 2026.</p><p style=\"text-align:justify\">Cabe señalar que la región mantiene 36.361 clientes sin energía eléctrica, con las comunas de Pucón y Villarrica como las más afectadas.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

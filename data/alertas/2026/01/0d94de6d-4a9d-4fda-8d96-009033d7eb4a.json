@@ -1,0 +1,20 @@
+{
+	"id": "0d94de6d-4a9d-4fda-8d96-009033d7eb4a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Pinto por Incendio forestal",
+	"fechaHora": "2026-01-17T12:04:00.000-03:00",
+	"createdAt": "2026-01-17T15:15:32.167Z",
+	"updatedAt": "2026-01-17T19:04:23.567Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pinto-por-incendio-forestal-2026-01-11-13-18-30",
+	"parentId": "b7573f95-1d17-4372-aed6-230650a3131d",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de <strong>Pinto</strong>; se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>238 - El Cardal</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>80 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Pinto y 3 Brigadas CONAF.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Reserva Ñuble</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>36.2 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>2 Brigadas terrestres CONAF, 3 técnicos CONAF, 3   Helicópteros CONAF, 1 Camión de combustible y 1 Ambulancia ACHS.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Se habilita la Escuela José Tohá de la comuna de Pinto   como centro de pernoctación, para los brigadistas en terreno</p></td></tr></tbody></table><p><br> La Dirección Regional de SENAPRED actualiza Alerta Roja por Incendio forestal para la comuna de Pinto con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "2638a99b-14cc-48e2-a37d-9e3f4dd4535c",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Malloa por incendio forestal",
+	"fechaHora": "2025-01-20T17:05:00.000-03:00",
+	"createdAt": "2025-01-20T20:26:22.410Z",
+	"updatedAt": "2025-01-22T01:31:13.014Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-malloa-por-incendio-forestal",
+	"parentId": "83455b11-b031-454e-b030-85bf01134df3",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cachapoal\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Malloa\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Malloa se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Los Maquis</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">70   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Malloa: 1 y 5; Vehículos: BX1, BX5, 1 Técnicos Técnico, 2 aviones cisterna.</p><p style=\"text-align:justify\">Recursos   en trayecto: 5 Brigadas, 1 Puesto   Mando y 1 Helicóptero</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes, la Dirección Regional de SENAPRED O'Higgins, en Coordinación con CONAF, declara Alerta Amarilla para la comuna de Malloa por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

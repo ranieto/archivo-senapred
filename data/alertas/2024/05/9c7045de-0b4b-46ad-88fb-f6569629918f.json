@@ -1,0 +1,20 @@
+{
+	"id": "9c7045de-0b4b-46ad-88fb-f6569629918f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Cabo de Hornos y las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2024-05-14T21:34:40.4040-04:00",
+	"createdAt": "2024-05-15T01:36:11.533Z",
+	"updatedAt": "2024-05-16T13:25:14.987Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-cabo-de-hornos-y-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Magallanes, Tierra del Fuego, Antártica Chilena\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Cabo de Hornos\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A153/2024 que pronosticó la ocurrencia de viento normal a moderado en zonas de la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED, Cancela Alerta Temprana Preventiva para la comuna de Cabo de Hornos y las provincias de Magallanes y Tierra del Fuego por viento, que se encontraba vigente desde el 13 de mayo del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

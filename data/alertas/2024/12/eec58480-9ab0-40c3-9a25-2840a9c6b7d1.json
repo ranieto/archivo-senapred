@@ -1,0 +1,20 @@
+{
+	"id": "eec58480-9ab0-40c3-9a25-2840a9c6b7d1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la Comuna de Castro por incendio forestal",
+	"fechaHora": "2024-12-15T18:21:17.1717-03:00",
+	"createdAt": "2024-12-15T21:24:46.467Z",
+	"updatedAt": "2024-12-17T03:43:00.816Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-castro-por-incendio-forestal-2",
+	"parentId": "7df70fc0-e45c-4175-b690-2d4b039c59b9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Castro, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></a></p></td><td><p style=\"text-align:justify\">El   Polvorín</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2.16   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observación</strong></p></td><td><p style=\"text-align:justify\">Producto   de este incendio, a las 20:16 horas de ayer 14 de diciembre, se envía   mensajería SAE para la sector Villa Mirador 5, en la comuna de Castro, por lo   que un total de 100 personas fueron evacuadas de sus viviendas, quienes el   día de ayer retornaron en buenas condiciones a sus hogares.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>cancela la Alerta Roja y declara Alerta Amarilla para la Comuna de Castro por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

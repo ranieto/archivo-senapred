@@ -1,0 +1,20 @@
+{
+	"id": "cf3558b2-a6d0-4088-a171-d34bb45fa712",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Nogales por incendio forestal",
+	"fechaHora": "2026-02-13T16:51:46.4646-03:00",
+	"createdAt": "2026-02-13T19:59:23.107Z",
+	"updatedAt": "2026-02-13T21:33:43.369Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-nogales-por-incendio-forestal-2026-02-13-16-59-06",
+	"parentId": "f47f5d5b-ae95-47af-b211-184e6ddc7c26",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo a la información proporcionada por CONAF y el SINAPRED,</strong> se reporta un incendio forestal con el siguiente detalle:<br><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Sopraval - Nogales</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">2 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Cuerpo de bomberos de Nogales; 3   Brigadas Técnicos 4 técnicos; aeronaves 3 Aviones; 1 helicóptero.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación</strong></p></td><td><p style=\"text-align:justify\">No se reportan afectaciones en   personas ni daños en viviendas en la comuna de Nogales.</p></td></tr></tbody></table><p style=\"text-align:justify\"><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Amarilla para la Comuna de Nogales por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br><br></p><p style=\"text-align:justify\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

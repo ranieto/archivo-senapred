@@ -1,0 +1,20 @@
+{
+	"id": "de69b576-20be-42d0-9fe6-b1ffe6ab9d52",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de O’Higgins por amenaza de incendios forestales",
+	"fechaHora": "2024-01-16T19:32:00.000-03:00",
+	"createdAt": "2024-01-16T22:38:22.176Z",
+	"updatedAt": "2024-01-26T14:16:59.108Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-amenaza-de-incendios-forestales-4",
+	"parentId": "95ab5970-2208-446e-8efb-560474dfde73",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, mediante su aviso meteorológico A5/2024 se prevé un evento de altas temperaturas entre la mañana del jueves 18 y la tarde del sábado 20 de enero 2024, las máximas esperadas se indican según siguiente detalle:</p><p> Miércoles 17 de enero: Valle (30-32 C°) y Precordillera (29-31 C°).</p><p>Jueves 18 de enero: Litoral (19-21 C°), Valle (31-33 C°) y Precordillera (30-32 C°).</p><p>Viernes 19 de enero: Litoral (21-23 C°), Valle (32-34 C°) y Precordillera (31-33 C°). </p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED <strong>actualiza Alerta Temprana Preventiva para la Región de Libertador General Bernardo O'Higgins por amenaza de incendios forestales</strong>, que se mantiene vigente desde el 15 de enero de 2024. </p><p>La actualización de esta alerta, se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</p><p>SENAPRED recomienda a la población mantener los alrededores de viviendas despejados de vegetación y desechos que se puedan quemar; evitar fumar en lugares con vegetación que pueda arder;no encender fogatas ni manipular fuentes de calor en zonas cercanas a vegetación; e informarse a través del Visor Chile Preparado sobre las áreas con mayor riesgo de incendios forestales (https://web.senapred.cl/visor-chile-preparado-2/). En caso de observar humo o fuego en zonas de vegetación avisar a: CONAF (130), Bomberos (132), Carabineros (133) o PDI (134).<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

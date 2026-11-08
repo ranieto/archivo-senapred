@@ -1,0 +1,20 @@
+{
+	"id": "782114cc-da19-453c-8df8-73ad3a1d0101",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2025-01-10T19:48:25.2525-03:00",
+	"createdAt": "2025-01-10T22:50:24.779Z",
+	"updatedAt": "2025-01-10T22:51:01.346Z",
+	"urlAccess": "se-cancela-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio forestal controlado con una superficie de 11.4 hectáreas.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Linares, por incendio forestal, que se mantuvo vigente desde el 10 de enero de 2025.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

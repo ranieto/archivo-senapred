@@ -1,0 +1,20 @@
+{
+	"id": "050ab0c8-c3bd-4054-97f3-9d51f620dc98",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chillán Viejo por incendio Forestal",
+	"fechaHora": "2024-12-18T19:21:21.2121-03:00",
+	"createdAt": "2024-12-18T22:25:32.655Z",
+	"updatedAt": "2024-12-19T00:11:00.078Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-viejo-por-incendio-forestal-2",
+	"parentId": "37501671-7ae5-4d38-a88a-6fa1d3284c6e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de Chillan Viejo con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF, que señala lo siguiente:<br></p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>SAN MIGUEL QUILMO</div></td></tr><tr><td><div>Comuna (sector)</div></td><td><div>TChillán Viejo (Quilmo)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate</div></td></tr><tr><td><div>Superficie</div></td><td><div>0,01 hectáreas</div></td></tr><tr><td><div>Descripción</div></td><td><div>Amenaza inminente a personas, viviendas, centros poblados, población y/o infraestructura crítica.<br></div></td></tr><tr><td><div>Recursos</div></td><td><div>Cuerpo de Bomberos de Chillán, 1 brigada CONAF, 1 aeronave CONAF.</div><div>En trayecto: 5 brigadas CONAF y 3 técnicos CONAF</div></td></tr></tbody></table><p style=\"text-align: justify\">Esta declaración estará vigente a contar de la hora del presente informe y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

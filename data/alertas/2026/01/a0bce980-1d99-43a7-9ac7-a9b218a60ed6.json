@@ -1,0 +1,20 @@
+{
+	"id": "a0bce980-1d99-43a7-9ac7-a9b218a60ed6",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Traiguén por incendio forestal",
+	"fechaHora": "2026-01-13T17:07:27.2727-03:00",
+	"createdAt": "2026-01-13T20:11:41.290Z",
+	"updatedAt": "2026-01-13T21:31:42.439Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-traiguen-por-incendio-forestal-2026-01-13-17-11-24",
+	"parentId": "a0acd0d2-c218-4147-b42b-a9566fc6a59e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Traiguén,&nbsp;</strong>se informa el siguiente detalle:</span></p><p><span style=\"color: rgb(0, 0, 0)\"><br></span></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"color:#000000\">El Valle</span></span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">15 hectáreas</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Cuerpo de Bomberos de Traiguén</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">8 brigadas, 5 técnicos, 4 helicópteros y 4 aviones cisterna CONAF</span></p></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\">Incendio presenta cercanía a sectores habitados.</span></div></td></tr></tbody></table></div><p><span style=\"color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Roja para la Comuna de Traiguén por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

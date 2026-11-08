@@ -1,0 +1,20 @@
+{
+	"id": "13cf802f-db1a-4b92-a0f7-77fbf083f23e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Limache por incendio forestal",
+	"fechaHora": "2025-12-02T18:10:21.2121-03:00",
+	"createdAt": "2025-12-02T21:15:05.896Z",
+	"updatedAt": "2025-12-04T00:19:58.523Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-limache-por-incendio-forestal-2025-12-02-15-44-11",
+	"parentId": "809bced6-d3ee-4afb-8450-f2e84e8adf6f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Marga Marga\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Limache\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a la información proporcionada por CONAF y el SINAPRED, se reporta un incendio forestal con el siguiente detalle:</p><p><br></p><table><tbody><tr><td><p><strong><span style=\"font-size: 15px;color: black\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size: 15px;color: black\">Los Laureles 4</span></p></td></tr><tr><td><p><strong><span style=\"font-size: 15px;color: black\">Estado</span></strong></p></td><td><p><span style=\"font-size: 15px;color: black\">En Combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size: 15px;color: black\">Superficie</span></strong></p></td><td><p><span style=\"font-size: 15px;color: black\">70 [ha]</span></p></td></tr><tr><td><p><strong><span style=\"font-size: 15px;color: black\">Recursos</span></strong></p></td><td><p><span style=\"font-size: 15px;color: black\">Trabajan en el lugar Cuerpo de Bomberos de Limache, Cuerpo de Bomberos de Villa Alemana, Cuerpo de Bomberos de Quilpué, Cuerpo de Bomberos de Quillota,&nbsp; Cuerpo de Bomberos de La Cruz, Cuerpo de Bomberos de Nogales, Cuerpo de Bomberos de Olmué, 10 Brigadas, 5 Técnicoos, 3 aviones cisterna, 2 helicóptero, 2 camiones aljibes de la Municipalidad de Limache, 1 Equipo GRD Municipal y 1 Skidder de CONAF.&nbsp;</span></p></td></tr><tr><td><p><strong><span style=\"font-size: 15px;color: black\">Observaciones</span></strong></p></td><td><p><span style=\"font-size: 15px;color: black\">No se reportan afectaciones en personas ni daños en viviendas.<span style=\"color: rgb(0, 0, 0)\">Incendio forestal se mentiene activo. Personal de Bomberos y CONAF continúan con las labores de combate del incendio.</span></span></p></td></tr></tbody></table><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><span style=\"font-size: 15px;color: black\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED&nbsp;mantiene la Alerta Roja para la Comuna de Limache, por incendio forestal, que se encuentra vigente desde el 02 de diciembre de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

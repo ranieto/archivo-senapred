@@ -1,0 +1,20 @@
+{
+	"id": "78f696d8-23ec-4868-a3c8-d3165a81ecae",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2025-04-25T19:02:00.000-04:00",
+	"createdAt": "2025-04-25T23:16:30.454Z",
+	"updatedAt": "2025-04-25T23:59:50.140Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-los-lagos-por-precipitaciones-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se han <strong>cancelado</strong> los siguientes alertamientos meteorológicos para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   28</p></td><td><p style=\"text-align:justify\">Tormentas   Eléctricas en zonas de las regiones de Los Ríos y Los Lagos.</p></td><td><p style=\"text-align:center\">24-04</p></td><td><p style=\"text-align:center\">25-04</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   141-2</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en corto periodo de tiempo en sectores de la región.</p></td><td><p style=\"text-align:center\">24-04</p></td><td><p style=\"text-align:center\">25-04</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   143</p></td><td><p style=\"text-align:justify\">Probables   Tormentas Eléctricas en zonas desde la región de La Araucanía a la región de   Aysén.</p></td><td><p style=\"text-align:center\">24-04</p></td><td><p style=\"text-align:center\">25-04</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   140-1</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en sectores de las regiones de La Araucanía y Los Lagos</p></td><td><p style=\"text-align:center\">25-04</p></td><td><p style=\"text-align:center\">25-04</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva&nbsp;</strong><strong>Regional por evento meteorológico</strong>, la que se mantuvo vigente desde el 24 de abril de 2025.</span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

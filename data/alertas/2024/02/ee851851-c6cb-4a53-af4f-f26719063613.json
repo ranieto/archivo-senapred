@@ -1,0 +1,20 @@
+{
+	"id": "ee851851-c6cb-4a53-af4f-f26719063613",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de San Fernando por evento masivo",
+	"fechaHora": "2024-02-19T10:35:40.4040-03:00",
+	"createdAt": "2024-02-19T13:36:21.562Z",
+	"updatedAt": "2024-02-19T13:37:44.403Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-san-fernando-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Colchagua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"San Fernando\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED O’Higgins, ha finalizado el evento masivo “Trenes Culturales”, en el sector Parque Buchón, evento que congregó cerca de 10.000 personas durante los días de la actividad. Cabe mencionar que, no se registraron situaciones relevantes producto de este evento.<br></p><p>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva para la comuna de San Fernando por evento masivo, que se mantuvo vigente desde el 14 de febrero de 2024. </p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

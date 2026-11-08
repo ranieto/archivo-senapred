@@ -1,0 +1,20 @@
+{
+	"id": "d8e4968c-680c-4e7b-8b0f-c471bb09ca9c",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de La Araucanía por amenaza de incendios forestales",
+	"fechaHora": "2024-01-30T00:44:24.2424-03:00",
+	"createdAt": "2024-01-30T03:45:21.891Z",
+	"updatedAt": "2024-02-16T22:07:55.364Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-la-araucania-por-amenaza-de-incendios-forestales",
+	"parentId": "ab1e8efb-ee39-49a0-b62e-6a02520d3be5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa </span><span style=\"color: black\">el siguiente detalle respecto del incendio forestal en la comuna </span><span style=\"color: black\">de Galvario:</span><br></p><p><a name=\"_Hlk156134836\"></a></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Percan</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>15 hectáreas</p></td></tr></tbody></table><p>Por este incendio forestal se informa que un voluntario de Bomberos resultó lesionado y tres personas fueron evacuadas en forma preventiva.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Temprana Preventiva para la Región de La Araucanía, por amenaza de incendios forestales, que se mantiene vigente desde el 19 de enero de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

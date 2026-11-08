@@ -1,0 +1,20 @@
+{
+	"id": "ecaff20d-9409-480f-803e-8596791d4177",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Nueva Imperial por desborde ",
+	"fechaHora": "2024-07-05T15:50:00.000-04:00",
+	"createdAt": "2024-07-05T20:09:14.509Z",
+	"updatedAt": "2024-07-05T20:10:22.219Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-nueva-imperial-por-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Nueva Imperial\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red hidrométrica “Río Cautín en Almagro” en la comuna de Nueva Imperial, ha alcanzado los valores del umbral Verde.<br></p><p style=\"text-align:justify\">Cabe señalar, la Municipalidad de Nueva Imperial indica con respecto a las 5 viviendas inundadas en el sector rural de Estación Boroa, las familias regresaron a sus hogares.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela Alerta Roja por desborde para la comuna de Nueva Imperial,</strong> que se mantuvo vigente desde 27 de junio del 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

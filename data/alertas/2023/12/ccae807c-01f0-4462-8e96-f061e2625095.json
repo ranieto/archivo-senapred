@@ -1,0 +1,20 @@
+{
+	"id": "ccae807c-01f0-4462-8e96-f061e2625095",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla Regional por calor intenso",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-12-22T17:00:31.673Z",
+	"updatedAt": "2023-12-22T17:11:51.133Z",
+	"urlAccess": "se-declara-alerta-amarilla-regional-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>&nbsp; indica que se encuentra vigente el siguiente alertamiento meteorológico para la Región de Ñuble:<br></p><table><tbody><tr><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: justify\">Alerta</p></td><td><p style=\"text-align: justify\">Evento de altas temperaturas extremas en cordillera de la costa (32°-34°), valle (35°- 37°) y precordillera (34°- 36°).</p></td><td><p style=\"text-align: justify\">25-12</p></td><td><p style=\"text-align: justify\">26-12</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED,&nbsp;<strong>declara Alerta Amarilla Regional por calor intenso,&nbsp;</strong>vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">Cabe señalar, que se&nbsp;<strong>mantiene una Alerta Temprana Preventiva Nacional por calor,&nbsp;</strong>desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">Con la&nbsp;<strong>declaración de la Alerta Amarilla</strong>, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">SENAPRED recomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del&nbsp;<strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

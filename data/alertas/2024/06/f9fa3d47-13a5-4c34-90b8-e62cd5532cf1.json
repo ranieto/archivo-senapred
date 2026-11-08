@@ -1,0 +1,20 @@
+{
+	"id": "f9fa3d47-13a5-4c34-90b8-e62cd5532cf1",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla a las Provincias de Los Andes, Petorca, Quillota, San Antonio y San Felipe por evento meteorológico",
+	"fechaHora": "2024-06-21T18:50:00.000-04:00",
+	"createdAt": "2024-06-21T23:02:25.850Z",
+	"updatedAt": "2024-06-23T16:40:24.860Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-excepto-la-provincia-de-isla-de-pascua-y-comuna-de-juan-fernandez-por-evento-meteorologico-2",
+	"parentId": "318b934d-be01-4ffe-9851-d01bf3e886be",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Los Andes, Petorca, Quillota, San Antonio, San Felipe de Aconcagua\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Valparaíso, las provincias de Valparaíso y Marga Marga se encuentran con Alerta Roja por evento meteorológico, producto de los aumentos de los niveles de agua en los embalses, incremento de los caudales en canales y esteros, activación de quebradas, inminencia de rebalses, desbordes y deslizamiento de material rocoso en rutas, caminos, calles y viviendas; quedando el resto de la región con alerta amarilla.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a lo anterior y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Amarilla a las&nbsp;</strong></span><strong><span style=\"color:black\">Provincias de Los Andes, Petorca, Quillota, San Antonio y San Felipe por evento meteorológico,</span></strong><span style=\"color:black\">que se mantiene vigente desde el 19 de junio de 2024 y hasta que las condiciones meteorológicas así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la modificación de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

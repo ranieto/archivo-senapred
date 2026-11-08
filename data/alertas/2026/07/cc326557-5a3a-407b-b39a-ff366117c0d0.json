@@ -1,0 +1,20 @@
+{
+	"id": "cc326557-5a3a-407b-b39a-ff366117c0d0",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja por desborde para la comuna de Hualqui",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2026-07-28T11:35:54.826Z",
+	"updatedAt": "2026-07-28T11:36:56.603Z",
+	"urlAccess": "se-declara-alerta-roja-por-desborde-para-la-comuna-de-hualqui-2026-07-28-07-35-37",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), la estación hidrométrica “<strong>Río Estero Hualqui en desembocadura</strong>”, indica un incremento en su caudal, alcanzando valores de <strong>umbral rojo</strong>, lo que supone un aumento del riesgo para la población cercana a este curso de agua.</span></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde para la comuna de Hualqui,</strong> vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe señalar que, en virtud de la declaración de esta alerta, se modifica la cobertura de la Alerta Amarilla por crecida para la provincia de Biobío y las comunas de Santa Juana, Coronel, Chiguayante, San Pedro de la Paz, Concepción y Hualpén en la Región del Biobío, la que se encuentra vigente desde el 27 de julio.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

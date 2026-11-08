@@ -1,0 +1,20 @@
+{
+	"id": "a47050a0-0e1b-4bbb-b76f-bb94ecba5b61",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chillán por incendio forestal ",
+	"fechaHora": "2025-02-08T15:55:00.000-03:00",
+	"createdAt": "2025-02-08T19:14:33.532Z",
+	"updatedAt": "2025-02-08T21:34:15.596Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal-3",
+	"parentId": "0c329a77-2f98-4634-b7a6-aefb1a6a5c90",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chillán\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Chillán se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Colliguay</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Chillán, 4 Brigadas CONAF y 1 Helicóptero</p></td></tr></tbody></table><p>La Dirección Regional de SENAPRED declara Alerta Roja por incendio forestal para la comuna de Chillán Con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

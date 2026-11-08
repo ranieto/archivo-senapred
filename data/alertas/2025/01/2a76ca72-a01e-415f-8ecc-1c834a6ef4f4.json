@@ -1,0 +1,20 @@
+{
+	"id": "2a76ca72-a01e-415f-8ecc-1c834a6ef4f4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Lebu por incendios forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-01-02T19:04:36.323Z",
+	"updatedAt": "2025-01-02T20:38:06.403Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-lebu-por-incendios-forestal",
+	"parentId": "369dd44f-5bba-40ff-9b4a-9b73f2731d68",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con lo informado por la Dirección Regional de CONAF, en su solicitud de Alerta Roja recibida a las 15:30 horas, el incendio denominado \"244 - ESPERANZA DE LEBU” que se desarrolla en la comuna de Lebu (Junquillo Bajo) cercano a sectores poblados.</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Esperanza de Lebu</div></td></tr><tr><td><div>Estado</div></td><td><div>En trayecto</div></td></tr><tr><td><div>Superficie</div></td><td><div>1 hectárea</div></td></tr><tr><td><div>Recursos</div></td><td><div>4 Unidades Bomberos Lebu, 5 brigadas CONAF, 1 técnico CONAF y 1 avión cisterna.</div></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Lebu por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

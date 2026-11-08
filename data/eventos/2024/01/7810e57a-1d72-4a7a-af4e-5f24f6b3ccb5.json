@@ -1,0 +1,21 @@
+{
+	"id": "7810e57a-1d72-4a7a-af4e-5f24f6b3ccb5",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones Metropolitana, O’Higgins y Maule",
+	"fechaHora": "2024-01-02T00:16:13.1313-03:00",
+	"createdAt": "2024-01-02T03:17:48.639Z",
+	"updatedAt": "2024-01-02T03:17:48.639Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-ohiggins",
+	"parentId": "f64e7057-1e60-4502-b970-67a3cb5fd2b0",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región del Maule, Región Metropolitana de Santiago\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 00:05 horas en las regiones Metropolitana, O’Higgins y Maule.</span><br></p><p><span style=\"font-size:16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Metropolitana de Santiago </strong></p></td></tr><tr><td><p>Melipilla:   </p></td><td><p>III</p></td></tr><tr><td><p>Pedro   Aguirre Cerda: </p></td><td><p>II</p></td></tr><tr><td><p>El   Monte: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Libertador Bernardo O'Higgins </strong></p></td></tr><tr><td><p>Peumo:   </p></td><td><p>III</p></td></tr><tr><td><p>Rancagua:   </p></td><td><p>III</p></td></tr><tr><td><p>Coltauco:   </p></td><td><p>III</p></td></tr><tr><td><p>Graneros:   </p></td><td><p>III</p></td></tr><tr><td><p>Las   Cabras: </p></td><td><p>III</p></td></tr><tr><td><p>Mostazal:   </p></td><td><p>III</p></td></tr><tr><td><p>Pichidegua:   </p></td><td><p>III</p></td></tr><tr><td><p>San   Vicente de Tagua Tagua: </p></td><td><p>III</p></td></tr><tr><td><p>Lolol:   </p></td><td><p>II</p></td></tr><tr><td><p>San   Fernando: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Maule </strong></p></td></tr><tr><td><p>Llico:   </p></td><td><p>II</p></td></tr><tr><td><p>Pencahue:   </p></td><td><p>II</p></td></tr></tbody></table><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p style=\"margin-left:0cm\"><span style=\"font-size:16px\">El Centro Sismológico Nacional indica que la magnitud del sismo fue de 3.6 y se localizó a 34 Kms al Suroeste de Melipilla. </span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

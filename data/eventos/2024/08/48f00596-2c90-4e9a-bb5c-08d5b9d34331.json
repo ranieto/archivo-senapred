@@ -1,0 +1,19 @@
+{
+	"id": "48f00596-2c90-4e9a-bb5c-08d5b9d34331",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Coquimbo",
+	"fechaHora": "2024-08-30T19:23:00.000-04:00",
+	"createdAt": "2024-08-30T23:31:28.524Z",
+	"updatedAt": "2024-08-30T23:31:28.524Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-coquimbo-5",
+	"parentId": "88c4b6b4-acf8-47dc-b62f-704e2acd5295",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 19:21 horas en la Región de Coquimbo. Las intensidades en escala de Mercalli son:</p><p><br></p><div style=\"text-align: justify\"><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Coquimbo</strong></p></td></tr><tr><td><p>Coquimbo:</p></td><td><p>V</p></td></tr><tr><td><p>La Serena:</p></td><td><p>V</p></td></tr></tbody></table></div><div style=\"text-align: justify\">A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br></div>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

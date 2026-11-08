@@ -1,0 +1,20 @@
+{
+	"id": "7c813f56-e854-429a-a79e-64aaff17f75e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Ancud por incendio forestal",
+	"fechaHora": "2025-01-16T15:25:00.000-03:00",
+	"createdAt": "2025-01-16T18:25:20.121Z",
+	"updatedAt": "2025-01-16T18:25:34.738Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ancud-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con la&nbsp;</span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong><span style=\"font-size: 15px\">respecto del incendio forestal que se encuentra en la comuna de Ancud se reporta lo siguiente:</span></p><table><tbody><tr><td><p><strong><span style=\"font-size:15px\">Nombre del incendio</span></strong></p></td><td><p><span style=\"font-size:15px\">Taiquemo</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Estado</span></strong></p></td><td><p><span style=\"font-size:15px\">Controlado</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:15px\">10 hectáreas</span></p></td></tr><tr><td><p><strong><span style=\"font-size:15px\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:15px\">El incendio forestal se encuentra   sin avance en todos los sectores y se trabaja actualmente en</span></p><p><span style=\"font-size:15px\">faenas de liquidación con brigadas   terrestres y maquinaria municipal.</span></p></td></tr></tbody></table><p><span style=\"font-size:15px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para la Comuna de Ancud, por incendio forestal, que se encuentra vigente desde el 13 de enero de 2025.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "03efa7de-b1d5-47dd-bf0c-3ddc5e2c091a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la provincia de Los Andes por alteración sanitaria",
+	"fechaHora": "2025-02-28T11:55:53.5353-03:00",
+	"createdAt": "2025-02-28T14:58:39.103Z",
+	"updatedAt": "2025-04-03T00:19:27.893Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-exceptuando-las-provincias-de-los-andes-e-isla-de-pascua-y-la-comuna-de-juan-fernandez-por-alteracion-sanitaria",
+	"parentId": "eda2baa1-a875-4f4b-aa52-51e0a2cbb588",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la SEREMI de Salud de Valparaíso, respecto del <strong>hallazgo del vector “<em>Aedes Aegypti</em>” en el Complejo Fronterizo Paso Los Libertadores</strong>, y el <strong>control químico realizado durante la madrugada</strong> de hoy por la oficina Aedes Los Andes de la SEREMI de Salud, en el recinto del complejo fronterizo como sus inmediaciones, se informa que este <strong>se realizó con éxito</strong>.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por alteración sanitaria para la provincia de Los Andes</strong>, que permanece vigente desde el 16 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

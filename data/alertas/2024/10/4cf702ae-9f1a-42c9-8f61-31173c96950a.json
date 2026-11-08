@@ -1,0 +1,20 @@
+{
+	"id": "4cf702ae-9f1a-42c9-8f61-31173c96950a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Maule por evento masivo",
+	"fechaHora": "2024-10-28T11:48:00.000-03:00",
+	"createdAt": "2024-10-28T14:54:26.949Z",
+	"updatedAt": "2024-10-28T14:54:38.346Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-masivo-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule, respecto a las “Elecciones Generales de Gobernador Regional, Consejeros Regionales, Alcaldes y Concejales 2024”, se informa que estas finalizaron sin reportar situaciones relevantes de emergencia.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo,</strong> que se mantenía vigente desde el 24 de octubre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

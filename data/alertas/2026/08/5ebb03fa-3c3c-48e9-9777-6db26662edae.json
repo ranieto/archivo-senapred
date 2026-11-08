@@ -1,0 +1,20 @@
+{
+	"id": "5ebb03fa-3c3c-48e9-9777-6db26662edae",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la Región del Biobío por desborde",
+	"fechaHora": "2026-08-08T11:11:00.000-04:00",
+	"createdAt": "2026-08-08T15:20:09.528Z",
+	"updatedAt": "2026-08-08T15:20:39.058Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA) </strong>de la región, las estaciones de la red hidrométrica registran un descenso gradual y sostenido en sus caudales, lo que supone una disminución del riesgo de anegamiento e inundación para la población aledaña a los cursos de agua.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con el último informe hidrométrico, las estaciones Río Biobío en Ralco 1, Río Biobío en Desembocadura y Río Pichilo en Pichilo superan el umbral de Alerta Azul. No obstante, dichas estaciones presentan una tendencia al descenso y estabilización, manteniéndose el monitoreo constante. En cuanto al resto de las estaciones de monitoreo se mantienen en niveles normales, por debajo del umbral Azul.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">A su vez, conforme al Informe de Amenaza Meteorológica emitido por la Dirección Meteorológica de Chile (DMC), se proyecta una disminución progresiva de las precipitaciones para los próximos días en la región.</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px\"><br></span></p><p style=\"text-align:justify\"></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por desborde</strong>, que se encontraba vigente desde el 01 de agosto.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

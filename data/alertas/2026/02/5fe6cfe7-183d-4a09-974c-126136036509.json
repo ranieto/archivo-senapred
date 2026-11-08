@@ -1,0 +1,20 @@
+{
+	"id": "5fe6cfe7-183d-4a09-974c-126136036509",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de San Carlos por incendio forestal",
+	"fechaHora": "2026-02-02T19:09:00.000-03:00",
+	"createdAt": "2026-02-02T22:25:00.091Z",
+	"updatedAt": "2026-02-02T22:25:46.070Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-carlos-por-incendio-forestal-2026-02-02-17-28-08",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de San Carlos, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">304 - Bella María</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">8 (ha)</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Cuerpo de bomberos de San   Carlos, Ñiquén, San Nicolás, Chillán, San Ignacio, Bulnes, Portezuelo y Coihueco,   9 CONAF brigadas, 2 técnicos CONAF, 2 aviones Cisterna CONAF y 1 helicóptero   CONAF. </p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Afectación </strong></p></td><td><p style=\"text-align:justify\">1 persona lesionada.</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para la comuna de San Carlos con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

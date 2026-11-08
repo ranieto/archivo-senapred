@@ -1,0 +1,20 @@
+{
+	"id": "da548a05-d8fa-4214-9f7a-834f9c216040",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Pitrufquén por incendio forestal",
+	"fechaHora": "2025-02-22T17:07:13.1313-03:00",
+	"createdAt": "2025-02-22T20:09:02.516Z",
+	"updatedAt": "2025-02-26T02:30:25.625Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-pitrufquen-por-incendio-forestal-2",
+	"parentId": "848b0f29-a76c-4971-8763-d64f432eba6b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;comuna de Pitrufquén&nbsp;se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Loica</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>324.03 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Pitrufquén, 5 Brigadas y 3 Técnicos de CONAF;   1 retroexcavadora, 1 camioneta de logística municipal y 1 camión aljibe;   además de 1 Puesto de Comando, personal municipal y Carabineros</p></td></tr></tbody></table><p>Producto de los incendios ocurridos en la comuna, se registra 1 vivienda de segunda residencia destruida y 2 voluntarios de Bomberos lesionados; mientras que se han enviado un total de 5 mensajes SAE desde el 18 de febrero con el fin de apoyar procesos de evacuación.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la comuna de Pitrufquén, por incendio forestal, que se encuentra vigente desde el 18 de febrero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

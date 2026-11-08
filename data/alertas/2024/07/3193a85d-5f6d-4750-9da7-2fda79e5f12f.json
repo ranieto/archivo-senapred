@@ -1,0 +1,20 @@
+{
+	"id": "3193a85d-5f6d-4750-9da7-2fda79e5f12f",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Camarones por emergencia minera",
+	"fechaHora": "2024-07-10T13:20:00.000-04:00",
+	"createdAt": "2024-07-10T17:20:48.618Z",
+	"updatedAt": "2024-07-11T02:44:47.333Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-camarones-por-emergencia-minera",
+	"parentId": "0e44b29b-3c4e-455f-b0c7-3f69ed44aa1c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"Arica\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Camarones\",\"regiones\":\"Región de Arica y Parinacota\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Arica y Parinacota</strong>, respecto de la emergencia minera ocurrida el día 08 de julio en la Minera Pampa Camarones de la comuna de Camarones producto del desprendimiento de material, donde, se reporta un operador atrapado al interior de un equipo Scoop (de cabina cerrada), se informa que las operaciones de rescate se han desarrollado sin interrupciones, además se indica que el operador se encuentra estable con ventilación y comunicado mediante equipo radial.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Arica y Parinacota, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por Emergencia Minera,</strong> que se encuentra vigente desde el 09 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe destacar que a las 10:00 horas de hoy, se ha realizado un COGRID Regional encabezado por el Delegado Presidencial Regional y el director regional de SENAPRED, donde participó SERNAGEOMIN, SEREMI de Minería, Carabineros y personal de la empresa de la Minera Pampa Camarones.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otro lado, se mantienen a la espera de activación los equipos especializados en rescates mineros de las comunas de Antofagasta, Iquique y Copiapó.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Trabajan en el lugar personal de rescate de la empresa de la Minera Pampa Camarones, Carabineros, SERNAGEOMIN, personal de CODELCO división El Teniente, equipo regional de SENAPRED y Delegación Presidencial Regional.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

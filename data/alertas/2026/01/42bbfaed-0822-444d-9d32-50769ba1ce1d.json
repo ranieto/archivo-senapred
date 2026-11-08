@@ -1,0 +1,20 @@
+{
+	"id": "42bbfaed-0822-444d-9d32-50769ba1ce1d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Carahue por incendio forestal",
+	"fechaHora": "2026-01-02T22:25:32.3232-03:00",
+	"createdAt": "2026-01-03T01:26:45.787Z",
+	"updatedAt": "2026-01-03T01:27:53.473Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-carahue-por-incendio-forestal-2026-01-02-19-12-40",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;comuna de Carahue,<strong>&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Nehuentue</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6.8 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>3 Brigadasy 1   Técnico de CONAF</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Carahue, por incendio forestal, que se mantuvo vigente desde el 02</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

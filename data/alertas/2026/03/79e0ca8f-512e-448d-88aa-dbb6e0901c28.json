@@ -1,0 +1,20 @@
+{
+	"id": "79e0ca8f-512e-448d-88aa-dbb6e0901c28",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Ránquil por incendio forestal",
+	"fechaHora": "2026-03-04T16:48:51.5151-03:00",
+	"createdAt": "2026-03-04T19:50:39.208Z",
+	"updatedAt": "2026-03-05T00:57:14.922Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ranquil-por-incendio-forestal-2026-03-04-16-50-19",
+	"parentId": "9403334d-0c2e-461e-8856-10bd6550d4d6",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"font-size:16px;color:black\">De acuerdo con la información&nbsp;</span></strong><span style=\"font-size: 16px\"><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de Ránquil se informa el siguiente detalle:</span></span></p><p><span style=\"font-size: 16px\"><span style=\"color:black\"><br></span></span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong><span style=\"font-size:16px\">Nombre   del incendio</span></strong></a></p></td><td><p><span style=\"font-size:16px\">SN   Juan de Bularco II</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Estado</span></strong></p></td><td><p><span style=\"font-size:16px\">En   combate</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Superficie</span></strong></p></td><td><p><span style=\"font-size:16px\">0.01   (ha)</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Recursos</span></strong></p></td><td><p><span style=\"font-size:16px\">6 brigadas y 4 técnicos de CONAF, 2 aviones   cisterna de Conaf, 1 Puesto mando CONAF y 1 UAD CONAF</span></p></td></tr><tr><td><p><strong><span style=\"font-size:16px\">Observaciones</span></strong></p></td><td><p><span style=\"font-size:16px\">Incendio cercano a sectores poblados</span></p></td></tr></tbody></table><p></p><p><span style=\"font-size:16px\"><br></span></p><p><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Ránquil por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:16px\"><br></span></p><p><span style=\"font-size:16px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

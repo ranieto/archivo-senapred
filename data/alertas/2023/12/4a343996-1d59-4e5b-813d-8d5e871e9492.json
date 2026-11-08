@@ -1,0 +1,20 @@
+{
+	"id": "4a343996-1d59-4e5b-813d-8d5e871e9492",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Marchihue por incendio forestal",
+	"fechaHora": "2023-12-16T19:52:58.5858-03:00",
+	"createdAt": "2023-12-16T22:59:07.122Z",
+	"updatedAt": "2023-12-16T22:59:59.361Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-marchihue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Marchigüe\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong>​</strong><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF)</strong>, en relación con el incendio forestal que se desarrolla en la comuna de Marchihue, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Cementerio.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">4,3 hectáreas.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align:justify\">Incendio   forestal ya no presenta amenaza a la subestación eléctrica “Marchigue”.</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a lo anterior y en base a la información técnica de CONAF, en coordinación con la Delegación Presidencial Regional de O’Higgins, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la comuna de Marchihue por incendio forestal</strong>, que se mantuvo vigente durante hoy, 16 de diciembre del 2023.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "ca5f2da9-00e1-4db9-b7a1-e95825c0b5ff",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Ninhue por incendio forestal",
+	"fechaHora": "2024-12-13T22:26:38.3838-03:00",
+	"createdAt": "2024-12-14T01:27:36.951Z",
+	"updatedAt": "2024-12-14T01:28:16.417Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ninhue-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con l</strong>a <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de Ninhue, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Hualte</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">Controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">3.6 hectáreas</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">Cabe señalar que el incendio se encuentra sin amenaza a viviendas y contenido.</span></p><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Ninhue, por incendio forestal.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "34f9b779-3b54-4ca6-b4e8-13bcaa9df2f7",
+	"type": "Evento",
+	"titulo": "Monitoreo Emergencia para la comuna de Vallenar por alteración del suministro de agua potable",
+	"fechaHora": "2023-10-10T23:32:00.000-03:00",
+	"createdAt": "2023-10-26T03:44:11.474Z",
+	"updatedAt": "2023-10-26T03:44:11.474Z",
+	"urlAccess": "monitoreo-emergencia-para-la-comuna-de-vallenar-por-alteracion-del-suministro-de-agua-potable",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"Huasco\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"Vallenar\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Corte de suministro - Agua\",\"nombreImg\":\"corteagua.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Atacama, respecto de la interrupción de suministro y funcionamiento del Servicio Sanitario Rural (SSR) de la localidad de Incahuasi, comuna de Vallenar, se informa que dicha localidad se mantiene sin suministro de agua potable, debido a la falla en los filtros que presurizan la red de agua limpia, en la entrada de la planta de osmosis inversa, lo cual fue ocasionado por el bajo caudal que existe.<br><br>En función de lo anterior, se hace necesario el despliegue de recursos adicionales para dar respuesta a este evento, por lo cual la Dirección Regional del SENAPRED Atacama, mantiene la Emergencia para la comuna de Vallenar por alteración del suministro de agua potable, que se encuentra vigente desde el 08 de agosto.<br><br>Para mitigar los problemas derivados de esta interrupción, continúa la entrega de agua potable mediante un camión aljibe de 16 metros cúbicos, el cual diariamente abastece la posta rural, escuela de la localidad y a la población en general (260 personas), gestionado por la Delegación Presidencial Provincial del Huasco en coordinación con SENAPRED Atacama.<br></p>",
+	"variableInformateEventosId": "47537f83-6692-4432-9f54-2f8fab2808ab"
+}

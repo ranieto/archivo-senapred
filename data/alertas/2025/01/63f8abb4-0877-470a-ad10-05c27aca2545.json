@@ -1,0 +1,20 @@
+{
+	"id": "63f8abb4-0877-470a-ad10-05c27aca2545",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Comuna de San Javier, por incendio forestal",
+	"fechaHora": "2025-01-24T20:22:00.000-03:00",
+	"createdAt": "2025-01-24T23:38:21.579Z",
+	"updatedAt": "2025-01-28T23:20:48.935Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-san-javier-por-incendio-forestal-3",
+	"parentId": "1c666371-ddf3-4307-922a-014bc9eeded8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Javier\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF), </strong>respecto del incendio forestal que se encuentra en la comuna de San Javier se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong>Nombre   del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Villaboro</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">500   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de San Javier, Linares, Cauquenes, Empedrado, 7 Brigadas Terrestre CONAF, 7 terrestre   ARAUCO, 2 terrestre Vista Hermosa, 1 brigada Terrestre CMPC, 5 técnicos CONAF,   7 avión Cisterna CONAF (2 aviones Tankero), 2 aviones Cisterna ARAUCO, 3 helicóptero   CONAF (1 SUPERPUMA), 2 helicóptero ARAUCO, 1 helicóptero Vista Hermosa, 1 helicóptero   Pesado CMPC (Chinook), 2 helicóptero CMPC, 2 Aviones Cisterna CMPC, 1 helicóptero   Pesado ARAUCO (Chinook), 4 Skidder CONAF, 1 camión Cisterna CONAF, 1 móvil   SENAPRED (02 funcionarios), 1 Equipo de emergencia Municipal, 1 Equipo de   emergencia delegación Provincial Linares y 1 delegación Presidencial Regional.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de San Javier, por incendio forestal, que se encuentra vigente desde el 24 de enero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

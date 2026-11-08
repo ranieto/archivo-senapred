@@ -1,0 +1,20 @@
+{
+	"id": "5cf83fb9-a113-4594-bfbb-dd37ae868df7",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Palena por evento meteorológico",
+	"fechaHora": "2025-06-17T16:23:21.2121-04:00",
+	"createdAt": "2025-06-17T20:24:25.459Z",
+	"updatedAt": "2025-06-19T23:42:45.770Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-palena-por-evento-meteorologico",
+	"parentId": "9c9be0f4-b675-4150-9445-137c11a82593",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con </span><strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong><span style=\"font-size: 15px\"> se encuentra vigente el siguiente alertamiento meteorológico para la Región de Los Lagos:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso A229</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas (40 – 70 mm) en cordillera austral de la región.</p></td><td><p style=\"text-align:center\">18-06</p></td><td><p style=\"text-align:center\">19-06</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">Por su parte, </span><span style=\"font-size:15px;color:black\">el Servicio Nacional de Geología y Minería (SERNAGEOMIN), </span><span style=\"font-size:15px;color:black\">mediante <strong>su Minuta Técnica por Peligro de Remociones en Masa</strong>, emitida en la jornada de hoy indica que la posibilidad de ocurrencia de remociones en masa tales como flujo de detritos, aluviones, deslizamientos y/o caídas de rocas (derrumbes), es<strong> moderada </strong>en para cordillera austral y <strong>baja</strong> para el resto de la región.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva por evento meteorológico para la Provincia de Palena, </strong>vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

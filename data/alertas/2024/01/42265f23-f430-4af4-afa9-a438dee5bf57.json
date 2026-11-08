@@ -1,0 +1,20 @@
+{
+	"id": "42265f23-f430-4af4-afa9-a438dee5bf57",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la Región Metropolitana por calor intenso",
+	"fechaHora": "2024-01-20T21:17:21.2121-03:00",
+	"createdAt": "2024-01-21T00:18:23.901Z",
+	"updatedAt": "2024-01-21T00:22:08.020Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-metropolitana-por-calor-intenso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), fueron cancelados los alertamientos AA3/2024 y A5-1/2024 que pronosticaron el desarrollo de un evento de altas temperaturas extremas y altas temperaturas, respectivamente en la Región Metropolitana.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED, cancela la Alerta Amarilla Regional por calor intenso, que se mantuvo vigente desde el 17 de enero de 2024.</span></p><p><span style=\"color:black\">Cabe señalar, que se mantiene una Alerta Temprana Preventiva Nacional por calor, desde el 08 de diciembre de 2023, Resolución Exenta N° 1.728.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "f0efece5-a25b-4f3a-aebd-43bfd6d2c7ce",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Curepto por incendio forestal",
+	"fechaHora": "2025-01-20T00:51:00.000-03:00",
+	"createdAt": "2025-01-20T04:00:51.216Z",
+	"updatedAt": "2025-01-20T23:40:48.465Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-curepto-por-incendio-forestal",
+	"parentId": "afed5614-f94f-4662-970a-3deca5427397",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal que se desarrolla en la comuna de Curepto, se informa lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\">Nombre del incendio</p></td><td><p style=\"text-align:justify\">Paula</p></td></tr><tr><td><p style=\"text-align:justify\">Estado</p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\">Superficie</p></td><td><p style=\"text-align:justify\">50 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\">Observaciones</p></td><td><p style=\"text-align:justify\">Incendio forestal se encuentra contenido pero con   comportamiento conflictivo dentro del área quemada. De acuerdo con el reporte   de Unidad Gestión del Riesgo de la I. Municipalidad de Curepto el incendio   afecto a dos galpones del sector (destruidos).</p></td></tr><tr><td><p style=\"text-align:justify\">Recursos</p></td><td><p style=\"text-align:justify\">1 brigada nocturna de Conaf.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Amarilla para la Comuna de Curepto</strong>, por incendio forestal, que se encuentra vigente desde el 19 de enero de 2025.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

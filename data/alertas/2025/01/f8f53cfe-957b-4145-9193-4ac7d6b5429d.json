@@ -1,0 +1,20 @@
+{
+	"id": "f8f53cfe-957b-4145-9193-4ac7d6b5429d",
+	"type": "Alerta",
+	"titulo": "Se actualiza Alerta Amarilla para la Provincia de Biobío por calor intenso",
+	"fechaHora": "2025-01-05T22:51:00.000-03:00",
+	"createdAt": "2025-01-06T01:55:27.941Z",
+	"updatedAt": "2025-01-07T12:39:05.580Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-biobio-por-calor-intenso-2",
+	"parentId": "964422fe-f22d-4271-ae98-85003bd38dd1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) se encuentra vigente el siguiente alertamiento meteorológico para la Región del Biobío:</p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Inicio</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A473-4</p></td><td><p style=\"text-align: justify\">Altas temperaturas en la cordillera de la costa, valle y precordillera de la región.</p></td><td><p style=\"text-align: center\">03-01</p></td><td><p style=\"text-align: center\">06-01</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">Adicionalmente, a través del Pronóstico Especial emitido por la DMC el día de hoy, se indica que para mañana se estiman los siguientes montos máximos de temperatura (°C):</span></p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Zona</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Lunes 06 de enero</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Costa</p></td><td><p style=\"text-align: center\">-</p></td></tr><tr><td><p style=\"text-align: center\">Valle</p></td><td><p style=\"text-align: center\">32 - 34</p></td></tr><tr><td><p style=\"text-align: center\">Precordillera</p></td><td><p style=\"text-align: center\">31 - 33</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED<strong>actualiza la Alerta Amarilla por calor intenso para la provincia de Biobío,</strong>que se mantienevigente desde el 03 de enero de 2025.</span></p><p style=\"text-align: justify\">Con la actualización de la<strong>Alerta Amarilla</strong>, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><p style=\"text-align: justify\">El<strong> SENAPRED</strong> r<em>ecomienda a la población protegerse y extremar las precauciones ante los riesgos derivados del&nbsp;<strong>calor intenso</strong>, con especial atención a la población más vulnerable, quienes deben limitar su exposición al sol y mantener su hidratación. Además, se aconseja estar informado a través de los medios de comunicación respecto del pronóstico del tiempo.</em></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "2784dd33-5bcb-4672-b82d-09779fc463c1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la comuna de Cabo de Hornos por precipitaciones",
+	"fechaHora": "2024-05-17T18:10:51.5151-04:00",
+	"createdAt": "2024-05-17T22:12:03.408Z",
+	"updatedAt": "2024-05-17T22:13:03.666Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-comuna-de-cabo-de-hornos-por-precipitaciones-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"Antártica Chilena\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Cabo de Hornos\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el Aviso Meteorológico A154/2024 que pronosticaba precipitaciones normales a moderadas en zonas de la Región de Magallanes y de la Antártica Chilena, debido al debilitamiento de las condiciones meteorológicas que lo generaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone la disminución del riesgo asociado a esta variable meteorológica y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional de SENAPRED, cancela Alerta Temprana Preventiva para la comuna de Cabo de Hornos por precipitacio<strong>nes</strong>, vigente desde el 14 de mayo del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

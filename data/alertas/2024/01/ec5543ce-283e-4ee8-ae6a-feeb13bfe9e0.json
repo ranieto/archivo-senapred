@@ -1,0 +1,27 @@
+{
+	"id": "ec5543ce-283e-4ee8-ae6a-feeb13bfe9e0",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para las comunas del borde costero continental entre las regiones de Arica y Parinacota y Maule y para la comuna de Juan Fernández, Región de Valparaíso, por marejadas anormales",
+	"fechaHora": "2024-01-06T19:53:35.3535-03:00",
+	"createdAt": "2024-01-06T22:55:13.456Z",
+	"updatedAt": "2024-01-08T11:06:52.048Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-del-borde-costero-continental-entre-las-regiones-de-arica-y-parinacota-y-maule-y-para-la-comuna-de-juan-fernandez-region-de-valparaiso-por-marejadas-anniormales",
+	"parentId": "977b8b5e-2411-46ec-addf-1ea31eeadf86",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25",
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87",
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Antofagasta, Región de Atacama, Región de Coquimbo, Región de Valparaíso, Región del Libertador Gral. Bernardo O'Higgins, Región del Maule, Región de Arica y Parinacota\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Antofagasta,</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Respecto a la rotura en la línea de descarga del agua de proceso al mar, de la empresa Corpesca, en la comuna de Mejillones, se informa que las reparaciones se realizarán de acuerdo con las condiciones de mar, por lo que se mantendrán suspendidas las actividades de producción de la empresa.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento, se indica que existen 12 barcos artesanales en el sector, sin poder realizar la descarga de sus bodegas a la planta de Mejillones. Por otra parte, la autoridad marítima informa que no hubo derrame ni contaminación en el lugar del incidente, mientras que una empresa de buceo se encuentra realizando una inspección submarina de todo el emisario, a fin de verificar el estado general del ducto.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por su parte, Corpesca definió trasladar a la zona de Mejillones un buque de factoría PAM, con capacidad de refrigeración desde Iquique, para que reciba la carga de las 12 embarcaciones que no pudieron concretar la maniobra de descarga anteriormente indicada.</span></p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">Cabe señalar, que los integrantes del SINAPRED se encuentran constantemente monitoreando el evento de marejadas, atendiendo las eventuales situaciones de emergencia que se registren.</span></p><p style=\"margin-right:-4.55pt;margin-left:0cm;text-align:justify\">Por su parte, el Centro Meteorológico Marítimo Regional de Valparaíso, dependiente de la Gobernación Marítima de Valparaíso, mantiene vigentes el siguiente aviso de marejadas anormales en el territorio nacional:</p><p style=\"margin-right:-4.55pt;margin-left:21.3pt;text-align:justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Marejadas anormales</strong>: entre Arica, Región de Arica y Parinacota y Constitución, Región del Maule, incluyendo el Archipiélago de Juan Fernández, hasta el domingo 7 de enero de 2024.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con las Delegación Presidenciales comprendidas entre las regiones de Arica y Parinacota y Maule, las Direcciones Regionales del SENAPRED <strong>mantienen la Alerta Temprana Preventiva para las comunas del borde costero</strong>, por marejadas anormales, que se encuentran vigentes desde el 01 de enero de 2024 y hasta que las condiciones así lo ameriten. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

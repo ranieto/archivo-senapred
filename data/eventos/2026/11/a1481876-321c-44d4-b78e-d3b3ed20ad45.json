@@ -1,0 +1,20 @@
+{
+	"id": "a1481876-321c-44d4-b78e-d3b3ed20ad45",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Atacama y Coquimbo",
+	"fechaHora": "2026-11-02T23:19:54.5454-03:00",
+	"createdAt": "2026-11-03T02:21:43.190Z",
+	"updatedAt": "2026-11-03T02:28:50.900Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-atacama-2026-11-02-23-17-29",
+	"parentId": "5e70b20e-bdca-43aa-a8b5-d59eb7786354",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125",
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Atacama, Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">Un sismo de menor intensidad en las regiones de Atacama y Coquimbo. Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size: 14px\">Región: Atacama </span></strong></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Huasco: </span></p></td><td><p><span style=\"font-size: 14px\">IV</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Copiapó: </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Tierra Amarilla: </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Alto del Carmen: </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Freirina: </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Vallenar: </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"font-size: 14px\">Región: Coquimbo </span></strong></p></td></tr><tr><td><p><span style=\"font-size: 14px\">La Higuera: </span></p></td><td><p><span style=\"font-size: 14px\">III</span></p></td></tr></tbody></table><p><span style=\"font-size: 14px\"><br></span></p><p><span style=\"font-size: 14px\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p></p><p><span style=\"font-size: 14px\">(Preliminar) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.3 localizado a 24 Kms al Noroeste de Vallenar</span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

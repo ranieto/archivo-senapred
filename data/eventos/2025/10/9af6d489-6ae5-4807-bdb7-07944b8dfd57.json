@@ -1,0 +1,19 @@
+{
+	"id": "9af6d489-6ae5-4807-bdb7-07944b8dfd57",
+	"type": "Evento",
+	"titulo": "Interrupción de servicio básico de electricidad, comunas de la Región Metropolitana (información preliminar)",
+	"fechaHora": "2025-10-20T16:23:22.2222-03:00",
+	"createdAt": "2025-10-20T19:24:17.224Z",
+	"updatedAt": "2025-10-20T21:24:26.186Z",
+	"urlAccess": "interrupcion-de-servicio-basico-de-electricidad-comunas-de-la-region-metropolitana-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Corte de suministro - Electricidad\",\"nombreImg\":\"corteelectricidad.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Superintendencia de Electricidad y combustibles (SEC),</strong> un total aproximado de 550.000 clientes fueron afectados por la interrupción del servicio de suministro eléctrico en diversas comunas de la Región Metropolitana, de los cuales 368.674 permanecen sin este servicio. Lo anterior, producto de una falla que afectó las Sub-Estaciones Florida, Andes, La Reina, Macul, Santa Elena, San Joaquín, Club Hípico, Bajos de Mena, Santa Raquel, Santa Rosa Sur, Mariscal y La Pintana.</p><p>Adicionalmente, Metro de Santiago informa retraso en el servicio en las Líneas 4, 4A y 5, además la operación parcial en Línea 5, disponible entre Vicente Valdés y Pudahuel. </p><p>Trabajan en el lugar personal de empresas eléctricas para la reposición total del servicio. </p>",
+	"variableInformateEventosId": "365320e5-6512-42cf-94f6-88551150b1ee"
+}

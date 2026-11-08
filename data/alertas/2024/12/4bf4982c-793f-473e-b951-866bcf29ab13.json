@@ -1,0 +1,20 @@
+{
+	"id": "4bf4982c-793f-473e-b951-866bcf29ab13",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las comunas de Puchuncaví y Quintero por incendio forestal",
+	"fechaHora": "2024-12-11T19:58:30.3030-03:00",
+	"createdAt": "2024-12-11T22:59:26.423Z",
+	"updatedAt": "2024-12-12T00:37:39.917Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-puchuncavi-y-quintero-por-incendio-forestal",
+	"parentId": "151449c7-d74e-4b00-97df-f81d752ff99b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Quintero se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Campo Mar 7</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>14 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Quintero, Puchuncaví,   Nogales, Viña del Mar y Zapallar; 7 brigadas, 2 técnicos, 4 aviones cisterna,   4 helicópteros y 1 avión de coordinación de Conaf.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados.</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">Producto de este incendio se activó mensajería SAE para reforzar el proceso de evacuación en el sector Campo Mar 7, en la comuna de Quintero.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para las comunas de Puchuncaví y Quintero, por incendio forestal, que se encuentra vigente desde el 11 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

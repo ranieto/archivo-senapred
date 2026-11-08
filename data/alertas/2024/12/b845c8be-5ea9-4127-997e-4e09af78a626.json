@@ -1,0 +1,20 @@
+{
+	"id": "b845c8be-5ea9-4127-997e-4e09af78a626",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de San Antonio por incendio forestal",
+	"fechaHora": "2024-12-04T17:24:00.000-03:00",
+	"createdAt": "2024-12-04T20:27:33.743Z",
+	"updatedAt": "2024-12-05T23:29:35.327Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-san-antonio-por-incendio-forestal",
+	"parentId": "7d867485-f722-47a8-a183-5c05bd457602",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"San Antonio\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de San Antonio se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Fundo El Guanaco</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>25 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Trabajan en las labores de combate: Bomberos   de Santo Domingo, San Antonio, Cartagena y El Tabo; 9 brigadas y 2 técnicos   de Conaf; 3 aviones cisterna, 3 helicópteros, 1 avión guía, 1 avión cisterna   pesado, 1 avión de observación, 1 avión de coordinación, 3 camiones cisterna   y 1 maquinara, todos recursos de Conaf.</p></td></tr></tbody></table><div><span style=\"color: rgb(46, 46, 46);font-size: 15px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de San Antonio por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></div><div><span style=\"color: rgb(46, 46, 46);font-size: 15px\"><br></span></div><div><span style=\"font-size: 15px;color: rgb(46, 46, 46)\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></div><h3>​</h3>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

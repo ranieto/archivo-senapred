@@ -1,0 +1,20 @@
+{
+	"id": "ec654d72-7455-4786-a664-66bcb1f61ad5",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para las comunas de Quirihue y Ninhue por incendio forestal",
+	"fechaHora": "2025-01-11T20:55:00.000-03:00",
+	"createdAt": "2025-01-11T23:57:53.966Z",
+	"updatedAt": "2025-01-11T23:58:07.982Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quirihue-por-incendio-forestal-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;respecto del incendio forestal que se encuentra en las comunas de Quirihue y Ninhue, se reporta lo siguiente:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>La Quebrada</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>400 hectáreas</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio forestal sin amenaza a viviendas y contenido.</p></td></tr></tbody></table><p>En consideración a estos antecedentes, la Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para las comuna de Ninhue y Quirihue con base en al informe de alerta técnica emitido por la Dirección Regional de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

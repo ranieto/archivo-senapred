@@ -1,0 +1,20 @@
+{
+	"id": "abaa59d6-a827-4204-b6f4-13880cdcfb46",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Nueva Imperial por incendio forestal ",
+	"fechaHora": "2024-12-01T16:09:29.2929-03:00",
+	"createdAt": "2024-12-01T19:14:49.053Z",
+	"updatedAt": "2024-12-01T21:38:52.426Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-nueva-imperial-por-incendio-forestal",
+	"parentId": "d063251e-e67b-4b9e-9af8-db7c0a128e63",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), activo se encuentra el incendio forestal “Hualacura”, que se desarrolla en la comuna de Nueva Imperial, Región de La Araucanía. Cabe destacar que, este incendio presenta comportamiento extremo con velocidad de propagación alta.</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Hualacura</p></td></tr><tr><td><div>Comuna&nbsp;</div></td><td><div>Nueva Imperial</div></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En Combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>7 hectáreas</p></td></tr><tr><td><div>Descripción</div></td><td><div>Incendio forestal presenta comportamiento extremo con velocidad de propagación alta.<br></div></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>1 brigada de bomberos, 8 brigadas CONAF y 2 aeronaves CONAF</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Nueva Imperial por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo</p><p>adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

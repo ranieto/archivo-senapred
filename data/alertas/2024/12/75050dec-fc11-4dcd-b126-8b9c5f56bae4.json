@@ -1,0 +1,20 @@
+{
+	"id": "75050dec-fc11-4dcd-b126-8b9c5f56bae4",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para las Comunas de San Antonio y Cartagena por incendio forestal",
+	"fechaHora": "2024-12-21T15:47:00.000-03:00",
+	"createdAt": "2024-12-21T18:58:05.764Z",
+	"updatedAt": "2024-12-24T23:52:02.628Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-antonio-y-cartagena-por-incendio-forestal",
+	"parentId": "f07afb0c-142c-427e-a5bd-3c3066f4ccd2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"San Antonio\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Cartagena, San Antonio\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la </span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong><span style=\"font-size: 16px\"> se informa el siguiente detalle respecto del incendio forestal “Las Palmas”, en las comunas de San Antonio y Cartagena:</span></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Palmas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20   hectáreas.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   San Antonio, 5 Brigadas de herramientas, 1 Brigada PC-CODE, 6 Técnicos, 2 helicópteros   de CONAF, 2 avión de CONAF, 1 avión Tankerr, 1 Avión de coordinación, 2   Skidder de CONA, 1 Puesto de mando de CONAF y 1 camión aljibe de CONAF.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Amarilla para las Comunas de San Antonio y Cartagena, por incendio forestal, que se encuentra vigente desde el 21 de diciembre de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

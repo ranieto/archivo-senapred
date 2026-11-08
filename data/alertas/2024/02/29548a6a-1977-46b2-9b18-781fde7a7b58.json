@@ -1,0 +1,20 @@
+{
+	"id": "29548a6a-1977-46b2-9b18-781fde7a7b58",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Ercilla por incendio forestal",
+	"fechaHora": "2024-02-21T12:50:00.000-03:00",
+	"createdAt": "2024-02-21T16:18:45.639Z",
+	"updatedAt": "2024-02-21T16:22:05.568Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-ercilla-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Malleco\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Ercilla\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes entregados por el Departamento de Protección contra Incendios Forestalesde CONAF, controlado se encuentra el incendio forestal denominado \"San Ramón 6\", el cual consume al momentoaproximadamente 500 hectáreas de vegetación en la comuna de Ercilla.Cabe mencionar, que el incendio ya no constituye amenaza directa a personas, viviendas y/o infraestructurascríticas.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPREDcancela la Alerta Amarilla para la Comuna de Ercilla, por incendio forestal, que se mantuvo vigente desde el20 de febrero de 2024.</p><p><strong><span style=\"color:black\">De acuerdo con la información</span></strong><strong><span style=\"color:black\">técnica proporcionada por CONAF, </span></strong><span style=\"color:black\">respecto al incendio forestal en la comuna de Ercilla se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><strong>Nombre del   incendio</strong></p></td><td><p>San Ramón 6</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Bajo Observación</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>500</p></td></tr></tbody></table>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

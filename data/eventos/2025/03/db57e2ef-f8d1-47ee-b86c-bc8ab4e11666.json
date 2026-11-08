@@ -1,0 +1,20 @@
+{
+	"id": "db57e2ef-f8d1-47ee-b86c-bc8ab4e11666",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad en las regiones de O’Higgins y Maule",
+	"fechaHora": "2025-03-01T18:12:00.000-03:00",
+	"createdAt": "2025-03-01T21:18:19.887Z",
+	"updatedAt": "2025-03-01T21:22:06.398Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-ohiggins-y-maule-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39",
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins, Región del Maule\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 18:06 horas en las regiones de O’Higgins y Maule.Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: O’Higgins</strong></p></td></tr><tr><td><p>San Fernando</p></td><td><p>III</p></td></tr><tr><td><p>Santa Cruz</p></td><td><p>III</p></td></tr><tr><td><p>Lolol</p></td><td><p>III</p></td></tr><tr><td><p>Región del   Maule</p></td><td></td></tr><tr><td><p>Curicó</p></td><td><p>III</p></td></tr><tr><td><p>Llico</p></td><td><p>III</p></td></tr></tbody></table><p><br> A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

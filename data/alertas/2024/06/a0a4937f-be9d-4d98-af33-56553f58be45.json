@@ -1,0 +1,20 @@
+{
+	"id": "a0a4937f-be9d-4d98-af33-56553f58be45",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Arauco por desborde ",
+	"fechaHora": "2024-06-17T10:20:00.000-04:00",
+	"createdAt": "2024-06-17T14:46:47.264Z",
+	"updatedAt": "2024-06-22T23:18:47.199Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-2",
+	"parentId": "eafebe43-44e7-4232-83b7-fb939ca409c2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Arauco\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red pluviométrica de “Río Pichilo” en Pichilo de la comuna de Arauco, se encuentra en umbral de Alerta Amarilla con tendencia a subida.<br></p><p style=\"text-align:justify\">Por otro lado, según la Dirección Meteorológica de Chile (DMC), mediante su Alerta Meteorológica AA47/2024 indica que se estiman precipitaciones moderadas a fuertes en corto periodo de tiempo para la provincia de Arauco, entre la madrugada y la mañana de hoy 17 de junio.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Roja por desborde, para la comuna de Arauco </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

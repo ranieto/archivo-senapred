@@ -1,0 +1,19 @@
+{
+	"id": "7c1a599b-6771-4b1d-bfd5-44f3aa8bf778",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Los Lagos",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-07-06T09:01:23.069Z",
+	"updatedAt": "2024-07-06T09:05:12.222Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-los-lagos",
+	"parentId": "be906480-0cbd-4835-ab34-65927515fcc4",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 04:40 horas en la Región de Los Lagos.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Los Lagos </strong></p></td></tr><tr><td><p>Castro:   </p></td><td><p>V</p></td></tr><tr><td><p>Ancud:   </p></td><td><p>IV</p></td></tr><tr><td><p>Calbuco:   </p></td><td><p>IV</p></td></tr><tr><td><p>Maullí­n:   </p></td><td><p>IV</p></td></tr><tr><td><p>Puerto   Montt: </p></td><td><p>III</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>El Centro Sismológico Nacional indica que la magnitud fue 4.2, localizada a 27 Kms al Este de Ancud.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "aea42612-fd83-4dd4-9a5e-0d51a1aab6f9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales",
+	"fechaHora": "2024-11-13T20:41:29.2929-03:00",
+	"createdAt": "2024-11-13T23:42:09.280Z",
+	"updatedAt": "2024-11-15T10:58:40.536Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-5",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con el Análisis Técnico realizado por la Corporación Nacional Forestal (CONAF), en base a los nuevos antecedentes meteorológicos pronosticados para los próximos días en la región, se estima una disminución en los factores de riesgo que podrían generar una probabilidad de ignición de vegetación y propagación de incendios forestales en la Región Metropolitana.</p><p>En consideración a estos antecedentes, la Dirección Regional Metropolitana del SENAPRED, en coordinación con la Corporación Nacional Forestal, <strong>cancela la Alerta Temprana Preventiva regional por Amenaza de Incendios Forestales</strong>, la cual se mantuvo vigente desde el 11 de noviembre de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

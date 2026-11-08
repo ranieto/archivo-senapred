@@ -1,0 +1,20 @@
+{
+	"id": "f63ba15c-04bc-4167-92e6-55286428fbe5",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Mulchén por incendio forestal",
+	"fechaHora": "2024-02-02T02:19:00.000-03:00",
+	"createdAt": "2024-02-02T05:24:48.001Z",
+	"updatedAt": "2024-02-03T23:52:26.715Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-mulchen-por-incendio-forestal",
+	"parentId": "17e94290-f863-47ea-9f0b-13a9995b838e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157460792\"><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong></a>&nbsp;se informa el siguiente detalle respecto del incendio forestal&nbsp;“Mininco VIII”, en la comuna de Mulchén:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p style=\"text-align:justify\">Mininco   VIII</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">150   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Incendio   se desarrolla cercano a sectores poblados. Además, presenta comportamiento   extremo del fuego, salto de pavesas y viento errático.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Trabajan   en el lugar 1brigada de CONAF.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED <strong>declara Alerta Roja para la Comuna de Mulchén por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align:justify\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

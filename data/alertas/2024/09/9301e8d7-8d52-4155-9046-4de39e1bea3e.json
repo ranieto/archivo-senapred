@@ -1,0 +1,20 @@
+{
+	"id": "9301e8d7-8d52-4155-9046-4de39e1bea3e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Los Lagos por evento meteorológico",
+	"fechaHora": "2024-09-21T23:49:00.000-03:00",
+	"createdAt": "2024-09-22T02:52:05.918Z",
+	"updatedAt": "2024-09-24T23:58:24.046Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-los-lagos-por-evento-meteorologico",
+	"parentId": "1f795498-49a9-4534-866a-3baa4d24b91c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Los Lagos y producto de la <strong>caída de nieve en la comuna de Palena</strong>, se reporta una <strong>interrupción del suministro de electricidad que afecta a 1.190 clientes</strong>, entre los cuales se encuentra la empresa COPEC que abastece de combustible a servicios de emergencia como <strong>Carabineros, Bomberos y Municipalidad</strong>.<br></p><p style=\"text-align:justify\">Producto de lo anterior, <strong>se encuentran restringido los servicios antes mencionados</strong>, mientras que el Hospital de Palena se mantiene con autonomía de combustible para su generador, hasta el lunes 23 de septiembre.</p><p style=\"text-align:justify\">Por otra parte, Bomberos facilitó a la empresa COPEC un generador eléctrico, donde se encuentra en proceso de gestión, el trabajo de un electricista que pueda realizar su instalación.</p><p style=\"text-align:justify\">Respecto a la conectividad, las rutas de los sectores rurales Valle California, El Tigre, El Diablo y El Tranquilo se encuentran habilitados solo para vehículos 4X4. En cuanto al Paso Fronterizo Río Encuentro, se mantendrá funcionando con normalidad, a intervalos de 1 hora, donde será abastecido por un generador de energía.</p><p style=\"text-align:justify\">Cabe señalar que la Provincia de Palena se encuentra con cielo cubierto y precipitaciones de agua-nieve.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>actualiza la Alerta Temprana Preventiva Regional por evento meteorológico, </strong>que se encuentravigente desde el 17 de septiembre y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\">En cuanto al restablecimiento del servicio, la empresa Eléctrica Edelaysén se encuentra trabajando para recuperar el sistema a la brevedad.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

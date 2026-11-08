@@ -1,0 +1,20 @@
+{
+	"id": "75df80d9-1c63-43c1-b918-0120482628b4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Río Claro por incendio forestal",
+	"fechaHora": "2024-12-12T16:59:16.1616-03:00",
+	"createdAt": "2024-12-12T20:03:53.018Z",
+	"updatedAt": "2024-12-12T20:39:12.274Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-rio-claro-por-incendio-forestal",
+	"parentId": "ff795959-500f-447d-9743-6a2ff6f301d9",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de <strong>Río Claro </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cruce de Chagres</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Río Claro y Talca; 1   brigada y 1 técnico de Conaf; además de 2 aviones cisterna y 1 helicóptero de   Conaf</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio cercano a sectores poblados</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Río Claro por incendio forestal, vigente desde hoy y hasta que las </span><span style=\"font-size:14px;color:#2E2E2E\">condiciones del incendio así lo ameriten.</span></p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

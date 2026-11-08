@@ -1,0 +1,20 @@
+{
+	"id": "6a58074c-aa27-4430-92b1-31d093973479",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Hualañé por incendio forestal",
+	"fechaHora": "2024-02-05T20:15:00.000-03:00",
+	"createdAt": "2024-02-05T23:56:11.493Z",
+	"updatedAt": "2024-02-05T23:57:14.937Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hualane-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Hualañé\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Departamento de Protección contra Incendios Forestales de CONAF, extinguido se encuentra el incendio forestal denominado Orilla de Navarro, el cual consumió una superficie de 500 hectáreas de vegetación en la comuna de Hualañé.<br></p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Hualañé, por incendio forestal, que se mantuvo vigente desde el 04 de febrero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

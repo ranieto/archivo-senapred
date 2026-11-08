@@ -1,0 +1,20 @@
+{
+	"id": "09bd33e3-89ec-4325-a53c-7f2176e32139",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Rauco por incendio forestal",
+	"fechaHora": "2025-01-24T13:07:00.000-03:00",
+	"createdAt": "2025-01-24T16:09:05.083Z",
+	"updatedAt": "2025-01-24T17:51:10.867Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-rauco-por-incendio-forestal-2",
+	"parentId": "d553fcc1-c7b6-49ad-9b55-6efde0c9fde0",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 15px\">De acuerdo con la&nbsp;</span><strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong><span style=\"font-size: 15px\">respecto del incendio forestal que se encuentra en la comuna de Rauco se reporta lo siguiente:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><a name=\"_Hlk158825090\"><strong><span style=\"font-size:15px\">Nombre del incendio</span></strong></a></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">El   Parrón 2</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">En   combate</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">0.01   hectáreas</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size:15px\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size:15px\">Incendio   se desarrolla cercano a sectores habitados.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Rauco por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

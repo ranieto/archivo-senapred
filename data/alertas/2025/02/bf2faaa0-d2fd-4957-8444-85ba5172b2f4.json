@@ -1,0 +1,20 @@
+{
+	"id": "bf2faaa0-d2fd-4957-8444-85ba5172b2f4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la Comuna de Negrete por incendio forestal",
+	"fechaHora": "2025-02-10T20:31:00.000-03:00",
+	"createdAt": "2025-02-11T00:27:57.863Z",
+	"updatedAt": "2025-02-11T22:43:11.701Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-negrete-por-incendio-forestal",
+	"parentId": "6e9906a9-51e4-4038-a746-c774a3d35ca1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Biobío\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Negrete\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Negrete </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>595 Renaico VIII</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Nacimiento y Negrete, 11 Brigadas CONAF, 3 Técnicos,   4 Helicóptero</p><p>3 Aviones Cisterna, 1 Brigada CMPC y 4 helicópteros</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Negrete, por incendio forestal, que se encuentra vigente desde el 10 de febrero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

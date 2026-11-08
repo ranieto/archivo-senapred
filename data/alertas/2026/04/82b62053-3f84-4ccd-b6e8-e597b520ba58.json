@@ -1,0 +1,20 @@
+{
+	"id": "82b62053-3f84-4ccd-b6e8-e597b520ba58",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Magallanes por viento",
+	"fechaHora": "2026-04-13T17:35:52.5252-04:00",
+	"createdAt": "2026-04-13T21:37:15.180Z",
+	"updatedAt": "2026-04-13T22:08:49.540Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-magallanes-por-viento-2026-04-11-18-18-31",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</span></strong><span style=\"color: black\"> se ha cancelado el siguiente alertamiento meteorológico para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span><br><br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A179</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Viento   normal a moderado (80 a 100 km/h) en los sectores de Río Verde, Villa   Tehuelches y Punta Delgada.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\"><br>En consideración a lo anterior, la Dirección Regional del SENAPRED Magallanes <strong>cancela la Alerta Temprana Preventiva por viento para la Provincia de Magallanes</strong>, que se mantuvo vigente desde el 11 de abril de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

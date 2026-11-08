@@ -1,0 +1,20 @@
+{
+	"id": "6556665c-615b-4de0-b099-12d940db6b42",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Tomé por incendio forestal",
+	"fechaHora": "2024-03-07T14:29:06.066-03:00",
+	"createdAt": "2024-03-07T17:29:55.868Z",
+	"updatedAt": "2024-03-07T17:30:59.652Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-tome-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Concepción\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Tomé\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por CONAF, el incendio forestal \"Quebrada Honda\" que afecta 20,4 hectáreas, se encuentra controlado.</span><br></p><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Tomé, por incendio forestal, que se mantuvo vigente desde el 06 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

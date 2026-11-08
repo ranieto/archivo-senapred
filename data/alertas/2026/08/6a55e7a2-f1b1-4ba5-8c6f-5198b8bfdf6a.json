@@ -1,0 +1,20 @@
+{
+	"id": "6a55e7a2-f1b1-4ba5-8c6f-5198b8bfdf6a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2026-08-28T22:36:22.2222-04:00",
+	"createdAt": "2026-08-29T02:37:13.938Z",
+	"updatedAt": "2026-08-30T20:39:24.934Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-08-21-16-05-02",
+	"parentId": "1c8c1ebd-1722-4ed3-9832-3f0ddb51c18b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Ñuble, se indica que, aproximadamente a las 21:00 horas de hoy se registró un evento de viento con características tornádicas en el sector Campanario de Cholguán de la comuna de Yungay.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe destacar que, preliminarmente se registran 3 viviendas, Planta de Arauco “Cholguán” y la Subestación Eléctrica “Cholguán” con daños en evaluación. Además, producto de este evento, se ha interrumpido el servicio básico de electricidad para 15.860 clientes en diversos sectores de las comunas de Yungay (11.212), El Carmen (2.686) y Pemuco (1.962).</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se encuentra vigente desde el 21 de agosto y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Trabajan en el lugar Bomberos, Carabineros, empresa eléctrica FRONTEL y personal municipal.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

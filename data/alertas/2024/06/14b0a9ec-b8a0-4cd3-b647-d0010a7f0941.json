@@ -1,0 +1,20 @@
+{
+	"id": "14b0a9ec-b8a0-4cd3-b647-d0010a7f0941",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Los Ángeles por desborde",
+	"fechaHora": "2024-06-09T02:49:00.000-04:00",
+	"createdAt": "2024-06-09T06:53:03.084Z",
+	"updatedAt": "2024-06-09T15:01:23.150Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-angeles-por-desborde",
+	"parentId": "da0d4c67-f2d8-4e54-b706-8409a527962a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Dirección General de Aguas (DGA),</strong> se indica que la estación de red pluviométrica del Estero Quilque, en el sector de La Vega en la comuna de Los Ángeles, se encuentra en umbral de Alerta Amarilla con tendencia de subida.<br></p><p style=\"text-align:justify\">Por otro lado, según los pronósticos elaborados por la Dirección Meteorológica de Chile, se prevé que continúen las precipitaciones durante el transcurso de las próximas horas en la comuna.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, que suponen un aumento del riesgo asociado a dicha variable la Dirección Regional del SENAPRED Biobío en coordinación con la Delegación Presidencial Regional, <strong>declara Alerta Roja por desborde, para la comuna de Los Ángeles </strong>vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la <strong>declaración de la Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

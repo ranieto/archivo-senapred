@@ -1,0 +1,20 @@
+{
+	"id": "c6b4c67e-f66d-4e84-bf97-bd030ec29950",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Arica y Parinacota y Tarapacá",
+	"fechaHora": "2023-12-20T09:16:00.000-03:00",
+	"createdAt": "2023-12-20T12:24:32.968Z",
+	"updatedAt": "2023-12-20T12:33:38.970Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-arica-y-parinacota-y-tarapaca-4",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f",
+		"c5cf4f65-dd68-4054-9e36-b4e061a82d7e"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá, Región de Arica y Parinacota\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><br></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las 09:13 en las regiones de Arica y Parinacota y Tarapacá</span></p><p style=\"text-align: justify\"><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Arica y Parinacota </strong></p></td></tr><tr><td><p>Arica   : </p></td><td><p>III</p></td></tr><tr><td><p>Codpa:   </p></td><td><p>III</p></td></tr><tr><td><p>Cuya:   </p></td><td><p>III</p></td></tr><tr><td><p>San   Miguel de Azapa: </p></td><td><p>III</p></td></tr><tr><td><p>Pocon   Chile: </p></td><td><p>II</p></td></tr><tr><td colspan=\"2\"><p><strong>Región:   Tarapaca </strong></p></td></tr><tr><td><p>Alto   Hospicio : </p></td><td><p>III</p></td></tr><tr><td><p>Iquique:   </p></td><td><p>III</p></td></tr></tbody></table><p><br></p><p><span style=\"font-size:16px\">Preliminar: El Centro Sismológico Nacional indica que la magnitud del sismo fue 6,2 y se localizó </span>150 Kms al Oeste de Arequipa</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "6b907112-c180-4db5-ab14-94c40ba93a14",
+	"type": "Evento",
+	"titulo": " Sismo de menor intensidad en la región de Coquimbo",
+	"fechaHora": "2023-11-26T20:13:00.000-03:00",
+	"createdAt": "2023-11-26T23:33:53.266Z",
+	"updatedAt": "2023-11-26T23:33:53.266Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-atacama-y-coquimbo",
+	"parentId": "44524ff1-04bb-49cb-9153-b8a28db5b25e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las </span><span style=\"font-size: 16px\">20:08 </span><span style=\"font-size: 16px\">horas </span><span style=\"font-size: 16px\">en la región de Coquimbo.&nbsp;</span><span style=\"font-size: 16px\">Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   Coquimbo </strong></p></td></tr><tr><td><p>La   Higuera: </p></td><td><p>III</p></td></tr><tr><td><p>Vicuña:   </p></td><td><p>II</p></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.<br></p><p><span style=\"font-size:16px\">(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 4.6 localizado a</span> 35 Kms al Noroeste de Huasco</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

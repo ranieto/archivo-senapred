@@ -1,0 +1,20 @@
+{
+	"id": "f70f22ed-5881-41fc-8d67-5b24ecaca042",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región de Coquimbo por evento masivo",
+	"fechaHora": "2024-10-22T09:26:00.000-03:00",
+	"createdAt": "2024-10-22T12:27:58.553Z",
+	"updatedAt": "2024-10-28T13:05:22.864Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-evento-masivo",
+	"parentId": "38fff4d4-a5fe-403a-8502-4a970f76faae",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, entre los días 26 y 27 de octubre, se realizará la “Elección General de Gobernador Regional, Consejeros Regionales, Alcaldes y Concejales 2024”, en la cual se espera una alta concentración de personas y un aumento en el flujo de desplazamiento en las quince comunas de la región, principalmente en torno a los distintos locales de votación designados por el Servicio Electoral de Chile (SERVEL), lo que supone un aumento de la vulnerabilidad a distintas variables de riesgo ante eventuales emergencias.<br></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo,&nbsp;</span><span style=\"color: black\">la&nbsp;</span><span style=\"color: black\">Dirección Regional del SENAPRED&nbsp;</span><strong><span style=\"color: black\">declara Alerta Temprana Preventiva Regional por evento masivo,&nbsp;</span></strong><span style=\"color: black\">vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

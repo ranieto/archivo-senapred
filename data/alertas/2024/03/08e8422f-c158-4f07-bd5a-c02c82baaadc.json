@@ -1,0 +1,20 @@
+{
+	"id": "08e8422f-c158-4f07-bd5a-c02c82baaadc",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Comuna de Collipulli por incendio forestal",
+	"fechaHora": "2024-03-18T16:15:56.5656-03:00",
+	"createdAt": "2024-03-18T19:16:54.073Z",
+	"updatedAt": "2024-03-18T19:17:10.054Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-collipulli-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\">De acuerdo con lo </span><strong>informado por el Departamento de Protección contra Incendios Forestales de CONAF</strong><span style=\"font-size: 14px\">, Controlado se encuentra el incendio forestal denominado \"Amargos\", el cual consume al momento 0.5 hectáreas de vegetación en la comuna de Collipulli.</span><br></p><p><span style=\"font-size: 14px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Collipulli, por incendio forestal, que se mantuvo vigente desde el 17 de marzo de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

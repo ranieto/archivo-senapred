@@ -1,0 +1,20 @@
+{
+	"id": "0f126840-fda1-4399-a0e5-a1d75fa7ea0f",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla para la provincia del Biobío y las comunas de Santa Juana, Hualqui, Coronel, Chiguayante, San Pedro de la Paz, Concepción y Hualpén por crecida",
+	"fechaHora": "2026-07-27T05:05:08.088-04:00",
+	"createdAt": "2026-07-27T09:07:13.683Z",
+	"updatedAt": "2026-08-01T18:32:48.321Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-del-biobio-por-crecida-2026-07-27-02-52-32",
+	"parentId": "556581fa-67d0-44fa-9070-a46b4b92ce07",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por Dirección General de Aguas (DGA), las estaciones hidrométricas mantienen un incremento significativo en sus caudales registrados, observando ascensos sostenidos en la estación “Río Biobío en Longitudinal” a una tasa de 17 centímetros por hora durante las últimas horas.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Se estima que este comportamiento continuará propagándose hacia aguas abajo, y en base a esta evolución, el incremento de caudal podría manifestarse en la estación “Río Biobío en Coihue”, ubicada en la comuna de Negrete, durante la mañana de hoy, haciendo necesario el reforzamiento de la vigilancia de las zonas ribereñas aguas abajo.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe señalar que el umbral establecido por la DGA indica una situación de riesgo manifestada, la cual, bajo un pronóstico o condición desfavorable podría alcanzar una alerta roja, generando en tal caso una situación de emergencia.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>modifica la cobertura de Alerta Amarilla para la provincia del Biobío por crecida, añadiendo a las comunas de Santa Juana, Hualqui, Coronel, Chiguayante, San Pedro de la Paz, Concepción y Hualpén.</strong> La presente alerta se mantiene vigente desde hoy 27 de julio y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "4f38e653-eabf-4f07-9b04-663dc421fbf6",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la Provincias de Valparaíso y Marga Marga por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2024-03-14T01:50:19.736Z",
+	"updatedAt": "2024-03-14T16:34:29.999Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-provincias-de-valparaiso-y-marga-marga-por-incendio-forestal",
+	"parentId": "5ada0968-7dd2-403d-92ba-7f1eb86834e7",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF), se informa el siguiente detalle respecto del incendio forestal “Cerro Cordillera”, en la comuna de Valparaíso:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Cerro Cordillera</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.0   hectáreas.</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio   forestal Cerro Cordillera se mantiene en combate, con amenaza a viviendas.</p><p>Activación   de mensajería SAE:</p><p>-21:36   horas evacuación del sector Chaparro Alto.</p><p>-21:49   horas evacuación de los sectores Santa María y Guillermo Bravo .</p><p>-21:52   horas evacuación de los sectores Chaparro y calle cantera.</p><p>-22:02   horas evacuación del sector La Cantera, Cerro Alegre.</p><p>-22:05   horas evacuación del sector Calle Campanilla, Cerro Alegre.</p><p>-22:07   horas evacuación del sector Alfredo Vargas Stoller, Cerro Alegre.</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos   de Valparaíso; 3 brigadas y 1 técnico de Conaf. Además, se encuentran en   trayecto 3 brigadas y 4 Técnicos de CONAF</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size:16px\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para las Provincias de Valparaíso y Marga Marga, por incendio forestal, que se encuentra vigente desde el 02 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

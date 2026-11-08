@@ -1,0 +1,20 @@
+{
+	"id": "f2e0ff0c-ab7f-44fe-947e-e0d3a2885318",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja por incendio forestal para la comuna de Chillán",
+	"fechaHora": "2025-02-17T20:43:00.000-03:00",
+	"createdAt": "2025-02-17T23:47:49.695Z",
+	"updatedAt": "2025-02-17T23:49:11.580Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chillán\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Chillán </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Las Pataguas</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>2 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Chillán, 6 Brigadas CONAF, 3 Avión cisterna, 1   helicóptero y 1 UAD.</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para la comuna de Chillán con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "d68f8f85-a620-4d08-81c1-19d39f506bdc",
+	"type": "Evento",
+	"titulo": "Sismo de mediana intensidad en la Región de Los Lagos",
+	"fechaHora": "2024-07-06T04:46:00.000-04:00",
+	"createdAt": "2024-07-06T09:05:19.025Z",
+	"updatedAt": "2024-07-06T09:06:35.456Z",
+	"urlAccess": "sismo-de-mediana-intensidad-en-la-region-de-los-lagos",
+	"parentId": "7c1a599b-6771-4b1d-bfd5-44f3aa8bf778",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de mediana intensidad se percibió a las 04:40 horas en la Región de Los Lagos.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son las siguientes:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región: Los Lagos</strong></p></td></tr><tr><td><p>Castro:</p></td><td><p>V</p></td></tr><tr><td><p>Puerto Montt:</p></td><td><p>III</p></td></tr></tbody></table><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p style=\"text-align: justify\">El Centro Sismológico Nacional indica que la magnitud fue 4.2, localizada a 26 Kms al Este de Ancud.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

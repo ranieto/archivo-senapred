@@ -1,0 +1,20 @@
+{
+	"id": "78b06c24-515f-4fa4-9984-a28a344053a8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de La Araucanía por evento meteorológico",
+	"fechaHora": "2025-03-30T18:01:00.000-03:00",
+	"createdAt": "2025-03-30T21:02:27.572Z",
+	"updatedAt": "2025-03-30T21:03:27.280Z",
+	"urlAccess": "se-declara-alerta-temprana-para-la-region-de-la-araucania-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para la Región de La Araucanía:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso 112</p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas en Litoral, Cordillera de la Costa, Valle y   Precordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso 114-1</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas, en corto periodo de tiempo en Precordillera.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso 115-1</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en Litoral y Cordillera de la Costa.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes</span><span style=\"color:black\">y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento meteorológico</strong>, que se mantenía vigente desde el 26 de marzo de 2025.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c50e52ff-701c-4c38-a7dd-7654800873fc",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Puerto Varas por evento meteorológico",
+	"fechaHora": "2025-05-25T20:00:00.000-04:00",
+	"createdAt": "2025-05-26T00:21:47.510Z",
+	"updatedAt": "2025-06-14T04:28:19.373Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-puerto-varas-por-evento-meteorologico",
+	"parentId": "245ef5a4-c340-498b-a966-0164f8f6e0f4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por la Dirección Regional de SENAPRED Los Lagos, con relación a la ocurrencia de un tornado en la comuna de Puerto Varas, se reportan 8 personas lesionadas, 2 familias albergadas y 109 viviendas con daños en evaluación. Cabe señalar, que los equipos desplegados en terreno se encuentran realizado la evaluación de daños correspondiente.</p><p style=\"text-align:justify\">Por otra parte, se determinó la suspensión de clases para el lunes 26 de mayo en todos los establecimientos educacionales tanto públicos como privados de la comuna.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>mantiene&nbsp;</strong><strong>la Alerta Roja para la comuna de Puerto Varas por evento meteorológico</strong>, que se encuentra vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que se mantiene Alerta Amarilla regional por evento meteorológico.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Durante la jornada de hoy se han realizado 2</span><span style=\"color:black\"> Comité de Gestión del Riesgo de Desastres (COGRID), 1 regional (Los Lagos) y 1 comunal (Puerto Varas), a fin de evaluar la afectación derivada de este evento y coordinar los cursos de acción respectivos.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otra parte, durante la jornada de mañana lunes 26 de mayo se iniciará la aplicación de las ficha FIBE en las viviendas del sector, a fin de cuantificar los daños derivados de este evento. Cabe señalar que se encuentra habilitado un albergue en el gimnasio municipal, para dar resguardo a las personas afectadas.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En tanto, se solicitó la activación del <em>roaming</em> de emergencia, con el fin de mantener las comunicaciones en la comuna.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Finalmente, se encuentran desplegados 100 efectivos de Carabineros, 10 de PDI junto a 2 unidades móviles. Además, se solicitó al Ejército de Chile apoyo humanitario para realizar trabajos en la zona. </span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "27f07909-76a8-484e-b516-4b193a394ea4",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Toltén por remoción en masa",
+	"fechaHora": "2024-06-26T17:30:00.000-04:00",
+	"createdAt": "2024-07-09T19:36:35.249Z",
+	"updatedAt": "2024-07-09T19:36:35.249Z",
+	"urlAccess": "monitoreo-alerta-roja-para-la-comuna-de-tolten-por-remocion-en-masa",
+	"parentId": "8333c9a5-bd7d-409d-a017-81273a02ce87",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Remoción en Masa\",\"nombreImg\":\"deslizamientos.png\"}",
+	"contenido": "<p><span style=\"color: black\">La información proporcionada por la Dirección Regional del SENAPRED La Araucanía y en base a los antecedentes proporcionados por el municipio de Toltén, reporta que producto del evento meteorológico en curso se han producido activaciones de quebradas con remociones en masa, lo cual ha afectado a 3 viviendas. Además, se mantiene en riesgo una cantidad indeterminada de viviendas e infraestructura critica en diversos sectores de la localidad de Queule, en la comuna de Toltén.</span><br></p><p style=\"text-align: justify\">Asimismo, de acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentran vigentes los siguientes alertamientos meteorológicos para la región, Alerta AA55/2024 que pronostica precipitaciones moderadas a fuertes y Aviso A245-2/2024 que prevé precipitaciones normales a moderadas en zonas de la región.</p><p style=\"text-align: justify\"><span style=\"color: black\">Por su parte,&nbsp;</span><span style=\"color: black\">SERNAGEOMIN, mediante su Minuta Técnica por Peligro de Remoción en masa emitida en la presente jornada, señala la&nbsp;<strong>posibilidad de ocurrencia de remociones en masa</strong>, tales como flujos de detritos (aluviones), deslizamientos y/o caída de rocas (derrumbes)en toda la región.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes y a la información técnica de SERNAGEOMIN, la Dirección Regional de&nbsp;</span><span style=\"color: black\">SENAPRED La Araucanía, en coordinación con la Delegación Presidencial Regional</span><span style=\"color: black\">,&nbsp;<strong>declara Alerta Roja para la comuna de Toltén por remoción en masa</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black\">Con la declaración de la&nbsp;<strong>Alerta Roja</strong>&nbsp;se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "d42d4bdb-4177-45c6-a2e2-7c7438b406d2"
+}

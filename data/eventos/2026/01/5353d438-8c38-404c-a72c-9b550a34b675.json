@@ -1,0 +1,19 @@
+{
+	"id": "5353d438-8c38-404c-a72c-9b550a34b675",
+	"type": "Evento",
+	"titulo": "Evacuación en comuna de Concepción, Región del Biobío",
+	"fechaHora": "2026-01-21T17:05:00.000-03:00",
+	"createdAt": "2026-01-21T21:01:15.947Z",
+	"updatedAt": "2026-01-21T21:03:15.937Z",
+	"urlAccess": "procesos-de-evacuacion-con-mensajeria-sae-21012026-2026-01-21-14-02-20",
+	"parentId": "458e8e19-8fb3-4804-bd51-c70baf4d7583",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<table><tbody><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Sector</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\"><span style=\"font-size: 16px\">Puente 4, Chaimavida y Alto Dibueno</span></span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Comuna</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Concepción</span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Hora</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">17:04<br></span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Amenaza</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Incendio forestal</span></div></td></tr></tbody></table><div><br></div>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

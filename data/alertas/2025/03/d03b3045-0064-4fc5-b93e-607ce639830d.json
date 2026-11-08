@@ -1,0 +1,20 @@
+{
+	"id": "d03b3045-0064-4fc5-b93e-607ce639830d",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por amenaza de incendios forestales",
+	"fechaHora": "2025-03-05T20:00:00.000-03:00",
+	"createdAt": "2025-03-05T23:16:12.956Z",
+	"updatedAt": "2025-03-07T23:47:42.277Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-5",
+	"parentId": "433ceb69-6545-4e2f-bd11-0e3e985ff920",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La Dirección Regional de SENAPRED cancela Alerta Temprana Preventiva regional por amenaza de&nbsp;incendios forestales, con base a la información técnica proporcionada por CONAF, que señala lo siguiente:</p><p>&nbsp;Asociado a un sistema frontal en la zona sur del país se prevé una reducción de la probabilidad de<br>propagación de incendios forestales en la región de Ñuble el día 7 de marzo de 2025, respecto a variables&nbsp;meteorológicas y al estado de la vegetación. Particularmente se proyecta un aumento de la humedad&nbsp;relativa, superior a 70% en la región, temperatura máxima de 21°C y humedad del combustible fino muerto<br>entre 12 y 25% (SAPIF - CONAF). Durante la jornada del viernes 7 de marzo se prevé el registro de&nbsp;precipitaciones en la región, estimadas entre 5 y 15 milímetros dependiendo del sector (en cordillera y valle&nbsp;se estiman montos superiores respecto a la costa).<br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

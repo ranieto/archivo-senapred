@@ -1,0 +1,20 @@
+{
+	"id": "d29bbc30-4c39-46a3-8c84-f021cae295ae",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla y declara Alerta Roja para la comuna de Santo Domingo por incendio forestal",
+	"fechaHora": "2024-11-24T16:59:01.011-03:00",
+	"createdAt": "2024-11-24T20:02:35.912Z",
+	"updatedAt": "2024-11-26T14:23:09.666Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-santo-domingo-por-incendio-forestal-2",
+	"parentId": "b49ea24f-6f5d-496f-9adc-2075c5c2ff0f",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color:black\">técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Santo Domingo se informa el siguiente detalle:</span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Bucalemu</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>10 hectáreas </p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Santo Domingo, 7 brigadas de Conaf, 3 técnicos de Conaf, 3 aviones cisterna, 3 helicópteros de Conaf, 1 avión de coordinación de Conaf.</p></td></tr></tbody></table><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Cabe mencionar, que el incendio se encuentra cercano a sectores poblados.&nbsp;</span></p><p><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Producto de este incendio se&nbsp;activó mensajería SAE para evacuar sectores Santa Rosa y&nbsp;Panguirosa.</span></p><p></p><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">cancela la Alerta Amarilla y declara Alerta Roja para la comuna de Santo Domingo por incendio forestal,&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p><span style=\"font-size:14px;color:#2E2E2E\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;</span><span style=\"color: rgb(46, 46, 46);font-size: 14px\">Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

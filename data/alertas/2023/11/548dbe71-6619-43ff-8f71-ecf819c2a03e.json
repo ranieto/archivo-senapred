@@ -1,0 +1,20 @@
+{
+	"id": "548dbe71-6619-43ff-8f71-ecf819c2a03e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para las comunas de Los Andes y San Esteban por amenaza de desborde",
+	"fechaHora": "2023-11-28T02:25:00.000-03:00",
+	"createdAt": "2023-11-28T05:29:43.408Z",
+	"updatedAt": "2023-11-28T13:58:24.241Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-amenaza-de-desborde",
+	"parentId": "be064067-8ce8-4653-aaa4-94c671747842",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Los Andes\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Los Andes, San Esteban\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, mediante su sistema de monitoreo de caudales en línea, se indica que la estación “Río Aconcagua en Chacabuquito” alcanzó el umbral amarillo con un nivel de 2.29 metros y un caudal de 145.43 m<sup>3</sup>/s.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone un aumento del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Amarilla para las comunas de Los Andes y San Esteban por amenaza de desborde</strong>, vigente desde hoy y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

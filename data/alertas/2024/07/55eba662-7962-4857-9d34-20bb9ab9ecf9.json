@@ -1,0 +1,20 @@
+{
+	"id": "55eba662-7962-4857-9d34-20bb9ab9ecf9",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Tarapacá por evento masivo",
+	"fechaHora": "2024-07-18T00:05:00.000-04:00",
+	"createdAt": "2024-07-18T04:05:39.731Z",
+	"updatedAt": "2024-07-18T04:05:56.410Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-tarapaca-por-evento-masivo",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED de Tarapacá, respecto a la celebración denominada “La Fiesta de La Tirana 2024”, se informa el retiro considerable de los asistentes a la actividad, lo cual prevé una disminución del riesgo asociado a este evento.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva regional por evento masivo</strong>, que se mantenía vigente desde el 11 de julio de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

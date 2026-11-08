@@ -1,0 +1,20 @@
+{
+	"id": "3e90e511-a2ae-459e-897b-eec5db950123",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región del Biobío por evento meteorológico",
+	"fechaHora": "2025-03-07T19:15:00.000-03:00",
+	"createdAt": "2025-03-07T22:26:45.683Z",
+	"updatedAt": "2025-03-07T22:32:08.084Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-biobio-por-evento-meteorologico-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso A71-2/2025 el cual pronosticaba viento normal a moderado en cordillera de la región, así como el Aviso A74-1/2025 que pronosticaba precipitaciones normales a moderadas en corto periodo de tiempo en precordillera y cordillera de la Región del Biobío. Lo anterior, debido al debilitamiento de las condiciones que los originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dichas variables y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva&nbsp;</strong><strong>Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 05 de marzo de 2025.</span></p>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

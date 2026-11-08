@@ -1,0 +1,20 @@
+{
+	"id": "5607b9b7-409e-4ca2-9461-05157ec024c0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Los Alamos por incendio forestal",
+	"fechaHora": "2025-02-15T11:10:00.000-03:00",
+	"createdAt": "2025-02-15T14:16:06.109Z",
+	"updatedAt": "2025-02-16T00:15:52.570Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-los-alamos-por-incendio-forestal-2",
+	"parentId": "6401458f-fad0-4bc2-a1cc-57e1ae29f832",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"Arauco\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Los Álamos\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la&nbsp;<strong>comuna de Los Alamos </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>ARAUCANA TRES PINOS</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>33 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Los Alamos y 2 Brigadas terrestres CONAF</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Los Alamos, por incendio forestal, que se mantuvo vigente desde el 13 de febrero de 2025.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

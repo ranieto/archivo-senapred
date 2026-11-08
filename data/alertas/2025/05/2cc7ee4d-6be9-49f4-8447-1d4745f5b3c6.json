@@ -1,0 +1,20 @@
+{
+	"id": "2cc7ee4d-6be9-49f4-8447-1d4745f5b3c6",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las provincias de Palena y Chiloé por evento meteorológico",
+	"fechaHora": "2025-05-17T11:36:14.1414-04:00",
+	"createdAt": "2025-05-17T15:37:22.552Z",
+	"updatedAt": "2025-05-17T15:38:39.470Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-palena-por-evento-meteorologico",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el siguiente alertamiento meteorológico para la Región de Los Lagos:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA37</p></td><td><p style=\"text-align:justify\">Precipitaciones   moderadas a fuertes en corto periodo de tiempo,en zonas de Litoral,   Cordillera Costa, Valle, Precordillera, Cordillera, Chiloé, Litoral Interior,   Cordillera Austral y Patagonia Sub andina.</p></td></tr></tbody></table><p style=\"text-align:justify\">Asimismo, han sido modificadas las coberturas territoriales de los siguientes alertamientos, los cuales ya no consideran a la Región de Los Lagos como parte de ellos:</p><table><tbody><tr><td><p><strong><span style=\"color:black\">Alertamiento actualizado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Actual cobertura</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta AA34-3</p></td><td><p style=\"text-align:justify\">Entre   las regiones del Maule y Biobío.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso A167-5</p></td><td><p style=\"text-align:justify\">Entre   las regiones de Valparaíso y Biobío.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar, que se mantiene vigente el Aviso Meteorológico A176 por probables tormentas eléctricas en los sectores de valle, Chiloé y litoral interior de la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Amarilla por evento meteorológico para las provincias de Palena y Chiloé</strong>, que se mantenía vigente desde el 16 de mayo.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

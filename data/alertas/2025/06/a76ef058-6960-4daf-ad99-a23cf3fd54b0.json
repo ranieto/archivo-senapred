@@ -1,0 +1,20 @@
+{
+	"id": "a76ef058-6960-4daf-ad99-a23cf3fd54b0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2025-06-30T17:52:17.1717-04:00",
+	"createdAt": "2025-06-30T21:53:21.661Z",
+	"updatedAt": "2025-06-30T21:54:08.217Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-12",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Ñuble:</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Alerta   AA57</p></td><td><p style=\"text-align:justify\">Heladas moderadas   a intensas en cordillera costa, valle y precordillera de la región.</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A242-2</p></td><td><p style=\"text-align:justify\">Heladas normales a   moderadas con probabilidad de formación de escarcha en cordillera de la   costa, valle y precordillera de la región.</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, y en coordinación con la Delegación Presidencial Regional del Ñuble, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Regional por evento meteorológico, que se mantuvo vigente desde el 27 de junio de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "230c1fa4-bda1-4e8a-9649-989f05fb83a2",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Roja para la Región Metropolitana por calor extremo",
+	"fechaHora": "2026-01-13T20:11:00.000-03:00",
+	"createdAt": "2026-01-13T23:25:37.374Z",
+	"updatedAt": "2026-01-13T23:26:03.390Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-metropolitana-por-calor-extremo-2026-01-09-10-50-28",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con la <strong>información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong> ha sido cancelado el siguiente alertamiento meteorológico para la Región Metropolitana, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><p style=\"text-align: justify\"><span style=\"font-size:15px;color:black\"><br></span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Aviso A7-7</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Altas temperaturas en cordillera de la costa, valle y precordillera </span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional Metropolitana, la Dirección Regional del SENAPRED <strong>Cancela la Alerta Roja Regional por calor extremo, </strong>que se mantenía vigente desde el 09 de enero.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

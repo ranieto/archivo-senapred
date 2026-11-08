@@ -1,0 +1,20 @@
+{
+	"id": "b08e7483-d7f0-4a01-9017-4a3e3bdb4423",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Linares por incendio forestal",
+	"fechaHora": "2026-02-12T20:50:41.4141-03:00",
+	"createdAt": "2026-02-12T23:51:35.438Z",
+	"updatedAt": "2026-02-22T15:10:23.568Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-linares-por-incendio-forestal-2026-02-12-20-51-19",
+	"parentId": "084373d7-a99c-4b72-a608-f3f9c5a1d6bd",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color:black\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf, </span></strong><span style=\"color: black\">respecto al incendio forestal en la comuna de Linares se informa el siguiente detalle:</span></p><p><span style=\"color: black\"><br></span></p><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>CAJON DE PEJERREY</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>120 (ha)</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>2 técnicos de Conaf</p></td></tr><tr><td><p><strong>Observaciones</strong></p></td><td><p>Incendio se encuentra cercano a Área   Protegida (ASP y Privada)</p></td></tr></tbody></table><p></p><p><span style=\"font-size:12px\"><br></span></p><p><span style=\"font-size:12px\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Linares por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></p><p></p><p><span style=\"font-size:12px\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

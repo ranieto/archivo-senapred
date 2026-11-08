@@ -1,0 +1,20 @@
+{
+	"id": "61152d95-4039-48a5-8092-e08b29eab2c0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por viento",
+	"fechaHora": "2024-02-01T22:23:00.000-03:00",
+	"createdAt": "2024-02-02T01:23:43.149Z",
+	"updatedAt": "2024-02-03T21:39:10.599Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-viento-2",
+	"parentId": "dc769eba-91a2-499c-be8b-8deffb92dc42",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con </span><strong>la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong><span style=\"color: black\">ha sido </span><strong>cancelado</strong><span style=\"color: black\"> el </span><strong>Aviso Meteorológico A21/2024</strong><span style=\"color: black\">, que pronosticó la ocurrencia de </span><strong>viento normal a moderado</strong><span style=\"color: black\"> en la zona de cordillera austral sur, insular sur, pampa patagónica norte y pampa patagónica sur de la Región de Magallanes y de la Antártica Chilena. Lo anterior, </span><strong>debido al debilitamiento de las condiciones meteorológicas que lo originaron</strong><span style=\"color: black\">.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, en coordinación con la Delegación Presidencial de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional</strong>, que se mantenía vigente desde el 31 de enero.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

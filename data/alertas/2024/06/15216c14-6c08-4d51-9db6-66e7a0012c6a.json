@@ -1,0 +1,20 @@
+{
+	"id": "15216c14-6c08-4d51-9db6-66e7a0012c6a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Pucón por amenaza de desborde ",
+	"fechaHora": "2024-06-29T16:20:00.000-04:00",
+	"createdAt": "2024-06-29T20:56:38.308Z",
+	"updatedAt": "2024-06-29T20:57:03.854Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-pucon-por-amenaza-de-desborde",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Pucón\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, se indica que la estación de red hidrométrica “río Trancura antes río Llafenco” en la comuna de Pucón, ha alcanzado los valores del umbral de Alerta Azul, con tendencia a la baja en su caudal.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para la comuna de Pucón,</strong> que se mantuvo vigente desde el 27 de junio de 2024.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

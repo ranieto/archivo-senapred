@@ -1,0 +1,20 @@
+{
+	"id": "a54a1173-40b2-4b54-85af-4a320660fca8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la comuna de Diego de Almagro por evento meteorológico ",
+	"fechaHora": "2026-02-26T11:03:00.000-03:00",
+	"createdAt": "2026-02-26T14:20:24.756Z",
+	"updatedAt": "2026-02-26T14:21:35.193Z",
+	"urlAccess": "se-cancela-alerta-temprana-preventiva-y-declara-alerta-amarilla-para-la-comuna-de-diego-de-almagro-por-evento-meteorologico-2026-02-24-02-26-00",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido canceladas las Alertas AA57/2026 por tormentas eléctricas y AA56/2026 por precipitaciones moderadas a fuertes en corto periodo de tiempo. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por evento meteorológico para la comuna de Diego de Almagro, </strong>que se encuentra vigente desde el 23 de febrero de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

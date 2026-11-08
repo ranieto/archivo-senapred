@@ -1,0 +1,20 @@
+{
+	"id": "63fb9b06-647a-41c5-99ee-8bffb4faacf2",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para las Comunas de Retiro y San Javier por incendio forestal",
+	"fechaHora": "2024-01-20T13:04:00.000-03:00",
+	"createdAt": "2024-01-20T16:26:52.489Z",
+	"updatedAt": "2024-01-21T22:12:15.596Z",
+	"urlAccess": "se-declara-alerta-roja-para-las-comunas-de-retiro-y-san-javier-por-incendio-forestal",
+	"parentId": "73d4421a-5320-492d-a5a5-b0315f0e80b8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Linares\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Retiro, San Javier\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal <span style=\"font-size: 14px;color: rgb(46, 46, 46)\">\" El Quillay Maureira \"</span>, en las comunas de Retiro y San Javier, se informa los siguiente:<br></p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Maule, la Dirección Regional de SENAPRED mantiene la Alerta Roja para las Comunas de Retiro y San Javier, por incendio forestal, que se encuentra vigente desde el 18 de enero de2024</p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p><span style=\"font-size:14px;color:#2E2E2E\">El Quillay Maureira</span></p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>1.014 hectáreas</p></td></tr><tr><td><p><strong>Recursos   involucrados</strong></p></td><td><p><span style=\"color:black\">Incendio no presenta avance, con puntos calientes   al interior del área quemada.</span></p></td></tr></tbody></table><p>En el lugar trabajan, 4 brigadas de CONAF, 2 brigadas de Arauco, 1 brigada de Mininco, 6 técnico CONAF, 1 técnico Arauco, 1 técnico Minico, 1 helicóptero CONAF, 1 Helicóptero SENAPRED, 1 puesto de mando CONAF, 1 puesto de Mando Forestal Arauco y 1 camión Aljibe Forestal Mininco.</p><p>A momento se mantiene 01 bodega destruida, sin afectación a viviendas o infraestructura crítica.</p><p>- Activación preventiva de Comité de Provincial y Comunal de Gestión de Riesgo y Desastre de Emergencia, ˊpuesta a punto de Enlaces de Coordinación y Planificación de Operaciones de Emergencia.&nbsp;</p><p> - Efectiva información a la comunidad.&nbsp;</p><p> - Las maquinarias entregadas en Comodato por SENAPRED a los Municipios deberán estar preparadas y con ˊconductores de turno, ante la eventualidad de que deban desplazarse en la Región debido a una situación de emergencia.<br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

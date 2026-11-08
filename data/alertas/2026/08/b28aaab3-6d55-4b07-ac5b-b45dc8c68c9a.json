@@ -1,0 +1,20 @@
+{
+	"id": "b28aaab3-6d55-4b07-ac5b-b45dc8c68c9a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para las comunas de San Clemente y Colbún por crecida y cancela Alerta Amarilla ",
+	"fechaHora": "2026-08-27T13:17:58.5858-04:00",
+	"createdAt": "2026-08-27T17:21:16.806Z",
+	"updatedAt": "2026-09-01T21:49:25.038Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-clemente-y-colbun-por-crecida-2026-08-25-17-45-57",
+	"parentId": "91c18ec6-5a9c-42a1-a8ef-edae7cca3798",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA</strong>), se ha iniciado el vertimiento controlado desde el Embalse Colbún a contar de las 09:02 horas de hoy jueves 27 de agosto, con un caudal de 50 m³/s. Esta operación se pronostica que dure al menos 6 horas.</p><p><br></p><p style=\"text-align:justify\">Cabe destacar que, las estaciones de red hidrométrica “<strong>Estación Río Maule en Armerillo”</strong>, <strong>“Estación Río Melado en el Salto”</strong> yla <strong>“Estación Río Perquilauquén en San Manuel”</strong> se encuentran con valores de <strong>umbral azul.</strong></p><p style=\"text-align: justify\"><strong><br></strong></p><p style=\"text-align:justify\"><strong>En virtud a los antecedentes </strong><strong>proporcionados y en consideración con los organismos técnicos involucrados y SENAPRED, según lo establecido en la Ley N° 20.304, mantienen la Alerta de crecida en Embalse Colbún</strong>, que se encuentra vigente desde el 25 de agosto y hasta que las condiciones así lo ameriten.</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Además, por lo indicado en el Anexo 3 del protocolo y según los antecedentes expuestos, <strong>SENAPRED cancela la Alerta Amarilla para las comunas de San Clemente y Colbún por crecida,</strong> que se mantuvo vigente desde el 25 de agosto y declara <strong>Alerta Roja para las comunas de San Clemente y Colbún por crecida,</strong> vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

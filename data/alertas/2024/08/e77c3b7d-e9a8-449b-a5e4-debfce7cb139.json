@@ -1,0 +1,20 @@
+{
+	"id": "e77c3b7d-e9a8-449b-a5e4-debfce7cb139",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Arauco por desborde",
+	"fechaHora": "2024-08-01T09:13:59.5959-04:00",
+	"createdAt": "2024-08-01T13:17:52.832Z",
+	"updatedAt": "2024-08-03T20:49:10.458Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-arauco-por-desborde-3",
+	"parentId": "88a6d267-d9c1-46d9-a256-95c6130b32e1",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p>De acuerdo <strong>con la información proporcionada por la</strong><strong>Dirección General de Aguas</strong> (DGA), se indica que las estaciones de <strong>red pluviométrica del Río Pichilo y Río Lía en la comuna de Arauco</strong>, se encuentran <strong>en alerta roja con tendencia a subida</strong>.&nbsp; &nbsp;&nbsp;<br></p><p style=\"text-align:justify\">Por otro lado, la <strong>Dirección Meteorológica de Chile</strong> (DMC) en su <strong>Informe de Amenaza Meteorológica</strong>, pronostica <strong>precipitaciones para los siguientes días en la zona</strong>, sumado al registro histórico que ha presentado el Río Pichilo en los eventos meteorológicos anteriores.</p><p style=\"text-align:justify\">En consideración a estos antecedentes, <span style=\"color:black\">que suponen un aumento del riesgo asociado a dicha variable, y en coordinación con </span>la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde para la comuna de Arauco</strong>, <span style=\"color:black\">vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de esta <strong>Alerta Roja</strong>, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

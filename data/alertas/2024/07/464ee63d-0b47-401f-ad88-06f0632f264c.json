@@ -1,0 +1,20 @@
+{
+	"id": "464ee63d-0b47-401f-ad88-06f0632f264c",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por evento meteorológico",
+	"fechaHora": "2024-07-26T20:21:02.022-04:00",
+	"createdAt": "2024-07-27T00:22:27.488Z",
+	"updatedAt": "2024-07-27T00:23:15.504Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-viento-3",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, han sido cancelados los siguientes alertamientos meteorológicos para Isla de Pascua:<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento cancelado</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA61</p></td><td><p style=\"text-align:justify\">Viento   moderado a fuerte.</p></td></tr><tr><td><p style=\"text-align:justify\">Alerta   AA62</p></td><td><p style=\"text-align:justify\">Tormentas   eléctricas.</p></td></tr><tr><td><p style=\"text-align:justify\">Aviso   A278</p></td><td><p style=\"text-align:justify\">Viento   normal a moderado.</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela Alerta Temprana Preventiva para la Provincia de Isla de Pascua por evento meteorológico,</strong> que se mantuvo vigente desde el 24 de julio del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

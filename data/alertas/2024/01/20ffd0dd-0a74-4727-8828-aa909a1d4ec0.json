@@ -1,0 +1,20 @@
+{
+	"id": "20ffd0dd-0a74-4727-8828-aa909a1d4ec0",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas",
+	"fechaHora": "2024-01-27T12:59:30.3030-03:00",
+	"createdAt": "2024-01-27T16:08:25.167Z",
+	"updatedAt": "2024-02-09T15:14:30.256Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-del-tamarugal-por-evento-meteorologico",
+	"parentId": "a24436e7-1e9a-49b5-bc1f-818f82de2823",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Tarapacá, </strong>luego de nuevas evaluaciones producto de las precipitaciones registradas en la localidad de Cariquima, comuna de Colchane, se indica que 16 personas resultaron damnificadas, 1 vivienda destruida, 4 con daño mayor y 94 con daño menor.<br></p><p>Cabe señalar, que 4 de los damnificados se encuentran albergados en el colegio de la localidad de Cariquima, mientras que los 12 restantes, fueron derivados a casa de familiares.</p><p>Considerando estos antecedentes, la Dirección Regional del SENAPRED de Tarapacá mantiene Alerta Temprana Preventiva para la provincia del Tamarugal por tormentas eléctricas, que se mantiene vigente desde el 16 de enero de 2024. </p><p>Personal municipal trabajó en el lugar con apoyo de maquinaria, para evitar el paso del agua al sector y a su vez, en la evaluación de la afectación de la población; por otra parte, se solicitaron 3 viviendas de emergencia para las familias afectadas.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

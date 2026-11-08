@@ -1,0 +1,20 @@
+{
+	"id": "8f24e7da-2485-476b-965e-5454c6f4926d",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la comuna de Santa Bárbara por incendio forestal",
+	"fechaHora": "2025-03-31T16:20:32.3232-03:00",
+	"createdAt": "2025-03-31T19:23:35.668Z",
+	"updatedAt": "2025-04-01T22:09:36.871Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-biobio-por-amenaza-de-incendios-forestales-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto a los incendios forestales en la comuna de Santa Bárbara, se informa el siguiente detalle:</p><div><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>LAGUNA PIRQUINCO</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Bajo observación</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>670 hectáreas</p></td></tr></tbody></table></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Biobío, <strong>la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Santa Bárbara por incendio forestal,</strong> que se mantuvo vigente desde el 30 de marzo de 2025.</div>",
+	"tipoAlertaId": "",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

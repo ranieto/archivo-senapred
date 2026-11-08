@@ -1,0 +1,20 @@
+{
+	"id": "e2731788-27e3-47b8-9a2a-c75a08b7489d",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para las comunas de Pinto y Coihueco por actividad del Complejo Volcánico Nevados de Chillán",
+	"fechaHora": "2026-09-25T10:39:25.2525-03:00",
+	"createdAt": "2026-09-25T13:45:26.290Z",
+	"updatedAt": "2026-10-08T22:10:39.222Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-pinto-y-coihueco-por-actividad-del-complejo-volcanico-nevados-de-chillan-2026-06-15-18-49-10",
+	"parentId": "e7904e99-e9a0-4343-aeca-4fbc0b13701e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por el Observatorio Volcánico de los Andes del Sur (OVDAS) del Servicio Nacional de Geología y Minería (SERNAGEOMIN), el <strong>Complejo Volcánico Nevados de Chillán mantiene la alerta técnica en nivel </strong><strong>Amarillo<sup> [1]</sup>.</strong></p><p><strong><br></strong></p><p style=\"text-align:justify\">En relación con el <strong>Reporte Especial de Actividad Volcánica (REAV) </strong>emitido hoy viernes 25 de septiembre, se informa que las estaciones de monitoreo instaladas en las inmediaciones del Complejo Volcánico Nevados de Chillán registraron un sismo de largo periodo (LP) asociado a movimiento de fluidos al interior del sistema volcánico. &nbsp;</p><p style=\"text-align: justify\"><br></p><p style=\"text-align:justify\">Las características del sismo luego de su análisis son las siguientes:</p><p style=\"text-align: justify\"><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Tiempo de   origen:</strong></p></td><td><p style=\"text-align:justify\">09:46 horas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>DR:</strong></p></td><td><p style=\"text-align:justify\">211 cm<sup>2</sup>.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Señal   acústica</strong></p></td><td><p style=\"text-align:justify\">6,3 Pa reducido a 1 km.</p></td></tr></tbody></table><p style=\"text-align:justify\">Cabe destacar que, luego de ocurrido el evento se sigue observando sismicidad asociada a movimiento de fluidos (LP y TR) de menor energía. Este evento podría estar relacionado a una explosión con emisión de material en superficie, sin embargo, debido a condiciones meteorológicas desfavorables no es posible visualizar actividad explosiva superficial. No se descarta la ocurrencia de eventos similares o de mayor energía.</p><p style=\"text-align: justify\"><br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a estos antecedentes técnicos proporcionados por SERNAGEOMIN, y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Temprana Preventiva </strong>para las comunas de Pinto y Coihueco, por actividad del Complejo Volcánico Nevados de Chillán, que se encuentra vigente desde el 15 de junio del 2026 y hasta que las condiciones así lo ameriten.</p><p style=\"margin-right: 2.55pt;margin-left: 0cm;text-align: justify\"><br></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Finalmente, SERNAGEOMIN continúa la vigilancia permanente del volcán en línea y la Dirección Regional del SENAPRED mantendrá las coordinaciones con los integrantes del Sistema Regional de Prevención y Respuesta ante Desastres para alertar oportunamente y dar adecuada respuesta ante eventuales situaciones de emergencia producto de la condición volcánica.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

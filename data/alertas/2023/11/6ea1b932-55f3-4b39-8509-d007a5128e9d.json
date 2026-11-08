@@ -1,0 +1,20 @@
+{
+	"id": "6ea1b932-55f3-4b39-8509-d007a5128e9d",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Temprana Preventiva para la Región de Antofagasta por tormentas eléctricas",
+	"fechaHora": "2023-11-09T13:04:00.000-03:00",
+	"createdAt": "2023-11-09T16:24:54.215Z",
+	"updatedAt": "2023-11-11T11:54:03.982Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-por-tormentas-electricas",
+	"parentId": "4209c923-add5-4039-8c9b-d018fabe9c59",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Tormentas eléctricas\",\"nombreImg\":\"tormentaselectricas.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se encuentra vigente los siguientes alertamientos técnicos para la Región de Antofagasta.<br></p><div><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso A423-3</strong></p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas, con precipitaciones aisladas, en sectores cordilleranos   de la región, preferentemente durante la tarde noche.</p></td><td><p>08/11</p></td><td><p>10/11</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Aviso 435</strong></p></td><td><p style=\"text-align:justify\">Probables   tormentas eléctricas, en sectores de cordillera de la costa, precordillera y   precordillera salar.</p></td><td><p>09/11</p></td><td><p>10/11</p></td></tr></tbody></table></div><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Temprana Preventiv</strong><strong>a a regional</strong>, por tormentas eléctricas, que se encuentra vigente desde hoy 08 de noviembre y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">La actualización de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em><span style=\"color: black\">SENAPRED&nbsp;</span></em></strong></span><em><span style=\"color: black\">recomienda a la población evitar la proximidad a maquinarias, cercas o rejas de metal, alambrados y líneas eléctricas y/o de telefonía; y no utilizar equipos radiales, aparatos GPS, teléfonos fijos o móviles durante la tormenta. </span></em><span style=\"color: rgb(0, 0, 0);font-size: 15px\"><strong><em></em></strong></span><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "00081ce9-b743-4c21-8473-40e58908363a"
+}

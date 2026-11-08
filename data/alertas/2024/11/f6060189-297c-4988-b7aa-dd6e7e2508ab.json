@@ -1,0 +1,20 @@
+{
+	"id": "f6060189-297c-4988-b7aa-dd6e7e2508ab",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por amenaza de incendios forestales",
+	"fechaHora": "2024-11-15T11:03:53.5353-03:00",
+	"createdAt": "2024-11-15T14:10:19.133Z",
+	"updatedAt": "2024-11-15T14:10:46.113Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-coquimbo-por-amenaza-de-incendios-forestales-2",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo a lo indicado por CONAF, se informa que las condiciones que generaron la presente alerta, ya nose encuentran vigentes.</p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, encoordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPREDcancela la Alerta Temprana Preventiva para la Región de Coquimbo, por amenaza de incendios forestales,que se mantuvo vigente desde el 11 de noviembre de 2024.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

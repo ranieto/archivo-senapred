@@ -1,0 +1,20 @@
+{
+	"id": "5c6021c6-9f19-4ba1-966e-a82e3cdc623e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la provincia de Los Andes por alteración sanitaria",
+	"fechaHora": "2024-12-02T17:30:22.2222-03:00",
+	"createdAt": "2024-12-02T20:32:50.165Z",
+	"updatedAt": "2024-12-02T20:32:50.165Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-los-andes-por-alteracion-sanitaria",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la SEREMI de Salud de Valparaíso, mediante su informe técnico “Estado Vectorial AEDES AEGYPTI,” indica que desde el año 2022, la presencia del vector <em>Aedes Aegypti</em> muestra una clara tendencia estacional y un aumento importante en el año 2024, señalando que los hallazgos del vector se concentran predominantemente en los meses de verano, cuya actividad se intensifica en climas cálidos y húmedos.</p><p style=\"text-align:justify\">Es importante destacar que, en el presente año se han detectado más de 40 muestras positivas, sugiriendo la necesidad de intensificar las medidas de control durante la temporada estival para evitar la proliferación de nuevas poblaciones, es por ello que, en los meses de mayor actividad del vector corresponden a los periodos en los que las acciones preventivas deben ser más intensivas, como el control químico residual, las inspecciones vectoriales para detección, control y las campañas de eliminación de criadero.</p><p style=\"margin-right:0cm;margin-left:0cm;text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla por alteración sanitaria para la provincia de Los Andes</strong>, que permanece vigente desde el 16 de abril del 2024 y hasta que las condiciones del evento así lo ameriten.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

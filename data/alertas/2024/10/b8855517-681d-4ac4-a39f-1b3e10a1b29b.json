@@ -1,0 +1,20 @@
+{
+	"id": "b8855517-681d-4ac4-a39f-1b3e10a1b29b",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Antofagasta por evento zoosanitario",
+	"fechaHora": "2024-10-15T11:31:00.000-03:00",
+	"createdAt": "2024-10-15T14:34:29.657Z",
+	"updatedAt": "2024-10-15T14:35:03.384Z",
+	"urlAccess": "se-actualiza-alerta-temprana-preventiva-para-la-region-de-antofagasta-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG)</span></strong><span style=\"color: black\"> y mediante el Oficio N°1.969/2024 y la Minuta Técnica “Término de emergencia de Influenza Aviar Altamente Patógena (IAAP)”, se informa que ha finalizado la emergencia por Influenza Aviar Altamente Patógena H5N1 en el territorio nacional, tras un esfuerzo exitoso de erradicación del virus en aves de corral y una vigilancia sostenida en aves silvestres, corroborando la ausencia de circulación viral.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, el Servicio Nacional de Pesca y Acuicultura (SERNAPESCA a través de la Minuta Ejecutiva “Situación Influenza Aviar Altamente Patógena (IAAP) en Fauna Marina Protegida”, informa que, de acuerdo con los registros nacionales de varamiento, se confirma la negatividad en las especies muestreadas, manteniendo de forma preventiva el monitoreo en los varamientos de fauna marina protegida y control en aves migratorias. Producto de lo anterior, se considera finalizada de manera técnica y administrativa la emergencia zoosanitaria en la región.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a esta variable y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento zoosanitario</strong>, la cual se mantuvo vigente desde el 20 de diciembre de 2023.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

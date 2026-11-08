@@ -1,0 +1,19 @@
+{
+	"id": "80897e7e-1a9d-4558-97e3-792e1b7e2904",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de  Antofagasta",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-10T03:37:47.317Z",
+	"updatedAt": "2023-10-26T03:31:28.860Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-2",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 00:18 horas en la Región de Antofagasta. Las intensidades en escala de Mercalli son:<br></p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Antofagasta </strong></div></td></tr><tr><td><div>Antofagasta:</div></td><td><div>III</div></td></tr></tbody></table><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p>El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.6 localizado a 39 Kms al Este de Antofagasta.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "3656b645-4294-4507-bd4a-6165d3894f78",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela Alerta Amarilla para la comuna de Pichilemu por incendio forestal",
+	"fechaHora": "2025-12-15T20:18:00.000-03:00",
+	"createdAt": "2025-12-15T23:33:54.254Z",
+	"updatedAt": "2025-12-17T00:02:06.238Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-pichilemu-por-incendio-forestal-2025-12-15-16-47-33",
+	"parentId": "406d63e9-c676-4ed4-b435-ab7aee74a931",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la comuna de Pichilemu se informa el siguiente detalle:</p><div><table><tbody><tr><td><p><a name=\"_Hlk182357831\"><strong>Nombre del incendio</strong></a></p></td><td><p>Panilonco</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>274 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Bomberos de Litueche, Paredones, Navidad, Marchigüe, La Estrella, Pichilemu, Peralillo, Pumanque, Palmilla, Santa Cruz, Codegua y Graneros</p><p>8 brigadas terrestres, 5 técnicos, 8 aeronaves, 2 camiones cisterna, 4 maquinarias pesadas skidder y 2 aviones Tanker.</p></td></tr></tbody></table></div><div>De acuerdo con la información técnica proporcionada por CONAF, el incendio forestal se desarrolla a una distancia promedio de 1000 metros de la población Coguil. Ademas se presenta un viento sobre los 30 km/h, lo que facilita la propagación del incendio y caída de pavesas en la zona poblada.</div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins,&nbsp;<strong>la Dirección Regional de SENAPRED cancela la Alerta Amarilla y declara Alerta Roja para la comuna de Pichilemu por incendio forestal,&nbsp;</strong>vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</div><div>Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

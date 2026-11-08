@@ -1,0 +1,20 @@
+{
+	"id": "8c40eaff-e1a6-458e-a456-3e3acea58d86",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chillán por incendio forestal ",
+	"fechaHora": "2025-12-17T19:36:00.000-03:00",
+	"createdAt": "2025-12-17T22:47:21.413Z",
+	"updatedAt": "2025-12-17T22:48:05.675Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal-2025-12-17-16-38-24",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Chillán, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>San Bernardo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Chillán, 3 brigada de CONAF, 3   técnicos de Conaf y 1 Unidad investigación de Causa CONAF</p></td></tr><tr><td><p><strong>Descripción </strong></p></td><td><p>Incendio con cercanía a sectores poblados</p></td></tr></tbody></table><p style=\"text-align:justify\">La Dirección Regional de SENAPRED cancela Alerta Roja por incendio forestal para la comuna de Chillán con base en el informe de alerta técnica emitido por la Dirección Regional de CONAF.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

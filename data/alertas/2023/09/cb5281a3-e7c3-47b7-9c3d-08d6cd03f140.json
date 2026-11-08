@@ -1,0 +1,20 @@
+{
+	"id": "cb5281a3-e7c3-47b7-9c3d-08d6cd03f140",
+	"type": "Alerta",
+	"titulo": "prueba 2",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-09-24T23:09:14.494Z",
+	"updatedAt": "2023-09-25T10:32:33.047Z",
+	"urlAccess": "prueba",
+	"parentId": "dbca3254-3874-4e2c-ace8-bf206b36207e",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Iquique\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"Iquique\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Materiales peligrosos - Inflamable\",\"nombreImg\":\"materialespeligrosinflamable.png\"}",
+	"contenido": "<p>prueba 2</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "25794b7f-47c9-4609-8cd1-786967488857"
+}

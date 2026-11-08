@@ -1,0 +1,20 @@
+{
+	"id": "63ce0c71-9c1f-4170-8b7e-94d0fc182eb1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Chillán Viejo por incendio forestal",
+	"fechaHora": "2024-01-26T19:11:13.1313-03:00",
+	"createdAt": "2024-01-26T22:12:19.952Z",
+	"updatedAt": "2024-01-26T22:13:39.509Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-viejo-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Chillán Viejo\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto al incendio forestal denominado \" Quilmo\", en la comuna de Chillán Viejo, se reporta lo siguiente;<br></p><table><tbody><tr><td><p><a name=\"_Hlk157137226\"><strong>Nombre del incendio</strong></a></p></td><td><p>Quilmo</p></td></tr><tr><td><p><strong>Comuna </strong></p></td><td><p>Chillán Viejo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>3.8 hectáreas</p></td></tr></tbody></table><p><span style=\"font-size:14px;color:#2E2E2E\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED cancela la Alerta Roja para la Comuna de Chillán Viejo, por incendio forestal, que se mantuvo vigente desde el 26 de enero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

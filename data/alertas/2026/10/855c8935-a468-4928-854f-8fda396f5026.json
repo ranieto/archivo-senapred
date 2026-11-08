@@ -1,0 +1,20 @@
+{
+	"id": "855c8935-a468-4928-854f-8fda396f5026",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Punta Arenas por desborde",
+	"fechaHora": "2026-10-03T08:46:06.066-03:00",
+	"createdAt": "2026-10-03T11:47:43.704Z",
+	"updatedAt": "2026-10-05T16:28:58.121Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-punta-arenas-por-desborde-2026-10-02-21-05-44",
+	"parentId": "f2568450-54e2-4b19-bc4a-615e351c953a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por Dirección General de Aguas (DGA)</strong>, las estaciones hidrométricas en la comuna de Punta Arenas mantienen el siguiente registro en sus caudales:<br><br></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"color:black\">Estación Hidrométrica</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Umbral</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Tendencia</span></strong></p></td></tr><tr><td><p style=\"text-align:justify\">Río   San Juan en Desembocadura</p></td><td><p style=\"text-align:center\">Rojo</p></td><td><p style=\"text-align:center\">Subiendo</p></td></tr><tr><td><p style=\"text-align:justify\">Río   Las Minas en BT Sendos</p></td><td><p style=\"text-align:center\">Amarillo</p></td><td><p style=\"text-align:center\">Bajando</p></td></tr><tr><td><p style=\"text-align:justify\">Río   Las Minas en Punta Arenas</p></td><td><p style=\"text-align:center\">Azul</p></td><td><p style=\"text-align:center\">Bajando</p></td></tr><tr><td><p style=\"text-align:justify\">Río   Las Minas en Fortuna</p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">Estable</p></td></tr><tr><td><p style=\"text-align:justify\">Estero   Llau-Llau en confluencia D’Agostini</p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">Bajando</p></td></tr></tbody></table><p style=\"text-align:justify\"><br>Producto de un aumento de caudal del Estero Llau-Llau y el registro de daños en 1 vivienda, 3 personas fueron evacuadas, sin lesiones, desde su hogar hacia casa de familiares.<br><br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Roja por desborde para la comuna de Punta Arenas</strong>, que se encuentra vigente desde el 02 de octubre y hasta que las condiciones así lo ameriten.<br><br></p><p style=\"text-align:justify\">Con esta Alerta Roja, se mantendrán movilizados todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.<br><br></p><p style=\"text-align:justify\">A la fecha, se han realizado 3 Comités para la Gestión del Riesgo de Desastres en la región, a fin de coordinar acciones preventivas y el trabajo de los equipos de emergencia en la comuna de Punta Arenas.</p><p style=\"text-align:justify\"><br>Desde el 02 de octubre, personal municipal y Carabineros se mantienen realizando recorridos en sectores periurbanos, cauces y desembocaduras, a fin de verificar el estado de caminos y detectar oportunamente posibles situaciones de riesgo. Del mismo modo, la Dirección de Obras Hidráulicas (DOH) utilizó maquinaria para despejar troncos desde los pilares del Puente ubicado en Calle O’Higgins.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}

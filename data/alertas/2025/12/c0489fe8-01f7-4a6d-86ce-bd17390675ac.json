@@ -1,0 +1,20 @@
+{
+	"id": "c0489fe8-01f7-4a6d-86ce-bd17390675ac",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Litueche por incendio forestal",
+	"fechaHora": "2025-12-24T00:43:42.4242-03:00",
+	"createdAt": "2025-12-24T03:47:49.173Z",
+	"updatedAt": "2025-12-24T16:18:23.870Z",
+	"urlAccess": "se-declara-alerta-amarila-para-la-comuna-de-litueche-por-incendio-forestal-2025-12-23-15-20-28",
+	"parentId": "5ccf4a3b-982c-4155-bbca-bd78667ef7f7",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información&nbsp;</span></strong><strong><span style=\"color: black\">técnica proporcionada por Conaf,&nbsp;</span></strong><span style=\"color: black\">respecto al incendio forestal en la&nbsp;<strong>comuna de Litueche,&nbsp;</strong>se informa el siguiente detalle:</span></p><div><table><tbody><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Central Rapel</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">550 hectáreas</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Cuerpos de Bomberos de Litueche, Navidad, Pichilemu y Marchigüe, 6 brigadas terrestres, 4 técnicos, 1 puesto de mando, 3 helicópteros de Conaf, 2 aviones Cisterna de Conaf, 2 aviones Tanker y 2 puestos de mando.</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la informacion tecnica proporcionada por CONAF el incendio forestal se encuentra activo, afectando 500 ha de vegetación por confirmar con intensidad de media a baja, los recursos nocturnos asignados se encuentran desplegados trabajando en su control. </span></p><p><span style=\"color: rgb(0, 0, 0)\">Ademas y producto de lo anterior, se informa de 3 viviendas destruidas por este incendio. Por otra parte, se han enviado 4 mensajes SAE para reforzar los procesos de evacuación en la zona.<br></span></p></td></tr></tbody></table></div><div><span style=\"color: rgb(0, 0, 0)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, <strong>la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Litueche por incendio forestal</strong>, que se encuentra vigente desde el 23 de diciembre de 2025.</span><br></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

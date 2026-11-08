@@ -1,0 +1,20 @@
+{
+	"id": "af68ffb2-4917-4944-a2b5-f547969df9a6",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Roja para las comunas de Quirihue y Ninhue por incendio forestal",
+	"fechaHora": "2025-01-10T22:01:01.011-03:00",
+	"createdAt": "2025-01-11T01:06:34.369Z",
+	"updatedAt": "2025-01-11T23:57:55.064Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-quirihue-por-incendio-forestal-2",
+	"parentId": "ec654d72-7455-4786-a664-66bcb1f61ad5",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que se encuentra en las comunas de Quirihue y Ninhue, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\">Nombre del incendio</p></td><td><p style=\"text-align:justify\">La Quebrada</p></td></tr><tr><td><p style=\"text-align:justify\">Comuna (sector)</p></td><td><p style=\"text-align:justify\">Quirihue (La Quebrada)</p></td></tr><tr><td><p style=\"text-align:justify\">Estado</p></td><td><p style=\"text-align:justify\">En combate</p></td></tr><tr><td><p style=\"text-align:justify\">Superficie</p></td><td><p style=\"text-align:justify\">200 hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\">Recursos</p></td><td><p style=\"text-align:justify\">13 brigadas, 5 técnicos de CONAF, 9 aeronaves y   13 carros de Bomberos</p></td></tr><tr><td><p style=\"text-align:justify\">Observaciones</p></td><td><p style=\"text-align:justify\">Incendio se desarrolla cercano a sectores   poblados.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, la Dirección Regional de SENAPRED modifica cobertura de Alerta Roja para las comunas de Quirihue y Ninhue por incendio forestal.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

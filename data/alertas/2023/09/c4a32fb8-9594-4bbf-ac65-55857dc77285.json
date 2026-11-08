@@ -1,0 +1,20 @@
+{
+	"id": "c4a32fb8-9594-4bbf-ac65-55857dc77285",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para las comunas de Carahue, Saavedra, Teodoro Schmidt y Toltén por viento",
+	"fechaHora": "2023-09-11T16:50:00.000-03:00",
+	"createdAt": "2023-09-11T20:16:50.273Z",
+	"updatedAt": "2023-10-26T02:01:25.697Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-carahue-saavedra-teodoro-schmidt-y-tolten-por-viento",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><br></p><p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), se encuentra vigente el siguiente alertamiento técnico para la Región de La Araucanía:<br></p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Aviso A364</span></strong></p></td><td><p style=\"text-align:justify\">Viento   normal a moderado en litoral y cordillera de la costa, entre la tarde y la   noche del miércoles 13 de septiembre.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva </strong>para las comunas de Carahue, Saavedra, Teodoro Schmidt y Toltén por viento, vigente desde hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

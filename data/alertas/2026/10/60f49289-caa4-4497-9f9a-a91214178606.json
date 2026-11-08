@@ -1,0 +1,20 @@
+{
+	"id": "60f49289-caa4-4497-9f9a-a91214178606",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de San Felipe de Aconcagua, Los Andes y Petorca por evento meteorológico",
+	"fechaHora": "2026-10-15T13:03:00.000-03:00",
+	"createdAt": "2026-10-15T16:15:26.330Z",
+	"updatedAt": "2026-10-15T16:18:33.463Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-evento-meteorologico-2026-10-10-13-30-11",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, mediante la Actualización de su Aviso Meteorológico A544-5 por Probables tormentas eléctricas con probabilidad de granizos y fuertes rachas de vientos locales entre las regiones del Maule y Biobío, dando por finalizada la vigencia del aviso para la Región de Valparaíso, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>Cancela la Alerta Temprana Preventiva por evento meteorológico para las provincias de San Felipe de Aconcagua, Los Andes y Petorca,</strong> que se mantuvo vigente desde el 10 de octubre del 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

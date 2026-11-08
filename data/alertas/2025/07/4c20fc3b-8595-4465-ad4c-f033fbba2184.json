@@ -1,0 +1,20 @@
+{
+	"id": "4c20fc3b-8595-4465-ad4c-f033fbba2184",
+	"type": "Alerta",
+	"titulo": "Se modifica variable y cobertura de Alerta Temprana Preventiva para la Región de Coquimbo por evento meteorológico",
+	"fechaHora": "2025-07-29T17:57:00.000-04:00",
+	"createdAt": "2025-07-29T22:06:36.246Z",
+	"updatedAt": "2025-08-02T21:42:24.944Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comuna-de-la-higuera-vicuna-paihuano-rio-hurtado-monte-patria-combarbala-illapel-y-salamanca-por-viento",
+	"parentId": "3f49a8e4-485a-4938-83ea-8ccec3ab928c",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), </strong>se encuentran vigentes los siguientes alertamientos meteorológicos para la Región de Coquimbo.</p><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Inicio</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Fin</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A283-2</p></td><td><p style=\"text-align:justify\">Viento normal a   moderado en cordillera de la región (entre 25 y 40 con rachas de 80 km/h)</p></td><td><p style=\"text-align:center\">30-07</p></td><td><p style=\"text-align:center\">31-07</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A287-3</p></td><td><p style=\"text-align:justify\">Precipitaciones   normales a moderadas en sectores de litoral (15 – 24 mm), cordillera de la   costa (20 – 29 mm), precordillera y valles precordilleranos (25 – 34 mm) de   la región.</p></td><td><p style=\"text-align:center\">31-07</p></td><td><p style=\"text-align:center\">31-07</p></td></tr><tr><td><p style=\"text-align:center\">Aviso   A289-1</p></td><td><p style=\"text-align:justify\">Nevadas normales a   moderadas en el sector cordillerano de la región (20 – 40 cm)</p></td><td><p style=\"text-align:center\">31-07</p></td><td><p style=\"text-align:center\">01-08</p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>modifica variable y cobertura de la&nbsp;</strong><strong>Alerta Temprana Preventiva a regional por evento meteorológico</strong>, que se encuentra vigente desde el 27 de julio de 2025.</span></p><p><span style=\"font-size:15px;color:black\">La modificación de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c3eb0f12-36b8-4125-9f6f-598673cbbf3e",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chillán Viejo por incendio forestal",
+	"fechaHora": "2025-12-17T15:40:00.000-03:00",
+	"createdAt": "2025-12-17T18:51:50.838Z",
+	"updatedAt": "2025-12-18T23:21:54.052Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-viejo-por-incendio-forestal-2025-12-17-15-51-34",
+	"parentId": "37dbe8b8-3054-4701-a3e1-bf4cc937b5e4",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Chillán Viejo, </strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Quillay</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.1</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de bomberos de Chillan viejo, 5 brigadas CONAF, 1 técnico   CONAF, 2 Avión cisterna CONAF, 1 Helicóptero CONAF y 1 móvil combustible   CONAF.</p></td></tr><tr><td><p><strong>Descripción </strong></p></td><td><p>Incendio con cercanía a sectores poblados</p></td></tr></tbody></table><p style=\"text-align:justify\">Esta declaración estará vigente a contar de la hora del presente informe y hasta que las condiciones así lo ameriten.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "b2956140-edf6-4408-972d-5289cad5d97a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva por precipitaciones, para las comunas de Mariquina, Valdivia, Corral y La Unión",
+	"fechaHora": "2024-05-17T23:35:59.5959-04:00",
+	"createdAt": "2024-05-18T03:38:22.811Z",
+	"updatedAt": "2024-05-21T22:09:35.743Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-por-precipitaciones-para-las-comunas-de-mariquina-valdivia-corral-y-la-union",
+	"parentId": "feca5ab4-490f-4a48-ba48-7aa70caf7a2e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"7d97d64c-1c97-4f2a-b9e1-9d85f01cf1cb"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de los Ríos\",\"nombreVariable\":\"Precipitaciones - Sistema frontal\",\"nombreImg\":\"precipitacionessistemafrontal.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), mediante la actualización del informe de amenaza meteorológica emitido en la jornada de hoy, el cual indica precipitaciones (mm) en la Región de Los Ríos, según el siguiente detalle:<br></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong>Sector</strong></p></td><td><p style=\"text-align:center\"><strong>Sábado   18 </strong></p></td><td><p style=\"text-align:center\"><strong>Domingo   19</strong></p></td><td><p style=\"text-align:center\"><strong>Lunes   20</strong></p></td></tr><tr><td><p style=\"text-align:center\"><strong>Litoral</strong></p></td><td rowspan=\"2\"><p style=\"text-align:center\">Entre   1 y 5</p></td><td><p style=\"text-align:center\">Entre   15 y 30</p></td><td><p style=\"text-align:center\">Entre   30 y 50</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Cordillera   de la costa</strong></p></td><td><p style=\"text-align:center\">Entre   15 y 30</p></td><td><p style=\"text-align:center\">Entre   30 y 50</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Valle   longitudinal</strong></p></td><td><p style=\"text-align:center\">Inferiores   a 3</p></td><td><p style=\"text-align:center\">Entre   10 y 25</p></td><td><p style=\"text-align:center\">Entre   10 y 20</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Precordillera</strong></p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">Entre   15 y 35</p></td><td><p style=\"text-align:center\">Entre   15 y 30</p></td></tr><tr><td><p style=\"text-align:center\"><strong>Cordillera</strong></p></td><td><p style=\"text-align:center\">-</p></td><td><p style=\"text-align:center\">Entre   10 y 25 cm</p></td><td><p style=\"text-align:center\">Entre   15 y 30 cm</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente que supone un aumento del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Los Ríos, la Dirección Regional del SENAPRED, <strong>declara Alerta Temprana Preventiva por precipitaciones, para las comunas de Mariquina, Valdivia, Corral y La Unión</strong>, vigente a contar de hoy y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><a name=\"_Hlk124948893\"></a></p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "6581d68f-fe17-41b5-951c-55030fbe7e11"
+}

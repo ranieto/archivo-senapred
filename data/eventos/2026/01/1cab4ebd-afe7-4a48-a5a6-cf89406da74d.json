@@ -1,0 +1,19 @@
+{
+	"id": "1cab4ebd-afe7-4a48-a5a6-cf89406da74d",
+	"type": "Evento",
+	"titulo": "Evacuación en comuna de Quillón, Región del Ñuble",
+	"fechaHora": "2026-01-21T19:01:22.2222-03:00",
+	"createdAt": "2026-01-21T22:03:13.164Z",
+	"updatedAt": "2026-01-22T11:04:49.155Z",
+	"urlAccess": "procesos-de-evacuacion-con-mensajeria-sae-21012026-2026-01-21-14-02-20",
+	"parentId": "8e94ff6e-8c39-4e2e-8827-8c296cbf0c61",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<table><tbody><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Sector</strong></span></div></td><td><div><span style=\"color:#000000\"><span style=\"font-size: 16px\">Queime</span></span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Comuna</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Quillón</span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Hora</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">18:31 - 18:58<br></span></div></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>Amenaza</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Incendio forestal</span></div></td></tr></tbody></table><div><br></div>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "304f896d-60e9-4723-9cfc-a5ab4a3fe32a",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Las Cabras por incendio forestal",
+	"fechaHora": "2024-12-09T17:34:41.4141-03:00",
+	"createdAt": "2024-12-09T20:41:00.628Z",
+	"updatedAt": "2024-12-09T21:56:52.485Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-las-cabras-por-incendio-forestal-6",
+	"parentId": "a0724be8-8949-429c-94f2-af04d7bca26a",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Incendio se mantiene activo en todos sus sectores en intensidad media</p><table><tbody><tr><td><div>Nombre del incendio</div></td><td><div>Las Balsas</div></td></tr><tr><td><div>Comuna</div></td><td><div>Las Cabras (Las Balsas)</div></td></tr><tr><td><div>Estado</div></td><td><div>En combate&nbsp;</div></td></tr><tr><td><div>Superficie</div></td><td><div>1 hectárea</div></td></tr><tr><td><div>Recursos</div></td><td><div>1 compañía de Bomberos (Las Cabras), 5 brigadas CONAF, 3 aeronave CONAF, 1 técnico CONAF, 1 puesto de mando CONAF y 3 ambulancias SAMU.</div></td></tr></tbody></table><p style=\"text-align: justify\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Las Cabras, por incendio forestal, que se encuentra vigente desde el 09 de diciembre de 2024.</p><p><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

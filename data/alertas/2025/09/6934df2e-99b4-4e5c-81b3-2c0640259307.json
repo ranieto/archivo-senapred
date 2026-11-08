@@ -1,0 +1,20 @@
+{
+	"id": "6934df2e-99b4-4e5c-81b3-2c0640259307",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región del Maule por evento masivo",
+	"fechaHora": "2025-09-22T09:21:00.000-03:00",
+	"createdAt": "2025-09-22T12:30:27.692Z",
+	"updatedAt": "2025-09-22T12:30:39.661Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-maule-por-evento-masivo-4",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px\">De acuerdo con la información proporcionada por la Dirección Regional de SENAPRED Maule, se informa la finalización de las actividades asociadas a los distintos eventos masivos y celebraciones asociadas en la Región del Maule. </span></p><p style=\"text-align:justify\"><span style=\"font-size:15px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento masivo</strong>, que se mantenía vigente desde el 11 de septiembre de 2025. </span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

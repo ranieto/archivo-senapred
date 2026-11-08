@@ -1,0 +1,19 @@
+{
+	"id": "cf417cb9-36f5-44ac-ae05-1aa4253fd016",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de La Araucanía",
+	"fechaHora": "2024-08-05T16:54:59.5959-04:00",
+	"createdAt": "2024-08-05T20:56:51.475Z",
+	"updatedAt": "2024-08-05T21:04:21.502Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-la-araucania-5",
+	"parentId": "22aa886a-dc2b-413a-a669-d645f515a17b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 16:48 horas en la Región de La Araucanía. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong>Región:   La Araucanía </strong></p></td></tr><tr><td><p>Temuco:   </p></td><td><p>III</p></td></tr></tbody></table><p>A través del Sistema Nacional de Prevención y Respuesta ante Desastres se evalúan eventuales daños a personas, alteración a servicios básicos o infraestructura producto de este sismo.<br></p><p>(PRELIMINAR) El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.4 localizado a20 Kms al Sur de Temuco.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

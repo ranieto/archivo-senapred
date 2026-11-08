@@ -1,0 +1,20 @@
+{
+	"id": "ebffa6cc-45b0-4d5e-896d-cee814d56536",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Temprana Preventiva para la Provincia de Cardenal Caro por evento zoosanitario",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-26T01:28:20.292Z",
+	"updatedAt": "2023-10-26T01:30:03.287Z",
+	"urlAccess": "monitoreo-alerta-temprana-preventiva-para-la-provincia-de-cardenal-caro-por-evento-zoosanitario",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"Cardenal Caro\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con los antecedentes proporcionados por el Servicio Agrícola y Ganadero (SAG), en función de la Emergencia Zoosanitaria y de la Alerta Temprana Preventiva Regional por “Influenza Aviar” H5N1, se informa lo siguiente:</p><table><tbody><tr><td><div>Cantidad de brotes a la fecha</div></td><td><div>2</div></td></tr><tr><td><div>Comunas afectadas</div></td><td><div>Pichilemu - Navidad</div></td></tr><tr><td><div>Cantidad de aves muestreadas</div></td><td><div>41</div></td></tr><tr><td><div>Cantidad de casos positivos</div></td><td><div>3</div></td></tr><tr><td><div>Cantidad de aves muertas</div></td><td><div>125</div></td></tr><tr><td><div>Especies afectadas</div></td><td><div>Pelicanos, Gaviotín Sudamericano.</div></td></tr></tbody></table><p>​En consideración a estos antecedentes, la Dirección Regional de SENAPRED O’Higgins, mantiene la Alerta Temprana Preventiva para la Provincia de Cardenal Caro, por evento zoosanitario, que se encuentra vigente desde el 06 de enero de 2023.<br><br>Al momento, se ha activado el Sistema Nacional de Emergencia del Servicio Agrícola y Ganadero de acuerdo con lo señalado en la resolución N°7192.<br><br>Cabe mencionar, que la calificación de emergencia realizada por Resolución Exenta N°6985, incorpora la situación actual de introducción a la enfermedad, para proveer a la institución de bienes y servicios necesarios para controlar y erradicar el virus en un área detectada.<br><br>El Servicio Nacional de Prevención y Respuesta Ante Desastres (SENAPRED), a través de su Centro Regional de Alerta Temprana,  mantiene coordinación permanente con los diferentes  integrantes del “Sistema Regional de Prevención y Respuesta ante Desastres” monitoreando el desarrollo de los diferentes eventos, estableciendo los cursos de acción necesarios y gestionando oportunamente los recursos para atender las diferentes situaciones de emergencia de acuerdo con lo establecido en el Plan Regional de Emergencias, privilegiando el debido resguardo a la población.<br><br><em>La autoridad sanitaria recomienda a la población evitar la manipulación de aves muertas o enfermas; adquirir y consumir carnes de ave, huevos o subproductos avícolas comercializados formalmente sometidos a la fiscalización sanitaria y avisar de inmediato al SAG Regional la existencia o avistamiento de aves muertas o enfermas.</em><br></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

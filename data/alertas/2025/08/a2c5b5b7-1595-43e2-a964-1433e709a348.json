@@ -1,0 +1,20 @@
+{
+	"id": "a2c5b5b7-1595-43e2-a964-1433e709a348",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la Provincia de Osorno por crecida",
+	"fechaHora": "2025-08-05T11:35:00.000-04:00",
+	"createdAt": "2025-08-05T15:44:14.635Z",
+	"updatedAt": "2025-08-05T15:44:47.773Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-osorno-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">De acuerdo con <strong>la información técnica proporcionada por la Dirección General de Aguas (DGA),</strong> en sus estaciones hidrométricas monitoreadas en línea, se indica que las estaciones Río Rahue antes junta Río Negro, Río Negro en Chahuilco y Río Rahue en Forrahue, presentaron una disminución del caudal encontrándose en rangos normales.</span></p><p style=\"text-align:justify\"><span style=\"font-size:15px;color:black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable, y en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla para la Provincia de Osorno por crecida</strong>,que se encontraba vigente desde el 30 de julio. </span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}

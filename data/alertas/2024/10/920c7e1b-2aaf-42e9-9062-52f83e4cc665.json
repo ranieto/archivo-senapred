@@ -1,0 +1,20 @@
+{
+	"id": "920c7e1b-2aaf-42e9-9062-52f83e4cc665",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Provincia de Isla de Pascua por marejadas anormales",
+	"fechaHora": "2024-10-16T15:49:22.2222-03:00",
+	"createdAt": "2024-10-16T18:50:59.433Z",
+	"updatedAt": "2024-10-19T18:12:32.564Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-provincia-de-isla-de-pascua-por-marejadas-anniormales",
+	"parentId": "1327aec8-a3b8-4fc6-bd29-ad824ee6f892",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"Isla de Pascua\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Marejadas\",\"nombreImg\":\"marejadas.png\"}",
+	"contenido": "<p><strong>El Centro Meteorológico Marítimo Regional de Valparaíso,</strong> dependiente de la Gobernación Marítima de Valparaíso, informa que producto de un sistema frontal en el sector oceánico que afectará la Provincia de Isla de Pascua, se proyectan condiciones de mar como <strong>marejadas anormales </strong>del <strong>suroeste</strong>.<br></p><p style=\"text-align:justify\">Esta condición se mantendrá hasta el sábado 19 de octubre en su zona costera, alcanzando su mayor desarrollo entre el jueves 17 y viernes 18 de octubre.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>declara Alerta Temprana Preventiva</strong> para la Provincia de Isla de Pascua, Región de Valparaíso, por marejadas anormales, vigente a partir de hoy y hasta que las condiciones así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">La declaración de esta alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "92139e5f-54bb-4551-868f-0abda8bca9b7"
+}

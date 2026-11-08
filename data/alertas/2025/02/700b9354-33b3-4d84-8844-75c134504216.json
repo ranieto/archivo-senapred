@@ -1,0 +1,20 @@
+{
+	"id": "700b9354-33b3-4d84-8844-75c134504216",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes y Tierra del Fuego por viento",
+	"fechaHora": "2025-02-15T22:32:38.3838-03:00",
+	"createdAt": "2025-02-16T01:33:54.688Z",
+	"updatedAt": "2025-02-16T01:34:44.846Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincias-de-magallanes-y-tierra-del-fuego-por-viento-19",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes:</p><table><tbody><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:center\">Aviso A49</p></td><td><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Viento normal a   moderado en pampa patagónica sur.</p></td></tr></tbody></table><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED cancela la Alerta Temprana Preventiva Provincial por viento, para las provincias de Magallanes y Tierra del Fuego<strong>, </strong>que se mantuvo vigente desde el 13 de febrero de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}

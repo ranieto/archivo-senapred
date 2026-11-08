@@ -1,0 +1,20 @@
+{
+	"id": "63cdf67e-5434-4274-8c21-ef830965cc97",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Catemu por incendio forestal",
+	"fechaHora": "2024-12-09T23:37:00.000-03:00",
+	"createdAt": "2024-12-10T02:38:54.717Z",
+	"updatedAt": "2024-12-11T02:14:17.251Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-catemu-por-incendio-forestal",
+	"parentId": "8124ad7b-6395-4cec-874f-9dd48b5df8dc",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Catemu, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre del incendio</strong></p></td><td><p style=\"text-align:justify\">Santa   Rosa 2</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">En   Combate</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">140   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observaciones</strong></p></td><td><p style=\"text-align:justify\">Producto   de este incendio, se solicitó evacuar de manera preventiva el sector de   \"El Quebrachal Población Santa Rosa\", lo cual fue apoyado mediante   2 mensajes SAE a la comuna de Catemu. De acuerdo con la información entregada   por el equipo Municipal de Catemu se registran afectadas 3 bodegas y una   vivienda en construcción (daños en evaluación).</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Personal   de CONAF junto a bomberos trabajó en contención del incendio, el cual se   encuentra activo en partes altas del cerro. La planificación establecida para   la jornada de mañana considera el despliegue de los siguientes recursos: </p><p style=\"text-align:justify\">CONAF:   9 brigadas, 2 camiones aljibes, 1 helicóptero, 1 Puesto de Mando, 1   ambulancia y 2 técnicos. </p><p style=\"text-align:justify\">Bomberos   Catemu con apoyo de unidades forestales -</p><p style=\"text-align:justify\">SENAPRED:   3 Helicópteros.</p></td></tr></tbody></table><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la <strong>Alerta Roja para la Comuna de Catemu</strong>, por incendio forestal, que se encuentra vigente desde el 09 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "c84cebf8-f2cc-4f0d-adb5-8c747a8b3ef1",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de O'Higgins por amenaza de incendios forestales",
+	"fechaHora": "2024-03-06T10:55:00.000-03:00",
+	"createdAt": "2024-03-06T13:55:52.774Z",
+	"updatedAt": "2024-03-06T13:57:10.887Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-ohiggins-por-amenaza-de-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"c1c2048a-835d-4178-a887-1b00aba9ed39"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región del Libertador Gral. Bernardo O'Higgins\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC) </span></strong><span style=\"color: black\">ha sido cancelado el Aviso Meteorológico A48-2/2024 que pronosticó un evento de altas temperaturas en la Región de O'Higgins, debido al debilitamiento de las condiciones meteorológicas que lo originaron.</span><br></p><p><span style=\"color:black\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Libertador General Bernardo O'Higgins, la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de Libertador General Bernardo O'Higgins, por amenaza de incendios forestales, que se mantuvo vigente desde el 29 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

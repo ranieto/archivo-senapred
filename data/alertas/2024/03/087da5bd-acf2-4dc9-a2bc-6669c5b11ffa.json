@@ -1,0 +1,20 @@
+{
+	"id": "087da5bd-acf2-4dc9-a2bc-6669c5b11ffa",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Camiña por aumento de caudal",
+	"fechaHora": "2024-03-07T17:12:15.1515-03:00",
+	"createdAt": "2024-03-07T20:13:24.033Z",
+	"updatedAt": "2024-03-07T20:18:02.629Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-tirua-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"Tamarugal\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Camiña\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la </span>Dirección General de Aguas<span style=\"color: black\"> (DGA), a través de su </span>plataforma de monitoreo de caudales<span style=\"color: black\">, la estación denominada “</span>Quebrada de Tarapacá en Tarapacá<span style=\"color: black\">”en la comuna de Huara, ha llegado a sus valores normales de caudal, por lo que ya no representa una amenaza para la población, sus bienes ni el medio ambiente.</span><br></p><p style=\"text-align:justify\"><span style=\"color: black\">En consideración a estos antecedentes técnicos proporcionados por la DGA, y en coordinación con la Delegación Presidencial Regional de Tarapacá, la Dirección Regional del SENAPRED, cancela la Alerta Roja para la comuna de Camiña por aumento de caudal, que se mantuvo vigente desde el 28 de febrero del 2024.</span></p><p style=\"text-align:justify\"><span style=\"color: black\">Cabe señalar, que se mantiene vigente una Alerta Temprana Preventiva para la provincia del Tamarugal por evento meteorológico, vigente desde el 28 de febrero de 2024.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

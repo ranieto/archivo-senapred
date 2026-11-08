@@ -1,0 +1,20 @@
+{
+	"id": "5c75fcbf-8747-4663-9f13-f42498e08550",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja y declara Alerta Amarilla para la comuna de Paiguano por incendio forestal",
+	"fechaHora": "2025-09-10T14:08:09.099-03:00",
+	"createdAt": "2025-09-10T17:08:58.259Z",
+	"updatedAt": "2025-09-10T19:32:43.655Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-paiguannio-por-incendio-forestal",
+	"parentId": "0a08f6c5-b819-4cf2-bee2-62668919e250",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por CONAF,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Paiguano&nbsp;</strong>se informa el siguiente detalle:</p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Tres Cruces Bajo</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>5 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>Cuerpo de Bomberos de Paiguano, La Serena, Coquimbo,   Andacollo, Río Hurtado, La Higuera y Vicuña; 5 técnicos de CONAF; 1   retroexcavadora del MOP; 1 camión tolva del MOP, Carabineros, personal   municipal y UAD de Conaf</p></td></tr><tr><td><p><strong>Afectación</strong></p></td><td><p>20 personas damnificadas y 8 viviendas con daño mayor no   habitable</p></td></tr></tbody></table><p>De acuerdo a la información entregada por CONAF, las condiciones que originaron la declaración de Alerta Técnica Roja han disminuido, por lo que se procede a bajar el grado de alerta técnica a Amarilla, que por su dirección, proyección y distancia, anticipa una amenaza a personas, viviendas, centros poblados y/o infraestructura crítica. </p><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Roja y declara Alerta Amarilla para la comuna de Paiguano por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten. </p><p>Con la declaración de esta Alerta Amarilla, se mantendrán alistados escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres, con el objeto de evitar que el evento crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

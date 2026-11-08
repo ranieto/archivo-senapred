@@ -1,0 +1,20 @@
+{
+	"id": "9fadad7c-bd82-4ac3-8821-13a420db19fc",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la Provincia de Chiloé por incendio forestal",
+	"fechaHora": "2024-01-26T04:55:00.000-03:00",
+	"createdAt": "2024-01-26T08:02:31.005Z",
+	"updatedAt": "2024-01-27T20:40:47.713Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-provincia-de-chiloe-por-incendio-forestal",
+	"parentId": "95a94f9e-892f-429e-b9b8-06acea980e6e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"8454616e-260e-4b22-8c32-ec6f8ca3f8ef"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de los Lagos\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la <strong>información proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto a los incendios forestales que afectan a la Provincia de Chiloé, se informa los siguiente:<br></p><table><tbody><tr><td><p><a name=\"_Hlk157137226\"><strong>Nombre del incendio</strong></a></p></td><td><p>El Pudú</p></td></tr><tr><td><p><strong>Comuna </strong></p></td><td><p>Quemchi</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,01 hectáreas</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Los fardos </p></td></tr><tr><td><p><strong>Comuna </strong></p></td><td><p>Castro</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,01 hectáreas</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>El Verraco</p></td></tr><tr><td><p><strong>Comuna </strong></p></td><td><p>Chonchi</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,055 hectáreas</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Los Trujillos</p></td></tr><tr><td><p><strong>Comuna </strong></p></td><td><p>Ancud</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0,3 hectáreas</p></td></tr></tbody></table><table><tbody><tr><td><p><a name=\"_Hlk157137375\"><strong>Nombre del incendio</strong></a></p></td><td><p>Nalhuitad Escuela</p></td></tr><tr><td><p><strong>Comuna </strong></p></td><td><p>Chonchi</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>6,7 hectáreas</p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Los Lagos, la Dirección Regional de SENAPRED <strong>mantiene la Alerta Amarilla para la Provincia de Chiloé, por incendio forestal</strong>, que se encuentra vigente desde el 23 de enero de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

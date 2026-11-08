@@ -1,0 +1,20 @@
+{
+	"id": "080079eb-adf8-4af3-b31a-1abf144a7bf2",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Chillán por incendio forestal",
+	"fechaHora": "2025-01-15T16:53:01.011-03:00",
+	"createdAt": "2025-01-15T19:58:20.065Z",
+	"updatedAt": "2025-01-15T22:56:20.254Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-chillan-por-incendio-forestal",
+	"parentId": "1cd22bba-c727-4251-b9a6-83e6e4244fb8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>La&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Chillán Viejo se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align: justify\"><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p style=\"text-align: justify\">Callejón Bustamante</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><p style=\"text-align: justify\">En combate</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align: justify\">3 hectáreas</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>incendio presenta cercanía a sectores habitados.</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align: justify\">Bomberos de Chillán, 2 aeronaves y 4 brigadas CONAF en trayecto.</p></td></tr></tbody></table><p><br></p><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED <strong>declara Alerta Roja</strong> para la comuna de Chillán por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.<br><br><br></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

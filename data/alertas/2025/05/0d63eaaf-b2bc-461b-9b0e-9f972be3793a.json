@@ -1,0 +1,20 @@
+{
+	"id": "0d63eaaf-b2bc-461b-9b0e-9f972be3793a",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta roja para la Comuna de Alhué por incedio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-05-24T22:22:52.689Z",
+	"updatedAt": "2025-05-24T22:26:21.149Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-alhue-por-incedio-forestal",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Mellipilla\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Alhué\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<div><span style=\"font-size: 14px\">De acuerdo a la <strong>información proporcionada por CONAF y el SINAPRED</strong>, se reporta un incendio forestal conel siguiente detalle:</span></div><div><span style=\"font-size: 14px\"><br></span></div><table><tbody><tr><td><div><span style=\"font-size: 14px\">Nombre del incencido</span></div></td><td><div><span style=\"font-size: 14px\">Caren</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Comuna&nbsp;</span></div></td><td><div><span style=\"font-size: 14px\">Alhué</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Estado</span></div></td><td><div><span style=\"font-size: 14px\">En trayecto</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Superficie afectada&nbsp;</span></div></td><td><div><span style=\"font-size: 14px\">0.5 hectáreas</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Recursos</span></div></td><td><div><span style=\"font-size: 14px\">Brigada Roble 11</span></div></td></tr><tr><td><div><span style=\"font-size: 14px\">Aeronaves</span></div></td><td><div><span style=\"font-size: 14px\">1 avión</span></div></td></tr></tbody></table><div><span style=\"font-size: 14px\">​CONAF indica que se dirige al lugar con un avión y brigada, ademas indica que se solicita activación de Alerta Roja Comunal por cercanía con ASP Roblería del Cobre de Loncha.</span></div><div><span style=\"font-size: 14px\"><br>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED declara Alerta Roja para la comuna de Alhué por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</span></div><div><span style=\"font-size: 14px\"><br>Con esta de</span>claración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.<br></div><div><span style=\"font-size: 14px\">​</span></div>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

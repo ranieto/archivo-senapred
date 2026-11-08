@@ -1,0 +1,20 @@
+{
+	"id": "9ba16037-f95c-45b0-ab76-5c4e4582f6f0",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Ñuble por evento meteorológico",
+	"fechaHora": "2026-05-07T12:28:56.5656-04:00",
+	"createdAt": "2026-05-07T16:30:33.427Z",
+	"updatedAt": "2026-05-07T16:31:16.052Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-uble-por-evento-meteorologico-2026-05-04-12-18-23",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, se han cancelado los siguientes alertamientos para la Región de Ñuble, debido al debilitamiento de las condiciones meteorológicas que originaron:<br><br></p><div><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: justify\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Aviso A209-2</p></td><td><p style=\"text-align: justify\">Viento normal a moderado en litoral, cordillera de la costa, valle, precordillera y cordillera.</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A210-3</p></td><td><p style=\"text-align: justify\">Precipitaciones normales a moderadas en litoral, cordillera de la costa, valle, precordillera y cordillera.</p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"color: black\"><br>En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED&nbsp;<strong>cancela la Alerta Temprana Preventiva Regional&nbsp;</strong><strong>por evento meteorológico,&nbsp;</strong>que se encontraba vigente desde el 04 de mayo de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

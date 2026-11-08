@@ -1,0 +1,20 @@
+{
+	"id": "6c35472b-ab2d-477e-b00e-56b5426c8c23",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Maule por incendio forestal",
+	"fechaHora": "2025-12-27T18:47:22.2222-03:00",
+	"createdAt": "2025-12-27T21:54:27.911Z",
+	"updatedAt": "2025-12-28T05:44:39.068Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-maule-por-incendio-forestal-2025-12-24-16-34-55",
+	"parentId": "87ba2baa-1d26-4729-952a-c18ab66e1bc8",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf,&nbsp;</strong><span style=\"color: rgb(0, 0, 0)\">respecto al incendio forestal en la&nbsp;</span><strong>comuna de Maule,&nbsp;</strong><span style=\"color: rgb(0, 0, 0)\">se informa el siguiente detalle:</span></p><div style=\"text-align: justify\"><table><tbody><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Linares de Perales</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">330 hectáreas</span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">Cuerpo de bomberos de Maule</span></p><p><span style=\"color:#000000\">6 brigadas, 8 técnicos, 1 helicóptero, 2 skidder, 1 puesto de mando y 1 movil de comunicación de CONAF</span></p><p><span style=\"color: rgb(0, 0, 0)\">6 Moviles de Carabineros (40 Funcionarios)</span></p><p><span style=\"color: rgb(0, 0, 0)\">1 Encargado UGRD Municipalidad</span></p><p><span style=\"color: rgb(0, 0, 0)\">1 Ambulancia ACHS (CONAF)</span></p><p><span style=\"color: rgb(0, 0, 0)\">1 Ambulancia Depto Salud Municipal<br></span></p></td></tr><tr><td><p><span style=\"color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></p></td><td><p><span style=\"color: rgb(0, 0, 0)\">De acuerdo a lo informado por CONAF Maule el incendio forestal se encuentra contenido afectando a&nbsp;una superficie 330 hectareas matorral y pastizal.</span></p></td></tr></tbody></table></div><div style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de Maule, </span><strong><span style=\"color: rgb(0, 0, 0)\">la Dirección Regional de SENAPRED&nbsp;mantiene la Alerta Amarilla para la Comuna de Maule por incendio forestal,</span></strong><span style=\"color: rgb(0, 0, 0)\"> que se encuentra vigente desde&nbsp;el 27 de diciembre de 2025.</span></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "6b5fd9c4-55ce-42da-89d9-2f0726090218",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la comuna de Calera de Tango por incendio forestal",
+	"fechaHora": "2024-12-03T18:06:09.099-03:00",
+	"createdAt": "2024-12-03T21:07:18.989Z",
+	"updatedAt": "2024-12-03T21:09:02.485Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-calera-de-tango-por-incendio-forestal",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"Maipo\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Calera de Tango\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong>De acuerdo con la inf</strong><strong>ormación proporcionada por la Corporación Nacional Forestal (CONAF),</strong> respecto del incendio forestal que se registra en la comuna de Calera de Tango, se reporta lo siguiente:</p><table><tbody><tr><td><p style=\"text-align:justify\"><strong>Nombre   del incendio</strong></p></td><td><p style=\"text-align:justify\">La Primavera</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Estado</strong></p></td><td><p style=\"text-align:justify\">controlado</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Superficie</strong></p></td><td><p style=\"text-align:justify\">4.5   hectáreas</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Recursos</strong></p></td><td><p style=\"text-align:justify\">Bomberos   de Calera de Tango y San Bernardo; 2 brigadas y 1 técnico de Conaf; 1   helicóptero de Conaf y Carabineros.</p></td></tr><tr><td><p style=\"text-align:justify\"><strong>Observación</strong></p></td><td><p style=\"text-align:justify\">El   incendio se encuentra cercano a sectores poblados.</p></td></tr></tbody></table><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela la Alerta Roja para la comuna de Calera de Tango, por incendio forestal, que se mantuvo vigente desde el 03 de diciembre de 2024.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

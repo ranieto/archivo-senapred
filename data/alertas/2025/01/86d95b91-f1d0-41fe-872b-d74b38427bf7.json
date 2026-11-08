@@ -1,0 +1,20 @@
+{
+	"id": "86d95b91-f1d0-41fe-872b-d74b38427bf7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región del Maule por calor extremo",
+	"fechaHora": "2025-01-13T08:45:35.3535-03:00",
+	"createdAt": "2025-01-13T11:48:12.755Z",
+	"updatedAt": "2025-01-13T11:49:01.471Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-del-maule-por-calor-intenso-6",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong>La información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>&nbsp;indica que han sido cancelados los siguientes alertamientos meteorológicos asociados a la variable de altas temperaturas para la Región del Maule:</p><table><tbody><tr><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Alertamiento</span></strong></p></td><td><p style=\"text-align: center\"><strong><span style=\"color: black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align: center\">Alerta AA3</p></td><td><p style=\"text-align: justify\">Evento de altas temperaturas extremas en cordillera de la costa, valle y precordillera.</p></td></tr><tr><td><p style=\"text-align: center\">Aviso A9-2</p></td><td><p style=\"text-align: justify\">Altas temperaturas en litoral, cordillera de la costa, valle y precordillera.</p></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: black\">En consideración a estos antecedentes, que suponen una disminución del riesgo asociado a dicha variable meteorológica, y en coordinación con la Delegación Presidencial Regional del Maule,&nbsp;</span><span style=\"color: black\">la&nbsp;</span><span style=\"color: black\">Dirección Regional de SENAPRED&nbsp;</span><strong><span style=\"color: black\">cancela Alerta Roja para la Región del Maule&nbsp;por calor extremo</span></strong><span style=\"color: black\">, </span><span style=\"color: black\">vigente desde el 10 de enero de 2025.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

@@ -1,0 +1,19 @@
+{
+	"id": "34eb16d5-1295-47e9-a445-9b451db06e14",
+	"type": "Evento",
+	"titulo": "Accidente aéreo, Comuna de Talca (Información preliminar)",
+	"fechaHora": "2024-01-15T17:05:22.2222-03:00",
+	"createdAt": "2024-01-15T20:06:03.611Z",
+	"updatedAt": "2024-01-15T20:35:57.155Z",
+	"urlAccess": "accidente-aereo-comuna-de-talca-informacion-preliminar",
+	"parentId": "parent",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Maule, a la hora del presente informe, se reporta la caída de una avioneta en el kilómetro 247 de la Ruta 5 Sur, comuna de Talca.</span><br></p><p style=\"text-align:justify\"><span style=\"color:black\">Al momento, se evalúa la cantidad de personas lesionadas producto de este evento. Por otra parte, el tránsito vehicular se encuentra interrumpido en su totalidad, a fin de facilitar el trabajo de los equipos de emergencia.</span></p><p style=\"margin-right:2.55pt;margin-left:0cm;text-align:justify\">Trabajan en el lugar Bomberos, Carabineros y SAMU.</p>",
+	"variableInformateEventosId": "963cb5b9-875f-481e-aef5-73d7e22b0fda"
+}

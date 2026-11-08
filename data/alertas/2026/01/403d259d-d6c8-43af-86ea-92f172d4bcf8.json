@@ -1,0 +1,20 @@
+{
+	"id": "403d259d-d6c8-43af-86ea-92f172d4bcf8",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Collipulli por incendio forestal",
+	"fechaHora": "2026-01-13T19:54:27.2727-03:00",
+	"createdAt": "2026-01-13T22:57:18.018Z",
+	"updatedAt": "2026-01-14T13:40:58.990Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-collipulli-por-incendio-forestal-2026-01-13-19-57-02",
+	"parentId": "ef56923c-b67d-4a29-8d6d-ba2374f69640",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0)\"><strong>De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</strong>respecto al incendio forestal en la&nbsp;<strong>comuna de Collipulli,&nbsp;</strong>se informa el siguiente detalle:</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Nombre del incendio</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Camino San Andres</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Estado</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En combate</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Superficie</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">27 hectáreas</span></p></td></tr><tr><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\"><strong>Recursos</strong></span></p></td><td><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Cuerpo de Bomberos de Collipulli y Ercilla</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">6 brigadas, 1 técnico, 1 avión y 1 helicóptero CONAF</span></p></td></tr><tr><td><div><span style=\"color: rgb(0, 0, 0)\"><strong>Observaciones</strong></span></div></td><td><div><span style=\"color: rgb(0, 0, 0)\">Incendio presenta cercanía a sectores habitados.</span></div></td></tr></tbody></table><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en&nbsp;coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED&nbsp;</span><strong><span style=\"color: rgb(0, 0, 0)\">declara Alerta Roja para la Comuna de Collipulli por incendio forestal,</span></strong><span style=\"color: rgb(0, 0, 0)\"> vigente desde hoy y hasta que las&nbsp;condiciones del incendio así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0)\">Con esta declaración de Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo&nbsp;adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante&nbsp;Desastres (SINAPRED) de esta forma, se actuará para controlar la situación, dada la extensión y severidad&nbsp;del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

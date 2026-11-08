@@ -1,0 +1,20 @@
+{
+	"id": "895ac9e4-d8db-4dce-8626-c5e0b81d7f1a",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Roja para la Región de Ñuble por calor extremo",
+	"fechaHora": "2026-01-11T22:37:00.000-03:00",
+	"createdAt": "2026-01-12T02:05:56.712Z",
+	"updatedAt": "2026-01-12T02:06:46.824Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-region-de-uble-por-calor-extremo-2026-01-07-09-08-06",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><strong><span style=\"color: black\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</span></strong><span style=\"color: black\">, fue cancelado el siguiente alertamiento meteorológico para la Región de Ñuble:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Alertamiento</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Pronóstico</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color:black\">Alerta AA4-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"color:black\">Evento de   altas temperaturas extremas en cordillera de la costa, valle y precordillera.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, la actualización del Aviso Meteorológico A7-6/2026 por altas temperaturas en zonas entre las regiones Valparaíso y Ñuble, excluye a la Región de Ñuble desde el lunes 12 de enero.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional del SENAPRED <strong>cancela la Alerta Roja Regional por calor extremo</strong>, la cual se mantuvo vigente desde el 07 de enero 2026.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Cabe señalar que, se mantiene la Alerta Temprana Preventiva entre las regiones de Arica y Parinacota y Los Lagos por calor, vigente desde el 02 de noviembre de 2025 hasta el 31 de marzo del 2026.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "26a20a89-dd09-4529-a899-dbd5c0986291"
+}

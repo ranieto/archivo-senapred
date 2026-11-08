@@ -1,0 +1,20 @@
+{
+	"id": "c10ea851-94a5-4d22-ad81-b6339f98ab15",
+	"type": "Alerta",
+	"titulo": "Alerta Prueba I",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2023-10-04T20:26:57.648Z",
+	"updatedAt": "2023-10-04T20:31:46.728Z",
+	"urlAccess": "alerta-prueba-i",
+	"parentId": "0464f0af-58ab-4b2f-9b93-5578baec1018",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"2e184fc1-2dd9-4d53-8243-59f87561190f"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Tarapacá\",\"nombreVariable\":\"Actividad Volcánica\",\"nombreImg\":\"actividadvolcanica.png\"}",
+	"contenido": "<p>alerta prueba</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "c2812493-17c7-49bc-a211-b938b3ac5ef4"
+}

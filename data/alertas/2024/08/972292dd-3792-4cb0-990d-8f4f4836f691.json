@@ -1,0 +1,20 @@
+{
+	"id": "972292dd-3792-4cb0-990d-8f4f4836f691",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para la Región de Biobío por evento meteorológico",
+	"fechaHora": "2024-08-09T16:29:00.000-04:00",
+	"createdAt": "2024-08-09T20:33:12.773Z",
+	"updatedAt": "2024-08-09T20:33:37.308Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-del-biobio-por-evento-meteorologico-8",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De <strong>acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> no se prevén precipitaciones ni vientos significativos en la región para los próximos días, por lo que se espera que exista una disminución considerable de los riesgos asociados al evento meteorológico recién pasado.<br></p><p style=\"text-align:justify\">Cabe señalar, que se han llevado a cabo múltiples acciones de rehabilitación en las comunas afectadas, las cuales continúan en ejecución. Entre estas medidas, se incluyen la reparación de infraestructuras críticas, el restablecimiento de servicios básicos y la atención a la población afectada. Lo que ha contribuido significativamente a mitigar los impactos del evento y a restituir la normalidad en las zonas más vulnerables.</p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED, <strong>cancela la Alerta Amarilla Regional por evento meteorológico, </strong>que se manteníavigente desde el 06 de agosto.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

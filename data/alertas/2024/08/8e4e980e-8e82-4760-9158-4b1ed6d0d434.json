@@ -1,0 +1,20 @@
+{
+	"id": "8e4e980e-8e82-4760-9158-4b1ed6d0d434",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Los Vilos, Canela, Ovalle, Coquimbo, La Serena y La Higuera por viento",
+	"fechaHora": "2024-08-07T08:47:00.000-04:00",
+	"createdAt": "2024-08-07T13:07:19.879Z",
+	"updatedAt": "2024-08-07T13:08:21.377Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-los-vilos-canela-illapel-y-salamanca-por-precipitaciones",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"Elqui, Choapa, Limarí\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"La Serena, La Higuera, Los Vilos, Canela, Ovalle\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, fue cancelado el Aviso Meteorológico A301/2024 que pronosticó viento normal a moderado en el litoral de la región de Coquimbo. Lo anterior, debido al debilitamiento de las condiciones meteorológicas que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva para las comunas de Los Vilos, Canela, Ovalle, Coquimbo, La Serena y La Higuera por viento</strong>, la cualse mantuvo vigente desde el 04 de agosto del 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}

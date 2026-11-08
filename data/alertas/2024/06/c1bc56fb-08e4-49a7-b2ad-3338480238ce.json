@@ -1,0 +1,20 @@
+{
+	"id": "c1bc56fb-08e4-49a7-b2ad-3338480238ce",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja y cancela alerta Amarilla por crecida para las comunas de San Javier y Villa Alegre por desborde",
+	"fechaHora": "2024-06-21T21:48:47.4747-04:00",
+	"createdAt": "2024-06-22T01:49:58.453Z",
+	"updatedAt": "2024-06-24T13:13:25.649Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-san-javier-y-villa-alegre-por-crecida",
+	"parentId": "463514cb-50fc-459d-9916-45165d4b4d59",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301"
+	],
+	"metaData": "{\"provincias\":\"Curicó, Linares\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"San Javier, Villa Alegre\",\"regiones\":\"Región del Maule\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Loncomilla en las Brisas”, en la comuna de San Javier, ha sobrepasado los valores del umbral de alerta Roja.<br></p><p style=\"text-align:justify\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional del Maule, la Dirección Regional del SENAPRED <strong>declara Alerta Roja por desborde y cancela alerta Amarilla por crecida para las comunas de San Javier y Villa Alegre</strong>, vigente desde hoy y hasta que las condiciones del evento así lo ameriten.</p><p style=\"text-align:justify\"><span style=\"color:black\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "82dddfee-4c79-40b3-ae20-904cbf01c656"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "96a5bb40-623a-4d19-9c3e-12e37ad79a1f",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Antofagasta, Sierra Gorda y María Elena por altas temperaturas ",
+	"fechaHora": "2024-10-04T23:21:00.000-03:00",
+	"createdAt": "2024-10-05T02:31:30.383Z",
+	"updatedAt": "2024-10-05T02:32:20.388Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-altas-temperaturas",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"Antofagasta, Tocopilla\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"María Elena, Sierra Gorda, Antofagasta\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), ha sido cancelado el Aviso Meteorológico A368/2024 que pronosticaba altas temperatura en pampa de la Región de Antofagasta. Lo anterior, debido al debilitamiento de las condiciones que lo originaron.<br></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a este antecedente, que supone una disminución del riesgo asociado a dicha variable meteorológica y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional de SENAPRED, <strong>cancela la Alerta Temprana Preventiva por altas temperaturas para las comunas de Antofagasta, Sierra Gorda y María Elena</strong>,que se mantuvo vigente desde el 29 de septiembre de 2024.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "1ff7cf5b-0937-445e-9787-8b6f40f23263"
+}

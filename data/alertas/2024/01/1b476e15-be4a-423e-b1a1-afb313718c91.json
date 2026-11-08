@@ -1,0 +1,20 @@
+{
+	"id": "1b476e15-be4a-423e-b1a1-afb313718c91",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Quillón por incendio forestal",
+	"fechaHora": "2024-01-29T22:13:51.5151-03:00",
+	"createdAt": "2024-01-30T01:14:44.035Z",
+	"updatedAt": "2024-02-01T21:00:09.390Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-quillon-por-incendio-forestal-2",
+	"parentId": "1e977fdf-f5e2-404f-941d-5c2189d7ef2b",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"Diguillín\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"Quillón\",\"regiones\":\"Región de Ñuble\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><a name=\"_Hlk157376193\"><strong><span style=\"color:black\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong></a><span style=\"color: black\">&nbsp;se informa </span><span style=\"color: black\">el siguiente detalle respecto del incendio forestal en la comuna </span><span style=\"color: black\">de Quillón:</span><br></p><table><tbody><tr><td><p><a name=\"_Hlk156149083\"><strong>Nombre del incendio</strong></a></p></td><td><p>Casablanca Ñuble</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate </p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>0.01 hectáreas</p></td></tr><tr><td><p><strong>Fundamentación técnica</strong></p></td><td><p><span style=\"color:black\">Incendio Forestal se encuentra cercano a sectores   poblados.</span></p></td></tr></tbody></table><p>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Ñuble, la Dirección Regional de SENAPRED declara Alerta Amarilla para la comuna de Quillón por incendio forestal, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p>Con la declaración de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres; para intervenir de acuerdo a la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</p><p>​<br></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

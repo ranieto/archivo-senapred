@@ -1,0 +1,20 @@
+{
+	"id": "976db838-6620-435c-a0a1-ad16342f0e6f",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales",
+	"fechaHora": "2025-11-18T19:59:00.000-03:00",
+	"createdAt": "2025-11-18T23:25:03.535Z",
+	"updatedAt": "2025-11-18T23:25:22.170Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-incendios-forestales",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\">De acuerdo con los&nbsp;<strong>antecedentes técnicos proporcionados por CONAF</strong>, se ha dado por terminado las variables de riesgo que dieron origen a la declaración de la Alerta Temprana Preventiva por amenaza de incendios forestales.</p><p style=\"text-align:justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Metropolitana de Santiago, la Dirección Regional de SENAPRED cancela Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente desde el 16 de noviembre de 2025.</p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}

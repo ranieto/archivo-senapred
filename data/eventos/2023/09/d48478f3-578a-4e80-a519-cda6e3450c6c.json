@@ -1,0 +1,20 @@
+{
+	"id": "d48478f3-578a-4e80-a519-cda6e3450c6c",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones de Coquimbo y Valparaíso",
+	"fechaHora": "2023-09-10T23:02:00.000-03:00",
+	"createdAt": "2023-09-11T03:08:48.269Z",
+	"updatedAt": "2023-09-11T03:08:48.269Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-las-regiones-de-coquimbo-y-valparaiso",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965",
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo, Región de Valparaíso\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 22:57 horas en las regiones de Coquimbo y Valparaíso.<br></p><p style=\"text-align: justify\">Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><div><strong>Región: Coquimbo</strong></div></td></tr><tr><td><div>Canela:</div></td><td><div>IV</div></td></tr><tr><td><div>Los Vilos:</div></td><td><div>IV</div></td></tr><tr><td><div>Salamanca:</div></td><td><div>IV</div></td></tr><tr><td><div>Illapel:</div></td><td><div>III</div></td></tr><tr><td><div>Combarbalá:</div></td><td><div>II</div></td></tr><tr><td colspan=\"2\"><div><strong>Región: Valparaíso</strong></div></td></tr><tr><td><div>Puchuncaví­:</div></td><td><div>IV</div></td></tr><tr><td><div>La Ligua:</div></td><td><div>IV</div></td></tr><tr><td><div>Quilpué :</div></td><td><div>III</div></td></tr><tr><td><div>Zapallar:</div></td><td><div>III</div></td></tr><tr><td><div>Villa Alemana :</div></td><td><div>II</div></td></tr></tbody></table><p style=\"text-align: justify\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</p><p style=\"text-align: justify\">El Centro Sismológico Nacional indica que la magnitud del sismo fue de 4.8 y se localizó a 31 Kms al Suroeste de Los Vilos.</p><p style=\"text-align: justify\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

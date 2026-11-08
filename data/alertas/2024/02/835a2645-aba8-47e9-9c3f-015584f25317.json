@@ -1,0 +1,20 @@
+{
+	"id": "835a2645-aba8-47e9-9c3f-015584f25317",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Roja para la comuna de Cholchol por incendio forestal",
+	"fechaHora": "2024-02-12T20:31:00.000-03:00",
+	"createdAt": "2024-02-12T23:35:14.797Z",
+	"updatedAt": "2024-02-13T18:12:00.828Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-cholchol-por-incendio-forestal",
+	"parentId": "de88548a-80ef-4edd-86b8-9fe7b2bc58fb",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"Cautín\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"Cholchol\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><strong><span style=\"color: rgb(33, 37, 41)\">De acuerdo con la información proporcionada por la Corporación Nacional Forestal (CONAF),</span></strong><span style=\"color: rgb(33, 37, 41)\">&nbsp;se registra un incendio forestal en la comuna de Cholchol, según el siguiente detalle:</span><br></p><div><table><tbody><tr><td><p style=\"text-align: justify\"><strong>Nombre del incendio</strong></p></td><td><div>Rucapangue</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Estado</strong></p></td><td><div>En combate</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Superficie</strong></p></td><td><div>15 hectáreas</div></td></tr><tr><td><p style=\"text-align: justify\"><strong>Fundamentación técnica</strong></p></td><td><p style=\"text-align: justify\">Incendio presenta cercanía a sectores habitados</p></td></tr><tr><td><p style=\"text-align: justify\"><strong>Recursos involucrados</strong></p></td><td><div>Bomberos de Cholchol, 4 brigadas de CONAF, 4 aviones cisterna de CONAF, 1 helicóptero de CONAF, 1 camión cisterna de CONAF, mientras que los siguientes recursos se encuentran en trayecto: 2 técnicos de CONAF y 5 brigadas de CONAF</div></td></tr></tbody></table></div><p style=\"text-align: justify\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED&nbsp;<strong>declara Alerta Roja para la comuna de Cholchol por incendio forestal</strong>, vigente desde hoy y hasta que las condiciones del incendio así lo ameriten.</p><p style=\"text-align: justify\">Con la declaración de la Alerta Roja, se movilizarán todos los recursos necesarios y disponibles, en apoyo adicional a lo ya desplegado por CONAF, Bomberos y el Sistema Nacional de Prevención y Respuesta ante Desastres. De esta forma, se actuará para controlar la situación, dada la extensión y severidad del evento.</p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "f26b3f91-93ff-4a52-af54-06ea29adb738",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las comunas de Tucapel, San Rosendo, Yumbel, Cabrero, Laja y Los Ángeles por crecida",
+	"fechaHora": "2024-06-07T09:56:57.5757-04:00",
+	"createdAt": "2024-06-07T13:59:35.403Z",
+	"updatedAt": "2024-06-07T13:59:46.528Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-tucapel-san-rosendo-yumbel-cabrero-laja-y-los-angeles-por-crecida",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"b979c493-82fd-4a50-9300-6de753b87b7b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región del Biobío\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se indica que la estación de red hidrométrica “Río Laja en Tucapel 2”, en la comuna de Tucapel, se encuentra fuera de riesgo de desborde y con tendencia de niveles a la baja, lo que presume el término de las condiciones que originaron esta alerta.<br></p><p style=\"text-align:justify\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional del Biobío, la Dirección Regional del SENAPRED <strong>cancela la Alerta Amarilla por amenaza de desborde para las comunas de Tucapel, San Rosendo, Yumbel, Cabrero, Laja y Los Ángeles</strong>, que se mantuvo vigente desde el 06 de junio de 2024.</p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}

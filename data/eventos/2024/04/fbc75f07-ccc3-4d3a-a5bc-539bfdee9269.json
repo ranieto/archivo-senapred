@@ -1,0 +1,21 @@
+{
+	"id": "fbc75f07-ccc3-4d3a-a5bc-539bfdee9269",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en las regiones del Maule, Ñuble y Biobío",
+	"fechaHora": "2024-04-03T03:50:00.000-03:00",
+	"createdAt": "2024-04-03T07:05:04.111Z",
+	"updatedAt": "2024-04-03T07:05:04.111Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-del-biobio-3",
+	"parentId": "11c7a81f-356d-41a9-a298-5eeab86eb447",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"cf05c71a-11f7-4890-81f4-a1c3607e0301",
+		"b979c493-82fd-4a50-9300-6de753b87b7b",
+		"55fdac71-9f5c-4f77-93fe-141f8a042369"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región del Maule, Región del Biobío, Región de Ñuble\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p><span style=\"font-size: 16px\">Un sismo de menor intensidad se percibió a las&nbsp;03:35&nbsp;horas&nbsp;en las regiones del Maule, Ñuble y Biobío.&nbsp;Las intensidades en escala de Mercalli son:</span><br></p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"color:#333333\">Región:   Maule</span></strong></p></td></tr><tr><td><p><span style=\"color:#333333\">Cauquenes:</span></p></td><td><p><span style=\"color:#333333\">IV</span></p></td></tr><tr><td><p><span style=\"color:#333333\">Pelluhue:</span></p></td><td><p><span style=\"color:#333333\">III</span></p></td></tr><tr><td><p><span style=\"color:#333333\">Constitución:</span></p></td><td><p><span style=\"color:#333333\">II</span></p></td></tr><tr><td colspan=\"2\"><p><strong><span style=\"color:#333333\">Región:   Ñuble</span></strong></p></td></tr><tr><td><p><span style=\"color:#333333\">Quirihue:</span></p></td><td><p><span style=\"color:#333333\">III</span></p></td></tr><tr><td><p><span style=\"color:#333333\">Trehuaco:</span></p></td><td><p><span style=\"color:#333333\">III</span></p></td></tr><tr><td><p><span style=\"color:#333333\">Cobquecura:</span></p></td><td><p><span style=\"color:#333333\">III</span></p></td></tr><tr><td colspan=\"2\"><p><span style=\"color:#333333\"><br><strong>Región: Biobío</strong></span></p></td></tr><tr><td><p><span style=\"color:#333333\">Concepción:</span></p></td><td><p><span style=\"color:#333333\">III</span></p></td></tr><tr><td><p><span style=\"color:#333333\">Chiguayante:</span></p></td><td><p><span style=\"color:#333333\">III</span></p></td></tr><tr><td><p><span style=\"color:#333333\">Hualpén:</span></p></td><td><p><span style=\"color:#333333\">III</span></p></td></tr><tr><td><p><span style=\"color:#333333\">Talcahuano:</span></p></td><td><p><span style=\"color:#333333\">III</span></p></td></tr></tbody></table><p><span style=\"color:#333333\">El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando daños a personas, infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED.</span></p><p><span style=\"color:#333333\">SHOA indica que las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile.</span></p><p><span style=\"font-size:16px;color:#333333\">El Centro Sismológico Nacional indica que la magnitud del sismo fue 5.1 localizado&nbsp;</span><span style=\"font-size:15px;color:#333333\">79 Kms al Oeste de Cobquecura.<br><br></span></p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

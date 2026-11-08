@@ -1,0 +1,19 @@
+{
+	"id": "00a1e789-c9c9-4a64-8154-67eaadc42c52",
+	"type": "Evento",
+	"titulo": "Sismo de menor intensidad en la Región de Antofagasta",
+	"fechaHora": "2026-01-16T09:00:50.5050-03:00",
+	"createdAt": "2026-01-16T12:01:28.792Z",
+	"updatedAt": "2026-01-16T12:08:32.031Z",
+	"urlAccess": "sismo-de-menor-intensidad-en-la-region-de-antofagasta-2026-01-16-08-58-43",
+	"parentId": "d05ac62c-6813-426b-97a9-208109c262a2",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"az\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Sismo\",\"nombreImg\":\"sismo.png\"}",
+	"contenido": "<p>Un sismo de menor intensidad se percibió a las 08:53 horas en la Región de Antofagasta. Las intensidades en escala de Mercalli son:</p><table><tbody><tr><td colspan=\"2\"><p><strong><span style=\"font-size:16px\">Región: Antofagasta </span></strong></p></td></tr><tr><td><p><span style=\"font-size:16px\">Tocopilla: </span></p></td><td><p><span style=\"font-size:16px\">III</span></p></td></tr></tbody></table><p><span style=\"font-size:16px\"><br></span></p><p>El Sistema Nacional de Prevención y Respuesta ante Desastres continúa evaluando afectación a personas y daños a infraestructura y servicios básicos, cuyo resultado se reportará a través de los informes de incidente o emergencia elaborados por SENAPRED. </p><p>(Preliminar) El Centro Sismológico Nacional indica que la magnitud del sismo fue 3.3 localizado a 56 Kms al Norte de Tocopilla.</p>",
+	"variableInformateEventosId": "0083430a-1a78-4574-9b23-79768d027d67"
+}

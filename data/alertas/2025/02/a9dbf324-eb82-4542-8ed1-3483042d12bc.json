@@ -1,0 +1,20 @@
+{
+	"id": "a9dbf324-eb82-4542-8ed1-3483042d12bc",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Amarilla para la comuna de Victoria por incendio forestal",
+	"fechaHora": "2000-01-01T00:00:00.000-03:00",
+	"createdAt": "2025-02-03T21:55:43.772Z",
+	"updatedAt": "2025-02-03T21:56:28.177Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-victoria-por-incendio-forestal",
+	"parentId": "35748d3f-5471-4ece-8ad5-13bf4045edc9",
+	"isPrincipal": false,
+	"isActive": false,
+	"isDeleted": true,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>De acuerdo con la&nbsp;<strong>información proporcionada por la Corporación Nacional Forestal (CONAF),&nbsp;</strong>respecto del incendio forestal que se encuentra en la comuna de Victoria se reporta lo siguiente:</p><div><table><tbody><tr><td><p><a name=\"_Hlk158825090\"><strong>Nombre del incendio</strong></a></p></td><td><p>Caillin</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>Controlado</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>34.8 hectáreas</p></td></tr><tr><td><p><strong>Recursos</strong>​</p></td><td><p><strong>CONAF</strong>: 5 brigadas, 4 técnicos, 1 helicóptero y 1 puesto de mando</p></td></tr><tr><td><div><strong>Observaciones</strong></div></td><td><div>Disminución de las condiciones que dieron origen a la declaración de Alerta Amarilla.<br></div></td></tr></tbody></table></div><div>En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de La Araucanía, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la comuna de Victoria, por incendio forestal, que se mantuvo vigente desde el 01 de febrero de 2025.<br></div>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}

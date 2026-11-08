@@ -1,0 +1,20 @@
+{
+	"id": "b38a2788-2ab0-4b88-9099-77d429dc97b9",
+	"type": "Alerta",
+	"titulo": "Monitoreo de Alerta Roja para la comuna de Hijuelas por incendio forestal",
+	"fechaHora": "2025-02-25T17:05:00.000-03:00",
+	"createdAt": "2025-02-25T20:54:05.948Z",
+	"updatedAt": "2025-02-26T21:52:42.359Z",
+	"urlAccess": "se-declara-alerta-roja-para-la-comuna-de-hijuelas-por-incendio-forestal-2",
+	"parentId": "eac0aea0-15dd-40b0-9cab-d8f99366dd8e",
+	"isPrincipal": false,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"518eb55b-13b5-4d60-a08b-f8f815a1629b"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de la Araucanía\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p>Activo se mantiene el incendio el que afecta arbolado natural, matorral y pastizal mantiene proyección hacia el Parque Nacional La Campana y el frente de avance se proyecta hacia el sur con proyección hacia otro sector poblado denominado \"Las Palmas del Limonal\" razón por la cual se emitió un segundo mensaje SAE para la comuna de Hijuelas proceso que se encuentra en desarrollo. Con respecto al primer proceso de evacuación este finalizó sin afectación y sin novedades.</p><p>En consideración a este antecedente y en base a la información técnica proporcionada por CONAF, en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional de SENAPRED mantiene la Alerta Roja para la Comuna de Hijuelas, por incendio forestal, que se encuentra vigente desde el 25 de febrero de 2025.<br></p><table><tbody><tr><td><p><strong>Nombre del incendio</strong></p></td><td><p>Oasis La Campana 3, Hijuelas (Hualcapo)</p></td></tr><tr><td><p><strong>Estado</strong></p></td><td><p>En combate</p></td></tr><tr><td><p><strong>Superficie</strong></p></td><td><p>20 hectárea</p></td></tr><tr><td><p><strong>Recursos</strong></p></td><td><p>​<strong>Bomberos:</strong>Cuerpo de Bomberos de Hijuelas, La Calera, Llay Llay, Nogales, Papudo, Quillota, San Felipe. Santa María.<br>​<strong>Brigadas:</strong>16<br>​<strong>Técnicos:7</strong><br>​<strong>Aeronaves:6</strong>&nbsp;helicópteros, 7 aviones.<br>​<strong>Otros recursos:</strong>1 equipo comunal de GRD, 2 skidder, 3 aljibes CONAF.</p></td></tr></tbody></table>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "e0ef25c6-70ce-4442-975d-4cdc4b18be8d"
+}
