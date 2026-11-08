@@ -17,6 +17,9 @@
 			</svg>
 			<span class="nombre">Archivo <span class="sigla">SENAPRED</span></span>
 		</a>
+		<nav aria-label="Principal">
+			<a href={resolve('/acerca')} aria-current={page.route.id === '/acerca' ? 'page' : undefined}>Acerca del archivo</a>
+		</nav>
 	</div>
 </header>
 
@@ -88,6 +91,16 @@
 		font-weight: 700;
 		letter-spacing: 0.04em;
 		color: var(--tinta-2);
+	}
+	nav a {
+		color: var(--tinta-2);
+		text-decoration: none;
+		font-size: 0.95rem;
+	}
+	nav a:hover,
+	nav a[aria-current='page'] {
+		color: var(--tinta);
+		text-decoration: underline;
 	}
 	main {
 		min-height: 70vh;

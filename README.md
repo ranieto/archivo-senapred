@@ -23,3 +23,31 @@ node collector/recolectar.ts
 ```
 
 Necesita Node 22.18 o superior. El workflow `.github/workflows/recolectar.yml` lo corre cada 8 horas (01:17, 09:17 y 17:17 UTC) y hace commit de los cambios.
+
+## Sitio
+
+El sitio es SvelteKit 3 con `adapter-static`. Lee `data/` al compilar y genera una página por publicación, más dos índices para la búsqueda.
+
+```sh
+npm install
+npm run dev       # desarrollo
+npm run build     # sitio estático en build/
+npm run preview   # sirve build/ en http://localhost:4173
+npm run check     # tipos
+npm test          # pruebas unitarias
+```
+
+`build/` usa rutas relativas, así que se puede publicar en cualquier carpeta de un servidor estático.
+
+- `src/lib/server/archivo.ts` convierte los registros en publicaciones con sus versiones. Es el único lugar que interpreta los JSON de `data/`.
+- `indice.json` tiene una fila por publicación y alimenta los filtros. `texto.json` tiene el texto de cada publicación y se carga después, para la búsqueda de texto completo.
+- `src/lib/buscador.ts` filtra y busca en el navegador. Todo el estado de la búsqueda vive en la URL.
+
+`scripts/verificar.ts` recorre el sitio compilado con Playwright: busca, filtra, abre una publicación y revisa que la URL conserve los filtros. Con `npm run preview` corriendo:
+
+```sh
+npx playwright install chromium
+npm run verificar
+```
+
+`scripts/capturas.ts <url> <carpeta>` guarda capturas de la portada y de una publicación en escritorio y teléfono, en modo claro y oscuro.
