@@ -22,7 +22,7 @@ Cuando SENAPRED borra un registro, no lo elimina. Lo marca con `isDeleted: true`
 node collector/recolectar.ts
 ```
 
-Necesita Node 22.18 o superior. El workflow `.github/workflows/recolectar.yml` lo corre cada hora, al minuto 17, y hace commit de los cambios.
+Necesita Node 22.18 o superior. El workflow `.github/workflows/recolectar.yml` lo corre cada hora, al minuto 17, y hace commit de los cambios. Lo dispara un cron externo (cron-job.org) a través de la API de GitHub, porque el `schedule` de Actions llega con horas de atraso.
 
 ## Sitio
 
