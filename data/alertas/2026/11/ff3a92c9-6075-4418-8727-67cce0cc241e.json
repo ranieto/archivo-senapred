@@ -1,0 +1,20 @@
+{
+	"id": "ff3a92c9-6075-4418-8727-67cce0cc241e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Coquimbo por calor intenso",
+	"fechaHora": "2026-11-08T23:15:00.000-03:00",
+	"createdAt": "2026-11-09T03:06:25.182Z",
+	"updatedAt": "2026-11-09T03:07:26.348Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-region-de-coquimbo-por-calor-intenso-2026-11-06-14-02-41",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC)</strong>, ha sido cancelado el siguiente alertamiento meteorológico para la Región de Coquimbo, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Alertamiento</span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Pronóstico</span></strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Alerta AA193</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Evento de   altas temperaturas extremas en cordillera de la costa y precordillera y   valles precordilleranos.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se mantuvo vigente desde el 06 de octubre de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}

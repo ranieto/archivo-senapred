@@ -1,0 +1,20 @@
+{
+	"id": "8236a654-0eec-4097-ba7f-6f3d562c298e",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Valparaíso por amenaza de incendios forestales",
+	"fechaHora": "2026-11-08T22:48:12.1212-03:00",
+	"createdAt": "2026-11-09T01:50:33.968Z",
+	"updatedAt": "2026-11-09T01:51:31.861Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-valparaiso-por-amenaza-de-incendios-forestales-2026-11-05-21-29-57",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>La Dirección Meteorológica de Chile</strong> ha emitido la cancelación de la Alerta AA193/2026 Evento de Altas Temperaturas Extremas en zonas desde la Región de Coquimbo a la Región del Maule, debido al término de las condiciones meteorológicas que la generaron.</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes la Dirección Regional de SENAPRED cancela la Alerta Temprana Preventiva para la Región de Valparaíso, por amenaza de incendios forestales, que se mantuvo vigente desde el 05 de noviembre de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}
