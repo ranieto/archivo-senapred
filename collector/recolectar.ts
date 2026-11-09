@@ -7,6 +7,11 @@ const PAGE_SIZE = 1000;
 const MIN_FRACTION_OF_ARCHIVE = 0.9;
 /** Fake posts that carry a third party's personal data. SENAPRED deleted them and the archive never keeps them. */
 const EXCLUDED = new Set(['1cc87469-7e0d-40de-af2f-296a7a10b339', '385ddd81-bbc5-4c30-82e6-8975a75020b5']);
+/** A full download runs at least this often, in case SENAPRED ever edits a record without touching `updatedAt`. */
+const FULL_PASS_EVERY_MS = 24 * 60 * 60 * 1000;
+/** Past this many new or changed records, one full download costs less than fetching each record. */
+const MAX_SINGLE_FETCHES = 100;
+const LIGHT_FIELDS = ['id', 'updatedAt'];
 
 type Row = Record<string, unknown> & { id: string };
 
@@ -14,6 +19,7 @@ type Publications = {
 	dir: string;
 	type: string;
 	field: string;
+	get: string;
 	fields: string[];
 };
 
@@ -39,12 +45,14 @@ const PUBLICATIONS: Publications[] = [
 		dir: 'eventos',
 		type: 'Evento',
 		field: 'eventosByDate',
+		get: 'getEvento',
 		fields: [...COMMON, 'variableInformateEventosId']
 	},
 	{
 		dir: 'alertas',
 		type: 'Alerta',
 		field: 'alertasByDate',
+		get: 'getAlerta',
 		fields: [...COMMON, 'tipoAlertaId', 'variableRiesgoAlertasId']
 	}
 ];
@@ -117,47 +125,80 @@ function recordPath(dir: string, row: Row) {
 	return join(DATA, dir, year, month, `${row.id}.json`);
 }
 
-function archivedIds(dir: string) {
+/** Path of every archived record, by id. */
+function archivedPaths(dir: string) {
 	const root = join(DATA, dir);
-	if (!existsSync(root)) return new Set<string>();
-	return new Set(
+	if (!existsSync(root)) return new Map<string, string>();
+	return new Map(
 		readdirSync(root, { recursive: true, encoding: 'utf8' })
 			.filter((f) => f.endsWith('.json'))
-			.map((f) => f.slice(f.lastIndexOf('/') + 1, -'.json'.length))
+			.map((f) => [f.slice(f.lastIndexOf('/') + 1, -'.json'.length), join(root, f)])
 	);
 }
 
+/**
+ * Lists every record and returns the full content of those that need writing. A light pass lists only `id` and
+ * `updatedAt`, then fetches the records that are new or whose `updatedAt` moved.
+ */
+async function currentRecords(gql: GraphQL, pub: Publications, archived: Map<string, string>, full: boolean) {
+	const listed = (await fetchAll(gql, pub.field, pub.type, full ? pub.fields : LIGHT_FIELDS)).filter(
+		(row) => !EXCLUDED.has(row.id)
+	);
+	if (full) return { listed, records: listed };
+	const stale = listed.filter((row) => {
+		const path = archived.get(row.id);
+		return !path || JSON.parse(readFileSync(path, 'utf8')).updatedAt !== row.updatedAt;
+	});
+	if (stale.length > MAX_SINGLE_FETCHES) return currentRecords(gql, pub, archived, true);
+	const query = `query ($id: ID!) { ${pub.get}(id: $id) { ${pub.fields.join(' ')} } }`;
+	const records: Row[] = [];
+	for (const { id } of stale) {
+		const record = (await gql<Record<string, Row | null>>(query, { id }))[pub.get];
+		if (record) records.push(record);
+	}
+	return { listed, records };
+}
+
 type Missing = Record<string, Record<string, string>>;
+type State = { ultimaPasadaCompleta?: string };
 
 async function main() {
-	const today = new Date().toISOString().slice(0, 10);
+	const now = new Date();
+	const today = now.toISOString().slice(0, 10);
+	const statePath = join(DATA, 'recoleccion.json');
+	const state: State = existsSync(statePath) ? JSON.parse(readFileSync(statePath, 'utf8')) : {};
+	const full =
+		process.argv.includes('--completa') ||
+		!state.ultimaPasadaCompleta ||
+		now.getTime() - Date.parse(state.ultimaPasadaCompleta) >= FULL_PASS_EVERY_MS;
 	const gql = await connect();
 	const missingPath = join(DATA, 'ausentes.json');
 	const missing: Missing = existsSync(missingPath) ? JSON.parse(readFileSync(missingPath, 'utf8')) : {};
 	const lines: string[] = [];
 
 	for (const pub of PUBLICATIONS) {
-		const rows = (await fetchAll(gql, pub.field, pub.type, pub.fields)).filter((row) => !EXCLUDED.has(row.id));
-		const archived = archivedIds(pub.dir);
-		if (rows.length < archived.size * MIN_FRACTION_OF_ARCHIVE) {
+		const archived = archivedPaths(pub.dir);
+		const { listed, records } = await currentRecords(gql, pub, archived, full);
+		if (listed.length < archived.size * MIN_FRACTION_OF_ARCHIVE) {
 			throw new Error(
-				`${pub.dir}: la API devolvió ${rows.length} registros y el archivo tiene ${archived.size}. No se escribe nada.`
+				`${pub.dir}: la API devolvió ${listed.length} registros y el archivo tiene ${archived.size}. No se escribe nada.`
 			);
 		}
 		const counts = { nuevo: 0, cambiado: 0 };
-		const seen = new Set<string>();
-		for (const row of rows) {
-			seen.add(row.id);
+		for (const row of records) {
 			const result = writeIfChanged(recordPath(pub.dir, row), serialize(row, pub.fields));
 			if (result) counts[result]++;
 		}
+		const seen = new Set(listed.map((row) => row.id));
 		const gone = (missing[pub.dir] ??= {});
 		for (const id of Object.keys(gone)) if (seen.has(id)) delete gone[id];
-		for (const id of archived) if (!seen.has(id)) gone[id] ??= today;
+		for (const id of archived.keys()) if (!seen.has(id)) gone[id] ??= today;
 		lines.push(
-			`${pub.dir}: ${rows.length} en la API, ${counts.nuevo} nuevos, ${counts.cambiado} cambiados, ${Object.keys(gone).length} ausentes`
+			`${pub.dir}: ${listed.length} en la API, ${counts.nuevo} nuevos, ${counts.cambiado} cambiados, ${Object.keys(gone).length} ausentes`
 		);
 	}
+	lines.push(full ? 'descarga completa' : 'descarga liviana');
+	if (full) writeIfChanged(statePath, JSON.stringify({ ultimaPasadaCompleta: now.toISOString() }, null, '\t') + '\n');
 
 	for (const cat of CATALOGS) {
 		const rows = await fetchAll(gql, cat.field, cat.type, cat.fields);

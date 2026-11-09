@@ -9,6 +9,7 @@ Archivo no oficial de los eventos y alertas que SENAPRED publica en [senapred.cl
 - `data/eventos/AAAA/MM/<id>.json` y `data/alertas/AAAA/MM/<id>.json`, agrupados por la fecha de creación del registro (`createdAt`).
 - `data/catalogos/` tiene regiones, provincias, comunas, categorías y tipos de alerta.
 - `data/ausentes.json` lista los registros archivados que la API dejó de devolver, con la fecha en que se notó por primera vez.
+- `data/recoleccion.json` guarda la fecha de la última descarga completa.
 
 Cada publicación del sitio oficial reúne varios registros con la misma `urlAccess`, encadenados por `parentId`. Cada actualización es un registro nuevo.
 
@@ -18,11 +19,13 @@ Cuando SENAPRED borra un registro, no lo elimina. Lo marca con `isDeleted: true`
 
 `collector/recolectar.ts` no tiene dependencias. Obtiene credenciales de invitado de Cognito, consulta la API GraphQL (AppSync) y escribe solo los archivos que cambiaron.
 
+Casi siempre hace una descarga liviana: pide el `id` y el `updatedAt` de todos los registros (unos 1,6 MB) y baja completos solo los nuevos o los que tienen otro `updatedAt`. Una vez al día hace una descarga completa (unos 83 MB), por si algún cambio no movió `updatedAt`. `--completa` la fuerza.
+
 ```sh
 node collector/recolectar.ts
 ```
 
-Necesita Node 22.18 o superior. El workflow `.github/workflows/recolectar.yml` lo corre cada hora, al minuto 17, y hace commit de los cambios. Lo dispara un cron externo (cron-job.org) a través de la API de GitHub, porque el `schedule` de Actions llega con horas de atraso.
+Necesita Node 22.18 o superior. El workflow `.github/workflows/recolectar.yml` lo corre cada 5 minutos y hace commit de los cambios. Lo dispara un cron externo (cron-job.org) a través de la API de GitHub, porque el `schedule` de Actions llega con horas de atraso.
 
 ## Sitio
 
