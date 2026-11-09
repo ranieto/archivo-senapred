@@ -22,7 +22,7 @@ export function crearIndice(archivo: Archivo): IndiceArchivo {
 			comunas: p.comunas.join(', '),
 			inicio: p.inicio,
 			fin: p.fin,
-			dia: diaChile(p.inicio),
+			dia: diaChile(p.fin),
 			versiones: p.versiones.length,
 			borrada: p.borrada,
 			conBorrados: p.conBorrados,

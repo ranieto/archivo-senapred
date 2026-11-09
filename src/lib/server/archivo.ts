@@ -255,7 +255,7 @@ export function agruparPublicaciones(
 			vigente: !borrada && actual.activa
 		});
 	}
-	return publicaciones.sort((a, b) => b.inicio.localeCompare(a.inicio));
+	return publicaciones.sort((a, b) => b.fin.localeCompare(a.fin) || b.inicio.localeCompare(a.inicio));
 }
 
 export function crearCatalogos(crudos: {

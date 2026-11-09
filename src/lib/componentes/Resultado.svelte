@@ -53,7 +53,7 @@
 			</span>
 		{/if}
 		<span class="meta">
-			<span class="solo-lectores">{fechaCorta(pub.inicio)} {fecha.anio}.</span>
+			<span class="solo-lectores">{fechaCorta(pub.fin)} {fecha.anio}.</span>
 			{#if regiones.length}
 				<span class="lugar">{regiones.length > 3 ? `${regiones.length} regiones` : regiones.join(', ')}</span>
 			{/if}
