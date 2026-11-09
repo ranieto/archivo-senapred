@@ -24,7 +24,6 @@ export interface Version {
 	creado: string;
 	modificado: string;
 	principal: boolean;
-	activa: boolean;
 	borrada: boolean;
 	titulo: string;
 	categoria: string;
@@ -55,8 +54,6 @@ export interface Publicacion {
 	/** Every version is deleted on the official site. */
 	borrada: boolean;
 	conBorrados: boolean;
-	/** Still active on the official site. */
-	vigente: boolean;
 }
 
 export interface Catalogos {
@@ -75,7 +72,6 @@ interface Registro {
 	modificado: string;
 	slug: string;
 	principal: boolean;
-	activo: boolean;
 	borrado: boolean;
 	regionesIds: string[];
 	provincias: string;
@@ -128,7 +124,6 @@ export function parsearRegistro(crudo: unknown, tipo: Tipo, donde = 'registro'):
 		modificado: texto(o, 'updatedAt', donde),
 		slug: texto(o, 'urlAccess', donde),
 		principal: booleano(o, 'isPrincipal', donde),
-		activo: booleano(o, 'isActive', donde),
 		borrado: booleano(o, 'isDeleted', donde),
 		regionesIds: Array.isArray(ids) ? ids.filter((id): id is string => typeof id === 'string') : [],
 		provincias: textoOpcional(meta, 'provincias'),
@@ -187,7 +182,6 @@ function crearVersion(r: Registro, numero: number, catalogos: Catalogos): Versio
 		creado: r.creado,
 		modificado: r.modificado,
 		principal: r.principal,
-		activa: r.activo,
 		borrada: r.borrado,
 		titulo: r.titulo,
 		categoria: capitalizar(catalogos.categorias.get(r.categoriaId) ?? 'Otros'),
@@ -251,11 +245,10 @@ export function agruparPublicaciones(
 			versiones,
 			actual,
 			borrada,
-			conBorrados: !borrada && versiones.some((v) => v.borrada),
-			vigente: !borrada && actual.activa
+			conBorrados: !borrada && versiones.some((v) => v.borrada)
 		});
 	}
-	return publicaciones.sort((a, b) => b.inicio.localeCompare(a.inicio));
+	return publicaciones.sort((a, b) => b.fin.localeCompare(a.fin) || b.inicio.localeCompare(a.inicio));
 }
 
 export function crearCatalogos(crudos: {

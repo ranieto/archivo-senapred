@@ -37,7 +37,7 @@ export interface CategoriaIndice {
 	slug: string;
 }
 
-/** One row per publication. Dates are ISO instants; `dia` is the Chilean calendar day of `inicio`. */
+/** One row per publication. Dates are ISO instants; `dias` are the Chilean calendar days with a version, ascending. */
 export interface FilaIndice {
 	tipo: Tipo;
 	slug: string;
@@ -48,11 +48,10 @@ export interface FilaIndice {
 	comunas: string;
 	inicio: string;
 	fin: string;
-	dia: string;
+	dias: string[];
 	versiones: number;
 	borrada: boolean;
 	conBorrados: boolean;
-	vigente: boolean;
 }
 
 export interface IndiceArchivo {

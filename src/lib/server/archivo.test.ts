@@ -77,6 +77,25 @@ describe('agruparPublicaciones', () => {
 		expect(pub?.borrada).toBe(true);
 	});
 
+	test('orders publications by their latest version, newest first', () => {
+		const pubs = agruparPublicaciones(
+			[
+				registro('alerta', { id: 'a1', urlAccess: 'actualizada', fechaHora: '2026-11-06T23:35:00.000-03:00', createdAt: '2026-11-07T02:36:00.000Z' }),
+				registro('alerta', { id: 'a2', urlAccess: 'actualizada', fechaHora: '2026-11-09T00:25:00.000-03:00', createdAt: '2026-11-09T03:28:00.000Z' }),
+				registro('alerta', { id: 'b', urlAccess: 'nueva', fechaHora: '2026-11-08T10:00:00.000-03:00', createdAt: '2026-11-08T13:00:00.000Z' }),
+				registro('alerta', {
+					id: 'c',
+					urlAccess: 'borrada',
+					isDeleted: true,
+					fechaHora: '2000-01-01T00:00:00.000-03:00',
+					createdAt: '2026-11-07T12:00:00.000Z'
+				})
+			],
+			catalogos
+		);
+		expect(pubs.map((p) => p.urlAccess)).toEqual(['actualizada', 'nueva', 'borrada']);
+	});
+
 	test('reads fechaHora with four-digit fractions', () => {
 		const [pub] = agruparPublicaciones(
 			[registro('evento', { fechaHora: '2026-03-12T21:04:18.1818-03:00' })],

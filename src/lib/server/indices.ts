@@ -22,11 +22,10 @@ export function crearIndice(archivo: Archivo): IndiceArchivo {
 			comunas: p.comunas.join(', '),
 			inicio: p.inicio,
 			fin: p.fin,
-			dia: diaChile(p.inicio),
+			dias: [...new Set(p.versiones.map((v) => diaChile(v.fecha)))].sort(),
 			versiones: p.versiones.length,
 			borrada: p.borrada,
-			conBorrados: p.conBorrados,
-			vigente: p.vigente
+			conBorrados: p.conBorrados
 		}))
 	};
 }

@@ -3,13 +3,11 @@
 
 	let {
 		nivel = null,
-		vigente = false,
 		cancelada = false,
 		borrada = false,
 		compacta = false
 	}: {
 		nivel?: Nivel | null;
-		vigente?: boolean;
 		cancelada?: boolean;
 		borrada?: boolean;
 		compacta?: boolean;
@@ -19,9 +17,6 @@
 <span class="insignias" class:compacta>
 	{#if nivel}
 		<span class="insignia nivel {nivel}">Alerta {NOMBRE_NIVEL[nivel]}</span>
-	{/if}
-	{#if vigente}
-		<span class="insignia vigente">Vigente</span>
 	{/if}
 	{#if cancelada}
 		<span class="insignia estado">Cancelada</span>
@@ -64,17 +59,6 @@
 	.nivel.roja {
 		color: var(--nivel-roja);
 		background: var(--nivel-roja-fondo);
-	}
-	.vigente {
-		color: var(--acento);
-		background: var(--acento-suave);
-	}
-	.vigente::before {
-		content: '';
-		width: 0.45em;
-		height: 0.45em;
-		border-radius: 50%;
-		background: currentColor;
 	}
 	.estado {
 		color: var(--tinta-2);

@@ -36,7 +36,7 @@
 			<span class="tipo">{NOMBRE_TIPO[d.tipo].singular}</span>
 		</p>
 		<h1>{d.titulo}</h1>
-		<Insignias nivel={d.nivel} vigente={d.vigente} cancelada={d.cancelada} borrada={d.borrada} />
+		<Insignias nivel={d.nivel} cancelada={d.cancelada} borrada={d.borrada} />
 	</header>
 
 	{#if d.borrada}

@@ -41,7 +41,7 @@
 	const nFiltros = $derived(cantidadFiltros(filtros));
 
 	const meses = $derived.by(() => {
-		const dias = data.indice.publicaciones.map((p) => p.dia).sort();
+		const dias = data.indice.publicaciones.flatMap((p) => p.dias).sort();
 		const primero = dias[0]?.slice(0, 7);
 		const ultimo = dias.at(-1)?.slice(0, 7);
 		const lista: string[] = [];

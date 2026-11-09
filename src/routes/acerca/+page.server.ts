@@ -9,6 +9,6 @@ export const load: PageServerLoad = () => {
 		recolectado,
 		publicaciones: publicaciones.length,
 		versiones: publicaciones.reduce((n, p) => n + p.versiones.length, 0),
-		desde: publicaciones.at(-1)?.inicio ?? recolectado
+		desde: publicaciones.map((p) => p.inicio).sort()[0] ?? recolectado
 	};
 };

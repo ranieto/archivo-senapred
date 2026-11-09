@@ -24,7 +24,7 @@
 	const pub = $derived(fila.pub);
 	const categoria = $derived(indice.categorias[pub.categoria]?.nombre ?? 'Otros');
 	const regiones = $derived(pub.regiones.flatMap((r) => indice.regiones[r]?.corto ?? []));
-	const fecha = $derived(partesDia(pub.dia));
+	const fecha = $derived(partesDia(pub.dias.at(-1) ?? ''));
 	const cancelada = $derived(/^se cancela/i.test(pub.titulo));
 </script>
 
@@ -53,7 +53,7 @@
 			</span>
 		{/if}
 		<span class="meta">
-			<span class="solo-lectores">{fechaCorta(pub.inicio)} {fecha.anio}.</span>
+			<span class="solo-lectores">{fechaCorta(pub.fin)} {fecha.anio}.</span>
 			{#if regiones.length}
 				<span class="lugar">{regiones.length > 3 ? `${regiones.length} regiones` : regiones.join(', ')}</span>
 			{/if}
@@ -62,7 +62,6 @@
 			{/if}
 			<Insignias
 				nivel={pub.nivel}
-				vigente={pub.vigente}
 				{cancelada}
 				borrada={pub.borrada}
 				compacta

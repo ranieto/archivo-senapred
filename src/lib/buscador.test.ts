@@ -14,11 +14,10 @@ function fila(campos: Partial<FilaIndice>): FilaIndice {
 		comunas: '',
 		inicio: '2025-01-01T12:00:00.000Z',
 		fin: '2025-01-01T12:00:00.000Z',
-		dia: '2025-01-01',
+		dias: ['2025-01-01'],
 		versiones: 1,
 		borrada: false,
 		conBorrados: false,
-		vigente: false,
 		...campos
 	};
 }
@@ -35,9 +34,9 @@ const indice: IndiceArchivo = {
 		{ codigo: 'VIII', nombre: 'Región del Biobío', corto: 'Biobío', slug: 'biobio' }
 	],
 	publicaciones: [
-		fila({ slug: 'lluvia', titulo: 'Monitoreo por evento hidrometeorológico en Ñuble', regiones: [0], dia: '2025-06-10' }),
-		fila({ slug: 'sismo', titulo: 'Sismo de menor intensidad', categoria: 1, regiones: [1], dia: '2025-03-01' }),
-		fila({ slug: 'alerta', tipo: 'alerta', nivel: 'roja', categoria: 1, titulo: 'Se declara Alerta Roja para Chillán', regiones: [0], comunas: 'Chillán', dia: '2024-12-01' }),
+		fila({ slug: 'lluvia', titulo: 'Monitoreo por evento hidrometeorológico en Ñuble', regiones: [0], dias: ['2025-06-10'] }),
+		fila({ slug: 'sismo', titulo: 'Sismo de menor intensidad', categoria: 1, regiones: [1], dias: ['2025-03-01'] }),
+		fila({ slug: 'alerta', tipo: 'alerta', nivel: 'roja', categoria: 1, titulo: 'Se declara Alerta Roja para Chillán', regiones: [0], comunas: 'Chillán', dias: ['2024-12-01'] }),
 		fila({ slug: 'borrada', titulo: 'Evento hidrometeorológico de prueba', borrada: true })
 	]
 };
@@ -89,6 +88,16 @@ describe('filters', () => {
 		expect(facetas.regiones.get('biobio')).toBe(1);
 		expect(facetas.regiones.get('nuble')).toBe(1);
 		expect(facetas.tipo).toEqual({ evento: 1, alerta: 1 });
+	});
+
+	test('a publication counts in each month it had a version and matches dates on any of them', () => {
+		const b = new Buscador({
+			...indice,
+			publicaciones: [fila({ slug: 'actualizada', dias: ['2025-01-10', '2025-03-05'] }), fila({ slug: 'otra', dias: ['2025-02-01'] })]
+		});
+		expect(Object.fromEntries(buscar(b, {}).facetas.meses)).toEqual({ '2025-01': 1, '2025-02': 1, '2025-03': 1 });
+		expect(slugs(b, { desde: '2025-03-01', hasta: '2025-03-31' })).toEqual(['actualizada']);
+		expect(slugs(b, { desde: '2025-02-01', hasta: '2025-02-28' })).toEqual(['otra']);
 	});
 
 	test('oldest first reverses the order', () => {
