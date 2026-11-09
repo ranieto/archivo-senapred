@@ -22,7 +22,6 @@ export interface VersionDetalle {
 	titulo: string;
 	etiqueta: string | null;
 	principal: boolean;
-	activa: boolean;
 	borrada: boolean;
 	nivel: Nivel | null;
 	html: string;
@@ -41,7 +40,6 @@ export interface Detalle {
 	inicio: string;
 	fin: string;
 	borrada: boolean;
-	vigente: boolean;
 	cancelada: boolean;
 	actual: number;
 	versiones: VersionDetalle[];
@@ -54,7 +52,6 @@ function versionDetalle(v: Version): VersionDetalle {
 		titulo: v.titulo,
 		etiqueta: etiqueta(v.titulo),
 		principal: v.principal,
-		activa: v.activa,
 		borrada: v.borrada,
 		nivel: v.nivel,
 		html: sanitizarContenido(v.contenido, `v${v.numero}-`)
@@ -75,7 +72,6 @@ export function crearDetalle(p: Publicacion): Detalle {
 		inicio: p.inicio,
 		fin: p.fin,
 		borrada: p.borrada,
-		vigente: p.vigente,
 		cancelada: etiqueta(p.titulo) === 'Cancelación',
 		actual: p.actual.numero,
 		versiones: p.versiones.map(versionDetalle)

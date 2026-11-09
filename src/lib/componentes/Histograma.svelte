@@ -55,7 +55,7 @@
 			<strong>{nombreMes(encima)}</strong>: {(conteos.get(encima) ?? 0).toLocaleString('es-CL')}
 			{conteos.get(encima) === 1 ? 'publicación' : 'publicaciones'}.
 		{:else}
-			Publicaciones por mes. Elige una barra para ver solo ese mes.
+			Publicaciones por mes, contando la original y sus actualizaciones. Elige una barra para ver solo ese mes.
 		{/if}
 	</p>
 </figure>

@@ -17,7 +17,10 @@ export interface Fila {
 	pub: FilaIndice;
 	categoria: string;
 	regiones: string[];
+	/** Month of the latest version, for the list's month headings. */
 	mes: string;
+	/** Every month with a version. */
+	meses: string[];
 	lugares: string;
 	/** Folded title, places and category, for matching before the text index arrives. */
 	doblado: string;
@@ -67,7 +70,8 @@ export class Buscador {
 				pub,
 				categoria: categoria?.slug ?? '',
 				regiones: regiones.map((r) => r.slug),
-				mes: pub.dia.slice(0, 7),
+				mes: pub.dias.at(-1)?.slice(0, 7) ?? '',
+				meses: [...new Set(pub.dias.map((d) => d.slice(0, 7)))],
 				lugares,
 				doblado: normalizar(`${pub.titulo} ${lugares}`)
 			};
@@ -153,7 +157,7 @@ export class Buscador {
 					if (fila.pub.nivel) facetas.niveles[fila.pub.nivel]++;
 					break;
 				case 'fecha':
-					facetas.meses.set(fila.mes, (facetas.meses.get(fila.mes) ?? 0) + 1);
+					for (const m of fila.meses) facetas.meses.set(m, (facetas.meses.get(m) ?? 0) + 1);
 					break;
 				case 'borradas':
 					if (fila.pub.borrada) facetas.borradas++;
@@ -175,7 +179,7 @@ export class Buscador {
 				categoria: categorias.size > 0 && !categorias.has(fila.categoria),
 				region: regiones.size > 0 && !fila.regiones.some((r) => regiones.has(r)),
 				nivel: niveles.size > 0 && (pub.nivel === null || !niveles.has(pub.nivel)),
-				fecha: (f.desde !== null && pub.dia < f.desde) || (f.hasta !== null && pub.dia > f.hasta),
+				fecha: !pub.dias.some((d) => (f.desde === null || d >= f.desde) && (f.hasta === null || d <= f.hasta)),
 				borradas: !f.borradas && pub.borrada
 			};
 			const fallidas = dimensiones.filter((d) => falla[d]);
