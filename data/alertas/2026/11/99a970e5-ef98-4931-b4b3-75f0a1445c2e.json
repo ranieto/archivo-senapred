@@ -1,0 +1,20 @@
+{
+	"id": "99a970e5-ef98-4931-b4b3-75f0a1445c2e",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Salamanca por crecida",
+	"fechaHora": "2026-11-10T01:25:59.5959-03:00",
+	"createdAt": "2026-11-10T04:27:57.675Z",
+	"updatedAt": "2026-11-10T04:27:57.675Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Estación hidrométrica</span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Umbral</span></strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Choapa en Cuncumén</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Amarillo</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Cuncumén antes Junta Choapa (Chacay)</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Amarillo</span></p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Por otro lado, se mantiene la Alerta Roja para las comunas de Río Hurtado y Monte Patria por desborde, las que se encuentran vigentes desde el 09 de noviembre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>mantiene la Alerta Amarilla para la comuna de Salamanca por crecida</strong>, que se encuentra vigente desde el 09 de octubre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Esta Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}
