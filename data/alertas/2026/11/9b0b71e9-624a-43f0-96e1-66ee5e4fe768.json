@@ -1,0 +1,20 @@
+{
+	"id": "9b0b71e9-624a-43f0-96e1-66ee5e4fe768",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida",
+	"fechaHora": "2026-11-10T09:48:00.000-03:00",
+	"createdAt": "2026-11-10T13:31:06.662Z",
+	"updatedAt": "2026-11-10T13:31:06.662Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-salamanca-por-crecida-2026-11-09-02-13-13",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo:</p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Estación hidrométrica</span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"color:black\">Umbral</span></strong></p></td></tr><tr><td><p style=\"text-align:center\">Río   Toro antes Junta Río La Legua</p></td><td><p style=\"text-align:center\">Amarillo</p></td></tr><tr><td><p style=\"text-align:center\">Río   Choapa en Cuncumén</p></td><td><p style=\"text-align:center\">Amarillo</p></td></tr><tr><td><p style=\"text-align:center\">Río   Cuncumén antes Junta Choapa (Chacay)</p></td><td><p style=\"text-align:center\">Amarillo</p></td></tr><tr><td><p style=\"text-align:center\">Río   Choapa en Salamanca</p></td><td><p style=\"text-align:center\">Amarillo</p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color:black\">Adicionalmente, la Dirección General de Aguas (DGA) detalla en su Reporte Hidrométrico que entre el 7 y el 9 de noviembre, los umbrales hidrométricos han alcanzado o superado sus niveles de alertamiento debido a los deshielos ocurridos en las cuencas de Elqui, Limarí y Choapa. El reporte además destaca que se esperan nuevos aumentos de caudal, con máximos estacionales a partir de la segunda quincena de noviembre, después del día 15, y durante diciembre, según la cuenca. Se estima que los aportes por deshielo se mantendrán hasta mediados de enero de 2027.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>modifica cobertura de la Alerta Amarilla para las comunas de La Higuera, La Serena, Coquimbo, Paihuano, Vicuña, Andacollo, Ovalle, Punitaqui, Combarbalá, Salamanca, Illapel, Canela y Los Vilos por crecida</strong>, que se encuentra vigente desde el 09 de noviembre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Por otro lado, se mantiene Alerta Roja para las comunas de Río Hurtado y Monte Patria por desborde, las que se encuentran vigentes desde el 09 de noviembre y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color:black\">Con la modificación de la Alerta Amarilla, se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}
