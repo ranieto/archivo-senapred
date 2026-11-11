@@ -1,0 +1,20 @@
+{
+	"id": "a37d5727-e640-4b82-922c-eed09a6f5025",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura Alerta Roja para las comunas de Salamanca, Monte Patria y Río Hurtado por desborde",
+	"fechaHora": "2026-11-11T00:20:38.3838-03:00",
+	"createdAt": "2026-11-11T03:22:32.907Z",
+	"updatedAt": "2026-11-11T03:22:32.907Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA)</strong>, las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudal en la Región de Coquimbo:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Comuna </span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Estación hidrométrica</span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Umbral</span></strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Monte   Patria</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Grande Las Ramadas</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Roja</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Hurtado</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Hurtado en San Agustín</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Roja</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Salamanca</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río   Choapa en Cuncumén</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Roja</span></p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe señalar que, la Alerta Roja vigente para la comuna de Río Hurtado por desborde fue incluida dentro de la cobertura de esta alerta.</span></p><p style=\"text-align: justify\"><br></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED m</span>odifica la cobertura de la Alerta Roja para las comunas de Salamanca, Monte Patria y Río Hurtado por desborde<span style=\"color: rgb(0, 0, 0);font-size: 14px\">, vigente a contar del 09 de noviembre del 2026 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><br></span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Con la modificación de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}
