@@ -1,0 +1,20 @@
+{
+	"id": "47a1d744-b67e-449a-99bf-00e626fdc405",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Roja para la comuna de Monte Patria por desborde",
+	"fechaHora": "2026-11-10T21:38:02.022-03:00",
+	"createdAt": "2026-11-11T00:39:29.756Z",
+	"updatedAt": "2026-11-11T00:39:29.756Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-monte-patria-por-crecida-2026-11-06-23-35-42",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"r\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><strong>De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), l</strong>a estación hidrométrica de monitoreo mantiene el siguiente registro de caudal en la Región de Coquimbo:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px\"><strong><span style=\"color: black\">Estación hidrométrica</span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px\"><strong><span style=\"color: black\">Umbral</span></strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px\">Río   Grande Las Ramadas</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px\">Roja</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><span style=\"color: black;font-size: 14px\">Por otra parte, de acuerdo con la información proporcionada por la Dirección Regional del SENAPRED Coquimbo, se registran las siguientes situaciones producto de las activaciones de quebradas y crecidas de cauces:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px\"><strong><span style=\"color: black\">Comuna </span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px\"><strong><span style=\"color: black\">Observación</span></strong></span></p></td></tr><tr><td rowspan=\"2\"><p style=\"text-align:center\"><span style=\"font-size: 14px\"><strong>Monte Patria</strong></span></p></td><td><p><span style=\"font-size: 14px\">Diversos accesos vehiculares en los sectores de Río Grande, Río Ponio,   Río Mostazal, Río Huatulame y Río Rapel, se ven afectados por crecidas y   aumentos de caudal en la comuna.</span></p></td></tr><tr><td><p><span style=\"font-size: 14px\">Sistemas Sanitarios Rurales (SSR) Caren, Los Clonquis y Los Molles – Hacienda   Valdivia reportan problemas por turbiedad del agua.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color: black;font-size: 14px\">En consideración a este antecedente y en coordinación con la Delegación Presidencial Regional de Coquimbo, la Dirección Regional del SENAPRED <strong>Mantiene la Alerta Roja para la comuna de Monte Patria por desborde</strong>, vigente a contar del 09 de noviembre del 2026 y hasta que las condiciones así lo ameriten.</span></p><p style=\"text-align: justify\"><span style=\"color: black;font-size: 14px\"><br></span></p><p><span style=\"font-size: 14px;color: black\">Con la declaración de esta Alerta Roja, se movilizarán todos los recursos necesarios y disponibles para actuar y controlar la situación, dada la extensión y severidad del evento.</span></p>",
+	"tipoAlertaId": "78e12f4b-a976-4f7c-a8cc-cd9aa3838bcd",
+	"variableRiesgoAlertasId": "4c35ba62-efcc-42fe-b240-dcb7d3d68b73"
+}
