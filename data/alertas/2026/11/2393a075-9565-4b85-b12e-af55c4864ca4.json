@@ -1,0 +1,20 @@
+{
+	"id": "2393a075-9565-4b85-b12e-af55c4864ca4",
+	"type": "Alerta",
+	"titulo": " Se cancela Alerta Amarilla para la comuna de Ovalle por incendio forestal",
+	"fechaHora": "2026-11-11T18:15:00.000-03:00",
+	"createdAt": "2026-11-11T21:30:22.524Z",
+	"updatedAt": "2026-11-11T21:30:22.524Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-ovalle-por-incendio-forestal-2026-11-11-17-47-45",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"21789f49-27ab-4898-ae56-c7ababab7965"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Coquimbo\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De acuerdo con la información&nbsp;técnica proporcionada por Conaf y el SINAPRED,&nbsp;</span></strong><span style=\"font-size:15px\">respecto al incendio forestal en la&nbsp;<strong>comuna de Ovalle, </strong>se informa el siguiente detalle:</span></p><table><tbody><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Nombre   del incendio</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Población   El Acacio</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Estado</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Extinguido</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Superficie</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">1.6   (ha)</span></p></td></tr><tr><td><p style=\"text-align:justify\"><strong><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Observaciones</span></strong></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">El   incendio no presentar amenaza a personas, viviendas y/o infraestructura crítica.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en base a la información técnica proporcionada por CONAF, en coordinación con la delegación Presidencial Regional de Coquimbo, la Dirección Regional de SENAPRED cancela la Alerta Amarilla para la Comuna de Ovalle, por incendio forestal, que se mantuvo vigente desde el 11 de noviembre.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "f74aa68d-6166-4d6d-a71a-4c43aad94005"
+}
