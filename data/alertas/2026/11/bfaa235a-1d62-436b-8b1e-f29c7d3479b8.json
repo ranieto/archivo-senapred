@@ -1,0 +1,20 @@
+{
+	"id": "bfaa235a-1d62-436b-8b1e-f29c7d3479b8",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para la Región de Magallanes por evento meteorológico",
+	"fechaHora": "2026-11-12T12:34:47.4747-03:00",
+	"createdAt": "2026-11-12T15:35:58.125Z",
+	"updatedAt": "2026-11-12T15:36:48.610Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-y-la-antartica-chilena-por-viento-2026-11-06-19-33-06",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), han sido cancelados los siguientes alertamientos meteorológicos para la Región de Magallanes, debido al debilitamiento de las condiciones meteorológicas que los originaron:</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A613</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Precipitaciones   normales a moderadas en corto periodo de tiempo en cordillera austral norte y   pampa patagónica norte.</span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A614</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Probables   tormentas eléctricas asociadas con chubascos aislados en las zonas cordillera   austral sur, insular sur y pampa patagónica sur.</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva Regional por evento meteorológico</strong>, que se encontraba vigente desde el 06 de noviembre 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "07c971d4-5263-4093-a326-9a18e4399518"
+}
