@@ -1,0 +1,20 @@
+{
+	"id": "b2748968-85cd-4366-b926-18ac188ced00",
+	"type": "Alerta",
+	"titulo": " Monitoreo Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida",
+	"fechaHora": "2026-11-14T01:05:13.1313-03:00",
+	"createdAt": "2026-11-14T04:05:59.279Z",
+	"updatedAt": "2026-11-14T04:05:59.279Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Otros\",\"nombreImg\":\"otros.png\"}",
+	"contenido": "<p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De acuerdo con los <strong>antecedentes proporcionados por la Dirección General de Aguas (DGA)</strong>, entre las 17:00 y las 22:00 horas del 13 de noviembre, se registraron variaciones de caudal en distintas estaciones de monitoreo de la cuenca del río Aconcagua, destacando la superación transitoria del umbral Rojo en la estación <strong>“Río Aconcagua en Chacabuquito”.</strong> Cabe señalar, que esta estación registró un incremento de caudal desde 142,01 m³/s a las 17:00 horas a 170.15 m³/s a las 18:00 horas superando el umbral amarillo establecido, para posteriormente a las 20:00 horas registrar un incremento de 193.6 m³/s, que lo posiciono en el umbral rojo; actualmente registra un caudal de 198.42 m³/s. manteniéndose el umbral rojo. </span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida</strong>, que se encuentra vigente desde el 12 de noviembre y hasta que las condiciones así lo ameriten. </span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Con esta alerta, permanecen alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><strong><span style=\"font-size: 15px\">CURSOS DE ACCIÓN:</span></strong></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">Se establecieron coordinaciones entre SENAPRED Valparaíso y la Dirección General de Aguas (DGA) para el seguimiento de caudales y niveles del río Aconcagua.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">De igual forma, se realizaron las coordinaciones correspondientes con los equipos de gestión del riesgo de las comunas de Los Andes y San Esteban, además de la Delegación Presidencial Provincial de Los Andes, para mantener vigilancia de cauces y sectores ribereños.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "866c7117-2784-49b5-aa31-5fbb11aaa1fd"
+}
