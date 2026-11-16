@@ -1,0 +1,20 @@
+{
+	"id": "94797ef7-d050-4614-a487-89b9fd1d5cd7",
+	"type": "Alerta",
+	"titulo": "Se modifica cobertura de Alerta Amarilla para las comunas de Los Andes y San Esteban por crecida",
+	"fechaHora": "2026-11-16T00:40:45.4545-03:00",
+	"createdAt": "2026-11-16T03:42:23.245Z",
+	"updatedAt": "2026-11-16T03:42:23.245Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-12-22-13-04",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), las estaciones hidrométricas de monitoreo mantienen el siguiente registro de caudales en la Región de Valparaíso:</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Estación </span></strong></p></td><td><p style=\"text-align:center\"><strong><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Umbral</span></strong></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Río Aconcagua en   Chacabuquito</span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Rojo</span></p></td></tr></tbody></table></div><p style=\"text-align: justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Por otra parte, la estación Río Aconcagua en Puente Colmo registró valores en umbral rojo, dando paso a la declaración de Alerta Roja por desborde en las comunas de Quintero, Concón, Quillota y Limache, quedando dichas comunas fuera de cobertura de la presente alerta amarilla.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>modifica la cobertura de la Alerta Amarilla a las comunas de Los Andes y San Esteban por crecida</strong>, que se mantiene vigente desde el 12 de noviembre y hasta que las condiciones así lo ameriten. </span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con esta modificación de alerta, permanecerán alistados escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de evitar que éste crezca en extensión y severidad, minimizando los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}
