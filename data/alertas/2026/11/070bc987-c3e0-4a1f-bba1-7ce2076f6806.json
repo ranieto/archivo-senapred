@@ -1,0 +1,20 @@
+{
+	"id": "070bc987-c3e0-4a1f-bba1-7ce2076f6806",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las comunas de Concón, Quintero, Quillota y Limache por crecida",
+	"fechaHora": "2026-11-22T10:18:14.1414-03:00",
+	"createdAt": "2026-11-22T13:19:03.228Z",
+	"updatedAt": "2026-11-22T13:19:41.848Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-las-provincia-de-san-felipe-y-las-comunas-de-los-andes-y-san-esteban-por-crecida-2026-11-11-21-08-18",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"3cf5f041-d4d2-498f-89b9-47162ff73d87"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Valparaíso\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Regional de Valparaíso, a través de las <strong>estaciones fluviométricas del Río Aconcagua</strong>, se puede observar una <strong>disminución significativa</strong> y <strong>estabilización de sus caudales</strong>, manteniéndose actualmente dentro de parámetros normales correspondientes al <strong>umbral verde</strong>.</span></span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Valparaíso, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por crecida para las comunas de Concón, Quintero, Quillota y Limache</strong>, que se mantuvo vigente desde el 11 de noviembre de 2026.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "40065066-c9d0-4383-99f1-20d8bb36fccf"
+}
