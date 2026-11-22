@@ -1,0 +1,20 @@
+{
+	"id": "0b7060a8-a65d-4fc8-9403-ad49d2388cdb",
+	"type": "Alerta",
+	"titulo": "Monitoreo Alerta Amarilla para la comuna de Tierra Amarilla por crecida",
+	"fechaHora": "2026-11-22T12:20:08.088-03:00",
+	"createdAt": "2026-11-22T15:21:13.328Z",
+	"updatedAt": "2026-11-22T15:21:13.328Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-la-comuna-de-tierra-amarilla-por-crecida-2026-11-15-20-54-08",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"210d21f3-aa90-4395-8244-00a0032d6125"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Atacama\",\"nombreVariable\":\"Inundaciones - Anegamientos\",\"nombreImg\":\"inundaciones.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\">De acuerdo con la información proporcionada por la Dirección General de Aguas (DGA), se informa que los caudales de la cuenca alta del Río Copiapó, aguas arriba del embalse Lautaro, presenta una tendencia a la estabilización, luego de la disminución registrada durante los últimos días.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Cabe señalar que, los caudales continúan elevados para la época del año, sin descartarse leves incrementos durante las próximas horas ni mayores caudales durante los próximos meses, conforme a la evolución de las condiciones hidrometeorológicas de la temporada de deshielo 2026–2027.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En base con la información publicada por la Junta de Vigilancia del Río Copiapó y sus afluentes, al 21 de noviembre de 2026, el embalse Lautaro registra un volumen almacenado de 17.474.200 m³, equivalente al 76,68 % de su capacidad, con un caudal de ingreso de 10,14 m³/s y una descarga de 8,01 m³/s hacia el Río Copiapó.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Mientras que, la Dirección de GRD de la Comuna de Tierra Amarilla reporta afectación en la Ruta C-393, sector Hacienda Manflas, la cual al momento se encuentra transitable para vehículos 4x4 con precaución. Asimismo, las 27 personas que se mantuvieron aisladas en el sector María Isabel por la crecida del Río Copiapó, recobraron la conectividad, manteniéndose el acceso regulado según las necesidades. En tanto, se realizó abastecimiento de agua potable mediante camión aljibe, con una autonomía estimada de 15 a 20 días, mientras se restablece el suministro normal.</span></p><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Atacama, la Dirección Regional del SENAPRED <strong>mantiene Alerta Amarilla por crecida para la comuna de Tierra Amarilla, </strong>que se mantiene vigente desde el 15 de noviembre y hasta que las condiciones del evento así lo ameriten.</span></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">Con la Alerta Amarilla se alistarán escalonadamente los recursos necesarios para intervenir de acuerdo con la evolución del evento, con el objeto de minimizar los efectos negativos en las personas, sus bienes y el medio ambiente.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "997a6e42-4420-4e43-8dc5-ca7e4adc9257"
+}
