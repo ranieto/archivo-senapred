@@ -1,0 +1,20 @@
+{
+	"id": "e1f84dca-ffd6-4c0f-97f0-29f483b9c7e7",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Amarilla para las Provincia de El Loa y comunas de Antofagasta, Sierra Gorda y María Elena por calor intenso",
+	"fechaHora": "2026-11-23T18:30:00.000-03:00",
+	"createdAt": "2026-11-23T21:47:06.186Z",
+	"updatedAt": "2026-11-23T21:48:25.254Z",
+	"urlAccess": "se-declara-alerta-amarilla-para-las-comunas-de-antofagasta-sierra-gorda-y-maria-elena-por-calor-intenso-2026-11-17-19-36-44",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"97acf2d2-c2fa-4137-a81c-f475c3fa6b25"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"a\",\"comunas\":\"\",\"regiones\":\"Región de Antofagasta\",\"nombreVariable\":\"Ola Calor - Altas temperaturas\",\"nombreImg\":\"olacalor.png\"}",
+	"contenido": "<p><span style=\"color: rgb(0, 0, 0);font-size: 14px\"><strong>De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC),</strong> fue cancelado el siguiente alertamiento meteorológico para la Región de Antofagasta, debido al debilitamiento de las condiciones meteorológicas que lo originaron:</span></p><div><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Alertamiento</span></strong></span></p></td><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><strong><span style=\"color: black\">Pronóstico</span></strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Aviso A628-3</span></p></td><td><p style=\"text-align:justify\"><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">Altas   temperaturas en los sectores de pampa, precordillera occidental y   precordillera salar.</span></p></td></tr></tbody></table></div><p style=\"text-align:justify\"><br></p><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0);font-size: 14px\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Antofagasta, la Dirección Regional del SENAPRED cancela la Alerta Amarilla por calor intenso para las Provincia de El Loa y comunas de Antofagasta, Sierra Gorda y María Elena, la cual se mantuvo vigente desde el 17 de noviembre de 2026.</span></p>",
+	"tipoAlertaId": "00c5c83a-4e44-4f7e-b589-bdb0b0ddde88",
+	"variableRiesgoAlertasId": "671066e6-3871-4473-900b-210fc3127e00"
+}
