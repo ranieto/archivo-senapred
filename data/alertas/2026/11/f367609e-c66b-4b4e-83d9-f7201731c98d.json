@@ -1,0 +1,20 @@
+{
+	"id": "f367609e-c66b-4b4e-83d9-f7201731c98d",
+	"type": "Alerta",
+	"titulo": "Se declara Alerta Temprana Preventiva para la Región Metropolitana por amenaza de incendios forestales",
+	"fechaHora": "2026-11-24T13:08:08.088-03:00",
+	"createdAt": "2026-11-24T16:17:49.555Z",
+	"updatedAt": "2026-11-24T16:17:49.555Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-amenaza-de-incendios-forestales-2026-11-24-13-17-30",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": true,
+	"isDeleted": false,
+	"regionesIds": [
+		"774548fb-027b-45f3-b284-0b809b199385"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región Metropolitana de Santiago\",\"nombreVariable\":\"Incendio Forestal\",\"nombreImg\":\"incendioforestal.png\"}",
+	"contenido": "<p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">De acuerdo con el análisis técnico de CONAF, además del pronóstico de condiciones meteorológicas favorables para la ignición y propagación de incendios forestales, la Delegación Presidencial Regional Metropolitana de Santiago, en coordinación con la Dirección Regional de SENAPRED declara Alerta Temprana Preventiva Regional, por amenaza de incendios forestales, vigente a contar de hoy y hasta que las condiciones así lo ameriten.</span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\"><br></span></p><p><span style=\"font-size: 14px;color: rgb(0, 0, 0)\">La declaración de dicha alerta se constituye como un estado de reforzamiento de la vigilancia, mediante el monitoreo preciso y riguroso de las condiciones de riesgo y las respectivas vulnerabilidades asociadas a la amenaza, coordinando y activando al Sistema Nacional de Prevención y Respuesta ante Desastres con el fin de actuar oportunamente frente a eventuales situaciones de emergencia.</span></p><p></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "4bc9500f-5555-4d6a-8ce2-3eaa7382b22a"
+}
