@@ -1,0 +1,20 @@
+{
+	"id": "dfb37db5-027a-4818-94e1-aa66ab8d3881",
+	"type": "Alerta",
+	"titulo": "Se cancela Alerta Temprana Preventiva para las provincias de Magallanes, Última Esperanza y Tierra del Fuego por viento",
+	"fechaHora": "2026-11-27T11:31:04.044-03:00",
+	"createdAt": "2026-11-27T14:32:15.397Z",
+	"updatedAt": "2026-11-27T14:32:53.456Z",
+	"urlAccess": "se-declara-alerta-temprana-preventiva-para-la-region-de-magallanes-por-tormentas-electricas-2026-11-21-17-00-38",
+	"parentId": "parent",
+	"isPrincipal": true,
+	"isActive": false,
+	"isDeleted": false,
+	"regionesIds": [
+		"fae46e3c-9a9b-428f-a0f2-528dafbae2f7"
+	],
+	"metaData": "{\"provincias\":\"\",\"codigoAlertaEvento\":\"v\",\"comunas\":\"\",\"regiones\":\"Región de Magallanes y de la Antártica Chilena\",\"nombreVariable\":\"Viento - Temporal viento\",\"nombreImg\":\"viento.png\"}",
+	"contenido": "<p><span style=\"color: black;font-size: 15px\"><span style=\"color: rgb(0, 0, 0)\">De acuerdo con la información proporcionada por la Dirección Meteorológica de Chile (DMC), debido al debilitamiento de las condiciones que lo originaron ha sido cancelado el siguiente alertamiento meteorológico para la Región de Magallanes:</span></span></p><p><span style=\"font-size: 15px;color: rgb(0, 0, 0)\"><br></span></p><table><tbody><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Alertamiento</strong></span></p></td><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\"><strong>Pronóstico</strong></span></p></td></tr><tr><td><p style=\"text-align:center\"><span style=\"color: rgb(0, 0, 0)\">Aviso A642-1</span></p></td><td><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\">Viento   normal a moderado (entre 60 y 100 km/h) en cordillera austral sur, insular   central, pampa patagónica norte y pampa patagónica sur</span></p></td></tr></tbody></table><p style=\"text-align:justify\"><span style=\"color: rgb(0, 0, 0)\"><br></span></p><p style=\"text-align:justify\"><span style=\"font-size: 15px;color: rgb(0, 0, 0)\">En consideración a estos antecedentes y en coordinación con la Delegación Presidencial Regional de Magallanes, la Dirección Regional del SENAPRED <strong>cancela la Alerta Temprana Preventiva por viento para las provincias de Magallanes, Última Esperanza y Tierra del Fuego</strong>, que se mantuvo vigente desde el 21 de noviembre.</span></p>",
+	"tipoAlertaId": "a2c18198-064d-47eb-8cfb-87dc64a974c0",
+	"variableRiesgoAlertasId": "eee335b5-4fea-40b4-803e-b6ce1ed722a2"
+}
